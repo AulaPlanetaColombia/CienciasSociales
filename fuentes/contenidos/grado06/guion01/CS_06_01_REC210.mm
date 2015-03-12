@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node BACKGROUND_COLOR="#ffcc00" CREATED="1425320617937" ID="ID_1823164891" MODIFIED="1425320708072" TEXT="LA HISTORIA">
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
-<node CREATED="1425320712075" HGAP="81" ID="ID_953550553" MODIFIED="1425573012701" POSITION="right" TEXT="es importante porque permite comprender las" VSHIFT="2">
+<node CREATED="1425320712075" HGAP="81" ID="ID_953550553" MODIFIED="1425331864192" POSITION="right" TEXT="es importante porque permite comprender las" VSHIFT="2">
 <node BACKGROUND_COLOR="#00ff33" CREATED="1425326220566" HGAP="23" ID="ID_1033226532" MODIFIED="1425522231318" STYLE="bubble" TEXT="causas" VSHIFT="42">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
@@ -206,55 +206,25 @@
 <node BACKGROUND_COLOR="#ffcc99" CREATED="1425331075895" ID="ID_386279261" MODIFIED="1425521032671" STYLE="bubble" TEXT="primarias" VSHIFT="48">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node CREATED="1425331106035" HGAP="17" ID="ID_375774485" MODIFIED="1425573587834" STYLE="fork" TEXT="como" VSHIFT="-7">
+<node CREATED="1425331106035" HGAP="17" ID="ID_375774485" MODIFIED="1425331820644" STYLE="fork" TEXT="como" VSHIFT="-7">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<icon BUILTIN="idea"/>
-<node BACKGROUND_COLOR="#ccffcc" CREATED="1425331136136" HGAP="21" ID="ID_832229087" MODIFIED="1425522024487" STYLE="bubble" TEXT="objetos" VSHIFT="20">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<node BACKGROUND_COLOR="#ccffcc" CREATED="1426185513864" ID="ID_1009877602" MODIFIED="1426185767598" STYLE="bubble" TEXT="objetos, edificios y textos en forma original">
 <font NAME="SansSerif" SIZE="14"/>
-<node CREATED="1425332033821" HGAP="115" ID="ID_474281536" MODIFIED="1425522339324" STYLE="fork" TEXT="interpretados por los" VSHIFT="-7">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1425332154550" HGAP="39" ID="ID_1249556217" MODIFIED="1425332871805" STYLE="bubble" TEXT="Historiadores" VSHIFT="11">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-</node>
-</node>
-<node BACKGROUND_COLOR="#ccffcc" CREATED="1425331141150" HGAP="19" ID="ID_794034029" MODIFIED="1425522028512" STYLE="bubble" TEXT="edificios" VSHIFT="-8">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-<node CREATED="1425332047272" HGAP="112" ID="ID_926597262" MODIFIED="1425522112604" STYLE="fork" TEXT="interpretados por los" VSHIFT="-7">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1425332169070" HGAP="40" ID="ID_1592226681" MODIFIED="1425522124316" STYLE="bubble" TEXT="historiadores" VSHIFT="11">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-</node>
-</node>
-<node BACKGROUND_COLOR="#ccffcc" CREATED="1425331143838" HGAP="19" ID="ID_1720553570" MODIFIED="1425522033418" STYLE="bubble" TEXT="textos en forma original" VSHIFT="-5">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-<node CREATED="1425332059998" HGAP="13" ID="ID_377104753" MODIFIED="1425522120560" STYLE="fork" TEXT="interpretados por los" VSHIFT="-7">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1425332178377" HGAP="38" ID="ID_692430055" MODIFIED="1425522134715" STYLE="bubble" TEXT="historiadores" VSHIFT="11">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-</node>
 </node>
 </node>
 </node>
 <node BACKGROUND_COLOR="#ffcc99" CREATED="1425331079563" ID="ID_386056428" MODIFIED="1425521045391" STYLE="bubble" TEXT="secundarias" VSHIFT="17">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node CREATED="1425331176312" HGAP="89" ID="ID_1532332335" MODIFIED="1425573541741" STYLE="fork" TEXT="como" VSHIFT="-7">
+<node CREATED="1425331176312" HGAP="89" ID="ID_1532332335" MODIFIED="1425331829661" STYLE="fork" TEXT="como" VSHIFT="-7">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<icon BUILTIN="idea"/>
-<node CREATED="1425573447769" ID="ID_417147871" MODIFIED="1425573493465" TEXT="dibujos, mapas, libros, art&#xed;culos, cient&#xed;ficos"/>
+<node BACKGROUND_COLOR="#ccffcc" CREATED="1425331180161" HGAP="24" ID="ID_555139556" MODIFIED="1426185577250" STYLE="bubble" TEXT="dibujos, mapas, libros, art&#xed;culos cient&#xed;ficos, audiovisuales, leyendas y mitos" VSHIFT="36">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
 </node>
-<node CREATED="1425573172389" ID="ID_390856515" MODIFIED="1425573191383" TEXT="Estudia con la informaci&#xf3;n de las"/>
+</node>
 </node>
 </node>
 </node>
@@ -281,35 +251,7 @@
 <font NAME="SansSerif" SIZE="14"/>
 <node CREATED="1425332992079" HGAP="21" ID="ID_618342540" MODIFIED="1425333351824" STYLE="fork" TEXT="como la" VSHIFT="-7">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<node BACKGROUND_COLOR="#ffff66" CREATED="1425332999904" ID="ID_346911501" MODIFIED="1425521942904" STYLE="bubble" TEXT="sociolog&#xed;a">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node BACKGROUND_COLOR="#ffff66" CREATED="1425333005938" ID="ID_1975070711" MODIFIED="1425521947108" STYLE="bubble" TEXT="econom&#xed;a">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node BACKGROUND_COLOR="#ffff66" CREATED="1425333011024" ID="ID_1589266720" MODIFIED="1425521951436" STYLE="bubble" TEXT="cronolog&#xed;a">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node BACKGROUND_COLOR="#ffff66" CREATED="1425333016788" ID="ID_1748323070" MODIFIED="1425521957043" STYLE="bubble" TEXT="pol&#xed;tica">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node BACKGROUND_COLOR="#ffff66" CREATED="1425333021895" ID="ID_970385213" MODIFIED="1425521964537" STYLE="bubble" TEXT="geograf&#xed;a">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node BACKGROUND_COLOR="#ffff66" CREATED="1425333029194" ID="ID_1128318697" MODIFIED="1425521967834" STYLE="bubble" TEXT="arqueolog&#xed;a">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node BACKGROUND_COLOR="#ffff66" CREATED="1425333035867" ID="ID_158741224" MODIFIED="1425521970678" STYLE="bubble" TEXT="filosof&#xed;a">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
-<node BACKGROUND_COLOR="#ffff66" CREATED="1425333043199" ID="ID_222563080" MODIFIED="1425521980926" STYLE="bubble" TEXT="ling&#xfc;&#xed;stica">
+<node BACKGROUND_COLOR="#ffff66" CREATED="1425332999904" ID="ID_346911501" MODIFIED="1426185376819" STYLE="bubble" TEXT="sociolog&#xed;a, econom&#xed;a, cronolog&#xed;a, pol&#xed;tica, geograf&#xed;a, arqueolog&#xed;a, filosof&#xed;a y ling&#xfc;&#xed;stica">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
