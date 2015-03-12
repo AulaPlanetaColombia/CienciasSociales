@@ -1,0 +1,151 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1426049078111" ID="ID_201460131" MODIFIED="1426049156095" TEXT="MULTICULTURALISMO">
+<node CREATED="1426049094628" ID="ID_1269161354" MODIFIED="1426049213082" POSITION="right" TEXT="implica ">
+<node CREATED="1426049215417" ID="ID_150907954" MODIFIED="1426050478984" TEXT="DIVERSIDAD DE CULTURAS ">
+<node CREATED="1426049231696" ID="ID_1254868041" MODIFIED="1426050824236" TEXT="pueden">
+<node CREATED="1426049285953" ID="ID_1763815528" MODIFIED="1426049974585" TEXT="INTEGRARSE">
+<node CREATED="1426049379126" ID="ID_451699115" MODIFIED="1426049993577" TEXT="generando">
+<node CREATED="1426049396902" ID="ID_1702085610" MODIFIED="1426049401232" TEXT="ASIMILACI&#xd2;N">
+<node CREATED="1426049401233" ID="ID_1951573749" MODIFIED="1426049409366" TEXT="implica ">
+<node CREATED="1426049409367" ID="ID_1870479801" MODIFIED="1426049423547" TEXT="ADOPCI&#xd3;N DE VALORES"/>
+</node>
+</node>
+<node CREATED="1426049427465" ID="ID_1625106643" MODIFIED="1426049437221" TEXT="MELTING POT">
+<node CREATED="1426049437222" ID="ID_1624739419" MODIFIED="1426049448876" TEXT="supone">
+<node CREATED="1426049448877" ID="ID_840262128" MODIFIED="1426049459716" TEXT="NUEVAS PAUTAS CULTURALES"/>
+</node>
+</node>
+<node CREATED="1426049478508" ID="ID_89371811" MODIFIED="1426049490096" TEXT="PLURALISMO">
+<node CREATED="1426049490097" ID="ID_1462553223" MODIFIED="1426049500829" TEXT="comprende">
+<node CREATED="1426049500829" ID="ID_650845574" MODIFIED="1426049530017" TEXT="RECONOCIMIENTO IGUALITARIO"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1426049920072" ID="ID_488742084" MODIFIED="1426050896991" TEXT="SEGREGAGARSE">
+<node CREATED="1426049996301" ID="ID_1807169178" MODIFIED="1426050002099" TEXT="generando">
+<node CREATED="1426050002099" ID="ID_1116446397" MODIFIED="1426050007648" TEXT="RACISMO"/>
+<node CREATED="1426050026987" ID="ID_1979808523" MODIFIED="1426050033081" TEXT="XENOFOBIA"/>
+</node>
+</node>
+</node>
+<node CREATED="1426050927494" ID="ID_1461929982" MODIFIED="1426050927494" TEXT="">
+<node CREATED="1426051013838" ID="ID_671930979" MODIFIED="1426051013838">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: justify" class="MsoNormal">
+      <span style="font-size: 11.0pt; font-family: Times New Roman" lang="ES"><font face="Times New Roman" size="11.0pt">defendida</font></span>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1426051016564" ID="ID_85192463" MODIFIED="1426051016564" TEXT="">
+<node CREATED="1426051040026" ID="ID_706228423" MODIFIED="1426051040026">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: justify" class="MsoNormal">
+      <span style="font-size: 11.0pt; font-family: Times New Roman" lang="ES"><font face="Times New Roman" size="11.0pt">DEFENSORES DE DERECHOS HUMANOS</font></span>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1426051045398" ID="ID_1811825117" MODIFIED="1426051045398" TEXT="">
+<node CREATED="1426051070027" ID="ID_134593259" MODIFIED="1426051070027">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: justify" class="MsoNormal">
+      <span style="font-size: 11.0pt; font-family: Times New Roman" lang="ES"><font face="Times New Roman" size="11.0pt">ejemplos</font></span>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1426051073950" ID="ID_396528208" MODIFIED="1426051073950" TEXT="">
+<node CREATED="1426051295778" MODIFIED="1426051295778">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: justify" class="MsoNormal">
+      <span style="font-size: 11.0pt; font-family: Times New Roman" lang="ES"><font face="Times New Roman" size="11.0pt">RIGOBERTA MENCH&#218;</font></span>
+    </p>
+    <p style="text-align: justify" class="MsoNormal">
+      <span style="font-size: 11.0pt; font-family: Times New Roman" lang="ES"><font face="Times New Roman" size="11.0pt">MARTIN LUTHER KING</font></span>
+    </p>
+    <p style="text-align: justify" class="MsoNormal">
+      <span style="font-size: 11.0pt; font-family: Times New Roman" lang="ES"><font face="Times New Roman" size="11.0pt">MAHATMA GANDHI</font></span>
+    </p>
+    <p style="text-align: justify" class="MsoNormal">
+      <span style="font-size: 11.0pt; font-family: Times New Roman" lang="ES"><font face="Times New Roman" size="11.0pt">NELSON MANDELA</font></span>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1426049551849" ID="ID_1469918666" MODIFIED="1426050488926" POSITION="right" TEXT="a nivel ">
+<node CREATED="1426049572064" ID="ID_631773273" MODIFIED="1426049582436" TEXT="MUNDIAL">
+<node CREATED="1426049582437" ID="ID_416358955" MODIFIED="1426049600132" TEXT="se evidencia ">
+<node CREATED="1426049600133" ID="ID_1370967426" MODIFIED="1426049611832" TEXT="HERENCIAS M&#xda;LTIPLES">
+<node CREATED="1426049611833" ID="ID_1237297513" MODIFIED="1426049641071" TEXT="en el caso">
+<node CREATED="1426049641072" ID="ID_664718614" MODIFIED="1426049646460" TEXT="CULTURA OCCIDENTAL">
+<node CREATED="1426049646460" ID="ID_786835557" MODIFIED="1426049655145" TEXT="tres legados ">
+<node CREATED="1426049655146" ID="ID_1279576597" MODIFIED="1426049700100" TEXT="CULTURA GERMANICA">
+<node CREATED="1426049663189" ID="ID_38620464" MODIFIED="1426049671885" TEXT="hizo posible">
+<node CREATED="1426049671885" ID="ID_1230010011" MODIFIED="1426049697948" TEXT="EFICACIA PRACTICA"/>
+</node>
+</node>
+<node CREATED="1426049704297" ID="ID_156889639" MODIFIED="1426049789697" TEXT="CULTURA GRECO - ROMANA">
+<node CREATED="1426049715450" ID="ID_851848956" MODIFIED="1426049722634" TEXT="permiti&#xf3;">
+<node CREATED="1426049722634" ID="ID_265480648" MODIFIED="1426049788791" TEXT="ORGANIZACI&#xd3;N POL&#xcc;TICA"/>
+</node>
+</node>
+<node CREATED="1426049794746" ID="ID_1351535110" MODIFIED="1426049804399" TEXT="CULTURA HEBREO - CRISTIANA ">
+<node CREATED="1426049804399" ID="ID_1430508120" MODIFIED="1426049872338" TEXT="moldeo">
+<node CREATED="1426049872339" ID="ID_1716941599" MODIFIED="1426049879791" TEXT="MORAL"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1426050043777" ID="ID_509355957" MODIFIED="1426050051899" TEXT="COLOMBIA">
+<node CREATED="1426050051900" ID="ID_773590224" MODIFIED="1426050072812" TEXT="se expresa">
+<node CREATED="1426050072813" ID="ID_106122323" MODIFIED="1426050089543" TEXT="DISTINTAS &#xc9;TNIAS">
+<node CREATED="1426050089544" ID="ID_1118845306" MODIFIED="1426050174625" TEXT="tales como">
+<node CREATED="1426050130705" ID="ID_1456268976" MODIFIED="1426050204501" TEXT="INDIGENAS, AFRODESCENDIENTES, ESPA&#xd1;OLES">
+<node CREATED="1426050207092" ID="ID_899546763" MODIFIED="1426051210991" TEXT="gestando">
+<node CREATED="1426050213866" ID="ID_810494641" MODIFIED="1426050230672" TEXT="NACI&#xd3;N PLURICUTURAL">
+<node CREATED="1426050230673" ID="ID_973174742" MODIFIED="1426051485375" TEXT="reconocida">
+<node CREATED="1426050239842" ID="ID_955789605" MODIFIED="1426051487151" TEXT="CONTITUCI&#xd3;N POLITICA 1991"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</map>
