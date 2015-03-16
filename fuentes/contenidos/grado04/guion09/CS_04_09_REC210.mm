@@ -124,22 +124,22 @@
 <font NAME="SansSerif" SIZE="14"/>
 <node CREATED="1425263778102" HGAP="21" ID="ID_857896981" MODIFIED="1425265288424" STYLE="fork" TEXT="hay cinco" VSHIFT="-7">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<node BACKGROUND_COLOR="#ffff66" CREATED="1425263801832" ID="ID_185099797" MODIFIED="1425265202930" STYLE="bubble" TEXT="Bogot&#xe1; Distrito Capital">
+<node BACKGROUND_COLOR="#ffff66" CREATED="1425263801832" ID="ID_185099797" MODIFIED="1426531420340" STYLE="bubble" TEXT="Bogot&#xe1;, Distrito Capital">
 <font NAME="SansSerif" SIZE="14"/>
 </node>
-<node BACKGROUND_COLOR="#ffff66" CREATED="1425263811139" ID="ID_600284212" MODIFIED="1425265203970" STYLE="bubble" TEXT="Buenaventura Industrial, Portuario, Biodiverso y Ecotur&#xed;stico">
+<node BACKGROUND_COLOR="#ffff66" CREATED="1425263811139" ID="ID_600284212" MODIFIED="1426531516092" STYLE="bubble" TEXT="Buenaventura, Distrito Especial, Industrial, Portuario, Biodiverso y Ecotur&#xed;stico">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
-<node BACKGROUND_COLOR="#ffff66" CREATED="1425263862379" ID="ID_228917128" MODIFIED="1425265208393" STYLE="bubble" TEXT="Santa Marta Tur&#xed;stico, Cultural e Hist&#xf3;rico">
+<node BACKGROUND_COLOR="#ffff66" CREATED="1425263862379" ID="ID_228917128" MODIFIED="1426531438501" STYLE="bubble" TEXT="Santa Marta, Distrito Tur&#xed;stico, Cultural e Hist&#xf3;rico">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
-<node BACKGROUND_COLOR="#ffff66" CREATED="1425263882943" ID="ID_1935458052" MODIFIED="1425265108464" STYLE="bubble" TEXT="Barranquilla Industrial y Portuario">
+<node BACKGROUND_COLOR="#ffff66" CREATED="1425263882943" ID="ID_1935458052" MODIFIED="1426531498684" STYLE="bubble" TEXT="Barranquilla, Distrito Especial, Industrial y Portuario">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
-<node BACKGROUND_COLOR="#ffff66" CREATED="1425263905815" ID="ID_369829041" MODIFIED="1425265108462" STYLE="bubble" TEXT="Cartagena de Indias Distrito Tur&#xed;stico, Hist&#xf3;rico y Cultural">
+<node BACKGROUND_COLOR="#ffff66" CREATED="1425263905815" ID="ID_369829041" MODIFIED="1426531459416" STYLE="bubble" TEXT="Cartagena de Indias, Distrito Tur&#xed;stico y Cultural">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
