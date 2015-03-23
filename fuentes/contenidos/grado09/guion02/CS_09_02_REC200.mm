@@ -1,0 +1,92 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1425253684288" ID="ID_1548000269" MODIFIED="1425254230563" TEXT="El per&#xed;odo de entreguerras">
+<node CREATED="1425253689991" HGAP="324" ID="ID_418398865" MODIFIED="1425255994760" POSITION="right" STYLE="bubble" TEXT="Fascismo (1922-1945)" VSHIFT="7">
+<icon BUILTIN="forward"/>
+<node CREATED="1425254986157" ID="ID_1165523136" MODIFIED="1425255008018" STYLE="fork" TEXT="surgi&#xf3; en ">
+<node CREATED="1425255031613" ID="ID_1968041387" MODIFIED="1425255073036" STYLE="bubble" TEXT="Italia">
+<node CREATED="1425255081521" ID="ID_936615320" MODIFIED="1425255153119" STYLE="fork" TEXT="liderado por ">
+<node CREATED="1425255098593" ID="ID_1146421166" MODIFIED="1425255158916" STYLE="bubble" TEXT="Benito Mussolini">
+<node CREATED="1425255182916" ID="ID_1935085759" MODIFIED="1425255222778" STYLE="fork" TEXT="se bas&#xf3; en ">
+<node CREATED="1425255230856" ID="ID_777643359" MODIFIED="1425255293521" TEXT="estado totalitario - partido &#xfa;nico - corporativismo - militarismo - nacionalismo extremo"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1425254989157" ID="ID_821607467" MODIFIED="1425255022784" STYLE="fork" TEXT="triunf&#xf3; en">
+<node CREATED="1425255053614" ID="ID_599616651" MODIFIED="1425255073036" STYLE="bubble" TEXT="Alemania">
+<node CREATED="1425255300115" ID="ID_653088291" MODIFIED="1425255368171" STYLE="fork" TEXT="liderado por">
+<node CREATED="1425255358670" ID="ID_1299428598" MODIFIED="1425255384991" STYLE="bubble" TEXT="Adolf Hitler">
+<node CREATED="1425255388960" ID="ID_1927227835" MODIFIED="1425255785898" STYLE="bubble" TEXT="fund&#xf3; ">
+<node CREATED="1425255788929" ID="ID_1401642123" MODIFIED="1425255796586" TEXT="partido Nazi">
+<node CREATED="1425255816618" ID="ID_782740215" MODIFIED="1425255824087" TEXT="que profes&#xf3; ">
+<node CREATED="1425255827634" ID="ID_732296158" MODIFIED="1425255856542" TEXT="superioridad de la raza aria - antisemitismo"/>
+</node>
+</node>
+</node>
+<node CREATED="1425255423711" ID="ID_924276769" MODIFIED="1425255764412" TEXT="instaur&#xf3; ">
+<node CREATED="1425255436228" ID="ID_550118532" MODIFIED="1425255777757" TEXT="Tercer Reich">
+<node CREATED="1425255858355" ID="ID_75311525" MODIFIED="1425255896921" TEXT="se caracteriz&#xf3; por">
+<node CREATED="1425255900187" ID="ID_1525359953" MODIFIED="1425255947195" TEXT="estado totalitario - militarismo - nacionalismo extremo -expansionismo alem&#xe1;n"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1425254994267" ID="ID_992180000" MODIFIED="1425255029175" STYLE="fork" TEXT="amenaz&#xf3;">
+<node CREATED="1425255059817" ID="ID_603490222" MODIFIED="1425255073036" STYLE="bubble" TEXT="democracias liberales"/>
+</node>
+</node>
+<node CREATED="1425253692257" HGAP="163" ID="ID_703501679" MODIFIED="1425254298296" POSITION="left" STYLE="bubble" TEXT="Revoluci&#xf3;n rusa (1917-1921)" VSHIFT="67">
+<node CREATED="1425253871959" HGAP="17" ID="ID_1490673032" MODIFIED="1425254183874" STYLE="fork" TEXT="se enfrent&#xf3; a" VSHIFT="-50">
+<icon BUILTIN="back"/>
+<node CREATED="1425253887647" ID="ID_1481479747" MODIFIED="1425254044481" STYLE="bubble" TEXT="absolutismo del zar Nicol&#xe1;s II"/>
+</node>
+<node CREATED="1425253883428" HGAP="21" ID="ID_208912497" MODIFIED="1425254180593" STYLE="fork" TEXT="liderada por" VSHIFT="46">
+<icon BUILTIN="back"/>
+<node CREATED="1425253890506" ID="ID_299812573" MODIFIED="1425254023214" STYLE="bubble" TEXT="Lenin">
+<node CREATED="1425254076287" ID="ID_1619172734" MODIFIED="1425254157181" STYLE="fork" TEXT="establece">
+<node CREATED="1425254100388" ID="ID_463898753" MODIFIED="1425254154993" STYLE="bubble" TEXT="reparto de tierras - comit&#xe9;s obreros - NEP"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1425253694288" HGAP="-81" ID="ID_589514527" MODIFIED="1425256000471" POSITION="right" STYLE="bubble" TEXT="d&#xe9;cada de 1920" VSHIFT="119">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="forward"/>
+<node CREATED="1425254250633" ID="ID_1732872414" MODIFIED="1425254353267" STYLE="fork" TEXT="se caracteriz&#xf3; por">
+<node CREATED="1425254319438" ID="ID_1508681057" MODIFIED="1425254387332" STYLE="bubble" TEXT="crecimiento econ&#xf3;mico">
+<node CREATED="1425254411578" ID="ID_443768703" MODIFIED="1425254425047" STYLE="fork" TEXT="posterior a ">
+<node CREATED="1425254420703" ID="ID_991168491" MODIFIED="1425254463221" STYLE="bubble" TEXT="primera guerra mundial">
+<node CREATED="1425254747978" ID="ID_946021199" MODIFIED="1425254758041" STYLE="fork" TEXT="basado en ">
+<node CREATED="1425254761745" ID="ID_160525973" MODIFIED="1425254799408" STYLE="bubble" TEXT="producci&#xf3;n en cadena y consumismo">
+<node CREATED="1425254786407" ID="ID_404168828" MODIFIED="1425254827490" STYLE="fork" TEXT="a partir del">
+<node CREATED="1425254830272" ID="ID_1284148586" MODIFIED="1425254873336" STYLE="bubble" TEXT="endeudamiento privado"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1425254254164" ID="ID_1495032740" MODIFIED="1425254504754" STYLE="fork" TEXT="finaliz&#xf3; con">
+<node CREATED="1425254331501" ID="ID_372572676" MODIFIED="1425254539537" STYLE="bubble" TEXT="crack de 1929 (Nueva York)">
+<node CREATED="1425254544381" ID="ID_926511476" MODIFIED="1425254569835" STYLE="fork" TEXT="provocado por">
+<node CREATED="1425254574133" ID="ID_898329580" MODIFIED="1425254631745" STYLE="bubble" TEXT="- especulaci&#xf3;n burs&#xe1;til - ca&#xed;da de precios -acumulaci&#xf3;n de mercanc&#xed;as">
+<node CREATED="1425254652356" ID="ID_308351744" MODIFIED="1425254669263" STYLE="fork" TEXT="lleva a ">
+<node CREATED="1425254688225" ID="ID_1885215462" MODIFIED="1425254714477" STYLE="bubble" TEXT="la Gran Depresi&#xf3;n">
+<node CREATED="1425254892822" ID="ID_1144382949" MODIFIED="1425254912432" STYLE="fork" TEXT="provoca">
+<node CREATED="1425254903088" ID="ID_1965041965" MODIFIED="1425254956238" STYLE="bubble" TEXT="quiebra de empresas - aumento del paro - descenso del consumo"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</map>
