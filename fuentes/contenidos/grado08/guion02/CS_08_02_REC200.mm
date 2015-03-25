@@ -1,0 +1,113 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1426799836473" ID="ID_756008836" MODIFIED="1427296731091" STYLE="fork" TEXT="INDEPENDENCIA DE AM&#xc9;RICA LATINA (1811-1824)">
+<edge STYLE="bezier"/>
+<font NAME="Garamond" SIZE="20"/>
+<node COLOR="#0033ff" CREATED="1426800084137" HGAP="-14" ID="ID_675472969" MODIFIED="1427297178945" POSITION="right" TEXT="favorecida por" VSHIFT="121">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="Garamond" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1426800477411" HGAP="289" ID="ID_1799924596" MODIFIED="1427297635351" STYLE="bubble" TEXT="crisis modelo colonial" VSHIFT="3166">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#990000" CREATED="1426800487147" ID="ID_1813142929" MODIFIED="1426804392865" STYLE="fork" TEXT="como">
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#111111" CREATED="1426800494587" HGAP="67" ID="ID_32666721" MODIFIED="1427297356230" STYLE="bubble" TEXT="aparici&#xf3;n" VSHIFT="54">
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#111111" CREATED="1426800505002" HGAP="18" ID="ID_1275791870" MODIFIED="1426804724514" STYLE="fork" TEXT="de" VSHIFT="-46">
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#111111" CREATED="1426800512283" HGAP="21" ID="ID_831222376" MODIFIED="1426804373137" STYLE="bubble" TEXT="Grupos de poder local" VSHIFT="-41">
+<font NAME="Garamond" SIZE="16"/>
+</node>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1426800524314" HGAP="67" ID="ID_1222081761" MODIFIED="1427297359542" STYLE="bubble" TEXT="caos administrativo" VSHIFT="-1">
+<font NAME="Garamond" SIZE="16"/>
+</node>
+<node COLOR="#111111" CREATED="1426800534410" HGAP="68" ID="ID_776045597" MODIFIED="1427297366652" STYLE="bubble" TEXT="agotamiento" VSHIFT="-101">
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#111111" CREATED="1426800543219" HGAP="17" ID="ID_803126791" MODIFIED="1427297367840" STYLE="fork" TEXT="de" VSHIFT="25">
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#111111" CREATED="1426800551026" HGAP="17" ID="ID_957138234" MODIFIED="1427297373855" STYLE="bubble" TEXT="explotaci&#xf3;n econ&#xf3;mica" VSHIFT="31">
+<font NAME="Garamond" SIZE="16"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1426800565715" HGAP="398" ID="ID_1967817213" MODIFIED="1427297335755" STYLE="bubble" TEXT="influencias ideol&#xf3;gicas" VSHIFT="392">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#990000" CREATED="1426800575466" HGAP="65" ID="ID_145132249" MODIFIED="1426804340841" STYLE="fork" TEXT="de" VSHIFT="-7">
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#111111" CREATED="1426800582187" HGAP="67" ID="ID_818259880" MODIFIED="1427297165909" STYLE="bubble" TEXT="ilustraci&#xf3;n" VSHIFT="-3">
+<font NAME="Garamond" SIZE="16"/>
+</node>
+<node COLOR="#111111" CREATED="1426800590026" HGAP="66" ID="ID_1913183812" MODIFIED="1427297151893" STYLE="bubble" TEXT="revoluci&#xf3;n francesa" VSHIFT="20">
+<font NAME="Garamond" SIZE="16"/>
+</node>
+<node COLOR="#111111" CREATED="1426800600019" HGAP="62" ID="ID_1413663727" MODIFIED="1427297157737" STYLE="bubble" TEXT="rebeli&#xf3;n de esclavos (Hait&#xed;)" VSHIFT="23">
+<font NAME="Garamond" SIZE="16"/>
+</node>
+<node COLOR="#111111" CREATED="1426800619243" HGAP="67" ID="ID_1318880202" MODIFIED="1427297162456" STYLE="bubble" TEXT="independencia de los Estados Unidos" VSHIFT="13">
+<font NAME="Garamond" SIZE="16"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1426802429811" HGAP="185" ID="ID_1663085688" MODIFIED="1427297325755" STYLE="bubble" TEXT="invasi&#xf3;n napole&#xf3;nica en Espa&#xf1;a (1808)" VSHIFT="-2922">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#990000" CREATED="1426802484874" HGAP="78" ID="ID_206195731" MODIFIED="1427296931820" STYLE="fork" TEXT="debilit&#xf3;" VSHIFT="388">
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#111111" CREATED="1426802504962" HGAP="105" ID="ID_211242858" MODIFIED="1427297193931" STYLE="bubble" TEXT="control colonial" VSHIFT="13">
+<font NAME="Garamond" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1426802525802" HGAP="72" ID="ID_1026723645" MODIFIED="1427296938137" STYLE="fork" TEXT="Permiti&#xf3; eclosi&#xf3;n de" VSHIFT="-414">
+<font NAME="Garamond" SIZE="16"/>
+<node CREATED="1427296983018" HGAP="19" ID="ID_785936554" MODIFIED="1427297028122" STYLE="bubble" TEXT="movimientos independentistas" VSHIFT="13"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1426800088034" HGAP="-31" ID="ID_327110469" MODIFIED="1427300202259" POSITION="left" TEXT="naci&#xf3; del" VSHIFT="130">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="Garamond" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1426800163028" HGAP="3" ID="ID_1795440104" MODIFIED="1427300191880" STYLE="bubble" TEXT="deseo de independencia" VSHIFT="55">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#990000" CREATED="1426800216930" HGAP="73" ID="ID_940969703" MODIFIED="1427300208103" STYLE="fork" TEXT="provoca" VSHIFT="157">
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#111111" CREATED="1426800241610" HGAP="17" ID="ID_1369840293" MODIFIED="1426804288512" STYLE="bubble" TEXT="Rebeliones" VSHIFT="36">
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#111111" CREATED="1426800291210" ID="ID_914992371" MODIFIED="1427300213010" STYLE="fork" TEXT="impulsadas por">
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#111111" CREATED="1426800302828" HGAP="75" ID="ID_728682605" MODIFIED="1426804327456" STYLE="bubble" TEXT="Sim&#xf3;n Bol&#xed;var" VSHIFT="26">
+<font NAME="Garamond" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1426800315435" HGAP="61" ID="ID_318927537" MODIFIED="1427300218229" STYLE="fork" TEXT="protagonizadas por" VSHIFT="14">
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#111111" CREATED="1426800330738" HGAP="37" ID="ID_1794684536" MODIFIED="1427300225795" STYLE="bubble" TEXT="riollos" VSHIFT="28">
+<font NAME="Garamond" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1426800339875" HGAP="92" ID="ID_1919077073" MODIFIED="1426804724521" STYLE="fork" TEXT="Contra" VSHIFT="-99">
+<font NAME="Garamond" SIZE="14"/>
+<node COLOR="#111111" CREATED="1426800349026" HGAP="47" ID="ID_1519570386" MODIFIED="1426804312176" STYLE="bubble" TEXT="Espa&#xf1;a" VSHIFT="30">
+<font NAME="Garamond" SIZE="16"/>
+</node>
+<node COLOR="#111111" CREATED="1426800354315" HGAP="46" ID="ID_1755762593" MODIFIED="1426804317112" STYLE="bubble" TEXT="Portugal" VSHIFT="34">
+<font NAME="Garamond" SIZE="16"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1426800372637" HGAP="47" ID="ID_65450033" MODIFIED="1427300183585" STYLE="fork" TEXT="surgieron" VSHIFT="-273">
+<font NAME="Garamond" SIZE="16"/>
+<node COLOR="#111111" CREATED="1426800380186" HGAP="83" ID="ID_754762029" MODIFIED="1427300195724" STYLE="bubble" TEXT="movimientos independentistas" VSHIFT="97">
+<font NAME="Garamond" SIZE="16"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</map>
