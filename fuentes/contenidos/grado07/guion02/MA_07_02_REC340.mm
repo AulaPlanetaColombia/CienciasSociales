@@ -123,7 +123,7 @@
 <node CREATED="1427734708599" ID="ID_413648449" MODIFIED="1427734721897" STYLE="fork" TEXT="se construyen">
 <node CREATED="1427734723771" ID="ID_709689276" MODIFIED="1427734760490" STYLE="bubble" TEXT="- catedrales&#xa;- palacios&#xa;- hospitales">
 <node CREATED="1427734769144" ID="ID_1963427208" MODIFIED="1427734785564" STYLE="fork" TEXT="reconocible por">
-<node CREATED="1427734787788" ID="ID_704701702" MODIFIED="1427734861713" STYLE="bubble" TEXT="- arco apuntalado&#xa;- b&#xf3;beda crucer&#xed;a&#xa;- contrafuertes&#xa;- pin&#xe1;culos&#xa;- arbotantes&#xa;- vidrier&#xed;as"/>
+<node CREATED="1427734787788" ID="ID_704701702" MODIFIED="1428284598320" STYLE="bubble" TEXT="- arco apuntalado&#xa;- b&#xf3;veda crucer&#xed;a&#xa;- contrafuertes&#xa;- pin&#xe1;culos&#xa;- arbotantes&#xa;- vidrier&#xed;as"/>
 </node>
 </node>
 </node>
@@ -139,7 +139,7 @@
 </node>
 <node CREATED="1427735037599" ID="ID_464891799" MODIFIED="1427735043765" TEXT="pintura">
 <node CREATED="1427734905465" ID="ID_830923852" MODIFIED="1427734926896" STYLE="fork" TEXT="manifestada en">
-<node CREATED="1427734928802" ID="ID_1798656458" MODIFIED="1427735118125" STYLE="bubble" TEXT="- retableso&#xa;- tablas&#xa;- miniaturas&#xa;- vidrieras&#xa;- murales&#xa;">
+<node CREATED="1427734928802" ID="ID_1798656458" MODIFIED="1428284688450" STYLE="bubble" TEXT="- retablos&#xa;- tablas&#xa;- miniaturas&#xa;- vidrieras&#xa;- murales&#xa;">
 <node CREATED="1427734973962" ID="ID_1937315825" MODIFIED="1427734985237" STYLE="fork" TEXT="destaca por">
 <node CREATED="1427734989604" ID="ID_57892046" MODIFIED="1427735196860" STYLE="bubble" TEXT="- tema religioso&#xa;- tema profano&#xa;- paisajes&#xa;- espacios figurativos&#xa;&#xa;"/>
 </node>
