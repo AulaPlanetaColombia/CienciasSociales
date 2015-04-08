@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="8" clase="a" aprid="M8a">
+  <enunciado>Observa las imágenes y responde a las preguntas.</enunciado>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado>¿Qué tipo de resto arqueológico es este ejército de terracota?</enunciado>
+      <imagen><![CDATA[000a0601_286.png]]></imagen>
+      <ampliacion><![CDATA[000a0601_500.png]]></ampliacion>
+      <explicacion>Entre los artefactos que pueden encontrarse en un yacimiento, se hallan las piezas de arte como el ejército de más de 7.000 guerreros de terracota que protege el mausoleo del emperador Qin Shihuangdi (221-206 a.C.), al este de Xi´an (Lindong, China).</explicacion>
+      <respuestas>
+        <respuesta contestacion="Artefacto" correcta="on" />
+        <respuesta contestacion="Fósil" correcta="0" />
+        <respuesta contestacion="Restos humanos" correcta="0" />
+        <respuesta contestacion="Pecio" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué tipo de resto arqueológico son las puntas de sílex y de hueso?</enunciado>
+      <imagen><![CDATA[000g9c01_50.png]]></imagen>
+      <ampliacion><![CDATA[000g9c01_50.png]]></ampliacion>
+      <explicacion>Uno de los artefactos más habituales en los yacimientos prehistóricos son las puntas de sílex. El estudio de estas herramientas permite a los arqueólogos conocer cómo las fabricaban, qué materiales utilizaban y qué uso le dieron los hombres y mujeres que las crearon.</explicacion>
+      <respuestas>
+        <respuesta contestacion="Pecio" correcta="0" />
+        <respuesta contestacion="Fósil" correcta="0" />
+        <respuesta contestacion="Estrato" correcta="0" />
+        <respuesta contestacion="Artefacto" correcta="on" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué tipo de resto arqueológico representa este cangrejo?</enunciado>
+      <imagen><![CDATA[0009w901_50.png]]></imagen>
+      <ampliacion><![CDATA[0009w901_50.png]]></ampliacion>
+      <explicacion>Los fósiles son los restos de animales y otros seres vivos que vivieron hace miles de años y que se han conservado en forma de rocas sedimentarias, como este cangrejo del oligoceno (entre 24 y 36 millones de años).</explicacion>
+      <respuestas>
+        <respuesta contestacion="Fósil" correcta="on" />
+        <respuesta contestacion="Pecio" correcta="0" />
+        <respuesta contestacion="Yacimiento" correcta="0" />
+        <respuesta contestacion="Artefacto" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué tipo de resto arqueológico es esta necrópolis?</enunciado>
+      <imagen><![CDATA[0013pz01_50.png]]></imagen>
+      <ampliacion><![CDATA[0013pz01_50.png]]></ampliacion>
+      <explicacion>Las necrópolis, como esta de Carmona (Sevilla), son cementerios. Estos yacimientos aportan mucha información sobre la época en la que se construyeron. En estos lugares suelen encontrarse restos humanos y objetos diversos que eran depositados para honrar al difunto.</explicacion>
+      <respuestas>
+        <respuesta contestacion="Yacimiento" correcta="on" />
+        <respuesta contestacion="Pecio" correcta="0" />
+        <respuesta contestacion="Fósil" correcta="0" />
+        <respuesta contestacion="Restos humanos" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué tipo de resto arqueológico es este sarcófago egipcio?</enunciado>
+      <imagen><![CDATA[000jd501_50.png]]></imagen>
+      <ampliacion><![CDATA[000jd501_50.png]]></ampliacion>
+      <explicacion>En Egipto, los faraones y miembros de las clases poderosas eran momificados; al morir, sus momias eran depositadas en un sarcófago que solía estar ricamente decorado y reproducía la figura idealizada de la persona que acogía, como en el caso de Marco Antinoo, que vivió en el siglo II.</explicacion>
+      <respuestas>
+        <respuesta contestacion="Artefacto" correcta="on" />
+        <respuesta contestacion="Fósil" correcta="0" />
+        <respuesta contestacion="Pecio" correcta="0" />
+        <respuesta contestacion="Yacimiento" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué tipo de resto arqueológico es esta pieza de cerámica?</enunciado>
+      <imagen><![CDATA[000i0q01_50.png]]></imagen>
+      <ampliacion><![CDATA[000i0q01_50.png]]></ampliacion>
+      <explicacion>La cerámica fue inventada en el neolítico. Se utilizó para fabricar recipientes usados para transportar, almacenar y cocinar los alimentos. Civilizaciones como la griega hicieron de sus piezas de cerámica auténticas obras de arte, como demuestra esta ánfora minoica.</explicacion>
+      <respuestas>
+        <respuesta contestacion="Yacimiento" correcta="0" />
+        <respuesta contestacion="Artefacto" correcta="on" />
+        <respuesta contestacion="Fósil" correcta="0" />
+        <respuesta contestacion="Pecio" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué tipo de resto arqueológico es este hueso?</enunciado>
+      <imagen><![CDATA[00087h01_50.png]]></imagen>
+      <ampliacion><![CDATA[00087h01_50.png]]></ampliacion>
+      <explicacion>Los restos orgánicos, ya sean humanos, animales o vegetales, que se encuentran en una excavación arqueológica son llevados al laboratorio donde se analizan. Gracias a ellos se puede obtener mucha información sobre las sociedades del pasado (dieta, enfermedades, lesiones, etc.).</explicacion>
+      <respuestas>
+        <respuesta contestacion="Yacimiento" correcta="0" />
+        <respuesta contestacion="Estrato" correcta="0" />
+        <respuesta contestacion="Restos humanos" correcta="on" />
+        <respuesta contestacion="Fósil" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué tipo de resto arqueológico está explorando este submarinista?</enunciado>
+      <imagen><![CDATA[00286o01_50.png]]></imagen>
+      <ampliacion><![CDATA[00286o01_50.png]]></ampliacion>
+      <explicacion>Se llama pecio a los restos de un artefacto o nave fabricada por los humanos y hundido total o parcialmente en el agua. La arqueología submarina es la encargada de estudiar estos restos.</explicacion>
+      <respuestas>
+        <respuesta contestacion="Pecio" correcta="on" />
+        <respuesta contestacion="Yacimiento" correcta="0" />
+        <respuesta contestacion="Estrato" correcta="0" />
+        <respuesta contestacion="Fósil" correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Reconoce tipos de restos arqueológicos</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[3]]></nivel>
+    <referencia><![CDATA[ms_3c_06_06]]></referencia>
+    <id_reg><![CDATA[74]]></id_reg>
+    <motor><![CDATA[M8a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

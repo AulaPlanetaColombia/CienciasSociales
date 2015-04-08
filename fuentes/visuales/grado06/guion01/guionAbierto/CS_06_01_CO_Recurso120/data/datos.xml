@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<diaporama autoplay="false" diapoDefaultTimeOut="5000" effectDefaultTimeOut="1000" textDefaultTimeOut="500" toolbarAlign="LeftBottom" toolbarColor="White" toolbarCounter="false" toolbarCounterColor="White" toolbarMargin="40,40,40,40" fotoMargin="0,0,0,0" textMargin="40,40,40,80" aprid="diaporama">
+  <diapo foto="fondo.jpg">
+    <texto type="Georgia" size="50" style="Normal" color="White" align="CenterCenter" effectTimeOut="1500">Una imagen vale más#que mil palabras.</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">¿Qué son las fuentes#audiovisuales?</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Fotografías:#testigos de la historia. </texto>
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="01-000G8U01.jpg">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Asalto al palacio de Invierno#(San Petersburgo, 1917)</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="02-001NAW01.jpg">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Discurso de Lenin#(plaza Roja de Moscú, 1919)</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="03-000EJ901.jpg">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Muro de Berlín y puerta de Brandenburgo#(Berlín, 1961)</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Discursos:#palabras de grandes personajes.</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="000M8M01.jpg" audio="AU000761.mp3" diapoTimeOut="9390">
+    <texto type="Verdana" size="30" style="Normal" color="Black" align="LeftTop" effect="fadein" effectTimeOut="1500">Martin Luther King#Washington, 1963</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Cine:#recreaciones del pasado.</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="06-0007HO01.jpg">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Ben-Hur (1959)</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="07-000MBH01.jpg">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">El gatopardo (1963)</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="08-001FLH01.jpg">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="RightTop" effect="fadein" effectTimeOut="1500">La Regenta (1995)</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="09-0007M101.jpg">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="RightTop" effect="fadein" effectTimeOut="1500">Gandhi#(1982)</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Televisión:#historia en directo.</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="penultima.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="ultima.jpg" diapoTimeOut="50">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+</diaporama>

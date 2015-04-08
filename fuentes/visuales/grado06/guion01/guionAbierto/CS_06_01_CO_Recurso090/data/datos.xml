@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<diaporama autoplay="false" diapoDefaultTimeOut="5000" effectDefaultTimeOut="1000" textDefaultTimeOut="500" toolbarAlign="LeftBottom" toolbarColor="White" toolbarCounter="false" toolbarCounterColor="White" toolbarMargin="40,40,40,40" fotoMargin="0,0,0,0" textMargin="40,40,40,80" aprid="diaporama">
+  <diapo foto="fondo.jpg">
+    <texto type="Georgia" size="50" style="Normal" color="White" align="CenterCenter" effectTimeOut="1500">¿Qué relación hay entre#arte e historia?</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Las fuentes artísticas#también pueden contarnos#cómo era la vida en el pasado.</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Vida cotidiana</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="01-000OWG01.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="02-0021XV01.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Trabajo </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="03-0009KV01.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="04-00091O01.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Alimentación</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="05-00006501.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Formas de viajar</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="06-0017WS01.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Celebraciones</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="07-0000TC01.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Fiestas</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="09-0008ZM01.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="11-00087P01.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="LeftCenter" effect="fadein" effectTimeOut="1500">Mitología...</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="12-0005TS01.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="LeftCenter" effectTimeOut="1500">... y religión.</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="penultima.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="CenterTop" effect="fadein" effectTimeOut="1500">¿Crees que hemos cambiado tanto?</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="ultima.jpg" diapoTimeOut="50">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="CenterTop" effectTimeOut="1500">¿Crees que hemos cambiado tanto?</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+</diaporama>

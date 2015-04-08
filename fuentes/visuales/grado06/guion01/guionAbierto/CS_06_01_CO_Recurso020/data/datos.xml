@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="1" clase="a" aprid="M1a">
+  <enunciado>¿Cómo escribirías en cifras romanas los siguientes números?</enunciado>
+  <textoatexto cantidad="6">
+    <cuestion>
+      <pregunta>3</pregunta>
+      <respuesta>III</respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta>15</pregunta>
+      <respuesta>XV</respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta>31</pregunta>
+      <respuesta>XXXI</respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta>42</pregunta>
+      <respuesta>XLII</respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta>60</pregunta>
+      <respuesta>LX</respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta>74</pregunta>
+      <respuesta>LXXIV</respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0">
+  </textofalso>
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Interpreta números romanos</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia><![CDATA[ms_3c_06_02]]></referencia>
+    <motor><![CDATA[M1a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>
