@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Comprende cómo se realiza la definición de fechas y edades</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[3]]></nivel>
+    <referencia><![CDATA[cs_07_07_03]]></referencia>
+    <id_reg><![CDATA[55]]></id_reg>
+    <motor><![CDATA[M5b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Después de ver el video responde las preguntas con base en la datación histórica.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="6">
+    <cuestion>
+      <enunciado><![CDATA[¿Para qué ciencia es la datación una herramienta imprescindible?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000404_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Biología" correcta="0"/>
+        <respuesta contestacion="Antropología" correcta="0"/>
+        <respuesta contestacion="Historia" correcta="1"/>
+        <respuesta contestacion="Medicina" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué podemos saber gracias a la datación?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000404_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Quién realizó unos actos concretos." correcta="0"/>
+        <respuesta contestacion="Dónde tuvieron lugar unos hechos." correcta="0"/>
+        <respuesta contestacion="Cuándo tuvieron lugar unos hechos." correcta="1"/>
+        <respuesta contestacion="Por qué ocurrieron unos hechos concretos." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cómo se puede determinar la cronología de un documento escrito?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000404_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Solo es posible mediante la estratigrafía." correcta="0"/>
+        <respuesta contestacion="Mediante la propia fuente." correcta="1"/>
+        <respuesta contestacion="Solo es posible mediante la datación relativa." correcta="0"/>
+        <respuesta contestacion="Es imposible conocer su cronología." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué métodos se utilizan para establecer la cronología de épocas anteriores a la invención de la escritura?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000404_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Solo carbono-14." correcta="0"/>
+        <respuesta contestacion="Datación exhaustiva." correcta="0"/>
+        <respuesta contestacion="No existe ninguna técnica que lo permita." correcta="0"/>
+        <respuesta contestacion="Carbono-14 y datación relativa." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué consiste el método del carbono-14?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000404_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="En comparar 14 átomos de carbono." correcta="0"/>
+        <respuesta contestacion="En medir los restos de carbono-14 de los restos inorgánicos." correcta="0"/>
+        <respuesta contestacion="En medir los restos de carbono-14 de los restos orgánicos." correcta="1"/>
+        <respuesta contestacion="En eliminar los restos de carbono del resto orgánico." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué es la datación relativa de un resto encontrado?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000404_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Datación exacta, fruto del estudio de hallazgos concretos datados." correcta="0"/>
+        <respuesta contestacion="Datación exacta, resultado de aplicar el carbono-14." correcta="0"/>
+        <respuesta contestacion="Datación aproximada en base a otros objetos y a la estratigrafía." correcta="1"/>
+        <respuesta contestacion="Datación relativa mediante un sonar." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

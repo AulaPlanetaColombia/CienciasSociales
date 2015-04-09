@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="101" clase="a" aprid="M101a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Refuerza tu aprendizaje: Las etapas de la historia</titulo>
+    <area>2</area>
+    <nivel>2</nivel>
+    <referencia><![CDATA[CS_07_07]]></referencia>
+    <idreg><![CDATA[3423]]></idreg>
+    <motor><![CDATA[M101A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario, entrega las respuestas por escrito o por email a tu profesor para que pueda validarlas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="5">
+    <pregunta>
+      <enunciado><![CDATA[Explica por qué la historia se divide en distintos períodos y cita cuáles son.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[1]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Indica dentro de qué período de la historia nos encontramos en la actualidad. Di qué hecho marcó el inicio de esta etapa.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[1]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Elabora un eje cronológico que represente de forma proporcional las etapas de la historia. Incluye los acontecimientos que marcan el inicio de cada una de ellas. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica qué suceso dio paso a la edad moderna en 1492. Busca qué otros acontecimientos relevantes ocurrieron en ese año.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Investiga acerca de la invención de la escritura y busca cuáles fueron los primeros sistemas de escritura y los lugares donde aparecieron. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+  </preguntas>
+</motor>

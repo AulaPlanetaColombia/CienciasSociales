@@ -1,0 +1,29 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Las fuentes materiales</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <SCRIPT SRC="../_js/common.js">
+    </SCRIPT>
+    <SCRIPT SRC="../_js/APIWrapper.js">
+    </SCRIPT>
+    <SCRIPT SRC="../_js/jquery-1.4.2.min.js">
+    </SCRIPT>
+    <link rel="stylesheet" type="text/css" href="../_css/common.css" />
+    <style type="text/css">
+    </style>
+    <script>
+			function ocultarMensaje() 
+			{
+					$("#message").hide('slow');
+			}
+			</script>
+  </head>
+  <body>
+    <div id="message">
+			Cargando vídeo. Por favor, espere...
+		</div>
+    <iframe width="100%" height="100%" scrolling="no" frameborder="0" allowTransparency="true" onload="ocultarMensaje()" src="http://213.170.57.108/GestorMediaAulaPlaneta/View.aspx?matricula=vin00049&amp;guion=MS_3C_06">
+      <p>Este navegador no acepta tags del tipo IFrames !.</p>
+    </iframe>
+  </body>
+</html>

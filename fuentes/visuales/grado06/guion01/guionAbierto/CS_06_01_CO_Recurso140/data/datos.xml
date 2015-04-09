@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="3" clase="a" aprid="M3a">
+  <enunciado>Asocia cada imagen con el tipo de texto y el soporte utilizado.</enunciado>
+  <sonidoaimagen cantidad="6">
+    <cuestion>
+      <imagen etiqueta="Mesopotamia"><![CDATA[0008uv01_500.png]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Tablilla de arcilla" />
+        <respuesta etiqueta="Escritura cuneiforme" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta="Egipto"><![CDATA[000t9001_500.png]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Papiro" />
+        <respuesta etiqueta="Escritura jeroglífica" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta="Roma"><![CDATA[000wsh01_500.png]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Piedra" />
+        <respuesta etiqueta="Escritura latina" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta="Edad media"><![CDATA[000g3301_500.png]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Pergamino" />
+        <respuesta etiqueta="Escritura gótica" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta="Siglo XXI"><![CDATA[14290977_116.png]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Tableta digital" />
+        <respuesta etiqueta="Lenguaje html" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta="Siglo XIX"><![CDATA[000gpi01_500.png]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Papel" />
+        <respuesta etiqueta="Letra impresa" />
+      </respuestas>
+    </cuestion>
+  </sonidoaimagen>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Asocia cada tipo de escritura a su soporte</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia><![CDATA[ms_3c_06_09]]></referencia>
+    <id_reg><![CDATA[26]]></id_reg>
+    <motor><![CDATA[M3a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>
