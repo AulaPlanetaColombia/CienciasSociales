@@ -1,0 +1,248 @@
+﻿<XMLMultiactiva>
+<!-- Pantalla Intro -->
+	
+	<titol><![CDATA[El fin del Antiguo Régimen]]></titol>
+	<txt_selecciona><![CDATA[<b>Selecciona en la línea de la cronología un período de tiempo</b>]]></txt_selecciona>
+	
+	<p_01_tabla_01><![CDATA[<b>Absolutismo</b>]]></p_01_tabla_01>
+	<p_01_tabla_02><![CDATA[<b>Ilustración</b>]]></p_01_tabla_02>
+	<p_01_tabla_03><![CDATA[<b>Parlamentarismo</b>]]></p_01_tabla_03>
+	<p_01_tabla_04><![CDATA[<b>Estados Unidos</b>]]></p_01_tabla_04>
+	<p_01_tabla_05><![CDATA[<b>América colonial</b>]]></p_01_tabla_05>
+	<p_01_tabla_06><![CDATA[<b>Revolución        francesa</b>]]></p_01_tabla_06>
+	<p_01_tabla_07><![CDATA[<b>Napoleón B.</b>]]></p_01_tabla_07>
+	<p_01_tabla_08><![CDATA[<b>R. F.</b>]]></p_01_tabla_08>
+	<p_01_tabla_09><![CDATA[<b>N.B.</b>]]></p_01_tabla_09>
+	<p_01_tabla_10><![CDATA[<b>Despotismo ilustrado</b>]]></p_01_tabla_10>
+	
+	<p_01_hito_01><![CDATA[<span class="negrita">1715</span>
+
+Muerte de Luis XIV]]></p_01_hito_01>
+
+
+	<p_01_hito_02><![CDATA[<span class="negrita">1748</span>
+
+<i>Del espíritu<br>de las leyes</i>]]></p_01_hito_02>
+
+<p_01_hito_03><![CDATA[<span class="negrita">1776</span>
+
+Independencia<br>de EUA]]></p_01_hito_03>
+	
+	<p_01_hito_04><![CDATA[<span class="negrita">1789</span>
+
+Revolución francesa]]></p_01_hito_04>
+	
+	<p_01_hito_05><![CDATA[<span class="negrita">1799</span>
+
+18 de brumario]]></p_01_hito_05>
+	
+<!-- Zona_01 -->
+	
+	<p_02_tabla_01><![CDATA[Primera Guerra Mundial]]></p_02_tabla_01>
+	
+	<p_02_hito_01><![CDATA[<b><i>Bill of Rights<i></b>]]></p_02_hito_01>
+	<p_02_hito_02><![CDATA[<b>Tratado de Utrecht</b>]]></p_02_hito_02>
+	<p_02_hito_00><![CDATA[<b><i>Cartas persas</i></b>]]></p_02_hito_00>
+	
+	<p_02_hito_03><![CDATA[<b>Muerte de Luis XIV</b>]]></p_02_hito_03>
+
+	
+	<txt_popup_1_01>
+<![CDATA[<b>1689</b>
+
+Tras la <i>gloriosa revolución</i> de 1688, la <b>Declaración de derechos</b> (<i>Bill of Rights</i>) estableció las bases teóricas de la <b>división de poderes</b> (John Locke) para garantizar la <b>libertad individual</b> y la <b>propiedad</b> <b>privada</b>. Consagró la <b>supremacía</b> <b>del</b> <b>Parlamento</b> sobre el monarca.]]>
+	</txt_popup_1_01>
+
+	<txt_popup_1_02>
+<![CDATA[<b>1713</b>
+
+La firma del <b>tratado de Utrecht</b> puso fin a la <b>guerra de Sucesión española</b>. Felipe V fue reconocido rey de España y de sus colonias americanas. Sin embargo, tuvo que ceder Gibraltar y Menorca a Inglaterra; las posesiones europeas a Austria; Sicilia a los Saboya y las fortalezas flamencas a los Países Bajos.]]>
+	</txt_popup_1_02>
+
+
+	<txt_popup_1_03>
+<![CDATA[<b>1715</b>
+
+<b>Luis XIV de Francia</b>, conocido como el Rey Sol y <b>paradigma del rey absoluto</b>, murió en 1715. Su poder, que emanaba directamente de la divinidad, le permitió reinar como encarnación misma del Estado. En sus manos concentró el poder ejecutivo, legislativo y judicial.]]>
+	</txt_popup_1_03>
+	
+<!-- Zona_02 -->
+
+
+	<p_03_hito_01><![CDATA[<b>Guerra de Sucesión polaca</b>]]></p_03_hito_01>
+	<p_03_hito_02><![CDATA[<b><i>Cartas inglesas</i></b>]]></p_03_hito_02>
+	<p_03_hito_03><![CDATA[<b>Guerra de la Oreja de Jenkins</b>]]></p_03_hito_03>
+	
+	<txt_popup_2_01>
+<![CDATA[<b>1721</b>
+
+El pensador ilustrado <b>Montesquieu</b> publicó, de forma anónima, sus <b><i>Cartas persas</i></b>. La obra se compone de 160 cartas que Usbek y Rica, dos persas de visita en Europa, enviaron a oriente. En ellas, satirizan las costumbres del París del momento y critican las desigualdades de la sociedad francesa.]]>
+	</txt_popup_2_01>
+
+
+	<txt_popup_2_02>
+<![CDATA[<b>1734</b>
+
+<b>Voltaire</b> publicó las <b><i>Cartas filosóficas sobre Inglaterra </i></b>o <b><i>Cartas inglesas</i></b>, un ensayo en que, de forma velada, criticaba a las autoridades civiles y religiosas de Francia mediante una serie de reflexiones sobre la realidad religiosa, política y literaria de la Inglaterra de su tiempo.]]>
+	</txt_popup_2_02>
+
+
+	<txt_popup_2_03>
+<![CDATA[<b>1739</b>
+
+Entre 1739 y 1748, las armadas de España y Gran Bretaña se enfrentaron en la <b>guerra de la Oreja de Jenkins</b>. El conflicto, que enlazó con la guerra de Sucesión austriaca, estalló como consecuencia de la respuesta española al contrabando británico en las <b>Indias españolas</b>.]]>
+	</txt_popup_2_03>
+	
+
+	
+	
+<!-- Zona_03 -->
+
+	
+	<p_04_hito_01><![CDATA[<b>Federico II,<br>rey de Prusia</b>]]></p_04_hito_01>
+	<p_04_hito_02><![CDATA[<b>Guerra de Sucesión austriaca</b>]]></p_04_hito_02>
+	<p_04_hito_03><![CDATA[<b><i>Del espíritu de<br>las leyes</i></b>]]></p_04_hito_03>
+	<p_04_hito_04><![CDATA[<b>La <i>Enciclopedia</i></b>]]></p_04_hito_04>
+	<p_04_hito_05><![CDATA[<b>Guerra de los Siete Años</b>]]></p_04_hito_05>
+	
+	
+	<txt_popup_3_01>
+<![CDATA[<b>1740</b>
+
+<b>Federico II el Grande</b>, rey de Prusia (1740-1786), fue el máximo representante del <b>despotismo ilustrado</b> del siglo XVIII. Durante su reinado se produjeron reformas en la economía y el ejército, e impulsó la ciencia y la cultura. Mantuvo una estrecha relación con <b>Voltaire</b>.]]>
+	</txt_popup_3_01>
+
+
+	<txt_popup_3_02>
+<![CDATA[<b>1740 (diciembre)</b>
+
+La muerte sin descendencia masculina del emperador Carlos VI de Austria llevó a su hija María Teresa a ocupar el trono. La mayoría de potencias europeas no la reconocieron, lo que supuso el estallido de la <b>guerra de Sucesión austriaca</b> (1740-1748).]]>
+	</txt_popup_3_02>
+
+
+	<txt_popup_3_03>
+<![CDATA[<b>1748</b>
+
+<b>Montesquieu</b> publicó <b><i>Del espíritu de las leyes</i></b>, un ensayo político y social en que analizaba los distintos tipos de gobierno (república, monarquía y despotismo) a partir del análisis de sus leyes. Defendía que debía darse una división de poderes para garantizar los derechos y las libertades de los súbditos.]]>
+	</txt_popup_3_03>
+
+
+	<txt_popup_3_04>
+<![CDATA[<b>1751</b>
+
+Entre 1751 y 1772, <b>Denis Diderot</b> y <b>Jean-Le-Rond D’Alembert</b>, dirigieron la <b><i>Enciclopedia</i></b> o <i>Diccionario razonado de las ciencias, las artes y los oficios</i>. Esta gran obra colectiva reunió a autores ilustrados como Voltaire, Montesquieu o Rousseau.]]>
+	</txt_popup_3_04>
+
+
+	<txt_popup_3_05>
+<![CDATA[<b>1756</b>
+
+La <b>rivalidad colonial</b> entre <b>Francia</b> y el <b>Reino</b> <b>Unido</b> y el <b>expansionismo prusiano</b> llevaron al estallido de la <b>guerra de los Siete Años</b> (1756-1763), en la que se enfrentaron varias potencias europeas. El conflicto reafirmó la hegemonía inglesa en las colonias y Prusia se confirmó como gran potencia.]]>
+	</txt_popup_3_05>
+
+
+<!-- Zona_04 -->
+
+
+	
+	
+	<p_05_hito_01><![CDATA[<b><i>El contrato social</i></b>]]></p_05_hito_01>
+	<p_05_hito_02><![CDATA[<b>Catalina II, emperatriz de Rusia</b>]]></p_05_hito_02>
+	<p_05_hito_03><![CDATA[<b>Independencia de EUA</b>]]></p_05_hito_03>
+	
+	
+	<txt_popup_4_01>
+<![CDATA[<b>1762</b>
+
+<b>Jean-Jacques Rousseau</b> publicó <b><i>El</i></b><i> <b>contrato</b> <b>social</b></i>, un ensayo en que defendía la necesidad que tenían los ciudadanos de llegar a un <b>pacto</b> para crear una comunidad o cuerpo político. Este se regiría por unas leyes que atenderían el <b>bien común</b>, no a los intereses particulares de sus miembros.]]>
+	</txt_popup_4_01>
+	
+	
+	<txt_popup_4_02>
+<![CDATA[<b>1762</b>
+
+Tras un golpe de estado que derrocó a su esposo, el zar Pedro III, <b>Catalina II</b> accedió al trono de Rusia. Se abrió a las <b>ideas de la Ilustración</b> para ganarse el favor de sus súbditos y mejorar su imagen en las cortes europeas. Mantuvo amistad con Voltaire y Diderot.]]>
+	</txt_popup_4_02>
+
+
+	<txt_popup_4_03>
+<![CDATA[<b>1776</b>
+
+El 4 de julio, <b>Thomas Jefferson</b>, inspirándose en las ideas de la Ilustración, se encargó de redactar la <b>Declaración de Independencia</b> de las Trece Colonias británicas. Aquel documento reconoció por primera vez los <b>derechos del ciudadano</b> y el principio de <b>soberanía nacional</b>.]]>
+	</txt_popup_4_03>
+
+
+<!-- Zona_05 -->
+
+
+	<p_06_hito_01><![CDATA[<b>Constitución<br>de EUA</b>]]></p_06_hito_01>
+	<p_06_hito_02><![CDATA[<b>Revolución francesa</b>]]></p_06_hito_02>
+	<p_06_hito_03><![CDATA[<b>Ejecución de<br>Luis XVI</b>]]></p_06_hito_03>
+	<p_06_hito_04><![CDATA[<b>18 de brumario</b>]]></p_06_hito_04>
+	<p_06_hito_05><![CDATA[<b>Napoleón, emperador</b>]]></p_06_hito_05>
+
+
+
+	<txt_popup_5_01>
+<![CDATA[<b>1787</b>
+
+La <b>convención de Filadelfia</b> redactó la <b>Constitución de los Estados Unidos de América</b>, la primera constitución liberal de la historia. Esta garantizaba la <b>división de poderes</b>, definía el Estado como una <b>república presidencial</b> y establecía una <b>estructura federal</b>.]]>
+	</txt_popup_5_01>
+
+
+	<txt_popup_5_02>
+<![CDATA[<b>1789</b>
+
+Durante la reunión de los <b>Estados Generales</b>, un grupo de diputados del tercer estado se constituyó en <b>Asamblea Nacional</b>. Expulsados de Versalles, los diputados se reunieron para formar una <b>Asamblea Constituyente</b>. Junto a esta, la <b>toma de la Bastilla</b> (14 de julio) representó el comienzo de la <b>revolución francesa</b>.]]>
+	</txt_popup_5_02>
+
+
+
+	<txt_popup_5_03>
+<![CDATA[<b>1793</b>
+
+El 21 de enero, <b>Luis XVI de Francia</b>, quien había sido destituido en agosto, fue ejecutado en la <b>guillotina</b> tras ser considerado culpable de traición a la patria. El ajusticiamiento del Borbón marcó la ruptura definitiva con el <b>Antiguo Régimen</b> en Francia.]]>
+	</txt_popup_5_03>
+
+
+	<txt_popup_5_04>
+<![CDATA[<b>1799</b>
+
+<b>Napoleón Bonaparte</b> aprovechó el creciente malestar con el <b>Directorio</b> para derrocar al gobierno y disolver el Consejo de los Quinientos el <b>18 de brumario</b> (9 de noviembre). Con el apoyo de la burguesía inauguró una nueva etapa: el <b>Consulado</b><br>(1799-1804).]]>
+	</txt_popup_5_04>
+
+
+	<txt_popup_5_05>
+<![CDATA[<b>1804</b>
+
+Napoleón, que en 1802 se había proclamado <b>cónsul vitalicio</b>, se autoproclamó <b>emperador de los franceses</b> en 1804. Con ello pretendía mantener el apoyo de sus conciudadanos y evitar un golpe de estado.]]>
+	</txt_popup_5_05>
+	
+	
+<!-- Pies de foto--------------------------------------- -->
+
+
+
+<pie_foto_01><![CDATA[John Locke, filósofo inglés.]]></pie_foto_01>
+<pie_foto_02><![CDATA[Peñón de Gibraltar.]]></pie_foto_02>	
+<pie_foto_03><![CDATA[Luis XIV, rey de Francia (1643-1715).]]></pie_foto_03>	
+<pie_foto_04><![CDATA[Montesquieu, escritor y filósofo francés.]]></pie_foto_04>	
+<pie_foto_05><![CDATA[Voltaire, escritor y filósofo francés.]]></pie_foto_05>	
+<pie_foto_06><![CDATA[]]></pie_foto_06>	
+<pie_foto_07><![CDATA[Federico II, rey de Prusia (1740-1786).]]></pie_foto_07>	
+<pie_foto_08><![CDATA[María Teresa, archiduquesa y emperatriz de Austria (1740-1780).]]></pie_foto_08>	
+<pie_foto_09><![CDATA[Montesquieu, escritor y filósofo francés.]]></pie_foto_09>	
+<pie_foto_10><![CDATA[Denis Diderot, escritor y filósofo francés.]]></pie_foto_10>	
+<pie_foto_11><![CDATA[Fuegos artificiales ante el ayuntamiento de París por la proclamación de la paz en Francia en 1763.]]></pie_foto_11>	
+<pie_foto_12><![CDATA[Jean-Jacques Rousseau, filósofo y pedagogo suizo. ]]></pie_foto_12>	
+<pie_foto_13><![CDATA[Catalina II, emperatriz de Rusia (1762-1796).]]></pie_foto_13>	
+<pie_foto_14><![CDATA[T. Jefferson, R. Sherman, B. Franklin, R. Livingston y J. Adams firmando la Declaración de Independencia de los Estados Unidos (4 de julio de 1776).]]></pie_foto_14>	
+<pie_foto_15><![CDATA[Constitución de los Estados Unidos de América, redactada durante la convención de Filadelfia (1787).]]></pie_foto_15>	
+<pie_foto_16><![CDATA[La Asamblea Nacional, reunida en el Jeu de Paume (1789).]]></pie_foto_16>	
+<pie_foto_17><![CDATA[Aplicación de la pena capital a Luis XVI, rey de Francia (1774-1792).]]></pie_foto_17>	
+<pie_foto_18><![CDATA[Napoleón Bonaparte, cónsul de Francia (1799-1804).]]></pie_foto_18>	
+<pie_foto_19><![CDATA[Napoleón Bonaparte, emperador de Francia (1804-1814).]]></pie_foto_19>
+
+
+
+</XMLMultiactiva>

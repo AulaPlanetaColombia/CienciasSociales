@@ -1,4 +1,4 @@
-// Constantes que se usan en el sistema de motores de ejercicios
+﻿// Constantes que se usan en el sistema de motores de ejercicios
 LangRes = new function()
 {
 	// Array con los strings
@@ -95,10 +95,10 @@ LangRes = new function()
 		"Si continúas, se enviará al profesor el ejercicio para evaluar. Si quieres hacer alguna modificación, haz clic en Cancelar.",
 		"Hay preguntas sin responder. Si continúas, se enviará al profesor el ejercicio para evaluar. Si quieres hacer alguna modificación, haz clic en Cancelar.",
 		
-		"Entrega las respuestas en mano o por email.",
+		"Entrega las respuestas por escrito o por email.",
 		"Ejercicio guardado correctamente",
 		"Ejercicio enviado para validación",
-		"Esta actividad debe asignarse como tarea para poderse realizar, o bien entregarse en mano o por email."
+		"Esta actividad debe asignarse como tarea para poderse realizar, o bien entregarse por escrito o por email."
 	];
 		
 	// VALENCIANO

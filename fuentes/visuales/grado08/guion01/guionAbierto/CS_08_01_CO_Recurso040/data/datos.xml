@@ -16,8 +16,8 @@
   <respuestaunica><![CDATA[0]]></respuestaunica>
   <test cantidad="3">
     <cuestion>
-      <enunciado><![CDATA[Luego de leer el siguiente fragmento de “Las cartas persas” escritas por el Barón de Montesquieu, elige la respuesta correcta]]></enunciado>
-      <explicacion><![CDATA[Cuando Montesquieu dice “El rey de Francia es el príncipe más poderoso de Europa”. Se refiere a:]]></explicacion>
+      <enunciado><![CDATA[Cuando Montesquieu dice “El rey de Francia es el príncipe más poderoso de Europa”. Se refiere a:]]></enunciado>
+      <explicacion/>
       <texto><![CDATA[“El rey de Francia es el príncipe más poderoso de Europa. No posee minas de oro, como el rey de España, su vecino, pero posee más riquezas que él porque las extrae de la vanidad de sus súbditos, más inagotable que las minas. Se le ha visto emprender o apoyar grandes guerras sin más capital que la venta de títulos de honor, y, por un prodigio del orgullo humano, sus tropas fueron pagadas, sus plazas fortificadas y su flota equipada(…)”.  ]]></texto>
       <respuestas>
         <respuesta contestacion="Luis XIV, el rey Sol" correcta="1"/>
@@ -26,8 +26,8 @@
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[Luego de leer el siguiente fragmento de “Las cartas persas” escritas por el Barón de Montesquieu, elige la respuesta correcta]]></enunciado>
-      <explicacion><![CDATA[En este fragmento, Montesquieu se refiere a un propósito del absolutismo: ]]></explicacion>
+      <enunciado><![CDATA[En este fragmento, Montesquieu se refiere a un propósito del absolutismo: ]]></enunciado>
+      <explicacion/>
       <texto><![CDATA[Además, este rey es un gran mago, pues ejerce su mando hasta en la inteligencia de sus súbditos, consiguiendo que piensen como él desea. Si no tiene más que un millón de escudos en su tesoro y necesita dos, logra persuadirles de que un escudo vale dos, y le creen. Si ha de mantener una guerra difícil y está sin dinero, basta con que les meta en la cabeza que un trozo de papel es dinero e inmediatamente se convencen de ello.]]></texto>
       <respuestas>
         <respuesta contestacion="Gobernar también el pensamiento y la cultura." correcta="1"/>
@@ -36,8 +36,8 @@
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[Luego de leer el siguiente fragmento de “Las cartas persas” escritas por el Barón de Montesquieu, elige la respuesta correcta]]></enunciado>
-      <explicacion><![CDATA[En este fragmento, Montesquieu se refiere a la manera como el absolutismo se valió de:]]></explicacion>
+      <enunciado><![CDATA[En este fragmento, Montesquieu se refiere a la manera como el absolutismo se valió de:]]></enunciado>
+      <explicacion/>
       <texto><![CDATA[“Hasta tal punto es grande la fuerza y el poder que tiene sobre sus súbditos que incluso llega a hacerles creer que es capaz de curarles de toda clase de enfermedades tan sólo con tocarlos”.  ]]></texto>
       <respuestas>
         <respuesta contestacion="La fe de los gobernados" correcta="1"/>
