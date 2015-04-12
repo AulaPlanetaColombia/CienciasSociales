@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<diaporama autoplay="false" diapoDefaultTimeOut="5000" effectDefaultTimeOut="1000" textDefaultTimeOut="500" toolbarAlign="LeftBottom" toolbarColor="White" toolbarCounter="false" toolbarCounterColor="White" toolbarMargin="40,40,40,40" fotoMargin="0,0,0,0" textMargin="40,40,40,80" aprid="diaporama">
+  <diapo foto="fondo.jpg">
+    <texto type="Georgia" size="50" style="Normal" color="White" align="CenterCenter" effectTimeOut="1500">¿Qué son las fuentes orales?</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Durante siglos...</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="01-00217F01.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="CenterTop" effect="fadein" effectTimeOut="1500">... se han contado todo tipo de historias.</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Mitos</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="02-000KUF01.jpg">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftCenter" effect="fadein" effectTimeOut="1500">· Antigua Grecia#· Dioses#· Héroes</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Leyendas</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="03-000AEL01.jpg">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftCenter" effect="fadein" effectTimeOut="1500">· Caballeros#· Princesas #· Dragones</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Cuentos</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="04-00097N01.jpg">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftCenter" effect="fadein" effectTimeOut="1500">· Brujas#· Gigantes#· Niños y niñas#· Magia</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="0019Y601.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Canciones#tradicionales#y romances</texto>
+    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftCenter" effect="fadein" effectTimeOut="1500">· Canciones de cuna#· Canciones infantiles#· Canciones de labor#· Villancicos
+</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="89699440.jpg">
+    <texto type="Verdana" size="30" style="Normal" color="Black" align="LeftTop" effect="fadein" effectTimeOut="1500">Todo ello ha sido#transmitido de#generación en#generación.</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="fondo.jpg" diapoTimeOut="50">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">¿Y qué tiene esto que ver#con la historia?</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+</diaporama>

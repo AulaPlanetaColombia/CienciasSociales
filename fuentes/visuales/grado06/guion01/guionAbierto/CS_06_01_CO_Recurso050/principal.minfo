@@ -1,0 +1,7 @@
+[module]
+aprid=diaporama
+role=player
+version=14.7.28.1
+folder=motor
+entrypoint=principal.html
+dependencies=principal.dep
