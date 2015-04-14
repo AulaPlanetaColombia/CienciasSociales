@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="2" clase="a" aprid="M2a">
+  <enunciado><![CDATA[Completa el siguiente texto sobre la organización social, política y económica de la Europa de la edad moderna.]]></enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[0]]></calc>
+  <sonido />
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[El [*] era el sistema social, político y económico que rigió Europa durante la [*]. La sociedad se organizaba, como en los siglos precedentes, en [*]. Por un lado, el de los [*], formado por el monarca, la nobleza y el clero; por otro, el de los [*], formado por la [*], las [*] urbanas y el [*]. A nivel político, se dio un predominio de la [*], cuyo poder emanaba directamente de Dios. A nivel económico, se produjo la pervivencia de las antiguas estructuras agrarias, propias del [*], mientras en paralelo, y al calor del expansionismo europeo, se desarrollaba el [*]. Junto a aquel, y con el fin de reforzar el poder absoluto de los soberanos y ejercer un mayor control sobre la economía, los Estados apostaron por el [*], cuyo objetivo era la acumulación de metales preciosos.]]></pregunta>
+      <respuestas>
+        <respuesta orden="1"><![CDATA[Antiguo Régimen]]></respuesta>
+        <respuesta orden="2"><![CDATA[edad moderna]]></respuesta>
+        <respuesta orden="3"><![CDATA[estamentos]]></respuesta>
+        <respuesta orden="4"><![CDATA[privilegiados]]></respuesta>
+        <respuesta orden="5"><![CDATA[no privilegiados]]></respuesta>
+        <respuesta orden="6"><![CDATA[burguesía]]></respuesta>
+        <respuesta orden="7"><![CDATA[clases populares]]></respuesta>
+        <respuesta orden="8"><![CDATA[campesinado]]></respuesta>
+        <respuesta orden="9"><![CDATA[monarquía absoluta]]></respuesta>
+        <respuesta orden="10"><![CDATA[feudalismo]]></respuesta>
+        <respuesta orden="11"><![CDATA[capitalismo comercial]]></respuesta>
+        <respuesta orden="12"><![CDATA[mercantilismo]]></respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <textofalso cantidad="0" />
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Describe la sociedad del Antiguo Régimen</titulo>
+    <area>2</area>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[CS_10_01_02]]></referencia>
+    <idreg><![CDATA[567]]></idreg>
+    <motor><![CDATA[M2A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

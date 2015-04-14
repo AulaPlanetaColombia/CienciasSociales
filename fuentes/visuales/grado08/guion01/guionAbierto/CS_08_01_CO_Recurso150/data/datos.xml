@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="5" clase="b" aprid="M5b">
+  <enunciado><![CDATA[Después de ver el vídeo sobre el proceso de independencia de las colonias británicas en el este de América del Norte, responde a las preguntas.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="9">
+    <cuestion>
+      <enunciado><![CDATA[¿Cuántas colonias británicas surgieron a lo largo del siglo XVII entre el golfo del Maine y Florida?]]></enunciado>
+      <explicacion />
+      <video>DI000455_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="13" correcta="1" />
+        <respuesta contestacion="10" correcta="0" />
+        <respuesta contestacion="7" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En que año estalló la rebelión de las colonias británicas del este de América del Norte  contra la monarquía británica?]]></enunciado>
+      <explicacion />
+      <video>DI000455_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="1773" correcta="1" />
+        <respuesta contestacion="1775" correcta="0" />
+        <respuesta contestacion="1783" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue la primera batalla en la que se enfrentaron los independentistas americanos a las tropas británicas?]]></enunciado>
+      <explicacion />
+      <video>DI000455_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="La batalla de Lexington." correcta="1" />
+        <respuesta contestacion="La batalla de Washington." correcta="0" />
+        <respuesta contestacion="La batalla de Filadelfia." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué año tuvo lugar la batalla de Lexington?]]></enunciado>
+      <explicacion />
+      <video>DI000455_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="1775" correcta="1" />
+        <respuesta contestacion="1785" correcta="0" />
+        <respuesta contestacion="1773" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué se firmó en la convención de Filadelfia?
+]]></enunciado>
+      <explicacion />
+      <video>DI000455_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="La declaración de independencia de Estados Unidos." correcta="1" />
+        <respuesta contestacion="La paz entre las colonias británicas y la monarquía británica." correcta="0" />
+        <respuesta contestacion="La Constitución de Estados Unidos." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué fecha se produjo la independencia de las colonias británicas del este de América del Norte?]]></enunciado>
+      <explicacion />
+      <video>DI000455_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="4 de julio de 1776." correcta="1" />
+        <respuesta contestacion="14 de julio de 1776." correcta="0" />
+        <respuesta contestacion="4 de junio de 1783." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuándo se reconoció la independencia de las colonias británicas del este de América del Norte?]]></enunciado>
+      <explicacion />
+      <video>DI000455_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="1783" correcta="1" />
+        <respuesta contestacion="1776" correcta="0" />
+        <respuesta contestacion="1789" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Dónde se reconoció formalmente la independencia de las colonias británicas del este de América del Norte?]]></enunciado>
+      <explicacion />
+      <video>DI000455_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="En Versalles." correcta="1" />
+        <respuesta contestacion="En París." correcta="0" />
+        <respuesta contestacion="En Lexington." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué otros países contaban con una constitución de corte liberal cuando Estados Unidos aprobó la suya?
+
+]]></enunciado>
+      <explicacion />
+      <video>DI000455_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Ninguno." correcta="1" />
+        <respuesta contestacion="Francia y Reino Unido." correcta="0" />
+        <respuesta contestacion="Solo Francia." correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce la revolución americana</titulo>
+    <area>2</area>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[CS_10_01_06]]></referencia>
+    <idreg><![CDATA[564]]></idreg>
+    <motor><![CDATA[M5B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="4" clase="a" aprid="M4a">
+  <enunciado><![CDATA[Pon a prueba tus conocimientos sobre las principales ideas y teóricos del pensamiento liberal.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué autor consideraba que existían tres tipos de gobierno?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Montesquieu" correcta="1" />
+        <respuesta contestacion="Voltaire" correcta="0" />
+        <respuesta contestacion="Jean-Jacques Rousseau" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál era la idea más importante que defendía Montesquieu?
+
+]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="La división de poderes." correcta="1" />
+        <respuesta contestacion="El contrato social." correcta="0" />
+        <respuesta contestacion="La tolerancia religiosa." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién debía, según Voltaire, limitar el poder del soberano?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="El Parlamento." correcta="1" />
+        <respuesta contestacion="La nobleza y la Iglesia católica." correcta="0" />
+        <respuesta contestacion="Nadie." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál era, según Voltaire, la vía para mantener el sistema?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="La reforma fiscal, basada en el fin de los privilegios fiscales de nobleza y clero." correcta="1" />
+        <respuesta contestacion="El aumento de los impuestos al tercer estado." correcta="0" />
+        <respuesta contestacion="Un mayor esfuerzo militar destinado a la conquista  de nuevos territorios." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién consideraba que todas las personas nacen libres e iguales?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Jean-Jacques Rousseau" correcta="1" />
+        <respuesta contestacion="Montesquieu" correcta="0" />
+        <respuesta contestacion="Voltaire" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué obra se habla del acuerdo entre los ciudadanos como vía para la correcta gobernanza del Estado?
+]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="{{cur}}El contrato social{{normal}}" correcta="1" />
+        <respuesta contestacion="{{cur}}Del espíritu de las leyes{{normal}}" correcta="0" />
+        <respuesta contestacion="{{cur}}Cartas inglesas{{normal}}" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién defendió la expresión de la soberanía nacional mediante el voto?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Jean-Jacques Rousseau" correcta="1" />
+        <respuesta contestacion="Montesquieu" correcta="0" />
+        <respuesta contestacion="John Locke" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué filósofo inglés es considerado el iniciador del liberalismo político?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="John Locke" correcta="1" />
+        <respuesta contestacion="Adam Smith" correcta="0" />
+        <respuesta contestacion="Voltaire" correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Identifica las ideas liberales</titulo>
+    <area>2</area>
+    <nivel><![CDATA[3]]></nivel>
+    <referencia><![CDATA[CS_10_01_04]]></referencia>
+    <idreg><![CDATA[563]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

@@ -1,4 +1,4 @@
-//***************************************************************
+﻿//***************************************************************
 // Variables y funciones sobre idiomas
 //***************************************************************
 
@@ -49,7 +49,7 @@ var LangRes = {
 	langTexts:
 	[
 		[ // es
-			"Entrega el trabajo en mano o por email.",
+			"Entrega el trabajo por escrito o por email.",
 			"Enviar",
 			"Adjuntar trabajo",
 			"Guardar",
@@ -63,7 +63,7 @@ var LangRes = {
 			"Cerrar",
 			"Cargando actividad...",
 			"Ya has realizado esta actividad antes.",
-			"Esta actividad debe asignarse como tarea para poderse realizar, o bien entregarse en mano o por email.",
+			"Esta actividad debe asignarse como tarea para poderse realizar, o bien entregarse por escrito o por email.",
 			"La actividad ya ha sido enviada al profesor.",
 			"El alumno ha abierto la actividad.",
 			"Actividad aún por empezar.",
