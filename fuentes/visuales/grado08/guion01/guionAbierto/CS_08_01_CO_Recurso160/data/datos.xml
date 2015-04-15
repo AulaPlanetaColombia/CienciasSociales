@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="101" clase="a" aprid="M101a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Refuerza tu aprendizaje: La revolución americana</titulo>
+    <area>2</area>
+    <nivel>2</nivel>
+    <referencia><![CDATA[CS_10_01]]></referencia>
+    <idreg><![CDATA[2740]]></idreg>
+    <motor><![CDATA[M101A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario, entrega las respuestas por escrito o por email a tu profesor para que pueda validarlas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[1]]></calc>
+  <preguntas cantidad="2">
+    <pregunta>
+      <enunciado><![CDATA[Indica qué tipo de sistema político se estableció en Estados Unidos tras la proclamación de su independencia. Establece las diferencias que presenta respecto a una monarquía.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Busca información sobre el "motín del té". Resume qué fue y cuáles fueron sus consecuencias. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+  </preguntas>
+</motor>

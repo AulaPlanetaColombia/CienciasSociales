@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="101" clase="a" aprid="M101a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Refuerza tu aprendizaje: La economía del siglo XVIII</titulo>
+    <area>2</area>
+    <nivel>2</nivel>
+    <referencia><![CDATA[CS_10_01]]></referencia>
+    <idreg><![CDATA[2740]]></idreg>
+    <motor><![CDATA[M101A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario, entrega las respuestas por escrito o por email a tu profesor para que pueda validarlas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[1]]></calc>
+  <preguntas cantidad="3">
+    <pregunta>
+      <enunciado><![CDATA[Enumera los principales productos agrícolas que América exportaba hacia países europeos durante el siglo XVIII.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[1]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica en qué consistía el comercio triangular y a quién beneficiaba y a quién perjudicaba. Justifica tu respuesta.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Indica cómo afectó el comercio colonial a la economía del Reino de Gran Bretaña. Busca un ejemplo que justifique tu respuesta.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+  </preguntas>
+  <temps>15</temps>
+</motor>
