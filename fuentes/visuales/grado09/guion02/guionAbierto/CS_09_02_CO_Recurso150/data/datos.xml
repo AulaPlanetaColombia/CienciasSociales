@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2013, v.4002-->
+<motor tipo="101" clase="a" aprid="M101a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Refuerza tu aprendizaje: La Alemania nazi</titulo>
+    <area>2</area>
+    <nivel>2</nivel>
+    <referencia><![CDATA[CS_10_07]]></referencia>
+    <idreg><![CDATA[3005]]></idreg>
+    <motor><![CDATA[M101AP]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario, entrega las respuestas en mano o por email a tu profesor para que pueda validarlas.]]></enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="4">
+    <pregunta>
+      <enunciado><![CDATA[Explica en qué consistía el nazismo y por qué se instauró en Alemania. ]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[1]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Reflexiona acerca de por qué las clases medias y las elites financieras alemanas dieron su apoyo al nazismo. Justifica tu respuesta. ]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Compara la Italia fascista con la Alemania nazi. Enumera sus semejanzas y diferencias. 
+
+]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Busca información acerca del pangermanismo y relaciónalo con el expansionismo nazi. ]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+    </pregunta>
+  </preguntas>
+</motor>

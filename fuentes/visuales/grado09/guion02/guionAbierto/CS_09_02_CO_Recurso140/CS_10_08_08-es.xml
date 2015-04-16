@@ -1,0 +1,167 @@
+﻿<XMLMultiactiva>
+<!-- Pantalla Intro -->
+	
+	<titol><![CDATA[El período de entreguerras]]></titol>
+	<txt_selecciona><![CDATA[Selecciona en la línea de la cronología un período de tiempo]]></txt_selecciona>
+	
+	<p_01_tabla_01><![CDATA[Democracia]]></p_01_tabla_01>
+	<p_01_tabla_02><![CDATA[IGM]]></p_01_tabla_02>
+	<p_01_tabla_03><![CDATA[Felices años 20]]></p_01_tabla_03>
+	<p_01_tabla_04><![CDATA[Gran Depresión]]></p_01_tabla_04>
+	<p_01_tabla_05><![CDATA[New Deal - keynesianismo]]></p_01_tabla_05>
+	<p_01_tabla_06><![CDATA[Totalitarismo]]></p_01_tabla_06>
+	<p_01_tabla_07><![CDATA[Posguerra]]></p_01_tabla_07>
+	
+	<p_01_hito_01><![CDATA[<span class="negrita">1919</span>
+
+Tratado de Versalles]]></p_01_hito_01>
+
+
+	<p_01_hito_02><![CDATA[<span class="negrita">1924</span>
+
+Stalin en 
+el poder]]></p_01_hito_02>
+
+<p_01_hito_03><![CDATA[<span class="negrita">1929</span>
+
+Crack de Nueva York]]></p_01_hito_03>
+	
+	<p_01_hito_04><![CDATA[<span class="negrita">1936</span>
+
+Pacto Antikomintern]]></p_01_hito_04>
+	
+	<p_01_hito_05><![CDATA[<span class="negrita">1939</span>
+
+Invasión alemana de Polonia]]></p_01_hito_05>
+	
+<!-- Zona_01 -->
+	
+	<p_02_tabla_01><![CDATA[Primera Guerra Mundial]]></p_02_tabla_01>
+	
+	<p_02_hito_01><![CDATA[Revolución rusa]]></p_02_hito_01>
+	<p_02_hito_02><![CDATA[Tratado de Versalles]]></p_02_hito_02>
+
+	
+	<txt_popup_1_01><![CDATA[<span class="negrita">1917</span>
+
+El 24 de octubre los <span class="negrita">bolcheviques</span> ocuparon el <span class="negrita">palacio de Invierno</span> y otros puntos importantes de San Petersburgo con el apoyo de los soviets. Al día siguiente, <span class="negrita">Lenin</span> asumió la dirección del gobierno revolucionario. En noviembre, estalló la <span class="negrita">Guerra Civil rusa</span> (1917-1921).]]></txt_popup_1_01>
+
+<txt_popup_1_02><![CDATA[<span class="negrita">1919</span>
+
+El 28 de junio se firmó en <span class="negrita">Versalles</span> el tratado de paz entre <span class="negrita">Alemania</span> y los <span class="negrita">aliados</span>. Con ello se daba por concluida la Primera Guerra Mundial. Alemania tuvo que asumir unas duras sanciones de guerra.]]></txt_popup_1_02>
+
+	
+<!-- Zona_02 -->
+
+
+	<p_03_tabla_01><![CDATA[Franquismo (Etapa tecnocrática)]]></p_03_tabla_01>
+	<p_03_tabla_02><![CDATA[G.F.(Época de tensión)]]></p_03_tabla_02>
+	<p_03_tabla_03><![CDATA[Guerra Fría (Coexistencia pacífica)]]></p_03_tabla_03>
+	
+	<p_03_hito_01><![CDATA[Sociedad de Naciones]]></p_03_hito_01>
+	<p_03_hito_02><![CDATA[Marcha sobre Roma]]></p_03_hito_02>
+	<p_03_hito_03><![CDATA[Stalin en el poder]]></p_03_hito_03>
+	
+	<txt_popup_2_01><![CDATA[<span class="negrita">1920</span>
+
+El 10 de enero quedó instituida la <span class="negrita">Sociedad de Naciones</span> con el fin de asegurar la <span class="negrita">paz internacional</span> y el <span class="negrita">progreso humano</span>, pero no pudo 
+hacer nada ante el avance del fascismo. Al acabar la Segunda Guerra Mundial desapareció para dejar paso a la 
+<span class="negrita">ONU</span> (1946).]]></txt_popup_2_01>
+
+<txt_popup_2_02><![CDATA[<span class="negrita">1922</span>
+
+El 27 de octubre, el fascista <span class="negrita">Benito Mussolini</span> y miles de <span class="negrita">Camisas Negras</span> emprendieron la <span class="negrita">Marcha sobre Roma</span> para hacerse con las riendas del país. Ante la incapacidad del Ejecutivo para detenerlos, el rey pidió a Mussolini formar gobierno.]]></txt_popup_2_02>
+
+<txt_popup_2_03><![CDATA[<span class="negrita">1924</span>
+
+Al morir <span class="negrita">Lenin</span>, Iósif Vissariónovich Dzhugachvili, más conocido como <span class="negrita">Stalin</span>, se convirtió en el máximo dirigente de la <span class="negrita">URSS</span> e instauró un <span class="negrita">régimen totalitario</span> (<span class="negrita">estalinismo</span>) hasta su muerte en 1953.]]></txt_popup_2_03>
+	
+	
+<!-- Zona_03 -->
+
+	
+	<p_04_hito_01><![CDATA[Crack bursátil de Nueva York]]></p_04_hito_01>
+	<p_04_hito_02><![CDATA[Hirohito, emperador]]></p_04_hito_02>
+	
+	
+	<txt_popup_3_01><![CDATA[<span class="negrita">1929</span>
+
+El 24 de octubre, conocido como el <span class="negrita">Jueves Negro</span>, se produjo la quiebra de la Bolsa de Nueva York. Esto desencadenó una caída en picado de las cotizaciones, la ruina de inversores y bancos y el estallido de una <span class="negrita">crisis económica mundial</span>.]]></txt_popup_3_01>
+
+	<txt_popup_3_02><![CDATA[<span class="negrita">1926</span>
+
+Tras la muerte del emperador Yoshihito, el trono del <span class="negrita">Imperio nipón</span> fue ocupado por su hijo <span class="negrita">Hirohito</span>. Bajo su reinado, Japón desarrolló un <span class="negrita">expansionismo agresivo</span> en Asia y el Pacífico. Esto llevó a la <span class="negrita">guerra con China</span> (1937) y a la <span class="negrita">guerra con EUA</span> durante la Segunda Guerra Mundial.]]></txt_popup_3_02>
+
+
+
+<!-- Zona_04 -->
+
+
+	<p_05_tabla_01><![CDATA[PSOE]]></p_05_tabla_01>
+	<p_05_tabla_02><![CDATA[PP]]></p_05_tabla_02>
+	
+	<p_05_hito_01><![CDATA[Roosevelt y el New Deal]]></p_05_hito_01>
+	<p_05_hito_02><![CDATA[Victoria nazi en Alemania]]></p_05_hito_02>
+	<p_05_hito_03><![CDATA[Larga Marcha]]></p_05_hito_03>
+	
+	
+<txt_popup_4_01><![CDATA[<span class="negrita">1933</span>
+
+Franklin D. Roosevelt impulsó un programa de reformas conocido como <span class="negrita">New Deal</span> ("<span class="cursiva">Nuevo Trato</span>"), en el que la intervención del Estado era clave para reactivar la economía estadounidense tras el <span class="negrita">crack de 1929</span>.]]></txt_popup_4_01>
+	
+	
+<txt_popup_4_02><![CDATA[<span class="negrita">1933</span>
+
+La crisis que siguió al crack de Nueva York y las sanciones impuestas en el tratado de Versalles (1919), llevaron al rápido ascenso del <span class="negrita">nazismo</span> en Alemania. En las elecciones generales de 1932, el <span class="negrita">NSDAP</span> obtuvo más de 13 millones de votos y el 30 de enero de 1933, <span class="negrita">Adolf Hitler</span> fue nombrado canciller.]]></txt_popup_4_02>
+
+<txt_popup_4_02_2><![CDATA[Resultados electorales en las elecciones alemanas de 1932.]]></txt_popup_4_02_2>
+
+
+<txt_popup_4_03><![CDATA[<span class="negrita">1934</span>
+
+En octubre de 1934 se inició, en el contexto de la guerra civil china, la <span class="negrita">Larga Marcha</span>. El <span class="negrita">Ejército Rojo</span>, presionado por las tropas nacionalistas, emprendió un viaje de un año y 12.000 km. Aunque las pérdidas fueron numerosas, el liderazgo de <span class="negrita">Mao Zedong</span> se consolidó.]]></txt_popup_4_03>
+
+
+<!-- Zona_05 -->
+	
+	<p_06_hito_01><![CDATA[Pacto Antikomintern]]></p_06_hito_01>
+	<p_06_hito_02><![CDATA[Invasión alemana de Polonia]]></p_06_hito_02>
+	
+	
+	<txt_popup_5_01><![CDATA[<span class="negrita">1936</span>
+
+El 25 de noviembre, <span class="negrita">Alemania</span> y <span class="negrita">Japón</span> llegaron a un <span class="negrita">acuerdo político-militar</span> por el que se comprometían a combatir a la Internacional Comunista (<span class="negrita">pacto Antikomintern</span>). En 1937 se adhirió <span class="negrita">Italia</span>.]]></txt_popup_5_01>
+
+<txt_popup_5_02><![CDATA[<span class="negrita">1939</span>
+
+Ante las negativas polacas a aceptar las <span class="negrita">exigencias del III Reich</span> (que quería anexionarse la ciudad de <span class="negrita">Danzig</span>), el 1 de septiembre Hitler ordenó la invasión de Polonia. Dos días después, Francia y el Reino Unido declararon la guerra a Alemania: había estallado la <span class="negrita">Segunda Guerra Mundial</span>.]]></txt_popup_5_02>
+
+
+
+
+<txt_popup_ampliar_01><![CDATA[Disturbios durante la revolución rusa en San Petersburgo.]]></txt_popup_ampliar_01>
+
+<txt_popup_ampliar_02><![CDATA[Firma del tratado de Versalles (28 de junio de 1919).]]></txt_popup_ampliar_02>
+
+<txt_popup_ampliar_03><![CDATA[Reunión de la Sociedad de Naciones (1932).]]></txt_popup_ampliar_03>
+
+<txt_popup_ampliar_04><![CDATA[Marcha sobre Roma de las fuerzas fascistas lideradas por Mussolini (18 de octubre de 1922).]]></txt_popup_ampliar_04>
+
+<txt_popup_ampliar_05><![CDATA[Iósif Vissariónovich Dzhugashvili, más conocido como Stalin (en ruso, “acero”).]]></txt_popup_ampliar_05>
+
+<txt_popup_ampliar_05_2><![CDATA[Hirohito, emperador de Japón (1926-1989).]]></txt_popup_ampliar_05_2>
+
+<txt_popup_ampliar_06><![CDATA[Multitud concentrada ante el edificio de la Bolsa de Nueva York (Estados Unidos) tras conocer las primeras noticias del hundimiento de las cotizaciones.]]></txt_popup_ampliar_06>
+
+<txt_popup_ampliar_07><![CDATA[Seguidores de Roosevelt durante la campaña electoral de 1933 en Estados Unidos.]]></txt_popup_ampliar_07>
+
+<txt_popup_ampliar_08><![CDATA[Resultados electorales en las elecciones alemanas de 1932.]]></txt_popup_ampliar_08>
+
+<txt_popup_ampliar_09><![CDATA[Mao Zedong (en el centro), junto con Zhou Enlai y Lin Biao, según un cartel de propaganda comunista.]]></txt_popup_ampliar_09>
+
+<txt_popup_ampliar_10><![CDATA[Benito Mussolini y Adolf Hitler.]]></txt_popup_ampliar_10>
+
+<txt_popup_ampliar_11><![CDATA[Adolf Hitler declarando la guerra en septiembre de 1939.]]></txt_popup_ampliar_11>
+
+
+</XMLMultiactiva>	
