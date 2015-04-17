@@ -128,7 +128,7 @@ Contenedor = new function()
 	// funcio de carrega de dades del xml
 	this.cargarDatos = function()
 	{
-		$.get(pppPreloader.from("data", "data/datos.xml"), function (xml) {
+		$.get(pppPreloader.from("data", "data/datos.xml" + "?time=" + new Date().getTime()), function (xml) {
 
 			//debugger;
 			Contenedor.datosXML = new datosContenedor();

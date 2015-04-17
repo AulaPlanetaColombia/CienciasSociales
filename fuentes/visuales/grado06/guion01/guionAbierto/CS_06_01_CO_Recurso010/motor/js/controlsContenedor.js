@@ -6,7 +6,7 @@ function Boton( _width, _height, src, label, align) {
 	
 	// crear imatge del boto
 	var _imgLoaded = new Image(); 
-	_imgLoaded.src = src;
+	_imgLoaded.src = pppPreloader.from("module", src);
 
 	// carregar imatage del boto
 	var data = {

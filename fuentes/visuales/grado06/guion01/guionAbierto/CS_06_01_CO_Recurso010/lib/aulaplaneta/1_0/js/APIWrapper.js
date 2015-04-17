@@ -496,35 +496,43 @@ ScanParentsForApi
 */
 function ScanParentsForApi(win) 
 {  
-      /*
-      Establish an outrageously high maximum number of
-      parent windows that we are will to search as a
-      safe guard against an infinite loop. This is 
-      probably not strictly necessary, but different 
-      browsers can do funny things with undefined objects.
-      */
-      var nParentsSearched = 0;
-      /*
-      Search each parent window until we either:
-             -find the API, 
-             -encounter a window with no parent (parent is null 
-                        or the same as the current window)
-             -or, have reached our maximum nesting threshold
-      */
-      while ( (win.API_1484_11 == null) && 
-                  (win.parent != null) && (win.parent != win) && 
-                  (nParentsSearched <= MAX_PARENTS_TO_SEARCH) 
-              )
-      { 
-            nParentsSearched++; 
-            win = win.parent;
-      } 
-      /*
-      If the API doesn't exist in the window we stopped looping on, 
-      then this will return null.
-      */
-      return win.API_1484_11; 
+      try 
+	  {
+		  /*
+		  Establish an outrageously high maximum number of
+		  parent windows that we are will to search as a
+		  safe guard against an infinite loop. This is 
+		  probably not strictly necessary, but different 
+		  browsers can do funny things with undefined objects.
+		  */
+		  var nParentsSearched = 0;
+		  /*
+		  Search each parent window until we either:
+				 -find the API, 
+				 -encounter a window with no parent (parent is null 
+							or the same as the current window)
+				 -or, have reached our maximum nesting threshold
+		  */
+		  while ( (win.API_1484_11 == null) && 
+					  (win.parent != null) && (win.parent != win) && 
+					  (nParentsSearched <= MAX_PARENTS_TO_SEARCH) 
+				  )
+		  { 
+				nParentsSearched++; 
+				win = win.parent;
+		  } 
+		  /*
+		  If the API doesn't exist in the window we stopped looping on, 
+		  then this will return null.
+		  */
+		  return win.API_1484_11; 
+	  } 
+	  catch (ex) 
+	  {
+	  
+	  }
 } 
+
 /*
 GetAPI
 -Searches all parent and opener windows relative to the

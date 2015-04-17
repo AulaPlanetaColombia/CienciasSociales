@@ -1,10 +1,11 @@
 /************************************************************************
-	SCORM.js: Connexiï¿½ entre els exercicis i AulaPlaneta via SCORM
+	SCORM.js: Connexió entre els exercicis i AulaPlaneta via SCORM
 	
-	Versiï¿½: 14.9.30.1
-	Histï¿½ria:	- 30/9/14: Assimilaciï¿½ mode "normal" a "exam" i afegig debugMode
-						- 5/9/14: Primera versiï¿½
-	Autors: Sinergia sistemas informï¿½ticos
+	Versió: 15.3.23.1
+	Història:	- 23/3/15: Eliminació crida a doTerminate
+						- 30/9/14: Assimilació mode "normal" a "exam" i afegig debugMode
+						- 5/9/14: Primera versió
+	Autors: Sinergia sistemas informáticos
 	
 ************************************************************************/
 
@@ -48,11 +49,11 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 				return res;
 			}
 			// A vegades en comptes de retornar NULL retorna la
-			// mateixa finestra com a parent (una finestra ï¿½s
-			// "parent" de sï¿½ mateixa)...
+			// mateixa finestra com a parent (una finestra és
+			// "parent" de sí mateixa)...
 			if (w == w.parent) {
 				break;
-			} else { // Si en canvi no sï¿½c el meu pare, vol dir que haig de "pujar" en la jerarquia
+			} else { // Si en canvi no sóc el meu pare, vol dir que haig de "pujar" en la jerarquia
 				w = w.parent;
 			}
 		}
@@ -88,7 +89,7 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 		MODO_BROWSE: 		"browse",				// Modo exponer
 		MODO_REVIEW: 		"review",				// Modo revisar por el profesor
 		MODO_AREVIEW: 	"areview",			// Modo revisar por el alumno (lo vuelve a ver)
-		MODO_EXAM: 			"exam",					// Modo examen (como ejercicio pero sin posibilidad de ver la soluciï¿½n)
+		MODO_EXAM: 			"exam",					// Modo examen (como ejercicio pero sin posibilidad de ver la solución)
 		
 		////////////////////////////////////////////////
 		// MODO DEBUG CON MENSAJES (ALERTS)
@@ -97,14 +98,14 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 
 		////////////////////////////////////////////////
 		// INICIALIZACION DE LA CONEXION SCORM
-		// Nos retorna un objecto con los parï¿½metros
-		// obtenidos vï¿½a SCORM de AulaPlaneta:
+		// Nos retorna un objecto con los parámetros
+		// obtenidos vía SCORM de AulaPlaneta:
 		// { mode, completed, suspend_data, connected }
 		// donde:
 		// - mode: es el modo del ejercicio (ver arriba)
 		// - completed: "completed" o "uncompleted"
 		// - suspend_data: los datos previos
-		// - connected: true/false segï¿½n encuentre un
+		// - connected: true/false según encuentre un
 		//   servidor SCORM disponible.
 		////////////////////////////////////////////////
 		initialize: function () {
@@ -114,13 +115,13 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 			var completed = "";
 			var connected = false;
 	
-			// si la inicializaciï¿½n SCORM ha sido correcta, obtenemos las variables necesarias
+			// si la inicialización SCORM ha sido correcta, obtenemos las variables necesarias
 			if (typeof doInitialize == 'function' && doInitialize() == "true") {
 
 				// Nos apuntamos que estamos conectados				
 				connected = true;
 				
-				// Obtenemos el modo de apariciï¿½n
+				// Obtenemos el modo de aparición
 				modo = doGetValue('cmi.mode');
 
 				// Obtenemos el estado previo del ejercicio (completado/no completado)
@@ -132,9 +133,9 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 					doCommit();
 				}
 				
-				// Obtenemos el estado del ejercicio tal y como lo dejï¿½ el alumno
-				// NOTA: Hemos de mirar tambiï¿½n si la variable SCORM no estï¿½ definida. Segï¿½n
-				// La implementaciï¿½n SCORM que se use, puede retornar "", un error 403 o null.
+				// Obtenemos el estado del ejercicio tal y como lo dejó el alumno
+				// NOTA: Hemos de mirar también si la variable SCORM no está definida. Según
+				// La implementación SCORM que se use, puede retornar "", un error 403 o null.
 				suspend_data = doGetValue('cmi.suspend_data');
 				if (suspend_data == 403 || suspend_data == null) {
 					suspend_data = "";
@@ -147,26 +148,26 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 				}
 				
 			} else { // NO HAY CMI
-					// Recogemos los parï¿½metros a travï¿½s de la URL
+					// Recogemos los parámetros a través de la URL
 					// Si no les llega valor lo podemos establecer "harcodeado" para pruebas
 					modo = getQueryParam("mode");
 					completed = getQueryParam("completion_status");
 					suspend_data = getQueryParam("suspend_data");
 	
-					// Valores por defecto si no se pasan parï¿½metros
+					// Valores por defecto si no se pasan parámetros
 					if (modo == '') { modo = aulaPlaneta.SCORM.MODO_BROWSE; }
 					if (completed == '') { completed = 'uncompleted'; }
-					// suspend_data ya nos llegarï¿½a como '' si no hay parï¿½metro
+					// suspend_data ya nos llegaría como '' si no hay parámetro
 			}
 	
-			// En teorï¿½a no se da nunca, pero como vï¿½lvula de seguridad si hay un
-			// buf en el cï¿½digo anterior, forzamos MODO_BROWSE si no tenemos modo.
+			// En teoría no se da nunca, pero como válvula de seguridad si hay un
+			// buf en el código anterior, forzamos MODO_BROWSE si no tenemos modo.
 			if (modo == "") {
 				modo = aulaPlaneta.SCORM.MODO_BROWSE;
 			}
 			
 			// Asimilamos el modo normal a modo exam, para deshacernos "definitivamente"
-			// del modo "normal", que estï¿½ obsoleto.
+			// del modo "normal", que está obsoleto.
 			if (modo == aulaPlaneta.SCORM.MODO_NORMAL) {
 				modo = aulaPlaneta.SCORM.MODO_EXAM;
 			}
@@ -192,7 +193,8 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 			if (aulaPlaneta.SCORM.debugMode)
 				alert("SCORM Terminate");
 			// Matamos el cliente SCORM
-			doTerminate();
+			// 23/3/2015 - ELIMINADA LA LLAMADA, PUES REENVIA INFORMACION SCORM INVALIDA
+			// doTerminate();
 		},
 		
 		////////////////////////////////////////////////
@@ -218,7 +220,7 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 				timeSCORM = "PT0H" + timeHour + "M" + timeSec + "S";
 			}
 					
-			// Ponemos las variables SCORM en funciï¿½n de la informaciï¿½n proporcionada
+			// Ponemos las variables SCORM en función de la información proporcionada
 			doSetValue('cmi.suspend_data',estado);
 			doSetValue('cmi.score.min',score_min);
 			doSetValue('cmi.score.max',score_max);
@@ -235,7 +237,7 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 		ejercicio_guardar: function(estado) {
 			if (aulaPlaneta.SCORM.debugMode)
 				alert('SCORM ejercicio_guardar: ' + estado);
-			// Ponemos las variables SCORM en funciï¿½n de la informaciï¿½n proporcionada
+			// Ponemos las variables SCORM en función de la información proporcionada
 			doSetValue('cmi.suspend_data',estado);
 			doCommit();
 		},
@@ -252,7 +254,7 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 				timeSCORM = "PT0H" + timeHour + "M" + timeSec + "S";
 			}
 			
-			// Ponemos las variables SCORM en funciï¿½n de la informaciï¿½n proporcionada
+			// Ponemos las variables SCORM en función de la información proporcionada
 			doSetValue('cmi.suspend_data',estado);
 			doSetValue('cmi.session_time',timeSCORM);
 			doSetValue('cmi.completion_status', 'completed');

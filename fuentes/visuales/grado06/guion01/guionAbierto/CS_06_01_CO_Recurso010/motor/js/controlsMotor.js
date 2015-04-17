@@ -103,6 +103,7 @@ function Pregunta(i, pregunta, numcat, height){
 	this.acumHeight= height;
 	// contenedors
 	this.contenedors = new Array();
+	
   	for(key in respuestas)
 	{
 		var palabras = respuestas[key].trim().split(" ");
@@ -114,7 +115,7 @@ function Pregunta(i, pregunta, numcat, height){
 			this.text.color = "#0D3158";
 			this.text.text = palabras[key2] + " ";
 			this.text.lineWidth = 880;
-			this.text.lineHeight = 25;
+			this.text.lineHeight = (Contenedor.datosXML.plataforma.grado == 1)? 36 : 31;
 			this.text.mouseEnabled = false;
 			
 			if( this.text.lineWidth >  acumWidth + this.text.getMeasuredWidth() ){
@@ -125,9 +126,9 @@ function Pregunta(i, pregunta, numcat, height){
 			}else{
 				// cambio de linea
 				acumWidth = this.text.getMeasuredWidth(); 
-				this.text.y = this.acumHeight + 31;
+				this.text.y = this.acumHeight + ((Contenedor.datosXML.plataforma.grado == 1)? 36 : 31);
 				this.text.x = 25  ;
-				this.acumHeight += 31;
+				this.acumHeight +=  (Contenedor.datosXML.plataforma.grado == 1)? 36 : 31;
 			}
 			this.contenedor.addChild( this.text );
 		}
@@ -137,7 +138,7 @@ function Pregunta(i, pregunta, numcat, height){
 			var widthResp = ( Contenedor.datosXML.plataforma.grado == 1 )? Motor.RESP_WIDTH : Motor.RESP_WIDTH-25;
 			if( this.text.lineWidth < acumWidth + widthResp +10)
 			{
-				this.acumHeight += 31;
+				this.acumHeight += ((Contenedor.datosXML.plataforma.grado == 1)? 36 : 31);
 				acumWidth = 0; 
 			}
 			

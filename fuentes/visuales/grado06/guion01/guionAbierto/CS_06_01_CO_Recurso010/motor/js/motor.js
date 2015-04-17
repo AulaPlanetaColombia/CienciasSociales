@@ -45,7 +45,7 @@ Motor = new function()
 	
 	this.cargarDatos = function()
 	{
-		$.get(pppPreloader.from("data", "data/datos.xml"), function (xml) {
+		$.get(pppPreloader.from("data", "data/datos.xml" + "?time=" + new Date().getTime()), function (xml) {
 
 			
 			Motor.datosXML = new datosMotor();
@@ -296,17 +296,20 @@ Motor = new function()
     this.drawElements = function()
     {
     	Motor.respostes = new Array();
-    	Motor.finals = new Array();
+    	Motor.finals = new Array();
+
     	Motor.preguntes = new Array();
     	var preguntas = new Array();
     	var respCounter= 0;
 
+    
 		var preguntas = Motor.datosXML.pregunta.split(/[\r\n]+/g);
 		var height = 22;
+
 		for(var i = 0; i < preguntas.length  ; i++)
 		{
 			this.pregunta = new Pregunta(i, preguntas[i],  preguntas.length, height);
-			height = this.pregunta.getHeight() + 31;
+			height = this.pregunta.getHeight() + ((Contenedor.datosXML.plataforma.grado == 1)? 36 : 31);
 
 			Motor.preguntes.push(this.pregunta);
 			
