@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce las características de la Europa de entreguerras</titulo>
+    <area>2</area>
+    <nivel>2</nivel>
+    <referencia><![CDATA[CS_10_07_07]]></referencia>
+    <idreg><![CDATA[47]]></idreg>
+    <motor><![CDATA[M5B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Después de ver el vídeo, responde las preguntas sobre la Europa del período que transcurre entre el fin de la I Guerra Mundial y el estallido de la II Guerra Mundial.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado><![CDATA[¿En qué fecha se firmó el armisticio que puso fin a la I Guerra Mundial?]]></enunciado>
+      <explicacion />
+      <video>VI000469_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="11 de noviembre de 1918." correcta="1" />
+        <respuesta contestacion="2 de noviembre de 1922." correcta="0" />
+        <respuesta contestacion="1 de septiembre de 1939." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué organismo se creó al acabar la Gran Guerra para velar por la paz y la democracia en el mundo?]]></enunciado>
+      <explicacion />
+      <video>VI000469_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="La Sociedad de Naciones." correcta="1" />
+        <respuesta contestacion="La Organización de las Naciones Unidas." correcta="0" />
+        <respuesta contestacion="La Organización de las Naciones del Mundo." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿A dónde llevaron la crisis de las democracias occidentales, la tensión entre naciones y la crisis económica durante el período de entreguerras?]]></enunciado>
+      <explicacion />
+      <video>VI000469_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Al crecimiento del fascismo en distintos países." correcta="1" />
+        <respuesta contestacion="A la expansión del comunismo." correcta="0" />
+        <respuesta contestacion="A la refundación del sistema liberal." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué fecha triunfó el fascismo en Italia?]]></enunciado>
+      <explicacion />
+      <video>VI000469_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="1922" correcta="1" />
+        <respuesta contestacion="1943" correcta="0" />
+        <respuesta contestacion="1939" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué fecha triunfó el nazismo en Alemania?]]></enunciado>
+      <explicacion />
+      <video>VI000469_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="1922" correcta="0" />
+        <respuesta contestacion="1933" correcta="1" />
+        <respuesta contestacion="1918" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué territorios se establecieron dictaduras de corte conservador?]]></enunciado>
+      <explicacion />
+      <video>VI000469_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="En España y Portugal." correcta="1" />
+        <respuesta contestacion="En Italia y Alemania." correcta="0" />
+        <respuesta contestacion="En Italia y Portugal." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Dónde se instauró el régimen dictatorial de Salazar?]]></enunciado>
+      <explicacion />
+      <video>VI000469_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="En España." correcta="0" />
+        <respuesta contestacion="En Portugal." correcta="1" />
+        <respuesta contestacion="En Italia." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quiénes llevaron a cabo una política de rearme militar y exaltación nacionalista durante la década de 1930?]]></enunciado>
+      <explicacion />
+      <video>VI000469_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Italia y Alemania." correcta="1" />
+        <respuesta contestacion="Estados Unidos." correcta="0" />
+        <respuesta contestacion="Las democracias europeas." correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

@@ -6,7 +6,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="full-1"/>
 <node CREATED="1428112132547" ID="ID_1641413989" MODIFIED="1428254614259" TEXT="Necesidad de nuevos mercados de la burgues&#xed;a comercial">
-<node COLOR="#ff3333" CREATED="1428112420618" ID="ID_357597070" MODIFIED="1428112525082" STYLE="bubble" TEXT="Debido a">
+<node COLOR="#ff3333" CREATED="1428112420618" FOLDED="true" ID="ID_357597070" MODIFIED="1429206583072" STYLE="bubble" TEXT="debido a">
 <font NAME="SansSerif" SIZE="11"/>
 <node CREATED="1428112537729" ID="ID_559174131" MODIFIED="1428254727437" TEXT="Aumento del comercio en Europa"/>
 <node CREATED="1428112555284" ID="ID_832815137" MODIFIED="1428254731316" TEXT="Bloqueo de rutas terrestres por turcos"/>
@@ -14,14 +14,14 @@
 </node>
 </node>
 <node CREATED="1428112171877" ID="ID_1197153111" MODIFIED="1428254629216" TEXT="Alianza entre los Reyes Cat&#xf3;licos y la burgues&#xed;a comercial">
-<node COLOR="#ff3333" CREATED="1428112607689" ID="ID_1475397668" MODIFIED="1428112639721" TEXT="Con el objetivo de">
+<node COLOR="#ff3333" CREATED="1428112607689" ID="ID_1475397668" MODIFIED="1429206600287" TEXT="con el objetivo de">
 <font NAME="SansSerif" SIZE="11"/>
 <node CREATED="1428112647016" ID="ID_1441276569" MODIFIED="1428254737160" TEXT="Controlar el poder de la nobleza"/>
 <node CREATED="1428112666551" ID="ID_386747480" MODIFIED="1428254739816" TEXT="Imponer su poder y consolidar los territorios de Espa&#xf1;a"/>
 </node>
 </node>
 <node CREATED="1428112224961" ID="ID_847985245" MODIFIED="1428254663664" TEXT="Inter&#xe9;s de los reyes por expandir sus territorios y riquezas">
-<node COLOR="#ff3333" CREATED="1428112733642" ID="ID_348960427" MODIFIED="1428112748947" TEXT="Para">
+<node COLOR="#ff3333" CREATED="1428112733642" ID="ID_348960427" MODIFIED="1429206607976" TEXT="para">
 <font NAME="SansSerif" SIZE="11"/>
 <node CREATED="1428112754175" ID="ID_145951782" MODIFIED="1428254779749" TEXT="Ser potencia en Europa"/>
 <node CREATED="1428113124660" ID="ID_949675382" MODIFIED="1428254783760" TEXT="Forjar armas para la guerra"/>
@@ -29,7 +29,7 @@
 </node>
 </node>
 <node CREATED="1428112253999" ID="ID_170844907" MODIFIED="1428254709105" TEXT="Inter&#xe9;s de monarqu&#xed;a e Iglesia por difundir el cristianismo">
-<node COLOR="#ff3333" CREATED="1428112813623" ID="ID_1110966063" MODIFIED="1428112829274" TEXT="Con el fin de">
+<node COLOR="#ff3333" CREATED="1428112813623" ID="ID_1110966063" MODIFIED="1429206616500" TEXT="con el fin de">
 <font NAME="SansSerif" SIZE="11"/>
 <node CREATED="1428112833031" ID="ID_1696999861" MODIFIED="1428254790116" TEXT="Ganar la guerra contra los infieles"/>
 <node CREATED="1428112851297" ID="ID_98045691" MODIFIED="1428254795335" TEXT="Imponer el cristianismo en Europa y el resto del mundo"/>
@@ -37,7 +37,7 @@
 </node>
 <node CREATED="1428112300651" ID="ID_672128928" MODIFIED="1428254646320" TEXT="Avances cient&#xed;ficos y t&#xe9;cnicos que permitieron la navegaci&#xf3;n">
 <font NAME="SansSerif" SIZE="12"/>
-<node COLOR="#ff3333" CREATED="1428112903357" ID="ID_65823065" MODIFIED="1428112989783" TEXT="Como">
+<node COLOR="#ff3333" CREATED="1428112903357" ID="ID_65823065" MODIFIED="1429206622776" TEXT="como">
 <font NAME="SansSerif" SIZE="11"/>
 <node CREATED="1428112924520" ID="ID_491386923" MODIFIED="1428254928993" TEXT="P&#xf3;lvora, imprenta, astrolabio, cuadrante, br&#xfa;jula, portulanos, almanaques y embarcaciones (carabelas y naos)"/>
 </node>

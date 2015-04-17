@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="4" clase="a" aprid="M4a">
+  <enunciado><![CDATA[Responde a las siguientes preguntas sobre los rasgos que definen la ideología fascista y cómo esta triunfó en algunos países europeos.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="9">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué modelo económico defendía el fascismo?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="La autarquía." correcta="1" />
+        <respuesta contestacion="El liberalismo." correcta="0" />
+        <respuesta contestacion="El colectivismo." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué papel debía desempeñar el Estado desde el punto de vista fascista?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Debía intervenir totalmente en todos los ámbitos." correcta="1" />
+        <respuesta contestacion="Tenía que intervenir mínimamente en la economía." correcta="0" />
+        <respuesta contestacion="Tenía que ser un mero observador de la vida pública y privada." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál de estos rasgos no es propio del Estado fascista?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Sistema de partido único." correcta="0" />
+        <respuesta contestacion="Nacionalismo exacerbado." correcta="0" />
+        <respuesta contestacion="Ausencia de un líder claro." correcta="1" />
+        <respuesta contestacion="Corporativismo." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué contexto surgieron los fascismos europeos?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="En épocas de crisis." correcta="1" />
+        <respuesta contestacion="En períodos de bonanza económica." correcta="0" />
+        <respuesta contestacion="Durante la I Guerra Mundial." correcta="0" />
+        <respuesta contestacion="En estados sin clase media." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál de estos nombres no corresponde a un líder fascista?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Todos eran líderes fascistas." correcta="1" />
+        <respuesta contestacion="Francisco Franco." correcta="0" />
+        <respuesta contestacion="Benito Mussolini." correcta="0" />
+        <respuesta contestacion="Adolf Hitler." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Dónde nació el fascismo?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="En Italia." correcta="1" />
+        <respuesta contestacion="En Francia." correcta="0" />
+        <respuesta contestacion="En Alemania." correcta="0" />
+        <respuesta contestacion="En España." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué año accedió Hitler al poder?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="1933" correcta="1" />
+        <respuesta contestacion="1919" correcta="0" />
+        <respuesta contestacion="1939" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre se le da al fascismo alemán?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Nacionalsocialismo" correcta="1" />
+        <respuesta contestacion="Pangermanismo" correcta="0" />
+        <respuesta contestacion="Falangismo" correcta="0" />
+        <respuesta contestacion="Fuhrismo" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Para qué fueron utilizadas la propaganda, la censura y la represión en la Alemania nazi?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Para controlar a la población." correcta="1" />
+        <respuesta contestacion="Para protegerse de los ataques socialistas." correcta="0" />
+        <respuesta contestacion="Para construir una dictadura proletaria en Alemania." correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Distingue las características del fascismo</titulo>
+    <area>2</area>
+    <nivel>2</nivel>
+    <referencia><![CDATA[CS_10_07_06]]></referencia>
+    <idreg><![CDATA[55]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>
