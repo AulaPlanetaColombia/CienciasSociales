@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<libro id="CS_06_01_CO">
+  <libroTitulo>La historia</libroTitulo>
+  <seccion1 id="S1_CS_06_01_CO_03E0CA843D67455FA94D627E48E01411">
+    <seccion1Titulo>¿Qué es la historia?</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_06_01_CO_img_01_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <seccion2 id="S2_CS_06_01_CO_D6F7875639724899914204A3186D4A5F">
+        <seccion2Titulo>Importancia</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_01_CO_img_02_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_01_CO_3AC84FE94A714F63A39A8A6558E7CEC3">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso010&amp;IdRecurso=RES-EB87A73EC77F4021BE5A95A5E044C71A">La historia</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_01_CO_1AA1E908705B45FFAD25D4064902C065">
+    <seccion1Titulo>Cronología</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <p>Aquí va un PÁRRAFO</p>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso020&amp;IdRecurso=RES-80D59E6270424CCD849096DC606D416E">Interpreta números romanos</enlace>
+      </practica>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso030&amp;IdRecurso=RES-FDA8FDE90749490F9381D4A0D2CAB6E1">La cronología</enlace>
+      </profundiza>
+      <p>Aquí va un PÁRRAFO</p>
+      <seccion2 id="S2_CS_06_01_CO_158BCA7505CE430EB480F3737E6C3B7C">
+        <seccion2Titulo>Métodos para la medición del tiempo en hallazgos arqueológicos</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso040&amp;IdRecurso=RES-A9FE960F98D74B7F808201B33D77E32C">Comprende cómo se realiza la datación histórica</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_01_CO_94C910E072104C118D2B1BE9DA6738C2">
+    <seccion1Titulo>Etapas de la historia</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <seccion2 id="S2_CS_06_01_CO_D8BBF28976B944908324E1DA12CB3259">
+        <seccion2Titulo>La prehistoria</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <seccion3 id="S3_CS_06_01_CO_CC8A4D6D5644407682781C7C3673A74E">
+            <seccion3Titulo>El Paleolítico</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CS_06_01_CO_8CB3C40EFF304349ACF489611EDE9145">
+            <seccion3Titulo>El Neolítico</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CS_06_01_CO_C8AED1F84F4F420E9A4B4554D07ADDAF">
+            <seccion3Titulo>La Edad de los Metales</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_06_01_CO_img_03_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_01_CO_FA168FF851974EBCAE8EDBF5619EE377">
+        <seccion2Titulo>La Edad Antigua</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_01_CO_img_04_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_01_CO_63E6CF0364654C39A5DDFCEC483B61CE">
+        <seccion2Titulo>La Edad Media</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_01_CO_img_05_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_01_CO_C1D112A4698445CA97205C8F196A0555">
+        <seccion2Titulo>La Edad Moderna</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_01_CO_img_06_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <imagen src="CS_06_01_CO_img_07_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_01_CO_7A8E9983A2F94836810A34DDBDDDECC4">
+        <seccion2Titulo>La Edad Contemporánea</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_01_CO_img_08_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <imagen src="CS_06_01_CO_img_09_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso050&amp;IdRecurso=RES-74BF6002030243D282B7252D756DB05B">Las etapas de la historia</enlace>
+          </profundiza>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso060&amp;IdRecurso=RES-483D941C359E4DB1AD553A244803D43A">Realiza un eje cronológico</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso070&amp;IdRecurso=RES-AA7BA0AD58244E129C257A82F36A77C2">Refuerza tu aprendizaje: Las etapas de la historia</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_01_CO_482330C5CC714506962ECE02EAEA7EF3">
+    <seccion1Titulo>Las fuentes históricas</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso080&amp;IdRecurso=RES-50812EA2B7F24A84BDD530068D86FA80">Refuerza tu aprendizaje: El estudio del pasado</enlace>
+      </practica>
+      <seccion2 id="S2_CS_06_01_CO_B5E252290B0E40C2A147F976160A4D24">
+        <seccion2Titulo>Las fuentes materiales</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_01_CO_img_10_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso090&amp;IdRecurso=RES-9B20B02E114942978685260A19BE5330">Las fuentes artísticas</enlace>
+          </profundiza>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_01_CO_64633641F18C4F6FAFB5911B236B4734">
+        <seccion2Titulo>Las fuentes orales</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_01_CO_img_11_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso100&amp;IdRecurso=RES-7DA53AEFDFE84742A7EC19F38DB09615">Las fuentes orales</enlace>
+          </profundiza>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso110&amp;IdRecurso=RES-652CC7A9DD1A4A479829F156C2AE0EA6">Completa la definición de fuente oral</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_01_CO_276A1F06088341ADB167157677EEA000">
+        <seccion2Titulo>Las fuentes audiovisuales</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_01_CO_img_12_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso120&amp;IdRecurso=RES-D84AF0EB5DCC41F0BE1A73D28F4FDB8A">Las fuentes audiovisuales</enlace>
+          </profundiza>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_01_CO_5DE24242CAD04F648FC28A131CB071A5">
+        <seccion2Titulo>Las fuentes escritas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <p>Aquí va un PÁRRAFO</p>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso130&amp;IdRecurso=RES-FE29A08F033F4E118B53DA4DCDFE1CF5">Las fuentes escritas</enlace>
+          </profundiza>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso140&amp;IdRecurso=RES-06C40D2E1F1746EDA030612C157350BA">Asocia cada tipo de escritura a su soporte</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso150&amp;IdRecurso=RES-B3F3BBCAD6A94F97938DA28878534A27">Refuerza tu aprendizaje: Las fuentes históricas</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_01_CO_B6FD1FDBE0644BD5BECF37732F50DC33">
+    <seccion1Titulo>Las ciencias auxiliares de la historia</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <seccion2 id="S2_CS_06_01_CO_126D93EA237B4483BECE1ABFF0F220EA">
+        <seccion2Titulo>La arqueología</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <seccion3 id="S3_CS_06_01_CO_D212471ED3C64F71AA4311CC2747D566">
+            <seccion3Titulo>Tipos de restos arqueológicos</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_06_01_CO_img_13_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso160&amp;IdRecurso=RES-4269A61D4F7C4A7B887B493A271FB5E3">Reconoce tipos de restos arqueológicos</enlace>
+              </practica>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_01_CO_E5EBB42A32C2406FB8CDC315FD426350">
+        <seccion2Titulo>Otras ciencias relacionadas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_01_CO_img_14_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso170&amp;IdRecurso=RES-E5FB791866574281AE09718609FA21AE">Las fuentes materiales</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso180&amp;IdRecurso=RES-DDDCF3EEB2A140E19E98B78803C597DE">Refuerza tu aprendizaje: Las ciencias auxiliares de la historia</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_01_CO_D866E375422A429496E6D9CAFEC00D0A">
+    <seccion1Titulo>Competencias</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso190&amp;IdRecurso=RES-33295FF2331246EC9FEBD7D1019BE83C">Competencias: análisis de las fuentes para el estudio del pasado</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_01_CO_86E455D419A64E6F9A3E9032AB9476FB">
+    <seccion1Titulo>Ejercitación, proyectos y competencias</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso200&amp;IdRecurso=RES-5428484DCDDF429BA4CB9B1533E05D7C">Proyecto: estudio de testimonios orales y hechos históricos</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_01_CO_8557BB6279AD4B79B9C0B77B9A630F02">
+    <seccion1Titulo>Fin de tema</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+    </seccion1Texto>
+    <mapaconceptual>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso210&amp;IdRecurso=RES-F3E597E3EA6C4A18B5F86BEB1C67E362">Mapa Conceptual</enlace>
+    </mapaconceptual>
+    <autoevaluate>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_01_CORecurso220&amp;IdRecurso=RES-001C584F338840838A653B38CA91A1DC">Evaluación</enlace>
+    </autoevaluate>
+    <enlacesreferencia>
+      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+    </enlacesreferencia>
+  </seccion1>
+</libro>
