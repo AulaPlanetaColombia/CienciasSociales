@@ -49,23 +49,6 @@
 							buttonImage: pppPreloader.from('CDN', 'extlib/calculadora/calculator.png')
 						});
 						
-						var text = "";
-						for(i =0; i < Motor.symbols.length; i++)
-						{
-							var label = Motor.familyNames[i];
-							text = text + "<div class='symbolTitle'>"+label+"</div><div class='symbolTable'>";
-							var simbols = Motor.symbols[i].split(" ");
-							for(j=0; j < simbols.length; j++){
-								var simboltext = simbols[j];
-								text = text + " <div class='symbolCell' onclick='buttonSymbol("+ i + "," + j + ")'>" + simbols[j] + "</div>";
-							}
-							text = text + "</div>";
-						}	
-						//console.log(text);
-						text = text + "</div>";
-						document.getElementById("symbolHtml").innerHTML = text;
-
-						
 						// Ocultamos el spinner, ahora que ya est� todo inicializado
 						pppSpinner.hide();
 
@@ -82,7 +65,7 @@
 				//   la carpeta 'motors/m4a/'.
 				pppPreloader.init( {
         			aliases: { "module": "CDN" },
-	        		remotePaths: { "module": "motors/m101a/" }
+	        		remotePaths: { "module": "motors/m4a/" }
 	      		});
 				
 				// Mostramos el spinner, ya que as� controlamos cu�ndo quitarlo (por ejemplo, cuando se
@@ -108,6 +91,7 @@
         		}
 
 	    </script>
+
     </head>
     <body id="background">
     	
@@ -118,13 +102,21 @@
         <!-- Add your site or application content here -->
         <div id="aplicacion">
         	<div id="wrapper">
+	        	
 				<div id="mediaHolder" style="height:0px">
 				</div>
-				
 				<canvas id="stage" width="950" height="608"></canvas>
 				<span  id="calculator"></span>
-				<div id="symbolHtml" class="symbolContainer"></div>
 			</div>
 		</div>
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. 
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+        </script>-->
     </body>
 </html>
