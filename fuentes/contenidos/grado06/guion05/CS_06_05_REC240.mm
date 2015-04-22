@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node BACKGROUND_COLOR="#999999" CREATED="1425997422051" ID="ID_201509023" MODIFIED="1428457638459" TEXT="El poblamiento de Am&#xe9;rica">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1425997884517" ID="ID_1575850242" MODIFIED="1426006181152" POSITION="right" TEXT="Originarios de" VSHIFT="-7">
+<node CREATED="1425997884517" ID="ID_1575850242" MODIFIED="1429195085136" POSITION="right" TEXT="originarios de" VSHIFT="-7">
 <node BACKGROUND_COLOR="#cccccc" CREATED="1425997897749" HGAP="21" ID="ID_1631231615" MODIFIED="1428457687983" STYLE="bubble" TEXT="Asia, Siberia, Mongolia, Polinesia, Islas Maori, Melanesia, islas de Ocean&#xed;a, Nueva Guinea, Nueva Caledonia, Nuevas H&#xe9;bridas y Fiji" VSHIFT="11">
 <font NAME="SansSerif" SIZE="14"/>
 <node CREATED="1425998110972" HGAP="19" ID="ID_14163613" MODIFIED="1426006189278" STYLE="fork" TEXT="entraron por el" VSHIFT="-7">
@@ -86,7 +86,7 @@
 <arrowlink DESTINATION="ID_1467434267" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1433095939" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1467434267" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1433095939" SOURCE="ID_1467434267" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node CREATED="1428458314249" FOLDED="true" ID="ID_1079383550" MODIFIED="1428458457650" STYLE="fork" TEXT="como">
+<node CREATED="1428458314249" ID="ID_1079383550" MODIFIED="1429195109001" STYLE="fork" TEXT="como">
 <node BACKGROUND_COLOR="#66cc00" CREATED="1428458346042" ID="ID_1069220866" MODIFIED="1428458427963" STYLE="bubble" TEXT="Templos y pir&#xe1;mides">
 <font NAME="SansSerif" SIZE="14"/>
 </node>

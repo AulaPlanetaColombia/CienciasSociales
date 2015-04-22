@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="5" clase="b" aprid="M5b">
+  <enunciado><![CDATA[Después de ver el vídeo, responde a las preguntas sobre la crisis económica que afectó a Estados Unidos durante la década de 1930. ]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué fue el crack de 1929?]]></enunciado>
+      <explicacion />
+      <video>VI000505_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="La quiebra de la bolsa de Nueva York." correcta="1" />
+        <respuesta contestacion="La consecuencia directa de la crisis de la década de 1920." correcta="0" />
+        <respuesta contestacion="El momento álgido de la economía de entreguerras." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Por qué se produjo el crack de 1929?]]></enunciado>
+      <explicacion />
+      <video>VI000505_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Por la concentración de las inversiones en el mercado americano." correcta="1" />
+        <respuesta contestacion="Por la depresión económica que siguió al fin de la Gran Guerra." correcta="0" />
+        <respuesta contestacion="Por el aumento de los precios." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibió el plan de reformas impulsado por Franklin D. Roosevelt?]]></enunciado>
+      <explicacion />
+      <video>VI000505_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="New Deal." correcta="1" />
+        <respuesta contestacion="New Crash." correcta="0" />
+        <respuesta contestacion="New Trust." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué año se considera que Estados Unidos dejó atrás la Gran Depresión?]]></enunciado>
+      <explicacion />
+      <video>VI000505_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="1939" correcta="1" />
+        <respuesta contestacion="1933" correcta="0" />
+        <respuesta contestacion="1929" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué fecha propuso Franklin D. Roosevelt el primer New Deal?]]></enunciado>
+      <explicacion />
+      <video>VI000505_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="1933" correcta="1" />
+        <respuesta contestacion="1929" correcta="0" />
+        <respuesta contestacion="1939" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué supuso el hundimiento de la Bolsa de Nueva York para los pequeños inversores?]]></enunciado>
+      <explicacion />
+      <video>VI000505_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="La mayoría quedó arruinada." correcta="1" />
+        <respuesta contestacion="Solo una minoría lo perdió todo." correcta="0" />
+        <respuesta contestacion="Los bancos garantizaron sus ahorros." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cómo reaccionaron los bancos ante el desplome de las cotizaciones bursátiles?]]></enunciado>
+      <explicacion />
+      <video>VI000505_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="No pudieron garantizar sus depósitos." correcta="1" />
+        <respuesta contestacion="Aumentaron la concesión de créditos a los inversores." correcta="0" />
+        <respuesta contestacion="Se deshicieron de sus acciones rápidamente." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles fueron los dos principales problemas que hubo de afrontar la economía estadounidense durante la Gran Depresión que siguió al crack de 1929?]]></enunciado>
+      <explicacion />
+      <video>VI000505_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Aumento del paro y brusco descenso de los precios." correcta="1" />
+        <respuesta contestacion="Aumento del paro y de los precios." correcta="0" />
+        <respuesta contestacion="Disminución del desempleo y estabilidad de los precios." correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Identifica qué fue la Gran Depresión y el New Deal</titulo>
+    <area>2</area>
+    <nivel>2</nivel>
+    <referencia><![CDATA[CS_10_07_03]]></referencia>
+    <idreg><![CDATA[45]]></idreg>
+    <motor><![CDATA[M5B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

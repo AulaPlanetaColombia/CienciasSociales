@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="101" clase="a">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Las consecuencias del imperialismo</titulo>
+    <volumen/>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia/>
+    <motor/>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Observa la imagen y luego responde por escrito.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="1">
+    <pregunta>
+      <enunciado><![CDATA[Si el imperialismo tuvo que ver con la ambición y el reparto de territorios, ¿por qué podemos afirmar que una de sus consecuencias principales fue la Primera Guerra Mundial? Reflexiona y escribe tu respuesta.]]></enunciado>
+      <explicacion><![CDATA[Este es un grabado llamado "Estrangulado por el caucho. Escena. - El Estado 'Libre' del Congo". Allí Linley Sambourne muestra al rey Leopoldo II de Bélgica como una serpiente que ahorca a un recolector de caucho.]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen><![CDATA[cs_09_01_rec100_img01n.jpg]]></imagen>
+      <ampliacion><![CDATA[cs_09_01_rec100_img01a.jpg]]></ampliacion>
+      <texto/>
+    </pregunta>
+  </preguntas>
+  <temps>40</temps>
+</motor>

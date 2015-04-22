@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1428283580193" ID="ID_1229208781" MODIFIED="1428285504934" TEXT="Am&#xe9;rica Latina (1870-1989)">
+<node CREATED="1428283580193" ID="ID_1229208781" MODIFIED="1429282220400" TEXT="Am&#xe9;rica Latina (1870-1989)">
 <node CREATED="1428283705878" HGAP="37" ID="ID_1265452996" MODIFIED="1428285269928" POSITION="right" TEXT="vivi&#xf3; tres tipos de reg&#xed;menes" VSHIFT="-6">
 <node CREATED="1428283934981" HGAP="31" ID="ID_889127163" MODIFIED="1428285273700" TEXT="desde 1870 hasta 1930" VSHIFT="-75">
 <node CREATED="1428284066271" ID="ID_1459444859" MODIFIED="1428287652469" STYLE="fork" TEXT="estados olig&#xe1;rquicos">
@@ -9,8 +9,8 @@
 <node CREATED="1428284172558" HGAP="22" ID="ID_544490333" MODIFIED="1428287734228" STYLE="bubble" TEXT="monoexportadores" VSHIFT="-40">
 <node CREATED="1428284306664" ID="ID_15802084" MODIFIED="1428287734228" STYLE="fork" TEXT="Colombia: tabaco / Chile: nitratos /Per&#xfa;: guano, etc"/>
 </node>
-<node CREATED="1428284215249" ID="ID_1472793433" MODIFIED="1428287744170" STYLE="bubble" TEXT="abiertos a inversi&#xf3;n extranjeras en sectores clave: miner&#xed;a, transportes"/>
-<node CREATED="1428284265634" FOLDED="true" HGAP="23" ID="ID_1060891320" MODIFIED="1428287748190" STYLE="bubble" TEXT="autoritarios y excluyentes " VSHIFT="20">
+<node CREATED="1428284215249" ID="ID_1472793433" MODIFIED="1429282243846" STYLE="bubble" TEXT="abiertos a inversi&#xf3;n extranjera en sectores clave: miner&#xed;a, transportes"/>
+<node CREATED="1428284265634" FOLDED="true" HGAP="23" ID="ID_1060891320" MODIFIED="1429282247441" STYLE="bubble" TEXT="autoritarios y excluyentes " VSHIFT="20">
 <node CREATED="1428284420010" ID="ID_1703255628" MODIFIED="1428284420010" TEXT=""/>
 </node>
 </node>
@@ -25,7 +25,7 @@
 <node CREATED="1428287128283" ID="ID_1477875488" MODIFIED="1428287814396" STYLE="bubble" TEXT="disminuy&#xf3; demanda de productos"/>
 </node>
 <node CREATED="1428287202249" ID="ID_1815903141" MODIFIED="1428287806645" STYLE="fork" TEXT="y fue necesario">
-<node CREATED="1428287214906" ID="ID_174884308" MODIFIED="1428287830076" STYLE="bubble" TEXT="&lt;"/>
+<node CREATED="1428287214906" ID="ID_174884308" MODIFIED="1429282280150" STYLE="bubble" TEXT="crear nuevo modelo econ&#xf3;mico"/>
 </node>
 </node>
 </node>
@@ -55,7 +55,7 @@
 <node CREATED="1428285915649" ID="ID_853169167" MODIFIED="1428287883427" STYLE="bubble" TEXT="anti imperialismo"/>
 </node>
 <node CREATED="1428286260445" ID="ID_857882590" MODIFIED="1428287872614" STYLE="fork" TEXT="inspiradas en">
-<node CREATED="1428286282087" ID="ID_666834336" MODIFIED="1428287883427" STYLE="bubble" TEXT="revoluci&#xf3;n mexicana"/>
+<node CREATED="1428286282087" ID="ID_666834336" MODIFIED="1429282323711" STYLE="bubble" TEXT="Revoluci&#xf3;n mexicana"/>
 </node>
 </node>
 </node>
@@ -69,25 +69,23 @@
 </node>
 </node>
 <node CREATED="1428283990442" HGAP="37" ID="ID_78135921" MODIFIED="1428286384998" TEXT="desde 1964 hasta 1989" VSHIFT="55">
-<node CREATED="1428284086510" ID="ID_1529052411" MODIFIED="1428287714258" STYLE="fork" TEXT="dictaduras militares">
+<node CREATED="1428284086510" ID="ID_1529052411" MODIFIED="1429282372945" STYLE="bubble" TEXT="dictaduras militares">
 <icon BUILTIN="full-3"/>
-<node CREATED="1428284156526" HGAP="17" ID="ID_1314534220" MODIFIED="1428287242587" TEXT="caracterizadas por " VSHIFT="44">
-<node CREATED="1428284936641" ID="ID_749252185" MODIFIED="1428287242587" TEXT="aniquilar a la oposici&#xf3;n"/>
-<node CREATED="1428284951357" ID="ID_1784369991" MODIFIED="1428287242587" TEXT="romper equilibrio de poderes"/>
-<node CREATED="1428284970827" ID="ID_1466689245" MODIFIED="1428287242587" TEXT="desnacionalizar de industrias y bienes "/>
+<node CREATED="1428284156526" HGAP="17" ID="ID_1314534220" MODIFIED="1429282380120" STYLE="fork" TEXT="caracterizadas por " VSHIFT="44">
+<node CREATED="1428284936641" ID="ID_749252185" MODIFIED="1429282380120" STYLE="bubble" TEXT="aniquilar a la oposici&#xf3;n"/>
+<node CREATED="1428284951357" ID="ID_1784369991" MODIFIED="1429282380120" STYLE="bubble" TEXT="romper equilibrio de poderes"/>
+<node CREATED="1428284970827" ID="ID_1466689245" MODIFIED="1429282404690" STYLE="bubble" TEXT="desnacionalizar industrias y bienes "/>
 </node>
-<node CREATED="1428286448588" HGAP="25" ID="ID_381528113" MODIFIED="1428287242587" TEXT="surgieron para" VSHIFT="-52">
+<node CREATED="1428286448588" HGAP="25" ID="ID_381528113" MODIFIED="1429282465478" STYLE="fork" TEXT="surgieron para " VSHIFT="-52">
 <arrowlink DESTINATION="ID_381528113" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1112285207" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_381528113" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1112285207" SOURCE="ID_381528113" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<node CREATED="1428286466343" ID="ID_1689880936" MODIFIED="1428287242587" TEXT="detener">
-<node CREATED="1428286536699" ID="ID_247350464" MODIFIED="1428287242587" TEXT="avance de clases obreras interesadas en tomar el poder"/>
-<node CREATED="1428287006942" ID="ID_1090236623" MODIFIED="1428287242587" TEXT="alinear al continente con Estados Unidos durante la Guerra Fr&#xed;a"/>
+<node CREATED="1428286536699" ID="ID_247350464" MODIFIED="1429282477287" STYLE="bubble" TEXT="contener avance de clases obreras interesadas en tomar el poder"/>
+<node CREATED="1428287006942" ID="ID_1090236623" MODIFIED="1429282480947" STYLE="bubble" TEXT="alinear al continente con Estados Unidos durante la Guerra Fr&#xed;a"/>
 </node>
-</node>
-<node CREATED="1428287531836" ID="ID_1848121249" MODIFIED="1428287537493" TEXT="terminaron ">
-<node CREATED="1428287541462" ID="ID_174308133" MODIFIED="1428287563080" TEXT="cuando">
-<node CREATED="1428287546861" ID="ID_1830989227" MODIFIED="1428287552126" TEXT="cay&#xf3; el muro de Berl&#xed;n"/>
-<node CREATED="1428287565533" ID="ID_1639685487" MODIFIED="1428287590027" TEXT="la comunidad internacional presion&#xf3; porque se conocieron violaciones a derechos humanos"/>
+<node CREATED="1428287531836" ID="ID_1848121249" MODIFIED="1429282391884" STYLE="fork" TEXT="terminaron ">
+<node CREATED="1428287541462" ID="ID_174308133" MODIFIED="1429282391884" TEXT="cuando">
+<node CREATED="1428287546861" ID="ID_1830989227" MODIFIED="1429282485573" STYLE="bubble" TEXT="cay&#xf3; el muro de Berl&#xed;n"/>
+<node CREATED="1428287565533" ID="ID_1639685487" MODIFIED="1429282488982" STYLE="bubble" TEXT="la comunidad internacional presion&#xf3; porque se conocieron violaciones a derechos humanos"/>
 </node>
 </node>
 </node>
