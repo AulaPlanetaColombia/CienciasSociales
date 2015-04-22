@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Evaluación</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Lee las preguntas y elige la respuesta correcta.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibió la ola de revueltas antiseñoriales que se dieron en Francia tras el estallido de la Revolución Francesa?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="El gran miedo." correcta="1"/>
+        <respuesta contestacion="El terror." correcta="0"/>
+        <respuesta contestacion="El directorio." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál era una de las reivindicaciones más importantes del liberalismo político?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La separación de poderes." correcta="1"/>
+        <respuesta contestacion="Los impuestos al rey." correcta="0"/>
+        <respuesta contestacion="La extensión de la educación y la cultura." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es el hecho que marca en realidad el inicio de la Revolución Francesa?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La proclamación de la Asamblea en los Estados Generales." correcta="1"/>
+        <respuesta contestacion="El asalto del fortín de la Bastilla." correcta="0"/>
+        <respuesta contestacion="La ejecución de Luis XVI en la guillotina." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En cuáles etapas se divide la Revolución Francesa?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La monarquía constitucional, la Convención y el Directorio." correcta="1"/>
+        <respuesta contestacion="La primera República, la Convención y el Directorio." correcta="0"/>
+        <respuesta contestacion="La Convención, el Directorio y el Consulado." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿De dónde se supone que emana el poder absoluto de los monarcas del Antiguo Régimen?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="De Dios." correcta="1"/>
+        <respuesta contestacion="Del pueblo." correcta="0"/>
+        <respuesta contestacion="Del parlamento." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué perseguió el despotismo ilustrado con sus políticas reformistas?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Modernizar la economía sin alterar el orden social y político establecido." correcta="1"/>
+        <respuesta contestacion="Mantener la hegemonía política de la burguesía frente a la nobleza y el clero." correcta="0"/>
+        <respuesta contestacion="Transformar el régimen político sin alterar el orden social." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué año proclamaron las Trece colonias británicas su independencia frente a la corona inglesa?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="1776" correcta="1"/>
+        <respuesta contestacion="1886" correcta="0"/>
+        <respuesta contestacion="1789" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién se coronó emperador de Francia en 1804?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Napoleón Bonaparte." correcta="1"/>
+        <respuesta contestacion="El jacobino Robespierre." correcta="0"/>
+        <respuesta contestacion="Federico II El Grande." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién fue el líder más destacado de los jacobinos?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Robespierre." correcta="1"/>
+        <respuesta contestacion="Danton." correcta="0"/>
+        <respuesta contestacion="Napoleón." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es la obra más representativa de la Ilustración?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La Enciclopedia." correcta="1"/>
+        <respuesta contestacion="Reflexiones sobre la democracia." correcta="0"/>
+        <respuesta contestacion="El contrato social." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>20</temps>
+</motor>
