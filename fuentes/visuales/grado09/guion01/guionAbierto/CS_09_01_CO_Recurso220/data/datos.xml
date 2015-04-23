@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Evaluación</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Lee las preguntas y elige la respuesta correcta.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibían los territorios bajo dominio colonial ocupados por población europea y con un cierto grado de autogobierno?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Dominio." correcta="1"/>
+        <respuesta contestacion="Protectorado." correcta="0"/>
+        <respuesta contestacion="Colonia." correcta="0"/>
+        <respuesta contestacion="Territorio metropolitano." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién presentó la Doctrina Monroe ante el Congreso de los Estados Unidos en el año 1823?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="James Monroe." correcta="1"/>
+        <respuesta contestacion="John Quincy Adams." correcta="0"/>
+        <respuesta contestacion="Henry Morton Stanley." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La batalla de Verdun, enfrentó a estos dos ejércitos:]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Francia y Alemania." correcta="1"/>
+        <respuesta contestacion="Francia y Polonia." correcta="0"/>
+        <respuesta contestacion="Alemania y Rusia." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál reunión representó el reparto de África entre las distintas potencias europeas en 1885?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La Conferencia de Berlín." correcta="1"/>
+        <respuesta contestacion="El Tratado de Versalles." correcta="0"/>
+        <respuesta contestacion="La Conferencia de Tánger." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál reina de Inglaterra fue programa emperatriz de la India?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La reina Victoria." correcta="1"/>
+        <respuesta contestacion="La reina Isabel I." correcta="0"/>
+        <respuesta contestacion="La reina Isabel II." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>20</temps>
+</motor>
