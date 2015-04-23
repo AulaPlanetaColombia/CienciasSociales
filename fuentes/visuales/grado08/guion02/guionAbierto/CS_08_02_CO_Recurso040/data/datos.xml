@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="d" aprid="m5d">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Refuerza tu aprendizaje: Las rebeliones del siglo XVIII</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5D]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Luego de leer el texto, responde a la pregunta. Elige la respuesta correcta.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="3">
+    <cuestion>
+      <enunciado><![CDATA[En Alto Perú, hoy Bolivia, la rebelión fue dirigida por]]></enunciado>
+      <explicacion/>
+      <texto><![CDATA[Desde mediados del siglo XVIII hubo levantamientos en todo el continente. La rebelión de Túpac Amaru II inició en la ciudad de Cuzco en 1780. En el Alto Perú se le unió Túpac Katari. Buscaban la supresión del trabajo indígena forzoso. Los criollos se unieron a los españoles para derrotarlos. Los dos líderes fueron descuartizados. El virrey hizo que cada una de sus partes fuera exhibida en las poblaciones que apoyaron su rebelión. En 1781 en el virreinato de la Nueva Granada ocurrió la Rebelión de los Comuneros. La causa fue el aumento de impuestos y el alza de los precios de algunos productos. Uno de sus líderes, José Antonio Galán, fue descuartizado y las partes de su cuerpo, exhibidas en las poblaciones que apoyaron la insurrección.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Túpac Katari." correcta="1"/>
+        <respuesta contestacion="Túpac Amaru II." correcta="0"/>
+        <respuesta contestacion="Manuela Beltrán." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En Cuzco, la rebelión fue dirigida por]]></enunciado>
+      <explicacion/>
+      <texto><![CDATA[Desde mediados del siglo XVIII hubo levantamientos en todo el continente. La rebelión de Túpac Amaru II inició en la ciudad de Cuzco en 1780. En el Alto Perú se le unió Túpac Katari. Buscaban la supresión del trabajo indígena forzoso. Los criollos se unieron a los españoles para derrotarlos. Los dos líderes fueron descuartizados. El virrey hizo que cada una de sus partes fuera exhibida en las poblaciones que apoyaron su rebelión. En 1781 en el virreinato de la Nueva Granada ocurrió la Rebelión de los Comuneros. La causa fue el aumento de impuestos y el alza de los precios de algunos productos. Uno de sus líderes, José Antonio Galán, fue descuartizado y las partes de su cuerpo, exhibidas en las poblaciones que apoyaron la insurrección.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Túpac Amaru II." correcta="1"/>
+        <respuesta contestacion="José Antonio Galán." correcta="0"/>
+        <respuesta contestacion="Túpac Katari." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Aunque las rebeliones ocurrieron en distintos sitios de las colonias, hubo un castigo común que se aplicó en todos los casos:]]></enunciado>
+      <explicacion/>
+      <texto><![CDATA[Desde mediados del siglo XVIII hubo levantamientos en todo el continente. La rebelión de Túpac Amaru II inició en la ciudad de Cuzco en 1780. En el Alto Perú se le unió Túpac Katari. Buscaban la supresión del trabajo indígena forzoso. Los criollos se unieron a los españoles para derrotarlos. Los dos líderes fueron descuartizados. El virrey hizo que cada una de sus partes fuera exhibida en las poblaciones que apoyaron su rebelión. En 1781 en el virreinato de la Nueva Granada ocurrió la Rebelión de los Comuneros. La causa fue el aumento de impuestos y el alza de los precios de algunos productos. Uno de sus líderes, José Antonio Galán, fue descuartizado y las partes de su cuerpo, exhibidas en las poblaciones que apoyaron la insurrección.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Descuartizamiento" correcta="1"/>
+        <respuesta contestacion="Fusilamiento" correcta="0"/>
+        <respuesta contestacion="Exilio" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>20</temps>
+</motor>

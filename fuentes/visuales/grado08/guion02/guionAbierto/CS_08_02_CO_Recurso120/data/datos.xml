@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="14" clase="a" aprid="m14a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Encuentra el hecho o el personaje</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M14A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Descubre hechos y personajes de la Independencia.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <estilo><![CDATA[1]]></estilo>
+  <intentos><![CDATA[8]]></intentos>
+  <numpreguntas><![CDATA[4]]></numpreguntas>
+  <preguntas>
+    <pregunta enunciado="Rey que abdicó tras la invasión de Napoleón a España." palabra="Fernando VII" visibles="_e_ n_ _ _ o  V_ _"/>
+    <pregunta enunciado="Esa isla logró su independencia en 1804." palabra="Haití" visibles="_ _ _ t _"/>
+    <pregunta enunciado="Almirante guajiro que fue fusilado por orden del general Bolívar." palabra="José Prudencio Padilla" visibles="J _ _ _     _ r_ _ _ _ c _ _   _ a _ _ _ _ _"/>
+    <pregunta enunciado="Él proclamó la independencia del Perú, aunque esta se logró con la batalla de Junín, al mando de Bolívar." palabra="José de San Martín" visibles=" J_ _ _  _ _  _ _n M_ _ _ _ _"/>
+  </preguntas>
+  <temps>15</temps>
+</motor>

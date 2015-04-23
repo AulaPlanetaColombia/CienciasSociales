@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="2" clase="c" aprid="m2c">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Los principios del Plan de Iguala</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M2C]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[El Plan de Iguala con el que se selló la Independencia de México tuvo unos principios precisos. Completa este fragmento del Plan y descubrirás su orientación política.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <sonido/>
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[- La religión católica, apostólica, romana, sin [*] de otra alguna. - Absoluta [*] de este reino. - Todos los habitantes de él, sin otra distinción que su mérito y virtudes, son [*] idóneos para optar cualquier empleo. - Americanos: he aquí el establecimiento y la creación de un nuevo [*]. He aquí lo que ha jurado el ejército de las Tres Garantías, cuya voz lleva el que tiene el honor de dirigírosla. He aquí el objeto para cuya cooperación os invita. No os pide otra cosa que lo que vosotros mismos debéis pedir y apetecer: unión, [*], orden, quietud interior, vigilancia y horror á cualquier movimiento turbulento.  ]]></pregunta>
+      <respuestas>
+        <respuesta orden="1">
+          <opcion correcta="1"><![CDATA[tolerancia]]></opcion>
+          <opcion correcta="0"><![CDATA[paciencia]]></opcion>
+          <opcion correcta="0"><![CDATA[expulsión]]></opcion>
+        </respuesta>
+        <respuesta orden="2">
+          <opcion correcta="1"><![CDATA[independencia]]></opcion>
+          <opcion correcta="0"><![CDATA[sometimiento]]></opcion>
+          <opcion correcta="0"><![CDATA[dependencia]]></opcion>
+        </respuesta>
+        <respuesta orden="3">
+          <opcion correcta="1"><![CDATA[ciudadanos]]></opcion>
+          <opcion correcta="0"><![CDATA[funcionarios]]></opcion>
+          <opcion correcta="0"><![CDATA[mandatarios]]></opcion>
+        </respuesta>
+        <respuesta orden="4">
+          <opcion correcta="1"><![CDATA[Imperio]]></opcion>
+          <opcion correcta="0"><![CDATA[feudo]]></opcion>
+          <opcion correcta="0"><![CDATA[condado]]></opcion>
+        </respuesta>
+        <respuesta orden="5">
+          <opcion correcta="1"><![CDATA[fraternidad]]></opcion>
+          <opcion correcta="0"><![CDATA[encuentro]]></opcion>
+          <opcion correcta="0"><![CDATA[dominación]]></opcion>
+        </respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <temps>15</temps>
+</motor>

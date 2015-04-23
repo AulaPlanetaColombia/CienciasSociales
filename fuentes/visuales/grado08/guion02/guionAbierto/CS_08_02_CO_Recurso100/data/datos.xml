@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="1" clase="a" aprid="m1a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Practica: Las batallas que definieron la Independencia</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M1A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Relaciona las batallas y los países que se independizaron definitivamente con ellas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="5">
+    <cuestion>
+      <pregunta><![CDATA[Junín]]></pregunta>
+      <respuesta><![CDATA[6-ago-1824. Perú]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Pichincha]]></pregunta>
+      <respuesta><![CDATA[24-may-1822. Ecuador]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Carabobo]]></pregunta>
+      <respuesta><![CDATA[24-jun-1821. Venezuela]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Ayacucho]]></pregunta>
+      <respuesta><![CDATA[9-dic-1824. Última batalla]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Boyacá]]></pregunta>
+      <respuesta><![CDATA[7-ago-1819. Colombia]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0"/>
+  <temps>10</temps>
+</motor>
