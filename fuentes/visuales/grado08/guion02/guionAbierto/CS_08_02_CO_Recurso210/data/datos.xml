@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Evaluación</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde a las siguientes preguntas sobre el proceso de Independencia de América.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[¿Cuándo surgieron los Estados en América Latina?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="En el siglo XIX, luego de las luchas independentistas contra España." correcta="1"/>
+        <respuesta contestacion="En el siglo XVI durante la Conquista española." correcta="0"/>
+        <respuesta contestacion="Después dela Primera Guerra Mundial." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles fueron los territorios que liberó Simón Bolívar?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Venezuela, Ecuador, Colombia, Perú y Bolivia" correcta="1"/>
+        <respuesta contestacion="Chile y Argentina" correcta="0"/>
+        <respuesta contestacion="Solo Colombia y Venezuela" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Las colonias americanas se independizaron al mismo tiempo?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="No, emprendieron las guerras en diferentes momentos" correcta="1"/>
+        <respuesta contestacion="Sí, Fernando VII les dio la independencia" correcta="0"/>
+        <respuesta contestacion="Sí, José Bonaparte les dio la independencia en 1811" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién reinaba en España cuando se independizó Venezuela en 1811?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="José Bonaparte" correcta="1"/>
+        <respuesta contestacion="Fernando VII" correcta="0"/>
+        <respuesta contestacion="Carlos V" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles territorios liberó José de San Martin?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Argentina, Chile y Perú " correcta="1"/>
+        <respuesta contestacion="Chile y Paraguay" correcta="0"/>
+        <respuesta contestacion="Venezuela y Colombia" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>20</temps>
+</motor>

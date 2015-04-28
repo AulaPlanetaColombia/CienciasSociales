@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Evaluación</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Evalúa tus conocimientos sobre el tema.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="9">
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál hecho llevó a que el fascismo italiano se tomara el poder?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La marcha sobre Roma." correcta="1"/>
+        <respuesta contestacion="El Anschluss." correcta="0"/>
+        <respuesta contestacion="La larga marcha." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál era el territorio que reclamaba el Tercer Reich a Polonia? Este territorio fue la causa definitiva por la que estalló la II Guerra Mundial. ]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="El corredor de Danzig." correcta="1"/>
+        <respuesta contestacion="Prusia oriental." correcta="0"/>
+        <respuesta contestacion="Los Sudetes." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue la fecha en la que se produjo la revolución que puso fin al régimen zarista en Rusia?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="1917" correcta="1"/>
+        <respuesta contestacion="1905" correcta="0"/>
+        <respuesta contestacion="1925" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cómo se produjo el ascenso de Hitler y el Partido Nazi al poder?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Por la victoria del NSDAP en las elecciones legislativas." correcta="1"/>
+        <respuesta contestacion="Por el encargo de Guillermo II a Hitler de ocuparse del gobierno." correcta="0"/>
+        <respuesta contestacion="Mediante un golde de Estado." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál era el rasgo fundamental del New Deal impulsado por Roosevelt para contener los efectos de la crisis del 29?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="El aumento de la inversión pública." correcta="1"/>
+        <respuesta contestacion="Dejar avanzar el laissez-faire." correcta="0"/>
+        <respuesta contestacion="La implantación de un sistema autárquico." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue el hecho que desencadenó la grave crisis económica del 1930?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="El crack de la bolsa de Nueva York." correcta="1"/>
+        <respuesta contestacion="El triunfo del nazismo en Alemania." correcta="0"/>
+        <respuesta contestacion="El fracaso de la Sociedad de Naciones." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue el hecho que marcó el final de la Primera Guerra Mundial?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La firma del Tratado de Versalles." correcta="1"/>
+        <respuesta contestacion="La firma del Pacto Antikomintern." correcta="0"/>
+        <respuesta contestacion="La creación de la URSS." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue el dirigente soviético que se puso al frente de la URSS en 1924?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Stalin" correcta="1"/>
+        <respuesta contestacion="Lenin" correcta="0"/>
+        <respuesta contestacion="Trotsky" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué fue el Anschluss?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La invasión y anexión de Austria  al III Reich." correcta="1"/>
+        <respuesta contestacion="La persecución nazi a los judíos alemanes." correcta="0"/>
+        <respuesta contestacion="La invasión alemana de Polonia." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>30</temps>
+</motor>
