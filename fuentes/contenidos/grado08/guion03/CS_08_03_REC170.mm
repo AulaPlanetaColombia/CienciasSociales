@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1429541396685" ID="ID_1178165086" MODIFIED="1429548032861" TEXT="Nuevo Mapa">
+<node CREATED="1429541396685" ID="ID_1178165086" MODIFIED="1430226455957" TEXT="Colombia en la primera mitad del siglo XIX">
 <node CREATED="1429541404716" HGAP="89" ID="ID_1652090135" MODIFIED="1429547982508" POSITION="left" STYLE="bubble" TEXT="independencia" VSHIFT="129">
 <node CREATED="1429541786674" HGAP="23" ID="ID_1438902516" MODIFIED="1429542455139" STYLE="fork" TEXT="fueron sus bases" VSHIFT="-142">
 <node CREATED="1429541851271" HGAP="6" ID="ID_1310722062" MODIFIED="1429542333864" STYLE="bubble" TEXT="rebeli&#xf3;n de los comuneros" VSHIFT="-90">
