@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<libro id="CS_09_02_CO">
+  <libroTitulo>El periodo de entreguerras</libroTitulo>
+  <seccion1 id="S1_CS_09_02_CO_BA12932EA0A24A5E91E13A6797ECCDFD">
+    <seccion1Titulo>La Revolución Rusa</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <seccion2 id="S2_CS_09_02_CO_188299B8D41D490B891C2BEFF66FF45A">
+        <seccion2Titulo>La Rusia zarista</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_02_CO_img_01_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <p>Aquí va un PÁRRAFO</p>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_09_02_CO_02A5542102E14F3DB5B4B5AA8330529C">
+        <seccion2Titulo>Las revoluciones de 1917</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_02_CO_img_02_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso010&amp;IdRecurso=RES-8C81F00D10D74DD4B91C37EB550C9E58">La Revolución rusa de 1917</enlace>
+          </profundiza>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_09_02_CO_9F3A9FF369B74CB4B4027F05461359FD">
+        <seccion2Titulo>El nacimiento de la URSS</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_09_02_CO_FE6F9887D1B343FB96699B9B872952C5">
+        <seccion2Titulo>La Rusia estalinista</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_02_CO_img_03_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_09_02_CO_A073B122FC234443A8BF59B7A9B2668B">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso020&amp;IdRecurso=RES-B359EC227306435D8CA38F97EBC6514C">Refuerza tu aprendizaje: La Revolución rusa</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_02_CO_D0AC57A9E5614255A803F835B13EBE6E">
+    <seccion1Titulo>La posguerra europea</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso030&amp;IdRecurso=RES-93EFA10F0C024DD1A35D33BB86A50C15">Conoce las características de la Europa de entreguerras</enlace>
+      </practica>
+      <seccion2 id="S2_CS_09_02_CO_54F818472D834B36A56C09B541A38665">
+        <seccion2Titulo>Los tratados de paz</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_09_02_CO_F16410637E6743099E9969CEDE6B1994">
+        <seccion2Titulo>La Sociedad de Naciones</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_02_CO_img_04_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso040&amp;IdRecurso=RES-05AB426C6AE44FFC8B2C4D463869EA3B">Refuerza tu aprendizaje: La posguerra europea</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso060&amp;IdRecurso=RES-509C6B0350BA4277A654433467C70C66">Refuerza tu aprendizaje: Los felices años veinte</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso090&amp;IdRecurso=RES-5B8FAC3292954003AEA1C3D4B46C185A">Refuerza tu aprendizaje: La Italia fascista</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_02_CO_58D19DAD41194127AEFE008E548EEFFB">
+    <seccion1Titulo>Los felices años veinte</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso050&amp;IdRecurso=RES-4D3EDAC9A7A04993834370CD98FED0DB">Los felices años 20</enlace>
+      </profundiza>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_02_CO_7B79E23F134940178F94ECD519EFB69C">
+    <seccion1Titulo>La Italia fascista</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso070&amp;IdRecurso=RES-92AA675F0B0D4C6F84C0105BD5FA1888">La Italia fascista</enlace>
+      </profundiza>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso080&amp;IdRecurso=RES-A8D22CF4EC99450197C459572AFBB8C5">Distingue las características del fascismo</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_02_CO_8A093761C4F542DC9A1E8C7AAA72351D">
+    <seccion1Titulo>La década de 1930</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <seccion2 id="S2_CS_09_02_CO_2E761AC1A5074673BFECAF9BB6CAC086">
+        <seccion2Titulo>El crack de 1929</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_02_CO_img_05_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <p>Aquí va un PÁRRAFO</p>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <p>Aquí va un PÁRRAFO</p>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso100&amp;IdRecurso=RES-049B8AB76231439592A6668BFDC15FFA">El crack de 1929 y sus consecuencias</enlace>
+          </profundiza>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_09_02_CO_92747E084FAB4ECBB98C1D255EB1DC4A">
+        <seccion2Titulo>La Gran Depresión y el New Deal</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_02_CO_img_06_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso110&amp;IdRecurso=RES-DF755F1AB62740AF868839EFE7D80546">Identifica qué fue la Gran Depresión y el New Deal</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_09_02_CO_9C9D5A06C3AB44DFBF2E58D91C37F78E">
+        <seccion2Titulo>El auge de los totalitarismos</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_02_CO_img_07_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <p>Aquí va un PÁRRAFO</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso120&amp;IdRecurso=RES-947FB5F349B541A88FAF8314DD26AE9F">Refuerza tu aprendizaje: La década de 1930</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso150&amp;IdRecurso=RES-D9C4664EE39345018B368C666F4E3518">Refuerza tu aprendizaje: La Alemania nazi</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_02_CO_EEF992A850EC44A3A4644B6489A14786">
+    <seccion1Titulo>La Alemania nazi</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_09_02_CO_img_08_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso130&amp;IdRecurso=RES-65CC6510BB6D4FB49A41CE9CDEEDE079">La Alemania nazi</enlace>
+      </profundiza>
+      <p>Aquí va un PÁRRAFO</p>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso140&amp;IdRecurso=RES-8CD7F21A6D1D4E8592D8F2EB1FAC9F30">Cronología: el período de entreguerras</enlace>
+      </profundiza>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_02_CO_012B4C97A3C24247A7E221847EBB77A9">
+    <seccion1Titulo>Competencias</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso160&amp;IdRecurso=RES-3CDCE812E0764ABFB8B95F998261BD9D">Competencias: Comentario de un texto como fuente histórica</enlace>
+      </practica>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso170&amp;IdRecurso=RES-2C2FA4AEEE104DC7B604EA30996DA87B">Proyecto: Análisis del trato a los judíos en la Alemania nazi</enlace>
+      </practica>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso180&amp;IdRecurso=RES-F435EBA0197249C790380AE77605C3F3">La ideología de Adolf Hitler</enlace>
+      </practica>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso190&amp;IdRecurso=RES-B3312810980D42BAA0BB68955870583D">Actividad sobre los felices años 20</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <masinformacion id="MI_CS_09_02_CO_E169A62232F243CCBA30D83E17B976D8">
+    <mapaconceptual>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso200&amp;IdRecurso=RES-F4D30E266FC84DCCB9B70EE1CB2A95A1">Mapa Conceptual</enlace>
+    </mapaconceptual>
+    <autoevaluate>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_02_CORecurso210&amp;IdRecurso=RES-6A8811BDEBA14E168362B5EAA6DFCE3F">Evaluación</enlace>
+    </autoevaluate>
+    <enlacesreferencia>
+      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+    </enlacesreferencia>
+  </masinformacion>
+</libro>
