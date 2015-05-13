@@ -1,327 +1,321 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_07_01_CO">
-  <libroTitulo>La Edad Media</libroTitulo>
-  <seccion1 id="S1_CS_07_01_CO_D3F2C08349AE4BA081FB95EC2231E692">
-    <seccion1Titulo>Las invasiones bárbaras y caída del Imperio Romano</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_01_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <seccion2 id="S2_CS_07_01_CO_78F713615418405F9869F85E2EC18949">
-        <seccion2Titulo>Irrupción germánica en el Imperio Romano</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso010&amp;IdRecurso=RES-9B9340A92B594BD8A501B83A708B61A1">Del fin del Imperio romano a los reinos germánicos</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <imagen src="CS_07_01_CO_img_02_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <seccion2 id="S2_CS_07_01_CO_1B404BD04DBE48A7A46F38C73E809F8E">
-        <seccion2Titulo>Cambios y dificultades en el Imperio Romano de Occidente</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <seccion3 id="S3_CS_07_01_CO_26D9DC655C6346A8A08BF9B2FD9571AA">
-            <seccion3Titulo>Crisis económica</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_01_CO_72212D1D63CE4B2AAC2E35D36578060E">
-            <seccion3Titulo>Crisis política</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_01_CO_3CB4C02BFBD447578941A966B9655D75">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso020&amp;IdRecurso=RES-9E04B30D85624AC6A6180F32D7B2FCE6">Refuerza tu aprendizaje: La caída del Imperio romano de Occidente</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_01_CO_EB158B185D6D43E1920B62FF634D6C3A">
-    <seccion1Titulo>El Imperio Bizantino</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <seccion2 id="S2_CS_07_01_CO_C840BA23C4D947EB9EF36958B503C618">
-        <seccion2Titulo>El emperador Justiniano</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_01_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_01_CO_4E62D9D54B04477586954ADB6FCB9510">
-        <seccion2Titulo>El Cisma de Oriente</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_01_CO_img_04_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso030&amp;IdRecurso=RES-EFD7BF1D053C45C0A2E47BCC60B50DD1">Conoce el Imperio bizantino</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_01_CO_893E0E5746824EE1917C2903F9A485A5">
-    <seccion1Titulo>El Imperio Islámico</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_01_CO_img_05_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <seccion2 id="S2_CS_07_01_CO_30A48591D9314A1985AFA956D6575945">
-        <seccion2Titulo>Origen del islamismo</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <seccion3 id="S3_CS_07_01_CO_F4E29D1B234C44B3B23EA12137D654A1">
-            <seccion3Titulo>Los beduinos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_01_CO_A1A90BE50E304FAF85F415EE181CF961">
-            <seccion3Titulo>Mahoma</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_01_CO_img_06_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso040&amp;IdRecurso=RES-CA6B7D14ED1141E8ABAFD0DBF9A6A766">La civilización islámica</enlace>
-              </profundiza>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso050&amp;IdRecurso=RES-4D1AFFB2F19746FB9AAFA6148FF5191D">El islam</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_01_CO_69E003252D084D75B347BC109F1C3913">
-        <seccion2Titulo>Los califatos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <seccion3 id="S3_CS_07_01_CO_62FFBCE803784488AA5D24FC5CAB538B">
-            <seccion3Titulo>El Califato ortodoxo</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_01_CO_3A97081FB1CC4C5CB79EE2BFB8ECEDB6">
-            <seccion3Titulo>El Califato Ortodoxo</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <imagen src="CS_07_01_CO_img_07_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_01_CO_5ED535807F1F4E919A8828782F9A46ED">
-            <seccion3Titulo>El Califato omeya o Califato de Damasco</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso060&amp;IdRecurso=RES-F2D554D2E0EF414CB6024F2F7EA9FEC4">La formación de Al-Andalus</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_01_CO_img_08_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_01_CO_DA86D96DA9284CA194BDA0255AC4E64D">
-            <seccion3Titulo>El Califato abasí o Califato de Bagdad</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso070&amp;IdRecurso=RES-CDA6C7AEA6E64213A9C011E2E149589F">Refuerza tu aprendizaje: La expansión del islam</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_01_CO_F4BAA73E37834D8383705A26B238E6AA">
-    <seccion1Titulo>El Imperio Carolingio</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_01_CO_img_09_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_01_CO_img_10_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <p>Aquí va un PÁRRAFO</p>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso080&amp;IdRecurso=RES-D193C8A09DC84F1EBDE86772F623FB9F">Comprende qué fue el Imperio carolingio</enlace>
-      </practica>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso090&amp;IdRecurso=RES-65C00ECB360241C9959F4FA045721100">Nuevos reinos e imperios</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_07_01_CO_DF03AF931C3F40BF89C045F2CF6CD2C2">
-        <seccion2Titulo>El Imperio carolingio</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso100&amp;IdRecurso=RES-518F35F7CAE84B5BAA4C126E8ABBF9D4">Refuerza tu aprendizaje: El Imperio carolingio</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_01_CO_6B8058F8557145A2BEA00E1D7DAF9D58">
-    <seccion1Titulo>El mundo afroasiático durante la Edad Media</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_07_01_CO_4AEC10628B3348F28A396B8B4FD388D0">
-        <seccion2Titulo>África</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <seccion3 id="S3_CS_07_01_CO_124BF2D4012F4655BDE70BDF5FAC67CE">
-            <seccion3Titulo>El Imperio de Ghana</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_01_CO_img_11_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_01_CO_0BC6C5E70FAC4476BDDBE017B0B1C8C4">
-            <seccion3Titulo>El Imperio de Malí</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_01_CO_img_12_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_01_CO_7A7111F0AEB348AC86FB82E7889417A5">
-        <seccion2Titulo>Asia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <seccion3 id="S3_CS_07_01_CO_30FC4B7CABD84BEA9393549671D3AFC9">
-            <seccion3Titulo>El Imperio Mongol</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_01_CO_img_13_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_01_CO_3E6E65C4E3B74F889CD79C89BA57F166">
-            <seccion3Titulo>China, la época imperial</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_01_CO_img_14_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso110&amp;IdRecurso=RES-070AA02466B74CA09772AD33710E16CE">Refuerza tu aprendizaje: importancia histórica de los imperios afroasiáticos en el medioevo europeo</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_01_CO_00AC34AF6DAC411EA22F82D0D66C3340">
-    <seccion1Titulo>Fin de tema</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso130&amp;IdRecurso=RES-10439A4E754C4881B1A13BCBE3A3C0CE">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso120&amp;IdRecurso=RES-0209B793873240389A1BA2EFEB260D59">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </seccion1>
-</libro>
+<libroTitulo>La Edad Media</libroTitulo>
+<seccion1 id="S1_CS_07_01_CO_D3F2C08349AE4BA081FB95EC2231E692">
+<seccion1Titulo>Las invasiones bárbaras y caída del Imperio Romano</seccion1Titulo>
+<seccion1Texto>
+<p>Por siglos las legiones del Imperio Romano mantuvieron alejados
+a los germanos o pueblos bárbaros, nombre con el que se conocía a
+aquellos grupos humanos que no hacían parte del imperio y por tanto
+eran extranjeros, <negrita>“bárbaros”</negrita>. Los germanos no eran
+pues un único pueblo, cuando se habla de ellos en realidad se está
+haciendo mención a grandes y pequeñas tribus que vivían en un gran
+territorio al norte de Europa, territorio que se extendía entre el
+mar del Norte, el mar Báltico, el este del Rin y el norte del Danubio,
+y el mar Negro. Los historiadores suelen distinguir dos grandes grupos:
+los germanos orientales (godos, quienes a su vez se dividen en ostrogodos
+y visigodos) y los germanos occidentales (francos, bávaros y suevos).</p>
+<imagen src="CS_07_01_CO_IMG_01_small.jpg">
+<p>Desde el siglo III, el Imperio romano se vio sumido en una profunda
+crisis. En esta época, el Imperio tuvo que hacer frente a la presión
+de distintos pueblos de origen <negrita>germánico</negrita> en sus
+fronteras. Representación de un enfrentamiento entre romanos y ostrogodos
+en un sarcófago de mármol (Museo Nacional Romano, Roma).</p>
+</imagen>
+<seccion2 id="S2_CS_07_01_CO_78F713615418405F9869F85E2EC18949">
+<seccion2Titulo>Irrupción germánica en el Imperio Romano</seccion2Titulo>
+<seccion2Texto>
+<p>Durante el siglo III d.C. los bárbaros penetraron las fronteras
+del Imperio varias veces, y lo hicieron de manera violenta, saqueando
+ciudades como Atenas y Antioquía.</p>
+<p>Entre los siglos IV y V d.C. la ocupación de los germanos se dio
+de forma progresiva. Cerca del 370 d.C. en Asia se produjo un gran
+desplazamiento de pueblos hacia Occidente, particularmente de los
+hunos quienes comenzaron a empujar a las tribus germanas hacia el
+interior de frontera del Imperio Romano. Paralelamente a esto, para
+finales del siglo IV los germanos eran muchos en las tierras que habían
+ocupado y empezaron a tener dificultades para proveerse de alimentos.
+A su vez, el Imperio tenía buenas tierras y en muchas oportunidades
+estas eran improductivas porque habían sido abandonadas. Así que a
+lo largo del siglo V, distintos pueblos germánicos inmigraron hacia
+los territorios del Imperio Romano de Occidente, buscando mejores
+tierras y aprovechando la crisis interna que este vivía.   Hubo años
+de buena coexistencia entre el Imperio y los germanos: había intercambio
+comercial; soldados germanos se integraban en el ejército del Imperio
+como aliados; los agricultores se organizaban como colonos y eran
+reconocidos como tales; y los jefes de algunas tribus mandaban a sus
+hijos a Roma o a Bizancio para que se educaran según la cultura latina.
+  Esta convivencia hizo que poco a poco los germanos se fueran romanizando,
+es decir que, asimilaron el latín como lengua e hicieron del cristianismo
+su religión; adoptaron las costumbres y el derecho romano, que se
+mezclaron con las tradiciones de origen germánico. En los siglos sucesivos
+a la caída del Imperio, los pueblos germánicos (visigodos, francos,
+ostrogodos, entre otros) formaron territorios propios en el espacio
+que antes ocupaba aquel. [VER]</p><?Pub Caret 0?>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso010&amp;IdRecurso=RES-9B9340A92B594BD8A501B83A708B61A1"
+>Del fin del Imperio romano a los reinos germánicos</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_01_CO_1B404BD04DBE48A7A46F38C73E809F8E">
+<seccion2Titulo>Cambios y dificultades en el Imperio Romano de Occidente</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_01_CO_img_02_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<seccion3 id="S3_CS_07_01_CO_26D9DC655C6346A8A08BF9B2FD9571AA">
+<seccion3Titulo>Crisis económica</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_01_CO_72212D1D63CE4B2AAC2E35D36578060E">
+<seccion3Titulo>Crisis política</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3></seccion2Texto>
+</seccion2><seccion2
+id="S2_CS_07_01_CO_3CB4C02BFBD447578941A966B9655D75">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso020&amp;IdRecurso=RES-9E04B30D85624AC6A6180F32D7B2FCE6"
+>Refuerza tu aprendizaje: La caída del Imperio romano de Occidente</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_01_CO_EB158B185D6D43E1920B62FF634D6C3A">
+<seccion1Titulo>El Imperio Bizantino</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion2 id="S2_CS_07_01_CO_C840BA23C4D947EB9EF36958B503C618">
+<seccion2Titulo>El emperador Justiniano</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_01_CO_img_03_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_07_01_CO_4E62D9D54B04477586954ADB6FCB9510">
+<seccion2Titulo>El Cisma de Oriente</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_01_CO_img_04_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso030&amp;IdRecurso=RES-EFD7BF1D053C45C0A2E47BCC60B50DD1"
+>Conoce el Imperio bizantino</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_01_CO_893E0E5746824EE1917C2903F9A485A5">
+<seccion1Titulo>El Imperio Islámico</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_01_CO_img_05_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<seccion2 id="S2_CS_07_01_CO_30A48591D9314A1985AFA956D6575945">
+<seccion2Titulo>Origen del islamismo</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_CS_07_01_CO_F4E29D1B234C44B3B23EA12137D654A1">
+<seccion3Titulo>Los beduinos</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_01_CO_A1A90BE50E304FAF85F415EE181CF961">
+<seccion3Titulo>Mahoma</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_01_CO_img_06_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso040&amp;IdRecurso=RES-CA6B7D14ED1141E8ABAFD0DBF9A6A766"
+>La civilización islámica</enlace>
+</profundiza><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso050&amp;IdRecurso=RES-4D1AFFB2F19746FB9AAFA6148FF5191D"
+>El islam</enlace>
+</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_01_CO_69E003252D084D75B347BC109F1C3913">
+<seccion2Titulo>Los califatos</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_CS_07_01_CO_62FFBCE803784488AA5D24FC5CAB538B">
+<seccion3Titulo>El Califato ortodoxo</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_01_CO_3A97081FB1CC4C5CB79EE2BFB8ECEDB6">
+<seccion3Titulo>El Califato Ortodoxo</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<imagen src="CS_07_01_CO_img_07_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_01_CO_5ED535807F1F4E919A8828782F9A46ED">
+<seccion3Titulo>El Califato omeya o Califato de Damasco</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso060&amp;IdRecurso=RES-F2D554D2E0EF414CB6024F2F7EA9FEC4"
+>La formación de Al-Andalus</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_01_CO_img_08_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CS_07_01_CO_DA86D96DA9284CA194BDA0255AC4E64D">
+<seccion3Titulo>El Califato abasí o Califato de Bagdad</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso070&amp;IdRecurso=RES-CDA6C7AEA6E64213A9C011E2E149589F"
+>Refuerza tu aprendizaje: La expansión del islam</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2></seccion1Texto>
+</seccion1><seccion1
+id="S1_CS_07_01_CO_F4BAA73E37834D8383705A26B238E6AA">
+<seccion1Titulo>El Imperio Carolingio</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_01_CO_img_09_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_01_CO_img_10_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso080&amp;IdRecurso=RES-D193C8A09DC84F1EBDE86772F623FB9F"
+>Comprende qué fue el Imperio carolingio</enlace>
+</practica><destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso090&amp;IdRecurso=RES-65C00ECB360241C9959F4FA045721100"
+>Nuevos reinos e imperios</enlace>
+</profundiza><seccion2
+id="S2_CS_07_01_CO_DF03AF931C3F40BF89C045F2CF6CD2C2">
+<seccion2Titulo>El Imperio carolingio</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso100&amp;IdRecurso=RES-518F35F7CAE84B5BAA4C126E8ABBF9D4"
+>Refuerza tu aprendizaje: El Imperio carolingio</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_01_CO_6B8058F8557145A2BEA00E1D7DAF9D58">
+<seccion1Titulo>El mundo afroasiático durante la Edad Media</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<seccion2 id="S2_CS_07_01_CO_4AEC10628B3348F28A396B8B4FD388D0">
+<seccion2Titulo>África</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_CS_07_01_CO_124BF2D4012F4655BDE70BDF5FAC67CE">
+<seccion3Titulo>El Imperio de Ghana</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_01_CO_img_11_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_01_CO_0BC6C5E70FAC4476BDDBE017B0B1C8C4">
+<seccion3Titulo>El Imperio de Malí</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_01_CO_img_12_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_01_CO_7A7111F0AEB348AC86FB82E7889417A5">
+<seccion2Titulo>Asia</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_CS_07_01_CO_30FC4B7CABD84BEA9393549671D3AFC9">
+<seccion3Titulo>El Imperio Mongol</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_01_CO_img_13_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_01_CO_3E6E65C4E3B74F889CD79C89BA57F166">
+<seccion3Titulo>China, la época imperial</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_01_CO_img_14_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso110&amp;IdRecurso=RES-070AA02466B74CA09772AD33710E16CE"
+>Refuerza tu aprendizaje: importancia histórica de los imperios afroasiáticos
+en el medioevo europeo</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+</seccion1Texto></seccion1><masinformacion
+id="M1_CS_07_01_CO_00AC34AF6DAC411EA22F82D0D66C3340"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso130&amp;IdRecurso=RES-10439A4E754C4881B1A13BCBE3A3C0CE"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_01_CORecurso120&amp;IdRecurso=RES-0209B793873240389A1BA2EFEB260D59"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+</enlacesreferencia></masinformacion></libro>
