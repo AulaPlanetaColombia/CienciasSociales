@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-9B20B02E114942978685260A19BE5330</identificador>
+  <loid>CS_06_01_CORecurso090</loid>
+  <titulo>Las fuentes artísticas</titulo>
+  <descripcion>Secuencia de imágenes que ayudan a apreciar la información que nos aportan las obras de arte del pasado</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia social y ciudadana</competencia>
+  <tipomedia pesado="false" matricula="">Secuencia de imágenes</tipomedia>
+  <conceptos>
+    <concepto>arte</concepto>
+    <concepto>cerámica</concepto>
+    <concepto>escultura</concepto>
+    <concepto>fuente artística</concepto>
+    <concepto>fuente histórica</concepto>
+    <concepto>fuente material</concepto>
+    <concepto>historia</concepto>
+    <concepto>pintura</concepto>
+  </conceptos>
+</metadata>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-FDA8FDE90749490F9381D4A0D2CAB6E1</identificador>
+  <loid>CS_06_01_CORecurso030</loid>
+  <titulo>La cronología</titulo>
+  <descripcion>Secuencia de imágenes que presentan diversos objetos que históricamente se han utilizado para medir el tiempo y algunos acontecimientos que han marcado el tránsito de una época a otra en la historia de la humanidad.</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia social y ciudadana</competencia>
+  <tipomedia pesado="false" matricula="">Secuencia de imágenes</tipomedia>
+  <conceptos>
+    <concepto>calendario</concepto>
+    <concepto>cronología</concepto>
+    <concepto>fecha</concepto>
+    <concepto>hecho histórico</concepto>
+    <concepto>historia</concepto>
+    <concepto>pasado</concepto>
+    <concepto>reloj</concepto>
+  </conceptos>
+</metadata>

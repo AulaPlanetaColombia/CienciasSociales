@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="2" clase="a" aprid="M2a">
+  <enunciado>Completa las siguientes frases con la palabra adecuada.</enunciado>
+  <textoacategoria>
+    <cuestion>
+      <pregunta>Un [*] es el relato de unos hechos fantásticos protagonizados por dioses y [*]. Se desconoce dónde y cuándo tuvo lugar la historia narrada. Por su lado, una [*] es un relato que suele relacionarse con un lugar y un tiempo concreto. Sus protagonistas son [*]. Además, también existen los [*], que son relatos que suelen dirigirse a los [*]. 
+Además de relatos de [*], también existen otros relatos y testimonios que nos cuentan hechos reales por boca de sus [*].</pregunta>
+      <respuestas>
+        <respuesta orden="1">mito</respuesta>
+        <respuesta orden="2">héroes</respuesta>
+        <respuesta orden="3">leyenda</respuesta>
+        <respuesta orden="4">seres humanos</respuesta>
+        <respuesta orden="5">cuentos</respuesta>
+        <respuesta orden="6">niños</respuesta>
+        <respuesta orden="7">ficción</respuesta>
+        <respuesta orden="8">protagonistas</respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Completa la definición de fuente oral</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[ms_3c_06_11]]></referencia>
+    <id_reg><![CDATA[100]]></id_reg>
+    <motor><![CDATA[M2a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

@@ -1,477 +1,469 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_07_02_CO">
-  <libroTitulo>El feudalismo</libroTitulo>
-  <seccion1 id="S1_CS_07_02_CO_C5396D9A8F1F4A2098667B6D2E317E69">
-    <seccion1Titulo>La Alta Edad Media</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <seccion2 id="S2_CS_07_02_CO_35DF9AD5105945A4B36AD22B905F9548">
-        <seccion2Titulo>El feudo</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso010&amp;IdRecurso=RES-4EEE11B0A4264781861177A262A8A3A0">El feudalismo</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_02_CO_E0747E2EDE3F4509A9D76833C0F64106">
-        <seccion2Titulo>El Estado</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_02_CO_024F5EADA4F647A1A143E669065A69AE">
-        <seccion2Titulo>La sociedad feudal</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_02_CO_img_01_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso020&amp;IdRecurso=RES-026A0750EEB94C28AD831429B4121173">La nobleza: guerreros y trovadores</enlace>
-          </profundiza>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso030&amp;IdRecurso=RES-8905FF52EA2E4900B21DB7523805F1BC">Refuerza tu aprendizaje: La nobleza</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_02_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso040&amp;IdRecurso=RES-DB1713ED985E4F81B49EBE6B5941ADCF">El campesinado en la estructura feudal</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso050&amp;IdRecurso=RES-2747BC2E37174F7887EB96D0B49FB522">Conoce cómo era la vida del campesino medieval</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso060&amp;IdRecurso=RES-7EF67C15E73F47FBBE8B71ED3E0FDCF4">Refuerza tu aprendizaje: Los campesinos</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_02_CO_14B333A3468043BE807C840189419929">
-        <seccion2Titulo>La economía de subsistencia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_02_CO_2AFEBC5E8BAC4FE5B47BFCA4D77A37CA">
-        <seccion2Titulo>La Iglesia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_02_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso070&amp;IdRecurso=RES-B476D706D9CF4DB69599778A9187149E">Conoce cómo era la vida en un monasterio medieval</enlace>
-          </practica>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso080&amp;IdRecurso=RES-6F6A8A88CB8F46B48CCC0D2070266BEE">La Iglesia y la importancia del cristianismo</enlace>
-          </profundiza>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso090&amp;IdRecurso=RES-B55C5FB63A444073B64D6A664EC8A5C5">Evaluación</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_02_CO_2BE57BC535294F8398560E663D8B3359">
-        <seccion2Titulo>La cultura y el arte en la Alta Edad Media</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <seccion3 id="S3_CS_07_02_CO_EE4EE88136F849B49F46309FAA1F6E0E">
-            <seccion3Titulo>Los monasterios y las órdenes religiosas</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_04_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso100&amp;IdRecurso=RES-7C8EF63B64104918AD033FF0FE2A9987">La efervescencia religiosa en torno al año mil</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_02_CO_A0360C60663C4B13BB19EAB286183BD3">
-            <seccion3Titulo>El arte</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_05_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso110&amp;IdRecurso=RES-B13FA8DF78614DC38A576B4F3EDBE8B7">Conoce las características del arte bizantino</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_06_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_07_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_08_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_09_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_10_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso120&amp;IdRecurso=RES-99D04526B1FF47209A6B276F62294422">El arte prerrománico</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_02_CO_0DE61280C1144664AF3B32C127D7191E">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso130&amp;IdRecurso=RES-D1A7B1F5BF1A4A72973B11F72E3903AF">Refuerza tu aprendizaje: El arte y la cultura bizantinos</enlace>
-          </practica>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso140&amp;IdRecurso=RES-C02C181581A442A6BFE44D3AA87A7A50">Refuerza tu aprendizaje: El arte mozárabe</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_02_CO_img_11_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_02_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <p>Aquí va un PÁRRAFO</p>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso150&amp;IdRecurso=RES-C3E1A86FE98E46A0ABC2B613960E9C0B">Las instituciones de poder medievales</enlace>
-          </profundiza>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso160&amp;IdRecurso=RES-2127DFD99F014B07BF1D5566B9901DE3">Conoce el valor de las cortes medievales</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_02_CO_9500F75A26F64536B806EB03450BBAED">
-    <seccion1Titulo>La Baja Edad Media</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <seccion2 id="S2_CS_07_02_CO_19F259B4D87640B69F3554176FAE3FF7">
-        <seccion2Titulo>La sociedad urbana</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_02_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_02_CO_img_14_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso170&amp;IdRecurso=RES-AC048C950C924FC1A5523D69F5A8DC72">Los nuevos grupos sociales</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_02_CO_7892EF30DAAD4EB18C555DD61FDF627E">
-        <seccion2Titulo>La economía</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <seccion3 id="S3_CS_07_02_CO_FD7A48AAFE83437CB5B9690DAEA3E624">
-            <seccion3Titulo>La expansión agrícola y el aumento de la población</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_15_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_16_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso180&amp;IdRecurso=RES-B781BCA045874370B2F2EEBB110E0950">Conoce las innovaciones agrarias medievales</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_02_CO_3657040D910A44EBA5822684FBDBE07E">
-            <seccion3Titulo>El comercio medieval</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_02_CO_FEDA8F27BEF2484D827FD9DB7B08795F">
-            <seccion3Titulo>Los artesanos y los gremios</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_17_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_02_CO_8B250D37F61A4845878EA0833597487E">
-            <seccion3Titulo>Las ferias y mercados</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_02_CO_A2C2983A9BA542D4B3417BC39A2FF3B7">
-            <seccion3Titulo>Las grandes rutas comerciales</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_18_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso190&amp;IdRecurso=RES-ECEC18A552994E0FB9A84238834C8229">La ruta de la seda</enlace>
-              </profundiza>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso200&amp;IdRecurso=RES-6574EBF8DCAD459483BE2176CEE06A62">Conoce quién fue Marco Polo</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_02_CO_0AAB2614B0AC4015B568CFF3DCF3D8B7">
-        <seccion2Titulo>La ciudad</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <seccion3 id="S3_CS_07_02_CO_C84E61415115464EA57290BBDC37F7BF">
-            <seccion3Titulo>Crecimiento de la población urbana</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_19_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_20_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_02_CO_F0B9BF07190E4C2CBC453423D2AAECDE">
-            <seccion3Titulo>Los nuevos espacios urbanos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_21_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso210&amp;IdRecurso=RES-498CDF89E340496AB6B97FCD5FCC60B3">El nuevo paisaje urbano en la baja edad media</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_02_CO_CC7C42113FF84921A13B8677B2D901AF">
-            <seccion3Titulo>El gobierno de las ciudades</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_22_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_02_CO_img_23_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso220&amp;IdRecurso=RES-53CCBBE57BF44B2A915543FF28458FCC">La Iglesia en la baja edad media</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_02_CO_41C53FE83D8749C7B565741922CDAE3C">
-        <seccion2Titulo>Crisis de la Edad Media</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <seccion3 id="S3_CS_07_02_CO_FB9045BAA38740EE89B937931691BC9E">
-            <seccion3Titulo>La crisis agrícola, el hambre y la peste negra</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_24_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso230&amp;IdRecurso=RES-2666FB1D38294FFDAA577F2B17A64574">La peste negra</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_02_CO_600372C8A0B04689BAB4965278C5D9DB">
-            <seccion3Titulo>Las revueltas campesinas</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_02_CO_E16D201BACFE451C910F7BDE0057528B">
-            <seccion3Titulo>Las revueltas urbanas</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso240&amp;IdRecurso=RES-01E3B6EB24EE44CF86E318E4A9A96BE8">Refuerza tu aprendizaje: La crisis bajomedieval</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_02_CO_82FEBAC8070A4EEFB44BE8DDCF7AC685">
-        <seccion2Titulo>La cultura y el arte de la Baja Edad Media</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <seccion3 id="S3_CS_07_02_CO_6F285CFD55BC445D8BFA88205BD930AD">
-            <seccion3Titulo>El pensamiento medieval</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_25_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_02_CO_1F542E9D3F1C4C89B1CB25042AD210A1">
-            <seccion3Titulo>La ciencia y la técnica medievales</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_26_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_02_CO_27C415934CB8423F84CA644E52D51E9B">
-            <seccion3Titulo>Las universidades medievales</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_27_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso250&amp;IdRecurso=RES-D53C7322242041CAB79D96B8FF187259">Las universidades medievales</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_28_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_29_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso260&amp;IdRecurso=RES-419C410FFBC94EB9828195CA77A5A6B3">La arquitectura gótica</enlace>
-              </profundiza>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso270&amp;IdRecurso=RES-E5335C330B484EB5AD21A59FF5C1D5C9">Identifica los principales elementos de los edificios góticos</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_30_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <imagen src="CS_07_02_CO_img_31_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso280&amp;IdRecurso=RES-DD8E357BB4244F5AA344E5BD7872DDEA">La escultura gótica</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_32_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_33_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso290&amp;IdRecurso=RES-B34F43E4F33145D5B9EF750A2263127D">La pintura gótica</enlace>
-              </profundiza>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso300&amp;IdRecurso=RES-B00DDE75531842A1A5065C033AC88B2A">Analizar un cuadro: la Piedad de Avignon</enlace>
-              </profundiza>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso310&amp;IdRecurso=RES-3719AD109F104AD0B19391F8A00E2AE1">Conoce las partes de un retablo</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_02_CO_img_34_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso320&amp;IdRecurso=RES-2CE8C9FF711A4D42B2BAC8D8CE18947E">Conoce las características del arte mudéjar</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso330&amp;IdRecurso=RES-2EA40800D8B04D929BE63879B6B6A2CF">Refuerza tu aprendizaje: El arte gótico</enlace>
-          </practica>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso340&amp;IdRecurso=RES-8190F578D86E4C62AED3D9E6E33091A3">Refuerza tu aprendizaje: El arte mudéjar</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_02_CO_EFAFEE84534343098064B038E7D375D7">
-    <seccion1Titulo>Fin de tema</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso350&amp;IdRecurso=RES-98DA3A7615B44AE18A41006BBA694A51">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso090&amp;IdRecurso=RES-B55C5FB63A444073B64D6A664EC8A5C5">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </seccion1>
-</libro>
+<libroTitulo>El feudalismo</libroTitulo>
+<seccion1 id="S1_CS_07_02_CO_C5396D9A8F1F4A2098667B6D2E317E69">
+<seccion1Titulo>La Alta Edad Media</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion2 id="S2_CS_07_02_CO_35DF9AD5105945A4B36AD22B905F9548">
+<seccion2Titulo>El feudo</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso010&amp;IdRecurso=RES-4EEE11B0A4264781861177A262A8A3A0"
+>El feudalismo</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_02_CO_E0747E2EDE3F4509A9D76833C0F64106">
+<seccion2Titulo>El Estado</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_07_02_CO_024F5EADA4F647A1A143E669065A69AE">
+<seccion2Titulo>La sociedad feudal</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_01_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso020&amp;IdRecurso=RES-026A0750EEB94C28AD831429B4121173"
+>La nobleza: guerreros y trovadores</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso030&amp;IdRecurso=RES-8905FF52EA2E4900B21DB7523805F1BC"
+>Refuerza tu aprendizaje: La nobleza</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_02_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso040&amp;IdRecurso=RES-DB1713ED985E4F81B49EBE6B5941ADCF"
+>El campesinado en la estructura feudal</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso050&amp;IdRecurso=RES-2747BC2E37174F7887EB96D0B49FB522"
+>Conoce cómo era la vida del campesino medieval</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso060&amp;IdRecurso=RES-7EF67C15E73F47FBBE8B71ED3E0FDCF4"
+>Refuerza tu aprendizaje: Los campesinos</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_02_CO_14B333A3468043BE807C840189419929">
+<seccion2Titulo>La economía de subsistencia</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_07_02_CO_2AFEBC5E8BAC4FE5B47BFCA4D77A37CA">
+<seccion2Titulo>La Iglesia</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_03_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso070&amp;IdRecurso=RES-B476D706D9CF4DB69599778A9187149E"
+>Conoce cómo era la vida en un monasterio medieval</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso080&amp;IdRecurso=RES-6F6A8A88CB8F46B48CCC0D2070266BEE"
+>La Iglesia y la importancia del cristianismo</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso090&amp;IdRecurso=RES-B55C5FB63A444073B64D6A664EC8A5C5"
+>Evaluación</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_02_CO_2BE57BC535294F8398560E663D8B3359">
+<seccion2Titulo>La cultura y el arte en la Alta Edad Media</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_CS_07_02_CO_EE4EE88136F849B49F46309FAA1F6E0E">
+<seccion3Titulo>Los monasterios y las órdenes religiosas</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_04_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso100&amp;IdRecurso=RES-7C8EF63B64104918AD033FF0FE2A9987"
+>La efervescencia religiosa en torno al año mil</enlace>
+</profundiza></seccion3Texto></seccion3><seccion3
+id="S3_CS_07_02_CO_A0360C60663C4B13BB19EAB286183BD3">
+<seccion3Titulo>El arte</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_05_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso110&amp;IdRecurso=RES-B13FA8DF78614DC38A576B4F3EDBE8B7"
+>Conoce las características del arte bizantino</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_06_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_07_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_08_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_09_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_10_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso120&amp;IdRecurso=RES-99D04526B1FF47209A6B276F62294422"
+>El arte prerrománico</enlace>
+</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_02_CO_0DE61280C1144664AF3B32C127D7191E">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso130&amp;IdRecurso=RES-D1A7B1F5BF1A4A72973B11F72E3903AF"
+>Refuerza tu aprendizaje: El arte y la cultura bizantinos</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso140&amp;IdRecurso=RES-C02C181581A442A6BFE44D3AA87A7A50"
+>Refuerza tu aprendizaje: El arte mozárabe</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_11_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_12_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso150&amp;IdRecurso=RES-C3E1A86FE98E46A0ABC2B613960E9C0B"
+>Las instituciones de poder medievales</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso160&amp;IdRecurso=RES-2127DFD99F014B07BF1D5566B9901DE3"
+>Conoce el valor de las cortes medievales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_02_CO_9500F75A26F64536B806EB03450BBAED">
+<seccion1Titulo>La Baja Edad Media</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion2 id="S2_CS_07_02_CO_19F259B4D87640B69F3554176FAE3FF7">
+<seccion2Titulo>La sociedad urbana</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_13_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_14_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso170&amp;IdRecurso=RES-AC048C950C924FC1A5523D69F5A8DC72"
+>Los nuevos grupos sociales</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_02_CO_7892EF30DAAD4EB18C555DD61FDF627E">
+<seccion2Titulo>La economía</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_CS_07_02_CO_FD7A48AAFE83437CB5B9690DAEA3E624">
+<seccion3Titulo>La expansión agrícola y el aumento de la población</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_15_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_16_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso180&amp;IdRecurso=RES-B781BCA045874370B2F2EEBB110E0950"
+>Conoce las innovaciones agrarias medievales</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_07_02_CO_3657040D910A44EBA5822684FBDBE07E">
+<seccion3Titulo>El comercio medieval</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_02_CO_FEDA8F27BEF2484D827FD9DB7B08795F">
+<seccion3Titulo>Los artesanos y los gremios</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_17_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_02_CO_8B250D37F61A4845878EA0833597487E">
+<seccion3Titulo>Las ferias y mercados</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_02_CO_A2C2983A9BA542D4B3417BC39A2FF3B7">
+<seccion3Titulo>Las grandes rutas comerciales</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_18_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso190&amp;IdRecurso=RES-ECEC18A552994E0FB9A84238834C8229"
+>La ruta de la seda</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso200&amp;IdRecurso=RES-6574EBF8DCAD459483BE2176CEE06A62"
+>Conoce quién fue Marco Polo</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_02_CO_0AAB2614B0AC4015B568CFF3DCF3D8B7">
+<seccion2Titulo>La ciudad</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_CS_07_02_CO_C84E61415115464EA57290BBDC37F7BF">
+<seccion3Titulo>Crecimiento de la población urbana</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_19_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_20_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CS_07_02_CO_F0B9BF07190E4C2CBC453423D2AAECDE">
+<seccion3Titulo>Los nuevos espacios urbanos</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_21_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso210&amp;IdRecurso=RES-498CDF89E340496AB6B97FCD5FCC60B3"
+>El nuevo paisaje urbano en la baja edad media</enlace>
+</profundiza></seccion3Texto></seccion3><seccion3
+id="S3_CS_07_02_CO_CC7C42113FF84921A13B8677B2D901AF">
+<seccion3Titulo>El gobierno de las ciudades</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_22_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_23_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso220&amp;IdRecurso=RES-53CCBBE57BF44B2A915543FF28458FCC"
+>La Iglesia en la baja edad media</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_02_CO_41C53FE83D8749C7B565741922CDAE3C">
+<seccion2Titulo>Crisis de la Edad Media</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_CS_07_02_CO_FB9045BAA38740EE89B937931691BC9E">
+<seccion3Titulo>La crisis agrícola, el hambre y la peste negra</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_24_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso230&amp;IdRecurso=RES-2666FB1D38294FFDAA577F2B17A64574"
+>La peste negra</enlace>
+</profundiza></seccion3Texto></seccion3><seccion3
+id="S3_CS_07_02_CO_600372C8A0B04689BAB4965278C5D9DB">
+<seccion3Titulo>Las revueltas campesinas</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_02_CO_E16D201BACFE451C910F7BDE0057528B">
+<seccion3Titulo>Las revueltas urbanas</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso240&amp;IdRecurso=RES-01E3B6EB24EE44CF86E318E4A9A96BE8"
+>Refuerza tu aprendizaje: La crisis bajomedieval</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_02_CO_82FEBAC8070A4EEFB44BE8DDCF7AC685">
+<seccion2Titulo>La cultura y el arte de la Baja Edad Media</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_CS_07_02_CO_6F285CFD55BC445D8BFA88205BD930AD">
+<seccion3Titulo>El pensamiento medieval</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_25_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_02_CO_1F542E9D3F1C4C89B1CB25042AD210A1">
+<seccion3Titulo>La ciencia y la técnica medievales</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_26_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_02_CO_27C415934CB8423F84CA644E52D51E9B">
+<seccion3Titulo>Las universidades medievales</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_27_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso250&amp;IdRecurso=RES-D53C7322242041CAB79D96B8FF187259"
+>Las universidades medievales</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_28_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_29_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso260&amp;IdRecurso=RES-419C410FFBC94EB9828195CA77A5A6B3"
+>La arquitectura gótica</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso270&amp;IdRecurso=RES-E5335C330B484EB5AD21A59FF5C1D5C9"
+>Identifica los principales elementos de los edificios góticos</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_30_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<imagen src="CS_07_02_CO_img_31_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso280&amp;IdRecurso=RES-DD8E357BB4244F5AA344E5BD7872DDEA"
+>La escultura gótica</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_32_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_33_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso290&amp;IdRecurso=RES-B34F43E4F33145D5B9EF750A2263127D"
+>La pintura gótica</enlace>
+</profundiza><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso300&amp;IdRecurso=RES-B00DDE75531842A1A5065C033AC88B2A"
+>Analizar un cuadro: la Piedad de Avignon</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso310&amp;IdRecurso=RES-3719AD109F104AD0B19391F8A00E2AE1"
+>Conoce las partes de un retablo</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_02_CO_img_34_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso320&amp;IdRecurso=RES-2CE8C9FF711A4D42B2BAC8D8CE18947E"
+>Conoce las características del arte mudéjar</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso330&amp;IdRecurso=RES-2EA40800D8B04D929BE63879B6B6A2CF"
+>Refuerza tu aprendizaje: El arte gótico</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso340&amp;IdRecurso=RES-8190F578D86E4C62AED3D9E6E33091A3"
+>Refuerza tu aprendizaje: El arte mudéjar</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+</seccion1Texto></seccion1><masinformacion
+id="M1_CS_07_02_CO_EFAFEE84534343098064B038E7D375D7"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso350&amp;IdRecurso=RES-98DA3A7615B44AE18A41006BBA694A51"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_02_CORecurso090&amp;IdRecurso=RES-B55C5FB63A444073B64D6A664EC8A5C5"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+</enlacesreferencia></masinformacion></libro>

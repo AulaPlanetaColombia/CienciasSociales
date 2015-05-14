@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-06C40D2E1F1746EDA030612C157350BA</identificador>
+  <loid>CS_06_01_CORecurso140</loid>
+  <titulo>Asocia cada tipo de escritura a su soporte</titulo>
+  <descripcion>Actividad que permite relacionar los principales tipos de escritura o lenguaje con su soporte y la época a la que pertenecen</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>5</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>
+  </competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>alfabeto</concepto>
+    <concepto>cronología</concepto>
+    <concepto>escritura</concepto>
+    <concepto>fuente escrita</concepto>
+    <concepto>fuente histórica</concepto>
+    <concepto>historia</concepto>
+    <concepto>jeroglífico</concepto>
+    <concepto>papel</concepto>
+    <concepto>papiro</concepto>
+    <concepto>pergamino</concepto>
+    <concepto>pictograma</concepto>
+    <concepto>soporte</concepto>
+  </conceptos>
+</metadata>

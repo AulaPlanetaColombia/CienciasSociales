@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="101" clase="a" aprid="M101a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Refuerza tu aprendizaje: Las ciencias auxiliares de la historia</titulo>
+    <area>2</area>
+    <nivel>2</nivel>
+    <referencia><![CDATA[MS_3C_06]]></referencia>
+    <idreg><![CDATA[3491]]></idreg>
+    <motor><![CDATA[M101AP]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario, entrega las respuestas por escrito o por email a tu profesor para que pueda validarlas.]]></enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[1]]></calc>
+  <preguntas cantidad="4">
+    <pregunta>
+      <enunciado><![CDATA[¿Consideras que el objetivo primordial de la arqueología es encontrar objetos para exponerlos en los museos? Argumenta tu respuesta.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[1]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Di qué ciencia deben recurrir los historiadores para llevar a cabo las siguientes tareas y detalla qué tipo de información nos puede aportar cada una: datar un trozo de madera, descifrar un jeroglífico, determinar a qué especie pertenece un hueso, trazar el mapa de una ciudad antigua y excavar un yacimiento. ]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica la diferencia entre los ecofactos y los artefactos. Pon algún ejemplo.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Enumera las fases de una excavación y explica de forma breve las tareas que creas que se desarrollan en cada una de ellas.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+  </preguntas>
+</motor>

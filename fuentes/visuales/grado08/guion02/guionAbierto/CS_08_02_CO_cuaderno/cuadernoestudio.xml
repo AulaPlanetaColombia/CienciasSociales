@@ -1,464 +1,1101 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_08_02_CO">
-  <libroTitulo>Independencia y nuevos Estados en América Latina</libroTitulo>
-  <seccion1 id="S1_CS_08_02_CO_D69288FF0BDD4CE9B87644ADBDE73863">
-    <seccion1Titulo>Causas de la Independencia de las colonias españolas</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_02_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <seccion2 id="S2_CS_08_02_CO_932B743FDA8D4393B68A7F48E20E66EE">
-        <seccion2Titulo>Las Reformas Borbónicas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_02_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <p>Aquí va un PÁRRAFO</p>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso010&amp;IdRecurso=RES-9C2D081AAAA943F18DD1D7B907C432BC">El fin de la dinastía de los Austrias</enlace>
-          </profundiza>
-          <seccion3 id="S3_CS_08_02_CO_031AF18BDC054375BBC34E08E4D3FD81">
-            <seccion3Titulo>Reformas administrativas y económicas</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso020&amp;IdRecurso=RES-6927EDCB4ACB4E5582AC8C5DCF81BEC7">Los virreinatos españoles en América</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_02_CO_4B815931865B431494C0536B0B30E965">
-            <seccion3Titulo>Reforma eclesiástica</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_02_CO_img_03_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_02_CO_0636968B4DB048B4989EAE0C3E7E159C">
-            <seccion3Titulo>Reforma educativa</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso030&amp;IdRecurso=RES-71A0C7D539F44D45B99B01747AF6063A">La América borbónica</enlace>
-              </profundiza>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso040&amp;IdRecurso=RES-51C0E22347DC4C4888004B8F2AE8502F">Refuerza tu aprendizaje: Las rebeliones del siglo XVIII</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_02_CO_7F9F1E6BD04341D888980DA5E1EEBF17">
-        <seccion2Titulo>La Revolución Francesa y la independencia de Estados Unidos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_02_CO_C58E6B46F9894D479D933E5D51A02304">
-        <seccion2Titulo>Las invasiones napoleónicas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_02_CO_img_04_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_02_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso050&amp;IdRecurso=RES-51E248B9FF0442A39277AD11DF74AB02">La guerra de la Independencia española</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_02_CO_DE0534F069A94EFBA8DABFDD3076C676">
-        <seccion2Titulo>Las Cortes de Cádiz</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso060&amp;IdRecurso=RES-C7EE68F48D14422E91D3E986E23EB9FE">Refuerza tu aprendizaje: Descubre las características de la Constitución de Cádiz</enlace>
-          </practica>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_02_CO_397CE7472DDF4988B2D8802BE3CE7E9E">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso070&amp;IdRecurso=RES-007717CCE93A4E05986CD66D41718C49">La invasión de Napoleón a España y su influencia en América</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_02_CO_C407E2CE8B374DDC89D79CC97A18F412">
-    <seccion1Titulo>Las independencias en las colonias españolas</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <seccion2 id="S2_CS_08_02_CO_BD8F58C0A0C1473388F96AED6D88CBBB">
-        <seccion2Titulo>Las juntas de autogobierno</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_02_CO_74FE9C9733444E81A85EF14AB7669FC4">
-        <seccion2Titulo>La participación social</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_02_CO_img_06_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_02_CO_img_07_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso080&amp;IdRecurso=RES-502B0A3421224AF8BD4D1706F99EC0BA">El sistema de castas</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_02_CO_A4B0E231C3354FBDBBE08D6516787CA0">
-        <seccion2Titulo>Independencia de las colonias suramericanas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso090&amp;IdRecurso=RES-3BA6FF15ADCE49A290C91468C7E0650B">La Independencia de las colonias americanas</enlace>
-          </profundiza>
-          <seccion3 id="S3_CS_08_02_CO_94AFFE0F46F844ABA51CD02F35163795">
-            <seccion3Titulo>El proceso</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_02_CO_img_08_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_02_CO_img_09_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_02_CO_878BD830F82F4012AA14BC4511D02BEF">
-            <seccion3Titulo>La reacción española</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_02_CO_img_10_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_02_CO_C154BF617A374D9EAFFE6B868E195689">
-            <seccion3Titulo>El Congreso de Angostura</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_02_CO_A773FA95D4614C52B0971F1B46862B90">
-            <seccion3Titulo>Las batallas definitivas</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_02_CO_img_11_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_02_CO_3246557CB9D34186BC7504BEFE14C3CD">
-            <seccion3Titulo>La independencia de Ecuador</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_02_CO_img_12_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_02_CO_91E71ACE6CD94D8BA91C2974DC87D51D">
-            <seccion3Titulo>La Independencia de Perú</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_02_CO_D59D3AF41C434269858FAFD53F74A7C0">
-            <seccion3Titulo>La creación de Bolivia</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_02_CO_img_13_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso100&amp;IdRecurso=RES-344F79095A41420D822DDAC7632900CF">Las batallas que definieron la Independencia</enlace>
-              </practica>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso110&amp;IdRecurso=RES-9ACD69AAAD674C9E81B7D8C7E0965B47">Simón Bolívar y la Independencia</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_02_CO_59DA81FC3F7B4A2DA3A110682183D3B0">
-            <seccion3Titulo>Independencia del Río de la Plata</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_02_CO_img_14_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_02_CO_5C423767D3FB4D6CB18E722B768EC0AE">
-            <seccion3Titulo>Independencia de Brasil</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso120&amp;IdRecurso=RES-27CE8553817D42BD81AA9A0863138B42">Encuentra el hecho o el personaje de la Independencia</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_02_CO_79274F15353748BD977F0D86F939D7F4">
-        <seccion2Titulo>Independencia de las colonias de Centroamérica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <seccion3 id="S3_CS_08_02_CO_0BD23BBCC801498EB43749D223DE6B41">
-            <seccion3Titulo>El Grito de Dolores, en México</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_02_CO_img_15_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_02_CO_img_16_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso130&amp;IdRecurso=RES-E6731B3298354C6EBB7924D9646B7471">Los principios del Plan de Iguala</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_02_CO_AB32C83D76F244A3ABC2ED20617E89EF">
-            <seccion3Titulo>Independencia de El Salvador</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_02_CO_img_17_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_02_CO_D5CF40DFC650450397263174C8678C41">
-            <seccion3Titulo>Independencia de Guatemala</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_02_CO_img_18_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_02_CO_15CD7D0D9CBF4B37AB0D86BF4F844E73">
-            <seccion3Titulo>Independencia de Honduras</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_02_CO_37492C4C0B2E4E479A991D95AA2362A1">
-            <seccion3Titulo>Independencia de Costa Rica</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso140&amp;IdRecurso=RES-7AC17589B76C4005B1B343B0323FB260">La Independencia de Centroamérica</enlace>
-              </practica>
-              <imagen src="CS_08_02_CO_img_19_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso150&amp;IdRecurso=RES-DF267945204E4F36BBA3A1F6CE24F818">Refuerza tu aprendizaje: La independencia centroamericana</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_02_CO_2387BA095D44418EB5A41E529F82FC4C">
-    <seccion1Titulo>
-    </seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_02_CO_DE0BBF3A725449DBA9ED021CF6765FB5">
-    <seccion1Titulo>La conformación de los Estados nacionales</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <p>Aquí va un PÁRRAFO</p>
-      <seccion2 id="S2_CS_08_02_CO_852A17263E5D4D61A2BC8C7FD1437094">
-        <seccion2Titulo>Caudillos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_02_CO_img_20_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_02_CO_img_21_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_02_CO_A835A2F7027D4E6E992A971C9BF3F705">
-        <seccion2Titulo>Organización económica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_02_CO_A8AACCF30F0849FAB88FED80AB082636">
-        <seccion2Titulo>Organización social</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso160&amp;IdRecurso=RES-5B22361AB2BD4CB09906024C621FAAC6">Refuerza tu aprendizaje: Los caudillos</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso170&amp;IdRecurso=RES-7FBC16C8BC2448C59B74513A7B3C857E">Proyecto: Las características del caudillismo en América Latina</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_02_CO_4BB20BFCCA444B1C83E92F359D6D69FB">
-    <seccion1Titulo>Manifestaciones artísticas y culturales</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_02_CO_img_22_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <p>Aquí va un PÁRRAFO</p>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_02_CO_2282E0B694814CCDB625970C0BDD68EA">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso180&amp;IdRecurso=RES-92B47088C5A344A2B3FA5AFC3162436B">Competencias: Cronología de la Independencia americana</enlace>
-      </practica>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso190&amp;IdRecurso=RES-7FA41B14902E40C99E931D222AE88632">Evalúa tus conocimientos sobre la Independencia de América</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_02_CO_9A4D2437DD2A4D7DBD91D8288DC83358">
-    <seccion1Titulo>Fin de tema</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso200&amp;IdRecurso=RES-130A6C1FC4BB4F08B5D4AE4E765A72F6">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso210&amp;IdRecurso=RES-55E230F042C04E9E811FFE0B36EAC5F3">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </seccion1>
-</libro>
+<libroTitulo>Independencia y nuevos Estados en América Latina</libroTitulo>
+<seccion1 id="S1_CS_08_02_CO_D69288FF0BDD4CE9B87644ADBDE73863">
+<seccion1Titulo>Causas de la Independencia de las colonias españolas</seccion1Titulo>
+<seccion1Texto>
+<p>La Independencia fue el resultado de un proceso de larga duración
+que inició a mediados del siglo XVIII, cuando revueltas indígenas
+como las de <negrita>Túpac Katari</negrita> (1780) en el virreinato
+de La Plata y <negrita>Túpac Amaru</negrita> (1780) en el virreinato
+del Perú, o levantamientos como la <negrita>Rebelión de los Comuneros</negrita
+> en el Nuevo Reino de Granada, dejaron al descubierto el descontento
+frente al sistema colonial, que restringía el acceso de amplios sectores
+sociales al poder y a la propiedad.</p>
+<imagen src="CS_08_02_CO_IMG_01_small.jpg">
+<p>Túpac Amaru II, líder de las grandes rebeliones anticoloniales
+del siglo XVIII en el continente.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aunque en cada uno de los países latinoamericanos celebramos en
+una fecha específica la Independencia, esta fue el resultado de un
+proceso de larga duración que abarcó la segunda mitad del siglo XVIII
+y la primera mitad del siglo XIX.</p>
+</recuerdaTexto></recuerda><seccion2
+id="S2_CS_08_02_CO_932B743FDA8D4393B68A7F48E20E66EE">
+<seccion2Titulo>Las Reformas Borbónicas</seccion2Titulo>
+<seccion2Texto>
+<p>Las condiciones en que vivían indígenas, negros y mestizos se habían
+agravado con las Reformas Borbónicas, un conjunto de medidas definidas
+por la Corona española, que procuraron el reforzamiento de los poderes
+reales sobre las colonias.</p>
+<p>Durante el reinado de Felipe III el Imperio español comenzó a vivir
+su decadencia. Esta tuvo origen en el desgaste que dejaron guerras
+internacionales y, posteriormente, en la puesta en marcha, durante
+el reinado de Felipe IV, del <negrita>Tratado de Westfalia</negrita
+> <enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idpack=3&amp;idpil=7821997&amp;ruta=aulaplaneta&amp;DATA=lOiun6lQMPDlTAN3ObxsEjfqpXb%2b3YLTbbj%2btkCHHwY%3d"
+> [VER]</enlace> (1648), por el que España perdió los Países Bajos.
+Así mismo, la Paz de los Pirineos (1659) <enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idpack=3&amp;idpil=7092480&amp;ruta=aulaplaneta&amp;DATA=lOiun6lQMPCeWpeyZcTn4TfqpXb%2b3YLTbbj%2btkCHHwY%3d"
+>[VER]</enlace> fortaleció la hegemonía de Francia en Europa.</p>
+<p>Además, el último de los reyes de la dinastía Habsburgo o dinastía
+de los <negrita>Austrias</negrita>, <negrita>Carlos II</negrita>,
+murió sin descendencia, lo que permitió el ascenso de una nueva familia
+real a la Corona: los Borbones. <negrita>Felipe V</negrita>, el <negrita
+>primer rey Borbón</negrita> tenía vínculos de sangre con los reyes
+de Francia. </p>
+<imagen src="CS_08_02_CO_IMG_02_small.jpg">
+<p>Carlos II de España. Retrato de Juan Carreño de Miranda. Carlos
+El Hechizado fue el último de los reyes de la dinastía Habsburgo,
+pues no dejó descendencia. Ello permitió la llegada de la dinastía
+de los Borbones.</p>
+</imagen>
+<p>Los Borbones se propusieron <negrita>recuperar la hegemonía</negrita
+> de España y diseñaron un conjunto de <negrita>reformas</negrita
+> que tomaron forma definitiva durante el reinado de <negrita>Carlos
+III</negrita>, quien aplicó en el reino de España los valores del
+Siglo de las Luces y del despotismo ilustrado.</p>
+<p>Uno de los principales objetivos de Carlos III fue reafirmar el
+poder real sobre los dominios americanos y frenar la venta de cargos
+públicos que había en las colonias. Su objetivo era asegurar que España
+recibiera todos los impuestos.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso010&amp;IdRecurso=RES-9C2D081AAAA943F18DD1D7B907C432BC"
+>El fin de la dinastía de los Austrias</enlace>
+</profundiza><seccion3
+id="S3_CS_08_02_CO_031AF18BDC054375BBC34E08E4D3FD81">
+<seccion3Titulo>Reformas administrativas y económicas</seccion3Titulo>
+<seccion3Texto>
+<p>Con las Reformas Borbónicas, se transformó la división administrativa
+de las colonias americanas y fueron creados dos virreinatos:</p>
+<listaSinNumerar>
+<listaElemento>El Virreinato del <negrita>Río de la Plata</negrita
+>, que reunió a las actuales repúblicas de <negrita>Argentina</negrita
+>, <negrita>Uruguay</negrita>, <negrita>Paraguay</negrita> y <negrita
+>Bolivia</negrita>. Su capital era <negrita>Buenos Aires</negrita
+>.</listaElemento>
+<listaElemento>El virreinato de <negrita>Nueva Granada</negrita>,
+que reunió a las actuales repúblicas de <negrita>Colombia</negrita
+>, <negrita>Ecuador</negrita>, <negrita>Panamá</negrita> y <negrita
+>Venezuela</negrita>. Su capital era Santa Fe de Bogotá.</listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso020&amp;IdRecurso=RES-6927EDCB4ACB4E5582AC8C5DCF81BEC7"
+>Los virreinatos españoles en América</enlace>
+</practica>
+<p>Además de los virreinatos se crearon intendencias y se centralizaron
+los impuestos. <negrita>Con esta reorganización España quiso</negrita
+> tener control económico, social y burocrático sobre sus colonias.</p>
+<p>También se buscó que las colonias recibieran mayor cantidad de
+mercancías provenientes de la Península. Con la ganancia por sus ventas
+se quiso garantizar el desarrollo económico y el poder militar español.</p>
+<p>Estos fueron algunos de los impuestos que se incrementaron con
+las Reformas Borbónicas:</p>
+<table border="1"><colgroup><col width="20*"/><col width="77*"/>
+</colgroup>
+<tbody>
+<tr>
+<td><negrita>Estanco</negrita></td>
+<td>España monopolizó y controló, por la ley y por la fuerza, las
+ventas de <negrita>tabaco</negrita>, <negrita>naipes</negrita>, <negrita
+>aguardiente</negrita> y <negrita>pólvora</negrita>. Los productores
+y consumidores se vieron afectados; los primeros porque se les impedía
+producir libremente y los segundos porque el costo de los productos
+aumentó.</td>
+</tr>
+<tr>
+<td><negrita>Alcabala</negrita></td>
+<td>Impuesto a las ventas.</td>
+</tr>
+<tr>
+<td><negrita>Impuesto de la Armada de Barlovento</negrita></td>
+<td>España aumentó el impuesto a los artículos de mayor consumo. La
+ganancia obtenida estuvo destinada a fortalecer la <negrita>Armada
+de Barlovento</negrita> que había sido creada en 1635 para defender
+a las colonias de la presencia de corsarios y piratas.</td>
+</tr>
+<tr>
+<td><negrita>El quinto real</negrita></td>
+<td>Impuesto sobre la explotación de las <negrita>minas</negrita>,
+especialmente de oro y de plata.</td>
+</tr>
+</tbody>
+</table>
+<destacado><destacadoTitulo>Las reparticiones forzadas</destacadoTitulo>
+<destacadoTexto>
+<p>Con las Reformas Borbónicas, España empezó a enviar gran cantidad
+de mercancías para que estas fueran compradas en las colonias. Con
+ello, la Corona quería aumentar sus ingresos. Pero la población criolla
+no tenía suficiente capacidad de consumo, ante lo cual España tomó
+una medida extrema: las <negrita>reparticiones forzosas</negrita>.
+Con ellas, los indígenas se vieron obligados a comprar y consumir.
+Además, la venta de productos americanos se hizo más difícil porque,
+además de estar gravados con nuevos impuestos, tenían que competir
+con los productos españoles.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CS_08_02_CO_4B815931865B431494C0536B0B30E965">
+<seccion3Titulo>Reforma eclesiástica</seccion3Titulo>
+<seccion3Texto>
+<p>El despotismo ilustrado llevó a que la Corona eliminara algunos <negrita
+>privilegios de la Iglesia</negrita>, particularmente porque esta
+representaba una amenaza ya que había adquirido poder, bienes, tierras
+y riquezas. Una de las principales acciones que ejecutó Carlos III
+fue la <negrita>expulsión</negrita> en la totalidad de las colonias
+americanas de la <negrita>Compañía de Jesús</negrita> <enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idpack=3&amp;idpil=7274551&amp;ruta=aulaplaneta&amp;DATA=liXdw0UWeeOHOQry%2fM2lIDfqpXb%2b3YLTbbj%2btkCHHwY%3d"
+> [VER]</enlace>. Aquella acción provocó fuertes reacciones en distintos
+puntos del continente. </p>
+<imagen src="CS_08_02_CO_IMG_03_small.jpg">
+<p>Expulsión y embarque de los jesuitas de los Estados españoles por
+orden de su majestad Carlos III, el 31 de marzo de 1767. Este grabado
+muestra una escena sobre la expulsión de los jesuitas por orden del
+rey Carlos III, quien quiso concentrar el poder deshaciéndose de la
+presencia de una comunidad religiosa que fue vista como una amenaza.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_02_CO_0636968B4DB048B4989EAE0C3E7E159C">
+<seccion3Titulo>Reforma educativa</seccion3Titulo>
+<seccion3Texto>
+<p>Con la reforma eclesiástica y la limitación de la acción de la
+Iglesia llegó la reforma educativa, que estuvo inspirada en la <negrita
+>Ilustración</negrita>. Se crearon algunas universidades, periódicos
+y bibliotecas y se estimuló la investigación con el fin de mejorar
+la explotación minera y de especies botánicas como la quina.</p>
+<p>Aunque con las Reformas Borbónicas se buscó fortalecer el poder
+de la Corona en las colonias, sin proponérselo la reforma educativa
+permitió el ingreso de los ideales de <negrita>igualdad</negrita> y <negrita
+>libertad</negrita> del pensamiento ilustrado.</p>
+<recuerda><recuerdaTexto>
+<p>Aunque la reforma educativa tuvo como fin que en las colonias se
+adelantaran investigaciones y avances científicos para mejorar la
+productividad y la extracción de minerales, esta fue la vía que permitió
+el ingreso de los ideales de la Ilustración y de la <negrita>Revolución
+Francesa</negrita>. Aquellos criollos que pudieron acceder a la educación
+universitaria y que desarrollaron su espíritu científico se convirtieron
+en protagonistas de los procesos de <negrita>independencia</negrita
+>.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso030&amp;IdRecurso=RES-71A0C7D539F44D45B99B01747AF6063A"
+>La América borbónica</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso040&amp;IdRecurso=RES-51C0E22347DC4C4888004B8F2AE8502F"
+>Refuerza tu aprendizaje: Las rebeliones del siglo XVIII</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_08_02_CO_7F9F1E6BD04341D888980DA5E1EEBF17">
+<seccion2Titulo>La Revolución Francesa y la independencia de Estados
+Unidos</seccion2Titulo>
+<seccion2Texto>
+<p>A las rebeliones que ocurrieron en distintos rincones del continente
+a mediados del siglo XVIII, se sumó la independencia de las <negrita
+>Trece Colonias Británicas</negrita> (1776) y el triunfo de la <negrita
+>Revolución Francesa</negrita> (1789). Los ideales de libertad e igualdad
+de la revolución fueron también asumidos por los criollos, y según
+sus particularidades y condiciones, por los mestizos, negros, mulatos
+e indios de las colonias. A raíz de ello, el continente se debatió
+entre el control que quería ejercer la Corona española, por medio
+de las Reformas Borbónicas, y el avance de ideas que reivindicaban
+la razón y el progreso.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_02_CO_C58E6B46F9894D479D933E5D51A02304">
+<seccion2Titulo>Las invasiones napoleónicas</seccion2Titulo>
+<seccion2Texto>
+<p>En 1808, la noticia de la <negrita>invasión</negrita> de <negrita
+>Napoleón Bonaparte</negrita> a España se difundió en las colonias
+americanas. Como Napoleón buscaba hacer de Francia un imperio que
+se extendiera por toda Europa envió a sus tropas a esta nación con
+la intención de pasar posteriormente a Portugal. </p>
+<imagen src="CS_08_02_CO_IMG_04_small.jpg">
+<p>Detalle de <cursiva>La coronación de Napoleón</cursiva>, por Jacques
+Louis David (Museo del Louvre, París). Como un gesto de poder y autoritarismo,
+Napoleón se coronó a sí mismo Emperador e inició luego de ello la
+expansión del poder francés en otros territorios.</p>
+</imagen>
+<p>Con el uso de la fuerza, Napoleón logró la abdicación del rey Fernando
+VII y lo retuvo en la ciudad francesa de Bayona. La invasión de Napoleón
+a España y la abdicación del rey Fernando desataron la resistencia
+del pueblo español y la consecuente represión de las fuerzas francesas.</p>
+<imagen src="CS_08_02_CO_IMG_05_small.jpg">
+<p>Retrato de Fernando VII en un campamento, por Francisco de Goya
+(Museo del Prado, Madrid, España). El absolutista rey Fernando VII,
+gobernaba España cuando ocurrió la invasión napoleónica.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso050&amp;IdRecurso=RES-51E248B9FF0442A39277AD11DF74AB02"
+>La Guerra de la Independencia española</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_02_CO_DE0534F069A94EFBA8DABFDD3076C676">
+<seccion2Titulo>Las Cortes de Cádiz</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>invasión</negrita> de los franceses, no solo produjo
+la abdicación de Fernando VII, sino que el gobierno español tuvo que
+trasladarse a la ciudad de <negrita>Cádiz</negrita>. Las llamadas <negritacursiva
+>Cortes</negritacursiva>, que eran una figura similar al Parlamento,
+proclamaron la <negrita>soberanía nacional</negrita>, decretaron una
+ley de imprenta que <negrita>abolió la censura</negrita>, el <negrita
+>feudalismo</negrita>, y suprimieron la <negrita>Inquisición</negrita
+>. Igualmente, redactaron la <cursiva>Constitución política de la
+monarquía española</cursiva>.</p>
+<p>En conclusión, con la invasión de Napoleón los españoles vivieron
+una guerra cruel. No obstante, la abdicación de Fernando VII fue la
+oportunidad para que las Cortes redactaran una Constitución liberal
+que buscó terminar con el Antiguo Régimen.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso060&amp;IdRecurso=RES-C7EE68F48D14422E91D3E986E23EB9FE"
+>Refuerza tu aprendizaje: Descubre las características de la Constitución
+de Cádiz</enlace>
+</practica><destacado><destacadoTitulo>Juntas autónomas o Juntas de
+gobierno</destacadoTitulo><destacadoTexto>
+<p>Una vez se supo del vacío de poder en España, debido a la invasión
+napoleónica y la abdicación de Fernando VII, surgieron distintas juntas
+de gobierno en diferentes puntos del continente. Inicialmente estas
+juntas se declararon leales a Fernando VII y representaban el afán
+de autonomía de los criollos frente al poder español.</p>
+</destacadoTexto></destacado><recuerda><recuerdaTexto>
+<p>En 1808, ocurrió la invasión napoleónica a España que obligó al
+rey Fernando VII a abdicar a favor de Napoleón –quien luego pasó su
+trono a José Bonaparte–. Con ello el Imperio español se sumió en una
+crisis interna que se reflejó hacia todos los demás territorios colonizados. </p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_02_CO_397CE7472DDF4988B2D8802BE3CE7E9E">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso070&amp;IdRecurso=RES-007717CCE93A4E05986CD66D41718C49"
+>La invasión de Napoleón a España y su influencia en América</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_02_CO_C407E2CE8B374DDC89D79CC97A18F412">
+<seccion1Titulo>Las independencias en las colonias españolas</seccion1Titulo>
+<seccion1Texto>
+<p>El <negrita>vacío de poder</negrita> en España, que ocurrió a causa
+de la <negrita>abdicación</negrita> de Fernando VII, benefició el
+deseo de independencia que venía germinando en las colonias desde
+el siglo XVIII. Una vez se supo que el rey había dejado el trono empezaron
+a conformarse juntas de autogobierno en distintos puntos del continente
+y el optimismo se apoderó de muchos sectores sociales.</p>
+<seccion2 id="S2_CS_08_02_CO_BD8F58C0A0C1473388F96AED6D88CBBB">
+<seccion2Titulo>Las juntas de autogobierno</seccion2Titulo>
+<seccion2Texto>
+<p>A partir de 1808 los movimientos independentistas se hicieron visibles
+en las colonias españolas en América:</p>
+<listaSinNumerar>
+<listaElemento>Montevideo (septiembre de 1808) </listaElemento>
+<listaElemento>Chuquisaca, actual ciudad de Sucre, Bolivia (mayo de
+1809) </listaElemento>
+<listaElemento>La Paz (julio de 1809)</listaElemento>
+<listaElemento>Quito (agosto de 1809)</listaElemento>
+<listaElemento>Buenos Aires (mayo de 1810)</listaElemento>
+<listaElemento>Santa Fe de Bogotá (julio de 1810)</listaElemento>
+<listaElemento>Santiago de Chile (septiembre de 1810)</listaElemento>
+<listaElemento>Paraguay (mayo de 1811)</listaElemento>
+<listaElemento>Venezuela (julio de 1811)</listaElemento>
+<listaElemento>Río de la Plata (abril de 1813)</listaElemento>
+</listaSinNumerar>
+<p>El primer paso que dieron las <negrita>juntas</negrita> fue la
+redacción de una constitución política. En cada lugar donde se conformó
+una junta, surgió una constitución. En ellas se hablaba de <negrita
+>igualdad racial</negrita>, se <negrita>suspendía la trata de esclavos</negrita
+>, se echaba por tierra el monopolio comercial que buscaron lograr
+las Reformas Borbónicas y se establecían condiciones para acabar con
+la exclusión de los americanos en los cargos de poder administrativo
+y político.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_02_CO_74FE9C9733444E81A85EF14AB7669FC4">
+<seccion2Titulo>La participación social</seccion2Titulo>
+<seccion2Texto>
+<p>Durante la Colonia se creó un <negrita>sistema de castas</negrita
+> excluyente que no permitía el ascenso social. Existió un desprecio
+hacia aquellas personas que pertenecían a las castas más bajas, que
+eran además quienes hacían los trabajos más difíciles: negros, mulatos
+e indígenas.</p>
+<imagen src="CS_08_02_CO_IMG_06_small.jpg">
+<p>Las castas mexicanas, Ignacio María Barreda. El sistema de castas
+de la Colonia estableció jerarquías según el color de la piel. La
+minoría española se encontraba en la cúspide y en la parte baja los
+indios y negros. Esto despertaba sentimientos y prácticas de discriminación
+y exclusión que permanecieron aún a pesar el triunfo de la Independencia.</p>
+</imagen>
+<p>Sin embargo, los ideales de <negrita>libertad</negrita> e <negrita
+>igualdad</negrita> también llegaron a aquellos <negrita>grupos marginados</negrita
+> y el proceso de independencia tuvo distintos protagonistas: criollos,
+indios, negros y mulatos participaron poniendo en juego sus intereses
+y también su relación con las otras castas. Esto fue determinante
+para que la independencia fuera un <negrita>fenómeno poco homogéneo</negrita
+> y lleno de dificultades.</p>
+<p>Los mulatos, negros e indios percibieron que las juntas que declararon
+la independencia estaban conformadas por las <negrita>élites propietarias</negrita
+>, lo que implicaba que se mantendrían algunas formas de exclusión
+social establecidas en la Colonia con el sistema de castas. Por ello
+algunos de aquellos sectores prefirieron luchar al lado de los <negrita
+>ejércitos realistas</negrita> y no con los criollos. Hubo, igualmente,
+entre estas castas bajas, quienes apoyaron a los ejércitos independentistas
+y llegaron a escalar altas posiciones en ellos. El almirante Padilla
+fue un importante ejemplo.</p>
+<imagen src="CS_08_02_CO_IMG_07_small.jpg">
+<p>José Prudencio Padilla por Constancio Franco Vargas. El almirante
+guajiro José Prudencio Padilla, luego de haber combatido en la batalla
+de Trafalgar, que representa una de las grandes victorias de Inglaterra
+contra la Francia napoleónica, participó de manera decidida en las
+guerras de independencia que se libraron en la Nueva Granada. A pesar
+de sus numerosos triunfos militares fue fusilado por orden de Simón
+Bolívar tras conocerse su participación en el atentado de la “noche
+septembrina”, en el cual participó también el general Santander.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso080&amp;IdRecurso=RES-502B0A3421224AF8BD4D1706F99EC0BA"
+>El sistema de castas</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_02_CO_A4B0E231C3354FBDBBE08D6516787CA0">
+<seccion2Titulo>Independencia de las colonias suramericanas</seccion2Titulo>
+<seccion2Texto>
+<p>La Independencia de la América española fue un proceso social y
+militar que concluyó con la emancipación de las antiguas colonias
+entre 1811 y 1824.</p>
+<p>El inicio del conflicto ocurrió en la <negrita>capitanía de Venezuela</negrita
+>. El 19 de abril de 1810 se convocó un cabildo abierto en Caracas
+que instaló una junta de gobierno integrada por criollos. La <negrita
+>junta</negrita> se declaró leal a Fernando VII, pero destituyó a
+los funcionarios metropolitanos, en especial a los de la Real Audiencia,
+institución que se había transformado en una fuente de agravios permanente
+para los criollos.</p>
+<p>La junta tuvo un claro <negrita>sello liberal</negrita>: suprimió
+el impuesto a las exportaciones y la alcabala para los artículos de
+primera necesidad, decretó la <negrita>libertad de comercio</negrita
+>, <negrita>prohibió el tráfico de esclavos</negrita> y <negrita>eliminó
+el tributo indígena</negrita>.</p>
+<p>Así mismo, algunos sectores radicales de la junta pretendían avanzar
+rápidamente hacia la ruptura con la metrópoli, en uno de ellos se
+encontraba Simón Bolívar.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso090&amp;IdRecurso=RES-3BA6FF15ADCE49A290C91468C7E0650B"
+>La Independencia de las colonias americanas</enlace>
+</profundiza><seccion3
+id="S3_CS_08_02_CO_94AFFE0F46F844ABA51CD02F35163795">
+<seccion3Titulo>El proceso</seccion3Titulo>
+<seccion3Texto>
+<p>Las <negrita>juntas</negrita> organizaron ejércitos de patriotas
+dirigidos por militares criollos. En el área norte del continente
+los ejércitos de <negrita>Francisco de Miranda</negrita>, <negrita
+>Simón Bolívar</negrita> y <negrita>Antonio Nariño</negrita> mantuvieron
+enfrentamientos contra los núcleos españolistas de Coro, Santa Marta,
+Panamá, y el ejército del virrey de Nueva Granada.</p>
+<p>Desde el inicio del conflicto, la figura de <negrita>Simón Bolívar</negrita
+> <enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=554606&amp;ruta=Buscador"
+> [VER]</enlace> ya había empezado a ser protagónica. En la campaña
+de Venezuela sufrió una derrota. En 1812, el capitán realista Domingo
+Monteverde, que había llegado desde España para defender al Imperio,
+luego de haber combatido a las tropas napoleónicas, ganó la batalla
+de <negrita>Puerto Cabello</negrita>, en donde capituló también <negrita
+>Francisco de Miranda</negrita>, quien fue enviado a La Carraca, cárcel
+de presos políticos en España.</p>
+<imagen src="CS_08_02_CO_img_08_small.jpg">
+<p>Miranda en la Carraca, Arturo Michelena (1896). Francisco de Miranda,
+conocido como “el venezolano universal”, es considerado uno de los
+precursores de la Independencia de América. Para algunos historiadores
+fue el gran ideólogo que diseñó el proyecto político de la independencia.
+Su ideario se nutrió de su propia contribución a la guerra de Independencia
+de Estados Unidos como soldado voluntario del ejército español en
+la Batalla de Pensacola. Pasó sus últimos años en la cárcel de la
+Carraca, en Cádiz.</p>
+</imagen>
+<p>Tras la derrota de Puerto Cabello, Bolívar se vio forzado a huir
+y a refugiarse en Cartagena en donde publicó <negritacursiva>Memoria
+dirigida a los ciudadanos de la Nueva Granada por un caraqueño</negritacursiva
+> convocó a los habitantes del virreinato de la Nueva Granada para
+que se unieran contra la España colonizadora. Muy pronto, con ayuda
+de los neogranadinos, <negrita>venció en Caracas en 1813</negrita
+> y con esta y otras victorias pasó a ser el guía del proceso emancipador.
+Sin embargo, la <negrita>superioridad militar española</negrita> se
+hizo sentir y Bolívar se vio obligado a huir a Jamaica en donde obtuvo
+el apoyo de británicos y haitianos.</p>
+<imagen src="CS_08_02_CO_IMG_09_small.jpg">
+<p>Alexaindre Pétion, autor desconocido. Haití, que había dado el
+primer paso contra los colonizadores europeos, ofreció su ayuda para
+lograr el proceso de independencia que dirigió Simón Bolívar. El general
+Pétion, que había combatido para lograr la Independencia de Haití,
+fue el gran aliado del Libertador.</p>
+</imagen>
+<destacado><destacadoTitulo>La Independencia de Haití</destacadoTitulo>
+<destacadoTexto>
+<p>Haití fue el primer país de América que proclamó su Independencia
+(1804), pero en un contexto diferente al resto de los países del continente.
+Estaba ocupado por Francia y se regía bajo un sistema esclavista donde
+solo doce mil de los 300 mil habitantes existentes eran libres; blancos
+y mulatos, principalmente. La victoria sobre las tropas francesas
+culminó en 1803 y un año después Jean Jacques Dessalines <enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=555983&amp;ruta=Buscador"
+>[VER]</enlace> declaró la Independencia y se proclamó emperador.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CS_08_02_CO_878BD830F82F4012AA14BC4511D02BEF">
+<seccion3Titulo>La reacción española</seccion3Titulo>
+<seccion3Texto>
+<p>En 1814, Fernando VII retornó al trono y restauró su poder en España.
+Con ello, regresó el absolutismo y la guerra en las colonias se agudizó.
+Aquellas juntas americanas que inicialmente habían pedido autonomía
+y al mismo tiempo se declararon leales a Fernando VII, radicalizaron
+su lucha para lograr una independencia definitiva.</p>
+<imagen src="CS_08_02_CO_IMG_10_small.jpg">
+<p><negrita>Pablo Morillo, Horace Vernet</negrita> (Museo Naval, Madrid,
+España). Morillo fue un militar español enviado por Fernando VII a
+las colonias americanas (1814) para sofocar el movimiento independentista.
+Tras su llegada, la guerra se agudizó. Fue derrotado por Bolívar en
+la Batalla de Boyacá. Luego inició las negociaciones de paz que dieron
+paso al armisticio de Trujillo en 1820.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_02_CO_C154BF617A374D9EAFFE6B868E195689">
+<seccion3Titulo>El Congreso de Angostura</seccion3Titulo>
+<seccion3Texto>
+<p>En 1817, con el apoyo recibido por <negrita>legiones extranjeras</negrita
+>, el ejército independentista logró liberar <negrita>Angostura</negrita
+> y avanzar hacia la creación de una república.</p>
+<p>El 15 de febrero de 1819 se celebró allí el Segundo Congreso de
+Venezuela, donde Bolívar presentó el proyecto de fundar la <negrita
+>Gran Colombia</negrita>. En la primera reunión se acordó la constitución
+de la República de la Gran Colombia que comprendía los territorios
+de la actual <negrita>Venezuela</negrita>, <negrita>Nueva Granada</negrita
+> y <negrita>Quito</negrita>. La creación de la Gran Colombia se decretó
+el 17 de diciembre de 1819. </p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_02_CO_A773FA95D4614C52B0971F1B46862B90">
+<seccion3Titulo>Las batallas definitivas</seccion3Titulo>
+<seccion3Texto>
+<p>El avance del proceso independentista le permitió a Bolívar regresar
+a la Nueva Granada. En Angostura, Bolívar les había prometido tierras
+a las castas marginales, como negros, mulatos y esclavos, lo que estimuló
+la participación de estos y engrosó las filas del ejército libertador,
+que atravesó el llano hasta llegar a la cordillera de los Andes para
+vencer de manera definitiva a los españoles en la <negrita>Batalla
+de Boyacá</negrita>, el 7 de agosto de 1819.</p>
+<p>El 24 de junio de 1821 regresó a Venezuela para vencer definitivamente
+a España en la <negrita>Batalla de Carabobo</negrita>. Desde aquel
+momento, con la Independencia de la Nueva Granada y de Venezuela,
+la Gran Colombia empezó a hacerse realidad. Luego se incorporaron
+Panamá y Ecuador.</p>
+<imagen src="CS_08_02_CO_IMG_11_small.jpg">
+<p>Fragmento de la obra “Batalla de Carabobo, Martín Tovar y Tovar.
+Óleo sobre tela. Palacio Federal Legislativo, Caracas – Venezuela.
+La batalla de Carabobo, ocurrida en 1821, le dio la libertad definitiva
+a Venezuela. Fragmento de la Batalla de Carabobo.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_02_CO_3246557CB9D34186BC7504BEFE14C3CD">
+<seccion3Titulo>La independencia de Ecuador</seccion3Titulo>
+<seccion3Texto>
+<p>En 1822, tras las victorias en Nueva Granada y Venezuela, el ejército
+libertador se dirigió a <negrita>Ecuador</negrita>, divido en dos
+frentes; el del <negrita>norte</negrita> con <negrita>Bolívar</negrita
+> a la cabeza y el del <negrita>sur</negrita> al mando de <negrita
+>Antonio José de Sucre</negrita>. El primero venció en la <negrita
+>Batalla de Bomboná</negrita>, donde se enfrentó a los pastusos que
+combatían del lado de los realistas; y el segundo venció en la <negrita
+>Batalla de Pichincha</negrita> logrando así la independencia definitiva
+de Ecuador. </p>
+<imagen src="CS_08_02_CO_IMG_12_small.jpg">
+<p>La muerte de Sucre en Berruecos, Arturo Michelena. Comandante del
+ejército del sur, el mariscal Antonio José de Sucre (nacido en Cumaná,
+Venezuela) fue uno de los militares más destacados en las guerras
+de independencia. Participó en grandes batallas como la de Pichincha
+(Ecuador, 24 de mayo de 1822) y la de Junín (Perú, 6 de agosto de
+1824). La Batalla de Ayacucho, con la que se logró la victorial final
+para liberar a Perú fue, a su vez, aquella con la que se selló la
+libertad del continente. En 1830, tras las guerras de Independencia,
+las nacientes naciones americanas vivieron momentos de anarquía política
+en los que distintos sectores se disputaron el poder; el 4 de junio
+de ese año, el mariscal sufrió un mortal atentado en Berruecos, en
+el actual departamento de Nariño, Colombia.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_02_CO_91E71ACE6CD94D8BA91C2974DC87D51D">
+<seccion3Titulo>La Independencia de Perú</seccion3Titulo>
+<seccion3Texto>
+<p>La emancipación llegó a su fin con la Independencia de Perú. En
+enero de 1824, Bolívar recibió la noticia de que la guarnición de
+El Callao se había pasado a los realistas. Poco después estos tomaron
+Lima, pero el Congreso de Perú, antes de disolverse, nombró dictador
+a Bolívar, y le concedió facultades ilimitadas para salvar el país.
+Retirado en Trujillo, el Libertador trabajó en la preparación de la
+nueva campaña: el 6 de agosto de 1824 derrotó en <negrita>Junín</negrita
+> al ejército real de Perú. El general Sucre, que había avanzado hacia
+la sierra, en Ayacucho, puso el sello definitivo a la libertad americana
+el 9 de diciembre de 1824.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_02_CO_D59D3AF41C434269858FAFD53F74A7C0">
+<seccion3Titulo>La creación de Bolivia</seccion3Titulo>
+<seccion3Texto>
+<p>Una vez terminó la fase militar de la emancipación, el 10 de febrero
+de 1825, Bolívar se dirigió a las provincias del Alto Perú, que se
+constituyeron en una nación: la actual República de Bolivia, que inicialmente
+recibió el nombre de República Bolívar. Para este nuevo Estado, Bolívar
+redactó en 1826 un proyecto de Constitución en el que plasmó sus ideas
+sobre la consolidación del orden y la independencia de los países
+recién emancipados.</p>
+<imagen src="CS_08_02_CO_IMG_13_small.jpg">
+<p><negrita>Simón Bolívar</negrita> por Daniel Hernández, s. XIX (Museo
+de Arte, Lima, Perú). Bolívar fue un político y militar venezolano.
+Fue uno de los artífices de la independencia de las colonias americanas
+de España, no sólo con sus fulgurantes campañas militares, sino también
+con sus escritos y proclamas.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso100&amp;IdRecurso=RES-344F79095A41420D822DDAC7632900CF"
+>Las batallas que definieron la Independencia</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso110&amp;IdRecurso=RES-9ACD69AAAD674C9E81B7D8C7E0965B47"
+>Simón Bolívar y la Independencia</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_08_02_CO_59DA81FC3F7B4A2DA3A110682183D3B0">
+<seccion3Titulo>Independencia del Río de la Plata</seccion3Titulo>
+<seccion3Texto>
+<p>Una vez se supo de la invasión napoleónica a España, en Buenos
+Aires los criollos conformaron, en mayo de 1810, una junta de gobierno
+que de inmediato destituyó al virrey. Sucedió lo mismo en Santiago,
+en donde el cabildo abierto destituyó a las autoridades españolas.</p>
+<p>La Independencia del virreinato del Río de la Plata debió enfrentarse
+a la decisión de la provincia de la Banda Oriental (hoy Uruguay) de
+alinearse con los realistas. La resistencia de los orientales, con
+José Gervasio Artigas <enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=51569&amp;ruta=Buscador"
+>[VER]</enlace> a la cabeza, fue una respuesta de rechazo a la posible
+posición centralista que buscaba ocupar Buenos Aires. Uruguay quería,
+en cambio, una igualdad entre las provincias.</p>
+<p>En 1813 se realizó en Buenos Aires la primera asamblea que abolió
+la esclavitud, anuló la encomienda, la mita y el <negrita>yanaconazgo</negrita
+>. En 1816 se convocó un nuevo Congreso constituyente en Tucumán.
+El 9 de julio de julio de ese año se declaró la Independencia.</p>
+<p>A partir de aquel momento, la revolución empezó a seguir su recorrido
+en cabeza de <negrita>José de San Martín</negrita>, quien en 1818
+declaró la Independencia de Chile, para luego avanzar por el mar Pacífico
+hacia Perú en donde coincidió con Simón Bolívar.</p>
+<imagen src="CS_08_02_CO_IMG_14_small.jpg">
+<p>José de San Martín, autor desconocido. El 28 de julio de 1821,
+José de San Martín proclamó la Independencia del Perú, aunque esta
+se hizo realidad con el triunfo del ejército de Bolívar en la batalla
+de Junín y del ejército de Sucre, en la Batalla de Ayacucho. San Martín
+había sido una figura clave en los procesos de Independencia de los
+países de sur, como Chile y Argentina.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_02_CO_5C423767D3FB4D6CB18E722B768EC0AE">
+<seccion3Titulo>Independencia de Brasil</seccion3Titulo>
+<seccion3Texto>
+<p>En Portugal, la invasión napoleónica a España fue el detonante
+del proceso de Independencia de Brasil. Sin embargo, la manera cómo
+ocurrieron los hechos, hizo del Brasil un caso completamente diferente
+al resto del continente.</p>
+<p>Una vez se tuvo noticia de la llegada del emperador Napoleón a
+España, la Corte portuguesa, encabezada por el rey Juan VI (<negrita
+>dinastía Braganza</negrita>), se trasladó a Río de Janeiro, Brasil.
+Inmediatamente, se abrieron los puertos brasileños, lo que terminó
+con tres siglos de monopolio. Pero Inglaterra copó la casi totalidad
+del comercio brasileño hasta 1814.</p>
+<p>Cuando, en 1815, Napoleón fue derrotado, el Congreso de Viena solicitó
+a la dinastía de Braganza que retornara a Portugal. Juan VI se negó,
+por lo que se creó el Reino Unido de Portugal, Brasil y Algarves.</p>
+<p>En 1821, estalló una revolución en Porto y Juan VI regresó a Lisboa.
+Dejó a su hijo Pedro como regente y el 12 de octubre de 1822 el hijo
+de Juan VI fue coronado emperador de Brasil con el nombre de Pedro
+I.</p>
+<p>En 1831, Pedro I (que había heredado el poder de manos de Juan
+VI), tras múltiples manifestaciones en Minas Gerais, abdicó en favor
+de su hijo Pedro II, de cinco años. Debido a que se trataba de un
+niño en el trono, el gobierno fue asumido por una regencia tripartita
+provisional.</p>
+<p>La crisis de la monarquía se inició al final de la guerra contra
+Paraguay, en 1870. Hasta entonces la Marina había sido la parte más
+importante del Ejército, privilegiada por el Imperio. Sin embargo,
+la guerra obligó al ejército de tierra a reclutar oficiales entre
+las clases medias y soldados entre los esclavos, por lo que, al final
+de la contienda, la mayor parte de la oficialidad era abolicionista
+y se enfrentó a la aristocracia rural. El emperador abandonó el país
+el 17 de noviembre de 1889.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso120&amp;IdRecurso=RES-27CE8553817D42BD81AA9A0863138B42"
+>Encuentra el hecho o el personaje de la Independencia</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_08_02_CO_79274F15353748BD977F0D86F939D7F4">
+<seccion2Titulo>Independencia de las colonias de Centroamérica</seccion2Titulo>
+<seccion2Texto>
+<p>América Central, donde el primer grito de independencia dató de
+1811, realizó la primera etapa de su emancipación en 1821, dentro
+de la órbita mexicana, y la completó en 1824, cuando se separó de
+México. La fase siguiente de la liberación del colonialismo no se
+produjo sino a fines del siglo XIX, con la Independencia de Cuba.</p>
+<seccion3 id="S3_CS_08_02_CO_0BD23BBCC801498EB43749D223DE6B41">
+<seccion3Titulo>El Grito de Dolores, en México</seccion3Titulo>
+<seccion3Texto>
+<p>Al igual que en el resto del continente, México inició su lucha
+por la independencia en 1809. Sin embargo, el inicio se diferenció
+porque no ocurrió en los centros administrativos importantes del virreinato
+(como en el caso de Quito o Santa Fe de Bogotá), sino que ocurrió
+en zonas rurales. Dos hechos dieron inicio al que sería un largo proceso:</p>
+<listaSinNumerar>
+<listaElemento>Entre 1809, en varias reuniones secretas se preparó
+la <negrita>conspiración de Querétaro</negrita>, un levantamiento
+de rebeldes que fue ahogada rápidamente.</listaElemento>
+<listaElemento>Luego de la derrota de Querétaro, el 16 de septiembre
+de 1810 el cura <negrita>Miguel Hidalgo</negrita> invitó desde su
+iglesia a la sublevación con lo que se conoció como <negrita>“El Grito
+de Dolores”</negrita>. Con su proclama empezó una rebelión que culminó
+en 1821. </listaElemento>
+</listaSinNumerar>
+<p>Tras el Grito de Dolores, el apoyo popular, y sobre todo indígena,
+no se hizo esperar. Sin embargo, los bandos realistas lograron contener
+el avance de los rebeldes a la capital del virreinato. En 1821, Hidalgo
+y varios de sus aliados fueron capturados y ejecutados.</p>
+<imagen src="CS_08_02_CO_IMG_15_small.jpg">
+<p>Detalle del Fresco de la independencia, 1960-1961, por Juan O'
+Gorman (Museo Nacional de Historia, México D.F.). Con la proclama
+llamada Grito de Dolores, el cura Miguel Hidalgo inició el 16 de septiembre
+de 1810 en la actual ciudad de Dolores Hidalgo la insurrección en
+Nueva España, que se diferenció del resto de movimientos emancipadores
+latinoamericanos por apoyarse sobre todo en la población indígena.</p>
+</imagen>
+<p>Después de la ejecución de Hidalgo, <negrita>José María Morelos</negrita
+> asumió la dirección de la rebelión. Morelos enarboló la imagen de
+la virgen de Guadalupe como símbolo patriótico. Adelantó su campaña
+desde el sur de México, y aunque tuvo importantes victorias fue detenido,
+juzgado por la Inquisición y fusilado.</p>
+<p>Para 1820, España vivió una situación particular que hizo cambiar
+el curso de la independencia mexicana. Los liberales tomaron el poder
+en lo que se conoció como el Trienio Liberal <enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=347774&amp;ruta=Buscador"
+>[VER]</enlace>. En México miembros del ejército realista, como <negrita
+>Agustín de Iturbide</negrita>, leales a Fernando VII se negaron a
+jurar su lealtad a los liberales y cambiaron de bando.</p>
+<p>Fue Iturbide quien selló el proceso independentista. Inicialmente,
+tras haber combatido a los rebeldes y ejecutar a varios de ellos,
+se les unió de manera inesperada para lograr el triunfo definitivo.
+En 1821, marchó victorioso en la ciudad de México y se autonombró
+presidente y emperador. </p>
+<imagen src="CS_08_02_CO_IMG_16_small.jpg">
+<p>Agustín de Iturbide y el virrey O'Donojú pactando la Independencia
+de México, grabado de 1821, obra de J. Serra (Colección particular,
+Madrid, España). Los vientos de libertad que llegaban de México, contagiaron
+a los criollos centroamericanos. El Plan de Iguala fue asumido por
+una asamblea de notables el 15 de septiembre de 1821 y estuvo vigente
+hasta que cayó el imperio de Iturbide. En 1824 se adoptó la Constitución
+mexicana.</p>
+</imagen>
+<destacado><destacadoTitulo>El plan de Iguala</destacadoTitulo>
+<destacadoTexto>
+<p>El 24 de febrero de 1821 en la localidad de <negrita>Iguala</negrita
+>, Iturbide dio a conocer el Plan de Iguala, también conocido como <negrita
+>Plan de las tres garantías para la Independencia de la América Septentrional</negrita
+>. Se basó en estos pilares:</p>
+<listaSinNumerar>
+<listaElemento>Definición del <negrita>catolicismo como la religión
+nacional de México</negrita>.</listaElemento>
+<listaElemento><negrita>Declaración de la Independencia de México</negrita
+> del Imperio español.</listaElemento>
+<listaElemento><negrita>Igualdad social</negrita> de todos los grupos
+étnicos y sociales en el nuevo país.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado>
+<p>Los vientos de libertad que llegaban de México, contagiaron a los
+criollos centroamericanos. El <negrita>Plan de Iguala</negrita> fue
+asumido por una asamblea de notables el 15 de septiembre de 1821.</p>
+<p>Igualmente, la <negrita>Constitución de Cádiz</negrita>, que se
+promulgó en España en 1812, impactó fuertemente en las colonias. Basada
+en los <negrita>principios liberales</negrita>, señalaba que los gobiernos
+locales podían tomar decisiones autónomas. Esto despertó en los <negrita
+>centroamericanos</negrita> ideas de <negrita>autogobierno</negrita
+>. Los salvadoreños empezaron por pedir mayor autonomía no solo frente
+a España sino frente a Guatemala, de la que dependían administrativamente.
+Este era también un deseo de las demás capitanías.</p>
+<destacado><destacadoTitulo>Influencia de la Independencia de México</destacadoTitulo>
+<destacadoTexto>
+<p>El triunfo de Iturbide en México y la proclamación del Plan de
+Iguala tuvo un efecto dominó en el sur. La capitanía de Chiapas se
+unió a México y Guatemala declaró su Independencia el 15 de septiembre
+de 1821.</p>
+<p>El espíritu autonomista y secesionista que existía en Centroamérica
+complicó el panorama. Cada uno de los países pasó a discutir si se
+anexaba a México.</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso130&amp;IdRecurso=RES-E6731B3298354C6EBB7924D9646B7471"
+>Los principios del Plan de Iguala</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_08_02_CO_AB32C83D76F244A3ABC2ED20617E89EF">
+<seccion3Titulo>Independencia de El Salvador</seccion3Titulo>
+<seccion3Texto>
+<p>En la ciudad de San Salvador se inició el movimiento de independencia
+centroamericano, el 5 de noviembre de 1811. El 15 de septiembre de
+1821 declararon su soberanía para luego unirse a México, hasta el
+29 de junio de 1823, cuando se disolvió el Imperio de Iturbide. Entre
+1824 y 1841, El Salvador formó parte de la Federación de Provincias
+Unidas de Centroamérica, en la que desempeñó un importante papel (San
+Salvador fue capital de la Federación de 1834 a 1839). De 1832 a 1840,
+el Estado sufrió tres intervenciones extranjeras, guatemaltecas y
+hondureño-nicaragüenses. La República se proclamó en 1841.</p>
+<imagen src="CS_08_02_CO_IMG_17_small.jpg">
+<p>Primer grito de Independencia, Luis Vergara Ahumada. El Primer
+Grito de Independencia de Centroamérica se dio en San Salvador en
+1811.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>En el año 1823 se formaron las Provincias Unidas de Centroamérica,
+integradas por las actuales Guatemala, Honduras, El Salvador, Nicaragua
+y Costa Rica. Esta Federación fue estratégica para hacer frente al
+deseo de México de convertirse en imperio.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CS_08_02_CO_D5CF40DFC650450397263174C8678C41">
+<seccion3Titulo>Independencia de Guatemala</seccion3Titulo>
+<seccion3Texto>
+<p>La Capitanía General de Guatemala corresponde al territorio que
+en el presente está conformado por Costa Rica, Nicaragua, Honduras,
+El Salvador, Guatemala y Chiapas.</p>
+<imagen src="CS_08_02_CO_IMG_18_small.jpg">
+<p>Mapa del reino de Guatemala (1783?). El reino de Guatemala se componía
+de Honduras, Nicaragua, Guatemala, Costa Rica, El Salvador, y al estado
+mexicano de Chiapas.</p>
+</imagen>
+<p>En el proceso de Independencia, los próceres salvadoreños participaron
+activamente en el movimiento insurgente, mientras que los próceres
+guatemaltecos desempeñaron más bien un papel de resistencia.</p>
+<p>La Independencia de España fue proclamada el 16 de septiembre de
+1821 por el capitán general Gabino Gaínza y condujo a la anexión al
+Imperio mexicano de Agustín de Iturbide (formalizada en febrero de
+1822).</p>
+<p>Luego vino la independencia respecto a México (1823) y Guatemala
+se integró en la Federación de las Provincias Unidas de Centroamérica
+(1824). En 1838 la federación se disolvió y Guatemala se proclamó
+Estado independiente.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_02_CO_15CD7D0D9CBF4B37AB0D86BF4F844E73">
+<seccion3Titulo>Independencia de Honduras</seccion3Titulo>
+<seccion3Texto>
+<p>Entre los próceres hondureños de la Independencia centroamericana
+figuran el liberal <negrita>Francisco Morazán</negrita> (1792-1842)
+y el conservador José Cecilio del Valle (1780-1834).</p>
+<p>Ambos bandos se pusieron de acuerdo en la lucha por la emancipación
+del país. Tras la declaración de la Independencia (1821), Honduras
+pasó a formar parte del Imperio mexicano (1822-1823) y luego se integró
+en la Federación de Provincias Unidas de Centroamérica (1823).</p>
+<p>Tras la presidencia de la República centroamericana del liberal
+hondureño Morazán (1830), Honduras se independizó (1838). Entre 1842
+y 1844 se integró en una nueva federación, solo con El Salvador y
+Nicaragua. Posteriormente, las disputas territoriales con sus vecinos
+imposibilitaron la consolidación de otro intento federativo: la República
+Mayor de Centroamérica que, desde 1896 a 1898, reunió a El Salvador,
+Honduras y Nicaragua. Honduras se constituyó como Estado en 1898.</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_02_CO_37492C4C0B2E4E479A991D95AA2362A1">
+<seccion3Titulo>Independencia de Costa Rica</seccion3Titulo>
+<seccion3Texto>
+<p>La Independencia de Guatemala repercutió en Costa Rica. El cabildo
+de San José, que propuso una Junta de Gobierno (octubre de 1821),
+redactó el Pacto de Concordia, considerada la primera Constitución.</p>
+<p>En 1822 se abrió la pugna entre los partidarios de integrar a Costa
+Rica en el Imperio mexicano y los republicanos, partidarios de integrarse
+en la Federación de Provincias Unidas de Centroamérica. Una breve
+guerra civil (1823) culminó con la victoria de los republicanos en
+la batalla de Ochomogo (abril de 1823). Costa Rica se separó de la
+Federación en 1838.</p>
+<recuerda><recuerdaTexto>
+<p>En la ciudad de San Salvador se inició el movimiento de Independencia
+centroamericano, el 5 de noviembre de 1811. La rebelión libertaria
+salvadoreña estuvo encabezada por la élite; asunto que fue distinto
+en México, en donde los mayores participantes fueron los sectores
+más pobres.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso140&amp;IdRecurso=RES-7AC17589B76C4005B1B343B0323FB260"
+>La Independencia de Centroamérica</enlace>
+</practica>
+<imagen src="CS_08_02_CO_IMG_19_small.jpg">
+<p>Luego de la independencia frente a España, en la década de los
+años treinta del siglo XIX, se dio la fragmentación de la República
+de Centroamérica en cinco países.</p>
+</imagen>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_02_CO_A835A2F7027D4E6E992A971C9BF3G816">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso150&amp;IdRecurso=RES-DF267945204E4F36BBA3A1F6CE24F818"
+>Refuerza tu aprendizaje: La independencia centroamericana</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_02_CO_DE0BBF3A725449DBA9ED021CF6765FB5">
+<seccion1Titulo>La conformación de los Estados nacionales</seccion1Titulo>
+<seccion1Texto>
+<p>Una vez triunfó el proceso de Independencia en el continente americano,
+vino el intento de construir las <negrita>repúblicas</negrita>. Nuestros
+países se encontraron libres del yugo español pero a la vez tuvieron
+que enfrentar una realidad llena de contradicciones que dificultaron
+el logro de la paz y la estabilidad. Estas fueron las principales
+contradicciones:</p>
+<listaSinNumerar>
+<listaElemento><negrita>La diversidad étnica y social:</negrita> En
+unos países predominaba la población indígena, en otros, la población
+mestiza. Así mismo, las élites criollas tenían una cultura muy distinta
+a la de las clases bajas y con el triunfo de la Independencia el poder
+terminó quedando en las élites. La dificultad consistió en conciliar
+el pensamiento liberal y la discriminación racial.</listaElemento>
+<listaElemento><negrita>Diversidad geográfica y económica:</negrita
+> El relieve de nuestro territorio tuvo una importante influencia
+en el destino económico. Algunos países que tenían costas, y que desde
+la Colonia comerciaban con Europa, inicialmente se vieron más beneficiados
+que otros cuyos productos tenían que atravesar grandes distancias
+desde el interior.</listaElemento>
+<listaElemento><negrita>Los indígenas, menos beneficiados que los
+criollos:</negrita> El ideal liberal de acceso y protección a la propiedad
+individual reñía con el de propiedad colectiva que ellos tenían desde
+antes de la llegada de los españoles y que mantuvieron incluso durante
+la Colonia, bajo la protección de algunas comunidades religiosas como
+la Compañía de Jesús. Una vez los españoles salieron de las colonias,
+los indígenas se vieron sometidos a la <negrita>parcelación</negrita
+> de sus tierras y en consecuencia a la <negrita>pérdida de territorio</negrita
+>.</listaElemento>
+<listaElemento><negrita>Múltiples constituciones y un orden jurídico
+inestable:</negrita> Las nuevas naciones debieron reordenar tanto
+su sistema jurídico como su sistema político después de haber estado
+sometidas a las costumbres impuestas por el Antiguo Régimen. En cada
+país se redactaron constituciones políticas, pero estas variaron constantemente:<listaSinNumerar>
+<listaElemento>Las primeras constituciones, que fueron las de Venezuela,
+Nueva Granada y Chile (1810-1812), proclamaban la soberanía popular
+pero juraron lealtad a Fernando VII, porque fue obligado a abdicar
+por Napoleón Bonaparte.</listaElemento>
+<listaElemento>Los continuos desórdenes políticos que ocurrieron tras
+el triunfo de las independencias llevaron a que a partir de 1819 surgieran
+varias tendencias. Unas constituciones, inspiradas en el absolutismo
+napoleónico y, otras, inspiradas en el liberalismo español de la Constitución
+de Cádiz. El absolutismo napoleónico otorgaba muchos poderes al presidente;
+esta fue la tendencia con la que se elaboraron constituciones como
+las de Bolivia, Perú y la Gran Colombia, bajo la guía de Simón Bolívar. </listaElemento>
+<listaElemento>Otras constituciones estaban más inspiradas en la Constitución
+de Cádiz, aquella que se diseñó en España mientras el rey Fernando
+VII se encontraba en cautiverio. La Constitución de Cádiz, que enfrentaba
+el absolutismo, inspiró las primeras constituciones de países como
+México o Chile.</listaElemento>
+<listaElemento>Así mismo, el centralismo y el federalismo fueron tendencias
+que definieron el carácter de la Carta Magna de unos u otros países.</listaElemento>
+</listaSinNumerar></listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>Federalismo y centralismo</destacadoTitulo>
+<destacadoTexto>
+<p>Una de las dificultades para construir los Estados latinoamericanos
+fue la disputa entre federalistas y centralistas. Los centralistas
+creían necesario que se creara un gobierno fuerte y unitario que mantuviera
+la unidad nacional. Los otros, que en general eran hacendados de provincias,
+querían autonomía administrativa para manejar sus territorios. Estas
+disputas fueron motivos de guerras de corta duración a todo lo largo
+del siglo XIX.</p>
+</destacadoTexto></destacado>
+<listaSinNumerar>
+<listaElemento>Lo que hubo en común en todos los casos fue la redacción
+de las constituciones fundamentalmente por las élites, es decir por
+los sectores más poderosos que surgieron después de las guerras de
+emancipación. Muchos de ellos habían aprendido en las universidades
+la importancia de la separación de poderes y del respeto a la ley.<br
+/>Por otra parte estaban los grandes propietarios u oficiales de alto
+rango de los ejércitos libertadores que por sus triunfos en las distintas
+batallas habían recibido alguna propiedad. Aquellos, más que ideales
+liberales, defendían sus posesiones y los intereses de sus regiones.</listaElemento>
+</listaSinNumerar>
+<seccion2 id="S2_CS_08_02_CO_852A17263E5D4D61A2BC8C7FD1437094">
+<seccion2Titulo>Caudillos</seccion2Titulo>
+<seccion2Texto>
+<p>Aunque no puede negarse que en nuestros países existió un empeño
+para diseñar leyes que ordenaran la sociedad, la realidad es que la
+autoridad era ejercida por <negrita>caudillos</negrita>, es decir
+por hombres que habían logrado alguna victoria <negrita>militar</negrita
+> y que muchas veces, en consecuencia, eran dueños de una gran <negrita
+>propiedad</negrita>, que habían recibido como recompensa a sus triunfos.</p>
+<p>El poder de estos caudillos en los territorios provenía de su liderazgo <negrita
+>personalista</negrita>. Es decir de su capacidad de crear vínculos
+con las personas, sin importar lo que estuviera dispuesto por la ley.</p>
+<imagen src="CS_08_02_CO_IMG_20_small.jpg">
+<p>Retrato póstumo a Juan Manuel de Rosas, Helen Bramwell Norris.
+El general Rosas, argentino, es modelo de los caudillos latinoamericanos
+que surgieron después de la Independencia <enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=151906&amp;ruta=Buscador"
+>[VER]</enlace>.</p>
+</imagen>
+<p>El <negrita>origen social</negrita> de los <negrita>caudillos</negrita
+> puede encontrarse en la <negrita>Colonia</negrita>. Desde aquella
+época, las clases altas poseían tierras, eran grandes comerciantes
+o tenían altos cargos administrativos. Con la salida de los españoles
+el vacío en los cargos públicos quedó en manos de aquellos criollos.</p>
+<p>Debido a que empezaron a crearse leyes para las nuevas repúblicas,
+y para ello se necesitó un cuerpo legislativo, fueron los criollos
+los primeros en ocupar aquellos cargos. Varios de ellos representaban
+a las regiones o departamentos. Muchas veces representaban más los
+intereses regionales y personales que los de su nación. A su vez,
+debido a que tenían relaciones de <negrita>compadrazgo</negrita> porque
+eran padrinos de hijos de campesinos o de soldados que trabajaban
+en sus tierras o habían pertenecido a sus ejércitos, el trato con
+los gobernados no estaba regulado por la ley sino por las lealtades
+y por el <negrita>clientelismo</negrita>, es decir, por el <negrita
+>intercambio de favores</negrita>.</p>
+<imagen src="CS_08_02_CO_IMG_21_small.jpg">
+<p>General José María Obando, José María Espinosa. El general Obando,
+colombiano, es modelo de los caudillos latinoamericanos que surgieron
+después de la Independencia <enlace
+destino="http://www.banrepcultural.org/node/32575">[VER]</enlace>.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_02_CO_A835A2F7027D4E6E992A971C9BF3F705">
+<seccion2Titulo>Organización económica</seccion2Titulo>
+<seccion2Texto>
+<p>Los líderes de la Independencia habían conocido los ideales liberales
+y se inspiraron en ellos para luchar por la emancipación y crear después
+Estados modernos. Así mismo, conocieron el <negrita>liberalismo económico</negrita
+> <enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=123092&amp;ruta=Buscador"
+> [VER]</enlace> y buscaron aplicarlo a la realidad de los nacientes
+países. Por ello se propusieron:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Abolir los monopolios que</negrita> se habían
+fortalecido con las Reformas Borbónicas.</listaElemento>
+<listaElemento><negrita>Eliminar la propiedad colectiva</negrita> para
+ponerla a circular (<negrita>compra y venta</negrita>) en el mercado.
+Por ejemplo, buscaron liquidar las tierras comunales para convertirlas
+en pequeñas parcelas, de manera que se pudieran comprar y vender.
+Esto, por supuesto, <negrita>dejó en desventaja a los indígenas</negrita
+>.</listaElemento>
+</listaSinNumerar>
+<p>Tras la salida de España, llegaron <negrita>nuevos socios</negrita
+> comerciales: <negrita>Inglaterra</negrita> y <negrita>Francia</negrita
+>. Debido a que muchos territorios habían sido <negrita>teatro de
+guerra</negrita>, es decir que en ellos había ocurrido el conflicto
+armado, la producción agrícola y minera tardó en volver a la normalidad.
+No obstante, cada una de las naciones procuró satisfacer las necesidades
+de los nuevos socios. Los países europeos empezaron a solicitar productos
+específicos a cada país a cambio de préstamos y de la venta de productos
+manufacturados. Esta situación trajo como consecuencia un desequilibro
+en la balanza comercial pues se <negrita>exportaba poco</negrita> (algunas
+materias primas), pero se <negrita>importaba mucho</negrita> (mercancías,
+herramientas y artículos de lujo) y además se empezó a acumular una
+gran <negrita>deuda externa</negrita>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_02_CO_A8AACCF30F0849FAB88FED80AB082636">
+<seccion2Titulo>Organización social</seccion2Titulo>
+<seccion2Texto>
+<p>A pesar de que en las guerras de Independencia hubo una participación
+de muchos sectores de la sociedad, los más beneficiados con la victoria
+fueron los <negrita>criollos</negrita>, que lograron acceder a los <negrita
+>cargos públicos</negrita> que tuvieron que abandonar los españoles.
+Dentro de aquellos, fueron los <negrita>militares</negrita> los que
+tuvieron un lugar preeminente.</p><?Pub Caret 163?>
+<p>Debido a que el sistema de castas que funcionó durante la Colonia
+se fue transformando paulatinamente, el orden social cambió y algunos
+grupos empezaron a adquirir derechos. Sin embargo este fue un proceso
+muy lento. La <negrita>abolición de la esclavitud</negrita> se logró
+para la mayoría de los países del continente a <negrita>mediados del
+siglo XIX</negrita>. Los indígenas, por su parte, se vieron obligados
+a vender o entregar sus propiedades comunales. Así mismo, un sector
+de la población como el de las mujeres no fue reconocido como sujeto
+de derechos.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_02_CO_A835A2F7027D4E6E992A971C9BF3H927">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso160&amp;IdRecurso=RES-5B22361AB2BD4CB09906024C621FAAC6"
+>Refuerza tu aprendizaje: Los caudillos</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_02_CO_4BB20BFCCA444B1C83E92F359D6D69FB">
+<seccion1Titulo>Manifestaciones artísticas y culturales</seccion1Titulo>
+<seccion1Texto>
+<p>La Independencia fue un momento decisivo para el desarrollo de
+distintas expresiones culturales en el continente.</p>
+<p>La literatura, la pintura y la música adquirieron mucha importancia,
+ya que buscaron <negrita>interpretar</negrita> y dar cuenta de la <negrita
+>política interna</negrita> y de las <negrita>transformaciones sociales</negrita
+>. Aunque tenían gran influencia del <negrita>Romanticismo europeo</negrita
+>, lograban mostrar la turbulencia que se vivía internamente.</p>
+<p><negritacursiva>El Periquillo Sarniento</negritacursiva> (1816),
+del mexicano José Joaquín Fernández de Lizardi; <negritacursiva>Facundo
+o Civilización y Barbarie en las pampas argentinas</negritacursiva
+> (1845), escrito en Argentina por Domingo Faustino Sarmiento; <negritacursiva
+>Amalia</negritacursiva> (1851), del también argentino José Mármol,
+o <negritacursiva>Las convulsiones</negritacursiva>, obra de teatro
+del colombiano Luis Vargas Tejada (1895) son algunos ejemplos del
+desarrollo de la literatura que se fue abriendo paso en el continente.
+Las costumbres, los deseos y las <negrita>dificultades nacionales</negrita
+> quedaron descritas con estilos definidos. Las realidades de los
+países que salieron del colonialismo presentaron una enorme riqueza
+temática. De allí que desde la Independencia y hasta nuestros días
+sea la literatura latinoamericana una importante fuente para el conocimiento
+de la historia y la <negrita>identidad</negrita> del continente.</p>
+<imagen src="CS_08_02_CO_IMG_22_small.jpg">
+<p>Portada del Libro "Facundo: Civilización y Barbarie en las pampas
+argentina" de Domingo Faustino Sarmiento. Este fue uno de los textos
+que dieron cuenta del origen del caudillismo en América, después del
+triunfo de la Independencia.</p>
+</imagen>
+<p>Igualmente, la <negrita>música</negrita> buscó contribuir a la
+conformación de la identidad de los países nacientes. Los <negrita
+>aires nacionales</negrita> se pusieron a tono con el Romanticismo
+europeo pero incorporaron ritmos locales. La <negrita>contradanza</negrita
+> o los <negrita>bambucos</negrita> adquirieron gran aceptación tanto
+en los bailes de salón como en las calles.</p>
+<p>En la <negrita>pintura</negrita> ocurrió un fenómeno común en casi
+todos los países: se establecieron escuelas de aprendizaje que procuraron
+crear estilos propios pero que también recibieron la influencia de
+pintores extranjeros que vinieron al continente para recorrer su geografía
+y reconocer las <negrita>costumbres</negrita> de los distintos grupos
+sociales. El desarrollo de la acuarela y, más tarde del mural, contribuyó
+a dejar importantes testimonios de la época.</p>
+<seccion2 id="S2_CS_08_02_CO_A835A2F7027D4E6E992A971C9BF3H927">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso170&amp;IdRecurso=RES-7FBC16C8BC2448C59B74513A7B3C857E"
+>Proyecto: Las características del caudillismo en América Latina</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_02_CO_2282E0B694814CCDB625970C0BDD68EA">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso180&amp;IdRecurso=RES-92B47088C5A344A2B3FA5AFC3162436B"
+>Competencias: Cronología de la Independencia americana</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso190&amp;IdRecurso=RES-7FA41B14902E40C99E931D222AE88632"
+>Evalúa tus conocimientos sobre la Independencia de América</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="M1_CS_08_02_CO_9A4D2437DD2A4D7DBD91D8288DC83358"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso200&amp;IdRecurso=RES-130A6C1FC4BB4F08B5D4AE4E765A72F6"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CORecurso210&amp;IdRecurso=RES-55E230F042C04E9E811FFE0B36EAC5F3"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace
+destino="http://portal2.edomex.gob.mx/edomex/estado/historia/bicentenariodelaindependenciademexico/index.htm"
+>Sitio del gobierno mexicano que divulga documentos relacionados con
+el Bicentenario de la Independencia de ese país.</enlace>
+<enlace
+destino="http://www.elsalvador.com/Especiales/2010/Bicentenario/historia.asp"
+>Sitio del gobierno salvadoreño que celebra el Bicentenario de la
+Independencia de ese país.</enlace>
+</enlacesreferencia></masinformacion></libro>

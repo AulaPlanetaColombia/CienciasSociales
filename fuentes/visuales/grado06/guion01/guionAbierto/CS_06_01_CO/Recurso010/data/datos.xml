@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="2" clase="a" aprid="m2a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>La historia</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia />
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M2A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa el siguiente texto sobre el concepto y la importancia de la historia.]]></enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[0]]></calc>
+  <sonido />
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[La [*] estudia la vida y [*] de las comunidades humanas a través del [*]. Su estudio nos permite comprender nuestro [*] como resultado de un largo proceso de [*] sociales, [*], económicas y culturales. El conocimiento del [*] nos ayuda a tener una visión [*] de los hechos y ser capaces de analizar nuestro mundo con mayor libertad.]]></pregunta>
+      <respuestas>
+        <respuesta orden="1"><![CDATA[historia]]></respuesta>
+        <respuesta orden="2"><![CDATA[organización]]></respuesta>
+        <respuesta orden="3"><![CDATA[tiempo]]></respuesta>
+        <respuesta orden="4"><![CDATA[presente]]></respuesta>
+        <respuesta orden="5"><![CDATA[transformaciones]]></respuesta>
+        <respuesta orden="6"><![CDATA[políticas]]></respuesta>
+        <respuesta orden="7"><![CDATA[pasado]]></respuesta>
+        <respuesta orden="8"><![CDATA[crítica]]></respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <textofalso cantidad="0" />
+  <temps>10</temps>
+</motor>

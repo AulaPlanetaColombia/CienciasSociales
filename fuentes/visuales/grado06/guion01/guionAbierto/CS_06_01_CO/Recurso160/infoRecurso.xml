@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-4269A61D4F7C4A7B887B493A271FB5E3</identificador>
+  <loid>CS_06_01_CORecurso160</loid>
+  <titulo>Reconoce tipos de restos arqueológicos</titulo>
+  <descripcion>Actividad que propone reconocer algunos de los objetos que pueden encontrarse en una excavación arqueológica</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>10</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>
+  </competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>arqueología</concepto>
+    <concepto>artefacto</concepto>
+    <concepto>estrato</concepto>
+    <concepto>excavación</concepto>
+    <concepto>fósil</concepto>
+    <concepto>fuente histórica</concepto>
+    <concepto>fuente material</concepto>
+    <concepto>historia</concepto>
+    <concepto>pecio</concepto>
+    <concepto>resto arqueológico</concepto>
+    <concepto>yacimiento</concepto>
+  </conceptos>
+</metadata>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoGuion">
+  <identificador>CS_06_01_CO</identificador>
+  <nivel>Educación Básica Secundaria</nivel>
+  <curso>6</curso>
+  <asignatura>Ciencias Sociales</asignatura>
+  <catalogaciones>
+    <disciplina>
+      <nivel id="3">Educación Secundaria Obligatoria</nivel>
+      <curso id="3.1">Primer curso</curso>
+      <asignatura id="3.1.2">Ciencias Sociales, Geografía e Historia</asignatura>
+    </disciplina>
+    <nivelEducativo>
+      <nivel id="4">Educación Secundaria Obligatoria</nivel>
+      <ciclo id="4.1">Primer curso</ciclo>
+    </nivelEducativo>
+  </catalogaciones>
+  <tipo>Guión de exposición</tipo>
+  <titulo>La historia</titulo>
+  <descripcion>Saber cómo era la vida en otras épocas nos ayudará a entender mucho mejor nuestro presente y debería ser útil para no volver a repetir los mismos errores de nuestros antepasados.</descripcion>
+  <recursoMapaConceptual>
+  </recursoMapaConceptual>
+  <recursoEvaluacion>
+  </recursoEvaluacion>
+  <version>44</version>
+  <veditorial>10</veditorial>
+</metadata>

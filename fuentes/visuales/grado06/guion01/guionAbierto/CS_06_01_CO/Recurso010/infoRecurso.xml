@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-EB87A73EC77F4021BE5A95A5E044C71A</identificador>
+  <loid>CS_06_01_CORecurso010</loid>
+  <titulo>La historia</titulo>
+  <descripcion>Ejercicio para completar con las palabras correctas.</descripcion>
+  <relacionado>1</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>10</tiempoestimado>
+  <acciondidactica>Generador de actividades</acciondidactica>
+  <competencia>Autonomía e iniciativa personal</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>organización</concepto>
+    <concepto>tiempo</concepto>
+    <concepto>transformaciones</concepto>
+    <concepto>crítica</concepto>
+    <concepto>analizar</concepto>
+    <concepto>historia</concepto>
+    <concepto>políticas</concepto>
+    <concepto>pasado</concepto>
+    <concepto>presente</concepto>
+  </conceptos>
+</metadata>
