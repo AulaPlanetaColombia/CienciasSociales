@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="10" clase="a" aprid="M10a">
+  <enunciado>Ordena las siguientes palabras en los contenedores que les corresponda:</enunciado>
+  <textoacategoria cantidad="3">
+    <cuestion>
+      <categoria>Paleolítico</categoria>
+      <respuestas>
+        <respuesta id="1">Caverna</respuesta>
+        <respuesta id="2">Fuego</respuesta>
+        <respuesta id="3">Nomadismo</respuesta>
+        <respuesta id="4">Arte rupestre</respuesta>
+        <respuesta id="5">Cazador-recolector</respuesta>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <categoria>Neolítico</categoria>
+      <respuestas>
+        <respuesta id="1">Sedentarismo</respuesta>
+        <respuesta id="2">Agricultura</respuesta>
+        <respuesta id="3">Ganadería</respuesta>
+        <respuesta id="4">Cerámica</respuesta>
+        <respuesta id="5">Telar</respuesta>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <categoria>Edad de los metales</categoria>
+      <respuestas>
+        <respuesta id="1">Metalurgia</respuesta>
+        <respuesta id="2">Menhir</respuesta>
+        <respuesta id="3">Comercio</respuesta>
+        <respuesta id="4">Rueda</respuesta>
+        <respuesta id="5">Hierro</respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Relaciona conceptos con su período histórico</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[ms_3c_07_09]]></referencia>
+    <id_reg><![CDATA[33]]></id_reg>
+    <motor><![CDATA[M10a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

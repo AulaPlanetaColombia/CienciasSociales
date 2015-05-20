@@ -1,138 +1,139 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<diaporama autoplay="false" diapoDefaultTimeOut="5000" effectDefaultTimeOut="1000" textDefaultTimeOut="500" toolbarAlign="LeftBottom" toolbarColor="White" toolbarCounter="false" toolbarCounterColor="White" toolbarMargin="40,40,40,40" fotoMargin="0,0,0,0" textMargin="40,40,40,80" aprid="diaporama">
-  <diapo foto="fondo.jpg">
-    <texto type="Georgia" size="50" style="Normal" color="White" align="CenterCenter" effectTimeOut="1500">El ser humano lleva milenios#en la Tierra.</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="fondo.jpg">
-    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">A lo largo de todo este tiempo...</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="fondo.jpg">
-    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">... su historia se ha dividido#en distintas etapas.</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="fondo.jpg">
-    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">hace 2,5 millones de años</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="01-000VSR01.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Prehistoria</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Primeros seres humanos</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="02-000AG501.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Prehistoria</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Primeros seres humanos#· Herramientas de piedra</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="03-000OR801.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Prehistoria</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Primeros seres humanos#· Herramientas de piedra#· Inicios del arte</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="04-0007N501.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="Black" align="LeftTop" effect="fadein" effectTimeOut="1500">Prehistoria</texto>
-    <texto type="Verdana" size="30" style="Normal" color="Black" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Primeros seres humanos#· Herramientas de piedra#· Inicios del arte#· Monumentos megalíticos</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="fondo.jpg">
-    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">año 3500 a.C.</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="05-0008OM01.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Edad antigua</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Primeras civilizaciones</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="06-0008MP01.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Edad antigua</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Primeras civilizaciones#· Expansión fenicia y griega#  por el Mediterráneo</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="07-000K2Z01.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Edad antigua</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Primeras civilizaciones#· Expansión fenicia y griega#  por el Mediterráneo#· Roma creó un gran#  Imperio</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="08-000RC201.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Edad antigua</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Primeras civilizaciones#· Expansión fenicia y griega#  por el Mediterráneo#· Roma creó un gran#  Imperio#· Nacimiento del#  cristianismo</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="fondo.jpg">
-    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">año 476</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="09-0009JS01.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Edad media</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effectTimeOut="1500">##· Nacimiento del islam</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="10-000SH801.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Edad media</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Nacimiento del islam#· Época de castillos</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="11-000I8101.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Edad media</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Nacimiento del islam#· Época de castillos#· Imprenta de Gutenberg</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="fondoNegro.jpg">
-    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">año 1492</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="12-0009MZ01.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Edad moderna</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Grandes descubrimientos</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="13-000K6I01.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Edad moderna</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Grandes descubrimientos#· Monarquías absolutas</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="fondoNegro.jpg">
-    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">1789</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="14-000L4701.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Edad contemporánea</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Nacimiento de los#  estados modernos</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="15-0009C401.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="Black" align="LeftTop" effect="fadein" effectTimeOut="1500">Edad contemporánea</texto>
-    <texto type="Verdana" size="30" style="Normal" color="Black" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Nacimiento de los#  estados modernos#· Revolución industrial#· Máquina de vapor</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="16-0008SX01.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Edad contemporánea</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Nacimiento de los#  estados modernos#· Revolución industrial#· Máquina de vapor#· Luchas por la igualdad#· Democracia</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="17-002AYC01.jpg">
-    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Edad contemporánea</texto>
-    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">##· Nacimiento de los#  estados modernos#· Revolución industrial#· Máquina de vapor#· Luchas por la igualdad#· Democracia#· Revolución tecnológica</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="cuadro.jpg">
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
-  <diapo foto="fondoNegro.jpg" diapoTimeOut="50">
-    <texto type="Verdana" size="48" style="Normal" color="White" align="CenterCenter" effectTimeOut="1500">¿Qué pasará mañana?</texto>
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
-  </diapo>
+<?xml version = '1.0' encoding = 'ISO-8859-1'?>
+<diaporama autoplay='false' diapoDefaultTimeOut='5000' effectDefaultTimeOut='1000' textDefaultTimeOut='500' toolbarAlign='LeftBottom'  toolbarColor='White' toolbarCounter='false' toolbarCounterColor='White'  toolbarMargin='40,40,40,40' fotoMargin='0,0,0,0' textMargin='40,40,40,80' aprid='diaporama'>
+<diapo foto='fondo.jpg'>
+<texto type='Georgia' size='50' style='Normal' color='White' align='CenterCenter' effectTimeOut='1500'>El ser humano lleva milenios#en la Tierra.</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='fondo.jpg'>
+<texto type='Verdana' size='48' style='Normal' color='White' align='CenterCenter' effect='fadein' effectTimeOut='1500'>A lo largo de todo este tiempo...</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='fondo.jpg'>
+<texto type='Verdana' size='48' style='Normal' color='White' align='CenterCenter' effect='fadein' effectTimeOut='1500'>... su historia se ha dividido#en distintas etapas.</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='fondo.jpg'>
+<texto type='Verdana' size='48' style='Normal' color='White' align='CenterCenter' effect='fadein' effectTimeOut='1500'>hace 2,5 millones de años</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='01-000VSR01.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Prehistoria</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Primeros seres humanos</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='02-000AG501.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Prehistoria</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Primeros seres humanos#· Herramientas de piedra</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='03-000OR801.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Prehistoria</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Primeros seres humanos#· Herramientas de piedra#· Inicios del arte</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='04-0007N501.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='Black' align='LeftTop' effect='fadein' effectTimeOut='1500'>Prehistoria</texto>
+<texto type='Verdana' size='30' style='Normal' color='Black' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Primeros seres humanos#· Herramientas de piedra#· Inicios del arte#· Monumentos megalíticos</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='fondo.jpg'>
+<texto type='Verdana' size='48' style='Normal' color='White' align='CenterCenter' effect='fadein' effectTimeOut='1500'>año 3500 a.C.</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='05-0008OM01.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Edad Antigua</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Primeras civilizaciones</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='06-0008MP01.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Edad Antigua</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Primeras civilizaciones#· Expansión fenicia y griega#  por el Mediterráneo</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='07-000K2Z01.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Edad Antigua</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Primeras civilizaciones#· Expansión fenicia y griega#  por el Mediterráneo#· Roma creó un gran#  Imperio</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='08-000RC201.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Edad Antigua</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Primeras civilizaciones#· Expansión fenicia y griega#  por el Mediterráneo#· Roma creó un gran#  Imperio#· Nacimiento del#  cristianismo</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='fondo.jpg'>
+<texto type='Verdana' size='48' style='Normal' color='White' align='CenterCenter' effect='fadein' effectTimeOut='1500'>año 476</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='09-0009JS01.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Edad Media</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effectTimeOut='1500'>##· Nacimiento del islam</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='10-000SH801.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Edad Media</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Nacimiento del islam#· Época de castillos</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='11-000I8101.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Edad Media</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Nacimiento del islam#· Época de castillos#· Imprenta de Gutenberg</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='fondoNegro.jpg'>
+<texto type='Verdana' size='48' style='Normal' color='White' align='CenterCenter' effect='fadein' effectTimeOut='1500'>año 1492</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='12-0009MZ01.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Edad Moderna</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Grandes descubrimientos</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='13-000K6I01.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Edad Moderna</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Grandes descubrimientos#· Monarquías absolutas</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='fondoNegro.jpg'>
+<texto type='Verdana' size='48' style='Normal' color='White' align='CenterCenter' effect='fadein' effectTimeOut='1500'>1789</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='14-000L4701.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Edad Contemporánea</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Nacimiento de los#  estados modernos</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='15-0009C401.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='Black' align='LeftTop' effect='fadein' effectTimeOut='1500'>Edad Contemporánea</texto>
+<texto type='Verdana' size='30' style='Normal' color='Black' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Nacimiento de los#  estados modernos#· Revolución industrial#· Máquina de vapor</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='16-0008SX01.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Edad Contemporánea</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Nacimiento de los#  estados modernos#· Revolución industrial#· Máquina de vapor#· Luchas por la igualdad#· Democracia</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='17-002AYC01.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Edad Contemporánea</texto>
+<texto type='Verdana' size='30' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>##· Nacimiento de los#  estados modernos#· Revolución industrial#· Máquina de vapor#· Luchas por la igualdad#· Democracia#· Revolución tecnológica</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='cuadro.jpg'>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='fondoNegro.jpg' diapoTimeOut='50'>
+<texto type='Verdana' size='48' style='Normal' color='White' align='CenterCenter' effectTimeOut='1500'>¿Qué pasará mañana?</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
 </diaporama>
+

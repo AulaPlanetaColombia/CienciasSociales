@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="2" clase="a" aprid="M2a">
+  <enunciado>Completa el siguiente texto colocando los términos en el espacio correspondiente.</enunciado>
+  <textoacategoria>
+    <cuestion>
+      <pregunta>El período neolítico empezó aproximadamente hace unos 10.000 años. El cambio más importante respecto al paleolítico fue el descubrimiento de la [*] y la [*], las cuales permitieron el cultivo de plantas y la domesticación de animales, respectivamente. 
+Se pasó entonces de una sociedad nómada a una sociedad [*] establecida en los primeros poblados. Para cultivar los cereales, inventaron nuevas herramientas como el [*], que corta la tierra, el [*], para moler cereales, y la [*], que permitió desarrollar el carro. 
+Para vestir se sustituyeron las pieles por los [*] de fibras naturales como la lana o el lino.
+Hacia 5000 a.C. se descubrió la [*] y con ella se daba paso a la [*].</pregunta>
+      <respuestas>
+        <respuesta orden="1">agricultura</respuesta>
+        <respuesta orden="2">ganadería</respuesta>
+        <respuesta orden="3">sedentaria</respuesta>
+        <respuesta orden="4">arado</respuesta>
+        <respuesta orden="5">molino</respuesta>
+        <respuesta orden="6">rueda</respuesta>
+        <respuesta orden="7">tejidos</respuesta>
+        <respuesta orden="8">metalurgia</respuesta>
+        <respuesta orden="9">edad de los metales</respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <textofalso cantidad="2">
+    <falso>edad de piedra</falso>
+    <falso>fuego</falso>
+  </textofalso>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Reconoce los cambios del neolítico y la edad de los metales</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[3]]></nivel>
+    <referencia><![CDATA[cs_07_07_08]]></referencia>
+    <id_reg><![CDATA[24]]></id_reg>
+    <motor><![CDATA[M2a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

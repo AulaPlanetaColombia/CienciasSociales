@@ -5,7 +5,7 @@
 <libro id="CS_06_01_CO">
 <libroTitulo>La historia</libroTitulo>
 <seccion1 id="S1_CS_06_01_CO_03E0CA843D67455FA94D627E48E01411">
-<seccion1Titulo>¿Qué es la historia?</seccion1Titulo>
+<seccion1Titulo>¿Qué es la historia?</seccion1Titulo><?Pub Caret 0?>
 <seccion1Texto>
 <p>La historia es una <negrita>ciencia social</negrita> que estudia
 la humanidad y sus diferentes formas de organización social, política,
@@ -18,7 +18,7 @@ instrumentos, vasijas, pinturas y construcciones que se hallan en
 excavaciones. Para el estudio de las civilizaciones posteriores a
 la escritura, se toman las <negrita>fuentes escritas</negrita>, además
 de las arqueológicas.</p>
-<imagen src="CS_06_01_CO_IMG_01_small.jpg">
+<imagen src="CS_06_01_CO_IMG01_small.jpg">
 <p>La civilización egipcia es una de las más destacadas de la antigüedad.
 Gracias al trabajo de historiadores y arqueólogos, día a día se desentierran
 los secretos que llevan siglos ocultos bajo la arena del desierto.
@@ -34,7 +34,7 @@ en las diferentes formas de organización de las sociedades. Estos
 conocimientos nos ayudan a tener una visión crítica de los hechos
 y a <negrita>explicar y analizar</negrita> nuestro mundo actual <negrita
 >para proyectar acciones que beneficien a la humanidad</negrita>.</p>
-<imagen src="CS_06_01_CO_IMG_02_small.jpg">
+<imagen src="CS_06_01_CO_IMG02_small.jpg">
 <p>Se considera que el griego Heródoto (alrededor de 485-420 a.n.e)
 fue el padre de la historiografía. Su obra destaca por la imparcialidad
 con la que presenta los hechos, la búsqueda de fuentes fiables y el
@@ -167,7 +167,7 @@ id="S3_CS_06_01_CO_C8AED1F84F4F420E9A4B4554D07ADDAF">
 <p>Es la etapa de la prehistoria que se extiende desde el descubrimiento
 de la <negrita>metalurgia</negrita> hasta la invención de la <negrita
 >escritura</negrita> (3500 a.n.e).</p>
-<imagen src="CS_06_01_CO_IMG_03_small.jpg">
+<imagen src="CS_06_01_CO_IMG03_small.jpg">
 <p>La <negrita>prehistoria</negrita> es la etapa más larga de la historia
 de la humanidad. Comenzó hace 2,5 millones de años con la aparición
 de los primeros seres humanos. Durante el <negrita>Paleolítico</negrita
@@ -189,7 +189,7 @@ id="S2_CS_06_01_CO_FA168FF851974EBCAE8EDBF5619EE377">
 Finalizó con la caída del <negrita>Imperio Romano de Occidente</negrita
 > en el año 476; en este periodo surgieron las <negrita>primeras civilizaciones</negrita
 > en Mesopotamia, Egipto, China, India, Grecia y Roma.</p>
-<imagen src="CS_06_01_CO_IMG_04_small.jpg">
+<imagen src="CS_06_01_CO_IMG04_small.jpg">
 <p>La escritura <negrita>cuneiforme</negrita> fue una de las primeras
 manifestaciones escritas de la humanidad. En la antigüedad se escribía
 en tablillas de arcilla como esta, elaborada en el III milenio a.n.e
@@ -210,7 +210,7 @@ del <negrita>feudalismo</negrita>. Uno de los principales rasgos de
 la sociedad de esta época es que se dividía en tres órdenes o estamentos: <negrita
 >nobleza</negrita>, <negrita>clero</negrita> y <negrita>campesinos</negrita
 > (junto a otros grupos no privilegiados).</p>
-<imagen src="CS_06_01_CO_IMG_05_small.jpg">
+<imagen src="CS_06_01_CO_IMG05_small.jpg">
 <p>Durante la <negrita>Edad Media</negrita> se desarrolló un nuevo
 sistema político, económico y social: el <negrita>feudalismo</negrita
 >. En la península Ibérica surgieron distintos reinos cristianos que
@@ -229,13 +229,13 @@ con la toma de Constantinopla por los turcos. Finalizó con la <negrita
 >Estados poderosos</negrita>, se descubrieron y conquistaron nuevos
 territorios y se produjeron <negrita>avances científicos</negrita
 > importantes.</p>
-<imagen src="CS_06_01_CO_IMG_06_small.jpg">
+<imagen src="CS_06_01_CO_IMG06_small.jpg">
 <p>El <negrita>descubrimiento de América</negrita> en 1492 marcó el
 paso de la Edad Media a la Edad Moderna. Algunos historiadores, sin
 embargo, consideran que el fin de la Edad Moderna debe situarse en
 el año 1453, cuando los turcos conquistaron la ciudad de Constantinopla.</p>
 </imagen>
-<imagen src="CS_06_01_CO_IMG_07_small.jpg">
+<imagen src="CS_06_01_CO_IMG07_small.jpg">
 <p>La <negrita>Edad Moderna</negrita> se extiende desde finales del
 siglo XV hasta finales del siglo XVIII. Durante esos tres siglos surgió
 una nueva forma de gobierno: el <negrita>absolutismo</negrita>. Su
@@ -254,7 +254,7 @@ Industrial</negrita>, se han desarrollado nuevas <negrita>ideas</negrita
 > (capitalismo, socialismo, etc.), <negrita>dos guerras mundiales</negrita
 >, <negrita>viajes espaciales</negrita>, tecnologías de la información
 y sistemas de  comunicación como la <negrita>Internet</negrita>.</p>
-<imagen src="CS_06_01_CO_IMG_08_small.jpg">
+<imagen src="CS_06_01_CO_IMG08_small.jpg">
 <p>El asalto a la fortaleza parisina de la <negrita>Bastilla</negrita
 > el 14 de julio de 1789 marcó el inicio de la <negrita>Revolución
 Francesa</negrita> (1789-1799) y con ello la <negrita>Edad Contemporánea</negrita
@@ -314,7 +314,7 @@ y de los arqueólogos.</p>
 </tr>
 </tbody>
 </table>
-<imagen src="CS_06_01_CO_IMG_09_small.jpg">
+<imagen src="CS_06_01_CO_IMG09_small.jpg">
 <p>Los <negrita>ejes cronológicos</negrita> son una herramienta muy
 útil para tener una visión global de las principales etapas en las
 que se divide la historia y para saber cuáles fueron los principales
@@ -380,7 +380,7 @@ templos, infraestructuras, etc.) del pasado pueden considerarse <negrita
 >fuentes materiales</negrita> que pueden aportar información valiosa
 sobre las sociedades que nos precedieron.</p>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_01_CO_IMG_10_small.jpg">
+<imagen src="CS_06_01_CO_IMG10_small.jpg">
 <p>Los <negrita>objetos del pasado</negrita> pueden aportar mucha
 información sobre la época a la que pertenecieron. Una <negrita>moneda
 romana</negrita>, por ejemplo, puede mostrar cuándo, dónde y bajo
@@ -400,7 +400,7 @@ y diálogos que se transmiten a la sociedad a través de diversos medios
 de comunicación como la radio, la televisión o en forma directa. Existen
 historias transmitidas de generación en generación como los mitos
 y leyendas.</p>
-<imagen src="CS_06_01_CO_IMG_11_small.jpg">
+<imagen src="CS_06_01_CO_IMG11_small.jpg">
 <p>Las <negrita>fuentes orales</negrita> son un recurso muy valioso
 para conocer el testimonio de personas que vivieron en otra época
 distinta a la nuestra. Aunque pueden resultar útiles, debemos verlas
@@ -425,7 +425,7 @@ contar en la actualidad con <negrita>fuentes audiovisuales</negrita
 > que nos ayudan a estudiar el pasado. Estas pueden ser desde fotografías,
 grabaciones de radio, películas o televisión, hasta la información
 que proporciona Internet.</p>
-<imagen src="CS_06_01_CO_IMG_12_small.jpg">
+<imagen src="CS_06_01_CO_IMG12_small.jpg">
 <p>La <negrita>televisión</negrita> es un medio de comunicación muy
 importante. Gracias a ella ha sido posible ver acontecimientos históricos
 en directo.</p>
@@ -506,7 +506,7 @@ destino="http://www.andaluciainvestiga.com/espanol/cienciaAnimada/sites/carbono/
 destino="http://profesores.aulaplaneta.com/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=555513&amp;ruta=Buscador"
 >[VER]</enlace>, por su lado, ayuda a los arqueólogos a estudiar los <negrita
 >restos fósiles</negrita> de animales y de vegetales para determinar
-cómo eran.</p><?Pub Caret 18?>
+cómo eran.</p>
 <seccion2 id="S2_CS_06_01_CO_126D93EA237B4483BECE1ABFF0F220EA">
 <seccion2Titulo>La arqueología</seccion2Titulo>
 <seccion2Texto>
@@ -542,7 +542,7 @@ vegetales. También reciben el nombre de <negrita>ecofactos</negrita
 que se han conservado enterrados en los estratos geológicos más antiguos
 hasta convertirse en roca.</listaElemento>
 </listaSinNumerar>
-<imagen src="CS_06_01_CO_IMG_13_small.jpg">
+<imagen src="CS_06_01_CO_IMG13_small.jpg">
 <p>Toda <negrita>investigación arqueológica</negrita> se divide en
 cuatro fases: 1. La prospección, 2. La excavación, 3. El análisis
 de los restos y 4. La interpretación.</p>
@@ -582,7 +582,7 @@ diversas sociedades, culturas y civilizaciones.</p>
 <p>La <negrita>psicología</negrita> estudia los comportamientos de
 los personajes líderes de la historia y de las acciones colectivas
 ligadas a las emociones.</p>
-<imagen src="CS_06_01_CO_img_14_small.jpg">
+<imagen src="CS_06_01_CO_IMG14_small.jpg">
 <p>A partir de un <negrita>fósil</negrita> como el de la imagen, los
 arqueólogos pueden, gracias a distintas técnicas y recursos, extraer
 información sobre la procedencia y la antigüedad del hallazgo. Así
