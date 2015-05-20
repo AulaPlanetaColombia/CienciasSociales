@@ -1,7 +1,5 @@
 Utils = new function()
 {
-	
-
 	this.dashedLineTo = function ( shape, x1 , y1 , x2 , y2 , dashLen ){
 	    shape.graphics.moveTo( x1 , y1 );
 	 
@@ -145,6 +143,66 @@ Utils = new function()
         }
         //console.log(response);
         return response;
+    }
+    this.getEnunciats = function( texto){
+    	var result = new Array();
+    	if( texto.indexOf("||") >= 0){
+    		var textos = texto.split("||");
+    		if(textos.length > 1){
+	    		for(var index in textos){
+					
+					if(textos.length > parseInt(index)+1){
+						//console.log(textos[index]);
+		    			//primers texts
+		    			var text ="";
+		    			if(index == 0) text = textos[index].substring( 0, textos[index].indexOf("{{"));
+		    			else text = textos[index].substring( textos[index].indexOf("}}")+2, textos[index].indexOf("{{"));
+		    			var texts = text.split(" ");
+		    			
+		    			for( var ind in texts){
+		    				var t1 = new Object();
+		    				t1.text = texts[ind];
+			    			t1.tipo = 0;
+			    			result.push(t1);
+		    			}
+		    			
+		    			//link
+		    			var link = new Object();
+		    			link.text = textos[parseInt(index)+1].substring( 0, textos[parseInt(index) + 1].indexOf("}}"));
+		    			link.tipo = 1;
+		    			link.href = textos[index].substring(textos[index].indexOf("{{") + 2, textos[index].length ).split("link:").join("");
+		    			result.push(link);
+		    			
+	    			}else{
+	    				//segon text
+	    				var text = textos[index].substring( textos[index].indexOf("}}") + 2, textos[index].length);
+	    				var texts = text.split(" ");
+		    			
+		    			for( var ind in texts){
+		    				var t2 = new Object();
+			    			t2.text = texts[ind]; 
+			    			t2.tipo = 0;
+			    			result.push(t2);
+		    			}
+		    			
+	    			}
+	    			
+	    		}
+    		}else{
+    			var init = new Object();
+    			init.text = textos[0];
+    			init.tipo = 0;
+    			result.push(init);
+    		}
+    			
+  		}else{
+			var init = new Object();
+			init.text = texto;
+			init.tipo = 0;
+			result.push(init);
+		}
+  		//console.log(result);
+    	return result;
     }
     
 }

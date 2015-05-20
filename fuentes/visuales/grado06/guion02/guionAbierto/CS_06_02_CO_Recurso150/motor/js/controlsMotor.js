@@ -6,8 +6,71 @@ function Pagina(pregunta, _numpagina) {
 	this.imagen = pregunta.imagen;
 	this.ampliacion = pregunta.ampliacion;
 	//debugger;
-	this.enunciat = new createjs.RichText();
-	this.enunciat.text = pregunta.enunciado;
+	var enunciats = Utils.getEnunciats(pregunta.enunciado);
+	this.contenedor = new createjs.Container();
+	var listEnunciats = new Array();
+	//var espaisBlanc = new createjs.RichText();
+	//espaisBlanc.text =" ";
+	//console.log(enunciats);
+	
+	var totalW = 900;
+	var AcumW = 15;
+	var AcumH = 11;
+	for( var index in enunciats){
+		//console.log(enunciats[index].text);
+		this.enunciat = new createjs.RichText();
+
+		this.enunciat.font = "19px Arial";
+		this.enunciat.fontSize = 19;
+		
+		//setejem color segons si es link o no
+		if(enunciats[index].tipo == 0) this.enunciat.color = "#0D3158";
+		if(enunciats[index].tipo == 1) this.enunciat.color = "#5555FF";
+		
+		// Setegem un text inicial per colocar el fons del link
+		if(enunciats[index].tipo == 0) this.enunciat.text = enunciats[index].text;
+		if(enunciats[index].tipo == 1) this.enunciat.text = "{{u}}"+enunciats[index].text+"{{normal}}";
+		
+		auxAcumW = (this.enunciat.getBounds() != null)? AcumW + this.enunciat.getBounds().width : AcumW;
+		if( auxAcumW >= 900 ){
+			AcumW = 15;
+			AcumH += 22;
+		}
+		
+		this.enunciat.x = AcumW ;
+		this.enunciat.y = AcumH ;
+		
+		AcumW += (this.enunciat.getBounds() != null)? this.enunciat.getBounds().width + 6 : 0;
+
+		//coloquem el fons del link amb els events
+		if(enunciats[index].tipo == 1) { 	
+        	var fons = new createjs.Shape();
+        	fons.graphics.beginFill("#fff").drawRect(this.enunciat.x,this.enunciat.y, this.enunciat.getBounds().width, this.enunciat.getBounds().height);
+        	fons.alpha = 0.01;
+        	this.contenedor.addChild(fons);
+        	
+        	fons.on("mouseover", function(evt){ document.body.style.cursor='pointer'; });
+        	fons.on("mouseout", function(evt){ document.body.style.cursor='default'; });
+        	fons.on("click",function(evt, data){ location.href = data.href;}, null, false, {href: enunciats[index].href});
+        	
+			this.contenedor.addChild(this.enunciat);
+		}
+		
+		// posem les variables definitives
+		this.enunciat.lineWidth = 900;
+		this.enunciat.lineHeight = 22;
+		this.enunciat.mask = new createjs.Shape();
+		this.enunciat.mask.graphics.beginFill("#fff").drawRect(0,0,900, 69);
+		this.enunciat.mask.y = 8;
+		this.enunciat.mask.x = 15;
+		this.enunciat.mouseEnabled = false;
+
+		this.contenedor.addChild(this.enunciat);
+		listEnunciats.push(this.enunciat);
+	}
+	
+	
+	this.texto = pregunta.texto;
 
 	this.inputText = new TextInputBox(this, pregunta);
     
@@ -17,6 +80,12 @@ function Pagina(pregunta, _numpagina) {
        this.posicionX = 378;
        this.ancho = 495;
        this.imagen = new Imagen(pregunta, true);
+   }else if( this.texto != "" ){
+       this.inputText.contenedor.x = 375;
+       this.inputText.contenedor.y = 85;
+       this.posicionX = 378;
+       this.ancho = 495;
+       this.texto = new Texto(pregunta, true);
     }else{
        this.inputText.contenedor.x = 25;
        this.posicionX = 28;
@@ -26,18 +95,7 @@ function Pagina(pregunta, _numpagina) {
 
 	this.textIntroducido = "";
 
-	this.enunciat.font = "20px Arial";
-	this.enunciat.fontSize = 20;
-	this.enunciat.color = "#0D3158";
-	this.enunciat.x = 15;
-	this.enunciat.y = 10;
-	this.enunciat.lineWidth = 850;
-	this.enunciat.lineHeight = 22;
-	this.enunciat.mask = new createjs.Shape();
-	this.enunciat.mask.graphics.beginFill("#fff").drawRect(0,0,850, 66);
-	this.enunciat.mask.y = 10;
-	this.enunciat.mask.x = 15;
-	this.enunciat.mouseEnabled = false;
+	
 
 	this.explicacion = new createjs.RichText();
 	this.explicacion.text = pregunta.explicacion;
@@ -64,10 +122,10 @@ function Pagina(pregunta, _numpagina) {
 	this.validacio = true;
 	this.respostes = new Array();
 
-	this.contenedor = new createjs.Container();
-	this.contenedor.addChild(this.enunciat);
+	
 	this.contenedor.addChild(this.inputText.contenedor);
 	this.contenedor.addChild(this.imagen.contenedor);
+	this.contenedor.addChild(this.texto.contenedor);
 	this.contenedor.addChild(this.explicacion);
 	this.contenedor.addChild(this.respuesta);
 
@@ -106,7 +164,7 @@ function TextInputBox(pagina, pregunta) {
 
 	this.fonsInput = new createjs.Shape();
 	
-	if( pregunta.imagen != "" ){
+	if( pregunta.imagen != "" || pregunta.texto != ""){
        this.fonsInput.graphics.beginFill("#fff").drawRoundRect(0, 0, 500, 300, 3);
        this.marcInput = new createjs.Shape();
        this.marcInput.graphics.beginStroke("#F8B334").setStrokeStyle(1).drawRoundRect(0, 0, 500, 300, 3);
@@ -154,6 +212,72 @@ TextInputBox.prototype.clear = function() {
        this.marcInput.graphics.beginStroke("#F8B334").setStrokeStyle(1).drawRoundRect(0, 0, 750, 32, 5);
     }
 }
+
+function Texto(pregunta, gran){
+    
+    this.contenedor = new createjs.Container();
+    this.contenedor.x = 25;
+    this.contenedor.y = 110;
+
+    this.fons = new createjs.Shape();
+    this.fons.graphics.beginFill("#fff").drawRoundRect(0, 0, 325, 300, 10);
+
+    this.texte = new createjs.RichText();
+    this.texte.text = pregunta.texto;
+    this.texte.font = (Contenedor.datosXML.plataforma.grado == 1)? "17px Arial" : "15px Arial" ;
+    this.texte.fontSize = (Contenedor.datosXML.plataforma.grado == 1)? 17 : 15 ;
+    this.texte.color = "#0D3158";
+    this.texte.x = 10;
+    this.texte.y = 10;
+    this.texte.lineWidth = 300;
+    this.texte.lineHeight = 22;
+    this.texte.mouseEnabled = false;
+
+    this.texte.mask = new createjs.Shape();
+    this.texte.mask.graphics.beginFill("#fff").drawRoundRect(0, 0, 305, 263, 0);
+    this.texte.mask.x = 10;
+    this.texte.mask.y = 10;
+
+    this.contenedor.addChild(this.fons);
+    this.contenedor.addChild(this.texte);
+    // texto completo ampliado
+ 
+    if( pregunta.texto.length > 450){
+        this.ampliacion = new AmpliacionTexto(pregunta);
+        this.ampliacion.contenedor.x = 0;
+        this.ampliacion.contenedor.y = 0;
+        this.ampliacion.contenedor.alpha = 0;
+        Main.stage.addChild(this.ampliacion.contenedor);
+       
+        this.zoom = new createjs.Bitmap(pppPreloader.from("module", 'motor/images/ico_zoom.png'));
+        this.zoom.x = 285;
+        this.zoom.y = 260;
+
+        this.contenedor.addChild(this.zoom);
+        this.contenedor.on("click", this.zooming, this);
+        
+        this.puntets =  new createjs.RichText();
+        this.puntets.text = "...";
+        this.puntets.font =  "24px Arial" ;
+        this.puntets.color = "#0D3158";
+        this.puntets.x = 10;
+        this.puntets.y = 262;
+        this.contenedor.addChild(this.puntets);
+        this.contenedor.on("mouseover", function(evt){ document.body.style.cursor='pointer'; });
+        this.contenedor.on("mouseout", function(evt){ document.body.style.cursor='default'; });
+    }
+}
+
+Texto.prototype.zooming = function(evt){
+    if( evt.primary ){
+        Main.stage.setChildIndex(this.ampliacion.contenedor, Main.stage.getNumChildren() - 1);
+        this.ampliacion.contenedor.visible = true;
+        createjs.Tween.get(this.ampliacion.contenedor).to({
+            alpha : 1
+        }, 500, createjs.Ease.circOut);
+    }
+}
+
 function Imagen(pregunta, gran) {
 	// get imagen
 	this.contenedor = new createjs.Container();
@@ -243,6 +367,65 @@ Imagen.prototype.zooming = function(evt){
 		}, 500, createjs.Ease.circOut);
 	}
 }
+
+function AmpliacionTexto(pregunta) {
+    this.fons = new createjs.Shape();
+    this.fons.graphics.beginFill("#333").drawRoundRect(0, 0, Main.stage_width, Main.stage_height, 5);
+    this.fons.alpha = 0.30;
+
+    this.contenedor = new createjs.Container();
+    this.contenedor.addChild(this.fons);
+
+    this.fons = new createjs.Shape();
+    this.fons.graphics.beginFill("#fff").drawRoundRect(0, 0, 750, 450, 4);
+    this.fons.x = 100;
+    this.fons.y = 100;
+
+    this.fonsHead = new createjs.Shape();
+    this.fonsHead.graphics.beginFill("#0D3158").drawRoundRectComplex(0, 0, 750, 32, 4, 4, 0, 0);
+    this.fonsHead.x = 100;
+    this.fonsHead.y = 100;
+    
+    this.texteHead = new createjs.RichText();
+    this.texteHead.text = LangRes.lang[ LangRes.TEXTOCOMPLETO ];
+    this.texteHead.font = (Contenedor.datosXML.plataforma.grado == 1)? "17px Arial" : "15px Arial" ;
+    this.texteHead.fontSize = (Contenedor.datosXML.plataforma.grado == 1)? 17 : 15;
+    this.texteHead.color = "#fff";
+    this.texteHead.x = 115;
+    this.texteHead.y = 108;
+
+    this.texte = new createjs.RichText();
+    this.texte.text = pregunta.texto;
+    this.texte.font = "17px Arial";
+    this.texte.fontSize = 17;
+    this.texte.color = "#0D3158";
+    this.texte.x = 115;
+    this.texte.y = 140;
+    this.texte.lineWidth = 720;
+    this.texte.lineHeight = 22;
+    this.texte.mouseEnabled = false;
+
+    this.texte.mask = new createjs.Shape();
+    this.texte.mask.graphics.beginFill("#fff").drawRoundRect(0, 0, 720, 393, 0);
+    this.texte.mask.x = 115;
+    this.texte.mask.y = 140;
+    
+    this.fonsFoot = new createjs.Shape();
+    this.fonsFoot.graphics.beginFill("#0D3158").drawRoundRectComplex(0, 0, 750, 15, 0, 0, 0, 0);
+    this.fonsFoot.x = 100;
+    this.fonsFoot.y = 535;
+
+    this.contenedor.addChild(this.fons);
+    this.contenedor.addChild(this.fonsHead);
+    this.contenedor.addChild(this.texteHead);
+    this.contenedor.addChild(this.texte);
+    this.contenedor.addChild(this.fonsFoot);
+
+    this.contenedor.on("click", this.tancar);
+    this.contenedor.on("mouseover", function(evt){ document.body.style.cursor='pointer'; });
+    this.contenedor.on("mouseout", function(evt){ document.body.style.cursor='default'; });
+}
+
 function Ampliacion(pregunta) {
 	this.fons = new createjs.Shape();
 	this.fons.graphics.beginFill("#fff").drawRoundRect(0, 0, Main.stage_width, Main.stage_height, 5);
@@ -287,6 +470,15 @@ Ampliacion.prototype.tancar = function(evt){
 		}, 500, createjs.Ease.circOut);
 	}
 }
+
+AmpliacionTexto.prototype.tancar = function(evt){
+    if( evt.primary ){
+        createjs.Tween.get(this).to({
+            alpha : 0
+        }, 500, createjs.Ease.circOut);
+    }
+}
+
 function Simbols() {
 	this.simbols = new createjs.Bitmap(pppPreloader.from("module", 'motor/images/simbolos.png'));
 	this.marcInput = new createjs.Shape();
@@ -313,7 +505,6 @@ Simbols.prototype.press = function() {
 	    $(Motor.inputDOM.htmlElement).css("display", "block");
 	    Motor.contenedor.addChild(Motor.finestra);
 		Main.stage.setChildIndex(Motor.finestra, Main.stage.getNumChildren() - 1);
-		console.log("holaaa");
 		//$("#symbolHtml").blur().focus();
 		//createjs.Touch.disable(Main.stage);
 		

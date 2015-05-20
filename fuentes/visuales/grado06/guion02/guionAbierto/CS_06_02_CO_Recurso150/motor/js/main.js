@@ -110,7 +110,6 @@ Main = new function()
     
     this.windowResize =function ()
     {
-        console.log("reload");
         // browser viewport size
         var index = Main.navegador.split(' ').indexOf("IE");
         var mobil = Main.mobil;

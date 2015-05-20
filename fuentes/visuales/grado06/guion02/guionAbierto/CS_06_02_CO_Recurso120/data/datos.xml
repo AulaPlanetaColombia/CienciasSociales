@@ -1,38 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<motor tipo="10" clase="a" aprid="M10a">
-  <enunciado>Ordena las siguientes palabras en los contenedores que les corresponda:</enunciado>
-  <textoacategoria cantidad="3">
-    <cuestion>
-      <categoria>Paleolítico</categoria>
-      <respuestas>
-        <respuesta id="1">Caverna</respuesta>
-        <respuesta id="2">Fuego</respuesta>
-        <respuesta id="3">Nomadismo</respuesta>
-        <respuesta id="4">Arte rupestre</respuesta>
-        <respuesta id="5">Cazador-recolector</respuesta>
-      </respuestas>
-    </cuestion>
-    <cuestion>
-      <categoria>Neolítico</categoria>
-      <respuestas>
-        <respuesta id="1">Sedentarismo</respuesta>
-        <respuesta id="2">Agricultura</respuesta>
-        <respuesta id="3">Ganadería</respuesta>
-        <respuesta id="4">Cerámica</respuesta>
-        <respuesta id="5">Telar</respuesta>
-      </respuestas>
-    </cuestion>
-    <cuestion>
-      <categoria>Edad de los metales</categoria>
-      <respuestas>
-        <respuesta id="1">Metalurgia</respuesta>
-        <respuesta id="2">Menhir</respuesta>
-        <respuesta id="3">Comercio</respuesta>
-        <respuesta id="4">Rueda</respuesta>
-        <respuesta id="5">Hierro</respuesta>
-      </respuestas>
-    </cuestion>
-  </textoacategoria>
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="10" clase="a" aprid="M10a">
   <plataforma>
     <grado><![CDATA[2]]></grado>
     <titulo>Relaciona conceptos con su período histórico</titulo>
@@ -43,4 +9,44 @@
     <motor><![CDATA[M10a]]></motor>
     <lang>es</lang>
   </plataforma>
+  <enunciado><![CDATA[Ubica las siguientes palabras en el periodo que corresponda:]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoacategoria cantidad="3">
+    <cuestion>
+      <categoria><![CDATA[Paleolítico]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Caverna]]></respuesta>
+        <respuesta id="2"><![CDATA[Fuego]]></respuesta>
+        <respuesta id="3"><![CDATA[Nomadismo]]></respuesta>
+        <respuesta id="4"><![CDATA[Arte rupestre]]></respuesta>
+        <respuesta id="5"><![CDATA[Cazador-recolector]]></respuesta>
+      </respuestas>
+      <sonido/>
+    </cuestion>
+    <cuestion>
+      <categoria><![CDATA[Neolítico]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Sedentarismo]]></respuesta>
+        <respuesta id="2"><![CDATA[Agricultura]]></respuesta>
+        <respuesta id="3"><![CDATA[Ganadería]]></respuesta>
+        <respuesta id="4"><![CDATA[Cerámica]]></respuesta>
+        <respuesta id="5"><![CDATA[Telar]]></respuesta>
+      </respuestas>
+      <sonido/>
+    </cuestion>
+    <cuestion>
+      <categoria><![CDATA[Edad de los metales]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Metalurgia]]></respuesta>
+        <respuesta id="2"><![CDATA[Menhir]]></respuesta>
+        <respuesta id="3"><![CDATA[Comercio]]></respuesta>
+        <respuesta id="4"><![CDATA[Rueda]]></respuesta>
+        <respuesta id="5"><![CDATA[Hierro]]></respuesta>
+      </respuestas>
+      <sonido/>
+    </cuestion>
+  </textoacategoria>
+  <temps>10</temps>
 </motor>

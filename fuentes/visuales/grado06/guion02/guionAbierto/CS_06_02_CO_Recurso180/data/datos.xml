@@ -23,8 +23,8 @@
   </objeto>
   <objeto>
     <ref>20</ref>
-    <texto>Edad de los metales</texto>
-    <hijos>30,31</hijos>
+    <texto>Edad de los Metales</texto>
+    <hijos>34,35</hijos>
     <padre>10</padre>
     <siz>0</siz>
     <negcur>0000000000000000000</negcur>
@@ -34,7 +34,7 @@
   <objeto>
     <ref>21</ref>
     <texto>Neolítico</texto>
-    <hijos>32</hijos>
+    <hijos>33</hijos>
     <padre>10</padre>
     <siz>0</siz>
     <negcur>000000000</negcur>
@@ -44,7 +44,7 @@
   <objeto>
     <ref>22</ref>
     <texto>Mesolítico</texto>
-    <hijos>33</hijos>
+    <hijos>32</hijos>
     <padre>10</padre>
     <siz>0</siz>
     <negcur>0000000000</negcur>
@@ -54,7 +54,7 @@
   <objeto>
     <ref>23</ref>
     <texto>Paleolítico</texto>
-    <hijos>34,35</hijos>
+    <hijos>30,31</hijos>
     <padre>10</padre>
     <siz>0</siz>
     <negcur>00000000000</negcur>
@@ -63,69 +63,49 @@
   </objeto>
   <objeto>
     <ref>30</ref>
-    <texto>se descubre el</texto>
-    <hijos>40,41,42</hijos>
-    <padre>20</padre>
+    <texto>los</texto>
+    <hijos>40</hijos>
+    <padre>23</padre>
     <siz>0</siz>
-    <negcur>00000000000000</negcur>
+    <negcur>000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>40</ref>
-    <texto>Cobre</texto>
-    <hijos/>
+    <texto>primeros humanos</texto>
+    <hijos>51</hijos>
     <padre>30</padre>
-    <siz>0</siz>
-    <negcur>00000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>41</ref>
-    <texto>Bronce</texto>
-    <hijos/>
-    <padre>30</padre>
-    <siz>0</siz>
-    <negcur>000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>42</ref>
-    <texto>Hierro</texto>
-    <hijos/>
-    <padre>30</padre>
-    <siz>0</siz>
-    <negcur>000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>31</ref>
-    <texto>se desarrolla la</texto>
-    <hijos>43</hijos>
-    <padre>20</padre>
     <siz>0</siz>
     <negcur>0000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>43</ref>
-    <texto>Metalurgia</texto>
-    <hijos>50,51</hijos>
+    <ref>31</ref>
+    <texto>se inicia el</texto>
+    <hijos>41</hijos>
+    <padre>23</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>proceso de hominización</texto>
+    <hijos>50</hijos>
     <padre>31</padre>
     <siz>0</siz>
-    <negcur>0000000000</negcur>
+    <negcur>00000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>50</ref>
-    <texto>y se fabrican</texto>
-    <hijos>60,62</hijos>
-    <padre>43</padre>
+    <texto>basado en la</texto>
+    <hijos>60</hijos>
+    <padre>41</padre>
     <siz>0</siz>
     <negcur>0000000000000</negcur>
     <cen>1</cen>
@@ -133,29 +113,9 @@
   </objeto>
   <objeto>
     <ref>60</ref>
-    <texto>Herramienta</texto>
-    <hijos>71</hijos>
-    <padre>50</padre>
-    <siz>0</siz>
-    <negcur>00000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>51</ref>
-    <texto>y se contruyen</texto>
-    <hijos>61</hijos>
-    <padre>43</padre>
-    <siz>0</siz>
-    <negcur>00000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>61</ref>
-    <texto>Megalitos</texto>
+    <texto>evolución</texto>
     <hijos>70</hijos>
-    <padre>51</padre>
+    <padre>50</padre>
     <siz>0</siz>
     <negcur>000000000</negcur>
     <cen>1</cen>
@@ -163,118 +123,188 @@
   </objeto>
   <objeto>
     <ref>70</ref>
-    <texto>como</texto>
-    <hijos>80,81,82</hijos>
-    <padre>61</padre>
+    <texto>de los</texto>
+    <hijos>80</hijos>
+    <padre>60</padre>
     <siz>0</siz>
-    <negcur>0000</negcur>
+    <negcur>000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>80</ref>
-    <texto>Menhir</texto>
-    <hijos/>
+    <texto>homínidos</texto>
+    <hijos>90</hijos>
     <padre>70</padre>
     <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>90</ref>
+    <texto>como el</texto>
+    <hijos>a0,a1,a2,a3</hijos>
+    <padre>80</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a0</ref>
+    <texto>Homo sapiens</texto>
+    <hijos/>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>111111111111</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a1</ref>
+    <texto>Homo neanderthalensis</texto>
+    <hijos/>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>111111111111111111111</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a2</ref>
+    <texto>Homo habilis</texto>
+    <hijos/>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>111111111111</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a3</ref>
+    <texto>Australopithecus</texto>
+    <hijos/>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>1111111111111111</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>forman</texto>
+    <hijos>61</hijos>
+    <padre>40</padre>
+    <siz>0</siz>
     <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>pequeños grupos nómadas</texto>
+    <hijos>71,72</hijos>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto>que habitan en</texto>
+    <hijos>81</hijos>
+    <padre>61</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>81</ref>
-    <texto>Cromlech</texto>
-    <hijos/>
-    <padre>70</padre>
+    <texto>- Abrigos naturales- Cuevas</texto>
+    <hijos>91</hijos>
+    <padre>71</padre>
     <siz>0</siz>
-    <negcur>00000000</negcur>
+    <negcur>0000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>72</ref>
+    <texto>que viven de la</texto>
+    <hijos>82,83,84</hijos>
+    <padre>61</padre>
+    <siz>0</siz>
+    <negcur>000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>82</ref>
-    <texto>Dolmen</texto>
+    <texto>pezca</texto>
     <hijos/>
-    <padre>70</padre>
-    <siz>0</siz>
-    <negcur>000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>62</ref>
-    <texto>Armas</texto>
-    <hijos>72</hijos>
-    <padre>50</padre>
+    <padre>72</padre>
     <siz>0</siz>
     <negcur>00000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>71</ref>
-    <texto>por</texto>
-    <hijos>83</hijos>
-    <padre>60</padre>
-    <siz>0</siz>
-    <negcur>000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
     <ref>83</ref>
-    <texto>Artesanos Especializados</texto>
+    <texto>caza</texto>
     <hijos/>
-    <padre>71</padre>
+    <padre>72</padre>
     <siz>0</siz>
-    <negcur>000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>72</ref>
-    <texto>por</texto>
-    <hijos>84</hijos>
-    <padre>62</padre>
-    <siz>0</siz>
-    <negcur>000</negcur>
+    <negcur>0000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>84</ref>
-    <texto>Artesanos Especializados</texto>
+    <texto>recolección</texto>
     <hijos/>
     <padre>72</padre>
     <siz>0</siz>
-    <negcur>000000000000000000000000</negcur>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>91</ref>
+    <texto>donde realizan</texto>
+    <hijos>a4,a5</hijos>
+    <padre>81</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a4</ref>
+    <texto>pinturas rupestes</texto>
+    <hijos/>
+    <padre>91</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a5</ref>
+    <texto>utensilios de piedra tallada</texto>
+    <hijos/>
+    <padre>91</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>32</ref>
-    <texto>se desarrolla</texto>
-    <hijos>44</hijos>
-    <padre>21</padre>
-    <siz>0</siz>
-    <negcur>0000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>44</ref>
-    <texto>Agricultura y Ganadería</texto>
-    <hijos/>
-    <padre>32</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>33</ref>
     <texto>es el</texto>
-    <hijos>45</hijos>
+    <hijos>42</hijos>
     <padre>22</padre>
     <siz>0</siz>
     <negcur>00000</negcur>
@@ -282,10 +312,10 @@
     <img/>
   </objeto>
   <objeto>
-    <ref>45</ref>
-    <texto>Periodo de Transición</texto>
+    <ref>42</ref>
+    <texto>periodo de transición</texto>
     <hijos>52</hijos>
-    <padre>33</padre>
+    <padre>32</padre>
     <siz>0</siz>
     <negcur>000000000000000000000</negcur>
     <cen>1</cen>
@@ -294,447 +324,307 @@
   <objeto>
     <ref>52</ref>
     <texto>que comprende</texto>
-    <hijos>63</hijos>
-    <padre>45</padre>
+    <hijos>62</hijos>
+    <padre>42</padre>
     <siz>0</siz>
     <negcur>0000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>63</ref>
-    <texto>1.000 años aproximadamente (10.000-9.000 a.C)</texto>
-    <hijos>73</hijos>
+    <ref>62</ref>
+    <texto>1.000 años aproximadamente (10 000 - 9 000 a.n.e.)</texto>
+    <hijos/>
     <padre>52</padre>
     <siz>0</siz>
-    <negcur>00000000000000000000000000000000000000000000000</negcur>
+    <negcur>00000000000000000000000000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>73</ref>
-    <texto>las</texto>
-    <hijos>85</hijos>
-    <padre>63</padre>
-    <siz>0</siz>
-    <negcur>0000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>85</ref>
-    <texto>Comunidades</texto>
-    <hijos>91,90</hijos>
-    <padre>73</padre>
-    <siz>0</siz>
-    <negcur>00000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>90</ref>
-    <texto>modifican su</texto>
-    <hijos>a0</hijos>
-    <padre>85</padre>
-    <siz>0</siz>
-    <negcur>000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>a0</ref>
-    <texto>Forma de Vida</texto>
-    <hijos>b0</hijos>
-    <padre>90</padre>
-    <siz>0</siz>
-    <negcur>0000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>91</ref>
-    <texto>se caracterizan por</texto>
-    <hijos>a2,a1</hijos>
-    <padre>85</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>a1</ref>
-    <texto>Trabajar</texto>
-    <hijos>b5,b6,b7,b8</hijos>
-    <padre>91</padre>
-    <siz>0</siz>
-    <negcur>00000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>b0</ref>
-    <texto>de</texto>
-    <hijos>c0</hijos>
-    <padre>a0</padre>
-    <siz>0</siz>
-    <negcur>000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c0</ref>
-    <texto>Nómada</texto>
-    <hijos>d0</hijos>
-    <padre>b0</padre>
-    <siz>0</siz>
-    <negcur>0000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>d0</ref>
-    <texto>a</texto>
-    <hijos>e0</hijos>
-    <padre>c0</padre>
-    <siz>0</siz>
-    <negcur>0</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>e0</ref>
-    <texto>seminómada (sedentaria estacional)</texto>
-    <hijos/>
-    <padre>d0</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>a2</ref>
-    <texto>Ser</texto>
-    <hijos>b4,b3,b2,b1</hijos>
-    <padre>91</padre>
-    <siz>0</siz>
-    <negcur>0000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>b1</ref>
-    <texto/>
-    <hijos>c1</hijos>
-    <padre>a2</padre>
-    <siz>0</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c1</ref>
-    <texto>Horticultores</texto>
-    <hijos/>
-    <padre>b1</padre>
-    <siz>0</siz>
-    <negcur>0000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>b2</ref>
-    <texto/>
-    <hijos>c2</hijos>
-    <padre>a2</padre>
-    <siz>0</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c2</ref>
-    <texto>Pescadores</texto>
-    <hijos/>
-    <padre>b2</padre>
-    <siz>0</siz>
-    <negcur>0000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>b3</ref>
-    <texto/>
-    <hijos>c3</hijos>
-    <padre>a2</padre>
-    <siz>0</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c3</ref>
-    <texto>Recolectores</texto>
-    <hijos/>
-    <padre>b3</padre>
-    <siz>0</siz>
-    <negcur>000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>b4</ref>
-    <texto/>
-    <hijos>c4</hijos>
-    <padre>a2</padre>
-    <siz>0</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c4</ref>
-    <texto>Cazadores</texto>
-    <hijos/>
-    <padre>b4</padre>
-    <siz>0</siz>
-    <negcur>000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>b5</ref>
-    <texto>la</texto>
-    <hijos>c5</hijos>
-    <padre>a1</padre>
-    <siz>0</siz>
-    <negcur>00</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c5</ref>
-    <texto>Piedra Tallada</texto>
-    <hijos/>
-    <padre>b5</padre>
+    <ref>33</ref>
+    <texto>se derrolla la</texto>
+    <hijos>43</hijos>
+    <padre>21</padre>
     <siz>0</siz>
     <negcur>00000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>b6</ref>
-    <texto>los</texto>
-    <hijos>c6</hijos>
-    <padre>a1</padre>
+    <ref>43</ref>
+    <texto>agricultura y ganadería</texto>
+    <hijos>53</hijos>
+    <padre>33</padre>
     <siz>0</siz>
-    <negcur>000</negcur>
+    <negcur>00000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>c6</ref>
-    <texto>Objeros Cerámicos</texto>
-    <hijos/>
-    <padre>b6</padre>
+    <ref>53</ref>
+    <texto>lo que posibilita la</texto>
+    <hijos>63</hijos>
+    <padre>43</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>vida sedentaria</texto>
+    <hijos>73</hijos>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>73</ref>
+    <texto>así que surgen</texto>
+    <hijos>85</hijos>
+    <padre>63</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>85</ref>
+    <texto>poblados estables</texto>
+    <hijos>92,93</hijos>
+    <padre>73</padre>
     <siz>0</siz>
     <negcur>00000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>b7</ref>
-    <texto>las</texto>
-    <hijos>c7</hijos>
-    <padre>a1</padre>
-    <siz>0</siz>
-    <negcur>000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c7</ref>
-    <texto>Piedras para Moles</texto>
-    <hijos/>
-    <padre>b7</padre>
+    <ref>92</ref>
+    <texto>que implementan el</texto>
+    <hijos>a6</hijos>
+    <padre>85</padre>
     <siz>0</siz>
     <negcur>000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>b8</ref>
-    <texto>la</texto>
-    <hijos>c8</hijos>
-    <padre>a1</padre>
-    <siz>0</siz>
-    <negcur>00</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c8</ref>
-    <texto>Construcción de Huertos</texto>
-    <hijos/>
-    <padre>b8</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>34</ref>
-    <texto>se inicia el</texto>
-    <hijos>46</hijos>
-    <padre>23</padre>
-    <siz>0</siz>
-    <negcur>0000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>46</ref>
-    <texto>Proceso de Hominización</texto>
-    <hijos>53</hijos>
-    <padre>34</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>35</ref>
-    <texto>los</texto>
-    <hijos>47</hijos>
-    <padre>23</padre>
-    <siz>0</siz>
-    <negcur>000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>47</ref>
-    <texto>Primeros Humanos</texto>
-    <hijos>54</hijos>
-    <padre>35</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>53</ref>
-    <texto>basado en la</texto>
-    <hijos>64</hijos>
-    <padre>46</padre>
-    <siz>0</siz>
-    <negcur>0000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>64</ref>
-    <texto>Evolución</texto>
-    <hijos>74</hijos>
-    <padre>53</padre>
-    <siz>0</siz>
-    <negcur>000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>74</ref>
-    <texto>de los</texto>
-    <hijos>86</hijos>
-    <padre>64</padre>
-    <siz>0</siz>
-    <negcur>000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>86</ref>
-    <texto>Homínidos</texto>
-    <hijos>92</hijos>
-    <padre>74</padre>
-    <siz>0</siz>
-    <negcur>000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>92</ref>
-    <texto>como el</texto>
-    <hijos>a6,a5,a4,a3</hijos>
-    <padre>86</padre>
+    <ref>a6</ref>
+    <texto>trabajo</texto>
+    <hijos>b0</hijos>
+    <padre>92</padre>
     <siz>0</siz>
     <negcur>0000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>a3</ref>
-    <texto>Homo sapiens</texto>
-    <hijos/>
-    <padre>92</padre>
+    <ref>93</ref>
+    <texto>que implementan la</texto>
+    <hijos>a7</hijos>
+    <padre>85</padre>
     <siz>0</siz>
-    <negcur>000000000000</negcur>
+    <negcur>000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>a4</ref>
-    <texto>Homo neanderthalensis</texto>
-    <hijos/>
-    <padre>92</padre>
+    <ref>a7</ref>
+    <texto>división social del trabajo</texto>
+    <hijos>b1</hijos>
+    <padre>93</padre>
     <siz>0</siz>
-    <negcur>000000000000000000000</negcur>
+    <negcur>000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>a5</ref>
-    <texto>Homo habilis</texto>
-    <hijos/>
-    <padre>92</padre>
+    <ref>b0</ref>
+    <texto>en</texto>
+    <hijos>c0,c1,c2</hijos>
+    <padre>a6</padre>
     <siz>0</siz>
-    <negcur>000000000000</negcur>
+    <negcur>00</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>a6</ref>
-    <texto>Australopithecus</texto>
+    <ref>c0</ref>
+    <texto>tejido</texto>
     <hijos/>
-    <padre>92</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>54</ref>
-    <texto>forman</texto>
-    <hijos>65</hijos>
-    <padre>47</padre>
+    <padre>b0</padre>
     <siz>0</siz>
     <negcur>000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>65</ref>
-    <texto>Pequeños Grupos Nómadas</texto>
-    <hijos>75</hijos>
-    <padre>54</padre>
+    <ref>c1</ref>
+    <texto>cerámica</texto>
+    <hijos/>
+    <padre>b0</padre>
     <siz>0</siz>
-    <negcur>00000000000000000000000</negcur>
+    <negcur>00000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>75</ref>
-    <texto>que</texto>
-    <hijos>87,88</hijos>
+    <ref>c2</ref>
+    <texto>piedra pulida</texto>
+    <hijos/>
+    <padre>b0</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>b1</ref>
+    <texto>dada por los</texto>
+    <hijos>c3,c4,c5</hijos>
+    <padre>a7</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>c3</ref>
+    <texto>agricultores</texto>
+    <hijos/>
+    <padre>b1</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>c4</ref>
+    <texto>ganaderos</texto>
+    <hijos/>
+    <padre>b1</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>c5</ref>
+    <texto>artesanos</texto>
+    <hijos/>
+    <padre>b1</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>34</ref>
+    <texto>se desarrolla la</texto>
+    <hijos>44</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>44</ref>
+    <texto>metalurgia</texto>
+    <hijos>54,55</hijos>
+    <padre>34</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>35</ref>
+    <texto>se descubre el</texto>
+    <hijos>45,46,47</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>45</ref>
+    <texto>hierro</texto>
+    <hijos/>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>46</ref>
+    <texto>bronce</texto>
+    <hijos/>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>47</ref>
+    <texto>cobre</texto>
+    <hijos/>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>54</ref>
+    <texto>y se construyen</texto>
+    <hijos>64</hijos>
+    <padre>44</padre>
+    <siz>0</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>megalitos</texto>
+    <hijos>75</hijos>
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>55</ref>
+    <texto>y se fabrican</texto>
+    <hijos>65</hijos>
+    <padre>44</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>- Herramientas- Armas</texto>
+    <hijos>74</hijos>
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>74</ref>
+    <texto>por</texto>
+    <hijos>86</hijos>
     <padre>65</padre>
     <siz>0</siz>
     <negcur>000</negcur>
@@ -742,162 +632,52 @@
     <img/>
   </objeto>
   <objeto>
-    <ref>87</ref>
-    <texto>Vivien de la</texto>
-    <hijos>93</hijos>
-    <padre>75</padre>
-    <siz>0</siz>
-    <negcur>000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>88</ref>
-    <texto>Habitan en</texto>
-    <hijos>94,95</hijos>
-    <padre>75</padre>
-    <siz>0</siz>
-    <negcur>0000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>93</ref>
-    <texto/>
-    <hijos>aA,a9,a8</hijos>
-    <padre>87</padre>
-    <siz>0</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>a8</ref>
-    <texto>pesca</texto>
+    <ref>86</ref>
+    <texto>artesanos especializados</texto>
     <hijos/>
-    <padre>93</padre>
+    <padre>74</padre>
     <siz>0</siz>
-    <negcur>00000</negcur>
+    <negcur>000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>a9</ref>
-    <texto>Caza</texto>
-    <hijos/>
-    <padre>93</padre>
+    <ref>75</ref>
+    <texto>como</texto>
+    <hijos>87,88,89</hijos>
+    <padre>64</padre>
     <siz>0</siz>
     <negcur>0000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>aA</ref>
-    <texto>Recolección</texto>
+    <ref>87</ref>
+    <texto>dolmen</texto>
     <hijos/>
-    <padre>93</padre>
-    <siz>0</siz>
-    <negcur>00000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>94</ref>
-    <texto>cuevas</texto>
-    <hijos>a7</hijos>
-    <padre>88</padre>
+    <padre>75</padre>
     <siz>0</siz>
     <negcur>000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>a7</ref>
-    <texto>donde realizan</texto>
-    <hijos>b9</hijos>
-    <padre>94</padre>
-    <siz>0</siz>
-    <negcur>000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>95</ref>
-    <texto>abrigos naturales</texto>
-    <hijos>aB</hijos>
-    <padre>88</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>aB</ref>
-    <texto>donde realizan</texto>
-    <hijos>bA</hijos>
-    <padre>95</padre>
-    <siz>0</siz>
-    <negcur>00000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>b9</ref>
-    <texto/>
-    <hijos>c9,cA</hijos>
-    <padre>a7</padre>
-    <siz>0</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c9</ref>
-    <texto>Pinturas Rupestres</texto>
+    <ref>88</ref>
+    <texto>cromlech</texto>
     <hijos/>
-    <padre>b9</padre>
+    <padre>75</padre>
     <siz>0</siz>
-    <negcur>000000000000000000</negcur>
+    <negcur>00000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>cA</ref>
-    <texto>Utensilios de Piedra Tallada</texto>
+    <ref>89</ref>
+    <texto>menhir</texto>
     <hijos/>
-    <padre>b9</padre>
+    <padre>75</padre>
     <siz>0</siz>
-    <negcur>0000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>bA</ref>
-    <texto/>
-    <hijos>cB,cC</hijos>
-    <padre>aB</padre>
-    <siz>0</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>cB</ref>
-    <texto>Pinturas Rupestres</texto>
-    <hijos/>
-    <padre>bA</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>cC</ref>
-    <texto>Utensilios de Piedra Tallada</texto>
-    <hijos/>
-    <padre>bA</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000000000000</negcur>
+    <negcur>000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>

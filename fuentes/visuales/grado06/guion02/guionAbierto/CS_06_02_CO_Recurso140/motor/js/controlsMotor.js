@@ -9,15 +9,15 @@ function Pagina( pregunta, _numpagina) {
     this.imagen = new Imagen(pregunta, true);
 
     
-    this.enunciat.font = (Contenedor.datosXML.plataforma.grado == 1)? "20px Arial" : "18px Arial" ;
+    this.enunciat.font = (Contenedor.datosXML.plataforma.grado == 1)? "19px Arial" : "17px Arial" ;
 	this.enunciat.fontSize =(Contenedor.datosXML.plataforma.grado == 1)? 20 : 18 ;
 	this.enunciat.color = "#0D3158";
 	this.enunciat.x = 15;
 	this.enunciat.y = 10 ;
-	this.enunciat.lineWidth = 850;
+	this.enunciat.lineWidth = 900;
 	this.enunciat.lineHeight = 22;
 	this.enunciat.mask = new createjs.Shape();
-	this.enunciat.mask.graphics.beginFill("#fff").drawRect(0,0,850, 45);
+	this.enunciat.mask.graphics.beginFill("#fff").drawRect(0,0,900, 45);
 	this.enunciat.mask.y = 10;
 	this.enunciat.mask.x = 15;
 	this.enunciat.mouseEnabled = false;

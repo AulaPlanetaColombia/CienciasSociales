@@ -1,22 +1,90 @@
-<!-- saved from url=(0013)about:internet -->
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- v : 10.10.8 -->
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-	
-	
-	<title></title>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-	
-	<SCRIPT SRC='../_js/common.js'></SCRIPT>		
-	<SCRIPT SRC='../_js/APIWrapper.js'></SCRIPT>		
-	<SCRIPT SRC='../_js/AC_RunActiveContent.js'></script>
-	
-	<link rel="stylesheet" type="text/css" href="../_css/common.css" />
-	
-</head>
-<body>
-	
-			
-</body>
+<!doctype html>
+<html  lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=10">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+        <script type='text/javascript' src='lib/ppppreloader/1_0/ppppreloader_min.js'></script> 
+	    <script>
+
+				var manifest = {
+
+				    blocks: [
+				    		{ type: "manifest", files: [ { from: "module", file:"motor/manifest.json"} ] }
+				    ],
+
+				    spinner: "no",
+
+				    waitForDocumentReady: true, 
+
+				    onEndLoading: function (mf) {
+
+				    	if (mf.errors.length > 0) {
+				    		logPreloaderErrors(mf);
+					        pppSpinner.hide();
+				    		return;
+				    	}
+
+				        Main.init();
+						$.calculator.setDefaults( {
+							showOn: 'both', 
+							buttonImageOnly: true, 
+							onButton: function(value, inst) { 
+								if( value == "Cerrar" ){
+						        	Contenedor.closeHandler();
+						       	}
+						   },
+							buttonImage: pppPreloader.from('CDN', 'extlib/calculadora/calculator.png')
+						});
+
+						pppSpinner.hide();
+
+						window.onbeforeunload = function() {
+							aulaPlaneta.SCORM.terminate();
+						};
+				    }
+				};
+
+				pppPreloader.init( {
+        			aliases: { "module": "CDN" },
+	        		remotePaths: { "module": "motors/m4a/" }
+	      		});
+
+				pppSpinner.show();
+
+				pppPreloader.loadManifest(manifest);
+
+				function logPreloaderErrors(mf) {
+			    	if (mf.errors.length > 0) {
+				        var msg = "ERROR pppPreloader: \n";
+				        for (var i=0;i<mf.errors.length;i++) {
+				        	msg += "  - " + mf.errors[i].type + ": " + mf.errors[i].file + " [" + mf.errors[i].url + "]\n";
+				        }
+				        console.log(msg);
+			    	}
+				}
+				
+				function buttonSymbol(typeSymbol, numberSymbol){
+        			Motor.InsertSymbol(typeSymbol,numberSymbol);
+        		}
+
+	    </script>
+
+    </head>
+    <body id="background">
+
+        <div id="aplicacion">
+        	<div id="wrapper">
+	        	
+				<div id="mediaHolder" style="height:0px">
+				</div>
+				<canvas id="stage" width="950" height="608"></canvas>
+				<span  id="calculator"></span>
+			</div>
+		</div>
+
+    </body>
 </html>
