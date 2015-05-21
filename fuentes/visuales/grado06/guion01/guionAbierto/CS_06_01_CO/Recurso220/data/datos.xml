@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="2" clase="a" aprid="m2a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Evaluación</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia />
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M2A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa las frases con la opción correcta.]]></enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[0]]></calc>
+  <sonido />
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[1. La disciplina que estudia las sociedades antiguas a partir de sus restos materiales es la [*] 2. El periodo más largo de la historia de la humanidad es la prehistoria 3. Entre 476 y 1492 se desarrolla la [*] 4. Las leyes, tratados, cartas, textos, etc., de otras épocas se conocen como [*] 5. Una vasija griega encontrada en un yacimiento es un [*] 6. La historia comienza con la invención de la escritura 7. Una filmación de la Segunda Guerra Mundial es una [*] 8. La caída del Imperio romano marca el fin de la [*] 9. Aquello que relatan los mayores sobre el pasado que conocieron se considera una [*] 10. Para representar gráficamente el paso del tiempo utilizamos un [*]]]></pregunta>
+      <respuestas>
+        <respuesta orden="1"><![CDATA[arqueología]]></respuesta>
+        <respuesta orden="2"><![CDATA[Edad Media]]></respuesta>
+        <respuesta orden="3"><![CDATA[Fuentes escritas]]></respuesta>
+        <respuesta orden="4"><![CDATA[Resto arqueológico]]></respuesta>
+        <respuesta orden="5"><![CDATA[Fuente audiovisual]]></respuesta>
+        <respuesta orden="6"><![CDATA[Edad Antigua]]></respuesta>
+        <respuesta orden="7"><![CDATA[Fuente oral]]></respuesta>
+        <respuesta orden="8"><![CDATA[Eje cronológico]]></respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <textofalso cantidad="0" />
+  <temps>10</temps>
+</motor>

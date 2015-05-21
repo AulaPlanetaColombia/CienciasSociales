@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="101" clase="a" aprid="M101a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Refuerza tu aprendizaje: Las fuentes históricas</titulo>
+    <area>2</area>
+    <nivel>2</nivel>
+    <referencia><![CDATA[MS_3C_06]]></referencia>
+    <idreg><![CDATA[3491]]></idreg>
+    <motor><![CDATA[M101AP]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario, entrega las respuestas por escrito o por email a tu profesor para que pueda validarlas.]]></enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[1]]></calc>
+  <preguntas cantidad="4">
+    <pregunta>
+      <enunciado><![CDATA[Explica con tus palabras qué es una fuente histórica y pon ejemplos que conozcas.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[1]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Di qué tipo de fuentes utilizarán los historiadores del futuro que estudien nuestra época. Justifica tu respuesta y pon ejemplos concretos. ]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Reflexiona acerca de si todas las fuentes son fiables o no a la hora de reconstruir la historia. Escribe un breve texto donde aportes tu opinión. ]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Piensa en un hecho histórico reciente y pregunta acerca de él a distintos conocidos o familiares que lo hayan vivido. Explica si las respuestas son iguales o no y di por qué.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+  </preguntas>
+</motor>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="12" clase="a" aprid="M12a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Ordena acontecimientos en el tiempo</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia><![CDATA[ms_3c_06_04]]></referencia>
+    <id_reg><![CDATA[5]]></id_reg>
+    <motor><![CDATA[M12a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Ordena cronológicamente los siguientes hechos históricos:]]></enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[0]]></calc>
+  <orden ini="Primeros homínidos" fi="Segunda Guerra Mundial" />
+  <elementos>
+    <elemento contestacion="Descubrimiento de la agricultura" orden="1" />
+    <elemento contestacion="Invención de la escritura" orden="2" />
+    <elemento contestacion="Fin del Imperio romano" orden="3" />
+    <elemento contestacion="Llegada de Colón a América" orden="4" />
+    <elemento contestacion="Revolución francesa" orden="5" />
+  </elementos>
+</motor>

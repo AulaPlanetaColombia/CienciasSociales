@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-E5FB791866574281AE09718609FA21AE</identificador>
+  <loid>CS_06_01_CORecurso170</loid>
+  <titulo>Las fuentes materiales</titulo>
+  <descripcion>Vídeo que presenta cómo funciona una excavación arquelógica y cómo las fuentes materiales halladas ayudan a interpretar el pasado</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Tratamiento de la información y competencia digital</competencia>
+  <tipomedia pesado="true" matricula="vin00049">Vídeo</tipomedia>
+  <conceptos>
+    <concepto>arqueología</concepto>
+    <concepto>cronología</concepto>
+    <concepto>datación</concepto>
+    <concepto>excavación</concepto>
+    <concepto>fuente histórica</concepto>
+    <concepto>historia</concepto>
+    <concepto>resto material</concepto>
+  </conceptos>
+</metadata>

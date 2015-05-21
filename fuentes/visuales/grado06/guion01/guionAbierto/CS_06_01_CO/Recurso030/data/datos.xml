@@ -1,0 +1,74 @@
+<?xml version = '1.0' encoding = 'ISO-8859-1'?>
+<diaporama autoplay='false' diapoDefaultTimeOut='5000' effectDefaultTimeOut='1000' textDefaultTimeOut='1000' toolbarAlign='LeftBottom'  toolbarColor='White' toolbarCounter='false' toolbarCounterColor='White'  toolbarMargin='40,40,40,40' fotoMargin='0,0,0,0' textMargin='40,40,40,80' aprid='diaporama'>
+<diapo foto='fondo.jpg'>
+<texto type='Georgia' size='50' style='Normal' color='White' align='CenterCenter' effectTimeOut='1500'>¿Qué es la cronología?</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='98428584.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='Black' align='CenterTop' effect='fadein' effectTimeOut='1500'>Medir el paso del tiempo#ha sido una de las preocupaciones#de todas las épocas.</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='fondo.jpg'>
+<texto type='Verdana' size='48' style='Normal' color='White' align='CenterCenter' effect='fadein' effectTimeOut='1500'>Se han utilizado distintos#sistemas:</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='01-001D6Y01.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='Black' align='RightTop' effect='fadein' effectTimeOut='1500'>Relojes de sol</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='02-000I8201.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Relojes de arena</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='03-001DB601.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='CenterTop' effect='fadein' effectTimeOut='1500'>Relojes de agua</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='04-0006PI01.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='RightTop' effect='fadein' effectTimeOut='1500'>Relojes mecánicos</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='05-000HV301.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>Calendario azteca</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='09-0007A001.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftCenter' effect='fadein' effectTimeOut='1500'>Calendarios agrícolas</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='fondo.jpg'>
+<texto type='Verdana' size='48' style='Normal' color='White' align='CenterCenter' effect='fadein' effectTimeOut='1500'>Algunas fechas han marcado#la historia.</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='08-pantocrator.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>año 1#Nacimiento de#Jesús de Nazaret</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='10-0009MZ01.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='Black' align='LeftTop' effect='fadein' effectTimeOut='1500'>1492#Colón alcanzó tierras americanas.</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='11-0009TD01.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>1939-1945#Segunda Guerra Mundial</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+<diapo foto='12-00086D01.jpg'>
+<texto type='Verdana' size='40' style='Normal' color='White' align='LeftTop' effect='fadein' effectTimeOut='1500'>1969#Neil Armstrong pisó la Luna.</texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+<texto type='Verdana' size='48' style='Normal' color='Black' align='RightTop' effectTimeOut='1500'></texto>
+</diapo>
+</diaporama>
+

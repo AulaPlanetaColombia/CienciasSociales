@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="2" clase="c" aprid="m2c">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Refuerza el aprendizaje: El Mesolítico</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M2C]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa el texto ubicando las palabras en el lugar correcto.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <sonido/>
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[El periodo Mesolítico es la etapa de transición comprendida entre el [*] y el [*]. Socialmente se organizaban en [*] de cazadores, pescadores, [*] y horticultores. 
+	  Una de las condiciones geográficas que les impedían permanecer en un solo lugar fue el cambio de estación [*], por lo tanto las comunidades humanas se [*] y buscaban refugios [*] durante el [*] y durante el [*] construían campamentos. A esta forma de vida se le conoce como [*] estacional.]]></pregunta>
+      <respuestas>
+        <respuesta orden="1">
+          <opcion correcta="1"><![CDATA[Paleolítico]]></opcion>
+          <opcion correcta="0"><![CDATA[Neolítico]]></opcion>
+          <opcion correcta="0"><![CDATA[Mesolítico]]></opcion>
+          <opcion correcta="0"><![CDATA[Elítico]]></opcion>
+        </respuesta>
+        <respuesta orden="2">
+          <opcion correcta="0"><![CDATA[Elítico]]></opcion>
+          <opcion correcta="0"><![CDATA[Paleolítico]]></opcion>
+          <opcion correcta="1"><![CDATA[Neolítico]]></opcion>
+          <opcion correcta="0"><![CDATA[Mesolítico]]></opcion>
+        </respuesta>
+        <respuesta orden="3">
+          <opcion correcta="0"><![CDATA[hordas]]></opcion>
+          <opcion correcta="1"><![CDATA[comunidades]]></opcion>
+          <opcion correcta="0"><![CDATA[naciones]]></opcion>
+          <opcion correcta="0"><![CDATA[grupos]]></opcion>
+        </respuesta>
+        <respuesta orden="4">
+          <opcion correcta="1"><![CDATA[recolectores]]></opcion>
+          <opcion correcta="0"><![CDATA[artesanos]]></opcion>
+          <opcion correcta="0"><![CDATA[comerciantes]]></opcion>
+          <opcion correcta="0"><![CDATA[ganaderos]]></opcion>
+        </respuesta>
+        <respuesta orden="5">
+          <opcion correcta="0"><![CDATA[húmeda]]></opcion>
+          <opcion correcta="0"><![CDATA[térmica]]></opcion>
+          <opcion correcta="1"><![CDATA[climática]]></opcion>
+          <opcion correcta="0"><![CDATA[seca]]></opcion>
+        </respuesta>
+        <respuesta orden="6">
+          <opcion correcta="0"><![CDATA[escondían]]></opcion>
+          <opcion correcta="0"><![CDATA[aglomeraban]]></opcion>
+          <opcion correcta="0"><![CDATA[estacionaban]]></opcion>
+          <opcion correcta="1"><![CDATA[desplazaban]]></opcion>
+        </respuesta>
+        <respuesta orden="7">
+          <opcion correcta="0"><![CDATA[artificiales]]></opcion>
+          <opcion correcta="1"><![CDATA[naturales]]></opcion>
+          <opcion correcta="0"><![CDATA[ficticios]]></opcion>
+          <opcion correcta="0"><![CDATA[imaginarios]]></opcion>
+        </respuesta>
+        <respuesta orden="8">
+          <opcion correcta="1"><![CDATA[invierno]]></opcion>
+          <opcion correcta="0"><![CDATA[primavera]]></opcion>
+          <opcion correcta="0"><![CDATA[verano]]></opcion>
+          <opcion correcta="0"><![CDATA[otoño]]></opcion>
+        </respuesta>
+        <respuesta orden="9">
+          <opcion correcta="0"><![CDATA[invierno]]></opcion>
+          <opcion correcta="0"><![CDATA[otoño]]></opcion>
+          <opcion correcta="1"><![CDATA[verano]]></opcion>
+          <opcion correcta="0"><![CDATA[primavera]]></opcion>
+        </respuesta>
+        <respuesta orden="10">
+          <opcion correcta="0"><![CDATA[nomadismo]]></opcion>
+          <opcion correcta="0"><![CDATA[comunismo]]></opcion>
+          <opcion correcta="1"><![CDATA[sedentarismo]]></opcion>
+          <opcion correcta="0"><![CDATA[primitivismo]]></opcion>
+        </respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <temps>15</temps>
+</motor>

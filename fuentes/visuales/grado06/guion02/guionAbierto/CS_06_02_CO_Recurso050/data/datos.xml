@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="a" aprid="M5a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Identifica las características del paleolítico</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia><![CDATA[ms_3c_07_05]]></referencia>
+    <id_reg><![CDATA[95]]></id_reg>
+    <motor><![CDATA[M5a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Observa las siguientes imágenes y responde a las preguntas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué material utilizaron los hombres y mujeres de la prehistoria para fabricar sus herramientas líticas?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[0008h101_500.png]]></imagen>
+      <ampliacion><![CDATA[0008h101_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Madera" correcta="0"/>
+        <respuesta contestacion="Sílex" correcta="1"/>
+        <respuesta contestacion="Huesos" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué actividades realizaban las comunidades del Paleolítico para conseguir el alimento? ]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[000h2q01_500.png]]></imagen>
+      <ampliacion><![CDATA[000h2q01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Caza y recolección." correcta="1"/>
+        <respuesta contestacion="Agricultura y ganadería." correcta="0"/>
+        <respuesta contestacion="Trueque y comercio." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué tipo de homínido era Lucy?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[0009vc01_500.png]]></imagen>
+      <ampliacion><![CDATA[0009vc01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Australopithecus" correcta="1"/>
+        <respuesta contestacion="Neandertal" correcta="0"/>
+        <respuesta contestacion="Homo sapiens" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué época vivieron los neandertales?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[000lbq01_500.png]]></imagen>
+      <ampliacion><![CDATA[000lbq01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="120000-35000 a.C." correcta="1"/>
+        <respuesta contestacion="100000-40000 a.C." correcta="0"/>
+        <respuesta contestacion="500000 a.C." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué elemento descubrió el Homo erectus?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[0009tk01_500.png]]></imagen>
+      <ampliacion><![CDATA[0009tk01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Fuego" correcta="1"/>
+        <respuesta contestacion="Sílex" correcta="0"/>
+        <respuesta contestacion="Cobre" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue el primer homínido en utilizar herramientas?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[000wsr01_500.png]]></imagen>
+      <ampliacion><![CDATA[000wsr01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Homo habilis" correcta="1"/>
+        <respuesta contestacion="Homo sapiens" correcta="0"/>
+        <respuesta contestacion="Homo heidelbergensis" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles eran los animales más representados en las cavernas paleolíticas?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[000me101_500.png]]></imagen>
+      <ampliacion><![CDATA[000me101_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Caballos, toros y ciervos." correcta="1"/>
+        <respuesta contestacion="Caballos, camellos y cerdos." correcta="0"/>
+        <respuesta contestacion="Caballos, ciervos y jabalís." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué tipo de tecnología es característica del paleolítico?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[000ag501_500.png]]></imagen>
+      <ampliacion><![CDATA[000ag501_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Piedra tallada." correcta="1"/>
+        <respuesta contestacion="Piedra pulimentada." correcta="0"/>
+        <respuesta contestacion="Piedra forjada." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>10</temps>
+</motor>

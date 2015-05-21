@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="12" clase="a" aprid="M12a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Identifica a nuestros antepasados</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia><![CDATA[ms_3c_07_02]]></referencia>
+    <id_reg><![CDATA[23]]></id_reg>
+    <motor><![CDATA[M12a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Ordena cronológicamente, de más antiguo a más reciente, los siguientes homínidos.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <orden ini="Australopithecus" fi="Homo sapiens"/>
+  <elementos>
+    <elemento contestacion="Homo habilis" orden="1"/>
+    <elemento contestacion="Homo erectus" orden="2"/>
+    <elemento contestacion="Homo neanderthalensis" orden="3"/>
+  </elementos>
+  <temps>10</temps>
+</motor>
