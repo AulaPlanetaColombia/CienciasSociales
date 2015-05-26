@@ -1,0 +1,484 @@
+<mapa>
+  <copyright>(c) Editorial Planeta</copyright>
+  <version>1.0</version>
+  <objeto>
+    <ref>00</ref>
+    <texto>Periodo entre Guerras</texto>
+    <hijos>10</hijos>
+    <padre/>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>10</ref>
+    <texto/>
+    <hijos>20,21,22</hijos>
+    <padre>00</padre>
+    <siz>14</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>20</ref>
+    <texto>Revolución Rusa (1917-1921)</texto>
+    <hijos>30,31</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>21</ref>
+    <texto>Década 1920</texto>
+    <hijos>32,33</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>22</ref>
+    <texto>Fascismo (1922-1945)</texto>
+    <hijos>34,35,36</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto>se enfrento a</texto>
+    <hijos>40</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>Absolutismo del zar Nicolás II</texto>
+    <hijos/>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>liderada por</texto>
+    <hijos>41</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>Lenin</texto>
+    <hijos>50</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto>estableció</texto>
+    <hijos>60</hijos>
+    <padre>41</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>reparto de tierras - comités obreros - NEP</texto>
+    <hijos/>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto>se caracterizó por</texto>
+    <hijos>42</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>Crecimiento económico</texto>
+    <hijos>51</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>33</ref>
+    <texto>finalizó con</texto>
+    <hijos>43</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>43</ref>
+    <texto>crack 1929 (Nueva York)</texto>
+    <hijos>52</hijos>
+    <padre>33</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>posterior a</texto>
+    <hijos>61</hijos>
+    <padre>42</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>Primera guerra mundial</texto>
+    <hijos>70</hijos>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto>basado en</texto>
+    <hijos>80</hijos>
+    <padre>61</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>Producción en cadena y consumismo</texto>
+    <hijos>90</hijos>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>90</ref>
+    <texto>a partir del</texto>
+    <hijos>a0</hijos>
+    <padre>80</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a0</ref>
+    <texto>Endeudamiento privado</texto>
+    <hijos/>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>provocado por</texto>
+    <hijos>62</hijos>
+    <padre>43</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto>- Especulación bursátil- Caída de precios- Acomulación de mercancías</texto>
+    <hijos>71</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto>llevó a</texto>
+    <hijos>81</hijos>
+    <padre>62</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>La Gran Depresión</texto>
+    <hijos>91</hijos>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>91</ref>
+    <texto>provocó</texto>
+    <hijos>a1</hijos>
+    <padre>81</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a1</ref>
+    <texto>- Quiebra de empresas- Aumento del paro - Descenso del consumo</texto>
+    <hijos/>
+    <padre>91</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>34</ref>
+    <texto>surgío en</texto>
+    <hijos>44</hijos>
+    <padre>22</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>44</ref>
+    <texto>Italia</texto>
+    <hijos>53</hijos>
+    <padre>34</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>35</ref>
+    <texto>triunfó en</texto>
+    <hijos>45</hijos>
+    <padre>22</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>45</ref>
+    <texto>Alemania</texto>
+    <hijos>54</hijos>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>36</ref>
+    <texto>amenazó en</texto>
+    <hijos>46</hijos>
+    <padre>22</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>46</ref>
+    <texto>Democracias liberales</texto>
+    <hijos/>
+    <padre>36</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>53</ref>
+    <texto>liderado por</texto>
+    <hijos>63</hijos>
+    <padre>44</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>Benito Mussolini</texto>
+    <hijos>72</hijos>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>72</ref>
+    <texto>se basó en</texto>
+    <hijos>82</hijos>
+    <padre>63</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>- Estado totalitario - Partido único - Corporativismo - Militarismo - Nacionalismo extremo</texto>
+    <hijos/>
+    <padre>72</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>54</ref>
+    <texto>liderado por</texto>
+    <hijos>64</hijos>
+    <padre>45</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>Adolf Hitler</texto>
+    <hijos>73,74</hijos>
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>73</ref>
+    <texto>fundó</texto>
+    <hijos>83</hijos>
+    <padre>64</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>83</ref>
+    <texto>Partido Nazi</texto>
+    <hijos>92</hijos>
+    <padre>73</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>74</ref>
+    <texto>instauró</texto>
+    <hijos>84</hijos>
+    <padre>64</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>84</ref>
+    <texto>Tercer Reich</texto>
+    <hijos>93</hijos>
+    <padre>74</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>92</ref>
+    <texto>que profesó</texto>
+    <hijos>a2,a3</hijos>
+    <padre>83</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a2</ref>
+    <texto>Superioridad de la raza aria</texto>
+    <hijos/>
+    <padre>92</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a3</ref>
+    <texto>Antisemitismo</texto>
+    <hijos/>
+    <padre>92</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>93</ref>
+    <texto>se caracterizó por</texto>
+    <hijos>a4</hijos>
+    <padre>84</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a4</ref>
+    <texto>- Estado totalitario - Militarismo - Nacionalismo extremo - Expansionismo alemán</texto>
+    <hijos/>
+    <padre>93</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+</mapa>
