@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f8">
+  <main title="Las cortes medievales" bkColor="#FFFFFF" titleColor="#000000" theme="black" buttonsWidth="250" buttonsHeight="47" trans="">
+    <default>
+      <img path="1.jpg" x="320" y="100" width="" height="470" />
+    </default>
+    <buttons>
+      <button title="Convocatoria de cortes">
+        <img path="2.jpg" x="" y="" width="" height="400" anim="" />
+      </button>
+      <button title="Primera sesión">
+        <img path="3.jpg" x="" y="" width="" height="470" anim="" />
+      </button>
+      <button title="Reunión de los estamentos">
+        <img path="4.jpg" x="" y="" width="" height="470" anim="" />
+      </button>
+      <button title="Sesión final">
+        <img path="5.jpg" x="" y="" width="" height="470" anim="" />
+      </button>
+    </buttons>
+  </main>
+  <practica actividad="" boton="¿Te atreves?" boton2="">
+    <pantalla1><![CDATA[<p><span style="font-size:26px">Sesi&oacute;n de cortes</span></p>
+
+<p>El reino<img alt="" src="data/imagenes/6.jpg" style="float:right; height:326px; margin:0px 5px; width:400px" /> de Silvania lleva a&ntilde;os luchando contra sus enemigos y las arcas del rey comienzan a vaciarse.</p>
+
+<p>El monarca necesita dinero para&nbsp;sufragar los costes de la guerra, pero las ciudades, en otro tiempo pr&oacute;speras, sufren una grave crisis por la competencia de los mercaderes extranjeros.</p>
+
+<p>Las cortes del reino han sido convocadas.<br />
+&iexcl;Acudid y haced valer los intereses&nbsp;de vuestro estamento!</p>
+
+<p>&nbsp;</p>
+]]></pantalla1>
+  </practica>
+</engine>

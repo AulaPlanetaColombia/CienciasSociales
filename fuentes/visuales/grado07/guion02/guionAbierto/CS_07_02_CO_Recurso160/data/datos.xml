@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="4" clase="a" aprid="M4a">
+  <enunciado>Lee las siguientes afirmaciones y di si son verdaderas o falsas.</enunciado>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado>Aunque los reyes eran la máxima autoridad política durante la alta edad media, no dejaban de ser un señor feudal más.</enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="1" />
+        <respuesta contestacion="Falso" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>El poder del rey emanaba directamente del pueblo, representado en los parlamentos.</enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="0" />
+        <respuesta contestacion="Falso" correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>Las cortes medievales eran de tipo estamental, ya que se reunían los representantes de la nobleza, el clero y las ciudades.</enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="1" />
+        <respuesta contestacion="Falso" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>El brazo eclesiástico representaba no solo a la Iglesia, sino también a campesinos, artesanos y pobres.</enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="0" />
+        <respuesta contestacion="Falso" correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>Las cortes limitaban el poder de los reyes, pues estos dependían de los impuestos o servicios que aquellas aprobasen.</enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="1" />
+        <respuesta contestacion="Falso" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>Los parlamentos se reunían de forma regular, una vez al año.</enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="0" />
+        <respuesta contestacion="Falso" correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>Con la convocatoria de cortes, los reyes de la baja edad media buscaban reducir el poder de la nobleza gracias al apoyo de las ciudades.</enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="1" />
+        <respuesta contestacion="Falso" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>La dieta y los Estados Generales eran los nombres de los parlamentos de Inglaterra y Francia respectivamente.</enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="0" />
+        <respuesta contestacion="Falso" correcta="1" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce el valor de las cortes medievales</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[cs_08_11_08]]></referencia>
+    <id_reg><![CDATA[244]]></id_reg>
+    <motor><![CDATA[M4a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

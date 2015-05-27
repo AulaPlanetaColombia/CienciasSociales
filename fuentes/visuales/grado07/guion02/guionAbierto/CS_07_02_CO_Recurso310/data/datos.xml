@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="9" clase="b" aprid="M9b">
+  <enunciado>Sitúa correctamente las partes del retablo que se señalan.</enunciado>
+  <imagen><![CDATA[cs081312_286.png]]></imagen>
+  <ampliacion><![CDATA[cs081312_500.png]]></ampliacion>
+  <textoatexto cantidad="6">
+    <cuestion>
+      <pregunta>1</pregunta>
+      <respuesta>Santo titular</respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta>2</pregunta>
+      <respuesta>Banco</respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta>3</pregunta>
+      <respuesta>Espina o ático</respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta>4</pregunta>
+      <respuesta>Guardapolvo</respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta>5</pregunta>
+      <respuesta>Calle central</respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta>6</pregunta>
+      <respuesta>Calle lateral</respuesta>
+    </cuestion>
+  </textoatexto>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce las partes de un retablo</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[3]]></nivel>
+    <referencia><![CDATA[cs_08_13_12]]></referencia>
+    <id_reg><![CDATA[102]]></id_reg>
+    <motor><![CDATA[M9b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

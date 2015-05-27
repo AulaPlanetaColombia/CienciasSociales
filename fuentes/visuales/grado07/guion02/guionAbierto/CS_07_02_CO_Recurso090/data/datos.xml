@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="4" clase="a" aprid="M4a">
+  <enunciado><![CDATA[Elige la respuesta correcta.]]></enunciado>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[¿Dónde se instalaron los visigodos?]]></enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="En Hispania." correcta="1" />
+        <respuesta contestacion="En Italia." correcta="0" />
+        <respuesta contestacion="En la Galia." correcta="0" />
+        <respuesta contestacion="En Germania." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién fue el primer emperador carolingio?]]></enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Pipino el Breve." correcta="0" />
+        <respuesta contestacion="Carlomagno." correcta="1" />
+        <respuesta contestacion="Carlos Martel." correcta="0" />
+        <respuesta contestacion="Carlomán." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál era el sistema político, económico y social de la edad media?]]></enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="El esclavismo." correcta="0" />
+        <respuesta contestacion="El capitalismo." correcta="0" />
+        <respuesta contestacion="El feudalismo." correcta="1" />
+        <respuesta contestacion="El caciquismo." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué se dividía la sociedad feudal?]]></enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="En clases." correcta="0" />
+        <respuesta contestacion="En castas." correcta="0" />
+        <respuesta contestacion="En estamentos." correcta="1" />
+        <respuesta contestacion="En tribus." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quiénes eran los siervos?]]></enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Campesinos libres." correcta="0" />
+        <respuesta contestacion="Campesinos ligados a la tierra." correcta="1" />
+        <respuesta contestacion="Artesanos." correcta="0" />
+        <respuesta contestacion="Mendigos." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cómo era el Dios altomedieval?]]></enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Bondadoso y misericordioso." correcta="0" />
+        <respuesta contestacion="Omnipotente y justiciero." correcta="1" />
+        <respuesta contestacion="Vengativo y cruel." correcta="0" />
+        <respuesta contestacion="Caprichoso y sanguinario." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue la única cruzada que consiguió su objetivo?]]></enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="La tercera." correcta="0" />
+        <respuesta contestacion="La quinta." correcta="0" />
+        <respuesta contestacion="La octava." correcta="0" />
+        <respuesta contestacion="La primera." correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál era la sala más importante del monasterio?]]></enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="La sala capitular." correcta="1" />
+        <respuesta contestacion="El refectorio." correcta="0" />
+        <respuesta contestacion="El claustro." correcta="0" />
+        <respuesta contestacion="La biblioteca." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál era el edificio más representativo de la alta edad media?]]></enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="El castillo." correcta="1" />
+        <respuesta contestacion="La catedral." correcta="0" />
+        <respuesta contestacion="El palacio." correcta="0" />
+        <respuesta contestacion="El circo." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibían las tierras del noble?]]></enunciado>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Finca" correcta="0" />
+        <respuesta contestacion="Feudo" correcta="1" />
+        <respuesta contestacion="Alodio" correcta="0" />
+        <respuesta contestacion="Fuego" correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Refuerza tu aprendizaje: la Alta Edad Media</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[3]]></nivel>
+    <referencia><![CDATA[cs_08_08_13]]></referencia>
+    <id_reg><![CDATA[13]]></id_reg>
+    <motor><![CDATA[M4a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

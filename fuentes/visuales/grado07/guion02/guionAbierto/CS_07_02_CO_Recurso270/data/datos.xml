@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="5" clase="a" aprid="M5a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Identifica los principales elementos de los edificios góticos</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[3]]></nivel>
+    <referencia><![CDATA[cs_08_13_05]]></referencia>
+    <id_reg><![CDATA[119]]></id_reg>
+    <motor><![CDATA[M5a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Observa las imágenes y responde a las preguntas.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué tipo de bóveda se desprende de la sucesión de arcos ojivales?]]></enunciado>
+      <explicacion />
+      <imagen><![CDATA[000r4f01_286.png]]></imagen>
+      <ampliacion><![CDATA[000r4f01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="De crucería." correcta="1" />
+        <respuesta contestacion="De cañón." correcta="0" />
+        <respuesta contestacion="Polilobulada." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué elementos propios de la arquitectura gótica pueden apreciarse en esta imagen?]]></enunciado>
+      <explicacion />
+      <imagen><![CDATA[000ica01_286.png]]></imagen>
+      <ampliacion><![CDATA[000ica01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Bóveda de crucería y contrafuertes." correcta="0" />
+        <respuesta contestacion="Rosetón y vidrieras." correcta="1" />
+        <respuesta contestacion="Arquivoltas y vidrieras." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue el edificio más representativo de la arquitectura gótica?]]></enunciado>
+      <explicacion />
+      <imagen><![CDATA[001bzz01_286.png]]></imagen>
+      <ampliacion><![CDATA[001bzz01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Universidad" correcta="0" />
+        <respuesta contestacion="Lonja" correcta="0" />
+        <respuesta contestacion="Catedral" correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibe el contrafuerte en forma de arco que descarga el empuje lateral de un edificio?]]></enunciado>
+      <explicacion />
+      <imagen><![CDATA[0009mt01_286.png]]></imagen>
+      <ampliacion><![CDATA[0009mt01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Contrafuerte" correcta="0" />
+        <respuesta contestacion="Arbotante" correcta="1" />
+        <respuesta contestacion="Arquivolta" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibe el elemento que corona los contrafuertes de los edificios góticos?]]></enunciado>
+      <explicacion />
+      <imagen><![CDATA[0014gs01_286.png]]></imagen>
+      <ampliacion><![CDATA[0014gs01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Pináculo" correcta="1" />
+        <respuesta contestacion="Crucería" correcta="0" />
+        <respuesta contestacion="Rosetón" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es el tipo de arco utilizado por la arquitectura gótica?]]></enunciado>
+      <explicacion />
+      <imagen><![CDATA[00082801_286.png]]></imagen>
+      <ampliacion><![CDATA[00082801_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Arco de medio punto." correcta="0" />
+        <respuesta contestacion="Arco ojival." correcta="1" />
+        <respuesta contestacion="Arco de herradura." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Sobre qué elementos exteriores se repartía el peso de los edificios góticos?]]></enunciado>
+      <explicacion />
+      <imagen><![CDATA[00111a01_286.png]]></imagen>
+      <ampliacion><![CDATA[00111a01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Arbotantes y contrafuertes." correcta="1" />
+        <respuesta contestacion="Arcos fajones." correcta="0" />
+        <respuesta contestacion="Pilares." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué permitió el desarrollo de las técnicas constructivas introducidas por el gótico?]]></enunciado>
+      <explicacion />
+      <imagen><![CDATA[000ycr01_286.png]]></imagen>
+      <ampliacion><![CDATA[000ycr01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Alzar edificios más compactos que los del románico." correcta="0" />
+        <respuesta contestacion="Ampliar el grosor de los muros." correcta="0" />
+        <respuesta contestacion="Alzar edificios más altos y esbeltos." correcta="1" />
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

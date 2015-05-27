@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="4" clase="a" aprid="M4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Refuerza tu aprendizaje: el Imperio Bizantino</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[cs_07_12_07]]></referencia>
+    <id_reg><![CDATA[131]]></id_reg>
+    <motor><![CDATA[M4a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde a las siguientes preguntas sobre el Imperio Bizantino.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué otro nombre recibía el Imperio Romano de Oriente?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Imperio Bizantino." correcta="1"/>
+        <respuesta contestacion="Imperio Carolingio." correcta="0"/>
+        <respuesta contestacion="Imperio Visigodo." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál era la capital del Imperio Bizantino?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Aquisgrán" correcta="0"/>
+        <respuesta contestacion="Constantinopla" correcta="1"/>
+        <respuesta contestacion="Roma" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué era el `código de Justiniano´?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="El documento que sancionaba la división del Imperio." correcta="0"/>
+        <respuesta contestacion="El alfabeto griego creado por los sabios bizantinos." correcta="0"/>
+        <respuesta contestacion="La recopilación de las leyes romanas." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál de los siguientes territorios no formaba parte del Imperio Bizantino?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Germania" correcta="1"/>
+        <respuesta contestacion="Grecia" correcta="0"/>
+        <respuesta contestacion="Egipto" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál era la lengua oficial de Bizancio?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="El latín." correcta="0"/>
+        <respuesta contestacion="El griego." correcta="1"/>
+        <respuesta contestacion="El bizantino." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué edificio mandó construir Justiniano I?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La catedral de Santiago de Compostela." correcta="0"/>
+        <respuesta contestacion="La basílica de San Pedro, en Roma." correcta="0"/>
+        <respuesta contestacion="La basílica de Santa Sofía, en Istanbul." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue el emperador bizantino más importante?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Justiniano I" correcta="1"/>
+        <respuesta contestacion="Carlomagno" correcta="0"/>
+        <respuesta contestacion="Abd ar-Rahman I" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibe la separación entre la Iglesia romana y la Iglesia ortodoxa?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Cisma de Occidente." correcta="0"/>
+        <respuesta contestacion="Cisma de Oriente." correcta="1"/>
+        <respuesta contestacion="Concilio de Trento." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué imperio sustituyó al Imperio Bizantino?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="El Imperio Austrohúngaro." correcta="0"/>
+        <respuesta contestacion="El Sacro Imperio Romano Germánico." correcta="0"/>
+        <respuesta contestacion="El Imperio Otomano." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué año marca el fin del Imperio Bizantino?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="1453" correcta="1"/>
+        <respuesta contestacion="1492" correcta="0"/>
+        <respuesta contestacion="1350" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

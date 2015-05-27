@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Autoevaluación. Evalúa tus conocimientos sobre el feudalismo</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Escoge una o más respuestas para cada pregunta.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibía el “contrato” por el cual, los soberanos y la alta nobleza concedían tierras o rentas en usufructo, obligando a quien las recibía a guardar fidelidad de vasallo con quien le daba la tierra?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Vasallaje" correcta="0"/>
+        <respuesta contestacion="Feudo" correcta="1"/>
+        <respuesta contestacion="Burguesía" correcta="0"/>
+        <respuesta contestacion="Gremio" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles son las características que definen a la Alta Edad Media?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="El vasallaje" correcta="1"/>
+        <respuesta contestacion="Sociedad muy jerarquizada" correcta="1"/>
+        <respuesta contestacion="El comercio" correcta="0"/>
+        <respuesta contestacion="Una economía de subsistencia" correcta="1"/>
+        <respuesta contestacion="La cultura estaba condicionada por el cristianismo" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Durante la Alta Edad Media el arte se convirtió en una herramienta ¿para qué? ]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Crear conciencia sobre la falta de libertad de los siervos" correcta="0"/>
+        <respuesta contestacion="La transmisión del cristianismo" correcta="1"/>
+        <respuesta contestacion="Contar sobre hazañas de los caballeros " correcta="0"/>
+        <respuesta contestacion="Los señores feudales ocuparan su tiempo libre" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué culturas influenciaron al arte bizantino?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La cultura clásica griega" correcta="1"/>
+        <respuesta contestacion="La cultura islámica" correcta="0"/>
+        <respuesta contestacion="Las culturas germánicas" correcta="0"/>
+        <respuesta contestacion="La cultura clásica romana" correcta="1"/>
+        <respuesta contestacion="La cultura árabe" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué características definen a la Baja Edad Media?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Consolidación de monarquías" correcta="1"/>
+        <respuesta contestacion="Resurgir del mundo rural" correcta="0"/>
+        <respuesta contestacion="La desaparición del comercio" correcta="0"/>
+        <respuesta contestacion="Auge de la burguesía" correcta="1"/>
+        <respuesta contestacion="Resurgir del mundo urbano" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué es la burguesía?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Clase social formada por comerciantes, artesanos y personas no sometidas a los señores " correcta="1"/>
+        <respuesta contestacion="Familias ricas y con privilegios en las cortes" correcta="0"/>
+        <respuesta contestacion="Grupo de artesanos libres que vivían en las ciudades" correcta="0"/>
+        <respuesta contestacion="Todas las personas que vivían en las ciudades " correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Por qué fueron importantes las ciudades en la Baja Edad Media?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Tenía grandes construcciones " correcta="0"/>
+        <respuesta contestacion="En ellas vivía la mayor parte de la población" correcta="0"/>
+        <respuesta contestacion="Fueron los centros de intercambio comercial" correcta="1"/>
+        <respuesta contestacion="Allí era posible controlar las epidemias de la peste" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles son las características de la economía de la Baja Edad Media?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Aumento de la producción agrícola" correcta="1"/>
+        <respuesta contestacion="Empleo de nuevas técnicas agrícolas" correcta="1"/>
+        <respuesta contestacion="Activación del comercio " correcta="1"/>
+        <respuesta contestacion="Reaparición de la moneda" correcta="1"/>
+        <respuesta contestacion="Surgen nuevas formas de pago como la letra de cambio" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Por qué la sede de corte papal se trasladó de Roma a Aviñón (Francia)?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Para poner a salvo al papa dados los conflictos que había en Italia" correcta="0"/>
+        <respuesta contestacion="El papado se negó a pagar impuestos y entró en conflicto con Felipe IV" correcta="1"/>
+        <respuesta contestacion="Aviñón era una ciudad con un importante número de población católica" correcta="0"/>
+        <respuesta contestacion="Felipe IV hace que se elija un papa francés" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles fueron los nuevos estilos artísticos de la Baja Edad Media?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="El gótico" correcta="1"/>
+        <respuesta contestacion="El bizantino" correcta="0"/>
+        <respuesta contestacion="El mudéjar" correcta="1"/>
+        <respuesta contestacion="El mozárabe" correcta="0"/>
+        <respuesta contestacion="El románico" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>30</temps>
+</motor>

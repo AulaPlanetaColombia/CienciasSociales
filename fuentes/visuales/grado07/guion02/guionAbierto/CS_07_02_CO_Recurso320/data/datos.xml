@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="5" clase="b" aprid="M5b">
+  <enunciado>Responde a las preguntas después de ver el video sobre el arte mudéjar.</enunciado>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado>¿En qué siglos se desarrolló el arte mudéjar en la península Ibérica?</enunciado>
+      <video>VI002012_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Del siglo XI al siglo XV." correcta="0" />
+        <respuesta contestacion="Del siglo XII al siglo XVI." correcta="1" />
+        <respuesta contestacion="Del siglo XII al s.XVII." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué elementos combina el arte mudéjar?</enunciado>
+      <video>VI002012_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Arte cristiano y judío." correcta="0" />
+        <respuesta contestacion="Arte judío y musulmán." correcta="0" />
+        <respuesta contestacion="Arte cristiano y musulmán." correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Cuáles son las características del arte mudéjar?</enunciado>
+      <video>VI002012_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Uso de ladrillo, cubiertas de madera y armaduras moriscas." correcta="1" />
+        <respuesta contestacion="Arco de medio punto, bóveda de cañón y planta de cruz latina." correcta="0" />
+        <respuesta contestacion="Uso de los órdenes clásicos y el arco de medio punto." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Cómo se llama y en qué época transcurrió el primer período mudéjar?</enunciado>
+      <video>VI002012_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Románico de ladrillo (ss. XII-XIII)." correcta="1" />
+        <respuesta contestacion="Románico de ladrillo (ss. XII-XVI)." correcta="0" />
+        <respuesta contestacion="Gótico mudéjar (ss. XII-XIV)." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Cómo se llama y en qué época transcurrió el segundo período mudéjar?</enunciado>
+      <video>VI002012_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Gótico mudéjar (ss. XIV-XV)." correcta="1" />
+        <respuesta contestacion="Gótico mudéjar (ss. XIV-XVI)." correcta="0" />
+        <respuesta contestacion="Gótico flamígero (ss. XIII-XV)." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué características definen el gótico mudéjar?</enunciado>
+      <video>VI002012_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Pobre ornamentación interior y elementos bizantinos." correcta="0" />
+        <respuesta contestacion="Lujosa ornamentación interior y elementos andalusíes." correcta="1" />
+        <respuesta contestacion="Lujosa ornamentación exterior y elementos judíos." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿En qué disciplinas artísticas se manifestó el arte mudéjar?</enunciado>
+      <video>VI002012_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Solo en arquitectura." correcta="0" />
+        <respuesta contestacion="En arquitectura, cerámica, tallas de madera, alfombras y metales." correcta="1" />
+        <respuesta contestacion="Solo en arquitectura y escultura." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿En qué zona de la península Ibérica se desarrolló más el mudéjar?</enunciado>
+      <video>VI002012_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Castilla" correcta="0" />
+        <respuesta contestacion="Aragón" correcta="0" />
+        <respuesta contestacion="Andalucía" correcta="1" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce las características del arte mudéjar</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[3]]></nivel>
+    <referencia><![CDATA[cs_08_13_08]]></referencia>
+    <id_reg><![CDATA[121]]></id_reg>
+    <motor><![CDATA[M5b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

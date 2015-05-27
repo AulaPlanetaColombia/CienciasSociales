@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="1" clase="b" aprid="M1b">
+  <enunciado>Relaciona los conceptos de la columna de la izquierda con las descripciones de la columna de la derecha.</enunciado>
+  <textoatexto cantidad="5">
+    <cuestion>
+      <pregunta>Arado de vertedera</pregunta>
+      <respuesta>Permitió hacer unos surcos más profundos y voltear la tierra para favorecer la aireación del suelo.</respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta>Collera rígida y yugo</pregunta>
+      <respuesta>Permitieron mejorar la tracción, ya que reemplazaban a las antiguas correas que, sujetas al cuello, asfixiaban al animal.</respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta>Herradura</pregunta>
+      <respuesta>Sustituyó las caperuzas de cuero y hierro utilizadas por los romanos para proteger las pezuñas de los animales de tiro.</respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta>Molinos</pregunta>
+      <respuesta>Su uso se generalizó de forma rápida y fueron utilizados para producir harina, cerveza, papel, paños, etc.</respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta>Rotación de cultivos</pregunta>
+      <respuesta>Las tierras se dividieron en tres partes destinadas, respectivamente, al barbecho, al cereal y a las leguminosas.</respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0">
+  </textofalso>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce las innovaciones agrarias medievales</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia><![CDATA[cs_08_11_02]]></referencia>
+    <id_reg><![CDATA[68]]></id_reg>
+    <motor><![CDATA[M1b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

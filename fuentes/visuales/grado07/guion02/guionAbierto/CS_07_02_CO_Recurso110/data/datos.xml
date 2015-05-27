@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="5" clase="b" aprid="M5b">
+  <enunciado>Después de ver el vídeo, responde a las preguntas.</enunciado>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado>¿De qué tradición es heredero el arte bizantino?</enunciado>
+      <video>VIN00035_MINI.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Romana y paleocristiana." correcta="1" />
+        <respuesta contestacion="Árabe y griega." correcta="0" />
+        <respuesta contestacion="Persa y románica." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Durante el reinado de qué emperador se alcanzaron unos rasgos bien definidos del arte bizantino?</enunciado>
+      <video>VIN00035_MINI.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Justiniano" correcta="1" />
+        <respuesta contestacion="Constantino" correcta="0" />
+        <respuesta contestacion="Teodoro" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué expresión artística es heredera del arte bizantino?</enunciado>
+      <video>VIN00035_MINI.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Iconos rusos." correcta="1" />
+        <respuesta contestacion="Catedrales góticas." correcta="0" />
+        <respuesta contestacion="Escultura griega." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Cuáles son las facetas más conocidas del arte bizantino?</enunciado>
+      <video>VIN00035_MINI.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Arquitectura, mosaicos murales, arte del marfil y esmaltes." correcta="1" />
+        <respuesta contestacion="Escultura y pintura sobre tabla." correcta="0" />
+        <respuesta contestacion="Arquitectura y escultura monumental." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Cuál fue el mayor logro arquitectónico del arte bizantino?</enunciado>
+      <video>VIN00035_MINI.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Grandes bóvedas." correcta="1" />
+        <respuesta contestacion="Pináculos y arbotantes." correcta="0" />
+        <respuesta contestacion="Vidrieras y rosetones." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Cuál es el edificio más representativo del arte bizantino?</enunciado>
+      <video>VIN00035_MINI.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Santa Sofía, en Constantinopla" correcta="1" />
+        <respuesta contestacion="San Vital, en Rávena." correcta="0" />
+        <respuesta contestacion="Santa María, en Estambul." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué dos personajes aparecen representados en los mosaicos de la iglesia de San Vital?</enunciado>
+      <video>VIN00035_MINI.mp4</video>
+      <respuestas>
+        <respuesta contestacion="El emperador Justiniano y su esposa Teodora." correcta="1" />
+        <respuesta contestacion="El emperador Teodoro y su esposa Justina." correcta="0" />
+        <respuesta contestacion="La emperatriz Teodora y su esposo Juliano." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué elementos evidencian el poder de la emperatriz en los mosaicos de San Vital?</enunciado>
+      <video>VIN00035_MINI.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Sus ropas y tocados." correcta="1" />
+        <respuesta contestacion="Su belleza." correcta="0" />
+        <respuesta contestacion="Su actitud orante." correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce las características del arte bizantino</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[cs_08_10_01]]></referencia>
+    <id_reg><![CDATA[66]]></id_reg>
+    <motor><![CDATA[M5b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

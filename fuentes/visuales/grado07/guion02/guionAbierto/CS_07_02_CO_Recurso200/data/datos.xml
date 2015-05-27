@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="5" clase="b" aprid="M5b">
+  <enunciado>Responde a las siguientes preguntas en torno al vídeo sobre el famoso Marco Polo.</enunciado>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado>¿En qué año partió Marco Polo junto a su padre y su tío hacia China?</enunciado>
+      <video>DI000441_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="1271" correcta="1" />
+        <respuesta contestacion="1370" correcta="0" />
+        <respuesta contestacion="1230" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Cuántos años tenía Marco Polo cuando inició su primer viaje hacia China?</enunciado>
+      <video>DI000441_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="17" correcta="1" />
+        <respuesta contestacion="20" correcta="0" />
+        <respuesta contestacion="14" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué importante desierto del centro de Asia atravesó la caravana en la que viajaba Marco Polo?</enunciado>
+      <video>DI000441_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Gobi" correcta="1" />
+        <respuesta contestacion="Sahara" correcta="0" />
+        <respuesta contestacion="Ormuz" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Cuánto tiempo tardó Marco Polo en llegar a la corte mongola del gran kan?</enunciado>
+      <video>DI000441_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Tres años y medio." correcta="1" />
+        <respuesta contestacion="Tres años." correcta="0" />
+        <respuesta contestacion="Medio año." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué tipo de actividades realizó Marco Polo para el gran kan?</enunciado>
+      <video>DI000441_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Administración y diplomacia." correcta="1" />
+        <respuesta contestacion="Interpretación y traducción." correcta="0" />
+        <respuesta contestacion="Consejo y asesoramiento legal." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Cuánto duró la estancia de Marco Polo en Asia?</enunciado>
+      <video>DI000441_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="De 1275 a 1291." correcta="1" />
+        <respuesta contestacion="De 1271 a 1295." correcta="0" />
+        <respuesta contestacion="De 1371 a 1295." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿De dónde era originario Marco Polo?</enunciado>
+      <video>DI000441_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="Venecia" correcta="1" />
+        <respuesta contestacion="Génova" correcta="0" />
+        <respuesta contestacion="Acre" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado>¿Qué título recibe el libro en que Marco Polo narró su experiencia en Asia?</enunciado>
+      <video>DI000441_LO.mp4</video>
+      <respuestas>
+        <respuesta contestacion="`Libro de las maravillas´." correcta="1" />
+        <respuesta contestacion="`Libro de Asia´." correcta="0" />
+        <respuesta contestacion="`Libro de la seda´." correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce quién fue Marco Polo</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[cs_08_11_05]]></referencia>
+    <id_reg><![CDATA[216]]></id_reg>
+    <motor><![CDATA[M5b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

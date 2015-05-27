@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="2" clase="a" aprid="M2a">
+  <enunciado><![CDATA[Rellena los huecos con la palabra que corresponda.]]></enunciado>
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[La mayor parte de la población medieval trabajaba la tierra. Los campesinos podían ser [*] o [*]. Los primeros podían ser [*] de tierras o bien jornaleros, pero estaban obligados a pagar al [*] unas [*] y trabajar en sus tierras unos días determinados a cambio de protección. Los siervos se ocupaban de las tierras señoriales. Vivían en condiciones de [*] a cambio de amparo y [*] y tenían prohibido abandonar el feudo sin el permiso del señor. La vida de los campesinos medievales estaba marcada por el calendario [*], que establecía festividades y celebraciones relacionadas con las labores del campo: siembra, siega, [*] o matanza. Siervos, campesinos, artesanos y población urbana formaban el grupo de los [*].]]></pregunta>
+      <respuestas>
+        <respuesta orden="1"><![CDATA[libres]]></respuesta>
+        <respuesta orden="2"><![CDATA[siervos]]></respuesta>
+        <respuesta orden="3"><![CDATA[propietarios]]></respuesta>
+        <respuesta orden="4"><![CDATA[señor feudal]]></respuesta>
+        <respuesta orden="5"><![CDATA[rentas]]></respuesta>
+        <respuesta orden="6"><![CDATA[semiesclavitud]]></respuesta>
+        <respuesta orden="7"><![CDATA[alimento]]></respuesta>
+        <respuesta orden="8"><![CDATA[agrícola]]></respuesta>
+        <respuesta orden="9"><![CDATA[cosecha]]></respuesta>
+        <respuesta orden="10"><![CDATA[no privilegiados]]></respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce cómo era la vida del campesino medieval</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[cs_08_08_12]]></referencia>
+    <id_reg><![CDATA[9]]></id_reg>
+    <motor><![CDATA[M2a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>
