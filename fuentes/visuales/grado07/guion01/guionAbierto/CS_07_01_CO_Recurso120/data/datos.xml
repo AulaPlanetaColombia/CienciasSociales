@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Autoevaluación. Evalúa tus conocimientos sobre el tema de la Edad Media</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde a las preguntas escogiendo entre las opciones propuestas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué hecho marca el fin de la Edad Antigua y el comienzo de la Edad Media?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La conquista del Reino de Toledo." correcta="0"/>
+        <respuesta contestacion="La caída del Imperio Romano de Occidente." correcta="0"/>
+        <respuesta contestacion="El nacimiento del Imperio Carolingio." correcta="0"/>
+        <respuesta contestacion="La caída del Imperio Romano de Oriente." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué reino germánico se formó en la Galia?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="El reino de los anglos." correcta="0"/>
+        <respuesta contestacion="El reino de los vándalos." correcta="0"/>
+        <respuesta contestacion="El reino de los francos." correcta="1"/>
+        <respuesta contestacion="El reino de los ostrogodos." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es uno de los rasgos distintivos de las iglesias bizantinas?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La planta de cruz griega." correcta="0"/>
+        <respuesta contestacion="El arco de herradura." correcta="1"/>
+        <respuesta contestacion="La planta de cruz latina." correcta="0"/>
+        <respuesta contestacion="El miranete." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre dieron los musulmanes a las tierras conquistadas en la península Ibérica?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Ifriqiya" correcta="0"/>
+        <respuesta contestacion="Hispania" correcta="0"/>
+        <respuesta contestacion="Magred" correcta="0"/>
+        <respuesta contestacion="Al-Andalus" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué factores produjeron la caída de Roma? Marca la respuesta incorrecta.]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Las invasiones germánicas." correcta="0"/>
+        <respuesta contestacion="Las dificultades económicas." correcta="0"/>
+        <respuesta contestacion="La crisis producida por varios terremotos y erupciones volcánicas." correcta="0"/>
+        <respuesta contestacion="Las luchas políticas." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué hecho marca el inicio del calendario musulmán?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La batalla de Guadalete en el 711." correcta="0"/>
+        <respuesta contestacion="La conquista de Damasco en el 635." correcta="0"/>
+        <respuesta contestacion="El nacimiento de Mahoma en el 570." correcta="1"/>
+        <respuesta contestacion="La hégira en el 622." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Dónde se situó la capital de los visigodos a partir del siglo VI?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="En Roma." correcta="1"/>
+        <respuesta contestacion="En Constantinopla." correcta="0"/>
+        <respuesta contestacion="En La Meca." correcta="0"/>
+        <respuesta contestacion="En Toledo." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Dónde se situó la primera capital del Imperio Islámico?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="En Persépolis." correcta="0"/>
+        <respuesta contestacion="En Bagdad." correcta="0"/>
+        <respuesta contestacion="En Damasco." correcta="0"/>
+        <respuesta contestacion="En Constantinopla." correcta="1"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>20</temps>
+</motor>
