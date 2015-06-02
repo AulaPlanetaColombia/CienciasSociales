@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="F12">
+  <main mode="f12" title="La independencia de las colonias americanas">
+    <tf />
+    <audio />
+    <audio2 path="" />
+    <video>DI000462_LO.mp4</video>
+  </main>
+  <understanding visible="true" title="" title2="" buttons="false" investiga="false">
+    <definition>
+      <title />
+      <def><![CDATA[<TextFlow><p><span color="#ff6600" fontSize="24">Comprensión</span></p><p><span fontSize="20"></span></p><p paragraphStartIndent="20" styleName="bullet"><span fontSize="20">¿Qué proceso condujo a la independencia de las colonias españolas en América?</span></p><p><span fontSize="20"></span></p><p paragraphStartIndent="20" styleName="bullet"><span fontSize="20">¿Qué situación vivieron las colonias españolas durante este proceso?</span></p></TextFlow>]]></def>
+    </definition>
+    <definition>
+      <title />
+      <def><![CDATA[<TextFlow><p><span color="#ff6600" fontSize="24">Comprensión</span></p><p><span fontSize="20"></span></p><p paragraphStartIndent="20" styleName="bullet"><span fontSize="20">¿Qué hicieron los cabildos americanos?</span></p><p><span fontSize="20"></span></p><p paragraphStartIndent="20" styleName="bullet"><span fontSize="20">¿Qué era la Junta de Caracas?</span></p><p><span fontSize="20"></span></p><p paragraphStartIndent="20" styleName="bullet"><span fontSize="20">¿Qué pasó con las colonias a partir de 1811?</span></p></TextFlow>]]></def>
+    </definition>
+    <definition>
+      <title />
+      <def><![CDATA[<TextFlow><p><span color="#ff6600" fontSize="24">Comprensión</span></p><p><span fontSize="20"></span></p><p paragraphStartIndent="20" styleName="bullet"><span fontSize="20">¿Cuáles consideráis que fueron las razones que motivaron la independencia de las colonias españolas en América?</span><span fontSize="18"> </span></p><p><span fontSize="20"></span></p><p paragraphStartIndent="20" styleName="bullet"><span fontSize="20">¿Cómo actuó España al concluir la guerra?</span></p></TextFlow>]]></def>
+    </definition>
+    <definition>
+      <title />
+      <def><![CDATA[<TextFlow><p><span color="#ff6600" fontSize="24">Comprensión</span></p><p><span fontSize="20"></span></p><p paragraphStartIndent="20" styleName="bullet"><span fontSize="20">¿Consiguió España retornar a la situación previa a la guerra de la Independencia? </span></p><p><span fontSize="18"></span></p><p paragraphStartIndent="20" styleName="bullet"><span fontSize="20">¿Qué colonias americanas siguieron dependiendo de España hasta finales del siglo XIX?</span></p></TextFlow>]]></def>
+    </definition>
+    <definition>
+      <title />
+      <def />
+    </definition>
+  </understanding>
+  <reaserch visible="true" title="" title2="Investiga" buttons="false" investiga="false">
+    <definition>
+      <title />
+      <def><![CDATA[<TextFlow><p><span color="#ff6600" fontSize="24">Investiga</span></p><p><span fontSize="16"></span></p><p><span fontSize="14">El lazo que la unía [América] a España está cortado […]. Más grande es el odio que nos ha inspirado la Península que el mar que nos separa de ella […]. El hábito a la obediencia, un comercio de intereses, de luces, de religión, una tierna solicitud por la cuna y la gloria de nuestros padres; en fin, todo lo que formaba nuestra esperanza nos venía de España […]. Al presente sucede lo contrario. […] Todo lo sufrimos de esa desnaturalizada madrastra. El velo se ha rasgado y hemos visto la luz y se nos quiere volver a las tinieblas: se han roto las cadenas, ya hemos sido libres, y nuestros enemigos pretenden de nuevo esclavizarnos. </span></p><p><span fontSize="14"></span></p><p><span fontSize="14">No somos indios, ni europeos, sino una especie mezcla entre los legítimos propietarios del país y los usurpadores españoles. En suma, siendo nosotros americanos por nacimiento, y nuestros derechos los de Europa, tenemos que disputar a estos a los del país, y que mantenernos en él contra la invasión de los invasores.</span></p><p><span fontSize="14"></span></p><p><span fontSize="14">Los americanos en el sistema español que está en vigor, no ocupan otro lugar en la sociedad que el de siervos propios para el trabajo. ¿Quiere usted saber cuál era nuestro destino? Los campos para cultivar el añil, la grana, el café, la caña, el cacao y el algodón; las llanuras solitarias para criar ganados, los desiertos para cazar las bestias feroces, las entrañas de la tierra para excavar el oro que no puede saciar a esa nación avarienta.</span></p><p><span fontSize="14"></span></p><p><span fontSize="12">Simón Bolívar, </span><span fontSize="12" fontStyle="italic">Carta de Jamaica</span><span fontSize="12">, 1815 (fragmento).</span></p><p><span fontSize="12"></span></p></TextFlow>]]></def>
+    </definition>
+    <definition>
+      <title />
+      <def><![CDATA[<TextFlow><p><span color="#ff6600" fontSize="24">Investiga</span></p><p><span fontSize="14"></span></p><p><span fontSize="16">A partir de la lectura del texto anterior, determinad cuáles fueron los argumentos de los criollos para justificar la independencia de las colonias americanas. </span></p><p><span fontSize="16"></span></p><p><span fontSize="16"></span></p></TextFlow>]]></def>
+    </definition>
+    <definition>
+      <title />
+      <def />
+    </definition>
+    <definition>
+      <title />
+      <def />
+    </definition>
+    <definition>
+      <title />
+      <def />
+    </definition>
+  </reaserch>
+  <definitions visible="true" title="" title2="Léxico">
+    <definition>
+      <title>Colonia</title>
+      <def><![CDATA[<TextFlow><p><span fontSize="18" fontWeight="bold">Colonia:</span><span fontSize="18"> </span></p><p><span fontSize="18">territorio dominado y administrado por otra nación. Las colonias americanas estaban sometidas a la monarquía española y no tenían ningún tipo de autonomía política.</span></p></TextFlow>]]></def>
+    </definition>
+    <definition>
+      <title>Cabildo</title>
+      <def><![CDATA[<TextFlow><p><span fontSize="18" fontWeight="bold">Cabildo:</span><span fontSize="18"> </span></p><p><span fontSize="18">corporación municipal creada en las colonias españolas en América a imitación de los ayuntamientos medievales para la administración de las ciudades y de los municipios.</span></p></TextFlow>]]></def>
+    </definition>
+    <definition>
+      <title>Criollo</title>
+      <def><![CDATA[<TextFlow><p><span fontSize="18" fontWeight="bold">Criollo:</span><span fontSize="18"> </span></p><p><span fontSize="18">descendiente de los antiguos colonos españoles nacido en América. Los criollos representaban un 10-15 % de la población de la América española. Eran dueños de las grandes plantaciones, comerciantes e intelectuales enriquecidos.</span></p></TextFlow>]]></def>
+    </definition>
+    <definition>
+      <title />
+      <def />
+    </definition>
+    <definition>
+      <title />
+      <def />
+    </definition>
+    <definition>
+      <title />
+      <def />
+    </definition>
+    <definition>
+      <title>Juntas prov.</title>
+      <def><![CDATA[<TextFlow><p><span fontSize="18" fontWeight="bold">Junta provincial:</span><span fontSize="18"> </span></p><p><span fontSize="18">organismo creado en las colonias españolas en América. Las Juntas provinciales eran similares a las Juntas de Defensa españolas de la guerra de la Independencia. Reclamaron el derecho a la autonomía.</span></p></TextFlow>]]></def>
+    </definition>
+    <definition>
+      <title>G. Independencia</title>
+      <def><![CDATA[<TextFlow><p><span fontSize="18" fontWeight="bold">Guerra de la Independencia española:</span><span fontSize="18"> </span></p><p><span fontSize="18">conflicto armado (1808-1814) que se desencadenó como reacción a la invasión francesa de la península Ibérica. Enfrentó a los españoles, con las tropas de Napoleón Bonaparte.</span></p></TextFlow>]]></def>
+    </definition>
+    <definition>
+      <title>Caudillo</title>
+      <def><![CDATA[<TextFlow><p><span fontSize="18" fontWeight="bold">Caudillo:</span><span fontSize="18"> </span></p><p><span fontSize="18">líder que durante el proceso de independencia de las colonias americanas se ganó la legitimidad política y el apoyo popular gracias a su carisma.</span></p></TextFlow>]]></def>
+    </definition>
+    <definition>
+      <title />
+      <def />
+    </definition>
+    <definition>
+      <title />
+      <def />
+    </definition>
+    <definition>
+      <title />
+      <def />
+    </definition>
+  </definitions>
+  <activity title2="" visible="false" />
+</engine>

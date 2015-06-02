@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="5" clase="b" aprid="M5b">
+  <enunciado><![CDATA[Responde a las siguientes preguntas después de visionar el vídeo sobre la era del imperialismo.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[¿Hasta qué época vivió el continente africano ajeno a las aspiraciones expansionistas de las potencias europeas?
+]]></enunciado>
+      <explicacion />
+      <video>DI000463_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Hasta la segunda mitad del siglo XIX." correcta="1" />
+        <respuesta contestacion="Hasta finales del siglo XVIII." correcta="0" />
+        <respuesta contestacion="Hasta el último tercio del siglo XIX." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles eran las áreas del continente africano desconocidas aún a mediados del siglo XIX?]]></enunciado>
+      <explicacion />
+      <video>DI000463_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Las zonas del interior." correcta="1" />
+        <respuesta contestacion="Las costas meridionales." correcta="0" />
+        <respuesta contestacion="Las tierras del oeste." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuándo comenzaron a llegar a Europa noticias sobre la riqueza del África subsahariana?]]></enunciado>
+      <explicacion />
+      <video>DI000463_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="A partir de la década de 1840." correcta="1" />
+        <respuesta contestacion="A partir de la década de 1880." correcta="0" />
+        <respuesta contestacion="A partir de la década de 1820." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quiénes eran Livingstone y Stanley?]]></enunciado>
+      <explicacion />
+      <video>DI000463_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Dos exploradores del siglo XIX." correcta="1" />
+        <respuesta contestacion="Dos empresarios británicos con intereses en África." correcta="0" />
+        <respuesta contestacion="Dos primeros ministros británicos." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué sentido seguían las posesiones británicas en África?]]></enunciado>
+      <explicacion />
+      <video>DI000463_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Norte-Sur." correcta="1" />
+        <respuesta contestacion="Este-Oeste." correcta="0" />
+        <respuesta contestacion="Noroeste-Sudoeste." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Bajo el dominio de qué potencia europea se encontraban las tierras del África occidental?]]></enunciado>
+      <explicacion />
+      <video>DI000463_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Francia" correcta="1" />
+        <respuesta contestacion="Reino Unido" correcta="0" />
+        <respuesta contestacion="Alemania" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuándo comenzó el reparto sistemático de África por parte de las potencias europeas?]]></enunciado>
+      <explicacion />
+      <video>DI000463_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="En 1870." correcta="1" />
+        <respuesta contestacion="En 1850." correcta="0" />
+        <respuesta contestacion="En 1914." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Al monarca de qué Estado europeo pertenecía el Congo, situado en el centro del continente?]]></enunciado>
+      <explicacion />
+      <video>DI000463_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Al rey de Bélgica." correcta="1" />
+        <respuesta contestacion="Al rey de Francia." correcta="0" />
+        <respuesta contestacion="A la reina de Inglaterra." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue la mayor potencia colonial del siglo XIX?]]></enunciado>
+      <explicacion />
+      <video>DI000463_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="El Imperio británico." correcta="1" />
+        <respuesta contestacion="El II Imperio francés." correcta="0" />
+        <respuesta contestacion="El II Reich alemán." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles fueron los únicos territorios africanos libres del dominio europeo al comenzar la Gran Guerra?]]></enunciado>
+      <explicacion />
+      <video>DI000463_LO.mp4</video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Liberia y Etiopía." correcta="1" />
+        <respuesta contestacion="El Congo y Libia." correcta="0" />
+        <respuesta contestacion="Argelia y Sudán." correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce el proceso de colonización de África</titulo>
+    <area>2</area>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[CS_10_06_04]]></referencia>
+    <idreg><![CDATA[639]]></idreg>
+    <motor><![CDATA[M5B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>
