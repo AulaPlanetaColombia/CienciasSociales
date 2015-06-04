@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2013, v.4002-->
+<motor tipo="101" clase="a" aprid="M101a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Refuerza tu aprendizaje: El arte gótico</titulo>
+    <area>2</area>
+    <nivel>2</nivel>
+    <referencia><![CDATA[CS_08_13]]></referencia>
+    <idreg><![CDATA[4766]]></idreg>
+    <motor><![CDATA[M101A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario, entrega las respuestas por escrito o por email a tu profesor para que pueda validarlas.]]></enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="4">
+    <pregunta>
+      <enunciado><![CDATA[Cita las principales características de la arquitectura gótica y explica cuáles eran sus edificios más destacados. ]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[1]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Describe qué caracterizaba a la escultura gótica y aporta algún ejemplo. ]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Investiga quién era El Bosco y cuál fue su aportación a la pintura gótica. ]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Busca un ejemplo de nuestro territorio de arquitectura gótica y relaciónalo con las características arquitectónicas de la época. ]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+    </pregunta>
+  </preguntas>
+</motor>

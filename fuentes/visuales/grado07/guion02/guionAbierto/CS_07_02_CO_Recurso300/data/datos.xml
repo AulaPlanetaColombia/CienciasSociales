@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f1">
+  <css><![CDATA[.defaultCSSBox2 {
+	background: #000000;
+}
+.defaultCSSBox3 {
+	background: #ffffff;
+}
+
+
+]]></css>
+  <pantallas>
+    <pantalla id="pantalla_5">
+      <event id="onPrepare" language="DO"><![CDATA[]]></event>
+      <event id="onShown" language="DO"><![CDATA[]]></event>
+      <components>
+        <component _type="_compSlider" id="diaporama_77" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" transMode="1" />
+        <component _type="_compSliderNav" id="slidernav_122" x="45" y="526" width="162" height="37" alpha="1" visible="1" enabled="1" sliderId="diaporama_77" showHome="1" whiteButtons="1" />
+      </components>
+      <animaciones>
+      </animaciones>
+      <slider id="diaporama_77">
+        <pantalla id="pantalla_11">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compCSSBox" id="fondo_50" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_126" x="-3" y="219" width="957" height="257" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:center"><span style="font-family:verdana,geneva,sans-serif"><span style="color:rgb(255, 255, 255)"><span style="font-size:52px">La piedad de Avignon<br />
+(hacia 1450)</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_15">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_19" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="0" image="data/imagenes/image_25040.jpg" />
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_20">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_19" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="0" image="data/imagenes/image_25040.jpg" />
+            <component _type="_compCSSBox" id="fondo_60" x="186" y="79" width="169" height="38" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_20" x="198" y="59" width="213" height="112" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">San Juan</span></span></p>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_26" x="31" y="386" width="213" height="112" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Donante</span></span></p>
+]]></content>
+            </component>
+            <component _type="_compCSSBox" id="fondo_27" x="504" y="35" width="108" height="38" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_29" x="514" y="17" width="213" height="112" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">María</span></span></p>
+]]></content>
+            </component>
+            <component _type="_compCSSBox" id="fondo_31" x="472" y="353" width="111" height="38" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_28" x="480" y="335" width="213" height="112" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Cristo</span></span></p>
+]]></content>
+            </component>
+            <component _type="_compCSSBox" id="fondo_32" x="791" y="74" width="106" height="38" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compCSSBox" id="fondo_33" x="753" y="115" width="184" height="38" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_30" x="710" y="55" width="268" height="126" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align: center;"><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Mar&iacute;a<br />
+Magdalena</span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_34">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_19" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="0" image="data/imagenes/image_25040.jpg" />
+            <component _type="_compCSSBox" id="fondo_60" x="63" y="332" width="281" height="32" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compCSSBox" id="fondo_38" x="63" y="367" width="328" height="32" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_20" x="67" y="315" width="460" height="140" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-size:27px"><span style="font-family:verdana,geneva,sans-serif">&middot; Figuras estilizadas<br />
+&middot; Perspectiva incipiente</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_39">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_19" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="0" image="data/imagenes/image_25040.jpg" />
+            <component _type="_compCSSBox" id="fondo_60" x="63" y="332" width="348" height="32" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_20" x="67" y="315" width="460" height="140" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-size:27px"><span style="font-family:verdana,geneva,sans-serif">· Equilibrio de las figuras</span></span></span></p>
+]]></content>
+            </component>
+            <component _type="_compImage" id="image_43" x="84" y="0" width="867" height="472" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="0" image="data/imagenes/tri1.png" />
+          </components>
+          <animaciones>
+            <anim id="Entrada"><![CDATA[{"image_43":[],"image_43.x":[{"time":0,"value":84,"easing":"Linear.EaseNone"}],"image_43.y":[{"time":0,"value":0,"easing":"Linear.EaseNone"}],"image_43.width":[{"time":0,"value":867,"easing":"Linear.EaseNone"}],"image_43.height":[{"time":0,"value":472,"easing":"Linear.EaseNone"}],"image_43.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":1.090333251953125,"value":0,"easing":"Quadratic.EaseIn"},{"time":2.420333251953125,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_44">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_19" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="0" image="data/imagenes/image_25040.jpg" />
+            <component _type="_compImage" id="image_43" x="84" y="0" width="867" height="472" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="0" image="data/imagenes/tri1.png" />
+            <component _type="_compImage" id="image_48" x="95" y="30" width="894" height="519" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="0" image="data/imagenes/tri2.png" />
+          </components>
+          <animaciones>
+            <anim id="Entrada"><![CDATA[{"image_48":[],"image_48.x":[{"time":0,"value":95,"easing":"Linear.EaseNone"}],"image_48.y":[{"time":0,"value":30,"easing":"Linear.EaseNone"}],"image_48.width":[{"time":0,"value":894,"easing":"Linear.EaseNone"}],"image_48.height":[{"time":0,"value":519,"easing":"Linear.EaseNone"}],"image_48.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":1.070333251953125,"value":0,"easing":"Quadratic.EaseIn"},{"time":2.150333251953125,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_49">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compCSSBox" id="fondo_50" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compImage" id="image_19" x="500" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="0" image="data/imagenes/image_25265.jpg" />
+            <component _type="_compRichText" id="texto_41" x="96" y="57" width="524" height="156" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:38px"><span style="color:rgb(255, 255, 255)"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:44px">Donante</span></span></span></span></p>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_61" x="100" y="308" width="524" height="391" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:24px"><span style="color:rgb(255, 255, 255)"><span style="font-family:verdana,geneva,sans-serif">&middot; Actitud piadosa y serena<br />
+&middot; Realismo y naturalismo</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+            <anim id="Entrada"><![CDATA[{"texto_61":[],"texto_61.x":[{"time":0,"value":100,"easing":"Linear.EaseNone"}],"texto_61.y":[{"time":0,"value":308,"easing":"Linear.EaseNone"}],"texto_61.width":[{"time":0,"value":524,"easing":"Linear.EaseNone"}],"texto_61.height":[{"time":0,"value":391,"easing":"Linear.EaseNone"}],"texto_61.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":1.070333251953125,"value":0,"easing":"Linear.EaseNone"},{"time":2.085333251953125,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_53">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compCSSBox" id="fondo_50" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_41" x="83" y="57" width="524" height="156" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:38px"><span style="color:rgb(255, 255, 255)"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:44px">Corona de espinas</span></span></span></span></p>
+]]></content>
+            </component>
+            <component _type="_compImage" id="image_19" x="500" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="0" image="data/imagenes/image_25322.jpg" />
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_57">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compCSSBox" id="fondo_50" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_41" x="96" y="57" width="524" height="156" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:38px"><span style="color:rgb(255, 255, 255)"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:44px">Cristo</span></span></span></span></p>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_61" x="100" y="308" width="524" height="391" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:24px"><span style="color:rgb(255, 255, 255)"><span style="font-family:verdana,geneva,sans-serif">&middot; Sensaci&oacute;n de sufrimiento<br />
+&middot; Expresividad, naturalidad<br />
+&nbsp; y realismo</span></span></span></p>
+]]></content>
+            </component>
+            <component _type="_compImage" id="image_19" x="500" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="0" image="data/imagenes/image_25378.jpg" />
+          </components>
+          <animaciones>
+            <anim id="Entrada"><![CDATA[{"texto_61":[],"texto_61.x":[{"time":0,"value":100,"easing":"Linear.EaseNone"}],"texto_61.y":[{"time":0,"value":308,"easing":"Linear.EaseNone"}],"texto_61.width":[{"time":0,"value":524,"easing":"Linear.EaseNone"}],"texto_61.height":[{"time":0,"value":391,"easing":"Linear.EaseNone"}],"texto_61.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":1.055333251953125,"value":0,"easing":"Linear.EaseNone"},{"time":2.105333251953125,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+          </animaciones>
+        </pantalla>
+      </slider>
+    </pantalla>
+  </pantallas>
+  <popups>
+  </popups>
+</engine>

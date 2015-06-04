@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f1">
+  <css><![CDATA[.defaultCSSBox2 {
+	background: #000000;
+}
+.defaultCSSBox3 {
+	background: #ffffff;
+}]]></css>
+  <pantallas>
+    <pantalla id="pantalla_5">
+      <event id="onPrepare" language="DO"><![CDATA[]]></event>
+      <event id="onShown" language="DO"><![CDATA[]]></event>
+      <components>
+        <component _type="_compSlider" id="diaporama_12" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" transMode="1" />
+        <component _type="_compSliderNav" id="slidernav_11" x="45" y="526" width="162" height="37" alpha="1" visible="1" enabled="1" sliderId="diaporama_12" showHome="1" whiteButtons="1" />
+      </components>
+      <animaciones>
+      </animaciones>
+      <slider id="diaporama_12">
+        <pantalla id="pantalla_19">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compCSSBox" id="fondo_19" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_26" x="19" y="245" width="911" height="117" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:60px">El arte prerrománico</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_16">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_24" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25043.jpg" />
+            <component _type="_compCSSBox" id="fondo_19" x="100" y="282" width="737" height="110" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_25" x="116" y="274" width="775" height="149" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:35px"><span style="font-family:verdana,geneva,sans-serif"><span style="color:rgb(255, 255, 255)">Surge tras la ca&iacute;da del Imperio romano.<br />
+Siglos V &ndash; X </span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_19">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_24" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25092.jpg" />
+            <component _type="_compCSSBox" id="fondo_19" x="499" y="465" width="372" height="69" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_25" x="235" y="460" width="621" height="83" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align: right;"><span style="font-size:35px"><span style="font-family:verdana,geneva,sans-serif"><span style="color:rgb(255, 255, 255)">Influencia visigoda</span></span></span></p>
+]]></content>
+            </component>
+            <component _type="_compCSSBox" id="fondo_23" x="96" y="48" width="312" height="69" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_26" x="113" y="40" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Arte asturiano</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_24">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_24" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25142.png" />
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25201.png" />
+            <component _type="_compImage" id="image_29" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25192.png" />
+            <component _type="_compCSSBox" id="fondo_19" x="468" y="365" width="403" height="69" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_25" x="454" y="360" width="402" height="83" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:right"><span style="font-size:35px"><span style="font-family:verdana,geneva,sans-serif"><span style="color:rgb(255, 255, 255)">Arco de medio punto</span></span></span></p>
+]]></content>
+            </component>
+            <component _type="_compCSSBox" id="fondo_30" x="80" y="185" width="278" height="69" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_31" x="98" y="180" width="300" height="83" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:35px"><span style="font-family:verdana,geneva,sans-serif"><span style="color:rgb(255, 255, 255)">Contrafuertes</span></span></span></p>
+]]></content>
+            </component>
+            <component _type="_compCSSBox" id="fondo_32" x="823" y="84" width="68" height="69" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+          </components>
+          <animaciones>
+            <anim id="Entrada"><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":0,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":0,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":950,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":608,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":1,"value":1,"easing":"Linear.EaseNone"}],"image_29":[],"image_29.x":[{"time":0,"value":0,"easing":"Linear.EaseNone"}],"image_29.y":[{"time":0,"value":0,"easing":"Linear.EaseNone"}],"image_29.width":[{"time":0,"value":950,"easing":"Linear.EaseNone"}],"image_29.height":[{"time":0,"value":608,"easing":"Linear.EaseNone"}],"image_29.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":0.995,"value":0,"easing":"Linear.EaseNone"},{"time":2.005,"value":1,"easing":"Linear.EaseNone"}],"fondo_19":[],"fondo_19.x":[{"time":0,"value":468,"easing":"Linear.EaseNone"}],"fondo_19.y":[{"time":0,"value":365,"easing":"Linear.EaseNone"}],"fondo_19.width":[{"time":0,"value":403,"easing":"Linear.EaseNone"}],"fondo_19.height":[{"time":0,"value":69,"easing":"Linear.EaseNone"}],"fondo_19.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":1.01,"value":0,"easing":"Linear.EaseNone"},{"time":2.005,"value":0.5,"easing":"Linear.EaseNone"}],"texto_25":[],"texto_25.x":[{"time":0,"value":454,"easing":"Linear.EaseNone"}],"texto_25.y":[{"time":0,"value":360,"easing":"Linear.EaseNone"}],"texto_25.width":[{"time":0,"value":402,"easing":"Linear.EaseNone"}],"texto_25.height":[{"time":0,"value":83,"easing":"Linear.EaseNone"}],"texto_25.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":1.025,"value":0,"easing":"Linear.EaseNone"},{"time":2.01,"value":1,"easing":"Linear.EaseNone"}],"fondo_30":[],"fondo_30.x":[{"time":0,"value":80,"easing":"Linear.EaseNone"}],"fondo_30.y":[{"time":0,"value":185,"easing":"Linear.EaseNone"}],"fondo_30.width":[{"time":0,"value":278,"easing":"Linear.EaseNone"}],"fondo_30.height":[{"time":0,"value":69,"easing":"Linear.EaseNone"}],"fondo_30.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":1.025,"value":0.5,"easing":"Linear.EaseNone"}],"texto_31":[],"texto_31.x":[{"time":0,"value":98,"easing":"Linear.EaseNone"}],"texto_31.y":[{"time":0,"value":180,"easing":"Linear.EaseNone"}],"texto_31.width":[{"time":0,"value":300,"easing":"Linear.EaseNone"}],"texto_31.height":[{"time":0,"value":83,"easing":"Linear.EaseNone"}],"texto_31.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":1.01,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_33">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compCSSBox" id="fondo_37" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compImage" id="image_24" x="453" y="0" width="497" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25219.jpg" />
+            <component _type="_compRichText" id="texto_25" x="111" y="183" width="318" height="224" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:30px">&middot; Simbolismo<br />
+&middot; Frescos<br />
+&middot; Miniaturas<br />
+&middot; Beatos</span></span></span></p>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_26" x="113" y="40" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Pintura</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_38">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_24" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25267.jpg" />
+            <component _type="_compCSSBox" id="fondo_19" x="100" y="192" width="321" height="169" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_25" x="111" y="183" width="318" height="224" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:30px"><span style="font-family:verdana,geneva,sans-serif">&middot; Esculturas y tallas<br />
+&middot; Relieves<br />
+&middot; Capiteles<br />
+&middot; Cornisas</span></span></p>
+]]></content>
+            </component>
+            <component _type="_compCSSBox" id="fondo_42" x="100" y="54" width="214" height="56" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_26" x="113" y="40" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Escultura</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_43">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_24" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25320.jpg" />
+            <component _type="_compRichText" id="texto_25" x="111" y="183" width="364" height="224" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:30px">· Metales preciosos.<br />
+· Ajuar litúrgico.<br />
+· Arte decorativo.</span></span></span></p>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_26" x="113" y="40" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Orfebrería</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_47">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compCSSBox" id="fondo_37" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compImage" id="image_24" x="357" y="0" width="593" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25386.jpg" />
+            <component _type="_compCSSBox" id="fondo_19" x="100" y="192" width="382" height="134" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compCSSBox" id="fondo_42" x="100" y="54" width="317" height="56" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_25" x="111" y="183" width="409" height="183" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:30px">
+· Siglo X.<br />
+· Musta‘rab: arabizado.<br />
+· Arco de herradura.
+</span></span></span></p>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_26" x="113" y="40" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Arte mozárabe</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_51">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compCSSBox" id="fondo_37" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compImage" id="image_24" x="345" y="0" width="605" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25447.jpg" />
+            <component _type="_compCSSBox" id="fondo_42" x="100" y="54" width="317" height="56" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_26" x="113" y="40" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Arte mozárabe</span></span></span></p>
+]]></content>
+            </component>
+            <component _type="_compCSSBox" id="fondo_19" x="100" y="192" width="382" height="214" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_25" x="111" y="183" width="432" height="247" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:30px">&middot; Siglo X.<br />
+&middot; Musta&lsquo;rab: arabizado.<br />
+&middot; Arco de herradura.<br />
+· Iglesias pequeñas.<br />
+· Sobriedad.
+
+</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_55">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_24" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25502.jpg" />
+            <component _type="_compRichText" id="texto_26" x="113" y="40" width="480" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Herencia romana</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_59">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_24" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25549.jpg" />
+            <component _type="_compCSSBox" id="fondo_19" x="100" y="192" width="498" height="134" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_25" x="111" y="183" width="549" height="158" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:30px"><span style="font-family:verdana,geneva,sans-serif">
+· Mayor sobriedad.<br />
+· Menor equilibrio.<br />
+· Papel central del cristianismo.
+</span></span></p>
+]]></content>
+            </component>
+            <component _type="_compCSSBox" id="fondo_42" x="100" y="54" width="393" height="56" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_26" x="113" y="40" width="420" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Elementos propios</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+      </slider>
+    </pantalla>
+  </pantallas>
+  <popups>
+  </popups>
+</engine>

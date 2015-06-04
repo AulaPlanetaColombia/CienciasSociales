@@ -1,0 +1,594 @@
+<mapa>
+  <copyright>(c) Editorial Planeta</copyright>
+  <version>1.0</version>
+  <objeto>
+    <ref>00</ref>
+    <texto>IMPERIALISMO Y PRIMERA GUERRA MUNDIAL</texto>
+    <hijos>10</hijos>
+    <padre/>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>10</ref>
+    <texto/>
+    <hijos>20,21</hijos>
+    <padre>00</padre>
+    <siz>14</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>20</ref>
+    <texto>El Imperialismo (1870-1914)</texto>
+    <hijos>30,31,32,33</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>21</ref>
+    <texto>primera Guerra Mundial (1914-1918)</texto>
+    <hijos>34,35,36,37</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto>fue</texto>
+    <hijos>40</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>última fase del colonialismo</texto>
+    <hijos>50</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>lo potenció</texto>
+    <hijos>41</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>segunda Revolución Industrial</texto>
+    <hijos/>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto>desató y amplió</texto>
+    <hijos>42</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>sistema colonial</texto>
+    <hijos>51</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>33</ref>
+    <texto>tuvo</texto>
+    <hijos>43</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>43</ref>
+    <texto>consecuencias en los territorios colonizados</texto>
+    <hijos>52</hijos>
+    <padre>33</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto>amplió el poder de</texto>
+    <hijos>60</hijos>
+    <padre>40</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>Potencias Coloniales</texto>
+    <hijos>70</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto>como</texto>
+    <hijos>80</hijos>
+    <padre>60</padre>
+    <siz>0</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>- Inglaterra- Bélgica- Francia- Estados Unidos- España - Rusia  - Japón</texto>
+    <hijos/>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>con dos tipos de organización</texto>
+    <hijos>61,62</hijos>
+    <padre>42</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>Colonias gobernadas por las metrópolis</texto>
+    <hijos>71</hijos>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto>Protectorados</texto>
+    <hijos>72</hijos>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto>con fines distintos</texto>
+    <hijos>81,82</hijos>
+    <padre>61</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>Poblamiento</texto>
+    <hijos/>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>Explotación de recursos</texto>
+    <hijos/>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>72</ref>
+    <texto/>
+    <hijos>83</hijos>
+    <padre>62</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>83</ref>
+    <texto>Gobernados por agentes locales leales al país colonizador</texto>
+    <hijos/>
+    <padre>72</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>se reflejaron en</texto>
+    <hijos>63</hijos>
+    <padre>43</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>- Mejoras higiénicas y vacunas Descenso de la mortalidad - Expropiación de tierras - Cambios en la explotación de la tierra - Intercambio económico desigual - Desequilibrios entre población y recursos  - Segregación racial  - Desarraigo social y aculturación</texto>
+    <hijos/>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>34</ref>
+    <texto>se debió a</texto>
+    <hijos>44</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>44</ref>
+    <texto>Rivalidad entre potencias coloniales</texto>
+    <hijos/>
+    <padre>34</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>35</ref>
+    <texto>tuvo tres etapas</texto>
+    <hijos>45,48,49</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>45</ref>
+    <texto>Guerra de Movimientos</texto>
+    <hijos>53</hijos>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>36</ref>
+    <texto>el detonante fue</texto>
+    <hijos>46</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>46</ref>
+    <texto>asesinato del Archiduque Francisco Fernando, en Sarajevo</texto>
+    <hijos/>
+    <padre>36</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>37</ref>
+    <texto>enfrentó a</texto>
+    <hijos>47</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>47</ref>
+    <texto>- Triple Alianza: (Italia,Imperio Austro-húngaro y Alemania.- Triple Entente: Francia, Rusia. Se incorporan Estados Unidos e Inglaterra.</texto>
+    <hijos/>
+    <padre>37</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>48</ref>
+    <texto>Guerra deTrincheras</texto>
+    <hijos>54</hijos>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>49</ref>
+    <texto>FaseFinal</texto>
+    <hijos>55</hijos>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>53</ref>
+    <texto>se inició con</texto>
+    <hijos>64</hijos>
+    <padre>45</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>ofensiva Alemana sobre Francia</texto>
+    <hijos>73</hijos>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>73</ref>
+    <texto>que fue contenida por</texto>
+    <hijos>84</hijos>
+    <padre>64</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>84</ref>
+    <texto>Ejército Aliado</texto>
+    <hijos>90</hijos>
+    <padre>73</padre>
+    <siz>0</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>90</ref>
+    <texto>se logró</texto>
+    <hijos>a0</hijos>
+    <padre>84</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a0</ref>
+    <texto>Estabilidad del Frente Occidental</texto>
+    <hijos>b0</hijos>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>b0</ref>
+    <texto>dio lugar a</texto>
+    <hijos>c0</hijos>
+    <padre>a0</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>c0</ref>
+    <texto>Guerra de posiciones</texto>
+    <hijos/>
+    <padre>b0</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>54</ref>
+    <texto>se inició con</texto>
+    <hijos>65</hijos>
+    <padre>48</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>Batalla de Verdun</texto>
+    <hijos>74</hijos>
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>74</ref>
+    <texto>se utilizó</texto>
+    <hijos>85</hijos>
+    <padre>65</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>85</ref>
+    <texto>nuevo armamento</texto>
+    <hijos/>
+    <padre>74</padre>
+    <siz>0</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>55</ref>
+    <texto>se produjo</texto>
+    <hijos>66</hijos>
+    <padre>49</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>entrada de Rusia e ingreso de Estados Unidos</texto>
+    <hijos>75</hijos>
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>75</ref>
+    <texto>seguidas de</texto>
+    <hijos>86</hijos>
+    <padre>66</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>86</ref>
+    <texto>derrotas de Austria y Alemania</texto>
+    <hijos>91</hijos>
+    <padre>75</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>91</ref>
+    <texto>se acordó</texto>
+    <hijos>a1,a2</hijos>
+    <padre>86</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a1</ref>
+    <texto>Armisticio</texto>
+    <hijos>b1</hijos>
+    <padre>91</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a2</ref>
+    <texto>Firma del Tratado de Versalles</texto>
+    <hijos>b2</hijos>
+    <padre>91</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>b1</ref>
+    <texto>dejó como resultado</texto>
+    <hijos>c1</hijos>
+    <padre>a1</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>c1</ref>
+    <texto>fin del II Reich</texto>
+    <hijos/>
+    <padre>b1</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>b2</ref>
+    <texto>dejó como resultado</texto>
+    <hijos>c2</hijos>
+    <padre>a2</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>c2</ref>
+    <texto>- sanciones de guerra- nuevas fronteras- nuevos estados- fin de viejos imperios</texto>
+    <hijos/>
+    <padre>b2</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+</mapa>

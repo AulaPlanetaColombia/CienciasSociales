@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="8" clase="a" aprid="M8a">
+  <enunciado><![CDATA[Observa las imágenes y responde a las preguntas.]]></enunciado>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál era la función del refectorio?]]></enunciado>
+      <imagen><![CDATA[orio_500x500.jpg]]></imagen>
+      <explicacion><![CDATA[El refectorio era una gran sala donde la comunidad comía en silencio mientras uno de sus miembros leía algún pasaje de la Biblia.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="Comedor." correcta="on" />
+        <respuesta contestacion="Sala de descanso." correcta="0" />
+        <respuesta contestacion="Lugar de reunión." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué significa la palabra "claustro"?]]></enunciado>
+      <imagen><![CDATA[stro_500x500.jpg]]></imagen>
+      <explicacion><![CDATA[La palabra claustro procede del latín "claudere", que significa "cerrar". El claustro era un lugar de recogimiento. Solía ser un jardín con una fuente o un pozo en el centro.  ]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="Jardín" correcta="0" />
+        <respuesta contestacion="Cerrar" correcta="on" />
+        <respuesta contestacion="Iluminar" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Para qué servía la sala capitular?]]></enunciado>
+      <imagen><![CDATA[ular_500x500.jpg]]></imagen>
+      <explicacion><![CDATA[En esta sala se reunían a diario los monjes para leer un capítulo de la regla de su orden (de ahí el nombre). En este lugar se trataban asuntos del interés de la comunidad.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="Comedor." correcta="0" />
+        <respuesta contestacion="Lugar de reunión." correcta="on" />
+        <respuesta contestacion="Almacén." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué lugar del monasterio se encuentra este monje?]]></enunciado>
+      <imagen><![CDATA[rium_500x500.jpg]]></imagen>
+      <explicacion><![CDATA[Los "scriptoria" y bibliotecas de los monasterios medievales sirvieron para preservar y desarrollar la cultura. Allí se copiaban y conservaban las grandes obras del pasado.  ]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="En el scriptorium." correcta="on" />
+        <respuesta contestacion="En la sacristía." correcta="0" />
+        <respuesta contestacion="En la sala capitular." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué expresión define mejor la vida de estos monjes?]]></enunciado>
+      <imagen><![CDATA[njes_500x500.jpg]]></imagen>
+      <explicacion><![CDATA[La expresión "ora et labora" significa "reza y trabaja" y definía la forma de vida de los monjes benedictinos.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="Ora et labora." correcta="on" />
+        <respuesta contestacion="Ora pro nobis." correcta="0" />
+        <respuesta contestacion="Sancta sanctorum." correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce cómo era la vida en un monasterio medieval</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[cs_08_08_07]]></referencia>
+    <id_reg><![CDATA[5]]></id_reg>
+    <motor><![CDATA[M8a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+</motor>

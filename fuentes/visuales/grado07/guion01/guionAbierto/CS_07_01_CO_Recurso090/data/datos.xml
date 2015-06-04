@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f8">
+<main title="Nuevos reinos e imperios" bkColor="#FFFFFF" titleColor="#000000" theme="black" buttonsWidth="300" buttonsHeight="47" trans="">
+<default>
+<img path="image_13_copy.jpg" x="360" y="120" width="" height="430"/>
+</default><buttons>
+<button title="Imperio Romano&lt;/br&gt;753 a.C. - 476">
+<img path="image_34_copy.jpg" x="" y="" width="" height="430" anim=""/>
+</button>
+<button title="Imperio Bizantino&lt;/br&gt;395 - 1453">
+<img path="image_36_copy.jpg" x="" y="" width="" height="430" anim=""/>
+</button>
+<button title="Reinos Germánicos&lt;/br&gt;Siglos VI a VII">
+<img path="image_38_copy.jpg" x="" y="" width="" height="430" anim=""/>
+</button>
+<button title="Imperio Islámico&lt;/br&gt;622 - 750">
+<img path="image_40_copy.jpg" x="" y="" width="" height="430" anim=""/>
+</button>
+<button title="Imperio Carolingio&lt;/br&gt;800 - 843">
+<img path="image_42_copy.jpg" x="" y="" width="" height="430" anim=""/>
+</button>
+</buttons>
+</main>
+</engine>

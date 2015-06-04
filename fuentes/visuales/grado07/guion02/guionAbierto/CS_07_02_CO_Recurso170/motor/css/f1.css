@@ -1,0 +1,546 @@
+﻿/* Fondo principal blanco*/
+.mainBk {
+	background-color: white;
+}
+
+/* Titols i subtítols*/
+.defaultTitle {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 31px;
+}
+
+.defaultSubtitle {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 25px;
+}
+
+/* Element amb borde interior d'1 pixel negre*/
+.innerBordered {
+	border: 1px solid black;
+	-ms-box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+	box-sizing: border-box;
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.innerBordered {
+		border: 2px solid black;
+	}
+}
+
+/* Element amb borde interior d'2 pixels negre*/
+.inner2pxBordered {
+	border: 2px solid black;
+	-ms-box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+	box-sizing: border-box;
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.inner2pxBordered {
+		border: 3px solid black;
+	}
+}
+
+/* Botons de text blancs amb cantonades arrodonides */
+.roundTextButton {
+	background-color: white;
+	border: 1px solid black;
+
+    -ms-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+
+	-webkit-border-radius: 8px; /* Safari 3-4, iOS 1-3.2, Android 1.6- */
+	-moz-border-radius: 8px; /* Firefox 1-3.6 */
+	border-radius: 8px;/* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+
+    /* Alineacion de texto*/
+    text-align: center;
+    vertical-align: middle;
+
+    font-family: Verdana, Arial, sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.roundTextButton {
+		border: 2px solid black;
+	}
+}
+
+.roundTextButton.hover {
+	background-color: #CCCCCC;/*darkgray;*/
+}
+
+.roundTextButton.active {
+	background-color: #CCCCCC;/*gray;*/
+    color: black;
+}
+
+.roundTextButton.down {
+	background-color: #666666;/*darkgray;*/
+    color: white;
+}
+
+.roundTextButton.disabled {
+	border: 1px solid gray;
+	color: gray;
+	cursor: default;
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.roundTextButton.disabled {
+		border: 2px solid gray;
+	}
+}
+
+
+/* Botó imatge que brilla quan passes pel damunt o piques */
+.brightImageButton {
+    background-color: white;
+}
+
+.brightImageButton .imgButtonContainer {
+    pointer-events: none;
+}
+
+.brightImageButton .imgButtonContainer img {
+	position: absolute;
+    pointer-events: none;
+}
+
+.brightImageButton.hover .imgButtonContainer img {
+	opacity: 0.5;
+	-ms-transition: opacity .3s ease-in-out;
+    -moz-transition: opacity .3s ease-in-out;
+    -webkit-transition: opacity .3s ease-in-out;
+    transition: opacity .3s ease-in-out;
+}
+
+.brightImageButton.active .imgButtonContainer img {
+	opacity: 0.5;
+}
+
+/* Bright Text Button*/
+.brightTextButton {
+	background-color: white;
+	border: 1px solid black;
+
+    -ms-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+
+    /* Alineacion de texto*/
+    text-align: center;
+    vertical-align: middle;
+
+    font-family: Verdana, Arial, sans-serif;
+    color: black;
+    font-size: 16px;
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.brightTextButton {
+		border: 2px solid black;
+	}
+}
+
+.brightTextButton.hover .textButtonContainer {
+	color: #AAA;
+	-ms-transition: color .3s ease-in-out;
+    -moz-transition: color .3s ease-in-out;
+    -webkit-transition: color .3s ease-in-out;
+    transition: color .3s ease-in-out;
+}
+
+.brightTextButton.active .textButtonContainer {
+	color: #AAA;
+}
+
+.brightTextButton.down .textButtonContainer {
+	color: #AAA;
+}
+
+/* Text Button Rounded corners*/
+.brightRoundTextButton {
+	background-color: white;
+	border: 1px solid black;
+
+    -ms-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+
+	-webkit-border-radius: 8px; /* Safari 3-4, iOS 1-3.2, Android 1.6- */
+	-moz-border-radius: 8px; /* Firefox 1-3.6 */
+	border-radius: 8px;/* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+
+    /* Alineacion de texto*/
+    text-align: center;
+    vertical-align: middle;
+
+    font-family: Verdana, Arial, sans-serif;
+    color: black;
+    font-size: 16px;
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.brightRoundTextButton {
+		border: 2px solid black;
+	}
+}
+
+.brightRoundTextButton.hover .textButtonContainer {
+	color: #AAA;
+	-ms-transition: color .3s ease-in-out;
+    -moz-transition: color .3s ease-in-out;
+    -webkit-transition: color .3s ease-in-out;
+    transition: color .3s ease-in-out;
+}
+
+.brightRoundTextButton.active .textButtonContainer {
+	color: #AAA;
+}
+
+.brightRoundTextButton.down .textButtonContainer {
+	color: #AAA;
+}
+
+
+
+/* Botons tipus "slider" (quadrats negres de 35x35 amb icona) */
+.iconHomeButton {
+    background: transparent url("../images/btnhome35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconHomeButton.disabled {
+	opacity: 0.6;
+}
+
+.iconHomeButton_white {
+    background: transparent url("../images/btnhome35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconHomeButton_white.disabled {
+	opacity: 0.6;
+}
+
+.iconPrevButton {
+    background: transparent url("../images/btnprev35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconPrevButton.disabled {
+	opacity: 0.6;
+}
+
+.iconPrevButton_white {
+    background: transparent url("../images/btnprev35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconPrevButton_white.disabled {
+	opacity: 0.6;
+}
+
+.iconNextButton {
+    background: transparent url("../images/btnnext35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconNextButton.disabled {
+	opacity: 0.6;
+}
+
+.iconNextButton_white {
+    background: transparent url("../images/btnnext35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconNextButton_white.disabled {
+	opacity: 0.6;
+}
+
+.iconCloseButton {
+    background: transparent url("../images/btnclose35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconCloseButton.disabled {
+	opacity: 0.6;
+}
+
+.iconCloseButton_white {
+    background: transparent url("../images/btnclose35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconCloseButton_white.disabled {
+	opacity: 0.6;
+}
+
+.iconOpenButton {
+    background: transparent url("../images/btnopen35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconOpenButton.disabled {
+	opacity: 0.6;
+}
+
+.iconOpenButton_white {
+    background: transparent url("../images/btnopen35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconOpenButton_white.disabled {
+	opacity: 0.6;
+}
+
+.iconInfoButton {
+    background: transparent url("../images/btninfo35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconInfoButton.disabled {
+	opacity: 0.6;
+}
+
+.iconInfoButton_white {
+    background: transparent url("../images/btninfo35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconInfoButton_white.disabled {
+	opacity: 0.6;
+}
+
+.iconNoInfoButton {
+	background: transparent url("../images/btnnoinfo35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconNoInfoButton.disabled {
+	opacity: 0.6;
+}
+
+.iconNoInfoButton_white {
+	background: transparent url("../images/btnnoinfo35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconNoInfoButton_white.disabled {
+	opacity: 0.6;
+}
+
+.iconZoomButton {
+	background: transparent url("../images/btnzoom35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconZoomButton.disabled {
+	opacity: 0.6;
+}
+
+.iconZoomButton_white {
+	background: transparent url("../images/btnzoom35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconZoomButton_white.disabled {
+	opacity: 0.6;
+}
+
+.iconFirstButton {
+	background: transparent url("../images/btnfirst35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconFirstButton.disabled {
+	opacity: 0.6;
+}
+
+.iconFirstButton_white {
+	background: transparent url("../images/btnfirst35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconFirstButton_white.disabled {
+	opacity: 0.6;
+}
+
+.iconLastButton {
+	background: transparent url("../images/btnlast35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconLastButton.disabled {
+	opacity: 0.6;
+}
+
+.iconLastButton_white {
+	background: transparent url("../images/btnlast35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconLastButton_white.disabled {
+	opacity: 0.6;
+}
+
+.iconPlayButton {
+	background: transparent url("../images/btnplay35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconPlayButton.disabled {
+	opacity: 0.6;
+}
+
+.iconPlayButton_white {
+	background: transparent url("../images/btnplay35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconPlayButton_white.disabled {
+	opacity: 0.6;
+}
+
+.iconPauseButton {
+	background: transparent url("../images/btnpause35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconPauseButton.disabled {
+	opacity: 0.6;
+}
+
+.iconPauseButton_white {
+	background: transparent url("../images/btnpause35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconPauseButton_white.disabled {
+	opacity: 0.6;
+}
+
+.iconRoundAmpButton {
+	background: transparent url("../images/btnroundamp35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconRoundAmpButton.disabled {
+	opacity: 0.6;
+}
+
+.iconRoundAmpButton_white {
+	background: transparent url("../images/btnroundamp35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconRoundAmpButton_white.disabled {
+	opacity: 0.6;
+}
+
+.iconPlusButton {
+	background: transparent url("../images/btnopen35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconPlusButton.disabled {
+	opacity: 0.6;
+}
+
+.iconPlusButton_white {
+	background: transparent url("../images/btnopen35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconPlusButton_white.disabled {
+	opacity: 0.6;
+}
+
+.iconMinusButton {
+	background: transparent url("../images/btnminus35.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconMinusButton.disabled {
+	opacity: 0.6;
+}
+
+.iconMinusButton_white {
+	background: transparent url("../images/btnminus35_white.svg") no-repeat;
+	background-position: center center;
+}
+
+.iconMinusButton_white.disabled {
+	opacity: 0.6;
+}
+
+/* CSSBox - Estil per defecte */
+.defaultCSSBox {
+	background: orange;
+}
+
+/* SimpleText - Estil per defecte */
+.defaultSimpleText {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 31px;
+}
+
+/* RichText - Estil per defecte */
+.defaultRichText {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 20px;
+}
+
+/* Popups - Estils per defecte */
+.defaultSmallPopup {
+	background-color: white;
+	border: 1px solid black;
+
+	-ms-box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+	box-sizing: border-box;
+
+	-webkit-border-radius: 8px; /* Safari 3-4, iOS 1-3.2, Android 1.6- */
+	-moz-border-radius: 8px; /* Firefox 1-3.6 */
+	border-radius: 8px;/* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.defaultSmallPopup {
+		border: 2px solid black;
+	}
+}
+
+.defaultBigPopup {
+	background-color: white;
+	border: none;
+}
+
+.defaultPopupTitle {
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.defaultPopupText {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 20px;
+}
+
+.defaultPieText {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 15px;
+}
