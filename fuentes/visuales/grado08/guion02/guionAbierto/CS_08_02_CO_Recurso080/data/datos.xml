@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="b" aprid="m5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>El sistema de castas</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Revisa el video y luego responde las preguntas eligiendo la respuesta correcta.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[El mestizaje tuvo su inicio aproximado en el año]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[vi002114_lo.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="1492" correcta="1"/>
+        <respuesta contestacion="1700" correcta="0"/>
+        <respuesta contestacion="1808" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Durante la Colonia, en la base de la pirámide social se encontraban: ]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[vi002114_lo.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Los indígenas y negros" correcta="1"/>
+        <respuesta contestacion="Los criollos" correcta="0"/>
+        <respuesta contestacion="Los peninsulares" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Los blancos nacidos en las colonias recibieron el nombre de:]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[vi002114_lo.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Mestizos" correcta="0"/>
+        <respuesta contestacion="Peninsulares" correcta="0"/>
+        <respuesta contestacion="Criollos" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Según el sistema de castas de la Colonia, “morisco” es cruce de:]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[vi002114_lo.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Negro y Zamba" correcta="0"/>
+        <respuesta contestacion="Española y mulato" correcta="1"/>
+        <respuesta contestacion="Blanco e india" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Según el sistema de castas de la Colonia, “chino” es cruce de:]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[vi002114_lo.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Española con Morisco" correcta="1"/>
+        <respuesta contestacion="Zambo con morisco" correcta="0"/>
+        <respuesta contestacion="Indio con morisco" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>15</temps>
+</motor>
