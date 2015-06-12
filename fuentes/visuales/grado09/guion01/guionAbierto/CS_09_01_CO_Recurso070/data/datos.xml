@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="b" aprid="m5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Independencia de la India</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Observa el video y luego responde las preguntas seleccionando la respuesta correcta.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="3">
+    <cuestion>
+      <enunciado><![CDATA[¿Quiénes lideraron la Independencia de la India?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[vi010474_lo.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Nehru y Gandhi" correcta="1"/>
+        <respuesta contestacion="Kalimán y Solín" correcta="0"/>
+        <respuesta contestacion="La reina Victoria y su consorte Alberto" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue la estrategia con la que se logró la independencia de la India?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[vi010474_lo.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="No violencia" correcta="1"/>
+        <respuesta contestacion="Terrorismo" correcta="0"/>
+        <respuesta contestacion="Lucha armada" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue el país colonizador contra el que se adelantó la independencia de la India?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[vi010474_lo.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Inglaterra" correcta="1"/>
+        <respuesta contestacion="Francia" correcta="0"/>
+        <respuesta contestacion="Alemania" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>20</temps>
+</motor>
