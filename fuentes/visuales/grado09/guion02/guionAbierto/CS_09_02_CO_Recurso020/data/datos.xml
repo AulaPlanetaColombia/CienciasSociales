@@ -1,9 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!--Arbortext, Inc., 1988-2013, v.4002-->
-<motor tipo="101" clase="a" aprid="M101a">
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="101" clase="a" aprid="M101a">
   <plataforma>
     <grado><![CDATA[2]]></grado>
-    <titulo>Refuerza tu aprendizaje: La revolución rusa</titulo>
+    <titulo>Refuerza tu aprendizaje: la Revolución Rusa</titulo>
     <area>2</area>
     <nivel>2</nivel>
     <referencia><![CDATA[CS_10_07]]></referencia>
@@ -11,33 +9,37 @@
     <motor><![CDATA[M101AP]]></motor>
     <lang>es</lang>
   </plataforma>
-  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario, entrega las respuestas en mano o por email a tu profesor para que pueda validarlas.]]></enunciado>
-  <masinfo inicio="0" />
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario, entrega las respuestas por escrito o por email a tu profesor para que pueda validarlas.]]></enunciado>
+  <masinfo inicio="0"/>
   <calc><![CDATA[0]]></calc>
   <preguntas cantidad="3">
     <pregunta>
       <enunciado><![CDATA[Describe cómo era la sociedad rusa antes de la revolución de 1917 y di qué sistema político imperaba. Compárala con la Rusia estalinista.]]></enunciado>
-      <explicacion />
+      <explicacion/>
       <nivel><![CDATA[1]]></nivel>
-      <tipo />
-      <imagen />
-      <ampliacion />
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
     </pregunta>
     <pregunta>
       <enunciado><![CDATA[Resume las revoluciones de 1917 y explica quiénes fueron los bolcheviques y los mencheviques. ]]></enunciado>
-      <explicacion />
+      <explicacion/>
       <nivel><![CDATA[2]]></nivel>
-      <tipo />
-      <imagen />
-      <ampliacion />
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
     </pregunta>
     <pregunta>
       <enunciado><![CDATA[Describe quién fue Lenin y explica su papel en las revoluciones rusas y en la URSS.]]></enunciado>
-      <explicacion />
+      <explicacion/>
       <nivel><![CDATA[3]]></nivel>
-      <tipo />
-      <imagen />
-      <ampliacion />
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
     </pregunta>
   </preguntas>
+  <temps>40</temps>
 </motor>

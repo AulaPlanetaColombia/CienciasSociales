@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="101" clase="a">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>La ideología de Adolf Hitler</titulo>
+    <volumen/>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia/>
+    <motor/>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario, entrega las respuestas por escrito o por email a tu profesor para que pueda validarlas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="1">
+    <pregunta>
+      <enunciado><![CDATA[Lee el mapa conceptual que resume los principales aspectos de la ideología y obra de Adolfo Hitler. A partir de esta información construye un texto coherente que explique el contenido. Amplía tu texto explicando los conceptos de antisemitismo y pangermanismo.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen><![CDATA[cs_09_02_co_f01n.png]]></imagen>
+      <ampliacion><![CDATA[cs_09_02_co_f01a.png]]></ampliacion>
+      <texto/>
+    </pregunta>
+  </preguntas>
+  <temps>40</temps>
+</motor>
