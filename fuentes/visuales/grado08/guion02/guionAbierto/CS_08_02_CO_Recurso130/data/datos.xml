@@ -15,7 +15,10 @@
   <sonido/>
   <textoacategoria>
     <cuestion>
-      <pregunta><![CDATA[- La religión católica, apostólica, romana, sin [*] de otra alguna. - Absoluta [*] de este reino. - Todos los habitantes de él, sin otra distinción que su mérito y virtudes, son [*] idóneos para optar cualquier empleo. - Americanos: he aquí el establecimiento y la creación de un nuevo [*]. He aquí lo que ha jurado el ejército de las Tres Garantías, cuya voz lleva el que tiene el honor de dirigírosla. He aquí el objeto para cuya cooperación os invita. No os pide otra cosa que lo que vosotros mismos debéis pedir y apetecer: unión, [*], orden, quietud interior, vigilancia y horror á cualquier movimiento turbulento.  ]]></pregunta>
+      <pregunta><![CDATA[- La religión católica, apostólica, romana, sin [*] de otra alguna. 
+	  - Absoluta [*] de este reino. 
+	  - Todos los habitantes de él, sin otra distinción que su mérito y virtudes, son [*] idóneos para optar cualquier empleo. 
+	  - Americanos: he aquí el establecimiento y la creación de un nuevo [*]. He aquí lo que ha jurado el ejército de las Tres Garantías, cuya voz lleva el que tiene el honor de dirigírosla. He aquí el objeto para cuya cooperación os invita. No os pide otra cosa que lo que vosotros mismos debéis pedir y apetecer: unión, [*], orden, quietud interior, vigilancia y horror á cualquier movimiento turbulento.  ]]></pregunta>
       <respuestas>
         <respuesta orden="1">
           <opcion correcta="1"><![CDATA[tolerancia]]></opcion>

@@ -1,6 +1,7 @@
 /*******************************************************************************
 **
 ** FileName: APIWrapper.js
+** Version: 15.4.23.1
 **
 *******************************************************************************/
 
@@ -421,7 +422,11 @@ function getAPIHandle()
 {
    if (apiHandle == null)
    {
-      apiHandle = getAPI();
+   		// Ponemos bloque try/catch por si peta getAPI
+   		try {
+      	apiHandle = getAPI();
+      } catch(ex) {
+    	}
    }
 
    return apiHandle;
@@ -496,7 +501,7 @@ ScanParentsForApi
 */
 function ScanParentsForApi(win) 
 {  
-      try 
+		try 
 	  {
 		  /*
 		  Establish an outrageously high maximum number of
@@ -529,8 +534,9 @@ function ScanParentsForApi(win)
 	  } 
 	  catch (ex) 
 	  {
-	  
 	  }
+	  
+  	return null;
 } 
 
 /*

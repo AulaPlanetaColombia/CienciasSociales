@@ -3,7 +3,7 @@
     <grado><![CDATA[2]]></grado>
     <titulo>Refuerza tu aprendizaje: Las rebeliones del siglo XVIII</titulo>
     <area>0</area>
-    <nivel>1</nivel>
+    <nivel>2</nivel>
     <referencia/>
     <idreg><![CDATA[0]]></idreg>
     <motor><![CDATA[M5D]]></motor>
@@ -18,7 +18,9 @@
     <cuestion>
       <enunciado><![CDATA[En Alto Perú, hoy Bolivia, la rebelión fue dirigida por]]></enunciado>
       <explicacion/>
-      <texto><![CDATA[Desde mediados del siglo XVIII hubo levantamientos en todo el continente. La rebelión de Túpac Amaru II inició en la ciudad de Cuzco en 1780. En el Alto Perú se le unió Túpac Katari. Buscaban la supresión del trabajo indígena forzoso. Los criollos se unieron a los españoles para derrotarlos. Los dos líderes fueron descuartizados. El virrey hizo que cada una de sus partes fuera exhibida en las poblaciones que apoyaron su rebelión. En 1781 en el virreinato de la Nueva Granada ocurrió la Rebelión de los Comuneros. La causa fue el aumento de impuestos y el alza de los precios de algunos productos. Uno de sus líderes, José Antonio Galán, fue descuartizado y las partes de su cuerpo, exhibidas en las poblaciones que apoyaron la insurrección.]]></texto>
+      <texto><![CDATA[Desde mediados del siglo XVIII hubo levantamientos en todo el continente. La rebelión de Túpac Amaru II inició en la ciudad de Cuzco en 1780. En el Alto Perú se le unió Túpac Katari. Buscaban la supresión del trabajo indígena forzoso.
+	  
+	  Los criollos se unieron a los españoles para derrotarlos. Los dos líderes fueron descuartizados. El virrey hizo que cada una de sus partes fuera exhibida en las poblaciones que apoyaron su rebelión. En 1781 en el virreinato de la Nueva Granada ocurrió la Rebelión de los Comuneros. La causa fue el aumento de impuestos y el alza de los precios de algunos productos. Uno de sus líderes, José Antonio Galán, fue descuartizado y las partes de su cuerpo, exhibidas en las poblaciones que apoyaron la insurrección.]]></texto>
       <respuestas>
         <respuesta contestacion="Túpac Katari." correcta="1"/>
         <respuesta contestacion="Túpac Amaru II." correcta="0"/>

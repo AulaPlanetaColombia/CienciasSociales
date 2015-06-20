@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="12" clase="c" aprid="m12c">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Los virreinatos españoles en América</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M12C]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Los virreinatos eran unidades político-administrativas creadas por la Corona española para asegurar el control de las colonias americanas. Su creación ocurrió en distintos momentos. Establece el orden en que se crearon, según el video.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <orden ini="1535 se creó el virreinato de Nueva España" fi="1777 se creó el virreinato de Río de la Plata"/>
+  <video><![CDATA[vi002106_lo.mp4]]></video>
+  <elementos>
+    <elemento contestacion="1542 se creó virreinato de Perú" orden="1"/>
+    <elemento contestacion="1717 se desprendió del virreinato del Perú, el de la Nueva Granada" orden="2"/>
+    <elemento contestacion="1723 se suprimió el virreinato de Nueva Granada" orden="3"/>
+    <elemento contestacion="1739 se restableció el virreinato de Nueva Granada " orden="4"/>
+  </elementos>
+  <temps>15</temps>
+</motor>

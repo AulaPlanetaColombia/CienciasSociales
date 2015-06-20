@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="101" clase="a">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Evalúa tus conocimientos sobre la Independencia de América</titulo>
+    <volumen/>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia/>
+    <motor/>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines, haz clic en enviar. Si es necesario entrega las respuestas a mano o por mail a tu profesor para que pueda validarlas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="5">
+    <pregunta>
+      <enunciado><![CDATA[Según las palabras de Bolívar, describe cómo fue el proceso de conquista de América.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[La Carta de Jamaica fue un escrito que le dirigió Simón Bolívar a un comerciante inglés que manifestó su interés en apoyar la Independencia de América. A continuación hay algunos fragmentos en los que se expresa el pensamiento del Libertador sobre el contexto histórico y político que vivió el continente.]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Cómo se refiere Simón Bolívar a Napoleón? Según las palabras de Bolívar, ¿qué relación existe entre las actuaciones de Napoleón en España y la independencia de América?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA["La felonía con que Bonaparte -dice usted- prendió a Carlos IV y a Fernando VII, reyes de esta nación, que tres siglos ha aprisionó con traición a dos monarcas de la América meridional, es un acto manifiesto de retribución divina y, al mismo tiempo, una prueba de que Dios sostiene la justa causa de los americanos, y les concederá su independencia". ]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[En este fragmento, ¿cuál es el reclamo que hace Simón Bolívar?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[Nosotros estábamos en un grado todavía más abajo de la servidumbre y, por lo mismo, con más dificultad para elevarnos al goce de la libertad. (…)  Jamás éramos virreyes ni gobernadores sino por causas muy extraordinarias; arzobispos y obispos pocas veces; diplomáticos nunca; militares sólo en calidad de subalternos; nobles, sin privilegios reales; no éramos, en fin, ni magistrados ni financistas, y casi ni aun comerciantes; todo en contravención directa de nuestras instituciones. ]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Una vez se dieron las primeras declaraciones de independencia, las autoridades españolas fueron desplazadas. Según Simón Bolívar, ¿el resultado de este proceso fue exitoso? Explica tu respuesta.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[Los americanos han subido de repente y sin los conocimientos previos y, lo que es más sensible, sin la práctica de los negocios públicos a representar en la escena del mundo las eminentes dignidades de legisladores, magistrados, administradores del erario, diplomáticos, generales, y cuantas autoridades supremas y subalternas forman la jerarquía de un Estado organizado con regularidad.]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Luego de leer el fragmento, explica a cuáles hechos de los estudiados sobre las causas de la Independencia se refiere Bolívar.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[Cuando las águilas francesas arrollaron a los gobiernos de la Península, quedamos en la orfandad. Amenazados por la anarquía, a causa de la falta de un gobierno legítimo, justo y liberal, nos precipitamos en el caos de la revolución. Se establecieron autoridades que sustituimos a las que acabábamos de deponer. Todos los nuevos gobiernos marcaron sus primeros pasos con el establecimiento de juntas populares. Estas formaron en seguida reglamentos para la convocación de congresos que produjeron alteraciones importantes. ]]></texto>
+    </pregunta>
+  </preguntas>
+  <temps>60</temps>
+</motor>

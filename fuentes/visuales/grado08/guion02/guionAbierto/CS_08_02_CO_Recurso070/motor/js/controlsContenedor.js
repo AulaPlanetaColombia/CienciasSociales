@@ -371,7 +371,7 @@ function Boton( _width, _height, src, label, align) {
  		this.contenedor.addChild( this.pagines.contenedor );
  		this.contenedor.addChild( this.seguent.contenedor );
  		//seleccionem pagina actual
- 		this.pagines.pags[this.currentPag].bt.gotoAndStop("select"); 
+ 		this.pagines.pags[this.currentPag].state("select"); 
  		if(this.currentPag == this.numPagines - 1) this.seguent.contenedor.visible = false;
  	}
  	//posem contenidor al canvas amb transició
@@ -391,7 +391,7 @@ function Boton( _width, _height, src, label, align) {
  //funcio de seleccio de pagina
  solucioPanell.prototype.selectPag = function(numpag){
  	// posem estat de selecionat
-	this.pagines.pags[numpag-1].bt.gotoAndStop("select");
+	this.pagines.pags[numpag-1].state("select");
 	this.currentPag = numpag-1;
 
 	//amaguem o mostrem el boto de seguent
@@ -406,10 +406,10 @@ function Boton( _width, _height, src, label, align) {
  solucioPanell.prototype.unselectCurrentPag = function(){
  	// Al deseleccionar pagina mirem si es correcte o incorrecte per posar fons.
 	if(Motor.pagines[this.currentPag].validacio){
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("correct");
+		this.pagines.pags[this.currentPag].state("correct");
 	}
 	else{
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("error");
+		this.pagines.pags[this.currentPag].state("error");
 	}
 	//posem boto blau
 	this.pagines.pags[this.currentPag].numero.color = "#0D3158";
@@ -423,7 +423,7 @@ function Boton( _width, _height, src, label, align) {
 		
 		//seleccionem nova pagina
 		this.currentPag++;
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("select"); 
+		this.pagines.pags[this.currentPag].state("select"); 
 		this.pagines.pags[this.currentPag].numero.color = "#E1001A";
 		
 		// amaguem boto de seguent si s'escau
@@ -435,10 +435,10 @@ function Boton( _width, _height, src, label, align) {
 	for( key in Motor.pagines)
 	{
 		if(Motor.pagines[key].validacio){
-			this.pagines.pags[key].bt.gotoAndStop("correct");
+			this.pagines.pags[key].state("correct");
 		}
 		else{
-			this.pagines.pags[key].bt.gotoAndStop("error");
+			this.pagines.pags[key].state("error");
 		}
 	}
  }
@@ -446,40 +446,56 @@ function Boton( _width, _height, src, label, align) {
  // boto de pagina
  function PagBase(index, src)
  {
- 	this.contenedor = new createjs.Container();
- 	this.num = index+1;
- 	this.contestada = 0;
- 	//fons de la pagina
- 	var _imgLoaded = new Image(); 
-	_imgLoaded.src = src;
+ 	this.bt = new createjs.Container();
+	this.num = index + 1;
+	this.contestada = 0;
+	//fons de la pagina
+	this.fons = new createjs.Shape();
+	this.src = src;
+	if(src == "inici")
+		this.fons.graphics.beginFill("#556f8a").drawRoundRectComplex (1, 1, 28, 28, 6,0,0,6);
+	else if(src == "fi")
+		this.fons.graphics.beginFill("#556f8a").drawRoundRectComplex (1, 1, 28, 28, 0,6,6,0);
+	else
+		this.fons.graphics.beginFill("#556f8a").drawRoundRectComplex (1, 1, 28, 28, 0,0,0,0);
 
-	var data = {
-	    images: [_imgLoaded],
-	    frames: { width: 30, height: 30},
-	    animations: { normal: [0], select: [1], buit: [2], correct: [3], error: [4] }
-	}
-	var spriteSheet = new createjs.SpriteSheet(data);
-	this.bt = new createjs.Sprite(spriteSheet);
-		
-	this.bt.x = 0;
-	this.bt.y = 0;
-	this.bt.gotoAndStop("normal");
-	
 	//numero de pagina
 	this.numero = new createjs.RichText();
- 	this.numero.font =  "18px Arial";
+	this.numero.font = "18px Arial";
 	this.numero.color = "#0D3158";
 	this.numero.text = this.num.toString();
-	this.numero.x = (this.num.toString().length==1)? 10 : 4;
+	this.numero.x = (this.num.toString().length == 1) ? 10 : 4;
 	this.numero.y = 6;
-	this.numero.mouseEnabled= false;
+	this.numero.mouseEnabled = false;
 	// afegim components al contenidor
-	this.contenedor.addChild(this.bt);
-	this.contenedor.addChild(this.numero);
-	
-	this.contenedor.on("mouseover", function(evt){  document.body.style.cursor='pointer'; });
-	this.contenedor.on("mouseout", function(evt){  document.body.style.cursor='default'; });
+	this.bt.addChild(this.fons);
+	this.bt.addChild(this.numero);
+
+	this.bt.on("mouseover", function(evt) {
+		document.body.style.cursor = 'pointer';
+	});
+	this.bt.on("mouseout", function(evt) {
+		document.body.style.cursor = 'default';
+	});
  }
+ PagBase.prototype.state = function(estat){
+	
+	this.fons.graphics.clear();
+	var color ="";
+	
+	if(estat=="normal")	color = "#556f8a";
+	else if(estat=="select")color = "#f8b334";
+	else if(estat=="correct") color = "#41a62a";
+	else if(estat=="error")	color = "#e1061a";
+	else if(estat=="buit") color = "#fff";	
+
+	if(this.src == "inici")
+		this.fons.graphics.beginFill(color).drawRoundRectComplex (1, 1, 28, 28, 6,0,0,6);
+	else if(this.src == "fi")
+		this.fons.graphics.beginFill(color).drawRoundRectComplex (1, 1, 28, 28, 0,6,6,0);
+	else
+		this.fons.graphics.beginFill(color).drawRoundRectComplex (1, 1, 28, 28, 0,0,0,0);
+}
  //Bloc de botons de pagines
  function Paginador(numpagines)
  {
@@ -490,14 +506,17 @@ function Boton( _width, _height, src, label, align) {
  	{
  		var pag ="";
  		//creem tipus de boto de paginas
- 		if( i == 0 ) pag = new PagBase(i,pppPreloader.from("module", 'motor/images/paginacioIni.png'));
- 		else if( i == numpagines - 1 ) pag = new PagBase(i,pppPreloader.from("module", 'motor/images/paginacioFi.png'));
- 		else pag = new PagBase(i,pppPreloader.from("module", 'motor/images/paginacio.png'));
+ 				if (i == 0)
+			pag = new PagBase(i, 'inici'); //pppPreloader.from("module",  /*'motor/images/paginacioIni.png'*/));
+		else if (i == numpagines - 1)
+			pag = new PagBase(i, 'fi'); //pppPreloader.from("module", /*'motor/images/paginacioFi.png'*/));
+		else
+			pag = new PagBase(i, 'mig'); //pppPreloader.from("module", x/*'motor/images/paginacio.png'*/));
  		//coloquem pagina
- 		pag.contenedor.x= i*30;
- 		pag.contenedor.y = 0;
+ 		pag.bt.x= i*30;
+ 		pag.bt.y = 0;
  		//afegim pagina al contenidor i a la collecció
- 		this.contenedor.addChild(pag.contenedor);
+ 		this.contenedor.addChild(pag.bt);
  		this.pags.push(pag);	
  	}
  }
@@ -547,7 +566,7 @@ function Boton( _width, _height, src, label, align) {
  		//Afegim components de la paginació al contenidor
  		this.contenedor.addChild( this.pagines.contenedor );
  		this.contenedor.addChild( this.seguent.contenedor );
- 		this.pagines.pags[this.currentPag].bt.gotoAndStop("select"); 
+ 		this.pagines.pags[this.currentPag].state("select"); 
  	}
 	
 	//afegim contenidor al canvas amb transicio
@@ -559,7 +578,7 @@ function Boton( _width, _height, src, label, align) {
  //funcio seleccio de pagina
  inicialPanell.prototype.selectPag = function(numpag){
 	//selecionem fons del boto de paginacio
-	this.pagines.pags[numpag-1].bt.gotoAndStop("select");
+	this.pagines.pags[numpag-1].state("select");
 	this.currentPag = numpag-1;
 	//Eliminem boto de seguen si cal
 	if(this.currentPag < this.numPagines - 1) this.seguent.contenedor.visible = true;
@@ -569,13 +588,13 @@ function Boton( _width, _height, src, label, align) {
  inicialPanell.prototype.unselectCurrentPag = function(){
  	// si la pregunta de la pagina deseleccionada esta constestada o no mostrem un fons o un altre
  	if( this.pagines.pags[this.currentPag].contestada == 0 )
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("normal");
+		this.pagines.pags[this.currentPag].state("normal");
 	else 
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("buit");
+		this.pagines.pags[this.currentPag].state("buit");
  }
  //funció de posar la pagina com a contestada
  inicialPanell.prototype.checkedCurrentPag = function(){
-	this.pagines.pags[this.currentPag].contestada = 1; //.bt.gotoAndStop("buit");
+	this.pagines.pags[this.currentPag].contestada = 1; //.state("buit");
  }
  // per pasar a la pagina seguent
  inicialPanell.prototype.seguentPag = function(){
@@ -585,7 +604,7 @@ function Boton( _width, _height, src, label, align) {
 		this.unselectCurrentPag();	
 		//seleccionem pagina seguent	
 		this.currentPag++;
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("select"); 
+		this.pagines.pags[this.currentPag].state("select"); 
 		
 		//amaguem el boto de seguent si estem a la ultima pagina
 		if(this.currentPag == this.numPagines - 1) this.seguent.contenedor.visible = false;
