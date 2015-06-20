@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="c" aprid="m5c">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Simón Bolívar y la Independencia</titulo>
+    <area>0</area>
+    <nivel>2</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5C]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Escucha el radioteatro y luego elige las respuestas correctas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="3">
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál evento presenció Simón Bolívar cuando pasó por Francia hacia Milán?]]></enunciado>
+      <explicacion/>
+      <sonido><![CDATA[audiodummy.mp3]]></sonido>
+      <respuestas>
+        <respuesta contestacion="La coronación de Napoleón." correcta="1"/>
+        <respuesta contestacion="La boda de Napoleón." correcta="0"/>
+        <respuesta contestacion="El bautizo de un hijo de Napoleón." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[De Napoleón, a Simón Bolívar le impactó:]]></enunciado>
+      <explicacion/>
+      <sonido><![CDATA[audiodummy.mp3]]></sonido>
+      <respuestas>
+        <respuesta contestacion="La soberbia de Napoleón." correcta="1"/>
+        <respuesta contestacion="La sencillez de Napoleón." correcta="0"/>
+        <respuesta contestacion="La amistad que le ofreció Napoleón." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El juramento del Monte Sacro es:]]></enunciado>
+      <explicacion/>
+      <sonido><![CDATA[audiodummy.mp3]]></sonido>
+      <respuestas>
+        <respuesta contestacion="la promesa que hace Bolívar de liberar a las Colonias." correcta="1"/>
+        <respuesta contestacion="una propuesta de alianza con Europa." correcta="0"/>
+        <respuesta contestacion="una solicitud a Napoleón para que ayude a liberar el continente." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>30</temps>
+</motor>
