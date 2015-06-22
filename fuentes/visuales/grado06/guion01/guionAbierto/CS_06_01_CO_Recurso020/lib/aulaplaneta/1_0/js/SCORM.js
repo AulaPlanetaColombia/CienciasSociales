@@ -1,8 +1,13 @@
 /************************************************************************
 	SCORM.js: Connexió entre els exercicis i AulaPlaneta via SCORM
 	
-	Versió: 14.9.30.1
-	Història:	- 30/9/14: Assimilació mode "normal" a "exam" i afegig debugMode
+	Versió: 15.4.27.1
+	Història:
+						- 27/4/15: Afegida correcció Cross-Domain a getRecursiveQueryParam
+						- 23/4/15: Implementació Cross-Domain amb subdominis
+						- 23/3/15: Eliminació crida a doTerminate
+						- 17/3/15: Mantenir l'estat correcte de la configuració SCORM
+						- 30/9/14: Assimilació mode "normal" a "exam" i afegig debugMode
 						- 5/9/14: Primera versió
 	Autors: Sinergia sistemas informáticos
 	
@@ -41,20 +46,25 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 	
 	var getRecursiveQueryParam = function (pName) {
 		var w = window; // window es variable/objecte local
-		while (w != null) {
-			var res = getWindowQueryParam(w, pName);
-			if (res != "") {
-				//alert("Rec: "+pName+" => "+res);
-				return res;
+		try {
+			while (w != null) {
+				var res = getWindowQueryParam(w, pName);
+				if (res != "") {
+					//alert("Rec: "+pName+" => "+res);
+					return res;
+				}
+				// A vegades en comptes de retornar NULL retorna la
+				// mateixa finestra com a parent (una finestra és
+				// "parent" de sí mateixa)...
+				if (w == w.parent) {
+					break;
+				} else { // Si en canvi no sóc el meu pare, vol dir que haig de "pujar" en la jerarquia
+					w = w.parent;
+				}
 			}
-			// A vegades en comptes de retornar NULL retorna la
-			// mateixa finestra com a parent (una finestra és
-			// "parent" de sí mateixa)...
-			if (w == w.parent) {
-				break;
-			} else { // Si en canvi no sóc el meu pare, vol dir que haig de "pujar" en la jerarquia
-				w = w.parent;
-			}
+		} catch (error) {
+			if (console && console.log)
+				console.log("Posible error xdomain en getRecursiveQueryParam: '" + document.domain + "'" + error);
 		}
 		return "";
 	};
@@ -75,6 +85,57 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 		return "";
 	};
 	
+	// Rutina para resolver el tema de cross-origin/cross-domain entre iframes
+	var patchCrossDomainError = function () {
+			
+			// Si tenemos deshabilitada la función retornamos true directamente
+			if (aulaPlaneta.SCORM.patchCrossDomainErrorEnabled == false)
+				return true;
+			
+			// Intentamos cambiar el dominio al principal para que pueda acceder
+			var initialDomain = document.domain;
+			//console.log("CCD: Dominio inicial: " + initialDomain);
+			if (initialDomain.indexOf(".") == -1)
+				return true; // SIEMPRE DEVOLVEMOS TRUE PARA QUE INTENTE OBTENER EL API IGUAL
+
+			var newDomain = initialDomain;
+			var cdb = false;
+			var wp = window.parent;
+			if (wp == null || wp == window) {
+				wp = window.top.opener;
+			}
+			
+			// Mientras tengamos al menos algo del tipo xxxx.xxx, vamos subiendo
+			while (newDomain.indexOf(".") != -1 && wp != null && wp !== window) { 
+				// Bloque try/catch para detectar si falla la incursión en el padre
+				try {
+					//console.log("CCD: vamos a probar con el dominio: '" + newDomain + "'");
+					if (document.domain != newDomain)
+						document.domain = newDomain;
+					wp.document.getElementById("jeje"); // Simplemente al hacer la llamada debería petar, si el dominio no es compartido
+					cdb = true;
+					break;
+				} catch(ex) {
+					//console.log("CCD: ha petado... " + ex);
+				}
+				// Subimos un nivel
+				parts = newDomain.split(".");
+				parts.shift();
+				newDomain = parts.join(".");
+			}
+			
+			// Si no hemos conseguido comunicarnos con el padre, restauramos el dominio y 
+			// retornamos false.
+			if (cdb == false) {
+				//console.log("CCD FAIL: " + document.domain);
+				// return false;
+				return true; // SIEMPRE DEVOLVEMOS TRUE PARA QUE INTENTE OBTENER EL API IGUAL
+			}
+			
+			// Si todo ha ido bien, retornamos true
+			//console.log("CCD SUCCESS: dominio definitivo:" + document.domain);
+			return true;
+	}
 	
 	////////////////////////////////////////////////////////
 	// DEFINICION DEL SERVICIO "SCORM"
@@ -96,6 +157,11 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 		debugMode: false,
 
 		////////////////////////////////////////////////
+		// CHECK_TOP_DOMAIN
+		////////////////////////////////////////////////
+		patchCrossDomainErrorEnabled: true,
+
+		////////////////////////////////////////////////
 		// INICIALIZACION DE LA CONEXION SCORM
 		// Nos retorna un objecto con los parámetros
 		// obtenidos vía SCORM de AulaPlaneta:
@@ -113,9 +179,10 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 			var modo = "";
 			var completed = "";
 			var connected = false;
-	
+			
+			// Miramos de incializar el SCORM
 			// si la inicialización SCORM ha sido correcta, obtenemos las variables necesarias
-			if (typeof doInitialize == 'function' && doInitialize() == "true") {
+			if (typeof doInitialize == 'function' && patchCrossDomainError() && doInitialize() == "true") {
 
 				// Nos apuntamos que estamos conectados				
 				connected = true;
@@ -145,7 +212,6 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 				if (modo == aulaPlaneta.SCORM.MODO_REVIEW && getRecursiveQueryParam("IsAlumno") == "1") {
 					modo = aulaPlaneta.SCORM.MODO_AREVIEW;
 				}
-				
 			} else { // NO HAY CMI
 					// Recogemos los parámetros a través de la URL
 					// Si no les llega valor lo podemos establecer "harcodeado" para pruebas
@@ -172,16 +238,16 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 			}
 
 			// Montamos el objeto con el resultado
-			var res = {};
-			res.mode = modo;
-			res.completed = completed;
-			res.suspend_data = suspend_data;
-			res.connected = connected;
+			this.config = {};
+			this.config.mode = modo;
+			this.config.completed = completed;
+			this.config.suspend_data = suspend_data;
+			this.config.connected = connected;
 			
 			if (aulaPlaneta.SCORM.debugMode)
 				alert("SCORM Initialize MODO: " + res.mode + " - " + res.completed + " - " + res.suspend_data + " - " + res.connected);
 			
-			return res;
+			return this.config;
 			
 		},
 		
@@ -192,7 +258,8 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 			if (aulaPlaneta.SCORM.debugMode)
 				alert("SCORM Terminate");
 			// Matamos el cliente SCORM
-			doTerminate();
+			// 23/3/2015 - ELIMINADA LA LLAMADA, PUES REENVIA INFORMACION SCORM INVALIDA
+			// doTerminate();
 		},
 		
 		////////////////////////////////////////////////
@@ -229,6 +296,9 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 			doSetValue('cmi.completion_status', 'completed');
 			doSetValue('cmi.exit','suspend');
 			doCommit();
+			// Actualizamos el config
+			this.config.completed = 'completed';
+			this.config.suspend_data = estado;
 		},
 		
 		// API PARA EJERCICIOS NO AUTOEVALUADOS
@@ -238,6 +308,8 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 			// Ponemos las variables SCORM en función de la información proporcionada
 			doSetValue('cmi.suspend_data',estado);
 			doCommit();
+			// Actualizamos el config
+			this.config.suspend_data = estado;
 		},
 		
 		ejercicio_evaluar: function(estado, time) {
@@ -258,6 +330,9 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 			doSetValue('cmi.completion_status', 'completed');
 			doSetValue('cmi.exit','suspend');
 			doCommit();
+			// Actualizamos el config
+			this.config.completed = 'completed';
+			this.config.suspend_data = estado;
 		},
 		
 		// RUTINA A LA QUE SE LLAMA PARA CERRAR LA VENTANA
@@ -266,16 +341,21 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 				alert("SCORM ejercicio_cerrar");
 			// Llama la rutina "cerrar" de una ventana de orden superior (padre, abuelo, etc. del iframe, vamos)
 			var finalWindow = null;
-			var w = window.parent;
-			while (w != null) {
-				if (w.parent == null || w.parent == w) {
-					finalWindow = w;
-					break;
+			try {
+				var w = window.parent;
+				while (w != null) {
+					if (w.parent == null || w.parent == w) {
+						finalWindow = w;
+						break;
+					}
+					w = w.parent;
 				}
-				w = w.parent;
-			}
-			if (finalWindow != null) {
-				finalWindow.close();
+				if (finalWindow != null) {
+					finalWindow.close();
+				}
+			} catch (error) {
+				if (console && console.log)
+					console.log("Posible error xdomain en getRecursiveQueryParam: '" + document.domain + "'" + error);
 			}
 		}
 		

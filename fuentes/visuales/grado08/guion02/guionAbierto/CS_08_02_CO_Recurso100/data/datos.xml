@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?><motor tipo="1" clase="a" aprid="m1a">
   <plataforma>
     <grado><![CDATA[2]]></grado>
-    <titulo>Practica: Las batallas que definieron la Independencia</titulo>
+    <titulo>Las batallas que definieron la Independencia</titulo>
     <area>0</area>
-    <nivel>1</nivel>
+    <nivel>2</nivel>
     <referencia/>
     <idreg><![CDATA[0]]></idreg>
     <motor><![CDATA[M1A]]></motor>
