@@ -13,8 +13,28 @@
   </objeto>
   <objeto>
     <ref>10</ref>
+    <texto>aparecen imperios</texto>
+    <hijos>20,22,23</hijos>
+    <padre>00</padre>
+    <siz>14</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>20</ref>
+    <texto>África</texto>
+    <hijos>31</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>11</ref>
     <texto>surge por</texto>
-    <hijos>20</hijos>
+    <hijos>21</hijos>
     <padre>00</padre>
     <siz>14</siz>
     <negcur>000000000</negcur>
@@ -22,60 +42,60 @@
     <img/>
   </objeto>
   <objeto>
-    <ref>20</ref>
-    <texto>crisis del Imperio Romano</texto>
-    <hijos>31</hijos>
-    <padre>10</padre>
+    <ref>21</ref>
+    <texto>Crisis delImperio Romano</texto>
+    <hijos>30</hijos>
+    <padre>11</padre>
     <siz>0</siz>
     <negcur>0000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>11</ref>
-    <texto>aparecen imperios</texto>
-    <hijos>21,22,23</hijos>
-    <padre>00</padre>
+    <ref>22</ref>
+    <texto>Asia</texto>
+    <hijos>32</hijos>
+    <padre>10</padre>
     <siz>0</siz>
-    <negcur>00000000000000000</negcur>
+    <negcur>0000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>21</ref>
+    <ref>23</ref>
     <texto>Europa</texto>
-    <hijos>30</hijos>
-    <padre>11</padre>
+    <hijos>33</hijos>
+    <padre>10</padre>
     <siz>0</siz>
     <negcur>000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>31</ref>
+    <ref>30</ref>
     <texto>causada por</texto>
-    <hijos>41,40,42</hijos>
-    <padre>20</padre>
-    <siz>0</siz>
+    <hijos>40,41,42</hijos>
+    <padre>21</padre>
+    <siz>14</siz>
     <negcur>00000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>41</ref>
-    <texto>Cambios Económicos y Sociales</texto>
+    <ref>40</ref>
+    <texto>InvasionesGermánicas</texto>
     <hijos>50</hijos>
-    <padre>31</padre>
+    <padre>30</padre>
     <siz>0</siz>
-    <negcur>000000000000000000000000000000</negcur>
+    <negcur>000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>40</ref>
-    <texto>División del Imperio</texto>
+    <ref>41</ref>
+    <texto>División delImperio</texto>
     <hijos>51</hijos>
-    <padre>31</padre>
+    <padre>30</padre>
     <siz>0</siz>
     <negcur>00000000000000000000</negcur>
     <cen>1</cen>
@@ -83,81 +103,31 @@
   </objeto>
   <objeto>
     <ref>42</ref>
-    <texto>Invasiones Germánicas</texto>
+    <texto>Cambios económicosy sociales</texto>
     <hijos>52</hijos>
-    <padre>31</padre>
+    <padre>30</padre>
     <siz>0</siz>
-    <negcur>000000000000000000000</negcur>
+    <negcur>00000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>50</ref>
-    <texto>por</texto>
+    <texto>de</texto>
     <hijos>60</hijos>
-    <padre>41</padre>
-    <siz>0</siz>
-    <negcur>000</negcur>
+    <padre>40</padre>
+    <siz>14</siz>
+    <negcur>00</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>60</ref>
-    <texto>- Falta esclavos- Ruralización - Crisis comercial- Revueltas militares- Cristianismo</texto>
-    <hijos/>
+    <texto>- Visigodos- Francos- Vándalos- Sajones- Ostrogodos</texto>
+    <hijos>70</hijos>
     <padre>50</padre>
     <siz>0</siz>
-    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
-    <cen>0</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>51</ref>
-    <texto>en</texto>
-    <hijos>61,62</hijos>
-    <padre>40</padre>
-    <siz>0</siz>
-    <negcur>00</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>61</ref>
-    <texto>Imperio de Occidente</texto>
-    <hijos/>
-    <padre>51</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>62</ref>
-    <texto>Imperio de Oriente</texto>
-    <hijos/>
-    <padre>51</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>52</ref>
-    <texto>de</texto>
-    <hijos>63</hijos>
-    <padre>42</padre>
-    <siz>0</siz>
-    <negcur>00</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>63</ref>
-    <texto>- Visigodos - Francos - Vándalos - Sajones - Ostrogodos</texto>
-    <hijos>70</hijos>
-    <padre>52</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000000000000000000000000000000000000000000</negcur>
+    <negcur>00000000000000000000000000000000000000000000000000000000</negcur>
     <cen>0</cen>
     <img/>
   </objeto>
@@ -165,15 +135,15 @@
     <ref>70</ref>
     <texto>en el año 476</texto>
     <hijos>80</hijos>
-    <padre>63</padre>
-    <siz>0</siz>
+    <padre>60</padre>
+    <siz>14</siz>
     <negcur>0000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>80</ref>
-    <texto>ponen fin al Imperio Romano de Occidente</texto>
+    <texto>ponen fin alImperio Romanode Occidente</texto>
     <hijos/>
     <padre>70</padre>
     <siz>0</siz>
@@ -182,392 +152,152 @@
     <img/>
   </objeto>
   <objeto>
-    <ref>22</ref>
-    <texto>Asia</texto>
-    <hijos>32</hijos>
-    <padre>11</padre>
-    <siz>0</siz>
-    <negcur>0000</negcur>
+    <ref>51</ref>
+    <texto>en</texto>
+    <hijos>61</hijos>
+    <padre>41</padre>
+    <siz>14</siz>
+    <negcur>00</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>23</ref>
-    <texto>África</texto>
-    <hijos>33</hijos>
-    <padre>11</padre>
+    <ref>61</ref>
+    <texto>- Imperio de Occidente- Imperio de Oriente</texto>
+    <hijos/>
+    <padre>51</padre>
     <siz>0</siz>
-    <negcur>000000</negcur>
+    <negcur>0000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>por</texto>
+    <hijos>62</hijos>
+    <padre>42</padre>
+    <siz>14</siz>
+    <negcur>000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>30</ref>
+    <ref>62</ref>
+    <texto>- falta esclavos- ruralización- crisis comercial- revueltas militares- cristianismo</texto>
+    <hijos/>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
     <texto/>
-    <hijos>43</hijos>
-    <padre>21</padre>
-    <siz>0</siz>
+    <hijos>43,44</hijos>
+    <padre>20</padre>
+    <siz>14</siz>
     <negcur/>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>43</ref>
-    <texto>Imperio Carolingio</texto>
+    <texto>Imperiode Mali</texto>
     <hijos>53</hijos>
-    <padre>30</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>53</ref>
-    <texto>fundado por</texto>
-    <hijos>64</hijos>
-    <padre>43</padre>
-    <siz>0</siz>
-    <negcur>00000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>64</ref>
-    <texto>Carlomagno</texto>
-    <hijos/>
-    <padre>53</padre>
-    <siz>0</siz>
-    <negcur>0000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>32</ref>
-    <texto/>
-    <hijos>44,45</hijos>
-    <padre>22</padre>
-    <siz>0</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>44</ref>
-    <texto>Imperio Mongol</texto>
-    <hijos>54</hijos>
-    <padre>32</padre>
-    <siz>0</siz>
-    <negcur>00000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>45</ref>
-    <texto>Imperio de China</texto>
-    <hijos>55</hijos>
-    <padre>32</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>54</ref>
-    <texto>1206 d.C Genhis Kan</texto>
-    <hijos>65</hijos>
-    <padre>44</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>65</ref>
-    <texto>unifica tribus y funda el Estado Mongol</texto>
-    <hijos/>
-    <padre>54</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>55</ref>
-    <texto/>
-    <hijos>66</hijos>
-    <padre>45</padre>
-    <siz>0</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>66</ref>
-    <texto>Dinastía Jin</texto>
-    <hijos>71</hijos>
-    <padre>55</padre>
-    <siz>0</siz>
-    <negcur>0000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>71</ref>
-    <texto>desintegración del imperio</texto>
-    <hijos>81</hijos>
-    <padre>66</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>81</ref>
-    <texto>16 reinos 304d.C. - 439 d.C.</texto>
-    <hijos/>
-    <padre>71</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>33</ref>
-    <texto/>
-    <hijos>46,47</hijos>
-    <padre>23</padre>
-    <siz>0</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>46</ref>
-    <texto>Imperio de Ghana (VII - IX d.C.)</texto>
-    <hijos>56,57,58</hijos>
-    <padre>33</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>47</ref>
-    <texto>Imperio de Mali</texto>
-    <hijos>59</hijos>
-    <padre>33</padre>
+    <padre>31</padre>
     <siz>0</siz>
     <negcur>000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>56</ref>
-    <texto>800 d.C.</texto>
-    <hijos>67,6A</hijos>
-    <padre>46</padre>
+    <ref>44</ref>
+    <texto>Imperio de Ghana(VII - XI d.C.)</texto>
+    <hijos>54,55,56</hijos>
+    <padre>31</padre>
     <siz>0</siz>
-    <negcur>00000000</negcur>
+    <negcur>00000000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>67</ref>
-    <texto>control yacimientos de oro</texto>
-    <hijos/>
-    <padre>56</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>57</ref>
-    <texto>X d.C.</texto>
-    <hijos>68</hijos>
-    <padre>46</padre>
-    <siz>0</siz>
-    <negcur>000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>68</ref>
-    <texto>apogeo</texto>
-    <hijos/>
-    <padre>57</padre>
-    <siz>0</siz>
-    <negcur>000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>58</ref>
-    <texto>1062 d.C.</texto>
-    <hijos>69</hijos>
-    <padre>46</padre>
-    <siz>0</siz>
-    <negcur>000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>69</ref>
-    <texto>sitio de Almoravides</texto>
-    <hijos>72</hijos>
-    <padre>58</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>6A</ref>
-    <texto>control comercial, paso caravanas</texto>
-    <hijos/>
-    <padre>56</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>72</ref>
-    <texto>1076</texto>
-    <hijos>82</hijos>
-    <padre>69</padre>
-    <siz>0</siz>
-    <negcur>0000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>82</ref>
-    <texto>Fractura del imperio</texto>
-    <hijos>90,91</hijos>
-    <padre>72</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>90</ref>
-    <texto>norte</texto>
-    <hijos>a0</hijos>
-    <padre>82</padre>
-    <siz>0</siz>
-    <negcur>00000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>a0</ref>
-    <texto>Almoravides musulmanes</texto>
-    <hijos/>
-    <padre>90</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>91</ref>
-    <texto>sur</texto>
-    <hijos>a1</hijos>
-    <padre>82</padre>
-    <siz>0</siz>
-    <negcur>000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>a1</ref>
-    <texto>Soninké no musulmanes</texto>
-    <hijos/>
-    <padre>91</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>59</ref>
+    <ref>53</ref>
     <texto/>
-    <hijos>6B</hijos>
-    <padre>47</padre>
-    <siz>0</siz>
+    <hijos>63</hijos>
+    <padre>43</padre>
+    <siz>14</siz>
     <negcur/>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>6B</ref>
-    <texto>reino de Mali (mandingas)</texto>
-    <hijos>73</hijos>
-    <padre>59</padre>
+    <ref>63</ref>
+    <texto>reino de Mali(mandingas)</texto>
+    <hijos>71</hijos>
+    <padre>53</padre>
     <siz>0</siz>
     <negcur>0000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>73</ref>
+    <ref>71</ref>
     <texto>lo liberó</texto>
-    <hijos>83</hijos>
-    <padre>6B</padre>
-    <siz>0</siz>
+    <hijos>81</hijos>
+    <padre>63</padre>
+    <siz>14</siz>
     <negcur>000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>83</ref>
+    <ref>81</ref>
     <texto>Sundiatakcita</texto>
-    <hijos>92</hijos>
-    <padre>73</padre>
+    <hijos>90</hijos>
+    <padre>71</padre>
     <siz>0</siz>
     <negcur>0000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>92</ref>
-    <texto>XIII d.C. da forma al imperio</texto>
-    <hijos>a2,a3,a4</hijos>
-    <padre>83</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000000000000000</negcur>
+    <ref>90</ref>
+    <texto>XIII d.C. da formaal imperio</texto>
+    <hijos>a0,a1,a2</hijos>
+    <padre>81</padre>
+    <siz>14</siz>
+    <negcur>00000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>a2</ref>
-    <texto>extiende territorio</texto>
+    <ref>a0</ref>
+    <texto>impulsócomerciotransahariano</texto>
     <hijos/>
-    <padre>92</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>a3</ref>
-    <texto>impulsó comercio transahariano</texto>
-    <hijos/>
-    <padre>92</padre>
+    <padre>90</padre>
     <siz>0</siz>
     <negcur>000000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>a4</ref>
-    <texto>el momento mas importante del imperio</texto>
+    <ref>a1</ref>
+    <texto>el momentomas importantedel imperio</texto>
     <hijos>b0</hijos>
-    <padre>92</padre>
+    <padre>90</padre>
     <siz>0</siz>
     <negcur>0000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a2</ref>
+    <texto>extiendeterritorio</texto>
+    <hijos/>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
@@ -575,9 +305,9 @@
     <ref>b0</ref>
     <texto>VIX d.C.</texto>
     <hijos>c0</hijos>
-    <padre>a4</padre>
-    <siz>0</siz>
-    <negcur>000000000</negcur>
+    <padre>a1</padre>
+    <siz>14</siz>
+    <negcur>00000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
@@ -596,14 +326,14 @@
     <texto>liberaliza comercio</texto>
     <hijos>e0,e1</hijos>
     <padre>c0</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000</negcur>
+    <siz>14</siz>
+    <negcur>0000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>e0</ref>
-    <texto>Árabes bereberes</texto>
+    <texto>Árabesbereberes</texto>
     <hijos/>
     <padre>d0</padre>
     <siz>0</siz>
@@ -616,6 +346,266 @@
     <texto>Musulmanes</texto>
     <hijos/>
     <padre>d0</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>54</ref>
+    <texto>1062 d.C.</texto>
+    <hijos>64</hijos>
+    <padre>44</padre>
+    <siz>14</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>sitio de Almoravides</texto>
+    <hijos>72</hijos>
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>55</ref>
+    <texto>X d.C.</texto>
+    <hijos>65</hijos>
+    <padre>44</padre>
+    <siz>14</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>apogeo</texto>
+    <hijos/>
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>56</ref>
+    <texto>800 d.C.</texto>
+    <hijos>66,67</hijos>
+    <padre>44</padre>
+    <siz>14</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>control yacimientosde oro</texto>
+    <hijos/>
+    <padre>56</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>72</ref>
+    <texto>1076</texto>
+    <hijos>82</hijos>
+    <padre>64</padre>
+    <siz>14</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>Fracturadel imperio</texto>
+    <hijos>91,92</hijos>
+    <padre>72</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>91</ref>
+    <texto>sur</texto>
+    <hijos>a3</hijos>
+    <padre>82</padre>
+    <siz>14</siz>
+    <negcur>000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a3</ref>
+    <texto>Almoravidesmusulmanes</texto>
+    <hijos/>
+    <padre>91</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>92</ref>
+    <texto>norte</texto>
+    <hijos>a4</hijos>
+    <padre>82</padre>
+    <siz>14</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a4</ref>
+    <texto>Soninké nomusulmanes</texto>
+    <hijos/>
+    <padre>92</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>67</ref>
+    <texto>control comercial,paso caravanas</texto>
+    <hijos/>
+    <padre>56</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto/>
+    <hijos>45,46</hijos>
+    <padre>22</padre>
+    <siz>14</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>45</ref>
+    <texto>Imperiode China</texto>
+    <hijos>57</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>46</ref>
+    <texto>ImperioMongol</texto>
+    <hijos>58</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>57</ref>
+    <texto/>
+    <hijos>68</hijos>
+    <padre>45</padre>
+    <siz>14</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>68</ref>
+    <texto>Dinastia Jin</texto>
+    <hijos>73</hijos>
+    <padre>57</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>73</ref>
+    <texto>desintegracióndel imperio</texto>
+    <hijos>83</hijos>
+    <padre>68</padre>
+    <siz>14</siz>
+    <negcur>00000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>83</ref>
+    <texto>16 reinos 304 d.C. - 439 d.C.</texto>
+    <hijos/>
+    <padre>73</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>58</ref>
+    <texto>1206 d.C.Genhis Kan</texto>
+    <hijos>69</hijos>
+    <padre>46</padre>
+    <siz>14</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>69</ref>
+    <texto>unifica tribusy funda elEstado Mongol</texto>
+    <hijos/>
+    <padre>58</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>33</ref>
+    <texto/>
+    <hijos>47</hijos>
+    <padre>23</padre>
+    <siz>14</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>47</ref>
+    <texto>ImperioCarolingio</texto>
+    <hijos>59</hijos>
+    <padre>33</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>59</ref>
+    <texto>Fundado por</texto>
+    <hijos>6A</hijos>
+    <padre>47</padre>
+    <siz>14</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>6A</ref>
+    <texto>Carlomagno</texto>
+    <hijos/>
+    <padre>59</padre>
     <siz>0</siz>
     <negcur>0000000000</negcur>
     <cen>1</cen>
