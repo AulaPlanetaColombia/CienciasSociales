@@ -7,15 +7,15 @@ function Pagina( pregunta, _numpagina) {
     this.video = pregunta.video;
     this.salto = (pregunta.salto != "" )? pregunta.salto/25: 0;
     
-    this.enunciat.font = (Contenedor.datosXML.plataforma.grado == 1)? "22px Arial" : "19px Arial" ;
-	this.enunciat.fontSize = (Contenedor.datosXML.plataforma.grado == 1)? 22 : 19 ;
+    this.enunciat.font = (Contenedor.datosXML.plataforma.grado == 1)? "19px Arial" : "17px Arial" ;
+	this.enunciat.fontSize = (Contenedor.datosXML.plataforma.grado == 1)? 19 : 17 ;
 	this.enunciat.color = "#0D3158";
 	this.enunciat.x = 15;
 	this.enunciat.y = 10 ;
-	this.enunciat.lineWidth = 850;
+	this.enunciat.lineWidth = 900;
 	this.enunciat.lineHeight = 22;
 	this.enunciat.mask = new createjs.Shape();
-	this.enunciat.mask.graphics.beginFill("#fff").drawRect(0,0,850, 45);
+	this.enunciat.mask.graphics.beginFill("#fff").drawRect(0,0,900, 45);
 	this.enunciat.mask.y = 10;
 	this.enunciat.mask.x = 15;
 	this.enunciat.mouseEnabled = false;
@@ -27,16 +27,16 @@ function Pagina( pregunta, _numpagina) {
 	
 	this.explicacion = new createjs.RichText();
 	this.explicacion.text = pregunta.explicacion;
-	this.explicacion.font = (Contenedor.datosXML.plataforma.grado == 1)? "16px Arial" : "14px Arial" ;
-	this.explicacion.fontSize = (Contenedor.datosXML.plataforma.grado == 1)? 16 : 14 ;
+	this.explicacion.font = (Contenedor.datosXML.plataforma.grado == 1)? "15px Arial" : "13px Arial" ;
+	this.explicacion.fontSize = (Contenedor.datosXML.plataforma.grado == 1)? 15 : 13 ;
 	this.explicacion.color = "#0D3158";
 	this.explicacion.x = 400;
-	this.explicacion.y = 375;
+	this.explicacion.y = 355;
 	this.explicacion.lineWidth = 500;
-	this.explicacion.lineHeight = 22;
+	this.explicacion.lineHeight = 21;
 	this.explicacion.mask = new createjs.Shape();
-	this.explicacion.mask.graphics.beginFill("#fff").drawRect(0,0,500, 66);
-	this.explicacion.mask.y = 375;
+	this.explicacion.mask.graphics.beginFill("#fff").drawRect(0,0,500, 88);
+	this.explicacion.mask.y = 355;
 	this.explicacion.mask.x = 400;
 	this.explicacion.mouseEnabled = false;
 	this.explicacion.visible = false;
@@ -58,7 +58,7 @@ function Pagina( pregunta, _numpagina) {
 		pregunta.respuestas.splice(index,1);
 		
 		var cb = new CheckBox( resp, this, i);
-    	cb.contenedor.y = 100 + (280 / num_respuestas) * i;
+    	cb.contenedor.y = 90 + (280 / num_respuestas) * i;
     	cb.contenedor.x = 400;
     	this.contenedor.addChild(cb.contenedor);
     	
