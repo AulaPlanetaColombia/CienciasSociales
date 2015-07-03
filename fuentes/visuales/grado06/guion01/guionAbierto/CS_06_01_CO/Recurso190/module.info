@@ -1,8 +1,8 @@
 [module]
 id=m102ab
 desc=Motor M102ab
-aprid=m10b
-version=15.2.6.1
+aprid=m102ab
+version=15.4.27.1
 folder=motor
-entrypoint=Principal.html
+entrypoint=principal.html
 dependencies=principal.dep

@@ -5,20 +5,20 @@
 <libro id="CS_06_01_CO">
 <libroTitulo>La historia</libroTitulo>
 <seccion1 id="S1_CS_06_01_CO_03E0CA843D67455FA94D627E48E01411">
-<seccion1Titulo>¿Qué es la historia?</seccion1Titulo><?Pub Caret 0?>
+<seccion1Titulo>¿Qué es la historia?</seccion1Titulo>
 <seccion1Texto>
 <p>La historia es una <negrita>ciencia social</negrita> que estudia
-la humanidad y sus diferentes formas de organización social, política,
-económica y cultural  a través del tiempo.  A través de la <negrita
->historiografía</negrita> se estudian los hechos ocurridos en el pasado
-y las sociedades que los protagonizaron</p>
+las diferentes formas de organización social, política, económica
+y cultural a lo largo del tiempo. A través de la <negrita>historiografía</negrita
+> es posible conocer hechos ocurridos en el pasado y las sociedades
+que los protagonizaron.</p>
 <p>El pasado histórico anterior a la creación de la <negrita>escritura</negrita
 > se estudia a partir de <negrita>fuentes arqueológicas</negrita> como
 instrumentos, vasijas, pinturas y construcciones que se hallan en
 excavaciones. Para el estudio de las civilizaciones posteriores a
 la escritura, se toman las <negrita>fuentes escritas</negrita>, además
 de las arqueológicas.</p>
-<imagen src="CS_06_01_CO_IMG01_small.jpg">
+<imagen ampliable="no" src="CS_06_01_CO_IMG01_small.jpg">
 <p>La civilización egipcia es una de las más destacadas de la antigüedad.
 Gracias al trabajo de historiadores y arqueólogos, día a día se desentierran
 los secretos que llevan siglos ocultos bajo la arena del desierto.
@@ -31,10 +31,11 @@ Un buen ejemplo de ello son las pinturas que decoran la tumba de Horemheb
 <p>El estudio del pasado de la humanidad permite <negrita>comprender
 el presente</negrita> como resultado de un proceso de transformaciones
 en las diferentes formas de organización de las sociedades. Estos
-conocimientos nos ayudan a tener una visión crítica de los hechos
-y a <negrita>explicar y analizar</negrita> nuestro mundo actual <negrita
->para proyectar acciones que beneficien a la humanidad</negrita>.</p>
-<imagen src="CS_06_01_CO_IMG02_small.jpg">
+conocimientos nos ayudan a tener una <negrita>visión crítica</negrita
+> de los hechos y a <negrita>explicar</negrita> y <negrita>analizar</negrita
+> nuestro mundo actual para <negrita>proyectar acciones</negrita> que
+beneficien a la humanidad.</p>
+<imagen ampliable="no" src="CS_06_01_CO_IMG02_small.jpg">
 <p>Se considera que el griego Heródoto (alrededor de 485-420 a.n.e)
 fue el padre de la historiografía. Su obra destaca por la imparcialidad
 con la que presenta los hechos, la búsqueda de fuentes fiables y el
@@ -53,14 +54,14 @@ id="S2_CS_06_01_CO_3AC84FE94A714F63A39A8A6558E7CEC3">
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso010&amp;IdRecurso=RES-EB87A73EC77F4021BE5A95A5E044C71A"
->La historia</enlace>
+>Refuerza tu aprendizaje: La historia: función y utilidad</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_06_01_CO_1AA1E908705B45FFAD25D4064902C065">
-<seccion1Titulo>Cronología</seccion1Titulo>
+<seccion1Titulo>¿Qué es la cronología?</seccion1Titulo>
 <seccion1Texto>
-<p>La palabra cronología viene del griego Crono, que significa tiempo
-y Logos, conocimiento; por tanto, <negrita>cronología</negrita> es
-el estudio del tiempo.</p>
+<p>La palabra cronología viene del griego <cursiva>crono</cursiva
+>, que significa tiempo y <cursiva>logos</cursiva>, conocimiento;
+por tanto, <negrita>cronología</negrita> es el estudio del tiempo.</p>
 <p>La <negrita>cronología</negrita> es una ciencia auxiliar de la
 historia que se encarga de determinar las <negrita>fechas</negrita
 > de los <negrita>hechos históricos</negrita>. Para representar el
@@ -103,7 +104,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso030&amp;IdRecurso=RES-FDA8FD
 <p>Aquí puedes crear tu propio eje cronológico <enlace
 destino="http://www.dipity.com/">[VER]</enlace>.</p>
 <seccion2 id="S2_CS_06_01_CO_158BCA7505CE430EB480F3737E6C3B7C">
-<seccion2Titulo>Métodos para la medición del tiempo en hallazgos arqueológicos</seccion2Titulo>
+<seccion2Titulo>La medición del tiempo en hallazgos arqueológicos</seccion2Titulo>
 <seccion2Texto>
 <p>Para determinar la antigüedad de los restos arqueológicos, objetos
 o humanos, se acude a dos métodos:</p>
@@ -128,7 +129,7 @@ id="S2_CS_06_01_CO_158BCA7505CE430EB480F3737E6C4C8D">
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso040&amp;IdRecurso=RES-A9FE960F98D74B7F808201B33D77E32C"
->Comprende cómo se realiza la definición de fechas y edades</enlace>
+>Refuerza tu aprendizaje: Comprende cómo se realiza la datación histórica</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_06_01_CO_94C910E072104C118D2B1BE9DA6738C2">
 <seccion1Titulo>Etapas de la historia</seccion1Titulo>
@@ -137,7 +138,15 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso040&amp;IdRecurso=RES-A9FE96
 los especialistas la han dividido en diferentes épocas y periodos.
 Los cambios de uno a otro no fueron inmediatos, pero se establecieron
 unos hechos concretos como las fechas de principio y final de cada
-uno de ellos:</p>
+uno de ellos.</p>
+<imagen src="CS_06_01_CO_IMG09_small.jpg">
+<p>Los <negrita>ejes cronológicos</negrita> son una herramienta muy
+útil para tener una visión global de las principales etapas en las
+que se divide la historia y para saber cuáles fueron los principales
+acontecimientos que tuvieron lugar en cada momento. Recuerda que el
+límite entre prehistoria e historia se sitúa en torno al año 3500
+a.n.e. cuando se inventó la escritura.</p>
+</imagen>
 <seccion2 id="S2_CS_06_01_CO_D8BBF28976B944908324E1DA12CB3259">
 <seccion2Titulo>La prehistoria</seccion2Titulo>
 <seccion2Texto>
@@ -146,27 +155,21 @@ Se extiende desde la aparición de los primeros <negrita>seres humanos</negrita
 > (hace 2,5 millones de años) hasta la invención de la <negrita>escritura</negrita
 > (hacia el año 3500 a.n.e). La prehistoria, a su vez, se divide en
 tres épocas distintas:</p>
-<seccion3 id="S3_CS_06_01_CO_CC8A4D6D5644407682781C7C3673A74E">
-<seccion3Titulo>El Paleolítico</seccion3Titulo>
-<seccion3Texto>
-<p>Es la época más antigua de la prehistoria. Comienza con la <negrita
->aparición de los primeros homínidos o seres humanos</negrita> (2,5
-millones de años) y finaliza con el descubrimiento de la agricultura
-y de la ganadería (10000 a.n.e).</p>
-</seccion3Texto></seccion3><seccion3
-id="S3_CS_06_01_CO_8CB3C40EFF304349ACF489611EDE9145">
-<seccion3Titulo>El Neolítico</seccion3Titulo>
-<seccion3Texto>
-<p>Es la etapa de la prehistoria comprendida entre el descubrimiento
-de la <negrita>agricultura</negrita> y de la <negrita>ganadería</negrita
->, y el descubrimiento de la <negrita>metalurgia</negrita> (5000 a.n.e).</p>
-</seccion3Texto></seccion3><seccion3
-id="S3_CS_06_01_CO_C8AED1F84F4F420E9A4B4554D07ADDAF">
-<seccion3Titulo>La Edad de los Metales</seccion3Titulo>
-<seccion3Texto>
-<p>Es la etapa de la prehistoria que se extiende desde el descubrimiento
+<listaSinNumerar>
+<listaElemento><negrita>El Paleolítico</negrita><br/>Es la época más
+antigua de la prehistoria. Comienza con la <negrita>aparición de los
+primeros homínidos o seres humanos</negrita> (2,5 millones de años)
+y finaliza con el descubrimiento de la agricultura y de la ganadería
+(10000 a.n.e).</listaElemento>
+<listaElemento><negrita>El Neolítico</negrita><br/>Es la etapa de
+la prehistoria comprendida entre el descubrimiento de la <negrita
+>agricultura</negrita> y de la <negrita>ganadería</negrita>, y el
+descubrimiento de la <negrita>metalurgia</negrita> (5000 a.n.e).</listaElemento>
+<listaElemento><negrita>La Edad de los Metales</negrita><br/><?Pub
+Caret -2?>Es la etapa de la prehistoria que se extiende desde el descubrimiento
 de la <negrita>metalurgia</negrita> hasta la invención de la <negrita
->escritura</negrita> (3500 a.n.e).</p>
+>escritura</negrita> (3500 a.n.e).</listaElemento>
+</listaSinNumerar>
 <imagen src="CS_06_01_CO_IMG03_small.jpg">
 <p>La <negrita>prehistoria</negrita> es la etapa más larga de la historia
 de la humanidad. Comenzó hace 2,5 millones de años con la aparición
@@ -179,20 +182,19 @@ de los primeros seres humanos. Durante el <negrita>Paleolítico</negrita
 <p>El término <negritacursiva>homínido</negritacursiva> se utiliza
 para denominar la familia de primates a la que pertenece el <negrita
 >ser humano</negrita><cursiva> (Homo sapiens)</cursiva> y sus antepasados.</p>
-</recuerdaTexto></recuerda></seccion3Texto></seccion3></seccion2Texto>
-</seccion2><seccion2
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
 id="S2_CS_06_01_CO_FA168FF851974EBCAE8EDBF5619EE377">
 <seccion2Titulo>La Edad Antigua</seccion2Titulo>
 <seccion2Texto>
-<p>Comenzó hacia el 3500 a.n.e con la <negrita>invención de la escritura</negrita
+<p>Comenzó hacia el 3500 a.n.e. con la <negrita>invención de la escritura</negrita
 >. Los primeros documentos escritos fueron hallados en Mesopotamia.
 Finalizó con la caída del <negrita>Imperio Romano de Occidente</negrita
 > en el año 476; en este periodo surgieron las <negrita>primeras civilizaciones</negrita
 > en Mesopotamia, Egipto, China, India, Grecia y Roma.</p>
-<imagen src="CS_06_01_CO_IMG04_small.jpg">
+<imagen ampliable="no" src="CS_06_01_CO_IMG04_small.jpg">
 <p>La escritura <negrita>cuneiforme</negrita> fue una de las primeras
 manifestaciones escritas de la humanidad. En la antigüedad se escribía
-en tablillas de arcilla como esta, elaborada en el III milenio a.n.e
+en tablillas de arcilla como esta, elaborada en el III milenio a.n.e.
 en Oriente Próximo.</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
@@ -235,7 +237,7 @@ paso de la Edad Media a la Edad Moderna. Algunos historiadores, sin
 embargo, consideran que el fin de la Edad Moderna debe situarse en
 el año 1453, cuando los turcos conquistaron la ciudad de Constantinopla.</p>
 </imagen>
-<imagen src="CS_06_01_CO_IMG07_small.jpg">
+<imagen ampliable="no" src="CS_06_01_CO_IMG07_small.jpg">
 <p>La <negrita>Edad Moderna</negrita> se extiende desde finales del
 siglo XV hasta finales del siglo XVIII. Durante esos tres siglos surgió
 una nueva forma de gobierno: el <negrita>absolutismo</negrita>. Su
@@ -314,14 +316,6 @@ y de los arqueólogos.</p>
 </tr>
 </tbody>
 </table>
-<imagen src="CS_06_01_CO_IMG09_small.jpg">
-<p>Los <negrita>ejes cronológicos</negrita> son una herramienta muy
-útil para tener una visión global de las principales etapas en las
-que se divide la historia y para saber cuáles fueron los principales
-acontecimientos que tuvieron lugar en cada momento. Recuerda que el
-límite entre prehistoria e historia se sitúa en torno al año 3500
-a.n.e, cuando se inventó la escritura.</p>
-</imagen>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso050&amp;IdRecurso=RES-74BF6002030243D282B7252D756DB05B"
@@ -329,7 +323,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso050&amp;IdRecurso=RES-74BF60
 </profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso060&amp;IdRecurso=RES-483D941C359E4DB1AD553A244803D43A"
->Ordena acontecimientos en el tiempo</enlace>
+>Realiza un eje cronológico</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_06_01_CO_7A8E9983A2F94836810A34DDBDDDFDD8">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -344,17 +338,17 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso070&amp;IdRecurso=RES-AA7BA0
 <seccion1Titulo>Las fuentes históricas</seccion1Titulo>
 <seccion1Texto>
 <p>La historia es una ciencia social que trabaja a partir de las fuentes
-históricas. Las fuentes históricas son testimonios del pasado a partir
-de los cuales podemos averiguar más sobre los pueblos y las sociedades
-que nos precedieron. Según el modo en el que se presenta la información,
-las fuentes históricas pueden ser escritas, materiales, orales o audiovisuales.
-Según su origen se clasifican en:</p>
+históricas; estas son testimonios del pasado a partir de los cuales
+podemos averiguar más sobre los pueblos y las sociedades que nos precedieron.
+Según el modo en el que se presenta la información, las fuentes históricas
+pueden ser escritas, materiales, orales o audiovisuales. Según su
+origen se clasifican en:</p>
 <listaSinNumerar>
 <listaElemento><negrita>Fuentes primarias:</negrita> están libres
-de interpretaciones o modificaciones, se presentan en su forma original.
+de interpretaciones o modificaciones, se presentan en su forma original,
 corresponden al periodo que se estudia, como por ejemplo las ánforas
 griegas, las monedas romanas o los textos medievales. Los historiadores
-y los arqueólogos trabajan con ellas para entender el pasado. </listaElemento>
+y los arqueólogos trabajan con ellas para entender el pasado.</listaElemento>
 <listaElemento><negrita>Fuentes secundarias:</negrita> se han elaborado
 a partir de las fuentes primarias. Pueden ser dibujos, mapas, libros,
 artículos científicos, audiovisuales, etc.</listaElemento>
@@ -369,7 +363,7 @@ más ajustadas posibles a la realidad.</p>
 </recuerdaTexto></recuerda><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso080&amp;IdRecurso=RES-50812EA2B7F24A84BDD530068D86FA80"
->Refuerza tu aprendizaje: El estudio del pasado</enlace>
+>El estudio del pasado</enlace>
 </practica><seccion2
 id="S2_CS_06_01_CO_B5E252290B0E40C2A147F976160A4D24">
 <seccion2Titulo>Las fuentes materiales</seccion2Titulo>
@@ -377,8 +371,8 @@ id="S2_CS_06_01_CO_B5E252290B0E40C2A147F976160A4D24">
 <p>Todos aquellos <negrita>objetos</negrita> (herramientas, monedas,
 armas, obras de arte, etc.) y <negrita>edificios</negrita> (viviendas,
 templos, infraestructuras, etc.) del pasado pueden considerarse <negrita
->fuentes materiales</negrita> que pueden aportar información valiosa
-sobre las sociedades que nos precedieron.</p>
+>fuentes materiales</negrita>; estas aportan información valiosa sobre
+las sociedades que nos precedieron.</p>
 <imagen src="CS_06_01_CO_IMG10_small.jpg">
 <p>Los <negrita>objetos del pasado</negrita> pueden aportar mucha
 información sobre la época a la que pertenecieron. Una <negrita>moneda
@@ -476,14 +470,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso150&amp;IdRecurso=RES-B3F3BB
 <seccion1 id="S1_CS_06_01_CO_B6FD1FDBE0644BD5BECF37732F50DC33">
 <seccion1Titulo>Las ciencias auxiliares de la historia</seccion1Titulo>
 <seccion1Texto>
-<p>¿Cómo puedes saber lo que sucedió en la antigüedad? Los historiadores
-y los arqueólogos utilizan la información que nos proporcionan los <negrita
->restos de épocas pasadas</negrita>, extraen los datos que necesitan
-y, una vez hecho esto, <negrita>reconstruyen</negrita> el pasado y
-lo <negrita>explican</negrita>. Para ello, primero se plantean una <negrita
->pregunta</negrita> sobre la época estudiada. Por ejemplo: ¿Cómo vivían
-los cazadores y recolectores? A partir de ella buscan la información
-en las fuentes que tienen para hallar la respuesta.</p>
 <p>Para encontrar la información necesaria a la hora de estudiar el
 pasado, los historiadores necesitan de otras ciencias como la <negrita
 >arqueología</negrita>, la <negrita>geografía</negrita>, la <negrita
@@ -495,6 +481,12 @@ También recurren a otras disciplinas más específicas como la <negrita
 duros como la piedra o el metal) o la <negrita>cartografía</negrita
 > (la ciencia encargada de elaborar mapas). A estas ciencias se les
 denomina <negrita>ciencias auxiliares</negrita> de la historia.</p>
+<imagen src="CS_06_01_CO_IMG14_small.jpg">
+<p>A partir de un <negrita>fósil</negrita> como el de la imagen, los
+arqueólogos pueden, gracias a distintas técnicas y recursos, extraer
+información sobre la procedencia y la antigüedad del hallazgo. Así
+tendrán elementos de gran ayuda para reconstruir el pasado.</p>
+</imagen>
 <p>Existen otras disciplinas que, a menudo, son usadas por arqueólogos
 e historiadores. La <negrita>química</negrita>, por ejemplo, es esencial
 para saber de cuándo son los <negrita>restos orgánicos</negrita> mediante
@@ -502,44 +494,39 @@ la técnica del carbono-14 <enlace
 destino="http://www.andaluciainvestiga.com/espanol/cienciaAnimada/sites/carbono/carbono.swf"
 >[VER]</enlace>.</p>
 <p>La <negrita>paleontología </negrita> <enlace
-destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=555513&ruta=Buscador"
+destino="http://profesores.aulaplaneta.com/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=555513&amp;ruta=Buscador"
 >[VER]</enlace>, por su lado, ayuda a los arqueólogos a estudiar los <negrita
 >restos fósiles</negrita> de animales y de vegetales para determinar
 cómo eran.</p>
 <seccion2 id="S2_CS_06_01_CO_126D93EA237B4483BECE1ABFF0F220EA">
 <seccion2Titulo>La arqueología</seccion2Titulo>
 <seccion2Texto>
-<p>Es una <negrita>ciencia auxiliar</negrita> de la historia que estudia
-los restos materiales del pasado y a partir de ellos, el historiador
-extrae conclusiones sobre las formas de vida de las sociedades que
-nos precedieron. </p>
-<p>El trabajo arqueológico se divide en cuatro fases:</p>
+<p>Para conocer mejor el pasado, la historia utiliza la información
+que aportan diversas ciencias auxiliares. Entre ellas se encuentra
+la <negrita>arqueología</negrita>, que estudia el pasado a través
+de la búsqueda y el análisis de <negrita>restos materiales</negrita
+>. Estos permiten conocer los comportamientos humanos pretéritos y
+las situaciones que causaron. Existen diferentes tipos de restos arqueológicos:</p>
 <listaSinNumerar>
-<listaElemento>La obtención previa de datos</listaElemento>
-<listaElemento>La excavación</listaElemento>
-<listaElemento>El análisis y descripción de los restos hallados</listaElemento>
-<listaElemento>La interpretación de los hallazgos</listaElemento>
-</listaSinNumerar>
-<seccion3 id="S3_CS_06_01_CO_D212471ED3C64F71AA4311CC2747D566">
-<seccion3Titulo>Tipos de restos arqueológicos</seccion3Titulo>
-<seccion3Texto>
-<listaSinNumerar>
-<listaElemento><negrita>Yacimiento:</negrita> lugar en que se encuentran <negrita
->artefactos</negrita> elaborados por los seres humanos a partir de
-los recursos naturales como útiles de piedra, cerámica, herramientas,
-monedas, etc. También pueden encontrarse <negrita>estructuras de construcciones</negrita
-> como viviendas, templos, calles, plazas y murallas, entre otros.
-Algunos yacimientos se han encontrado cubiertos de tierra y vegetación.
-Su cronología puede abarcar desde los orígenes de la humanidad hasta
-la época industrial. </listaElemento>
-<listaElemento><negrita>Pecio:</negrita> conjunto de restos sumergidos
-o encontrados en aguas marinas, ríos, lagos, pantanos, etc. </listaElemento>
-<listaElemento><negrita>Restos orgánicos:</negrita> restos óseos o
-vegetales. También reciben el nombre de <negrita>ecofactos</negrita
->. </listaElemento>
-<listaElemento><negrita>Fósil:</negrita> restos o huellas de organismos
-que se han conservado enterrados en los estratos geológicos más antiguos
-hasta convertirse en roca.</listaElemento>
+<listaElemento>El <negrita>yacimiento</negrita>: emplazamiento en
+que se encuentran necesariamente <negrita>artefactos</negrita> modificados
+por la acción humana (útiles de piedra, cerámica, herramientas, monedas,
+etc.). También pueden hallarse <negrita>estructuras de construcciones</negrita
+> (viviendas, templos, elementos defensivos, etc.). Los yacimientos
+no tienen por qué estar cubiertos de tierra y su cronología puede
+abarcar desde los orígenes de la humanidad hasta la época industrial.</listaElemento>
+<listaElemento>El <negrita>pecio</negrita>: conjunto de <negrita>restos
+sumergidos</negrita>. Puede encontrarse en aguas marinas (naufragios),
+ríos, lagos, pantanos, etc.</listaElemento>
+<listaElemento>El <negrita>artefacto</negrita>: restos modificados
+por la acción humana que se encuentran en un yacimiento, como útiles
+de piedra, herramientas, cerámica, monedas, etc.</listaElemento>
+<listaElemento>Los <negrita>restos orgánicos</negrita>: restos óseos,
+restos vegetales, sedimentos, etc. También reciben el nombre de <negrita
+>ecofactos</negrita>.</listaElemento>
+<listaElemento>El <negrita>fósil</negrita>: resto o huella de organismos
+o fenómenos meteorológicos que se ha conservado enterrados en los
+estratos geológicos más antiguos hasta convertirse en una roca.</listaElemento>
 </listaSinNumerar>
 <imagen src="CS_06_01_CO_IMG13_small.jpg">
 <p>Toda <negrita>investigación arqueológica</negrita> se divide en
@@ -550,8 +537,8 @@ de los restos y 4. La interpretación.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso160&amp;IdRecurso=RES-4269A61D4F7C4A7B887B493A271FB5E3"
 >Reconoce tipos de restos arqueológicos</enlace>
-</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
-<seccion2 id="S2_CS_06_01_CO_E5EBB42A32C2406FB8CDC315FD426350">
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_01_CO_E5EBB42A32C2406FB8CDC315FD426350">
 <seccion2Titulo>Otras ciencias relacionadas</seccion2Titulo>
 <seccion2Texto>
 <p>La <negrita>geografía</negrita> aporta los estudios de la superficie
@@ -581,12 +568,6 @@ diversas sociedades, culturas y civilizaciones.</p>
 <p>La <negrita>psicología</negrita> estudia los comportamientos de
 los personajes líderes de la historia y de las acciones colectivas
 ligadas a las emociones.</p>
-<imagen src="CS_06_01_CO_IMG14_small.jpg">
-<p>A partir de un <negrita>fósil</negrita> como el de la imagen, los
-arqueólogos pueden, gracias a distintas técnicas y recursos, extraer
-información sobre la procedencia y la antigüedad del hallazgo. Así
-tendrán elementos de gran ayuda para reconstruir el pasado.</p>
-</imagen>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso170&amp;IdRecurso=RES-E5FB791866574281AE09718609FA21AE"
@@ -603,7 +584,9 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso180&amp;IdRecurso=RES-DDDCF3
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_06_01_CO_D866E375422A429496E6D9CAFEC00D0A">
 <seccion1Titulo>Competencias</seccion1Titulo>
-<seccion1Texto><practica>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso190&amp;IdRecurso=RES-33295FF2331246EC9FEBD7D1019BE83C"
 >Competencias: análisis de las fuentes para el estudio del pasado</enlace>
@@ -615,11 +598,19 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso200&amp;IdRecurso=RES-542848
 id="M1_CS_06_01_CO_8557BB6279AD4B79B9C0B77B9A630F02"><mapaconceptual>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso210&amp;IdRecurso=RES-F3E597E3EA6C4A18B5F86BEB1C67E362"
->Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+>Mapa conceptual del tema La historia</enlace></mapaconceptual>
+<autoevaluate><enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso220&amp;IdRecurso=RES-001C584F338840838A653B38CA91A1DC"
->Evaluación</enlace></autoevaluate><enlacesreferencia>
+>Evalúa tus conocimientos sobre el tema ¿Qué es la historia?</enlace>
+</autoevaluate><enlacesreferencia>
 <enlace
 destino="http://recursostic.educacion.es/secundaria/edad/4esohistoria/quincena1/index_quincena1.htm"
->Introducción a la historia, recurso para entender qué es la historia
-y para qué sirve.</enlace>
+>Introducción a la historia, recurso para entender qué es la Historia
+y para qué sirve. Centro para la Innovación y el Desarrollo de la
+Educación a Distancia (Ministerio de Educación, Cultura y Deporte).</enlace>
+<enlace
+destino="http://www.juntadeandalucia.es/averroes/html/adjuntos/2007/09/13/0030/unidadidactica.htm"
+>Las etapas de la historia, recurso para conocer los aspectos más
+destacados de cada edad histórica del portal educativo Averroes, de
+la Junta de Andalucía.</enlace>
 </enlacesreferencia></masinformacion></libro>

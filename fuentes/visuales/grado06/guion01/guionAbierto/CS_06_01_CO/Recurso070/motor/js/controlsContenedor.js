@@ -6,7 +6,7 @@ function Boton(_width, _height, src, label, align) {
 
 	// crear imatge del boto
 	var _imgLoaded = new Image();
-	_imgLoaded.src = src;
+	_imgLoaded.src = pppPreloader.from("module", src);
 
 	// carregar imatage del boto
 	var data = {
@@ -66,7 +66,7 @@ function BotonDisable(_width, _height, src, label, align) {
 
 	// crear imatge del boto
 	var _imgLoaded = new Image();
-	_imgLoaded.src = src;
+	_imgLoaded.src = pppPreloader.from("module", src);
 
 	// carregar imatage del boto
 	var data = {
@@ -136,7 +136,7 @@ function moreInfoPanell(texto) {
 
 	//crear boto tancar
 	var btnSrc = new Image();
-	btnSrc.src = 'motor/images/tancar.png';
+	btnSrc.src = pppPreloader.from("module",'motor/images/tancar.png');
 	btnSrc.name = 'tancar';
 	this.tancar = new createjs.Bitmap(btnSrc);
 	this.tancar.x = 773;
@@ -367,10 +367,46 @@ function avisPanellGuardat(texto){
     window.setTimeout(function(){createjs.Tween.get(padre.contenedor).to({
         alpha : 0
     }, 500, createjs.Ease.circOut).call(Contenedor.drawFooter);}, 3500);
+
+}
+
+function avisPanellEnviat(texto){
+    // creem fons del panell
+    this.fons = new createjs.Shape();
+    this.fons.graphics.beginFill("#f8B334").drawRect(0, 0, 950, 51);
+    // creem texte del panell
+    this.text = new createjs.RichText();
+    this.text.font = "15px Arial";
+    this.text.color = "#333333";
+    this.text.text = texto;
+    this.text.x = 350;
+    this.text.y = 12;
+    this.text.lineWidth = 800;
+    this.text.lineHeight = 20;
+    this.text.mouseEnabled = false;
+    // creem contenidor principal del panell
+    this.contenedor = new createjs.Container();
+    this.contenedor.x = 0;
+    this.contenedor.y = 558;
+
+    // insertem botons en el contenidor
+    this.contenedor.addChild(this.fons);
+    this.contenedor.addChild(this.text);
+
+    // insertem contenidor en el canvas
+    Main.stage.removeChild(Contenedor.missatge.contenedor);
+    Main.stage.addChild(this.contenedor);
+    this.contenedor.alpha = 0;
     
-   /* createjs.Tween.get(this.contenedor).to({
+    createjs.Tween.get(this.contenedor).to({
+        alpha : 1
+    }, 500, createjs.Ease.circOut);
+    
+    var padre = this;
+    window.setTimeout(function(){createjs.Tween.get(padre.contenedor).to({
         alpha : 0
-    }, 500, createjs.Ease.circOut).call(Contenedor.drawFooter);*/
+    }, 500, createjs.Ease.circOut).call(Contenedor.drawFooterEnviat);}, 3500);
+
 }
 
 // Panell inferior d ela pantalla de validacio i resultats del motor
@@ -385,6 +421,15 @@ function resultatsPanell(numpagines) {
 	this.contenedor = new createjs.Container();
 	this.contenedor.x = 0;
 	this.contenedor.y = 558;
+	
+	this.textoEnviat = new createjs.RichText();
+    this.textoEnviat.text = LangRes.lang[ LangRes.MSG_VALIDADOCORRECTO ];
+    this.textoEnviat.font = "14px arial";
+    this.textoEnviat.fontSize = 14;
+    this.textoEnviat.color = "#FFF";
+    this.textoEnviat.x = 10;
+    this.textoEnviat.y = 15;
+    this.textoEnviat.lineWidth = 350;
 
 	this.pagines = "";
 	if (this.numPagines > 1) {// si hi ha més d'una pagina
@@ -400,13 +445,14 @@ function resultatsPanell(numpagines) {
 	}
 	//afegim components al contenidor
 	this.contenedor.addChild(this.fons);
+	this.contenedor.addChild(this.textoEnviat);
 	this.contenedor.addChild(this.text);
 
 	if (this.numPagines > 1) {
 		//Afegim components de la paginació al contenidor
 		this.contenedor.addChild(this.pagines.contenedor);
 		this.contenedor.addChild(this.seguent.contenedor);
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("select");
+		this.pagines.pags[this.currentPag].state("select");
 	}
 
 	//afegim contenidor al canvas amb transicio
@@ -418,10 +464,11 @@ function resultatsPanell(numpagines) {
 	}, 1250, createjs.Ease.circOut);
 }
 
+
 //funcio seleccio de pagina
 resultatsPanell.prototype.selectPag = function(numpag) {
 	//selecionem fons del boto de paginacio
-	this.pagines.pags[numpag - 1].bt.gotoAndStop("select");
+	this.pagines.pags[numpag - 1].state("select");
 	this.currentPag = numpag - 1;
 	//Eliminem boto de seguen si cal
 	Contenedor.missatge.seguent.bt.removeAllEventListeners("mousedown");
@@ -450,7 +497,7 @@ resultatsPanell.prototype.primeroPag = function() {
 	this.pagines.contenedor.y = 11;
 
 	this.currentPag = 0;
-	this.pagines.pags[this.currentPag].bt.gotoAndStop("select");
+	this.pagines.pags[this.currentPag].state("select");
 	this.contenedor.addChild(this.pagines.contenedor);
 
 	for (key in Contenedor.missatge.pagines.pags) {
@@ -465,9 +512,9 @@ resultatsPanell.prototype.primeroPag = function() {
 resultatsPanell.prototype.unselectCurrentPag = function() {
 	// si la pregunta de la pagina deseleccionada esta constestada o no mostrem un fons o un altre
 	if (this.pagines.pags[this.currentPag].contestada == 0)
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("normal");
+		this.pagines.pags[this.currentPag].state("normal");
 	else
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("buit");
+		this.pagines.pags[this.currentPag].state("buit");
 }
 //funció de posar la pagina com a contestada
 resultatsPanell.prototype.checkedCurrentPag = function() {
@@ -485,7 +532,7 @@ resultatsPanell.prototype.seguentPag = function() {
 		this.unselectCurrentPag();
 		//seleccionem pagina seguent
 		this.currentPag++;
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("select");
+		this.pagines.pags[this.currentPag].state("select");
 
 		Contenedor.missatge.seguent.bt.removeAllEventListeners("mousedown");
 		// si el numero de paginas es menor que 10
@@ -514,7 +561,7 @@ resultatsPanell.prototype.seguentPag = function() {
 		this.pagines.contenedor.y = 11;
 
 		this.currentPag = 0;
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("select");
+		this.pagines.pags[this.currentPag].state("select");
 		this.contenedor.addChild(this.pagines.contenedor);
 
 		for (key in Contenedor.missatge.pagines.pags) {
@@ -572,7 +619,7 @@ function solucioPanell(numpagines) {
 		this.contenedor.addChild(this.pagines.contenedor);
 		this.contenedor.addChild(this.seguent.contenedor);
 		//seleccionem pagina actual
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("select");
+		this.pagines.pags[this.currentPag].state("select");
 		//if(this.currentPag == this.numPagines - 1) this.seguent.contenedor.visible = false;
 	}
 	//posem contenidor al canvas amb transició
@@ -594,7 +641,7 @@ function solucioPanell(numpagines) {
 //funcio de seleccio de pagina
 solucioPanell.prototype.selectPag = function(numpag) {
 	// posem estat de selecionat
-	this.pagines.pags[numpag - 1].bt.gotoAndStop("select");
+	this.pagines.pags[numpag - 1].state("select");
 	this.currentPag = numpag - 1;
 	//amaguem o mostrem el boto de seguent
 	//if(this.currentPag < this.numPagines - 1) this.seguent.contenedor.visible = true;
@@ -609,9 +656,9 @@ solucioPanell.prototype.selectPag = function(numpag) {
 solucioPanell.prototype.unselectCurrentPag = function() {
 	// Al deseleccionar pagina mirem si es correcte o incorrecte per posar fons.
 	if (Motor.pagines[this.currentPag].validacio) {
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("correct");
+		this.pagines.pags[this.currentPag].state("correct");
 	} else {
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("error");
+		this.pagines.pags[this.currentPag].state("error");
 	}
 	//posem boto blau
 	this.pagines.pags[this.currentPag].numero.color = "#0D3158";
@@ -624,7 +671,7 @@ solucioPanell.prototype.seguentPag = function() {
 
 		//seleccionem nova pagina
 		this.currentPag++;
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("select");
+		this.pagines.pags[this.currentPag].state("select");
 		this.pagines.pags[this.currentPag].numero.color = "#E1001A";
 
 		// amaguem boto de seguent si s'escau
@@ -635,41 +682,26 @@ solucioPanell.prototype.seguentPag = function() {
 solucioPanell.prototype.validaPags = function() {
 	for (key in Motor.pagines) {
 		if (Motor.pagines[key].validacio) {
-			this.pagines.pags[key].bt.gotoAndStop("correct");
+			this.pagines.pags[key].state("correct");
 		} else {
-			this.pagines.pags[key].bt.gotoAndStop("error");
+			this.pagines.pags[key].state("error");
 		}
 	}
 }
 // boto de pagina
 function PagBase(index, src) {
-	this.contenedor = new createjs.Container();
+	this.bt = new createjs.Container();
 	this.num = index + 1;
 	this.contestada = 0;
 	//fons de la pagina
-	var _imgLoaded = new Image();
-	_imgLoaded.src = src;
-
-	var data = {
-		images : [_imgLoaded],
-		frames : {
-			width : 30,
-			height : 30
-		},
-		animations : {
-			normal : [0],
-			select : [1],
-			buit : [2],
-			correct : [3],
-			error : [4]
-		}
-	}
-	var spriteSheet = new createjs.SpriteSheet(data);
-	this.bt = new createjs.Sprite(spriteSheet);
-
-	this.bt.x = 0;
-	this.bt.y = 0;
-	this.bt.gotoAndStop("normal");
+	this.fons = new createjs.Shape();
+	this.src = src;
+	if(src == "inici")
+		this.fons.graphics.beginFill("#556f8a").drawRoundRectComplex (1, 1, 28, 28, 6,0,0,6);
+	else if(src == "fi")
+		this.fons.graphics.beginFill("#556f8a").drawRoundRectComplex (1, 1, 28, 28, 0,6,6,0);
+	else
+		this.fons.graphics.beginFill("#556f8a").drawRoundRectComplex (1, 1, 28, 28, 0,0,0,0);
 
 	//numero de pagina
 	this.numero = new createjs.RichText();
@@ -680,15 +712,33 @@ function PagBase(index, src) {
 	this.numero.y = 6;
 	this.numero.mouseEnabled = false;
 	// afegim components al contenidor
-	this.contenedor.addChild(this.bt);
-	this.contenedor.addChild(this.numero);
+	this.bt.addChild(this.fons);
+	this.bt.addChild(this.numero);
 
-	this.contenedor.on("mouseover", function(evt) {
+	this.bt.on("mouseover", function(evt) {
 		document.body.style.cursor = 'pointer';
 	});
-	this.contenedor.on("mouseout", function(evt) {
+	this.bt.on("mouseout", function(evt) {
 		document.body.style.cursor = 'default';
 	});
+}
+PagBase.prototype.state = function(estat){
+	
+	this.fons.graphics.clear();
+	var color ="";
+	
+	if(estat=="normal")	color = "#556f8a";
+	else if(estat=="select")color = "#f8b334";
+	else if(estat=="correct") color = "#41a62a";
+	else if(estat=="error")	color = "#e1061a";
+	else if(estat=="buit") color = "#fff";	
+
+	if(this.src == "inici")
+		this.fons.graphics.beginFill(color).drawRoundRectComplex (1, 1, 28, 28, 6,0,0,6);
+	else if(this.src == "fi")
+		this.fons.graphics.beginFill(color).drawRoundRectComplex (1, 1, 28, 28, 0,6,6,0);
+	else
+		this.fons.graphics.beginFill(color).drawRoundRectComplex (1, 1, 28, 28, 0,0,0,0);
 }
 
 //Bloc de botons de pagines
@@ -701,16 +751,16 @@ function Paginador(inici, numpagines) {
 		var pag = "";
 		//creem tipus de boto de paginas
 		if (i == 0)
-			pag = new PagBase(i, pppPreloader.from("module", 'motor/images/paginacioIni.png'));
+			pag = new PagBase(i, 'inici'); //pppPreloader.from("module",  /*'motor/images/paginacioIni.png'*/));
 		else if (i == numpagines - 1)
-			pag = new PagBase(i, pppPreloader.from("module", 'motor/images/paginacioFi.png'));
+			pag = new PagBase(i, 'fi'); //pppPreloader.from("module", /*'motor/images/paginacioFi.png'*/));
 		else
-			pag = new PagBase(i, pppPreloader.from("module", 'motor/images/paginacio.png'));
+			pag = new PagBase(i, 'mig'); //pppPreloader.from("module", x/*'motor/images/paginacio.png'*/));
 		//coloquem pagina
-		pag.contenedor.x = counter * 30;
-		pag.contenedor.y = 0;
+		pag.bt.x = counter * 30;
+		pag.bt.y = 0;
 		//afegim pagina al contenidor i a la collecció
-		this.contenedor.addChild(pag.contenedor);
+		this.contenedor.addChild(pag.bt);
 		this.pags.push(pag);
 
 		counter++;
@@ -760,7 +810,7 @@ function inicialPanellDisable(numpagines){
 		//Afegim components de la paginació al contenidor
 		this.contenedor.addChild(this.pagines.contenedor);
 		this.contenedor.addChild(this.seguent.contenedor);
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("select");
+		this.pagines.pags[this.currentPag].state("select");
 	}
 
 	//afegim contenidor al canvas amb transicio
@@ -820,7 +870,7 @@ function inicialPanell(numpagines) {
 		//Afegim components de la paginació al contenidor
 		this.contenedor.addChild(this.pagines.contenedor);
 		this.contenedor.addChild(this.seguent.contenedor);
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("select");
+		this.pagines.pags[this.currentPag].state("select");
 	}
 
 	//afegim contenidor al canvas amb transicio
@@ -835,7 +885,7 @@ function inicialPanell(numpagines) {
 //funcio seleccio de pagina
 inicialPanell.prototype.selectPag = function(numpag) {
 	//selecionem fons del boto de paginacio
-	this.pagines.pags[numpag - 1].bt.gotoAndStop("select");
+	this.pagines.pags[numpag - 1].state("select");
 	this.currentPag = numpag - 1;
 	//Eliminem boto de seguen si cal
 
@@ -864,7 +914,7 @@ inicialPanell.prototype.primeroPag = function() {
 	this.pagines.contenedor.y = 11;
 
 	this.currentPag = 0;
-	this.pagines.pags[this.currentPag].bt.gotoAndStop("select");
+	this.pagines.pags[this.currentPag].state("select");
 	this.contenedor.addChild(this.pagines.contenedor);
 
 	for (key in Contenedor.missatge.pagines.pags) {
@@ -879,9 +929,9 @@ inicialPanell.prototype.primeroPag = function() {
 inicialPanell.prototype.unselectCurrentPag = function() {
 	// si la pregunta de la pagina deseleccionada esta constestada o no mostrem un fons o un altre
 	if (this.pagines.pags[this.currentPag].contestada == 0)
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("normal");
+		this.pagines.pags[this.currentPag].state("normal");
 	else
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("buit");
+		this.pagines.pags[this.currentPag].state("buit");
 }
 //funció de posar la pagina com a contestada
 inicialPanell.prototype.checkedCurrentPag = function() {
@@ -901,7 +951,7 @@ inicialPanell.prototype.seguentPag = function() {
 		this.unselectCurrentPag();
 		//seleccionem pagina seguent
 		this.currentPag++;
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("select");
+		this.pagines.pags[this.currentPag].state("select");
 
 		Contenedor.missatge.seguent.bt.removeAllEventListeners("mousedown");
 		// si el numero de paginas es menor que 10
@@ -930,7 +980,7 @@ inicialPanell.prototype.seguentPag = function() {
 		this.pagines.contenedor.y = 11;
 
 		this.currentPag = 0;
-		this.pagines.pags[this.currentPag].bt.gotoAndStop("select");
+		this.pagines.pags[this.currentPag].state("select");
 		this.contenedor.addChild(this.pagines.contenedor);
 
 		for (key in Contenedor.missatge.pagines.pags) {

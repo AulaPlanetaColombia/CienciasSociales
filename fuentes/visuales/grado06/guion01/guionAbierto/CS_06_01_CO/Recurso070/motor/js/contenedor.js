@@ -272,6 +272,7 @@ Contenedor = new function()
 			Contenedor.missatge.seguent.bt.on("mousedown",Contenedor.seguentPaginaHandler);
 		}
 	}
+	
 	this.drawFooterExponer = function()
 	{
 		Contenedor.missatge = new inicialPanellDisable(Contenedor.num_pagines);
@@ -287,6 +288,23 @@ Contenedor = new function()
 			Contenedor.missatge.seguent.bt.on("mousedown",Contenedor.seguentPaginaHandler);
 		}
 	}
+
+    this.drawFooterEnviat = function()
+    {
+        Contenedor.missatge = new resultatsPanell(Contenedor.num_pagines);
+        
+        
+        if( Contenedor.num_pagines > 1 )
+        {
+            for( key in Contenedor.missatge.pagines.pags)
+            {
+                Contenedor.missatge.pagines.pags[key].bt.on("mousedown",Contenedor.selectPagHandler,Contenedor.missatge.pagines.pags[key]);
+            }
+            
+            Contenedor.missatge.seguent.bt.on("mousedown",Contenedor.seguentPaginaHandler);
+        }
+    }
+	
 	//Event del boto de seguent pagina
 	this.seguentPaginaHandler = function(evt)
 	{
@@ -417,29 +435,37 @@ Contenedor = new function()
 					estado = "["+temps+"]["+estado+"]";
 				}
 				aulaPlaneta.SCORM.ejercicio_evaluar( estado, temps );
-				Scorm.modo = Scorm.MODO_EXPONER;
+				
+				//Contenedor.missatge = new avisPanellGuardat(LangRes.lang[ LangRes.MSG_VALIDADOCORRECTO ]);  
+				
 			}
 			else if( Scorm.modo == Scorm.MODO_REVISAR || Scorm.modo == Scorm.MODO_REVISARALUMNO ){
 				//paramos el crono
 				clearInterval(Contenedor.timer);
 			}
 	
-			// mostrar panell amb els resultats de l'activitat
-			this.num_pagines = Motor.numPaginas();
-			Contenedor.missatge = new resultatsPanell( this.num_pagines);
 			
-			//desactivem el textarea
-			Motor.desactivar();
-			
-			//En cas d'haver pagines es mostren
-			if(Contenedor.num_pagines > 1)
-			{
-				for( key in Contenedor.missatge.pagines.pags)
-				{
-					Contenedor.missatge.pagines.pags[key].bt.on("mousedown",Contenedor.selectPagHandler,Contenedor.missatge.pagines.pags[key]);
-				}
-				
-				Contenedor.missatge.seguent.bt.on("mousedown",Contenedor.seguentPaginaHandler);
+			if( Scorm.modo == Scorm.MODO_EXAMEN ){
+			     Contenedor.missatge = new avisPanellEnviat(LangRes.lang[ LangRes.MSG_VALIDADOCORRECTO ]); 
+			     Scorm.modo = Scorm.MODO_EXPONER;
+			}else{
+			    // mostrar panell amb els resultats de l'activitat
+    			this.num_pagines = Motor.numPaginas();
+    			
+    			Contenedor.missatge = new resultatsPanell( this.num_pagines);
+    			//desactivem el textarea
+                Motor.desactivar();
+                
+                //En cas d'haver pagines es mostren
+                if(Contenedor.num_pagines > 1)
+                {
+                    for( key in Contenedor.missatge.pagines.pags)
+                    {
+                        Contenedor.missatge.pagines.pags[key].bt.on("mousedown",Contenedor.selectPagHandler,Contenedor.missatge.pagines.pags[key]);
+                    }
+                    
+                    Contenedor.missatge.seguent.bt.on("mousedown",Contenedor.seguentPaginaHandler);
+                }
 			}
 		}
 	}

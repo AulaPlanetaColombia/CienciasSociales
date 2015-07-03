@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <metadata xmlns="urn:InfoRecurso">
   <identificador>RES-06C40D2E1F1746EDA030612C157350BA</identificador>
-  <loid>CS_06_01_CORecurso140</loid>
+  <loid>CS_06_01_CO_Recurso140</loid>
   <titulo>Asocia cada tipo de escritura a su soporte</titulo>
   <descripcion>Actividad que permite relacionar los principales tipos de escritura o lenguaje con su soporte y la época a la que pertenecen</descripcion>
   <relacionado>0</relacionado>
   <tiporecurso>Recurso sin ficha</tiporecurso>
   <tiempoestimado>5</tiempoestimado>
   <acciondidactica>Ejercitación</acciondidactica>
-  <competencia>
-  </competencia>
+  <competencia>Competencia en comunicación lingüística</competencia>
   <tipomedia pesado="false" matricula="">Actividad</tipomedia>
   <conceptos>
     <concepto>alfabeto</concepto>

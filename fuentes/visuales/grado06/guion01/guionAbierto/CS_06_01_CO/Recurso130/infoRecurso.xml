@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <metadata xmlns="urn:InfoRecurso">
   <identificador>RES-FE29A08F033F4E118B53DA4DCDFE1CF5</identificador>
-  <loid>CS_06_01_CORecurso130</loid>
+  <loid>CS_06_01_CO_Recurso130</loid>
   <titulo>Las fuentes escritas</titulo>
   <descripcion>Vídeo que permite apreciar la valiosa aportación que hacen los documentos escritos a la historia</descripcion>
   <relacionado>0</relacionado>
@@ -9,7 +9,7 @@
   <tiempoestimado>20</tiempoestimado>
   <acciondidactica>Exposición</acciondidactica>
   <competencia>Competencia social y ciudadana</competencia>
-  <tipomedia pesado="true" matricula="di000407">Secuencia de imágenes</tipomedia>
+  <tipomedia pesado="true" matricula="DI000407">Secuencia de imágenes</tipomedia>
   <conceptos>
     <concepto>documento</concepto>
     <concepto>documento escrito</concepto>

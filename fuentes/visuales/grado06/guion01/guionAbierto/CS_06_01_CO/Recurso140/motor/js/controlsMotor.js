@@ -127,7 +127,7 @@ function Pregunta(i, pregunta, numcat){
 	this.contenedor.addChild( this.text );
 	this.contenedor.addChild( this.imagen.contenedor );
 	
-	for(var i=1; i <= pregunta.respuestas.length; i++)
+	for(var i=1; i <= pregunta.respuestas; i++)
 	{
 		var inici = new BaseResposta(i,Motor.RESP_WIDTH, Motor.RESP_HEIGHT , 5);
 		inici.contenedor.x = 120;

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <metadata xmlns="urn:InfoRecurso">
   <identificador>RES-EB87A73EC77F4021BE5A95A5E044C71A</identificador>
-  <loid>CS_06_01_CORecurso010</loid>
-  <titulo>La historia</titulo>
-  <descripcion>Ejercicio para completar con las palabras correctas.</descripcion>
-  <relacionado>1</relacionado>
+  <loid>CS_06_01_CO_Recurso010</loid>
+  <titulo>Refuerza tu aprendizaje: La historia: función y utilidad</titulo>
+  <descripcion>Actividades sobre La historia: función y utilidad</descripcion>
+  <relacionado>0</relacionado>
   <tiporecurso>Recurso sin ficha</tiporecurso>
   <tiempoestimado>10</tiempoestimado>
-  <acciondidactica>Generador de actividades</acciondidactica>
-  <competencia>Autonomía e iniciativa personal</competencia>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia para aprender a aprender</competencia>
   <tipomedia pesado="false" matricula="">Actividad</tipomedia>
   <conceptos>
     <concepto>organización</concepto>

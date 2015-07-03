@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <metadata xmlns="urn:InfoRecurso">
   <identificador>RES-652CC7A9DD1A4A479829F156C2AE0EA6</identificador>
-  <loid>CS_06_01_CORecurso110</loid>
+  <loid>CS_06_01_CO_Recurso110</loid>
   <titulo>Completa la definición de fuente oral</titulo>
   <descripcion>Actividad para completar un texto acerca de los diferentes tipos de fuentes orales</descripcion>
   <relacionado>0</relacionado>
   <tiporecurso>Recurso sin ficha</tiporecurso>
   <tiempoestimado>10</tiempoestimado>
   <acciondidactica>Ejercitación</acciondidactica>
-  <competencia>
-  </competencia>
+  <competencia>Competencia en comunicación lingüística</competencia>
   <tipomedia pesado="false" matricula="">Actividad</tipomedia>
   <conceptos>
     <concepto>cuento</concepto>

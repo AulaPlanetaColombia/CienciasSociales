@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <metadata xmlns="urn:InfoRecurso">
   <identificador>RES-001C584F338840838A653B38CA91A1DC</identificador>
-  <loid>CS_06_01_CORecurso220</loid>
+  <loid>CS_06_01_CO_Recurso220</loid>
   <titulo>Evaluación</titulo>
-  <descripcion>Actividad para completar los espacios en blanco</descripcion>
+  <descripcion>Actividad para evaluar los conocimientos del estudiante sobre el tema La historia</descripcion>
   <relacionado>0</relacionado>
   <tiporecurso>Recurso sin ficha</tiporecurso>
   <tiempoestimado>10</tiempoestimado>
-  <acciondidactica>Generador de actividades</acciondidactica>
+  <acciondidactica>Evaluación</acciondidactica>
   <competencia>Competencia para aprender a aprender</competencia>
   <tipomedia pesado="false" matricula="">Texto</tipomedia>
   <conceptos>

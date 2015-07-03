@@ -234,10 +234,11 @@ Motor = new function()
 	};
 	this.loadVideo = function()
 	{
-		if($("#videoHolder video source").attr("src") !=  "data/videos/"+this.currentPag.video)
+		//if($("#videoHolder video source").attr("src") !=  "data/videos/"+this.currentPag.video)
+		if($("#videoHolder video source").attr("src") !=  pppPreloader.from("data", "data/videos/" + this.currentPag.video))
 		{
 			$videoAPI = $("#videoplayer").data("cepdaPlayer");
-			$videoAPI.loadVideo("data/videos/"+this.currentPag.video);
+			$videoAPI.loadVideo(pppPreloader.from("data", "data/videos/" + this.currentPag.video));
 			//$videoAPI.seek(this.currentPag.salto);
 	   	}
 	}

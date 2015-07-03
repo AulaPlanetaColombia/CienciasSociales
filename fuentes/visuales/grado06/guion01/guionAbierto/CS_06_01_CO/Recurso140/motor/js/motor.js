@@ -58,16 +58,19 @@ Motor = new function()
 				this.preg.text = $(this).find('imagen').attr("etiqueta");
 				this.preg.id=index;
 			  	
-			  	
+			  	this.preg.respuestas = 0;
 			  	var dato = this;
 			  	$(this).find('respuesta').each(function(index2) {
 					//debugger;
 					var rest = new respuesta();
 					rest.text = $(this).attr('etiqueta');
 					rest.id = index2;
+					rest.pregunta = dato.preg;
 					
-				  	dato.preg.respuestas.push(rest);
+					dato.preg.respuestas++;
+				  	Motor.datosXML.respuestas.push(rest);
 				});
+				
 				Motor.datosXML.preguntas.push(this.preg);
 			});
 			
@@ -323,7 +326,6 @@ Motor = new function()
     	//console.log(responses);
     	for(var i=0; i < Motor.datosXML.cantidad; i++)
     	{
-    		
     		// creem random o no.
     		var index = 0;
 			if(Contenedor.datosXML.sinaleatoriedad == 0 && Scorm.modo != Scorm.MODO_REVISAR && Scorm.modo != Scorm.MODO_REVISARALUMNO )
@@ -339,40 +341,52 @@ Motor = new function()
 			Motor.preguntes.push(this.pregunta);
 			
 			this.contenedor.addChild(this.pregunta.contenedor);
+
+		}
+
+		var numResp = Motor.datosXML.respuestas.length;
+		for(var j=0; j < numResp ;j++)
+		{
 			
-			for(var j=0; j < preg.respuestas.length  ;j++)
+			if(Contenedor.datosXML.sinaleatoriedad == 0 && Scorm.modo != Scorm.MODO_REVISAR && Scorm.modo != Scorm.MODO_REVISARALUMNO )
 			{
-	    		// creem marc resposta
-		    	var finali = new BaseResposta( i.toString()+j.toString() ,this.RESP_WIDTH, this.RESP_HEIGHT , 5);
-		        finali.contenedor.x = this.PREG_X_PADDING + this.PREG_FINAL_X_PADDING ;
-		        finali.contenedor.y = this.INITIAL_Y + this.RESP_HEIGHT * respCounter + 7 * respCounter + 24  ;
-		        // creem caixa resposta
-		        var resp = new Resposta( preg.respuestas[j].text, this.RESP_INNER_WIDTH, this.RESP_INNER_HEIGHT, 5) ;
-		        resp.contenedor.x = this.PREG_X_PADDING + this.PREG_FINAL_X_PADDING + 1;
-		        resp.contenedor.y = this.INITIAL_Y + this.RESP_HEIGHT * respCounter + 7 * respCounter + 25 ;
-		        resp.idResposta = i.toString()+j.toString();
-		        resp.idPregunta = this.pregunta.id ;
-				resp.ordre = resp.respCounter;
-				 
-				//guardem resposta dins marc
-		    	finali.setReposta(resp);
-		    	Motor.respostes.push(resp);
-		    	
-		    	//guardem marc i resposta en un array per despres treballar em ells
-		    	Motor.finals.push(finali);
-		        
-		       	this.contenedor.addChild( finali.contenedor );
-		       	this.contenedor.addChild( resp.contenedor );
-	
-				// activem listeners de comportament de les respostes
-		        resp.contenedor.on("mousedown", this.preDragAndDrop, null, false, {resposta:resp});
-		        resp.contenedor.on("pressmove", this.dragAndDrop, null, false, {resposta:resp});
-				resp.contenedor.on("pressup", this.dropResposta, null, false, {resposta:resp});
-				resp.contenedor.on("mouseover", function(evt){ document.body.style.cursor='pointer'; });
-				resp.contenedor.on("mouseout", function(evt){ document.body.style.cursor='default'; });
-				
-				respCounter++;
-			}
+				index = Math.floor(Math.random() * Motor.datosXML.respuestas.length);
+
+			} 
+			
+			var resposta = Motor.datosXML.respuestas[index];
+			Motor.datosXML.respuestas.splice(index,1);
+			
+    		// creem marc resposta
+	    	var finali = new BaseResposta( i.toString()+j.toString() ,this.RESP_WIDTH, this.RESP_HEIGHT , 5);
+	        finali.contenedor.x = this.PREG_X_PADDING + this.PREG_FINAL_X_PADDING ;
+	        finali.contenedor.y = this.INITIAL_Y + this.RESP_HEIGHT * respCounter + 7 * respCounter + 24  ;
+	        // creem caixa resposta
+	        var resp = new Resposta(resposta.text, this.RESP_INNER_WIDTH, this.RESP_INNER_HEIGHT, 5) ;
+	        resp.contenedor.x = this.PREG_X_PADDING + this.PREG_FINAL_X_PADDING + 1;
+	        resp.contenedor.y = this.INITIAL_Y + this.RESP_HEIGHT * respCounter + 7 * respCounter + 25 ;
+	        resp.idResposta = i.toString()+j.toString();
+	        resp.idPregunta = resposta.pregunta.id ;
+			resp.ordre = j;
+			 
+			//guardem resposta dins marc
+	    	finali.setReposta(resp);
+	    	Motor.respostes.push(resp);
+	    	
+	    	//guardem marc i resposta en un array per despres treballar em ells
+	    	Motor.finals.push(finali);
+	        
+	       	this.contenedor.addChild( finali.contenedor );
+	       	this.contenedor.addChild( resp.contenedor );
+
+			// activem listeners de comportament de les respostes
+	        resp.contenedor.on("mousedown", this.preDragAndDrop, null, false, {resposta:resp});
+	        resp.contenedor.on("pressmove", this.dragAndDrop, null, false, {resposta:resp});
+			resp.contenedor.on("pressup", this.dropResposta, null, false, {resposta:resp});
+			resp.contenedor.on("mouseover", function(evt){ document.body.style.cursor='pointer'; });
+			resp.contenedor.on("mouseout", function(evt){ document.body.style.cursor='default'; });
+			
+			respCounter++;
 		}
     }
     

@@ -464,14 +464,14 @@ var p = RichText.prototype = new createjs.DisplayObject();
         this.text = this.text.split("{{lg}}").join("<lg>");//.replace( "{{u}}", "<u>");*/
 		
 		//console.log("##############"+this.text);
-		this.text = this.text.split("<i>").join("{{cur}}");//.replace( "{{sub}}", "<sb>");
+		/*this.text = this.text.split("<i>").join("{{cur}}");//.replace( "{{sub}}", "<sb>");
 		this.text = this.text.split("</i>").join("{{normal}}");//.replace( "{{sub}}", "<sb>");
 		
 		this.text = this.text.split("<b>").join("{{neg}}");//.replace( "{{sub}}", "<sb>");
         this.text = this.text.split("</b>").join("{{normal}}");//.replace( "{{sub}}", "<sb>");
 		
         this.text = this.text.split("<u>").join("{{u}}");//.replace( "{{sub}}", "<sb>");
-        this.text = this.text.split("</u>").join("{{normal}}");//.replace( "{{sub}}", "<sb>");
+        this.text = this.text.split("</u>").join("{{normal}}");//.replace( "{{sub}}", "<sb>");*/
 		
 		//this.text = Utils.cleanTags(this.text);
 		

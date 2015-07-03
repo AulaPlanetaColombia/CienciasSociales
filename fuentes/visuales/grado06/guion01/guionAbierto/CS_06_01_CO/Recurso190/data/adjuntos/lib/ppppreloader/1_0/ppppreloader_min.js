@@ -1,2 +1,997 @@
-/* PPPPRELOADER VERSION : 15.4.20.1 */ 
-var pppSpinner=pppSpinner||{spinner:"data:image/gif;base64,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",message:"Cargando...",structure:"<div class='pppSpinner_modal'><table style='width: 100%; height: 100%'><tr style='vertical-align: middle;'><td style='text-align:center;'><img src='%SPINNERDATA%'><br/><b>%SPINNERMESSAGE%</b></td></tr></table></div>",css:".pppSpinner_modal { display:none; position:fixed; z-index:1000; top:0;left:0; height:100%; width:100%; background: rgba( 255, 255, 255, .8 );}\n        body.pppSpinnerLoading { overflow: hidden; }\n        body.pppSpinnerLoading .pppSpinner_modal { display: block; }",showCount:0,initialized:false,pendingSpinner:false,init:function(){if(pppSpinner.initialized==false){pppSpinner.showCount=0;pppSpinner.pendingSpinner=false;if(pppSpinner.documentReadyForSpinner()){pppSpinner.addSpinnerToDOM()}else{pppSpinner.pendingSpinner=true;document.addEventListener("DOMContentLoaded",function(a){pppSpinner.setPendingSpinner()})}pppSpinner.initialized=true}},documentReadyForSpinner:function(){var a=document.getElementsByTagName("body");if(a!=null&&a.length>0){return true}else{return false}},addSpinnerToDOM:function(){var a=document.getElementsByTagName("body")[0];var b=document.getElementsByTagName("head")[0];var d=document.createElement("style");d.type="text/css";if(d.styleSheet){d.styleSheet.cssText=pppSpinner.css}else{d.appendChild(document.createTextNode(pppSpinner.css))}b.appendChild(d);var e=pppSpinner.structure.replace("%SPINNERDATA%",pppSpinner.spinner);e=e.replace("%SPINNERMESSAGE%",pppSpinner.message);var f=document.createElement("div");f.innerHTML=e;var c=f.firstChild;a.appendChild(c)},setPendingSpinner:function(){pppSpinner.pendingSpinner=false;pppSpinner.addSpinnerToDOM();if(pppSpinner.showCount>0){var a=document.getElementsByTagName("body")[0];a.className+=" pppSpinnerLoading"}},show:function(){if(pppSpinner.showCount==0&&pppSpinner.documentReadyForSpinner()){var a=document.getElementsByTagName("body")[0];a.className+=" pppSpinnerLoading"}pppSpinner.showCount++},hide:function(){pppSpinner.showCount--;if(pppSpinner.showCount==0){var a=document.getElementsByTagName("body")[0];a.className=a.className.replace(/(?:^|\s)pppSpinnerLoading(?!\S)/g,"")}}};LazyLoad=(function(k){var g,h,b={},e=0,f={css:[],js:[]},n=k.styleSheets;function m(q,p){var r=k.createElement(q),o;for(o in p){if(p.hasOwnProperty(o)){r.setAttribute(o,p[o])}}return r}function j(q,o){var s=b[q],t,r;if(s){t=s.callback;r=s.urls;r.shift();e=0;if(o){s.errors.push(o)}if(!r.length){t&&t.call(s.context,s.obj,s.errors);b[q]=null;f[q].length&&l(q)}}}function c(){var o=navigator.userAgent;g={async:k.createElement("script").async===true};(g.webkit=/AppleWebKit\//.test(o))||(g.ie=/MSIE|Trident/.test(o))||(g.opera=/Opera/.test(o))||(g.gecko=/Gecko\//.test(o))||(g.unknown=true)}function l(A,z,C,w,s){var u=function(){j(A)},D=A==="css",q=[],v,x,t,r,y,o;g||c();if(z){z=typeof z==="string"?[z]:z.concat();if(D||g.async||g.gecko||g.opera){f[A].push({urls:z,callback:C,obj:w,context:s,errors:[]})}else{var B=[];for(v=0,x=z.length;v<x;++v){f[A].push({urls:[z[v]],callback:v===x-1?C:null,obj:w,context:s,errors:B})}}}if(b[A]||!(r=b[A]=f[A].shift())){return}h||(h=k.head||k.getElementsByTagName("head")[0]);y=r.urls.concat();for(v=0,x=y.length;v<x;++v){o=y[v];if(D){t=g.gecko?m("style"):m("link",{href:o,rel:"stylesheet"})}else{t=m("script",{src:o});t.async=false}t.className="lazyload";t.setAttribute("charset","utf-8");if(g.ie&&!D&&"onreadystatechange" in t&&!("draggable" in t)){t.onreadystatechange=function(){if(/loaded|complete/.test(t.readyState)){t.onreadystatechange=null;u()}}}else{if(D&&(g.gecko||g.webkit)){if(g.webkit){r.urls[v]=t.href;d(o)}else{t.innerHTML='@import "'+o+'";';a(t,o)}}else{t.onload=u;t.onerror=function(){j(A,this.src)}}}q.push(t)}for(v=0,x=q.length;v<x;++v){h.appendChild(q[v])}}function a(r,o){var q;try{q=!!r.sheet.cssRules}catch(p){e+=1;if(e<200){setTimeout(function(){a(r,o)},50)}else{q&&j("css",o)}return}j("css")}function d(o){var q=b.css,p;if(q){p=n.length;while(--p>=0){if(n[p].href===q.urls[0]){j("css");break}}e+=1;if(q){if(e<200){setTimeout(function(){d(o)},50)}else{j("css",o)}}}}return{css:function(q,r,p,o){l("css",q,r,p,o)},js:function(q,r,p,o){l("js",q,r,p,o)}}})(this.document);function queryStringDecode(a){return decodeURIComponent(a.replace(/\+/g," "))}function getWindowQueryParams(e,d,g,f){try{var h=e.location.href;var m=h.indexOf("?",0);if(m>0){var k=h.substr(m+1);var a=k.split("&");for(var b=0;b<a.length;b++){if(a[b].indexOf(d,0)==0){var l=a[b].split("=");var c=l[0].substr(d.length);if(g.hasOwnProperty(c)==false||f){g[c]=queryStringDecode(l[1])}}}}}catch(j){}}function getRecursiveQueryParams(d,e,c){try{var a=window;while(a!=null){getWindowQueryParams(a,d,e,c);if(a==a.parent){break}else{a=a.parent}}}catch(b){}}var pppPreloader=pppPreloader||{aliases:{},origins:{},remotePaths:{},localPaths:{},manifests:[],documentReady:false,documentReadyPendingManifests:[],init:function(a){if(a){for(var b in a){this[b]=a[b]}}getRecursiveQueryParams("_preload_",this.origins,false);pppSpinner.init();var c=this;this.documentReady=(document.readyState=="complete");if(this.documentReady==false){document.addEventListener("DOMContentLoaded",function(f){c.documentReady=true;if(c.manifests.length>0){var d=c.manifests.slice();for(var e=0;e<d.length;e++){c.checkManifestDownloaded(d[e])}}})}},loadManifest:function(a){newManifest=JSON.parse(JSON.stringify(a));if(a.hasOwnProperty("onEndLoading")){newManifest.onEndLoading=a.onEndLoading}this.manifests.push(newManifest);this.launchManifest(newManifest)},from:function(c,b){var a=c;if(this.aliases.hasOwnProperty(c)){a=this.aliases[c]}if(this.origins.hasOwnProperty(a)){if(this.remotePaths.hasOwnProperty(c)){return this.origins[a]+this.remotePaths[c]+b}else{return this.origins[a]+b}}else{if(this.localPaths.hasOwnProperty(c)){return this.localPaths[c]+b}else{return b}}},startSpinner:function(){pppSpinner.show()},stopSpinner:function(){pppSpinner.hide()},logErrors:function(b){if(b.errors&&b.errors.length>0){var c="ERROR pppPreloader: \n";for(var a=0;a<b.errors.length;a++){c+="  - "+b.errors[a].type+": "+b.errors[a].file+" ["+b.errors[a].url+"]\n"}return c}return""},launchManifest:function(b){b.errors=[];b.ids=[];if(b.hasOwnProperty("spinner")&&b.spinner=="auto"){this.startSpinner()}for(var a=0;a<b.blocks.length;a++){var c=b.blocks[a];b.blocks[a]=this.filterBlock(c);this.launchBlock(b,a,b.blocks[a])}},checkIfFile:function(d){function c(){var f=navigator.userAgent.toLowerCase();return(f.indexOf("msie")!=-1)?parseInt(f.split("msie")[1]):false}function e(){return !!window.chrome}var b=true;if(d.hasOwnProperty("onlyif")){if(d.onlyif.indexOf("IE")==0){if(d.onlyif=="IE"){if(c()==false){return false}}else{var a=parseInt(d.onlyif.substr(3));if(c()!=a){return false}}}else{if(d.onlyif=="Chrome"){if(e()==false){return false}}else{if(d.onlyif=="!Chrome"){if(e()){return false}}}}}return b},filterBlock:function(a){var b={type:a.type,files:new Array()};for(i=0;i<a.files.length;i++){if(this.checkIfFile(a.files[i])){b.files.push(a.files[i])}}return b},launchBlock:function(c,a,f){var b;var d=[];var e=this;var g;for(b=0;b<f.files.length;b++){d.push(this.from(f.files[b].from,f.files[b].file))}switch(f.type){case"css":LazyLoad.css(d,function(j,k){if(k.length>0){for(var h=0;h<k.length;h++){e.addError(c,f,f.files[d.indexOf(k[h])].file,k[h],"NOT_FOUND")}}f.downloaded=true;e.checkManifestDownloaded(c)});break;case"js":LazyLoad.js(d,function(j,k){if(k.length>0){for(var h=0;h<k.length;h++){e.addError(c,f,f.files[d.indexOf(k[h])].file,k[h],"NOT_FOUND")}}f.downloaded=true;e.checkManifestDownloaded(c)});break;case"manifest":for(b=0;b<d.length;b++){this.downloadManifest(c,a,f,d[b],b)}break;case"xml":for(b=0;b<d.length;b++){this.downloadAJAX("XML",c,a,f,d[b],b)}break;case"json":for(b=0;b<d.length;b++){this.downloadAJAX("JSON",c,a,f,d[b],b)}break;case"img":for(b=0;b<d.length;b++){this.downloadImage(c,a,f,d[b],b)}break;case"audio":break}},downloadManifest:function(c,b,f,a,d){var e=this;this.getAJAX("JSON",a,function(j){for(var g=0;g<j.blocks.length;g++){var l=j.blocks[g];var k=e.filterBlock(l);var h=c.blocks.push(k);e.launchBlock(c,h,k)}f.downloaded=true},function(g){f.downloaded=true;var h="CROSS_DOMAIN/LOCALFILE_NOT_ALLOWED";if(g>0){h="NOT_FOUND"}e.addError(c,f,f.files[d].file,a,h);e.checkManifestDownloaded(c)})},downloadAJAX:function(d,c,b,g,a,e){var f=this;if(!g.files[e].hasOwnProperty("id")){this.addError(c,g,g.files[e].file,a,"ID_REQUIRED");this.endFileDownload(c,g,e);return}this.getAJAX(d,a,function(h){c.ids[g.files[e].id]=h;f.endFileDownload(c,g,e)},function(h){var j="CROSS_DOMAIN/LOCALFILE_NOT_ALLOWED";if(h>0){j="NOT_FOUND"}f.addError(c,g,g.files[e].file,a,"NOT_FOUND");f.endFileDownload(c,g,e)})},downloadImage:function(d,c,g,b,e){var f=this;var a=new Image();a.onload=function(){if(g.files[e].hasOwnProperty("id")){d.ids[g.files[e].id]=a}f.endFileDownload(d,g,e);a.onload=null;a.onerror=null};a.onerror=function(){f.addError(d,g,g.files[e].file,b,"NOT_FOUND");f.endFileDownload(d,g,e);a.onload=null;a.onerror=null};a.src=b;if(a.complete||a.naturalHeight>0){if(g.files[e].hasOwnProperty("id")){d.ids[g.files[e].id]=a}this.endFileDownload(d,g,e);a.onload=null;a.onerror=null}},endFileDownload:function(a,c,b){c.files[b]["downloaded"]=true;if(this.checkBlockDownloaded(c)){c.downloaded=true;this.checkManifestDownloaded(a)}},addError:function(e,f,c,a,d){for(var b=0;b<e.errors.length;b++){if(e.errors[b].url==a){return}}e.errors.push({block:f,file:c,url:a,type:d})},checkBlockDownloaded:function(b){for(var a=0;a<b.files.length;a++){if(!b.files[a].hasOwnProperty("downloaded")||b.files[a]["downloaded"]!=true){return false}}return true},checkManifestDownloaded:function(b){var d=true;for(var a=0;a<b.blocks.length;a++){var c=b.blocks[a];if(!c.hasOwnProperty("downloaded")||c.downloaded!=true){d=false;break}}if(d){if(this.documentReady==false){this.documentReady=(document.readyState=="complete")}if(b.waitForDocumentReady==true&&this.documentReady==false){return}this.finishManifest(b)}},finishManifest:function(a){if(a.hasOwnProperty("spinner")&&a.spinner=="auto"){this.stopSpinner()}if(a.onEndLoading!=null){a.onEndLoading(a)}if(a.hasOwnProperty("spinner")&&a.spinner=="onEndLoading"){this.stopSpinner()}var b=this.manifests.indexOf(a);if(b>-1){this.manifests.splice(b,1)}},getAJAX:function(e,d,c,a){var f=(typeof XMLHttpRequest!="undefined")?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP");try{f.open("get",d,true);f.onreadystatechange=function(){var g;var h;if(f.readyState==4){g=f.status;if(g==200){if(e=="JSON"){h=JSON.parse(f.responseText)}else{if(e="XML"){h=f.responseXML}else{h=f.responseText}}c&&c(h)}else{a&&a(g)}}};if(e=="JSON"){if(f.overrideMimeType){f.overrideMimeType("text/plain")}}f.send()}catch(b){a&&a(0)}}};
+/**
+pppSPINNER.JS - Icono de cargando con todo lo que ello supone.
+Se maneja todo desde CSS's.
+Basado en: http://stackoverflow.com/questions/1964839/jquery-please-wait-loading-animation
+*/
+
+var pppSpinner = pppSpinner || {
+
+  // Configuración básica
+  spinner: "data:image/gif;base64,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",
+  message: "Cargando...",
+  structure: "<div class='pppSpinner_modal'><table style='width: 100%; height: 100%'><tr style='vertical-align: middle;'><td style='text-align:center;'><img src='%SPINNERDATA%'><br/><b>%SPINNERMESSAGE%</b></td></tr></table></div>",
+  css: ".pppSpinner_modal { display:none; position:fixed; z-index:1000; top:0;left:0; height:100%; width:100%; background: rgba( 255, 255, 255, .8 );}\n\
+        body.pppSpinnerLoading { overflow: hidden; }\n\
+        body.pppSpinnerLoading .pppSpinner_modal { display: block; }",
+
+  // Variables internas
+  showCount: 0,
+  initialized: false,
+  pendingSpinner: false,
+
+  init: function() {
+    if (pppSpinner.initialized == false) {
+      
+      pppSpinner.showCount = 0;
+      pppSpinner.pendingSpinner = false;
+
+      // Si podemos, añadimos ya al DOM lo necesario
+      if (pppSpinner.documentReadyForSpinner()) {
+        pppSpinner.addSpinnerToDOM();
+      } else { // Si no, nos apuntamos añadirlo cuando podamos
+        pppSpinner.pendingSpinner = true;
+        document.addEventListener("DOMContentLoaded", function(event) {
+          pppSpinner.setPendingSpinner();
+        });
+      }
+      pppSpinner.initialized = true;
+    }
+  },
+
+  documentReadyForSpinner: function() {
+    var bodies = document.getElementsByTagName("body");
+    if (bodies != null && bodies.length > 0)
+      return true;
+    else
+      return false;
+  },
+
+  addSpinnerToDOM: function() {
+    var body = document.getElementsByTagName("body")[0];
+    var head  = document.getElementsByTagName("head")[0];
+    // Añadimos los estilos CSS que podemos necesitar
+    var style = document.createElement("style");
+    style.type = "text/css";
+    if (style.styleSheet) {
+      style.styleSheet.cssText = pppSpinner.css;
+    } else {
+      style.appendChild(document.createTextNode(pppSpinner.css));
+    }
+    head.appendChild(style);
+
+    // Añadimos el contenido
+    var content = pppSpinner.structure.replace("%SPINNERDATA%", pppSpinner.spinner);
+    content = content.replace("%SPINNERMESSAGE%", pppSpinner.message)
+    var wrapper = document.createElement('div');
+    wrapper.innerHTML= content;
+    var contentDiv = wrapper.firstChild;
+    body.appendChild(contentDiv);
+  },
+
+  setPendingSpinner: function() {
+    pppSpinner.pendingSpinner = false;
+    // Montamos el spinner
+    pppSpinner.addSpinnerToDOM();
+    // Procedemos a mostarlo si ya se ha hecho un show
+    if (pppSpinner.showCount > 0) {
+      var body = document.getElementsByTagName("body")[0];
+      body.className += " pppSpinnerLoading";
+    }
+  },
+
+  show: function () {
+    if (pppSpinner.showCount == 0 && pppSpinner.documentReadyForSpinner()) {
+      var body = document.getElementsByTagName("body")[0];
+      body.className += " pppSpinnerLoading";
+    }
+    pppSpinner.showCount++;
+  },
+
+  hide: function () {
+    pppSpinner.showCount--;
+    if (pppSpinner.showCount == 0) {
+      var body = document.getElementsByTagName("body")[0];
+      body.className = body.className.replace(/(?:^|\s)pppSpinnerLoading(?!\S)/g , '');
+    }
+  }
+
+};
+
+
+/*jslint browser: true, eqeqeq: true, bitwise: true, newcap: true, immed: true, regexp: false */
+
+/**
+LazyLoad makes it easy and painless to lazily load one or more external
+JavaScript or CSS files on demand either during or after the rendering of a web
+page.
+
+Supported browsers include Firefox 2+, IE6+, Safari 3+ (including Mobile
+Safari), Google Chrome, and Opera 9+. Other browsers may or may not work and
+are not officially supported.
+
+Visit https://github.com/rgrove/lazyload/ for more info.
+
+Copyright (c) 2011 Ryan Grove <ryan@wonko.com>
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the 'Software'), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+@module lazyload
+@class LazyLoad
+@static
+*/
+
+/*--------------------------------------------------------------
+SINERGIA: Añadido control de errores básico. NOTA: en FF, las CSS
+no notifican errores...
+--------------------------------------------------------------*/
+
+LazyLoad = (function (doc) {
+  // -- Private Variables ------------------------------------------------------
+
+  // User agent and feature test information.
+  var env,
+
+  // Reference to the <head> element (populated lazily).
+  head,
+
+  // Requests currently in progress, if any.
+  pending = {},
+
+  // Number of times we've polled to check whether a pending stylesheet has
+  // finished loading. If this gets too high, we're probably stalled.
+  pollCount = 0,
+
+  // Queued requests.
+  queue = {css: [], js: []},
+
+  // Reference to the browser's list of stylesheets.
+  styleSheets = doc.styleSheets;
+
+  // -- Private Methods --------------------------------------------------------
+
+  /**
+  Creates and returns an HTML element with the specified name and attributes.
+
+  @method createNode
+  @param {String} name element name
+  @param {Object} attrs name/value mapping of element attributes
+  @return {HTMLElement}
+  @private
+  */
+  function createNode(name, attrs) {
+    var node = doc.createElement(name), attr;
+
+    for (attr in attrs) {
+      if (attrs.hasOwnProperty(attr)) {
+        node.setAttribute(attr, attrs[attr]);
+      }
+    }
+
+    return node;
+  }
+
+  /**
+  Called when the current pending resource of the specified type has finished
+  loading. Executes the associated callback (if any) and loads the next
+  resource in the queue.
+
+  @method finish
+  @param {String} type resource type ('css' or 'js')
+  @private
+  */
+  function finish(type, urlError) {
+    var p = pending[type],
+        callback,
+        urls;
+
+    if (p) {
+      callback = p.callback;
+      urls     = p.urls;
+
+      urls.shift();
+      pollCount = 0;
+
+      //alert(urlError);
+      // if urlError
+      if (urlError)
+        p.errors.push(urlError);
+
+      // If this is the last of the pending URLs, execute the callback and
+      // start the next request in the queue (if any).
+      if (!urls.length) {
+        callback && callback.call(p.context, p.obj, p.errors);
+        pending[type] = null;
+        queue[type].length && load(type);
+      }
+    }
+  }
+
+  /**
+  Populates the <code>env</code> variable with user agent and feature test
+  information.
+
+  @method getEnv
+  @private
+  */
+  function getEnv() {
+    var ua = navigator.userAgent;
+
+    env = {
+      // True if this browser supports disabling async mode on dynamically
+      // created script nodes. See
+      // http://wiki.whatwg.org/wiki/Dynamic_Script_Execution_Order
+      async: doc.createElement('script').async === true
+    };
+
+    (env.webkit = /AppleWebKit\//.test(ua))
+      || (env.ie = /MSIE|Trident/.test(ua))
+      || (env.opera = /Opera/.test(ua))
+      || (env.gecko = /Gecko\//.test(ua))
+      || (env.unknown = true);
+  }
+
+  /**
+  Loads the specified resources, or the next resource of the specified type
+  in the queue if no resources are specified. If a resource of the specified
+  type is already being loaded, the new request will be queued until the
+  first request has been finished.
+
+  When an array of resource URLs is specified, those URLs will be loaded in
+  parallel if it is possible to do so while preserving execution order. All
+  browsers support parallel loading of CSS, but only Firefox and Opera
+  support parallel loading of scripts. In other browsers, scripts will be
+  queued and loaded one at a time to ensure correct execution order.
+
+  @method load
+  @param {String} type resource type ('css' or 'js')
+  @param {String|Array} urls (optional) URL or array of URLs to load
+  @param {Function} callback (optional) callback function to execute when the
+    resource is loaded
+  @param {Object} obj (optional) object to pass to the callback function
+  @param {Object} context (optional) if provided, the callback function will
+    be executed in this object's context
+  @private
+  */
+  function load(type, urls, callback, obj, context) {
+    var _finish = function () { finish(type); },
+        isCSS   = type === 'css',
+        nodes   = [],
+        i, len, node, p, pendingUrls, url;
+
+    env || getEnv();
+
+    if (urls) {
+      // If urls is a string, wrap it in an array. Otherwise assume it's an
+      // array and create a copy of it so modifications won't be made to the
+      // original.
+      urls = typeof urls === 'string' ? [urls] : urls.concat();
+
+      // Create a request object for each URL. If multiple URLs are specified,
+      // the callback will only be executed after all URLs have been loaded.
+      //
+      // Sadly, Firefox and Opera are the only browsers capable of loading
+      // scripts in parallel while preserving execution order. In all other
+      // browsers, scripts must be loaded sequentially.
+      //
+      // All browsers respect CSS specificity based on the order of the link
+      // elements in the DOM, regardless of the order in which the stylesheets
+      // are actually downloaded.
+      if (isCSS || env.async || env.gecko || env.opera) {
+        // Load in parallel.
+        queue[type].push({
+          urls    : urls,
+          callback: callback,
+          obj     : obj,
+          context : context,
+          errors: [] // Añado array vacío para los errores
+        });
+      } else {
+        // Load sequentially.
+        var errors = []; // Creo una única instancia de Errors para todos ellos
+        for (i = 0, len = urls.length; i < len; ++i) {
+          queue[type].push({
+            urls    : [urls[i]],
+            callback: i === len - 1 ? callback : null, // callback is only added to the last URL
+            obj     : obj,
+            context : context,
+            errors: errors
+          });
+        }
+      }
+    }
+
+    // If a previous load request of this type is currently in progress, we'll
+    // wait our turn. Otherwise, grab the next item in the queue.
+    if (pending[type] || !(p = pending[type] = queue[type].shift())) {
+      return;
+    }
+
+    head || (head = doc.head || doc.getElementsByTagName('head')[0]);
+    pendingUrls = p.urls.concat();
+
+    for (i = 0, len = pendingUrls.length; i < len; ++i) {
+      url = pendingUrls[i];
+
+      if (isCSS) {
+          node = env.gecko ? createNode('style') : createNode('link', {
+            href: url,
+            rel : 'stylesheet'
+          });
+      } else {
+        node = createNode('script', {src: url});
+        node.async = false;
+      }
+
+      node.className = 'lazyload';
+      node.setAttribute('charset', 'utf-8');
+
+      if (env.ie && !isCSS && 'onreadystatechange' in node && !('draggable' in node)) {
+        node.onreadystatechange = function () {
+          if (/loaded|complete/.test(node.readyState)) {
+            node.onreadystatechange = null;
+            _finish();
+          }
+        };
+      } else if (isCSS && (env.gecko || env.webkit)) {
+        // Gecko and WebKit don't support the onload event on link nodes.
+        if (env.webkit) {
+          // In WebKit, we can poll for changes to document.styleSheets to
+          // figure out when stylesheets have loaded.
+          p.urls[i] = node.href; // resolve relative URLs (or polling won't work)
+          pollWebKit(url);
+        } else {
+          // In Gecko, we can import the requested URL into a <style> node and
+          // poll for the existence of node.sheet.cssRules. Props to Zach
+          // Leatherman for calling my attention to this technique.
+          node.innerHTML = '@import "' + url + '";';
+          pollGecko(node, url);
+        }
+      } else {
+        node.onload = _finish;
+        node.onerror = function () { finish(type, this.src) };
+      }
+
+      nodes.push(node);
+    }
+
+    for (i = 0, len = nodes.length; i < len; ++i) {
+      head.appendChild(nodes[i]);
+    }
+  }
+
+  /**
+  Begins polling to determine when the specified stylesheet has finished loading
+  in Gecko. Polling stops when all pending stylesheets have loaded or after 10
+  seconds (to prevent stalls).
+
+  Thanks to Zach Leatherman for calling my attention to the @import-based
+  cross-domain technique used here, and to Oleg Slobodskoi for an earlier
+  same-domain implementation. See Zach's blog for more details:
+  http://www.zachleat.com/web/2010/07/29/load-css-dynamically/
+
+  @method pollGecko
+  @param {HTMLElement} node Style node to poll.
+  @private
+  */
+  function pollGecko(node, url) {
+    var hasRules;
+
+    try {
+      // We don't really need to store this value or ever refer to it again, but
+      // if we don't store it, Closure Compiler assumes the code is useless and
+      // removes it.
+      hasRules = !!node.sheet.cssRules;
+    } catch (ex) {
+      // An exception means the stylesheet is still loading.
+      pollCount += 1;
+
+      if (pollCount < 200) {
+        setTimeout(function () { pollGecko(node, url); }, 50);
+      } else {
+        // We've been polling for 10 seconds and nothing's happened. Stop
+        // polling and finish the pending requests to avoid blocking further
+        // requests.
+        hasRules && finish('css', url); // ERROR!!!
+      }
+
+      return;
+    }
+
+    // If we get here, the stylesheet has loaded.
+    finish('css');
+  }
+
+  /**
+  Begins polling to determine when pending stylesheets have finished loading
+  in WebKit. Polling stops when all pending stylesheets have loaded or after 10
+  seconds (to prevent stalls).
+
+  @method pollWebKit
+  @private
+  */
+  function pollWebKit(url) {
+    var css = pending.css, i;
+
+    if (css) {
+      i = styleSheets.length;
+
+      // Look for a stylesheet matching the pending URL.
+      while (--i >= 0) {
+        if (styleSheets[i].href === css.urls[0]) {
+          finish('css');
+          break;
+        }
+      }
+
+      pollCount += 1;
+
+      if (css) {
+        if (pollCount < 200) {
+          setTimeout(function () { pollWebKit(url); }, 50);
+        } else {
+          // We've been polling for 10 seconds and nothing's happened, which may
+          // indicate that the stylesheet has been removed from the document
+          // before it had a chance to load. Stop polling and finish the pending
+          // request to prevent blocking further requests.
+          finish('css', url); // ERROR
+        }
+      }
+    }
+  }
+
+  return {
+
+    /**
+    Requests the specified CSS URL or URLs and executes the specified
+    callback (if any) when they have finished loading. If an array of URLs is
+    specified, the stylesheets will be loaded in parallel and the callback
+    will be executed after all stylesheets have finished loading.
+
+    @method css
+    @param {String|Array} urls CSS URL or array of CSS URLs to load
+    @param {Function} callback (optional) callback function to execute when
+      the specified stylesheets are loaded
+    @param {Object} obj (optional) object to pass to the callback function
+    @param {Object} context (optional) if provided, the callback function
+      will be executed in this object's context
+    @static
+    */
+    css: function (urls, callback, obj, context) {
+      load('css', urls, callback, obj, context);
+    },
+
+    /**
+    Requests the specified JavaScript URL or URLs and executes the specified
+    callback (if any) when they have finished loading. If an array of URLs is
+    specified and the browser supports it, the scripts will be loaded in
+    parallel and the callback will be executed after all scripts have
+    finished loading.
+
+    Currently, only Firefox and Opera support parallel loading of scripts while
+    preserving execution order. In other browsers, scripts will be
+    queued and loaded one at a time to ensure correct execution order.
+
+    @method js
+    @param {String|Array} urls JS URL or array of JS URLs to load
+    @param {Function} callback (optional) callback function to execute when
+      the specified scripts are loaded
+    @param {Object} obj (optional) object to pass to the callback function
+    @param {Object} context (optional) if provided, the callback function
+      will be executed in this object's context
+    @static
+    */
+    js: function (urls, callback, obj, context) {
+      load('js', urls, callback, obj, context);
+    }
+
+  };
+})(this.document);
+////////////////////////////////////////////////
+// RUTINAS PARA OBTENER UN PARÁMETRO DE LA URL
+////////////////////////////////////////////////
+//**********************************************************
+// Rutinas para el tratamiento de cadenas en el formato URL
+//**********************************************************
+function queryStringDecode(encodedString) {
+	return decodeURIComponent(encodedString.replace(/\+/g,' '));
+}
+
+// OBTENER PARAMETROS A PARTIR DE UN PREFIJO
+function getWindowQueryParams(win, prefix, finalParams, overwrite) {
+	try {
+		var currURL = win.location.href;
+		var paramsPos = currURL.indexOf("?",0);
+		if (paramsPos > 0) {
+			var paramsStr = currURL.substr(paramsPos+1);
+			var paramsArray = paramsStr.split("&");
+			for (var i=0;i<paramsArray.length;i++) {
+				if (paramsArray[i].indexOf(prefix, 0) == 0) {
+					var paramParts = paramsArray[i].split("=");
+					var paramName = paramParts[0].substr(prefix.length);
+					if (finalParams.hasOwnProperty(paramName) == false || overwrite)
+						finalParams[paramName] = queryStringDecode(paramParts[1]);
+				}
+			}
+		}
+	} catch (error) {
+		// Error de cross domain... no hacemos nada
+	}
+}
+
+function getRecursiveQueryParams(prefix, finalParams, overwrite) {
+	try {
+		var w = window; // window es variable/objecte local
+		while (w != null) {
+			getWindowQueryParams(w, prefix, finalParams, overwrite);
+			// A vegades en comptes de retornar NULL retorna la
+			// mateixa finestra com a parent (una finestra és
+			// "parent" de sí mateixa...
+			if (w == w.parent)
+				break;
+			else // Si en canvi no sóc el meu pare, vol dir que haig de "pujar" en la jerarquia
+				w = w.parent;
+		}
+	} catch (error) {
+		// Error de cross domain... no hacemos nada
+	}
+}
+
+//////////////////////////////////////////////////////
+//  Fin Rutinas para obetener un parámetro de la URL
+//////////////////////////////////////////////////////
+/**
+PRELOADER.JS - Sistema de carga basado en manifiesto que usa CDNs
+Utiliza LazyLoad para cargar JS y CSS y spinnerPlugin para la pantalla de cargando
+
+El formato del manifiesto:
+
+pppPreloaderManifest =  {
+  blocks: [
+    { type: "css", files:  [  { from: "CND", file:"mat/one.css"} ,
+                              { from: "CND", file:"mat/two.css"},
+                              { from: "CND", file:"mat/three.css"} ], },
+    { type: "js", files:  [   { from: "CND", file:"mat/two.js"},
+                              { from: "CND", file:"mat/three.js"},
+                              { from: "CND", file:"mat/one.js"} ], },
+  ],
+  spinner: "auto",
+  onEndLoading: function(manifest) {}
+};
+
+Los de tipo "manifest" son manifiestos adicionales. Por ejemplo, un motor
+puede indicar la descarga de un manifiesto externo con el listado de bloques
+de los que depende el ejercicio. 
+
+PARA CROSS DOMAIN (CORS), VER:
+http://www.comolohago.cl/como-habilitar-cors-en-apache-yo-php/
+
+*/
+
+var pppPreloader = pppPreloader || {
+
+  // CONFIGURACION
+  // Aliases
+  aliases: { },
+  // Origenes (CDN, MOTOR, ETC)
+  origins: { }, 
+	// remotePaths (En caso de origenes remotos, indica el path parcial del origen)
+	remotePaths: { },
+  // localPaths (En caso de origenes locales, indica el path parcial del origen)
+  localPaths: { },
+	
+  // VARIABLES INTERNAS
+  // Manifiestos en proceso
+  manifests: [],
+  // información de si el documento ya está listo (por defecto, como esté)
+  documentReady: false,
+  documentReadyPendingManifests: [], // Array de manifiestos pendientes de documentReady
+
+
+  // FUNCIONES
+  init: function (config) {
+
+    if (config) {
+      for (var attrname in config) {
+        this[attrname] = config[attrname];
+      }
+    }
+  	
+  	getRecursiveQueryParams("_preload_", this.origins, false);
+
+    // Inicializamos el spinner por si acaso no lo estaba
+    pppSpinner.init();
+
+    // Inicializamos el ready
+    var refThis = this;
+    this.documentReady = (document.readyState == 'complete');
+    if (this.documentReady == false) {
+      // Añadimos el evento para estar pendientes
+      document.addEventListener("DOMContentLoaded", function(event) {
+        // Nos apuntamos que ya estamos listos
+        refThis.documentReady = true;
+        if (refThis.manifests.length > 0) {
+          // Nos hacemos una copia del array, porque una vez acabado, se elimina de los manifiestos
+          var temp = refThis.manifests.slice();
+          for (var i=0;i<temp.length;i++) {
+            refThis.checkManifestDownloaded(temp[i]);
+          }
+        }
+      });
+    }
+  },
+
+  // Permite la carga a partir de un manifiesto
+  loadManifest: function (manifest) {
+    // Creamos un duplicado del manifiesto (cuidado con los callbacks, que hay que copiarlos a mano!!!)
+    newManifest = JSON.parse(JSON.stringify(manifest));
+    if (manifest.hasOwnProperty("onEndLoading"))
+      newManifest.onEndLoading = manifest.onEndLoading;
+    // Nos guardamos el manifiesto
+    this.manifests.push(newManifest);
+    this.launchManifest(newManifest);
+  },
+
+  // Permite obtener un path de descarga completo
+  from: function (source, url) {
+      // Miramos los alias
+      var realSource = source;
+      if (this.aliases.hasOwnProperty(source)) {
+        realSource = this.aliases[source];
+      }
+      // Miramos ahora el resto...
+      if (this.origins.hasOwnProperty(realSource)) {
+      	if (this.remotePaths.hasOwnProperty(source)) {
+      		return this.origins[realSource] + this.remotePaths[source] + url;
+      	} else {
+      		return this.origins[realSource] + url;
+      	}
+      } else { // "local", "absolute" o simplemente desconocido
+        if (this.localPaths.hasOwnProperty(source)) {
+          return this.localPaths[source] + url;
+        } else {
+          return url;
+        }
+      }
+  },
+
+  // Muestra el spinner
+  startSpinner: function () {
+    pppSpinner.show();
+  },
+
+  // Para el spinner
+  stopSpinner: function () {
+    pppSpinner.hide();
+  },
+
+  logErrors: function (mf) {
+    if (mf.errors && mf.errors.length > 0) {
+      var msg = "ERROR pppPreloader: \n";
+        for (var i = 0; i < mf.errors.length; i++) {
+          msg += "  - " + mf.errors[i].type + ": " + mf.errors[i].file + " [" + mf.errors[i].url + "]\n";
+        }
+      return msg;
+    }
+    return "";
+  },
+
+  // Funciones privadas
+  launchManifest: function (manifest) {
+    // Añadimos el array de errores al manifiesto (o lo machacamos si ya estaba)
+    manifest.errors = [];
+    // Añadimos referencia a los elementos identificados (con id)
+    manifest.ids = [];
+    // Miramos de poner el spinner
+    if (manifest.hasOwnProperty("spinner") && manifest.spinner == "auto") {
+      this.startSpinner();
+    }
+    // Miramos bloque a bloque lo que es
+    for (var i=0;i<manifest.blocks.length;i++) {
+      var block = manifest.blocks[i];
+      // Cambio el block por su versión filtrada
+      manifest.blocks[i] = this.filterBlock(block);
+      // Lanzo la descarga del block
+      this.launchBlock(manifest, i, manifest.blocks[i]);
+    }
+  },
+
+  checkIfFile: function (item) {
+    // Por ahora sólo soportamos el caso IE9
+    function isIE () {
+      var myNav = navigator.userAgent.toLowerCase();
+      return (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;
+    }
+    function isChrome() {
+      return !!window.chrome;
+    }
+    var res = true;
+    // Codigo
+    if (item.hasOwnProperty("onlyif")) {
+      // Detección de Internet explorer + version
+      if (item["onlyif"].indexOf("IE") == 0) {
+        if (item["onlyif"] == "IE") {
+          if (isIE() == false)
+            return false;
+        } else {
+          var version = parseInt(item["onlyif"].substr(3));
+          if (isIE() != version)
+            return false;
+        }
+      } else if (item["onlyif"] == "Chrome") {
+        if (isChrome() == false)
+          return false;
+      } else if (item["onlyif"] == "!Chrome") {
+        if (isChrome())
+          return false;
+      }
+    }
+    return res;
+  },
+
+  filterBlock: function (block) {
+    var newBlock = { type: block.type, files: new Array() }
+    // Componemos el bloque filtrado por las condiciones
+    for (i=0;i<block.files.length;i++) {
+      if (this.checkIfFile(block.files[i]))
+        newBlock.files.push(block.files[i]);
+    }
+    return newBlock;
+  },
+
+  launchBlock: function (manifest, index, block) {
+    var i;
+    var files = [];
+    var refThis = this;
+    var downloaded;
+    // Ponemos los archivos con el path definitivo
+    for (i=0;i<block.files.length;i++) {
+   	  files.push(this.from(block.files[i].from, block.files[i].file));
+    }
+    // Procedemos a descargar los archivos
+    switch (block.type) {
+      case "css":
+        LazyLoad.css(files, function(obj, errors) {
+          if (errors.length > 0) {
+            for (var i=0;i<errors.length;i++) {
+              refThis.addError(manifest, block, block.files[files.indexOf(errors[i])].file, errors[i], "NOT_FOUND");
+            }
+          }
+          block["downloaded"] = true; 
+          refThis.checkManifestDownloaded(manifest); 
+        });
+        break;
+      case "js":
+        LazyLoad.js(files, function(obj, errors) {
+          if (errors.length > 0) {
+            for (var i=0;i<errors.length;i++) {
+              refThis.addError(manifest, block, block.files[files.indexOf(errors[i])].file, errors[i], "NOT_FOUND");
+            }
+          }
+          block["downloaded"] = true; refThis.checkManifestDownloaded(manifest);
+        });
+        break;
+      case "manifest":
+        for (i=0;i<files.length;i++) {
+          this.downloadManifest(manifest, index, block, files[i], i);
+        }
+        break;
+      case "xml":
+        for (i=0;i<files.length;i++) {
+          this.downloadAJAX("XML", manifest, index, block, files[i], i);
+        }
+        break;
+      case "json":
+        for (i=0;i<files.length;i++) {
+          this.downloadAJAX("JSON", manifest, index, block, files[i], i);
+        }
+        break;
+      case "img":
+        for (i=0;i<files.length;i++) {
+          this.downloadImage(manifest, index, block, files[i], i);
+        }
+        break;
+      case "audio":
+        /* MIRAR DE CREAR TAGS DE SONIDO CON Ids */
+        break;
+    }
+  },
+
+  downloadManifest: function(manifest, index, block, url, fileIndex) {
+    var refThis = this;
+    this.getAJAX("JSON", url, function (data) {
+      // Añadimos el nuevo manifest al actual
+      // Lanzamos la búsqueda bloque a bloque del nuevo manifiesto
+      // Miramos bloque a bloque lo que es
+      for (var i=0;i<data.blocks.length;i++) {
+        var loadedBlock = data.blocks[i];
+        var newBlock = refThis.filterBlock(loadedBlock);
+        var newIdx = manifest.blocks.push(newBlock);
+        refThis.launchBlock(manifest, newIdx, newBlock);
+      }
+      block["downloaded"] = true;
+    }, function (status) {
+      // Error... damos el manifiesto por perdido, y seguimos
+      block["downloaded"] = true;
+      var errorType = "CROSS_DOMAIN/LOCALFILE_NOT_ALLOWED";
+      if (status > 0)
+        errorType = "NOT_FOUND";
+      refThis.addError(manifest, block, block.files[fileIndex].file, url, errorType);
+      refThis.checkManifestDownloaded(manifest);
+    });
+  },
+
+  downloadAJAX: function (type, manifest, index, block, url, fileIndex) {
+    var refThis = this;
+    if (!block.files[fileIndex].hasOwnProperty("id")) {
+      this.addError(manifest, block, block.files[fileIndex].file, url, "ID_REQUIRED")
+      this.endFileDownload(manifest, block, fileIndex);
+      return;
+    }
+    this.getAJAX(type, url, function (data) {
+      manifest.ids[block.files[fileIndex].id] = data;
+      refThis.endFileDownload(manifest, block, fileIndex);
+    }, function (status) {
+      var errorType = "CROSS_DOMAIN/LOCALFILE_NOT_ALLOWED";
+      if (status > 0)
+        errorType = "NOT_FOUND";
+      refThis.addError(manifest, block, block.files[fileIndex].file, url, "NOT_FOUND");
+      refThis.endFileDownload(manifest, block, fileIndex);
+    });
+  },
+
+  downloadImage: function (manifest, index, block, url, fileIndex) {
+    var refThis = this;
+    var img = new Image();
+    img.onload = function () {
+      if (block.files[fileIndex].hasOwnProperty("id"))
+        manifest.ids[block.files[fileIndex].id] = img;
+      refThis.endFileDownload(manifest, block, fileIndex);
+      img.onload = null;
+      img.onerror = null;
+    }
+    img.onerror = function () {
+      refThis.addError(manifest, block, block.files[fileIndex].file, url, "NOT_FOUND");
+      refThis.endFileDownload(manifest, block, fileIndex);
+      img.onload = null;
+      img.onerror = null;
+    }
+    img.src = url;
+    if (img.complete || img.naturalHeight > 0) {
+      if (block.files[fileIndex].hasOwnProperty("id"))
+        manifest.ids[block.files[fileIndex].id] = img;
+      this.endFileDownload(manifest, block, fileIndex);
+      img.onload = null;
+      img.onerror = null;
+    }
+  },
+
+  endFileDownload: function (manifest, block, fileIndex) {
+    // Marco el archivo como downloaded
+    block.files[fileIndex]["downloaded"] = true;
+    // Miro si todo el bloque ya ha sido descargado
+    if (this.checkBlockDownloaded(block)) {
+      // Marco el bloque completo como descargado
+      block["downloaded"] = true;
+      // Miro si ya está el manifiesto descargado, cosa que lanza el evento onEndLoaded
+      this.checkManifestDownloaded(manifest);
+    }
+  },
+
+  addError: function (manifest, block, file, url, type) {
+    // Evitamos duplicados
+    for (var i=0;i<manifest.errors.length;i++) {
+      if (manifest.errors[i].url == url)
+        return;
+    }
+    manifest.errors.push({ block: block, file: file, url: url, type: type});
+  },
+
+  checkBlockDownloaded: function (block) {
+    for (var i=0;i<block.files.length;i++) {
+      if (!block.files[i].hasOwnProperty("downloaded") || block.files[i]["downloaded"] != true)
+        return false;
+    }
+    return true;
+  },
+
+  checkManifestDownloaded: function (manifest) {
+    var downloaded = true;
+    for (var i=0;i<manifest.blocks.length;i++) {
+      var block = manifest.blocks[i];
+      if (!block.hasOwnProperty("downloaded") || block["downloaded"] != true) {
+        downloaded = false;
+        break;
+      }
+    }
+    if (downloaded) {
+      // Revisamos el tema de documentReady y lo ponemos por si acaso...
+      if (this.documentReady == false)
+        this.documentReady = (document.readyState == 'complete');
+
+      // Ahora miramos a ver si realmente podemos proceder...
+      if (manifest.waitForDocumentReady == true && this.documentReady == false) {
+        return;
+      }
+
+      // Finiquitamos el manifiesto
+      this.finishManifest(manifest);
+    }
+  },
+
+  finishManifest: function (manifest) {
+      // Primero miramos si hemos de quitar el spinner
+      if (manifest.hasOwnProperty("spinner") && manifest.spinner == "auto") {
+        this.stopSpinner();
+      }
+      // Luego miramos si hemos de llamar al evento de finalización
+      if (manifest.onEndLoading != null) {
+        manifest.onEndLoading(manifest);
+      }
+      // Primero miramos si hemos de quitar el spinner
+      if (manifest.hasOwnProperty("spinner") && manifest.spinner == "onEndLoading") {
+        this.stopSpinner();
+      }
+      // Y finalmente lo eliminamos de la lista de manifiestos
+      var pos = this.manifests.indexOf(manifest);
+      if (pos > -1) {
+        this.manifests.splice(pos, 1);
+      }
+  },
+
+  getAJAX: function(type, url, successHandler, errorHandler) {
+    var xhr = (typeof XMLHttpRequest != 'undefined') ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');
+    try {
+      xhr.open('get', url, true);
+      xhr.onreadystatechange = function() {
+        var status;
+        var data;
+        // http://xhr.spec.whatwg.org/#dom-xmlhttprequest-readystate
+        if (xhr.readyState == 4/* && xhr.status == 200*/) { // `DONE`
+          status = xhr.status;
+          if (status == 200) {
+            if (type == "JSON") {
+              data = JSON.parse(xhr.responseText);
+            } else if (type = "XML") {
+              data = xhr.responseXML;
+            } else {
+              data = xhr.responseText;
+            }
+            successHandler && successHandler(data);
+          } else {
+            errorHandler && errorHandler(status);
+          }
+        }
+      };
+      // En el caso de JSON forzamos text/plain para poder procesarlo después
+      if (type == "JSON") {
+        if (xhr.overrideMimeType)
+          xhr.overrideMimeType("text/plain");
+      }
+      xhr.send();
+    } catch (error) {
+      errorHandler && errorHandler(0);
+    }
+  }
+
+};
+
+
+
+
+

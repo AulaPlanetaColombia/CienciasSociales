@@ -10,6 +10,7 @@ var LangRes = {
 	LANG_ID_VAL		: 2, // El idioma valenciano no esta reconocido
 	LANG_ID_GAL		: 3,
 	LANG_ID_CAT		: 4,
+	LANG_ID_EUS		: 5,
 
 	// Indicadors del recurs
 	ENTREGA_EN_MANO		:	0,
@@ -31,6 +32,7 @@ var LangRes = {
 	ACTIVITY_VIEWED		:	16,
 	ACTIVITY_NOT_VIEWED	:	17,
 	HTML_PAGE_TITLE		:	18,
+	MSG_VALIDADOCORRECTO	:	19,
 	
 	// Text codificat que indica l'idioma, equivalent al langId però que
 	// es fa servir als XML
@@ -39,7 +41,8 @@ var LangRes = {
 		{ id: "en", nameId: 0 },
 		{ id: "val", nameId: 0 },
 		{ id: "gal", nameId: 0 },
-		{ id: "cat", nameId: 0 }
+		{ id: "cat", nameId: 0 },
+		{ id: "eus", nameId: 0 }
 	],
 
 
@@ -65,7 +68,8 @@ var LangRes = {
 			"La actividad ya ha sido enviada al profesor.",
 			"El alumno ha abierto la actividad.",
 			"Actividad aún por empezar.",
-			"Actividad"
+			"Actividad",
+			"Ejercicio enviado para validación"
 		],
 		[ // en
 			"Hand in to your teacher directly or by email.",
@@ -86,7 +90,8 @@ var LangRes = {
 			"The activity has already been sent to your teacher.",
 			"The student has openned the exercise.",
 			"Activity still not started.",
-			"Activity"
+			"Activity",
+			"Exercise successfully sent for evaluation."
 		],
 		[ // valenciano
 			"Lliura el treball en mà o per correu electrònic.",
@@ -107,7 +112,8 @@ var LangRes = {
 			"L'activitat ja s'ha enviat al professor.",
 			"L'alumne ha obert l'activitat.",
 			"Activitat no iniciada encara.",
-			"Activitat"
+			"Activitat",
+			"L'exercici s'ha enviat per a validar-lo"
 		],
 		[ // gallego
 			"Entrega o traballo en man ou por correo electrónico.",
@@ -128,7 +134,8 @@ var LangRes = {
 			"Xa se enviou a actividade ao profesor.",
 			"O alumno abriu a actividade.",
 			"Actividade aínda por empezar.",
-			"Actividade"
+			"Actividade",
+			"Exercicio enviado para validar"
 		],
 		[ // catalán
 			"Entrega el treball en mà o per correu electrònic.",
@@ -149,7 +156,30 @@ var LangRes = {
 			"L'activitat ja s'ha enviat al professor.",
 			"L'alumne ha obert l'activitat.",
 			"Activitat no iniciada encara.",
-			"Activitat"
+			"Activitat",
+			"L'exercici s'ha enviat a validar"
+		],
+		[ // euskara
+			"Entregatu zuzenean irakasleari edo bidali posta elektronikoz.",
+			"Bidali",
+			"Gehitu fitxategia",
+			"Gorde",
+			"Utzi",
+			"Jarraitu",
+			"Ez zaie galdera batzuei erantzun. Jarraituz gero, ariketaren puntuazioa gordeko da. Aldaketarik egin nahi izanez gero, sakatu Utzi.",
+			"Encara no s'ha carregat cap fitxer.",
+			"Zuzena",
+			"Deskargatu fitxategia",
+			"Deskargatu jarduera-fitxategia",
+			"Itxi",
+			"Jarduera kargatzen…",
+			"Jarduera lehendik osatu da.",
+			"Erantzun ahal izateko, jarduerari zeregin bat esleitu behar zaio. Behar izanez gero, entregatu zuzenean irakasleari edo bidali posta elektronikoz.",
+			"Jarduera irakasleari bidali zaio jada.",
+			"Ikasleak ariketa ireki du.",
+			"Oraindik ez da jarduera hasi.",
+			"Jarduera",
+			"Ariketa behar bezala bidali da irakasleak berrikus dezan."
 		]
 	],
 

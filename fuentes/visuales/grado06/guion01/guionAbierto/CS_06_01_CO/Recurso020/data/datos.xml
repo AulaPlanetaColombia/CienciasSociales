@@ -1,41 +1,44 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <motor tipo="1" clase="a" aprid="M1a">
-  <enunciado>¿Cómo escribirías en cifras romanas los siguientes números?</enunciado>
-  <textoatexto cantidad="6">
-    <cuestion>
-      <pregunta>3</pregunta>
-      <respuesta>III</respuesta>
-    </cuestion>
-    <cuestion>
-      <pregunta>15</pregunta>
-      <respuesta>XV</respuesta>
-    </cuestion>
-    <cuestion>
-      <pregunta>31</pregunta>
-      <respuesta>XXXI</respuesta>
-    </cuestion>
-    <cuestion>
-      <pregunta>42</pregunta>
-      <respuesta>XLII</respuesta>
-    </cuestion>
-    <cuestion>
-      <pregunta>60</pregunta>
-      <respuesta>LX</respuesta>
-    </cuestion>
-    <cuestion>
-      <pregunta>74</pregunta>
-      <respuesta>LXXIV</respuesta>
-    </cuestion>
-  </textoatexto>
-  <textofalso cantidad="0">
-  </textofalso>
   <plataforma>
     <grado><![CDATA[1]]></grado>
     <titulo>Interpreta números romanos</titulo>
     <volumen><![CDATA[2]]></volumen>
-    <nivel><![CDATA[1]]></nivel>
+    <nivel>2</nivel>
     <referencia><![CDATA[ms_3c_06_02]]></referencia>
     <motor><![CDATA[M1a]]></motor>
     <lang>es</lang>
   </plataforma>
+  <enunciado><![CDATA[¿Cómo escribirías en cifras romanas los siguientes números?]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="6">
+    <cuestion>
+      <pregunta><![CDATA[3]]></pregunta>
+      <respuesta><![CDATA[III]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[15]]></pregunta>
+      <respuesta><![CDATA[XV]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[31]]></pregunta>
+      <respuesta><![CDATA[XXXI]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[42]]></pregunta>
+      <respuesta><![CDATA[XLII]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[60]]></pregunta>
+      <respuesta><![CDATA[LX]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[74]]></pregunta>
+      <respuesta><![CDATA[LXXIV]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0" />
+  <temps>5</temps>
 </motor>

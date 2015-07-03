@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <metadata xmlns="urn:InfoRecurso">
   <identificador>RES-B3F3BBCAD6A94F97938DA28878534A27</identificador>
-  <loid>CS_06_01_CORecurso150</loid>
+  <loid>CS_06_01_CO_Recurso150</loid>
   <titulo>Refuerza tu aprendizaje: Las fuentes históricas</titulo>
   <descripcion>Actividades sobre Las fuentes históricas</descripcion>
   <relacionado>0</relacionado>
   <tiporecurso>Recurso sin ficha</tiporecurso>
   <tiempoestimado>90</tiempoestimado>
   <acciondidactica>Preguntas con respuesta libre</acciondidactica>
-  <competencia>
-  </competencia>
+  <competencia>Competencia social y ciudadana</competencia>
   <tipomedia pesado="false" matricula="">Actividad</tipomedia>
   <conceptos>
     <concepto>fuente</concepto>

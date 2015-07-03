@@ -11,19 +11,10 @@
 	var xmlDocu;
 	var resiz = new XResize('contenedor_actividad');
 
-	var IDTarea = getRecursiveQueryParam("IDTarea");
-	//if (IDTarea == '') IDTarea = "16069"; // Pruebas
-	var IDAlumno = getRecursiveQueryParam("IDAlumno");
-	//if (IDAlumno == '') IDAlumno = "9234"; // Pruebas
-	var IDProfesor = getRecursiveQueryParam("IDProfesor");
-	//if (IDProfesor == '') IDProfesor = "34965"; // Pruebas
-	var URL = getRecursiveQueryParam("URL");
-	//if (URL == '') URL = 'serverfake.php';
-	//if (URL == "") URL = "http://pre4.aulaplaneta.com/desktopmodules/ppp_uploadscorm/UploadPostedFiles.aspx";
-	//if (URL == "") URL = "/DesktopModules/PPP_UploadScorms/UploadPostedFiles.aspx";
-	//alert(URL);
-	//URL = "http://localhost/AulaPlaneta4.5/DesktopModules/PPP_UploadScorms/UploadPostedFiles.aspx";
-	//alert("Parámetros recibidos:\nIDTarea: "+IDTarea+"\nIDAlumno: "+IDAlumno+"\nIDProfesor: "+IDProfesor+"\nURL: "+URL);
+	var IDTarea = 0;
+	var IDAlumno = 0;
+	var IDProfesor = 0;
+	var URL = "";
 
 	//***************************************************************
 	// RUTINAS DE UTILIDAD
@@ -244,7 +235,7 @@
 		$(content).html($(content).html()+"<div id='expand_content'></div>");
 		$('#expand_content').css('visibility', 'visible');
 		$('#expand_content').click(function() {
-				window.open("data/adjuntos/" + adjunto, 'Adjunto', 'height='+window.screen.height+',width='+window.screen.width+',top=0,left=0,resizable,scrollbars=1')
+			window.open("data/adjuntos/" + adjunto, 'Adjunto', 'height='+window.screen.height+',width='+window.screen.width+',top=0,left=0,resizable,scrollbars=1')
 		});
 		}, 0);
 	}
@@ -443,7 +434,10 @@
 		document.getElementById("iframeUrl").src = "data/adjuntos/" + adjunto;
 		*/
 		// IFRAME EXTERN
-		$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank"></iframe><div id="expand_contentExt"></div>');
+		if (resiz._isIOS)
+			$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank" scrolling="no"></iframe><div id="expand_contentExt"></div>');
+		else
+			$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank"></iframe><div id="expand_contentExt"></div>');
 		var extiframe = document.getElementById("iframeUrlExt");
 		setGlobalFramePos(contentId, "iframeUrlExt", true);
 		adjustExtHTMLContent("data/adjuntos/" + adjunto, "iframeUrlExt");
@@ -488,6 +482,21 @@
 		$("#" + frameId).css( { width: width + "px", height: height + "px", left: pos.left + "px", top: pos.top + "px"});
 	}
 
+	function setGlobalFrameContainerPos(contentId, frameContainerId, expand) {
+		var pos = $("#" + contentId).offset();
+		var expandSize = 0;
+		if (expand == true)
+			expandSize = 39 + 10;
+		var width = ($("#" + contentId).width()  - expandSize)* resiz.scale;
+		var height = $("#" + contentId).height() * resiz.scale;
+		//alert("OFFSET: " + pos.left + " , " + pos.top + " - SIZE: " + width + " x " + height);
+		var $frameContainerElem = $("#" + frameContainerId);
+		$frameContainerElem.css( { width: width + "px", height: height + "px", left: pos.left + "px", top: pos.top + "px"});
+		$("#" + frameContainerId).find("#iframeUrlExt").each(function (ind) {
+			$(this).css( { width: (width) + "px", height: (height) + "px", left: 0 + "px", top: 0 + "px"});
+		});
+	}
+	
 	function renderURLContent(contentId, url) {
 		if (!url || url.length == 0)
 			return;
@@ -500,17 +509,36 @@
 			document.getElementById("iframeUrl").src = url;
 		*/
 		/* IFRAME EXTERN */
-		$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank"></iframe><div id="expand_contentExt"></div>');
+		if (resiz._isIOS) {
+			$("#iframeExtContainer").append('<iframe id="iframeUrlExt" style="position: relative; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank" scrollbars="auto"></iframe>');
+			$(document.body).append('<div id="expand_contentExt"></div>');
+			$('#iframeUrlExt').css('overflow', 'scroll');
+			$('#iframeUrlExt').css('-webkit-overflow-scrolling', 'touch');
+		} else {
+			$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank"></iframe><div id="expand_contentExt"></div>');
+		}
 		var extiframe = document.getElementById("iframeUrlExt");
-		setGlobalFramePos(contentId, "iframeUrlExt", true);
-		adjustExtHTMLContent(url, "iframeUrlExt");
+		if (resiz._isIOS) {
+			setGlobalFrameContainerPos(contentId, "iframeExtContainer", true);
+			adjustExtHTMLContent(url, "iframeExtContainer");
+		} else {
+			setGlobalFramePos(contentId, "iframeUrlExt", true);
+			adjustExtHTMLContent(url, "iframeUrlExt");
+		}
 		$('#iframeUrlExt').css('visibility', 'visible');
+		if (resiz._isIOS)
+			resiz.repositionEnabled = false;
 		extiframe.src = url;
 		// Afegim callback
 		resiz.resizeCallbacks.push(function () {
 			var extiframe = document.getElementById("iframeUrlExt");
-			setGlobalFramePos(contentId, "iframeUrlExt", true);
-			adjustExtHTMLContent(url, "iframeUrlExt", true);
+			if (resiz._isIOS) {
+				setGlobalFrameContainerPos(contentId, "iframeExtContainer", true);
+				adjustExtHTMLContent(url, "iframeExtContainer", true);
+			} else {
+				setGlobalFramePos(contentId, "iframeUrlExt", true);
+				adjustExtHTMLContent(url, "iframeUrlExt");
+			}
 			var $exp_but = $('#expand_contentExt');
 			/* Sistema de escalado antiguo por CSS que el resultado en pantalla es borroso */
 			$exp_but.css("-ms-transform-origin", "0 0");
@@ -531,6 +559,17 @@
 			$exp_but.css("-webkit-transform", "scale("+resiz.scale+","+resiz.scale+")");
 			$exp_but.css("transform", "scale("+resiz.scale+","+resiz.scale+")");
 		});
+		if (resiz._isIOS) {
+			$(extiframe).load(function() {
+				resiz.repositionEnabled = true;
+				// Procesamos todas las reposiciones pendientes que habian llegado
+				// mientras la resposición no estaba disponible
+				// Pero realmente solo hace falta una
+				setTimeout(function () {
+					resiz.reposition();
+				}, 500);
+			});
+		}
 		// FIN IFRAME EXTERN
 	}
 	
@@ -554,6 +593,7 @@
 			});
 		}
 	}
+	
 	function renderYouTubeContent(contentId, url) {
 		var videoId = getQueryParamMotorUrl(url, "v");
 		var url = "//www.youtube.com/embed/" + videoId;
@@ -566,7 +606,10 @@
 		document.getElementById("iframeUrl").src = url;
 		*/
 		/* IFRAME EXTERN */
-		$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank"></iframe><div id="expand_contentExt"></div>');
+		if (resiz._isIOS)
+			$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank" scrolling="no"></iframe><div id="expand_contentExt"></div>');
+		else
+			$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank"></iframe><div id="expand_contentExt"></div>');
 		var extiframe = document.getElementById("iframeUrlExt");
 		setGlobalFramePos(contentId, "iframeUrlExt", false);
 		$('#iframeUrlExt').css('visibility', 'visible');
@@ -677,6 +720,22 @@
 	
 		scormConfig = aulaPlaneta.SCORM.initialize();
 
+		// Es fa aquí perquè SCORM s'encarrega d'ajustar el domini per evitar cross-domain
+		IDTarea = getRecursiveQueryParam("IDTarea");
+		//if (IDTarea == '') IDTarea = "16069"; // Pruebas
+		IDAlumno = getRecursiveQueryParam("IDAlumno");
+		//if (IDAlumno == '') IDAlumno = "9234"; // Pruebas
+		IDProfesor = getRecursiveQueryParam("IDProfesor");
+		//if (IDProfesor == '') IDProfesor = "34965"; // Pruebas
+		URL = getRecursiveQueryParam("URL");
+		//if (URL == '') URL = 'serverfake.php';
+		//if (URL == "") URL = "http://pre4.aulaplaneta.com/desktopmodules/ppp_uploadscorm/UploadPostedFiles.aspx";
+		//if (URL == "") URL = "/DesktopModules/PPP_UploadScorms/UploadPostedFiles.aspx";
+		//alert(URL);
+		//URL = "http://localhost/AulaPlaneta4.5/DesktopModules/PPP_UploadScorms/UploadPostedFiles.aspx";
+		//alert("Parámetros recibidos:\nIDTarea: "+IDTarea+"\nIDAlumno: "+IDAlumno+"\nIDProfesor: "+IDProfesor+"\nURL: "+URL);
+		
+
 		// AQUI HARIAMOS LA INICIALIZACION EN BASE A LO OBTENIDO DE SCORM Y POR PARAMETROS
 		// LUEGO SE EJECUTARIA EL $(document).ready PROPIO DEL MOTOR
 	
@@ -749,7 +808,7 @@
 			//alert('MODO: ' +scormConfig.mode+" SUSP: "+suspend_data+" COMPL.: "+completed);
 
 			addContent(xmlDocu);
-			if (scormConfig.mode == aulaPlaneta.SCORM.MODO_REVIEW) {
+			if (scormConfig.mode == aulaPlaneta.SCORM.MODO_REVIEW || scormConfig.mode == aulaPlaneta.SCORM.MODO_AREVIEW) {
 				// El professor lo REVISA
 				if (scormConfig.suspend_data == "" || scormConfig.suspend_data == null) {
 					// Aún no se subido ningún fichero
@@ -784,6 +843,11 @@
 								$('#cajaSubir').html('<table><tr><td>'+fileName+'</td><td> <div class="bt_descarg" ><a id="bt_descarg_a" href="' + anchorRuta + '" target="_blank"><input type="button" value="'+LangRes.curLang[LangRes.DESCARGAR_ARCH]+'" onclick="document.getElementById(\'bt_descarg_a\').click()"/></a></div></td></tr></table>');
 							else
 								$('#cajaSubir').html('<table><tr><td>'+fileName+'</td><td> <div class="bt_descarg" ><a href="' + anchorRuta + '" target="_blank"><input type="button" value="'+LangRes.curLang[LangRes.DESCARGAR_ARCH]+'" /></a></div></td></tr></table>');
+							// Poner el texto de ya enviado en medio
+							var msg = "<span class=\"central_msg\">" + LangRes.curLang[LangRes.MSG_VALIDADOCORRECTO] + "</span>";
+							$('.form_adj_txt').css('margin-top', '5px');
+							$('.form_adj_txt').css('width', '600px');
+							$('.form_adj_txt').html(msg);
 						}
 					}
 				}

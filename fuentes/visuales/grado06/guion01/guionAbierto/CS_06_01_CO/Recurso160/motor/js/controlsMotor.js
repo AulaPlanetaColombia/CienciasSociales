@@ -7,31 +7,31 @@ function Pagina( pregunta, _numpagina) {
     this.enunciat.text = pregunta.enunciado;
     this.video = pregunta.video;
     
-    this.enunciat.font = (Contenedor.datosXML.plataforma.grado == 1)? "21px Arial" : "18px Arial" ;
-	this.enunciat.fontSize = (Contenedor.datosXML.plataforma.grado == 1)? 21 : 18 ;
+    this.enunciat.font = (Contenedor.datosXML.plataforma.grado == 1)? "19px Arial" : "17px Arial" ;
+	this.enunciat.fontSize = (Contenedor.datosXML.plataforma.grado == 1)? 19 : 17 ;
 	this.enunciat.color = "#0D3158";
 	this.enunciat.x = 15;
 	this.enunciat.y = 10 ;
-	this.enunciat.lineWidth = 850;
+	this.enunciat.lineWidth = 900;
 	this.enunciat.lineHeight = 22;
 	this.enunciat.mask = new createjs.Shape();
-	this.enunciat.mask.graphics.beginFill("#fff").drawRect(0,0,850, 45);
+	this.enunciat.mask.graphics.beginFill("#fff").drawRect(0,0,900, 45);
 	this.enunciat.mask.y = 10;
 	this.enunciat.mask.x = 15;
 	this.enunciat.mouseEnabled = false;
 	
 	this.explicacion = new createjs.RichText();
     this.explicacion.text = pregunta.explicacion;
-    this.explicacion.font = (Contenedor.datosXML.plataforma.grado == 1)? "17px Arial" : "15px Arial" ;
-	this.explicacion.fontSize = (Contenedor.datosXML.plataforma.grado == 1)? 17 : 15 ;
+    this.explicacion.font = (Contenedor.datosXML.plataforma.grado == 1)? "15px Arial" : "13px Arial" ;
+	this.explicacion.fontSize = (Contenedor.datosXML.plataforma.grado == 1)? 15 : 13 ;
 	this.explicacion.color = "#0D3158";
 	this.explicacion.x = 390;
-	this.explicacion.y = 370;
-	this.explicacion.lineWidth = 500;
-	this.explicacion.lineHeight = 22;
+	this.explicacion.y = 355;
+	this.explicacion.lineWidth = 525;
+	this.explicacion.lineHeight = 21;
 	this.explicacion.mask = new createjs.Shape();
-	this.explicacion.mask.graphics.beginFill("#fff").drawRect(0,0,500, 66);
-	this.explicacion.mask.y = 370;
+	this.explicacion.mask.graphics.beginFill("#fff").drawRect(0,0,525, 88);
+	this.explicacion.mask.y = 355;
 	this.explicacion.mask.x = 390;
 	this.explicacion.mouseEnabled = false;
 	this.explicacion.visible = false;
@@ -58,7 +58,7 @@ function Pagina( pregunta, _numpagina) {
 		pregunta.respuestas.splice(index,1);
 		
 		var cb = new CheckBox( resp, this, i, pregunta);
-    	cb.contenedor.y = 95 + (280 / num_respuestas) * i;
+    	cb.contenedor.y = 90 + (280 / num_respuestas) * i;
     	cb.contenedor.x = 400;
     	this.contenedor.addChild(cb.contenedor);
     	
@@ -108,7 +108,7 @@ function Imagen( pregunta ){
 			objeto.imagen.on("mouseout", function(evt){ document.body.style.cursor='default'; });
 		}
 	};
-	img.src = Motor.IMG + pregunta.imagen;
+	img.src = pppPreloader.from("data", Motor.IMG + pregunta.imagen);//Motor.IMG + pregunta.imagen;
 	
 	// imagen ampliada
 	if( pregunta.ampliacion !=  "")
@@ -159,7 +159,7 @@ function Ampliacion(pregunta)
 		
 		amplia.contenedor.addChild( amplia.imagen);
 	};
-	img.src = Motor.IMG + pregunta.ampliacion;
+	img.src = pppPreloader.from("data", Motor.IMG + pregunta.ampliacion);//Motor.IMG + pregunta.ampliacion;
 		
 	
 	this.contenedor.on("click", this.tancar);

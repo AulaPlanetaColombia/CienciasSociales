@@ -29,7 +29,7 @@ function datosMotor() {
 	
   	this.cantidad = "";
 	this.preguntas = new Array();
-	
+	this.respuestas = new Array();
 	
 }
  
@@ -38,7 +38,7 @@ function pregunta(){
   	this.text = "";
   	this.imagen = "";
   	this.id = -1; 	
-  	this.respuestas = new Array();
+  	
 }
 
 function respuesta(){

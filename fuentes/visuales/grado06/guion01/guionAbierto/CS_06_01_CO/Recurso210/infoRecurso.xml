@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <metadata xmlns="urn:InfoRecurso">
   <identificador>RES-F3E597E3EA6C4A18B5F86BEB1C67E362</identificador>
-  <loid>CS_06_01_CORecurso210</loid>
+  <loid>CS_06_01_CO_Recurso210</loid>
   <titulo>Mapa conceptual</titulo>
-  <descripcion>
-  </descripcion>
+  <descripcion>Mapa conceptual del tema La historia</descripcion>
   <relacionado>0</relacionado>
   <tiporecurso>Recurso sin ficha</tiporecurso>
-  <tiempoestimado>0</tiempoestimado>
+  <tiempoestimado>20</tiempoestimado>
   <acciondidactica>Exposición</acciondidactica>
-  <competencia>Competencia en comunicación lingüística</competencia>
+  <competencia>Competencia para aprender a aprender</competencia>
   <tipomedia pesado="false" matricula="">Mapa conceptual</tipomedia>
   <conceptos>
+    <concepto>
+    </concepto>
   </conceptos>
 </metadata>

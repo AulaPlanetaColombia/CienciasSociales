@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <metadata xmlns="urn:InfoRecurso">
   <identificador>RES-5428484DCDDF429BA4CB9B1533E05D7C</identificador>
-  <loid>CS_06_01_CORecurso200</loid>
+  <loid>CS_06_01_CO_Recurso200</loid>
   <titulo>Proyecto: estudio de testimonios orales y hechos históricos</titulo>
   <descripcion>Actividad que guía el trabajo colaborativo de investigación sobre el uso de las fuentes orales para el estudio de la historia del propio territorio</descripcion>
   <relacionado>0</relacionado>
   <tiporecurso>Recurso sin ficha</tiporecurso>
   <tiempoestimado>0</tiempoestimado>
   <acciondidactica>Proyecto</acciondidactica>
-  <competencia>
-  </competencia>
+  <competencia>Tratamiento de la información y competencia digital</competencia>
   <tipomedia pesado="false" matricula="">Actividad</tipomedia>
   <conceptos>
     <concepto>análisis</concepto>

@@ -2,7 +2,7 @@
 <motor tipo="12" clase="a" aprid="M12a">
   <plataforma>
     <grado><![CDATA[1]]></grado>
-    <titulo>Ordena acontecimientos en el tiempo</titulo>
+    <titulo>Realiza un eje cronológico</titulo>
     <volumen><![CDATA[2]]></volumen>
     <nivel><![CDATA[1]]></nivel>
     <referencia><![CDATA[ms_3c_06_04]]></referencia>
@@ -21,4 +21,5 @@
     <elemento contestacion="Llegada de Colón a América" orden="4" />
     <elemento contestacion="Revolución francesa" orden="5" />
   </elementos>
+  <temps>5</temps>
 </motor>

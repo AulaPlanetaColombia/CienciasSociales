@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <metadata xmlns="urn:InfoRecurso">
   <identificador>RES-80D59E6270424CCD849096DC606D416E</identificador>
-  <loid>CS_06_01_CORecurso020</loid>
+  <loid>CS_06_01_CO_Recurso020</loid>
   <titulo>Interpreta números romanos</titulo>
   <descripcion>Actividad que permite asociar números romanos a números arábigos</descripcion>
   <relacionado>0</relacionado>
   <tiporecurso>Recurso sin ficha</tiporecurso>
   <tiempoestimado>5</tiempoestimado>
   <acciondidactica>Ejercitación</acciondidactica>
-  <competencia>
-  </competencia>
+  <competencia>Competencia matemática</competencia>
   <tipomedia pesado="false" matricula="">Actividad</tipomedia>
   <conceptos>
     <concepto>cronología</concepto>

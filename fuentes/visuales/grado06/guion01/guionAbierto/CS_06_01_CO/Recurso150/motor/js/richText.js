@@ -464,16 +464,17 @@ var p = RichText.prototype = new createjs.DisplayObject();
         this.text = this.text.split("{{lg}}").join("<lg>");//.replace( "{{u}}", "<u>");*/
 		
 		//console.log("##############"+this.text);
-		this.text = this.text.split("<i>").join("{{cur}}");//.replace( "{{sub}}", "<sb>");
+		/*this.text = this.text.split("<i>").join("{{cur}}");//.replace( "{{sub}}", "<sb>");
 		this.text = this.text.split("</i>").join("{{normal}}");//.replace( "{{sub}}", "<sb>");
 		
 		this.text = this.text.split("<b>").join("{{neg}}");//.replace( "{{sub}}", "<sb>");
         this.text = this.text.split("</b>").join("{{normal}}");//.replace( "{{sub}}", "<sb>");
 		
         this.text = this.text.split("<u>").join("{{u}}");//.replace( "{{sub}}", "<sb>");
-        this.text = this.text.split("</u>").join("{{normal}}");//.replace( "{{sub}}", "<sb>");
+        this.text = this.text.split("</u>").join("{{normal}}");//.replace( "{{sub}}", "<sb>");*/
 		
 		//this.text = Utils.cleanTags(this.text);
+		
 		
 		this.cleanedText = this.text.split("{{sub}}").join("");//.replace( "<sb>",  "");
 		this.cleanedText = this.cleanedText.split("{{sup}}").join("");//.replace( "<sp>",  "");
@@ -484,7 +485,10 @@ var p = RichText.prototype = new createjs.DisplayObject();
 		this.cleanedText = this.cleanedText.split("{{u}}").join("");//.replace( "<u>",  "");
 		this.cleanedText = this.cleanedText.split("{{lt}}").join("");//.replace( "<u>",  "");
         this.cleanedText = this.cleanedText.split("{{lg}}").join("");//.replace( "<u>",  "");
-		
+        
+        ///console.log(this.cleanedText.substring(this.cleanedText.indexOf("{{"),this.cleanedText.indexOf("}}") +2));
+       // this.cleanedText = this.cleanedText.split(this.cleanedText.substring( this.cleanedText.indexOf("{{"), this.cleanedText.indexOf("||") + 2 )).join("");
+		//this.cleanedText = this.cleanedText.split("}}").join("");
  		//console.log(">>>>>>>>>>>>>>"+this.cleanedText);
  	}
 	/**
@@ -507,6 +511,11 @@ var p = RichText.prototype = new createjs.DisplayObject();
 		
 		var parts = text.split("{{");
 		
+		/*if(parts[1]!= undefined && parts[1].indexOf("||") >= 0){
+			parts[0] = parts[1].substring(this.cleanedText.indexOf("||")+2,this.cleanedText.indexOf("}}") );
+			console.log(parts[0]);
+		}*/
+		
 		subtext = parts[0];
 		this._drawTextPart(ctx, subtext, current_X);
 		current_X += ctx.measureText(subtext).width;
@@ -518,23 +527,34 @@ var p = RichText.prototype = new createjs.DisplayObject();
 			var subparts = parts[key].split( "}}" );
 			
 			this.underline = false;
+			/*if( subparts[0].indexOf("||") >= 0){
+				//continue;
+				//console.log(subparts[0]+" - "+key);
+				var link = subparts[0].split("||");
+				//console.log(subparts[1] + link[1]);
+				subparts[1] = link[1]+ " " + subparts[1];
+				//subparts[0] = "u";
+				//console.log(">>>>>>>>>>>>>>" + subparts[1]);
+				//this.underline = true;
+			}*/
+
 			switch(subparts[0])
 			{
-				case "sub": 	this.current_font=  Math.ceil(this.fontSize/1.5)+"px Arial";
+				case "sub": this.current_font=  Math.ceil(this.fontSize/1.5)+"px Arial";
 							this.current_Y = base_y + Math.ceil(this.fontSize/3) + 3;
 				 		break;
-				case "sup": 	this.current_font=  Math.ceil(this.fontSize/1.5)+"px Arial";
+				case "sup": this.current_font=  Math.ceil(this.fontSize/1.5)+"px Arial";
 							this.current_Y = base_y - 4;
 				 		break;
-				case "cur": 	this.current_font= "italic "+this.base_font;
+				case "cur": this.current_font= "italic "+this.base_font;
 							this.current_Y = base_y ;
 				 		break;
-				case "neg": 	this.current_font= "bold "+this.base_font;
+				case "neg": this.current_font= "bold "+this.base_font;
 							this.current_Y = base_y ;
 				 		break;
 				case "u": 	this.underline = true;
 				 		break;
-				 case "lt":     subparts[1] = "<" + subparts[1];
+				 case "lt": subparts[1] = "<" + subparts[1];
                         break;
                 case "lg":  subparts[1] = ">" + subparts[1];
                         break;

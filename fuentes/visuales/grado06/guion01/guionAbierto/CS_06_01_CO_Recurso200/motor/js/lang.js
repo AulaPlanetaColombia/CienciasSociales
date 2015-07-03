@@ -1,4 +1,4 @@
-﻿//***************************************************************
+//***************************************************************
 // Variables y funciones sobre idiomas
 //***************************************************************
 
@@ -32,6 +32,7 @@ var LangRes = {
 	ACTIVITY_VIEWED		:	16,
 	ACTIVITY_NOT_VIEWED	:	17,
 	HTML_PAGE_TITLE		:	18,
+	MSG_VALIDADOCORRECTO	:	19,
 	
 	// Text codificat que indica l'idioma, equivalent al langId però que
 	// es fa servir als XML
@@ -49,7 +50,7 @@ var LangRes = {
 	langTexts:
 	[
 		[ // es
-			"Entrega el trabajo por escrito o por email.",
+			"Entrega el trabajo en mano o por email.",
 			"Enviar",
 			"Adjuntar trabajo",
 			"Guardar",
@@ -63,11 +64,12 @@ var LangRes = {
 			"Cerrar",
 			"Cargando actividad...",
 			"Ya has realizado esta actividad antes.",
-			"Esta actividad debe asignarse como tarea para poderse realizar, o bien entregarse por escrito o por email.",
+			"Esta actividad debe asignarse como tarea para poderse realizar, o bien entregarse en mano o por email.",
 			"La actividad ya ha sido enviada al profesor.",
 			"El alumno ha abierto la actividad.",
 			"Actividad aún por empezar.",
-			"Actividad"
+			"Actividad",
+			"Ejercicio enviado para validación"
 		],
 		[ // en
 			"Hand in to your teacher directly or by email.",
@@ -88,7 +90,8 @@ var LangRes = {
 			"The activity has already been sent to your teacher.",
 			"The student has openned the exercise.",
 			"Activity still not started.",
-			"Activity"
+			"Activity",
+			"Exercise successfully sent for evaluation."
 		],
 		[ // valenciano
 			"Lliura el treball en mà o per correu electrònic.",
@@ -109,7 +112,8 @@ var LangRes = {
 			"L'activitat ja s'ha enviat al professor.",
 			"L'alumne ha obert l'activitat.",
 			"Activitat no iniciada encara.",
-			"Activitat"
+			"Activitat",
+			"L'exercici s'ha enviat per a validar-lo"
 		],
 		[ // gallego
 			"Entrega o traballo en man ou por correo electrónico.",
@@ -130,7 +134,8 @@ var LangRes = {
 			"Xa se enviou a actividade ao profesor.",
 			"O alumno abriu a actividade.",
 			"Actividade aínda por empezar.",
-			"Actividade"
+			"Actividade",
+			"Exercicio enviado para validar"
 		],
 		[ // catalán
 			"Entrega el treball en mà o per correu electrònic.",
@@ -151,7 +156,8 @@ var LangRes = {
 			"L'activitat ja s'ha enviat al professor.",
 			"L'alumne ha obert l'activitat.",
 			"Activitat no iniciada encara.",
-			"Activitat"
+			"Activitat",
+			"L'exercici s'ha enviat a validar"
 		],
 		[ // euskara
 			"Entregatu zuzenean irakasleari edo bidali posta elektronikoz.",
@@ -172,7 +178,8 @@ var LangRes = {
 			"Jarduera irakasleari bidali zaio jada.",
 			"Ikasleak ariketa ireki du.",
 			"Oraindik ez da jarduera hasi.",
-			"Jarduera"
+			"Jarduera",
+			"Ariketa behar bezala bidali da irakasleak berrikus dezan."
 		]
 	],
 

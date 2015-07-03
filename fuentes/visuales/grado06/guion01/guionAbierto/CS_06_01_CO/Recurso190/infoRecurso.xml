@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <metadata xmlns="urn:InfoRecurso">
   <identificador>RES-33295FF2331246EC9FEBD7D1019BE83C</identificador>
-  <loid>CS_06_01_CORecurso190</loid>
+  <loid>CS_06_01_CO_Recurso190</loid>
   <titulo>Competencias: análisis de las fuentes para el estudio del pasado</titulo>
   <descripcion>Actividad que propone el análisis del pasado de la propia comunidad a partir de una fuente histórica según el procedimiento sugerido</descripcion>
   <relacionado>0</relacionado>
   <tiporecurso>Recurso sin ficha</tiporecurso>
   <tiempoestimado>60</tiempoestimado>
   <acciondidactica>Proyecto</acciondidactica>
-  <competencia>
-  </competencia>
+  <competencia>Competencia social y ciudadana</competencia>
   <tipomedia pesado="false" matricula="">Actividad</tipomedia>
   <conceptos>
     <concepto>análisis</concepto>

@@ -51,6 +51,11 @@ body {
 	float: none;
 }
 
+#iframeExtContainer {
+	position: absolute;
+	overflow: scroll !important;
+	-webkit-overflow-scrolling: touch !important;
+}
 /***********  GENERAL  ***********/
 
 #contenedor_actividad { width:950px;margin: 0 auto 0; border:#CCC solid 1px; -webkit-border-top-left-radius: 5px;-webkit-border-top-right-radius: 5px;-moz-border-radius-topleft: 5px;-moz-border-radius-topright: 5px;		border-top-left-radius: 5px;

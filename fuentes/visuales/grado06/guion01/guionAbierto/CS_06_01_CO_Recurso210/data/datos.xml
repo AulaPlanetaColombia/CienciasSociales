@@ -3,7 +3,7 @@
   <version>1.0</version>
   <objeto>
     <ref>00</ref>
-    <texto>LA HISTORIA</texto>
+    <texto>La historia</texto>
     <hijos>10,11,12</hijos>
     <padre/>
     <siz>0</siz>
@@ -13,249 +13,119 @@
   </objeto>
   <objeto>
     <ref>10</ref>
-    <texto>se</texto>
+    <texto>es una</texto>
     <hijos>20</hijos>
     <padre>00</padre>
     <siz>14</siz>
-    <negcur>00</negcur>
+    <negcur>000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>20</ref>
-    <texto>estudia</texto>
+    <texto>Ciencia social</texto>
     <hijos>30</hijos>
     <padre>10</padre>
     <siz>0</siz>
-    <negcur>0000000</negcur>
+    <negcur>00000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>11</ref>
-    <texto>es una</texto>
+    <texto>se</texto>
     <hijos>21</hijos>
     <padre>00</padre>
     <siz>0</siz>
-    <negcur>000000</negcur>
+    <negcur>00</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>21</ref>
-    <texto>ciencia social</texto>
+    <texto>Estudia</texto>
     <hijos>31</hijos>
     <padre>11</padre>
-    <siz>0</siz>
-    <negcur>00000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>12</ref>
-    <texto>es importante porque permite comprender las</texto>
-    <hijos>22</hijos>
-    <padre>00</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>22</ref>
-    <texto>- Causas- Consecuencias</texto>
-    <hijos>32</hijos>
-    <padre>12</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000000</negcur>
-    <cen>0</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>30</ref>
-    <texto>con la</texto>
-    <hijos>40</hijos>
-    <padre>20</padre>
-    <siz>0</siz>
-    <negcur>000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>40</ref>
-    <texto>información</texto>
-    <hijos>50</hijos>
-    <padre>30</padre>
-    <siz>0</siz>
-    <negcur>00000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>50</ref>
-    <texto>de las</texto>
-    <hijos>60</hijos>
-    <padre>40</padre>
-    <siz>0</siz>
-    <negcur>000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>60</ref>
-    <texto>ciencias auxiliares</texto>
-    <hijos>70</hijos>
-    <padre>50</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>70</ref>
-    <texto>como la</texto>
-    <hijos>80,81,82,83,84,85,86,87</hijos>
-    <padre>60</padre>
     <siz>0</siz>
     <negcur>0000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>80</ref>
-    <texto>lingüística</texto>
-    <hijos/>
-    <padre>70</padre>
+    <ref>12</ref>
+    <texto>permite comprender</texto>
+    <hijos>22</hijos>
+    <padre>00</padre>
     <siz>0</siz>
-    <negcur>00000000000</negcur>
+    <negcur>000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>81</ref>
-    <texto>filosofía</texto>
-    <hijos/>
-    <padre>70</padre>
+    <ref>22</ref>
+    <texto>Causas yconsecuencias</texto>
+    <hijos>32</hijos>
+    <padre>12</padre>
     <siz>0</siz>
-    <negcur>000000000</negcur>
+    <negcur>0000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>82</ref>
-    <texto>arqueología</texto>
-    <hijos/>
-    <padre>70</padre>
-    <siz>0</siz>
-    <negcur>00000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>83</ref>
-    <texto>geografía</texto>
-    <hijos/>
-    <padre>70</padre>
-    <siz>0</siz>
-    <negcur>000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>84</ref>
-    <texto>política</texto>
-    <hijos/>
-    <padre>70</padre>
-    <siz>0</siz>
-    <negcur>00000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>85</ref>
-    <texto>cronología</texto>
-    <hijos/>
-    <padre>70</padre>
-    <siz>0</siz>
-    <negcur>0000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>86</ref>
-    <texto>economía</texto>
-    <hijos/>
-    <padre>70</padre>
-    <siz>0</siz>
-    <negcur>00000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>87</ref>
-    <texto>sociología</texto>
-    <hijos/>
-    <padre>70</padre>
-    <siz>0</siz>
-    <negcur>0000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>31</ref>
+    <ref>30</ref>
     <texto>que estudia la</texto>
-    <hijos>41</hijos>
-    <padre>21</padre>
+    <hijos>40</hijos>
+    <padre>20</padre>
     <siz>0</siz>
     <negcur>00000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>41</ref>
-    <texto>humanidad y formas de organización</texto>
-    <hijos>51</hijos>
-    <padre>31</padre>
+    <ref>40</ref>
+    <texto>humanidad y su organización</texto>
+    <hijos>50</hijos>
+    <padre>30</padre>
     <siz>0</siz>
-    <negcur>0000000000000000000000000000000000</negcur>
+    <negcur>000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>51</ref>
+    <ref>50</ref>
     <texto>a través del</texto>
-    <hijos>61</hijos>
-    <padre>41</padre>
+    <hijos>60</hijos>
+    <padre>40</padre>
     <siz>0</siz>
     <negcur>000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>61</ref>
+    <ref>60</ref>
     <texto>tiempo</texto>
-    <hijos>71</hijos>
-    <padre>51</padre>
+    <hijos>70</hijos>
+    <padre>50</padre>
     <siz>0</siz>
     <negcur>000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>71</ref>
+    <ref>70</ref>
     <texto>por medio de las</texto>
-    <hijos>88</hijos>
-    <padre>61</padre>
+    <hijos>80</hijos>
+    <padre>60</padre>
     <siz>0</siz>
     <negcur>0000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>88</ref>
+    <ref>80</ref>
     <texto>fuentes históricas</texto>
     <hijos>90</hijos>
-    <padre>71</padre>
+    <padre>70</padre>
     <siz>0</siz>
     <negcur>000000000000000000</negcur>
     <cen>1</cen>
@@ -265,7 +135,7 @@
     <ref>90</ref>
     <texto>que se dividen en</texto>
     <hijos>a0,a1</hijos>
-    <padre>88</padre>
+    <padre>80</padre>
     <siz>0</siz>
     <negcur>00000000000000000</negcur>
     <cen>1</cen>
@@ -294,7 +164,7 @@
   <objeto>
     <ref>b0</ref>
     <texto>como</texto>
-    <hijos>c0,c1,c2</hijos>
+    <hijos>c0</hijos>
     <padre>a0</padre>
     <siz>0</siz>
     <negcur>0000</negcur>
@@ -303,12 +173,12 @@
   </objeto>
   <objeto>
     <ref>c0</ref>
-    <texto>textos en forma original</texto>
+    <texto>- textos en forma original- edificios- objetos</texto>
     <hijos>d0</hijos>
     <padre>b0</padre>
     <siz>0</siz>
-    <negcur>000000000000000000000000</negcur>
-    <cen>1</cen>
+    <negcur>000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
     <img/>
   </objeto>
   <objeto>
@@ -332,69 +202,9 @@
     <img/>
   </objeto>
   <objeto>
-    <ref>c1</ref>
-    <texto>edificios</texto>
-    <hijos>d1</hijos>
-    <padre>b0</padre>
-    <siz>0</siz>
-    <negcur>000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c2</ref>
-    <texto>objetos</texto>
-    <hijos>d2</hijos>
-    <padre>b0</padre>
-    <siz>0</siz>
-    <negcur>0000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>d1</ref>
-    <texto>interpretados por los</texto>
-    <hijos>e1</hijos>
-    <padre>c1</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>e1</ref>
-    <texto>historiadores</texto>
-    <hijos/>
-    <padre>d1</padre>
-    <siz>0</siz>
-    <negcur>0000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>d2</ref>
-    <texto>interpretados por los</texto>
-    <hijos>e2</hijos>
-    <padre>c2</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>e2</ref>
-    <texto>historiadores</texto>
-    <hijos/>
-    <padre>d2</padre>
-    <siz>0</siz>
-    <negcur>0000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
     <ref>b1</ref>
     <texto>como</texto>
-    <hijos>c3</hijos>
+    <hijos>c1</hijos>
     <padre>a1</padre>
     <siz>0</siz>
     <negcur>0000</negcur>
@@ -402,12 +212,72 @@
     <img/>
   </objeto>
   <objeto>
-    <ref>c3</ref>
-    <texto>- Dibujos- Mapas- Libros- Artículos- Científicos</texto>
+    <ref>c1</ref>
+    <texto>- dibujos- mapas- libros- artículos- científicos</texto>
     <hijos/>
     <padre>b1</padre>
     <siz>0</siz>
     <negcur>0000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>con la</texto>
+    <hijos>41</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>información</texto>
+    <hijos>51</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>de las</texto>
+    <hijos>61</hijos>
+    <padre>41</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>ciencias auxiliares</texto>
+    <hijos>71</hijos>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto>como las</texto>
+    <hijos>81</hijos>
+    <padre>61</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>- linguística- filosofía- arqueología- geografía- política- cronología- economía- sociología</texto>
+    <hijos/>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
     <cen>0</cen>
     <img/>
   </objeto>
@@ -454,7 +324,7 @@
   <objeto>
     <ref>72</ref>
     <texto>de las</texto>
-    <hijos>89</hijos>
+    <hijos>82</hijos>
     <padre>62</padre>
     <siz>0</siz>
     <negcur>000000</negcur>
@@ -462,72 +332,12 @@
     <img/>
   </objeto>
   <objeto>
-    <ref>89</ref>
+    <ref>82</ref>
     <texto>sociedades humanas</texto>
-    <hijos>91</hijos>
+    <hijos/>
     <padre>72</padre>
     <siz>0</siz>
     <negcur>000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>91</ref>
-    <texto>a través de la</texto>
-    <hijos>a2</hijos>
-    <padre>89</padre>
-    <siz>0</siz>
-    <negcur>00000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>a2</ref>
-    <texto>investigación historiográfica</texto>
-    <hijos>b2</hijos>
-    <padre>91</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>b2</ref>
-    <texto>como</texto>
-    <hijos>c4,c5,c6</hijos>
-    <padre>a2</padre>
-    <siz>0</siz>
-    <negcur>0000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c4</ref>
-    <texto>interpretación y redacción de textos</texto>
-    <hijos/>
-    <padre>b2</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c5</ref>
-    <texto>documentación</texto>
-    <hijos/>
-    <padre>b2</padre>
-    <siz>0</siz>
-    <negcur>0000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c6</ref>
-    <texto>formulación de hipótesis</texto>
-    <hijos/>
-    <padre>b2</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>

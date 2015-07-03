@@ -17,37 +17,10 @@
   </catalogaciones>
   <tipo>Guión de exposición</tipo>
   <titulo>La historia</titulo>
-  <descripcion>Saber cómo era la vida en otras épocas nos ayudará a entender mucho mejor nuestro presente y debería ser útil para no volver a repetir los mismos errores de nuestros antepasados.</descripcion>
-  <recursoMapaConceptual>
-  </recursoMapaConceptual>
+  <descripcion>Sabes… ¿qué es la historia?, ¿cómo se estudia?, ¿qué le aporta a la humanidad? Estudiar historia permite analizar diversos aspectos de las sociedades del pasado, comprender el presente y proyectar el futuro.</descripcion>
+  <recursoMapaConceptual>Recurso210/MapaConceptual.pdf</recursoMapaConceptual>
   <recursoEvaluacion>
   </recursoEvaluacion>
-  <version>45</version>
+  <version>127</version>
   <veditorial>10</veditorial>
 </metadata>
-<!-- plugin name : PluginCrearMediaPpalClass, version : 13.10.14.0 -->
-<!-- plugin name : PluginCrearMediaPpalClass, version : 1.0.0.0 -->
-<!-- plugin name : PluginCuadernoEstudioComprobarLinksImagenesClass, version : 1.0.0.0 -->
-<!-- plugin name : PluginCuadernoEstudioEditarXmlEpicClass, version : 13.07.16.0 -->
-<!-- plugin name : PluginCuadernoEstudioImportarZipClass, version : 1.0.0.0 -->
-<!-- plugin name : PluginCuadernoEstudioPrevisualizarClass, version : 1.0.0.0 -->
-<!-- plugin name : PluginCuadernoEstudioResetearClass, version : 1.0.0.0 -->
-<!-- plugin name : PluginDatosBasicosGuionCCAAClass, version : 13.10.10.0 -->
-<!-- plugin name : PluginDatosBasicosGuionExposicionClass, version : 14.04.09.0 -->
-<!-- plugin name : PluginDatosBasicosRecursoClass, version : 13.11.05.0 -->
-<!-- plugin name : PluginEditarDatosMotorClass, version : 1.0.0.0 -->
-<!-- plugin name : PluginEditarHtmlClass, version : 13.04.23.0 -->
-<!-- plugin name : PluginEditarHtmlParaLiteClass, version : 13.04.23.0 -->
-<!-- plugin name : PluginEditarImagenesMedThumbClass, version : 13.04.23.0 -->
-<!-- plugin name : PluginEditarMediaPpalClass, version : 13.04.23.0 -->
-<!-- plugin name : PluginEditarPropsPDFClass, version : 13.04.23.0 -->
-<!-- plugin name : PluginEliminarPDFClass, version : 13.04.23.0 -->
-<!-- plugin name : PluginExportarZipMotorClass, version : 1.0.0.0 -->
-<!-- plugin name : PluginGenerarIndiceClass, version : 13.04.23.0 -->
-<!-- plugin name : PluginHacerImagenesTransparentesClass, version : 13.04.23.0 -->
-<!-- plugin name : PluginImportarZipMotorClass, version : 1.0.0.0 -->
-<!-- plugin name : PluginRestoreMediaPpalClass, version : 13.04.23.0 -->
-<!-- plugin name : PluginVerHtmlClass, version : 13.04.23.0 -->
-<!-- plugin name : PluginVerImagenesClass, version : 13.04.23.0 -->
-<!-- plugin name : PluginVerPdfClass, version : 13.04.23.0 -->
-<!-- EXE version : 15.03.13.0 -->
