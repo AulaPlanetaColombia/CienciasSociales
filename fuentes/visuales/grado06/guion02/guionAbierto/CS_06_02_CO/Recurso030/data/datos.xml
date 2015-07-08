@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="1" clase="b" aprid="m1b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Refuerza tu aprendizaje: Los orígenes del ser humano</titulo>
+    <area>0</area>
+    <nivel>2</nivel>
+    <referencia />
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M1B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Relaciona los conceptos de la columna izquierda con las características de la derecha.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="5">
+    <cuestion>
+      <pregunta><![CDATA[Homo erectus]]></pregunta>
+      <respuesta><![CDATA[Descubrió el fuego y trabajo la piedra tallada]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Homínidos]]></pregunta>
+      <respuesta><![CDATA[Pulgares oponentes al resto de los dedos]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Primate]]></pregunta>
+      <respuesta><![CDATA[Antecesores de los seres humanos]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Bipedismo]]></pregunta>
+      <respuesta><![CDATA[Capacidad de andar sobre las extremidades inferiores]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Hominización]]></pregunta>
+      <respuesta><![CDATA[Cambios biofísicos de los antecesores del ser humano]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0" />
+  <temps>5</temps>
+</motor>

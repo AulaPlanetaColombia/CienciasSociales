@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Evaluación</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia />
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Selecciona la respuesta correcta.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué acontecimiento se produce en el 3500 a.C.?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Invención de la escritura." correcta="1" />
+        <respuesta contestacion="Descubrimiento del hierro." correcta="0" />
+        <respuesta contestacion="Invención de la cerámica." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Hacia qué fecha comienza la prehistoria?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="250.000 a.C." correcta="0" />
+        <respuesta contestacion="2,5 millones de años a.C." correcta="1" />
+        <respuesta contestacion="5 millones de años a.C." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibe el proceso evolutivo que lleva hasta la aparición de los Homo sapiens?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Hominización" correcta="1" />
+        <respuesta contestacion="Humanización" correcta="0" />
+        <respuesta contestacion="Hominidización" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué hecho marca el paso del Paleolítico al Neolítico?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="El descubrimiento del fuego." correcta="0" />
+        <respuesta contestacion="El descubrimiento de la metalurgia." correcta="0" />
+        <respuesta contestacion="El descubrimiento de la agricultura y la ganadería." correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué tipo de monumentos se construyeron entre finales del Neolítico y comienzos de la Edad de los Metales?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Monumentos cavernícolas." correcta="0" />
+        <respuesta contestacion="Monumentos megalíticos." correcta="1" />
+        <respuesta contestacion="Monumentos rupestres." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es el yacimiento prehistórico más importante de la Península Ibérica?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Lascaux" correcta="0" />
+        <respuesta contestacion="Atapuerca" correcta="1" />
+        <respuesta contestacion="Altamira" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Hacia qué fecha comienza la Edad de los Metales?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="10000 a.C." correcta="0" />
+        <respuesta contestacion="5000 a.C." correcta="1" />
+        <respuesta contestacion="3500 a.C." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles son las tres etapas, de la más antigua a la más reciente, en las que se divide la Edad de los Metales?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Cobre, bronce y hierro." correcta="1" />
+        <respuesta contestacion="Cobre, hierro y bronce." correcta="0" />
+        <respuesta contestacion="Cobre, estaño y bronce" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué tipo de piedra tallaban los hombres y mujeres de la prehistoria para fabricar sus herramientas?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Mármol" correcta="0" />
+        <respuesta contestacion="Sílex" correcta="1" />
+        <respuesta contestacion="Hierro" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué etapa finaliza con el descubrimiento de la metalurgia?]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="La Edad de los Metales" correcta="0" />
+        <respuesta contestacion="El Paleolítico" correcta="0" />
+        <respuesta contestacion="El Neolítico" correcta="1" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>15</temps>
+</motor>

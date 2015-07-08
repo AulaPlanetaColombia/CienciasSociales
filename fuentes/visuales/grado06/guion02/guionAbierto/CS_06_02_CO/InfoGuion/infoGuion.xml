@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoGuion">
+  <identificador>CS_06_02_CO</identificador>
+  <nivel>Educación Básica Secundaria</nivel>
+  <curso>6</curso>
+  <asignatura>Ciencias Sociales</asignatura>
+  <catalogaciones>
+    <disciplina>
+      <nivel id="3">Educación Secundaria Obligatoria</nivel>
+      <curso id="3.1">Primer curso</curso>
+      <asignatura id="3.1.2">Ciencias Sociales, Geografía e Historia</asignatura>
+    </disciplina>
+    <nivelEducativo>
+      <nivel id="4">Educación Secundaria Obligatoria</nivel>
+      <ciclo id="4.1">Primer curso</ciclo>
+    </nivelEducativo>
+  </catalogaciones>
+  <tipo>Guión de exposición</tipo>
+  <titulo>La prehistoria</titulo>
+  <descripcion>Conocer cómo vivían las comunidades humanas antes de la invención de la escritura nos permite comprender el proceso de evolución cultural en los primeros tiempos de la humanidad.</descripcion>
+  <recursoMapaConceptual>Recurso180/MapaConceptual.pdf</recursoMapaConceptual>
+  <recursoEvaluacion>
+  </recursoEvaluacion>
+  <version>144</version>
+  <veditorial>10</veditorial>
+</metadata>

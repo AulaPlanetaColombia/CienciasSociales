@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-FE81B89F7EA948A393617A07C713CA27</identificador>
+  <loid>CS_06_02_CO_Recurso120</loid>
+  <titulo>Relaciona conceptos con su período histórico</titulo>
+  <descripcion>Actividad para agrupar una serie de conceptos en función de la etapa de la prehistoria a la que pertenecen</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>10</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia para aprender a aprender</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>agricultura</concepto>
+    <concepto>arado</concepto>
+    <concepto>arte rupestre</concepto>
+    <concepto>caverna</concepto>
+    <concepto>cerámica</concepto>
+    <concepto>comercio</concepto>
+    <concepto>edad de los metales</concepto>
+    <concepto>ganadería</concepto>
+    <concepto>menhir</concepto>
+    <concepto>metalurgia</concepto>
+    <concepto>neolítico</concepto>
+    <concepto>nomadismo</concepto>
+    <concepto>paleolítico</concepto>
+    <concepto>prehistoria</concepto>
+    <concepto>sedentarismo</concepto>
+  </conceptos>
+</metadata>

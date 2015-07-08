@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-7D517E8FCBBC42D3BD30493D4F51AD4B</identificador>
+  <loid>CS_06_02_CO_Recurso010</loid>
+  <titulo>El proceso de hominización</titulo>
+  <descripcion>Video que muestra el proceso evolutivo de los homínidos hasta el ser humano actual</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>15</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia social y ciudadana</competencia>
+  <tipomedia pesado="true" matricula="DI000178_CO">Vídeo</tipomedia>
+  <conceptos>
+    <concepto>Australopithecus</concepto>
+    <concepto>bipedismo</concepto>
+    <concepto>capacidad craneal</concepto>
+    <concepto>historia</concepto>
+    <concepto>hombre de Neandertal</concepto>
+    <concepto>homínido</concepto>
+    <concepto>hominización</concepto>
+    <concepto>Homo antecessor</concepto>
+    <concepto>Homo erectus</concepto>
+    <concepto>Homo habilis</concepto>
+    <concepto>Homo sapiens</concepto>
+    <concepto>humano</concepto>
+    <concepto>inteligencia</concepto>
+    <concepto>prehistoria</concepto>
+    <concepto>simio antropomorfo</concepto>
+  </conceptos>
+  <pdfs>
+    <pdf>
+      <titulo>La difusión del género humano</titulo>
+      <fichero>CS_06_02_CO_Recurso010.pdf</fichero>
+      <alumno>1</alumno>
+      <profesor>1</profesor>
+    </pdf>
+  </pdfs>
+</metadata>

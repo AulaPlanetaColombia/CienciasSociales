@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-14B900DD267242ADBDE9281EF864B478</identificador>
+  <loid>CS_06_02_CO_Recurso030</loid>
+  <titulo>Refuerza tu aprendizaje: Los orígenes del ser humano</titulo>
+  <descripcion>Interactivo que muestra la evolución desde los primeros homínidos hasta el Homo sapiens</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>5</tiempoestimado>
+  <acciondidactica>Evaluación</acciondidactica>
+  <competencia>Competencia para aprender a aprender</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>Homo</concepto>
+    <concepto>homínidos</concepto>
+    <concepto>primate</concepto>
+    <concepto>bipedismo</concepto>
+    <concepto>hominización</concepto>
+  </conceptos>
+</metadata>

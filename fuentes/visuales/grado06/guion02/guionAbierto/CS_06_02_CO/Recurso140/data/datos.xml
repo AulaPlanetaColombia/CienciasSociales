@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="5" clase="a" aprid="M5a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Reconoce los distintos monumentos megalíticos</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[3]]></nivel>
+    <referencia><![CDATA[cs_07_07_12]]></referencia>
+    <id_reg><![CDATA[57]]></id_reg>
+    <motor><![CDATA[M5a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Observa las imágenes y responde las siguientes preguntas.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="6">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué función tenían los monumentos megalíticos?]]></enunciado>
+      <explicacion />
+      <imagen><![CDATA[00050001_286.png]]></imagen>
+      <ampliacion><![CDATA[00050001_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Residencial" correcta="0" />
+        <respuesta contestacion="Defensiva" correcta="0" />
+        <respuesta contestacion="Religiosa y funeraria" correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibe el megalito de la imagen?]]></enunciado>
+      <explicacion />
+      <imagen><![CDATA[0006xt01_286.png]]></imagen>
+      <ampliacion><![CDATA[0006xt01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Cromlech" correcta="0" />
+        <respuesta contestacion="Dolmen" correcta="0" />
+        <respuesta contestacion="Menhir" correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibe el megalito de la imagen?]]></enunciado>
+      <explicacion />
+      <imagen><![CDATA[0007lc01_286.png]]></imagen>
+      <ampliacion><![CDATA[0007lc01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Dolmen" correcta="0" />
+        <respuesta contestacion="Cromlech" correcta="1" />
+        <respuesta contestacion="Menhir" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibe el megalito de la imagen?]]></enunciado>
+      <explicacion />
+      <imagen><![CDATA[000cy801_286.png]]></imagen>
+      <ampliacion><![CDATA[000cy801_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Cromlech" correcta="0" />
+        <respuesta contestacion="Dolmen" correcta="1" />
+        <respuesta contestacion="Menhir" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibe el megalito de la imagen?]]></enunciado>
+      <explicacion />
+      <imagen><![CDATA[000a2801_286.png]]></imagen>
+      <ampliacion><![CDATA[000a2801_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Menhir" correcta="0" />
+        <respuesta contestacion="Dolmen" correcta="1" />
+        <respuesta contestacion="Naveta" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibe el megalito de la imagen?]]></enunciado>
+      <explicacion />
+      <imagen><![CDATA[0007n501_500.png]]></imagen>
+      <ampliacion><![CDATA[0007n501_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Dolmen" correcta="1" />
+        <respuesta contestacion="Talayot" correcta="0" />
+        <respuesta contestacion="Cromlech" correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>10</temps>
+</motor>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-D793A8C035AB4F7CBDAAF9915180D868</identificador>
+  <loid>CS_06_02_CO_Recurso040</loid>
+  <titulo>El Paleolítico</titulo>
+  <descripcion>Video que presenta las características principales del Paleolítico</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="true" matricula="DI000409_CO">Vídeo</tipomedia>
+  <conceptos>
+    <concepto>abrigo</concepto>
+    <concepto>arte rupestre</concepto>
+    <concepto>cueva</concepto>
+    <concepto>edad de piedra</concepto>
+    <concepto>evolución</concepto>
+    <concepto>homínido</concepto>
+    <concepto>paleolítico</concepto>
+    <concepto>pintura rupestre</concepto>
+    <concepto>prehistoria</concepto>
+    <concepto>sílex</concepto>
+  </conceptos>
+</metadata>

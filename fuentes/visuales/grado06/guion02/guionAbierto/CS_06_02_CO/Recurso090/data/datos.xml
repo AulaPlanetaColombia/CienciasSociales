@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="2" clase="a" aprid="M2a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce la revolución neolítica</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[ms_3c_07_08]]></referencia>
+    <id_reg><![CDATA[107]]></id_reg>
+    <motor><![CDATA[M2a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Rellena los huecos del texto con las palabras adecuadas.]]></enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[0]]></calc>
+  <sonido />
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[Hace unos 10.000 años se produjo la revolución [*]. Los seres humanos descubrieron la [*] y la ganadería. Los grupos humanos dejaron de ser nómadas para ser [*] y crear los primeros poblados.Los primeros cultivos fueron [*], como el trigo o la cebada, y [*], como las lentejas o los garbanzos. Los primeros animales domésticos fueron el cerdo, la cabra o la oveja, aunque el [*] se convirtió en el mejor compañero.Durante el Neolítico, las herramientas se perfeccionaron. La [*] sustituyó a la piedra tallada. También se inventó la [*], que permitió crear vasijas para guardar alimentos, y el [*], para elaborar tejidos.]]></pregunta>
+      <respuestas>
+        <respuesta orden="1"><![CDATA[neolítica]]></respuesta>
+        <respuesta orden="2"><![CDATA[agricultura]]></respuesta>
+        <respuesta orden="3"><![CDATA[sedentarios]]></respuesta>
+        <respuesta orden="4"><![CDATA[cereales]]></respuesta>
+        <respuesta orden="5"><![CDATA[legumbres]]></respuesta>
+        <respuesta orden="6"><![CDATA[perro]]></respuesta>
+        <respuesta orden="7"><![CDATA[piedra pulida]]></respuesta>
+        <respuesta orden="8"><![CDATA[cerámica]]></respuesta>
+        <respuesta orden="9"><![CDATA[telar]]></respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <textofalso cantidad="0" />
+</motor>
