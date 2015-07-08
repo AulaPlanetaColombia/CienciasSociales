@@ -3,7 +3,7 @@
   <version>1.0</version>
   <objeto>
     <ref>00</ref>
-    <texto>FIN DEL ANTIGUO REGIMEN</texto>
+    <texto>Fin del Antiguo Régimen</texto>
     <hijos>10</hijos>
     <padre/>
     <siz>0</siz>
@@ -23,7 +23,7 @@
   </objeto>
   <objeto>
     <ref>20</ref>
-    <texto>Hechos Sociales</texto>
+    <texto>Hechos sociales</texto>
     <hijos>32</hijos>
     <padre>10</padre>
     <siz>0</siz>
@@ -33,7 +33,8 @@
   </objeto>
   <objeto>
     <ref>21</ref>
-    <texto>Cambios en el Orden Social</texto>
+    <texto>Cambios en 
+	el orden social</texto>
     <hijos>30</hijos>
     <padre>10</padre>
     <siz>0</siz>
@@ -93,7 +94,8 @@
   </objeto>
   <objeto>
     <ref>31</ref>
-    <texto>el racismo trajo corrientes como</texto>
+    <texto>el racionalismo trajo
+	corrientes como</texto>
     <hijos>43,44</hijos>
     <padre>22</padre>
     <siz>0</siz>
@@ -113,7 +115,8 @@
   </objeto>
   <objeto>
     <ref>44</ref>
-    <texto>Liberalismo Económico</texto>
+    <texto>Liberalismo
+	económico</texto>
     <hijos>51</hijos>
     <padre>31</padre>
     <siz>0</siz>
@@ -133,7 +136,8 @@
   </objeto>
   <objeto>
     <ref>60</ref>
-    <texto>Razón, el progreso y la educación</texto>
+    <texto>razón, el progreso
+	y la educación</texto>
     <hijos>70</hijos>
     <padre>50</padre>
     <siz>0</siz>
@@ -153,7 +157,8 @@
   </objeto>
   <objeto>
     <ref>80</ref>
-    <texto>Despotismo ilustrado</texto>
+    <texto>Despotismo
+	ilustrado</texto>
     <hijos/>
     <padre>70</padre>
     <siz>0</siz>
@@ -183,7 +188,8 @@
   </objeto>
   <objeto>
     <ref>61</ref>
-    <texto>Libre empresa</texto>
+    <texto>Libre
+	empresa</texto>
     <hijos/>
     <padre>51</padre>
     <siz>0</siz>
@@ -193,7 +199,7 @@
   </objeto>
   <objeto>
     <ref>32</ref>
-    <texto>hechos sociales</texto>
+    <texto></texto>
     <hijos>45,46,47</hijos>
     <padre>20</padre>
     <siz>0</siz>
@@ -203,7 +209,8 @@
   </objeto>
   <objeto>
     <ref>45</ref>
-    <texto>Revolución Americana</texto>
+    <texto>Revolución
+	americana</texto>
     <hijos>52</hijos>
     <padre>32</padre>
     <siz>0</siz>
@@ -213,7 +220,8 @@
   </objeto>
   <objeto>
     <ref>46</ref>
-    <texto>Revoluciones Inglesas</texto>
+    <texto>Revoluciones
+	inglesas</texto>
     <hijos>53</hijos>
     <padre>32</padre>
     <siz>0</siz>
@@ -223,7 +231,8 @@
   </objeto>
   <objeto>
     <ref>47</ref>
-    <texto>Revolución Francesa</texto>
+    <texto>Revolución
+	francesa</texto>
     <hijos>54,55</hijos>
     <padre>32</padre>
     <siz>0</siz>
@@ -233,7 +242,9 @@
   </objeto>
   <objeto>
     <ref>52</ref>
-    <texto>cuestionó el poder de Inglaterra y por ello logró</texto>
+    <texto>cuestionó el poder
+	de Inglaterra y
+	por ello logró</texto>
     <hijos>62,63,64</hijos>
     <padre>45</padre>
     <siz>0</siz>
@@ -243,7 +254,8 @@
   </objeto>
   <objeto>
     <ref>62</ref>
-    <texto>Independencia de las 13 colonias</texto>
+    <texto>Independencia de
+	las Trece Colonias</texto>
     <hijos>71</hijos>
     <padre>52</padre>
     <siz>0</siz>
@@ -253,7 +265,8 @@
   </objeto>
   <objeto>
     <ref>63</ref>
-    <texto>declaración de los Derechos</texto>
+    <texto>Declaración de
+	los Derechos</texto>
     <hijos/>
     <padre>52</padre>
     <siz>0</siz>
@@ -263,7 +276,8 @@
   </objeto>
   <objeto>
     <ref>64</ref>
-    <texto>redacción de la Constitución (1787)</texto>
+    <texto>Redacción de la
+	Constitución (1787)</texto>
     <hijos/>
     <padre>52</padre>
     <siz>0</siz>
@@ -283,7 +297,8 @@
   </objeto>
   <objeto>
     <ref>82</ref>
-    <texto>Declaración de Independencia</texto>
+    <texto>Declaración de
+	Independencia</texto>
     <hijos/>
     <padre>71</padre>
     <siz>0</siz>
@@ -293,7 +308,8 @@
   </objeto>
   <objeto>
     <ref>53</ref>
-    <texto>cuestionaron el poder divino</texto>
+    <texto>cuestionaron
+	el poder divino</texto>
     <hijos>65,66</hijos>
     <padre>46</padre>
     <siz>0</siz>
@@ -303,7 +319,8 @@
   </objeto>
   <objeto>
     <ref>65</ref>
-    <texto>Revolución de 1642</texto>
+    <texto>Revolución
+	de 1642</texto>
     <hijos>72</hijos>
     <padre>53</padre>
     <siz>0</siz>
@@ -313,7 +330,8 @@
   </objeto>
   <objeto>
     <ref>66</ref>
-    <texto>Revolución de 1688</texto>
+    <texto>Revolución
+	de 1688</texto>
     <hijos>73</hijos>
     <padre>53</padre>
     <siz>0</siz>
@@ -323,7 +341,8 @@
   </objeto>
   <objeto>
     <ref>72</ref>
-    <texto>fueron sus consecuencias</texto>
+    <texto>fueron sus
+	consecuencias</texto>
     <hijos>83,84</hijos>
     <padre>65</padre>
     <siz>0</siz>
@@ -333,7 +352,8 @@
   </objeto>
   <objeto>
     <ref>83</ref>
-    <texto>decapitación de Carlos I</texto>
+    <texto>decapitación de
+	Carlos I</texto>
     <hijos/>
     <padre>72</padre>
     <siz>0</siz>
@@ -343,7 +363,8 @@
   </objeto>
   <objeto>
     <ref>84</ref>
-    <texto>reconocimiento del Parlamento</texto>
+    <texto>reconocimiento
+	del Parlamento</texto>
     <hijos/>
     <padre>72</padre>
     <siz>0</siz>
@@ -363,7 +384,8 @@
   </objeto>
   <objeto>
     <ref>85</ref>
-    <texto>Declaración de Derechos</texto>
+    <texto>Declaración
+	de Derechos</texto>
     <hijos/>
     <padre>73</padre>
     <siz>0</siz>
@@ -373,7 +395,8 @@
   </objeto>
   <objeto>
     <ref>86</ref>
-    <texto>monarquía Parlamentaria</texto>
+    <texto>Monarquía
+	Parlamentaria</texto>
     <hijos/>
     <padre>73</padre>
     <siz>0</siz>
@@ -383,7 +406,8 @@
   </objeto>
   <objeto>
     <ref>87</ref>
-    <texto>tolerancia Religiosa</texto>
+    <texto>tolerancia
+	Religiosa</texto>
     <hijos/>
     <padre>73</padre>
     <siz>0</siz>
@@ -393,7 +417,8 @@
   </objeto>
   <objeto>
     <ref>54</ref>
-    <texto>cuestionó los privilegios y logró</texto>
+    <texto>cuestionó los
+	privilegios y logró</texto>
     <hijos>67,69,6A</hijos>
     <padre>47</padre>
     <siz>0</siz>
@@ -403,7 +428,9 @@
   </objeto>
   <objeto>
     <ref>67</ref>
-    <texto>representación mayoritaria del Tercer Estado</texto>
+    <texto>representación
+	mayoritaria del
+	Tercer Estado</texto>
     <hijos/>
     <padre>54</padre>
     <siz>0</siz>
@@ -413,7 +440,8 @@
   </objeto>
   <objeto>
     <ref>55</ref>
-    <texto>tuvo tres etapas</texto>
+    <texto>tuvo tres
+	etapas</texto>
     <hijos>68</hijos>
     <padre>47</padre>
     <siz>0</siz>
@@ -423,7 +451,9 @@
   </objeto>
   <objeto>
     <ref>68</ref>
-    <texto>- Monarquía Constitucional(1789-1792)- Convención (1792-1795)- Directorio (1795-1799)</texto>
+    <texto>- Monarquía constitucional  (1789-1792)- Convención 
+  (1792-1795)- Directorio 
+  (1795-1799)</texto>
     <hijos/>
     <padre>55</padre>
     <siz>0</siz>
@@ -433,7 +463,9 @@
   </objeto>
   <objeto>
     <ref>69</ref>
-    <texto>declaración de los Derechos del Hombre y del Ciudadano</texto>
+    <texto>Declaración de los
+	Derechos del Hombre
+	y del Ciudadano</texto>
     <hijos/>
     <padre>54</padre>
     <siz>0</siz>

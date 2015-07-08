@@ -4,7 +4,7 @@
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <?Pub UDT _bookmark _target?>
 <libro id="CS_06_02_CO">
-<libroTitulo>La prehistoria</libroTitulo>
+<libroTitulo>La prehistoria</libroTitulo><?Pub Caret -1?>
 <seccion1 id="S1_CS_06_02_CO_B91197D53CE24153A05E01CFE9B25B7C">
 <seccion1Titulo>Etapas de la prehistoria</seccion1Titulo>
 <seccion1Texto>
@@ -41,7 +41,7 @@ destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=134329&amp;ruta=Busca
 >[VER]</enlace>. Esto generó el desplazamiento de muchos animales
 que tuvieron que adaptarse al nuevo medio. Todos estos cambios ambientales,
 que produjeron a su vez cambios biológicos y fisiológicos, dieron
-origen a nuevas especies.</p><?Pub Caret 21?>
+origen a nuevas especies.</p>
 <p>Entre los nuevos pobladores de la sabana se destacó un grupo de <negrita
 >primates</negrita> considerados los antepasados directos de los <negrita
 >homínidos</negrita> y por lo tanto de los seres humanos actuales.</p>
