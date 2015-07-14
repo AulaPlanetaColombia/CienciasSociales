@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f13" title="Análisis del colonialismo español" >
 <section title="Presentación" path="" pathAmp="" image1Text="" zoom1="false" zoom2a="false" zoom2b="false" layout="2" >
-<![CDATA[<p style="text-align:center"><img src="data/imagenes/5.png" style="height:247px; width:800px" /></p>
+<![CDATA[
+<p style="text-align:center"><img src="data/imagenes/5.png" style="height:247px; width:800px" /></p>
 
 <p style="text-align:center"><span style="font-size:26px"><span style="font-family:verdana,geneva,sans-serif">&iquest;C&oacute;mo fue el colonialismo de finales del siglo XIX<br />
 en nuestro territorio?</span></span></p>
 ]]></section>
-<section title="Conceptos" path="section1.jpg" pathAmp="" image1Text="" zoom1="false" zoom2a="false" zoom2b="false" layout="1" >
-<![CDATA[<div><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">Antes de comenzar a preparar y dise&ntilde;ar el proyecto es importante que repasen algunos de los conceptos que ya han visto en clase y que resultar&aacute;n &uacute;tiles a la hora de realizar el trabajo:</span></span></div>
+<section title="Conceptos" path="section1.jpg" pathAmp="section1_big.jpg" image1Text="" zoom1="true" zoom2a="false" zoom2b="false" layout="1" >
+<![CDATA[
+<div><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">Antes de comenzar a preparar y dise&ntilde;ar el proyecto es importante que repasen algunos de los conceptos que ya han visto en clase y que resultar&aacute;n &uacute;tiles a la hora de realizar el trabajo:</span></span></div>
 
 <div>&nbsp;</div>
 
@@ -38,8 +40,9 @@ en nuestro territorio?</span></span></p>
 
 <div><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif"><strong>Situaci&oacute;n de Espa&ntilde;a durante el siglo XIX.</strong></span></span></div>
 ]]></section>
-<section title="Objetivos " path="section2.jpg" pathAmp="" image1Text="" zoom1="false" zoom2a="false" zoom2b="false" layout="1" >
-<![CDATA[<div><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif"><strong>Objetivo:</strong> analizar el colonialismo espa&ntilde;ol del siglo XIX. </span></span></div>
+<section title="Objetivos " path="section2.jpg" pathAmp="section2_big.jpg" image1Text="" zoom1="true" zoom2a="false" zoom2b="false" layout="1" >
+<![CDATA[
+<div><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif"><strong>Objetivo:</strong> analizar el colonialismo espa&ntilde;ol del siglo XIX. </span></span></div>
 
 <div>&nbsp;</div>
 
@@ -73,7 +76,7 @@ en nuestro territorio?</span></span></p>
 
 <div>&nbsp;</div>
 ]]></section>
-<section title="Planificación" path2a="2a_section3.jpg" path2b="2b_section3.jpg" pathAmp="" image2aText="&lt;p&gt;&lt;span&gt;Ejemplo de tabla que os ayudará a realizar la planificación.&lt;/span&gt;&lt;/p&gt;" image2bText="&lt;p&gt;&lt;span&gt;Ejemplo de planificación que os puede ayudar a organizar el proyecto.&lt;/span&gt;&lt;/p&gt;" zoom1="false" zoom2a="false" zoom2b="false" layout="4" >
+<section title="Planificación" path2a="2a_section3.jpg" path2b="2b_section3.jpg" path2aAmp="2a_section3_big.jpg" path2bAmp="2b_section3_big.jpg" image1Text="" zoom1="true" zoom2a="true" zoom2b="true" layout="4" >
 <![CDATA[<div><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">Para realizar el ejercicio, les proponemos comenzar por organizar el trabajo. Para ellos sugerimos seguir los siguientes pasos: </span></span></div>
 
 <div>&nbsp;</div>
@@ -102,16 +105,17 @@ en nuestro territorio?</span></span></p>
 
 <div>&nbsp;</div>
 
-<div><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">En la primera imagen adjunta puedes observar un ejemplo de estructura de esta tabla que les ayudar&aacute; a orientar su planificaci&oacute;n.</span></span></div>
+<div><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">En la primera imagen adjunta pueden observar un ejemplo de estructura de esta tabla que les ayudar&aacute; a orientar su planificaci&oacute;n.</span></span></div>
 
 <div>&nbsp;</div>
 
-<div><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">En la segunda imagen puedes observar un ejemplo de planificaci&oacute;n de un proyecto similar que les puede ser de ayuda.</span></span></div>
+<div><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">En la segunda imagen pueden observar un ejemplo de planificaci&oacute;n de un proyecto similar que les puede ser de ayuda.</span></span></div>
 
 <div>&nbsp;</div>
 ]]></section>
 <section title="Investigación" path="section4.jpg" pathAmp="" image1Text="" zoom1="false" zoom2a="false" zoom2b="false" layout="1" >
-<![CDATA[<div><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">A la hora de realizar la investigaci&oacute;n, es importante que piensen y discutan sobre qu&eacute; recursos y fuentes de informaci&oacute;n pueden resultar &uacute;tiles. Les recomendamos:</span></span></div>
+<![CDATA[
+<div><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">A la hora de realizar la investigaci&oacute;n, es importante que piensen y discutan sobre qu&eacute; recursos y fuentes de informaci&oacute;n pueden resultar &uacute;tiles. Les recomendamos:</span></span></div>
 
 <ul>
 	<li><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">Consultar publicaciones y p&aacute;ginas web fiables como las de instituciones oficiales.</span></span></li>
@@ -126,7 +130,8 @@ en nuestro territorio?</span></span></p>
 <div>&nbsp;</div>
 ]]></section>
 <section title="Análisis" path="section5.jpg" pathAmp="" image1Text="" zoom1="false" zoom2a="false" zoom2b="false" layout="1" >
-<![CDATA[<p><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">A partir de la informaci&oacute;n recopilada, elaboren y completen fichas que sinteticen la siguiente informaci&oacute;n:</span></span></p>
+<![CDATA[
+<p><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">A partir de la informaci&oacute;n recopilada, elaboren y completen fichas que sinteticen la siguiente informaci&oacute;n:</span></span></p>
 
 <ul>
 	<li><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">Contexto en el que se desarroll&oacute; el colonialismo.</span></span></li>
@@ -141,7 +146,8 @@ en nuestro territorio?</span></span></p>
 <p>&nbsp;</p>
 ]]></section>
 <section title="Síntesis" path="section6.jpg" pathAmp="" image1Text="" zoom1="false" zoom2a="false" zoom2b="false" layout="1" >
-<![CDATA[<p><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">A partir de la investigaci&oacute;n realizada han obtenido una informaci&oacute;n que les permitir&aacute; elaborar <strong>fichas </strong>con la informaci&oacute;n esencial del colonialismo espa&ntilde;ol. El siguiente paso es preparar el <strong>debate</strong>, para ello:</span></span></p>
+<![CDATA[
+<p><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">A partir de la investigaci&oacute;n realizada han obtenido una informaci&oacute;n que les permitir&aacute; elaborar <strong>fichas </strong>con la informaci&oacute;n esencial del colonialismo espa&ntilde;ol. El siguiente paso es preparar el <strong>debate</strong>, para ello:</span></span></p>
 
 <ol>
 	<li><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">Planifiquen los temas principales de los que tratar&aacute; el debate.</span></span></li>
@@ -159,7 +165,7 @@ en nuestro territorio?</span></span></p>
 <section title="Evaluación" path="" pathAmp="" image1Text="" zoom1="false" zoom2a="false" zoom2b="false" layout="2" >
 <![CDATA[<p><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">Al acabar pueden autoevaluarse para comprobar cu&aacute;les tareas se hicieron bien o mal y si el proyecto se realiz&oacute; correctamente.</span></span></p>
 
-<p><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif"><em>Valorad de 1 a 5, siendo 1 muy mal y 5 muy bien. </em></span></span></p>
+<p><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif"><em>Valoren de 1 a 5, siendo 1 muy mal y 5 muy bien. </em></span></span></p>
 
 <p><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif"><strong>&Iacute;TEMS DE VALORACI&Oacute;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></span></span></p>
 

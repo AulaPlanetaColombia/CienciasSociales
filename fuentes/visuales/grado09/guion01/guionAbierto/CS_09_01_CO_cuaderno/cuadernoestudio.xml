@@ -2,15 +2,16 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_09_01_CO">
 <libroTitulo>El imperialismo y la Primera Guerra</libroTitulo>
 <seccion1 id="S1_CS_09_01_CO_CB3E0B2F4F794CB99282F70181124230">
 <seccion1Titulo>El colonialismo y sus causas</seccion1Titulo>
 <seccion1Texto>
 <p>Para muchos historiadores, el fin del siglo XIX se sitúa en el
-año 1914, fecha del estallido de la Primera Guerra Mundial (1914-1918).
-Este conflicto es considerado el resultado de la lucha de las distintas
-potencias coloniales por dominar Europa y el mundo.</p>
+año 1914, fecha del estallido de la <negrita>Primera Guerra Mundial</negrita
+> (1914-1918). Este conflicto es considerado el resultado de la lucha
+de las distintas potencias coloniales por dominar Europa y el mundo.</p>
 <p>El <negrita>colonialismo</negrita> fue el proceso por medio del
 cual las potencias europeas industrializadas impusieron su <negrita
 >poderío político</negrita> y <negrita>militar</negrita> sobre la
@@ -22,7 +23,7 @@ fase del colonialismo fue el <negrita>imperialismo</negrita> (1870-1914). </p>
 destino="/LoIdRedirect.aspx?LoId=CS_09_01_CO_Recurso010&amp;IdRecurso=RES-19C6EC8C12454CE3A8098A32872A6FAA"
 >La última fase del colonialismo: El imperialismo</enlace>
 </profundiza>
-<imagen src="CS_09_01_CO_IMG01_small.png">
+<imagen ampliable="no" src="CS_09_01_CO_IMG01_small.png">
 <p>Las <negrita>aspiraciones coloniales</negrita> de las potencias
 durante el último tercio del siglo XIX estuvieron motivadas por el
 afán de controlar las <negrita>materias primas</negrita> necesarias
@@ -34,8 +35,8 @@ y territorios.</p>
 </imagen>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_01_CO_Recurso020&amp;IdRecurso=RES-64235B6793A04A3B976BC4DF014A1775"
->Refuerza tu aprendizaje: El colonialismo y sus causas</enlace>
+destino="/LoIdRedirect.aspx?LoId=CS_09_01_CO_Recurso040&amp;IdRecurso=RES-907375383D574247A8A217F0EF95FCED"
+>Conoce el proceso de colonización de África</enlace>
 </practica><seccion2
 id="S2_CS_09_01_CO_F2D3E66B428F4C3D81059EABFA5F732A">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -43,8 +44,8 @@ id="S2_CS_09_01_CO_F2D3E66B428F4C3D81059EABFA5F732A">
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_01_CO_Recurso040&amp;IdRecurso=RES-907375383D574247A8A217F0EF95FCED"
->Conoce el proceso de colonización de África</enlace>
+destino="/LoIdRedirect.aspx?LoId=CS_09_01_CO_Recurso020&amp;IdRecurso=RES-64235B6793A04A3B976BC4DF014A1775"
+>Refuerza tu aprendizaje: El colonialismo y sus causas</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_09_01_CO_8DD9D49B46904914BBBAE6E51D775364">
 <seccion1Titulo>La dominación, organización y explotación de las colonias</seccion1Titulo>
@@ -59,26 +60,31 @@ no europeas, que se realizó a partir de:</p>
 <listaSinNumerar>
 <listaElemento>Una fase de observación que se valió de expediciones
 como las de Sir Richard Francis Burton o John Speke.</listaElemento>
-<listaElemento>Una fase de conquista</listaElemento>
+<listaElemento>Una fase de conquista.</listaElemento>
 <listaElemento>Una fase de organización.</listaElemento>
 </listaSinNumerar>
 <p>En el <negrita>sistema colonial</negrita> implantado por las potencias
 europeas en los territorios que ocuparon, en general por la fuerza,
 se establecieron distintas formas de organización administrativa:</p>
-<p>Las colonias gobernadas por las metrópolis podían ser de dos tipos:</p>
 <listaSinNumerar>
-<listaElemento>Las <negrita>colonias de poblamiento</negrita>: eran
-los <negrita>territorios metropolitanos</negrita> (territorios con
-representación en las instituciones de las metrópolis) y los <negrita
->dominios</negrita> (territorios con cierto grado de autonomía). Acogían
-colonos europeos de forma permanente.</listaElemento>
-<listaElemento>Las <negrita>colonias de explotación</negrita>: estaban
-sometidas a una <negrita>explotación económica</negrita> y a una <negrita
->política de ocupación</negrita>.</listaElemento>
+<listaElemento>Las colonias gobernadas por las metrópolis podían ser
+de dos tipos:</listaElemento>
 </listaSinNumerar>
-<p>Los <negrita>protectorados</negrita> estaban gobernados, en principio,
-por las <negrita>autoridades locales</negrita>. Sin embargo, las metrópolis
-ejercían su control sobre aquellas.</p>
+<listaNumerada>
+<listaElemento>Las <negrita>colonias de poblamiento</negrita>: eran
+	los <negrita>territorios metropolitanos</negrita> (territorios con
+	representación en las instituciones de las metrópolis) y los <negrita
+>dominios</negrita> (territorios con cierto grado de autonomía). Acogían
+	colonos europeos de forma permanente.</listaElemento>
+<listaElemento>Las <negrita>colonias de explotación</negrita>: estaban
+	sometidas a una <negrita>explotación económica</negrita> y a una <negrita
+>política de ocupación</negrita>.</listaElemento>
+</listaNumerada>
+<listaSinNumerar>
+<listaElemento>Los <negrita>protectorados</negrita> estaban gobernados,
+en principio, por las <negrita>autoridades locales</negrita>. Sin
+embargo, las metrópolis ejercían su control sobre aquellas.</listaElemento>
+</listaSinNumerar>
 <imagen src="CS_09_01_CO_IMG02_small.jpg">
 <p>Pese a su superioridad militar, las potencias coloniales tuvieron
 que enfrentarse a <negrita>alzamientos de la población nativa</negrita
@@ -131,7 +137,7 @@ las distintas potencias coloniales.</p>
 <p>Esta caricatura representa a los mandatarios europeos y su voracidad
 a la hora de repartirse el continente africano. Para saber más sobre
 el reparto de África, puedes consultar la Gran Enciclopedia Planeta <enlace
-destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idpack=8&amp;idpil=000KNL01&amp;ruta=aulaplaneta&amp;DATA=oIj5jntO%2bkOUs3m%2bJAKoqTfqpXb%2b3YLTbbj%2btkCHHwY%3d"
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=8&amp;idpil=000KNL01&amp;ruta=Buscador"
 >[VER]</enlace>.</p>
 </imagen>
 <profundiza>
@@ -143,7 +149,7 @@ id="S2_CS_09_01_CO_B3326D1292A04400962B9F80792C5786">
 <seccion2Titulo>La colonización de Asia</seccion2Titulo>
 <seccion2Texto>
 <p>La apertura del <negrita>canal de Suez</negrita>, en 1869 <enlace
-destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=555785&amp;ruta=Buscador"
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=555785&amp;ruta=Buscador"
 >[VER]</enlace>, fue definitiva para impulsar la colonización europea
 de Asia, pues gracias a esta gran infraestructura quedaron conectados
 el océano Índico y el mar Mediterráneo.</p>
@@ -181,7 +187,7 @@ En 1900 tenía una extensión de 33 millones de kilómetros cuadrados
 y la cuarta parte de la población mundial. Estaba formado por colonias
 y posesiones repartidas por todos los continentes, lo que hizo del
 Reino Unido la <negrita>primera potencia naval</negrita> de su época.</p>
-<imagen src="CS_09_01_CO_IMG04_small.jpg">
+<imagen ampliable="no" src="CS_09_01_CO_IMG04_small.jpg">
 <p>En 1876, la reina Victoria I fue proclamada emperatriz de las Indias.
 Durante su largo reinado, el Imperio británico amplió sus dominios
 en la <negrita>India</negrita> y <negrita>Birmania</negrita>, a la
@@ -196,7 +202,7 @@ Cabo. Así mismo, dominaban <negrita>Canadá</negrita>, <negrita>Australia</negr
 > y otros territorios terrestres, islas y colonias menores en América,
 Oceanía y el Pacífico. Para conocer todos los dominios del Imperio
 británico, consulta la Gran Enciclopedia Planeta <enlace
-destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idpack=8&amp;idpil=000KLP01&amp;ruta=aulaplaneta&amp;DATA=oIj5jntO%2bkNuZSebGSZyVjfqpXb%2b3YLTbbj%2btkCHHwY%3d"
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=8&amp;idpil=000KLP01&amp;ruta=Buscador"
 >[VER]</enlace>.</p>
 <practica>
 <enlace
@@ -220,9 +226,9 @@ coloniales fueron <negrita>Alemania</negrita> e <negrita>Italia</negrita
 >. Este último definió sus intervenciones imperialistas a partir de
 la <negrita>doctrina Monroe</negrita>. Si quieres saber más sobre
 dicha doctrina, consulta la Gran Enciclopedia Planeta <enlace
-destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=162663&amp;ruta=Buscador"
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=162663&amp;ruta=Buscador"
 >[VER]</enlace>. </p>
-<imagen src="CS_09_01_CO_IMG05_small.jpg">
+<imagen ampliable="no" src="CS_09_01_CO_IMG05_small.jpg">
 <p>El <negrita>Congo belga</negrita> era una posesión personal del
 rey <negrita>Leopoldo II de Bélgica</negrita>, quien había encargado
 a <negrita>Henry Morton Stanley</negrita> la exploración de la <negrita
@@ -272,7 +278,7 @@ algunos enfrentamientos entre las potencias coloniales, como sucedió
 con el <negrita>incidente de Fashoda</negrita> (1898). En este, Francia
 y el Imperio británico se disputaron el derecho de conquista de Sudán.</p>
 </recuerdaTexto></recuerda>
-<imagen src="CS_09_01_CO_IMG06_small.jpg">
+<imagen ampliable="no" src="CS_09_01_CO_IMG06_small.jpg">
 <p>En esta caricatura (1885), llamada “China: pastel de reyes y de
 emperadores”, un mandarín intenta contener la ambición de europeos
 y japoneses por su territorio. Una de las consecuencias del imperialismo
@@ -283,9 +289,7 @@ en China fue el comercio de mercancías perjudiciales como el opio.</p>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_01_CO_Recurso100&amp;IdRecurso=RES-D92DFEE5061D49E690E1C411F121564F"
->Las consecuencias del imperialismo</enlace>
+<enlace>Actividad NUEVA</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_09_01_CO_7CB7742EFECA403EAEF7E1851126FD6D">
 <seccion1Titulo>La Primera Guerra Mundial</seccion1Titulo>
@@ -360,7 +364,7 @@ de los <negrita>nacionalismos agresivos</negrita>. Los distintos Estados
 proclamaban la necesidad de la unión de todos sus ciudadanos para
 hacer frente al enemigo común, y cada país esgrimía razones históricas
 para defender sus posiciones frente al resto de Estados europeos.</p>
-<imagen src="CS_09_01_CO_IMG09_small.jpg">
+<imagen ampliable="no" src="CS_09_01_CO_IMG09_small.jpg">
 <p>El <negrita>nacionalismo agresivo</negrita> de los países europeos
 contribuyó a generar un clima de guerra a principios del siglo XX.
 Sin embargo, no solo las grandes potencias favorecían el nacionalismo.
@@ -387,14 +391,14 @@ Por un lado, en 1882, se creó la <negrita>Triple Alianza</negrita
 >, formada por Italia, el Imperio austrohúngaro y Alemania. Por otro
 lado, en 1907, se formó la <negrita>Triple Entente</negrita>, que
 reunía a Francia, Reino Unido y Rusia <enlace
-destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idpack=8&amp;idpil=000LI501&amp;ruta=aulaplaneta&amp;DATA=oIj5jntO%2bkPgM9zeq26GlDfqpXb%2b3YLTbbj%2btkCHHwY%3d"
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=8&amp;idpil=000LI501&amp;ruta=Buscador"
 >[VER]</enlace>.</p>
 <p>De forma paralela, las distintas potencias emprendieron una <negrita
 >carrera armamentística</negrita> destinada a preparar a sus ejércitos
 para una guerra que se consideraba inminente. Las industrias de armamento
 desarrollaron y perfeccionaron todo tipo de armas y crearon otras
 nuevas, mientras los diplomáticos hablaban de paz.</p>
-<imagen src="CS_09_01_CO_IMG10_small.jpg">
+<imagen ampliable="no" src="CS_09_01_CO_IMG10_small.jpg">
 <p>Los años previos al estallido de la guerra se conocen como el periodo
 de la <negrita>paz armada</negrita>. Se trata de una fase en que se
 hablaba mucho de la paz, aunque, a la vez, los países no dejaban de <negrita
@@ -410,7 +414,7 @@ id="S2_CS_09_01_CO_76F5F7EF2EC447CC8AC7EA555D2BD6AA">
 >archiduque Francisco Fernando</negrita>, heredero al trono del Imperio
 austrohúngaro, a manos de un nacionalista serbio. Austria responsabilizó
 a Serbia y le declaró la guerra. Empezaba así la Primera Guerra Mundial. </p>
-<imagen src="CS_09_01_CO_IMG11_small.jpg">
+<imagen ampliable="no" src="CS_09_01_CO_IMG11_small.jpg">
 <p>El atentado de Sarajevo (julio de 1914), perpetrado por un <negrita
 >nacionalista serbio</negrita> , desencadenó el estallido de la Primera
 Guerra Mundial. La muerte del <negrita>archiduque Francisco Fernando</negrita
@@ -422,14 +426,18 @@ con las <negrita>antiguas alianzas internacionales</negrita>:</p>
 <listaSinNumerar>
 <listaElemento>La <negrita>Triple Alianza</negrita>: formada por Italia,
 el Imperio austrohúngaro y Alemania <enlace
-destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=165247&amp;ruta=Buscador"
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=165247&amp;ruta=Buscador"
 >[VER]</enlace>.</listaElemento>
 <listaElemento>La <negrita>Triple Entente</negrita>: formada por Francia,
 Reino Unido y Rusia <enlace
-destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=167196&amp;ruta=Buscador"
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=167196&amp;ruta=Buscador"
 >[VER]</enlace>.</listaElemento>
 </listaSinNumerar>
-</seccion2Texto></seccion2><seccion2
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_01_CO_Recurso100&amp;IdRecurso=RES-D92DFEE5061D49E690E1C411F121564F"
+>Las consecuencias del imperialismo</enlace>
+</practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_09_01_CO_F2D3E66B428F4C3D81059EABFA5F515E">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
@@ -496,14 +504,16 @@ las <negrita>derrotas de Austria</negrita> y <negrita>Alemania</negrita
 >, lo que llevó a la <negrita>firma del armisticio</negrita> (11 de
 noviembre de 1918) que representó el fin del II Reich.</p>
 <imagen src="CS_09_01_CO_IMG13_small.jpg">
-<p>Asalto al Palacio de Invierno de San Petersburgo (octubre 1917).
-Tras su llegada del exilio finlandés, Lenin apoyó la insurrección
-militar, que triunfó después del control de la ciudad por las tropas
-bolcheviques.</p>
+<p><cursiva>Asalto al Palacio de Invierno de San Petersburgo (octubre
+1917)</cursiva>. Tras su llegada del exilio finlandés, Lenin apoyó
+la insurrección militar, que triunfó después del control de la ciudad
+por las tropas bolcheviques.</p>
 <p>Tres años después del estallido de la <negrita>Gran Guerra</negrita
 > (1914-1918), la <negrita>Revolución rusa</negrita> (1917) derrocó
-a los <negrita>Románov</negrita> y puso las bases para la creación
-del primer estado comunista de la historia: la URSS.</p>
+a los <negrita>Románov</negrita> <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=133375&amp;ruta=Buscador"
+>[VER]</enlace> y puso las bases para la creación del primer estado
+comunista de la historia: la URSS.</p>
 </imagen>
 <p>Tras la rendición de los imperios de Europa central, Alemania no
 pudo resistir más las ofensivas de los aliados y se vio obligada a
@@ -544,24 +554,27 @@ a favor de Grecia y Serbia.</listaElemento>
 Turquía. Formalizaba la desaparición del <negrita>Imperio otomano</negrita
 >.</listaElemento>
 </listaSinNumerar>
-<imagen src="CS_09_01_CO_IMG14_small.jpg">
+<imagen ampliable="no" src="CS_09_01_CO_IMG14_small.jpg">
 <p>En junio de 1919, en Versalles, entre <negrita>Alemania</negrita
 > y <negrita>los aliados</negrita>, se puso fin a la Primera Guerra
 Mundial. El tratado impuso a los perdedores el pago de grandes indemnizaciones
 por las responsabilidades en el conflicto. Alemania tuvo que ceder
 sus colonias de ultramar a la Sociedad de Naciones, Alsacia y Lorena
 a Francia y Posnania a Polonia. Se acordó la desmilitarización de
-Renania y la limitación de los efectivos del ejército alemán.</p><?Pub
-Caret -2?>
+Renania y la limitación de los efectivos del ejército alemán.</p>
 </imagen>
-<seccion2 id="S2_CS_09_01_CO_F2D3E66B428F4C3D81059EABFA5F026F">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_01_CO_Recurso140&amp;IdRecurso=RES-CD824F31967141DEA528E3EBAA41D83E"
 >Comprende las consecuencias de la Conferencia de París</enlace>
+</practica><seccion2
+id="S2_CS_09_01_CO_F2D3E66B428F4C3D81059EABFA5F026F">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p><?Pub
+Caret 36?>
+<practica>
+<enlace>Actividad NUEVA</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_09_01_CO_55778228B5224BEEBD37268FCBA83CF6">
 <seccion1Titulo>Las consecuencias de la Guerra</seccion1Titulo>
@@ -666,16 +679,18 @@ destino="/LoIdRedirect.aspx?LoId=CS_09_01_CO_Recurso200&amp;IdRecurso=RES-58CC00
 id="MI_CS_09_01_CO_08BB39046087417881DDB928A8AAE02B"><mapaconceptual>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_01_CO_Recurso210&amp;IdRecurso=RES-B5665BBB73E34DD8916C1471273FE659"
->Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+>Mapa conceptual del tema El imperialismo y la Primera Guerra</enlace>
+</mapaconceptual><autoevaluate><enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_01_CO_Recurso220&amp;IdRecurso=RES-D4D06BA7BC754A01B014B746DAC17B43"
->Evaluación</enlace></autoevaluate><enlacesreferencia>
+>Evalúa tus conocimientos sobre el tema El imperialismo y la Primera
+Guerra</enlace></autoevaluate><enlacesreferencia>
 <enlace
 destino="http://recursostic.educacion.es/kairos/web/ensenanzas/eso/contemporanea/imperialismo_01_00.html"
 >La época del imperialismo. Secuencia didáctica sobre este periodo
 histórico, ofrecida por el proyecto Kairós del Ministerio de Educación,
 Cultura y Deporte de España.</enlace>
 <enlace
-destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=8320&amp;ruta=Buscador"
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=8320&amp;ruta=Buscador"
 >La Primera Guerra Mundial. Aspectos políticos, geográficos y sociales.
 Banco de contenidos Planeta.</enlace>
 </enlacesreferencia></masinformacion></libro>
