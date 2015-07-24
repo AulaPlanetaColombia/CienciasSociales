@@ -1,73 +1,79 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!--Arbortext, Inc., 1988-2013, v.4002-->
+<!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_07_01_CO">
-<libroTitulo>La Edad Media</libroTitulo>
+<libroTitulo>Los inicios de la Edad Media</libroTitulo>
 <seccion1 id="S1_CS_07_01_CO_D3F2C08349AE4BA081FB95EC2231E692">
-<seccion1Titulo>Las invasiones bárbaras y caída del Imperio Romano</seccion1Titulo>
+<seccion1Titulo>Las invasiones bárbaras y la caída del Imperio Romano</seccion1Titulo>
 <seccion1Texto>
-<p>Por siglos las legiones del Imperio Romano mantuvieron alejados
-a los germanos o pueblos bárbaros, nombre con el que se conocía a
-aquellos grupos humanos que no hacían parte del imperio y por tanto
-eran extranjeros, <negrita>“bárbaros”</negrita>. Los germanos no eran
-pues un único pueblo, cuando se habla de ellos en realidad se está
-haciendo mención a grandes y pequeñas tribus que vivían en un gran
-territorio al norte de Europa, territorio que se extendía entre el
-mar del Norte, el mar Báltico, el este del Rin y el norte del Danubio,
-y el mar Negro. Los historiadores suelen distinguir dos grandes grupos:
-los germanos orientales (godos, quienes a su vez se dividen en ostrogodos
-y visigodos) y los germanos occidentales (francos, bávaros y suevos).</p>
-<imagen ampliable="no" src="CS_07_01_CO_IMG01_small.jpg">
-<p>Desde el siglo III, el Imperio romano se vio sumido en una profunda
-crisis. En esta época, el Imperio tuvo que hacer frente a la presión
-de distintos pueblos de origen <negrita>germánico</negrita> en sus
-fronteras. Representación de un enfrentamiento entre romanos y ostrogodos
-en un sarcófago de mármol (Museo Nacional Romano, Roma).</p>
+<p>El año 476 marca el fin del mundo antiguo y el comienzo de una
+nueva etapa histórica: la Edad Media. La caída del Imperio romano
+de Occidente abrió una larga época de casi mil años; importante conocer
+para entender los fundamentos políticos, económicos, culturales y
+sociales sobre los que se construyó la Europa moderna.</p>
+<imagen src="CS_07_01_CO_IMG01_small.jpg">
+<p>Restos como el acueducto de los Milagros, en Mérida, evidencian
+el esplendor que llegaron a vivir las distintas ciudades del Mediterráneo
+durante la época romana. Sin embargo, en el siglo V el Imperio romano
+desapareció ante el avance de las invasiones germánicas. Con la caída
+del Imperio romano de Occidente (476) se dio paso a la Edad Media.</p>
 </imagen>
-<seccion2 id="S2_CS_07_01_CO_78F713615418405F9869F85E2EC18949">
-<seccion2Titulo>Irrupción germánica en el Imperio Romano</seccion2Titulo>
-<seccion2Texto>
-<p>Durante el siglo III d.C. los bárbaros penetraron las fronteras
-del Imperio varias veces, y lo hicieron de manera violenta, saqueando
-ciudades como Atenas y Antioquía.</p>
-<p>Entre los siglos IV y V d.C. la ocupación de los germanos se dio
-de forma progresiva. Cerca del 370 d.C. en Asia se produjo un gran
-desplazamiento de pueblos hacia Occidente, particularmente de los
-hunos quienes comenzaron a empujar a las tribus germanas hacia el
-interior de frontera del <negrita>Imperio Romano</negrita>. Paralelamente
-a esto, para finales del siglo IV los germanos eran muchos en las
-tierras que habían ocupado y empezaron a tener dificultades para proveerse
-de alimentos. A su vez, el Imperio tenía buenas tierras y en muchas
-oportunidades estas eran improductivas porque habían sido abandonadas.
-Así que a lo largo del siglo V, distintos pueblos germánicos inmigraron
-hacia los territorios del Imperio Romano de Occidente, buscando mejores
-tierras y aprovechando la crisis interna que este vivía.</p>
-<p>Hubo años de buena coexistencia entre el Imperio y los germanos:
-había intercambio comercial; soldados germanos se integraban en el
-ejército del Imperio como aliados; los agricultores se organizaban
-como colonos y eran reconocidos como tales; y los jefes de algunas
-tribus mandaban a sus hijos a Roma o a <negrita>Bizancio</negrita
-> para que se educaran según la cultura latina.</p>
-<p>Esta convivencia hizo que poco a poco los germanos se fueran romanizando,
-es decir que, asimilaron el latín como lengua e hicieron del <negrita
->cristianismo su religión</negrita>; adoptaron las costumbres y el
-derecho romano, que se mezclaron con las tradiciones de origen germánico.
-En los siglos sucesivos a la caída del Imperio, los pueblos germánicos
-(visigodos, francos, ostrogodos, entre otros) formaron territorios
-propios en el espacio que antes ocupaba aquel. <enlace
-destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=166844&amp;ruta=Buscador&amp;DATA=w4b%2b4%2fqO8aTwCiacJUMOdvLI%2fMYVJqFBBd0F4CpdeqI%3d"
->[VER]</enlace></p>
-<recuerda><recuerdaTexto>
-<p>Los romanos llamaban bárbaros –término que en latín significa “extranjero”–
-a los pueblos que vivían fuera de los límites del Imperio. De todos
-los bárbaros, los pueblos germánicos (visigodos, ostrogodos, suevos,
-vándalos, entre otros) eran los más cercanos y conocidos por los romanos.</p>
-</recuerdaTexto></recuerda><profundiza>
+<p>La unidad política y cultural que existía en todo el Mediterráneo
+durante la época romana se quebró y dio paso a nuevas entidades: los <negrita
+>reinos germánicos</negrita>, el <negrita>Imperio bizantino</negrita
+> y el <negrita>Imperio islámico</negrita>.</p>
+<profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_01_CO_Recurso010&amp;IdRecurso=RES-9B9340A92B594BD8A501B83A708B61A1"
 >Del fin del Imperio romano a los reinos germánicos</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
+</profundiza><seccion2
+id="S2_CS_07_01_CO_78F713615418405F9869F85E2EC18949">
+<seccion2Titulo>La caída del Imperio romano de Occidente</seccion2Titulo>
+<seccion2Texto>
+<p>El fin del Imperio romano no fue algo casual ni súbito, sino que
+fue el resultado de una larga crisis de más de dos siglos, motivada
+por distintos factores. <enlace
+destino="http://recursos.cnice.mec.es/latingriego/Palladium/cclasica/esc332ca10.php"
+>[VER]</enlace>.</p>
+<listaSinNumerar>
+<listaElemento>Los <negrita>problemas políticos</negrita>. Las continuas
+intromisiones del ejército en la vida política causaron luchas y una
+continua inestabilidad interna.</listaElemento>
+<listaElemento>Los <negrita>problemas económicos</negrita>. La falta
+de mano de obra esclava y la crisis del comercio llevaron a un empobrecimiento
+de las ciudades. </listaElemento>
+<listaElemento>Los <negrita>problemas sociales</negrita>. El empobrecimiento
+urbano y el aumento de impuestos redujo el poder adquisitivo de la
+población de las ciudades, que buscó refugio y alimento en el campo
+(ruralización).</listaElemento>
+<listaElemento>Los <negrita>problemas fronterizos</negrita>. La crisis
+interna dejó las fronteras desguarnecidas y permitió la entrada y
+el asentamiento de distintos pueblos germánicos en el interior del
+Imperio romano. </listaElemento>
+</listaSinNumerar>
+<p>Para tratar de hacerles frente, el emperador <negrita>Teodosio
+I el Grande</negrita> dividió el Imperio entre sus dos hijos en el
+año 395 <enlace
+destino="http://www.nationalgeographic.com.es/articulo/historia/actualidad/7742/teodosio_grande_triunfo_del_cristianismo.html"
+>[VER]</enlace>.</p>
+<recuerda><recuerdaTexto>
+<p>En el año 395, el Imperio romano se dividió en dos territorios:
+el <negrita>Imperio romano de Occidente</negrita>, con capital en <negrita
+>Roma</negrita>, y el <negrita>Imperio romano de Oriente</negrita
+>, con capital en <negrita>Constantinopla</negrita>. Este último pasó
+a denominarse más adelante <negrita>Imperio bizantino</negrita> y
+sobrevivió hasta 1453.</p>
+</recuerdaTexto></recuerda>
+<p>Junto a estos factores, se considera que la difusión del <negrita
+>cristianismo</negrita> fue otra de las causas que contribuyeron al
+desmoronamiento del Imperio romano. El cristianismo se difundió desde <negrita
+>Palestina</negrita> por todo el Imperio romano. El mensaje de <negrita
+>Jesús de Nazaret</negrita> defendía la paz, la justicia y la igualdad
+de todas las personas ante Dios y es por ello que consiguió muchos
+seguidores.</p>
+</seccion2Texto></seccion2><seccion2
 id="S2_CS_07_01_CO_1B404BD04DBE48A7A46F38C73E809F8E">
 <seccion2Titulo>Cambios y dificultades en el Imperio Romano de Occidente</seccion2Titulo>
 <seccion2Texto>
@@ -751,7 +757,7 @@ destino="http://www.nationalgeographic.com.es/articulo/historia/grandes_reportaj
 Yuan (1279 d.C. - 1368 d.C.).</p>
 <imagen ampliable="no" src="CS_07_01_CO_IMG12_small.jpg">
 <p>Gengis Khan</p>
-</imagen><?Pub Caret -2?>
+</imagen>
 <p>El imperio Mongol fue el imperio más extenso que haya existido.
 Ahora bien, al igual que lo que ocurrió con los imperios occidentales
 y orientales en su momento, el reparto del inmenso imperio entre sus
