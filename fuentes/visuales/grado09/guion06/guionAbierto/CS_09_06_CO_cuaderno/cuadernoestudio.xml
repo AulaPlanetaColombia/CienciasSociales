@@ -1,806 +1,770 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_09_06_CO">
-  <libroTitulo>El mundo después de la Segunda Guerra Mundial</libroTitulo>
-  <seccion1 id="S1_CS_09_06_CO_A33612455BDE4EDBA1F72E3F4AD30D11">
-    <seccion1Titulo>La Guerra Fría</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_09_06_CO_19DEC300F69642E1A024B362AF54C33F">
-        <seccion2Titulo>La cuestión alemana</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_01_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso010&amp;IdRecurso=RES-8E7BE81C0C4A4370BE90F1D4540B8F3F">La Guerra Fría</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso020&amp;IdRecurso=RES-139F5ADD01F64356B5FDC353B5AD7438">Recurso M1B-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_06_CO_4707A0E9F201404F95B5F8987F196211">
-        <seccion2Titulo>El bloque capitalista</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_09_06_CO_3AA84DD166654B2BB17A7C45F8EC5048">
-            <seccion3Titulo>Estados Unidos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_06_CO_img_03_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_09_06_CO_A6E8E9FAD35041CFA4A70128F5986C7D">
-            <seccion3Titulo>Europa occidental</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_06_CO_img_04_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_09_06_CO_E6334F7369D1409ABE3368511B4437AF">
-            <seccion3Titulo>Japón</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_06_CO_img_05_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_06_CO_E255ECDEDD2C4EBD8DBF11988DDC087F">
-        <seccion2Titulo>El bloque comunista</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_09_06_CO_6EF5F19175D04DD88C0BA8BD374A82A6">
-            <seccion3Titulo>La URSS</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_06_CO_img_06_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso030&amp;IdRecurso=RES-C8EBC4395FA14890ABBA51EE171196EB">Recurso M10A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_09_06_CO_366A1682E6F8455A85128A48FEC88D33">
-            <seccion3Titulo>La República Popular China</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_06_CO_img_07_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_06_CO_img_08_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso050&amp;IdRecurso=RES-49EBB6E05FE048288D2F89E3C63DA09B">Un mundo de bloques</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_06_CO_img_09_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso060&amp;IdRecurso=RES-8362B51B42684C53BDED4FAC4CCC1EE6">Descubre la China comunista</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_06_CO_E5C4D256A9284FE9BB4026A496264157">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_10_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso070&amp;IdRecurso=RES-9BAF74BB1CF64134AD24FF297D7471DC">Refuerza tu aprendizaje: La Guerra Fría</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_06_CO_D66B349802FF4EEF8D9147052D99B92E">
-    <seccion1Titulo>Las fases de la Guerra Fría</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_09_06_CO_E7D5FD4802204716A0B4E85DCE9C6AB4">
-        <seccion2Titulo>La época de tensión (1947-1962)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_11_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_06_CO_E65E31B2AF0946DEAA5290EBE323FD99">
-        <seccion2Titulo>La época de distensión (1963-1975)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_06_CO_FFB0251F35C849CF877BBFA4ABAFDB85">
-        <seccion2Titulo>La fase final y de rearme (1975-1991)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_14_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso090&amp;IdRecurso=RES-59333F1059324390885CC53DDC6F297B">Refuerza tu aprendizaje: Las fases de la Guerra Fría</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_18_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso130&amp;IdRecurso=RES-0257C57F58F44EDD9024445899219891">Refuerza tu aprendizaje: Los conflictos de la Guerra Fría</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_06_CO_64B1AB904B1A4006BD05FA200E6D5588">
-    <seccion1Titulo>Los conflictos de la Guerra Fría</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_06_CO_img_15_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso100&amp;IdRecurso=RES-FCAFEB1EF0794116878BEF4CA246775C">Recurso M1B-02</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_06_CO_img_16_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso110&amp;IdRecurso=RES-056416DA89724A168FE2D8534CBAA068">Los conflictos de la Guerra Fría</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_06_CO_img_17_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso120&amp;IdRecurso=RES-64CCA22F5BA1438D8309B27AB25BB327">Entiende la guerra de Vietnam</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_06_CO_4B787934E8AB44D3B8E82C3B72239561">
-    <seccion1Titulo>El proceso de descolonización</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_09_06_CO_818854F3892B4B7180FEDB187C80D8AF">
-        <seccion2Titulo>La independencia de las colonias en Asia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_19_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_06_CO_B34755AA645040558E207EBF3D9127F3">
-        <seccion2Titulo>La independencia de las colonias en África</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_20_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso140&amp;IdRecurso=RES-84B81D220DA94072B746F4DCA521D1D8">El apartheid</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_06_CO_39714EE142DD4FDAB77E0F1BE5E27CE1">
-        <seccion2Titulo>Las consecuencias de la descolonización</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_21_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso150&amp;IdRecurso=RES-BFEF31A819E247C6BA9B37B3146563CF">La descolonización y el nacimiento del Tercer Mundo</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_22_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso160&amp;IdRecurso=RES-C274425A5F1F4F9EBDD5BC4D09A2EF30">Recurso M2A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_23_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso170&amp;IdRecurso=RES-14BB3FFC6FBF449883A90A2272B28401">Refuerza tu aprendizaje: El proceso de descolonización</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_06_CO_3E9F79EF42614C82B4E91EFA31A4F590">
-    <seccion1Titulo>La economía y la sociedad en las décadas de 1960 y 1970</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_09_06_CO_10CC78C45C7E465CB28B80A39E2AD990">
-        <seccion2Titulo>La realidad económica y social en el bloque capitalista</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_09_06_CO_4A694016CBD14FD495B743AFAFCFE0E8">
-            <seccion3Titulo>La economía capitalista</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_06_CO_img_24_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_09_06_CO_532FF70079E946E3B56659D8F4D9EFA8">
-            <seccion3Titulo>La sociedad de consumo</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_06_CO_img_25_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_09_06_CO_B03DCCDEA2464D5186861980DCBE39A8">
-            <seccion3Titulo>La construcción europea</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_06_CO_img_26_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_09_06_CO_9EC55AD205FB4381987BDB682E9AC3C1">
-            <seccion3Titulo>Las revueltas y agitaciones sociales</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_06_CO_img_27_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso180&amp;IdRecurso=RES-1824B7A6BDED49228F1824EC6F6273D7">Los años 1960 y 1970</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_06_CO_2A86BCFBA0054F84B745E0E7E370710A">
-    <seccion1Titulo>La economía y la sociedad en las décadas de 1960 y 1971</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_06_CO_211A2D55925744B8A4B2F70A5019E6F2">
-    <seccion1Titulo>La economía y la sociedad en las décadas de 1960 y 1972</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_06_CO_2AFF6616763C41B0BF54F16A4947CE96">
-    <seccion1Titulo>La economía y la sociedad en las décadas de 1960 y 1973</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_06_CO_C9CDCB532AD54BAF9AA141BF405EBE4A">
-    <seccion1Titulo>La economía y la sociedad en las décadas de 1960 y 1974</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_09_06_CO_406275DA39B9402B997975C48E945949">
-        <seccion2Titulo>La realidad económica y social en el bloque comunista</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_09_06_CO_E8EBC7030EE44A7AAA849F14E34D00D2">
-            <seccion3Titulo>La economía comunista</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_06_CO_img_28_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_09_06_CO_CC8B578BFC7C415586248F69AC759D4D">
-            <seccion3Titulo>Los intentos de reforma en la Europa oriental</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_06_CO_img_29_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_30_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso190&amp;IdRecurso=RES-1565DAB40E094CD0B90200A92F556ABE">Refuerza tu aprendizaje: La economía y la sociedad en los 60 y 70</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_06_CO_img_32_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso210&amp;IdRecurso=RES-2FC7DFD6F99B4AA7BD1A7AF6D75C6A44">Refuerza tu aprendizaje: La crisis del petróleo</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_06_CO_9E6F159FDF854CEA994F26D09CE181DB">
-    <seccion1Titulo>La economía y la sociedad en las décadas de 1960 y 1975</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_06_CO_1E2CB4228B544D77BBC219188877B12D">
-    <seccion1Titulo>La economía y la sociedad en las décadas de 1960 y 1976</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_06_CO_89265782A48542FEAB4C70CD5F623596">
-    <seccion1Titulo>La crisis del petróleo</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_06_CO_img_31_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso200&amp;IdRecurso=RES-79DB5672978D4325873AD1F485BFFC45">Cronología: el mundo tras la Segunda Guerra Mundial</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_06_CO_75F820BCB17B45798C483353A81F1BDF">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_06_CO_img_33_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso220&amp;IdRecurso=RES-FBD7DC48760B4DE5876A051EA0768E75">Competencias: estudio sobre la crisis del petróleo de 1973</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_06_CO_img_34_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso230&amp;IdRecurso=RES-55C6EBE389824765A466E7AAF4164703">Proyecto: análisis de los efectos de la descolonización</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_09_06_CO_B372F9046AE84A29A844C52E12F08CE8">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso250&amp;IdRecurso=RES-3FF57323D93B4645B9D926CE75F96200">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso260&amp;IdRecurso=RES-2DA135D4F35B49B1B5A5EC864F884952">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>El mundo después de la Segunda Guerra Mundial</libroTitulo>
+<seccion1 id="S1_CS_09_06_CO_A33612455BDE4EDBA1F72E3F4AD30D11">
+<seccion1Titulo>La Guerra Fría</seccion1Titulo>
+<seccion1Texto>
+<p>La Segunda Guerra Mundial modificó la situación internacional de
+manera radical. Los <negrita>desacuerdos</negrita> entre las potencias
+vencedoras llevaron a la <negrita>división</negrita> del mundo en <negrita
+>dos bloques</negrita>. Un bloque, liderado por <negrita>Estados Unidos</negrita
+> y otro, por la <negrita>Unión de Repúblicas Socialistas Soviéticas
+(URSS)</negrita>. Aunque el conflicto pasó por distintas etapas, las
+superpotencias nunca llegaron a enfrentarse de forma directa. Se trató
+de un conflicto con amenazas latentes y sin confrontaciones directas,
+por esa razón a esta etapa de la historia se le denominó la Guerra
+Fría.</p>
+<seccion2 id="S2_CS_09_06_CO_19DEC300F69642E1A024B362AF54C33F">
+<seccion2Titulo>La cuestión alemana</seccion2Titulo>
+<seccion2Texto>
+<p>Acabada la Segunda Guerra Mundial, el futuro de Alemania se convirtió
+en el primer punto de enfrentamiento entre Estados Unidos y la URSS.
+Las potencias occidentales y la Unión Soviética decidieron dividir
+el territorio alemán y particularmente a <negrita>Berlín</negrita
+> en <negrita>cuatro zonas de ocupación</negrita> (controladas por
+Estados Unidos, Reino Unido, Francia y la URSS).</p>
+<imagen src="CS_09_06_CO_IMG01_small.jpg">
+<p>En la <negrita>conferencia de Potsdam</negrita> (17de julio-2 de
+agosto de 1945), se reunieron los representantes de las tres potencias
+vencedoras en la Segunda Guerra Mundial. Sentados, de izquierda a
+derecha: <negrita>Clement Richard Attlee</negrita> (Inglaterra), <negrita
+>Harry Spencer Truman</negrita> (Estados Unidos) y <negrita>Iósif
+Vissariónovich Stalin</negrita> (URSS). Estos acordaron la <negrita
+>partición de Alemania</negrita> en <negrita>cuatro zonas de ocupación</negrita
+>.</p>
+</imagen>
+<destacado><destacadoTitulo>El telón de acero</destacadoTitulo>
+<destacadoTexto>
+<p>En 1946, <negrita>Winston Churchill</negrita> acuñó la expresión <negrita
+>“telón de acero”</negrita> para referirse a la división entre la
+Europa democrática y la comunista, enfrentadas en una lucha ideológica
+y de prestigio, bajo la amenaza de un combate militar real.</p>
+</destacadoTexto></destacado>
+<p>En 1948, la Alemania occidental se convirtió en la <negrita>República
+Federal de Alemania (RFA)</negrita>. Los soviéticos cerraron las fronteras
+de la Alemania del Este y <negrita>bloquearon el Berlín oriental</negrita
+> durante un año. En 1949, la Alemania oriental se convirtió en la <negrita
+>República Democrática Alemana (RDA)</negrita>.</p>
+<p>En 1961, con el fin de evitar la continua fuga de población hacia
+la parte occidental de la ciudad, las autoridades soviéticas construyeron
+el <negrita>muro de Berlín</negrita>. Este dividió la capital desde
+aquel año y hasta 1989.</p>
+<imagen src="CS_09_06_CO_IMG02_small.jpg">
+<p>El <negrita>muro de Berlín</negrita> o “muro de la vergüenza” (1961-1989)
+fue el símbolo más claro de la división de Europa y del mundo en dos
+bloques enfrentados.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso010&amp;IdRecurso=RES-8E7BE81C0C4A4370BE90F1D4540B8F3F"
+>La Guerra Fría</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso020&amp;IdRecurso=RES-139F5ADD01F64356B5FDC353B5AD7438"
+>Los acontecimientos clave que marcan el inicio del nuevo orden mundial</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_06_CO_4707A0E9F201404F95B5F8987F196211">
+<seccion2Titulo>El bloque capitalista</seccion2Titulo>
+<seccion2Texto>
+<p>Durante la Guerra Fría, el <negrita>bloque capitalista</negrita
+> estuvo liderado por Estados Unidos, el país que después de la Segunda
+Guerra Mundial salió fortalecido y con mayor <negrita>potencial económico</negrita
+> y <negrita>militar</negrita>. Bajo su órbita se situaron los países
+de la Europa occidental y Japón.</p>
+<p>El bloque capitalista defendía la libertad de empresa, la libre
+competencia económica, el consumo y las libertades individuales.</p>
+<seccion3 id="S3_CS_09_06_CO_3AA84DD166654B2BB17A7C45F8EC5048">
+<seccion3Titulo>Estados Unidos</seccion3Titulo>
+<seccion3Texto>
+<p><negrita>Estados Unidos</negrita> se convirtió en una <negrita
+>gran potencia política</negrita>, <negrita>militar</negrita> y <negrita
+>económica</negrita> tras la Segunda Guerra Mundial. Con el fin de
+ayudar a la recuperación de la economía europea y, al mismo tiempo,
+contener el avance del comunismo, Estados Unidos, impulsó el <cursiva
+>European Recovery Program</cursiva>, más conocido como <negrita>plan
+Marshall</negrita>. Para saber más sobre este plan, puedes consultar
+la Gran Enciclopedia Planeta <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=9131854&amp;ruta=Buscador"
+>[VER]</enlace>.</p>
+<p>Por otro lado, Estados Unidos promovió en 1949 la creación de la<negrita
+> Organización del Tratado del Atlántico Norte (OTAN)</negrita>, una
+alianza internacional destinada a defender a sus Estados miembros
+(Estados Unidos, algunos países de la Europa occidental y Canadá)
+de posibles agresiones externas.</p>
+<imagen src="CS_09_06_CO_IMG03_small.jpg">
+<p>El 4 de abril de 1949 nació, ante un posible ataque soviético,
+la <negrita>Organización del Tratado del Atlántico Norte</negrita
+> (OTAN). Se trataba de una alianza militar formada por Bélgica, Canadá,
+Dinamarca, Estados Unidos, Francia, Reino Unido, Países Bajos, Islandia,
+Italia, Luxemburgo, Noruega y Portugal. Con el tiempo se fueron adhiriendo
+otros Estados.</p>
+</imagen>
+<destacado><destacadoTitulo>El maccarthismo o “caza de brujas”</destacadoTitulo>
+<destacadoTexto>
+<p>Entre 1950 y 1954, el senador republicano <negrita>Joseph R. McCarthy</negrita
+> dirigió el <negrita>Comité de Actividades Antiamericanas</negrita
+>, cuyo fin eran descubrir a los posibles comunistas que hubiese en
+Estados Unidos. La conocida como <negrita>“caza de brujas”</negrita
+> persiguió a numerosas personalidades, sobre todo de Hollywood, sospechosos
+de pertenecer al Partido Comunista o de mostrarse contrarios a la
+política estadounidense.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CS_09_06_CO_A6E8E9FAD35041CFA4A70128F5986C7D">
+<seccion3Titulo>Europa occidental</seccion3Titulo>
+<seccion3Texto>
+<p>La Segunda Guerra Mundial dejó una Europa arrasada. Gracias a los <negrita
+>créditos</negrita> estadounidenses del plan Marshall, fue posible
+la <negrita>reconstrucción</negrita> de la Europa occidental y de
+su economía, así como la creación de organizaciones europeas como
+la <negrita>Comunidad Europea del Carbón y del Acero (CECA)</negrita
+>, precedente de la <negrita>Comunidad Económica Europea (CEE)</negrita
+>.</p>
+<recuerda><recuerdaTexto>
+<p>La <negrita>Comunidad Económica Europea (CEE)</negrita> nació tras
+la firma del tratado de Roma (1957). Sus miembros fundadores fueron
+Bélgica, Países Bajos, Luxemburgo, Francia, la República Federal de
+Alemania (RFA) e Italia. El proyecto de construcción europea fue ideado,
+entre otros, por <negrita>Robert Schuman</negrita> con el fin de evitar
+que Europa se volviese a ver sumida en un horror como el de la Segunda
+Guerra Mundial.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CS_09_06_CO_E6334F7369D1409ABE3368511B4437AF">
+<seccion3Titulo>Japón</seccion3Titulo>
+<seccion3Texto>
+<p>Tras la derrota japonesa en la Segunda Guerra Mundial y la ocupación
+estadounidense del territorio nipón, Japón se vio obligado a adoptar
+una democracia de tipo occidental. A partir de ese momento, el país
+experimentó un importante <negrita>crecimiento económico</negrita
+> basado en el <negrita>desarrollo tecnológico</negrita> y en un <negrita
+>aumento de la productividad</negrita>.</p>
+<imagen src="CS_09_06_CO_IMG04_small.jpg">
+<p>El lanzamiento de bombas atómicas sobre <negrita>Hiroshima</negrita
+> y <negrita>Nagasaki</negrita> , los 6 y 9 de agosto de 1945, respectivamente
+forzó la <negrita>rendición de Japón</negrita>. El uso de estas bombas
+representó, además, un hito en la <negrita>carrera armamentística</negrita
+>. Para conmemorar este triste episodio de la historia nipona se construyó
+en Hiroshima el <negrita>Parque Memorial de la Paz</negrita>.</p>
+</imagen>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_06_CO_E255ECDEDD2C4EBD8DBF11988DDC087F">
+<seccion2Titulo>El bloque comunista</seccion2Titulo>
+<seccion2Texto>
+<p>El bloque comunista estaba formado por la <negrita>URSS</negrita
+> y los territorios sobre los que ejercía su influencia (democracias
+populares y Cuba), así como por una serie de países comunistas que
+no aceptaron la tutela soviética pero cuyo régimen se basaban en la
+ideología comunista: <negrita>Yugoslavia</negrita>, <negrita>Albania</negrita
+> y <negrita>China</negrita>.</p>
+<seccion3 id="S3_CS_09_06_CO_6EF5F19175D04DD88C0BA8BD374A82A6">
+<seccion3Titulo>La URSS</seccion3Titulo>
+<seccion3Texto>
+<p>El liderazgo de la URSS en el bloque comunista era indiscutible.
+Al igual que Estados Unidos, la Unión Soviética salió fortalecida
+de la Segunda Guerra Mundial. Se trataba de un <negrita>sistema totalitario</negrita
+> (dictadura comunista) regido por el <negrita>Partido Comunista de
+la Unión Soviética (PCUS)</negrita>. Tenía un gran <negrita>potencial
+armamentístico</negrita> y su <negrita>economía</negrita> estaba <negrita
+>dirigida</negrita> por el Estado.</p>
+<p>En respuesta al plan Marshall, las autoridades soviéticas decidieron
+crear el <negrita>Comecon</negrita> <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=6481927&amp;ruta=Buscador"
+>[VER]</enlace>, mientras que el <negrita>Pacto de Varsovia</negrita
+> <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=7470777&amp;ruta=Buscador"
+>[VER]</enlace> fue la respuesta a la OTAN.</p>
+<imagen src="CS_09_06_CO_IMG05_small.jpg">
+<p>El 14 de mayo de 1955 nació, como respuesta a la creación de la
+OTAN, el <negrita>pacto de Varsovia</negrita>. Se trataba de una alianza
+militar formada por la URSS, Albania, Hungría, Bulgaria, Rumania,
+Polonia y Checoslovaquia. La República Democrática Alemana (RDA) se
+adhirió al pacto en 1956.</p>
+</imagen>
+<p>La historia de la URSS estuvo marcada hasta 1953 por el <negrita
+>estalinismo</negrita>, un sistema totalitario dirigido por <negrita
+>Iósif Vissariónovich Stalin</negrita>. Durante este periodo, el PCUS
+controlaba todos los aspectos del Estado y de la sociedad, y cualquier
+tipo de disidencia era duramente reprimida.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso030&amp;IdRecurso=RES-C8EBC4395FA14890ABBA51EE171196EB"
+>Los bloques de poder</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_09_06_CO_366A1682E6F8455A85128A48FEC89E44">
+<seccion3Titulo>Las democracias populares</seccion3Titulo>
+<seccion3Texto>
+<p>Los Estados de Europa oriental bajo la influencia de la URSS se
+denominaron <negrita>democracias populares</negrita>. Debían seguir
+las directrices y reglas que el PCUS marcaba desde Moscú. Se trataba
+de un <negrita>sistema de partido único</negrita> que controlaba todos
+las decisiones del Estado (economía, educación, defensa, etc.) y en
+el que no existían libertades individuales. La propiedad privada era
+prácticamente inexistente.</p>
+<recuerda><recuerdaTexto>
+<p>La Unión Soviética utilizó las <negrita>democracias populares</negrita
+> para ejercer sin problemas el control sobre los países de la Europa
+oriental, que pasaron a ser <negrita>Estados satélite</negrita> de
+Rusia. Otros países comunistas, como <negrita>Yugoslavia</negrita
+>, <negrita>Albania</negrita> y <negrita>China</negrita> quedaron
+al margen de este control.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CS_09_06_CO_366A1682E6F8455A85128A48FEC88D33">
+<seccion3Titulo>La República Popular China</seccion3Titulo>
+<seccion3Texto>
+<p>Tras la victoria comunista en la guerra civil (1945-1949), el <negrita
+>Partido Comunista de China</negrita>, liderado por <negrita>Mao Zedong</negrita
+>, proclamó la <negrita>República Popular China</negrita> el 1 de
+noviembre de 1949. A partir de ese momento, se produjeron importantes
+cambios en el país. Para ello, se impulsaron las siguientes estrategias:</p>
+<listaSinNumerar>
+<listaElemento>El <negrita>Gran Salto Adelante</negrita>: iniciado
+en 1958, significó la integración de la población en comunas autosuficientes
+que englobaban agricultura e industria. </listaElemento>
+<listaElemento>La <negrita>revolución cultural</negrita>: promovida
+por Mao Zedong entre 1966 y 1976, pretendió exaltar los valores rurales
+frente a los urbanos y los valores y formas de expresión populares
+y proletarios en el arte, la política, la educación y la ciencia,
+desterrando los intereses y las formas de expresión burguesas. </listaElemento>
+</listaSinNumerar>
+<p>Así mismo, la rivalidad de China con la URSS hizo que, a nivel
+diplomático, se produjera la <negrita>ruptura chino-soviética</negrita
+> (1963) y un acercamiento de China a Estados Unidos. En 1980, <negrita
+>Deng Xiaoping</negrita> se puso al frente del gigante asiático y
+con él se inauguró una etapa de modernización basada en una <negrita
+>economía mixta</negrita> que combinaba la planificación estatal con
+el libre mercado, es decir una economía que combinaba comunismo con
+capitalismo.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso040&amp;IdRecurso=RES-F331638B14384EB69471D37C57676CAD"
+>La Revolución china</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso050&amp;IdRecurso=RES-49EBB6E05FE048288D2F89E3C63DA09B"
+>Un mundo de bloques</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso060&amp;IdRecurso=RES-8362B51B42684C53BDED4FAC4CCC1EE6"
+>Descubre la China comunista</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_09_06_CO_E5C4D256A9284FE9BB4026A496264157">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso070&amp;IdRecurso=RES-9BAF74BB1CF64134AD24FF297D7471DC"
+>Refuerza tu aprendizaje: La Guerra Fría</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_06_CO_D66B349802FF4EEF8D9147052D99B92E">
+<seccion1Titulo>Las fases de la Guerra Fría</seccion1Titulo>
+<seccion1Texto>
+<p>La Guerra Fría estuvo marcada por la <negrita>amenaza permanente</negrita
+> de un conflicto directo entre Estados Unidos y la URSS, aunque este
+nunca llegó a producirse. Sin embargo, el período puede dividirse
+en distintas fases.</p>
+<seccion2 id="S2_CS_09_06_CO_E7D5FD4802204716A0B4E85DCE9C6AB4">
+<seccion2Titulo>La época de tensión (1947-1962)</seccion2Titulo>
+<seccion2Texto>
+<p>En 1948, se produjo el <negrita>bloqueo de Berlín</negrita> por
+parte de las autoridades de la Alemania oriental. Un año después,
+los aliados crearon la <negrita>Organización del Tratado del Atlántico
+Norte (OTAN)</negrita>.</p>
+<p>Un año después también nacieron la <negrita>República Federal de
+Alemania (RFA)</negrita>, un país democrático, y la <negrita>República
+Democrática Alemana (RDA)</negrita>, gobernada por un régimen comunista.</p>
+<p>Durante esta etapa también se construyó el <negrita>muro de Berlín</negrita
+> (1961) y se produjo la <negrita>crisis de los Misiles de Cuba</negrita
+> (1962). Si quieres saber más sobre esta, visita la web Historiasiglo20 <enlace
+destino="http://www.historiasiglo20.org/GLOS/cuba1962.htm">[VER]</enlace
+>.</p>
+<recuerda><recuerdaTexto>
+<p>La <negrita>OTAN</negrita> (1949) y el <negrita>Pacto de Varsovia</negrita
+> (1955) eran <negrita>organizaciones militares</negrita> creadas
+en el marco de la Guerra Fría por el bloque capitalista y comunista,
+respectivamente. En ellas se alineaban los países satélite y los aliados
+de cada bloque y tenían como objetivo proporcionar <negrita>ayuda
+militar</negrita> a sus miembros en caso de una amenaza externa.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_06_CO_E65E31B2AF0946DEAA5290EBE323FD99">
+<seccion2Titulo>La época de distensión (1963-1975)</seccion2Titulo>
+<seccion2Texto>
+<p>La época de distensión, también conocida como de <negrita>coexistencia
+pacífica</negrita>, estuvo marcada por la llegada al frente de la
+URSS de <negrita>Nikita Serguéievich Jruschov</negrita>. Este culminó
+el proceso de <negrita>desestalinización</negrita>, es decir, propugnó
+una política partidaria de mejorar las relaciones con el bloque capitalista
+y de dar más margen de libertad a la población. Durante esta etapa,
+Estados Unidos y la URSS firmaron los <negrita>acuerdos SALT</negrita
+> (1969-1979) con el fin de poner freno a la <negrita>carrera armamentística</negrita
+>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_06_CO_FFB0251F35C849CF877BBFA4ABAFDB85">
+<seccion2Titulo>La fase final y de rearme (1975-1991)</seccion2Titulo>
+<seccion2Texto>
+<p>La etapa final de la Guerra Fría estuvo marcada por el <negrita
+>rearme</negrita> de Estados Unidos y de la URSS, que intervinieron
+en <negrita>diversos conflictos directa</negrita> o <negrita>indirectamente</negrita
+>, como la revolución islámica en Irán o en la guerra de Afganistán
+(1979-1989). En este contexto se puso en marcha el proyecto estadounidense
+de la <negrita>guerra de las galaxias</negrita>.</p>
+<p>En 1989 se produjo la caída del muro de Berlín, lo que precipitó
+dos años después el derrumbe de la URSS y con este acontecimiento
+se puso fin a la Guerra Fría.</p>
+<imagen src="CS_09_06_CO_IMG06_small.jpg">
+<p>Con la política de la <negrita>perestroika</negrita> (1985-1990)
+llevada a cabo por <negrita>Mijaíl Gorbachov</negrita>, se recuperaron
+las libertades democráticas en la URRS y se produjo un acercamiento
+con Estados Unidos. En 1989, el presidente estadounidense <negrita
+>George H. W. Bush</negrita> y Gorbachov se reunieron en la <negrita
+>cumbre de Malta</negrita>, considerada un retorno a la coexistencia
+pacífica. La disolución de la URSS en 1991 puso fin a la Guerra Fría
+y se inició una nueva era en las relaciones internacionales.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso080&amp;IdRecurso=RES-6837B87E17AC4D2B8815DFEEF8B5F884"
+>El final de la Guerra Fría</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_06_CO_818854F3892B4B7180FEDB187C80E9BG">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso090&amp;IdRecurso=RES-59333F1059324390885CC53DDC6F297B"
+>Refuerza tu aprendizaje: Las fases de la Guerra Fría</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_06_CO_64B1AB904B1A4006BD05FA200E6D5588">
+<seccion1Titulo>Los conflictos de la Guerra Fría</seccion1Titulo>
+<seccion1Texto>
+<p>Aunque el enfrentamiento entre Estados Unidos y la URSS nunca fue
+directo, ambas superpotencias intervinieron en <negrita>conflictos
+en otros países</negrita>. Esta intervención tenía un objetivo: asegurar
+su posición frente a su adversario:</p>
+<listaSinNumerar>
+<listaElemento>La primera guerra árabe-israelí (1948-1949).</listaElemento>
+<listaElemento>La guerra de Corea (1950-1953).</listaElemento>
+<listaElemento>La guerra de Vietnam (1954-1975).</listaElemento>
+<listaElemento>La crisis del canal de Suez (1956).</listaElemento>
+<listaElemento>La crisis de los Misiles de Cuba (1962).</listaElemento>
+<listaElemento>La guerra de los Seis Días (1967).</listaElemento>
+<listaElemento>La guerra del Yom Kippur (1973).</listaElemento>
+<listaElemento>La guerra de Afganistán (1979-1989).</listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>Las dictaduras latinoamericanas</destacadoTitulo>
+<destacadoTexto>
+<p>Durante las décadas de 1960 y 1970, proliferaron las <negrita>dictaduras
+militares</negrita> en <negrita>América del Sur</negrita>. El papel
+de Estados Unidos frente a estas dictaduras fue de permisividad y
+apoyo a las <negrita>políticas de represión de los dictadores</negrita
+>.</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso100&amp;IdRecurso=RES-FCAFEB1EF0794116878BEF4CA246775C"
+>Recurso M1B-02</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso110&amp;IdRecurso=RES-056416DA89724A168FE2D8534CBAA068"
+>Los conflictos de la Guerra Fría</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso120&amp;IdRecurso=RES-64CCA22F5BA1438D8309B27AB25BB327"
+>Entiende la guerra de Vietnam</enlace>
+</practica><seccion2
+id="S2_CS_09_06_CO_818854F3892B4B7180FEDB187C80H2BC">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso130&amp;IdRecurso=RES-0257C57F58F44EDD9024445899219891"
+>Refuerza tu aprendizaje: Los conflictos de la Guerra Fría</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_06_CO_4B787934E8AB44D3B8E82C3B72239561">
+<seccion1Titulo>El proceso de descolonización</seccion1Titulo>
+<seccion1Texto>
+<p>Los costos económicos que había tenido para las potencias la Segunda
+Guerra Mundial y los costos morales que implicaba la conservación
+de los imperios coloniales fueron las causas para que las potencias
+europeas concedieran la <negrita>independencia política</negrita> a
+sus colonias. Este proceso se denomina <negrita>descolonización</negrita
+> (1945-1975) y estuvo animado por:</p>
+<listaSinNumerar>
+<listaElemento>Los <negrita>movimientos nacionalistas</negrita> en
+las colonias.</listaElemento>
+<listaElemento>El apoyo de la <negrita>ONU</negrita>.</listaElemento>
+<listaElemento>El apoyo de <negrita>Estados Unidos</negrita> y de
+la <negrita>Unión Soviética</negrita>.</listaElemento>
+<listaElemento>La <negrita>conferencia de Bandung</negrita>.</listaElemento>
+</listaSinNumerar>
+<seccion2 id="S2_CS_09_06_CO_818854F3892B4B7180FEDB187C80D8AF">
+<seccion2Titulo>La independencia de las colonias en Asia</seccion2Titulo>
+<seccion2Texto>
+<p>El proceso de descolonización en Asia fue heterogéneo. Mientras
+la independencia de la India y Pakistán fue aceptada por el Reino
+Unido (1947), en otros territorios estallaron conflictos armados de
+gran escala, como sucedió en la <negrita>Indochina francesa</negrita
+>, de la que luego surgieron tres Estados: <negrita>Vietnam</negrita
+>, <negrita>Laos</negrita> y <negrita>Camboya</negrita> (1954).</p>
+<imagen src="CS_09_06_CO_IMG07_small.jpg">
+<p><negrita>Gandhi</negrita> (1869-1948) fue uno de los símbolos de
+la lucha por la <negrita>independencia de la India</negrita>. Optó
+por la <negrita>resistencia pacífica</negrita> y por la mediación
+para resolver conflictos. Es recordado como uno de los mayores precursores
+del pacifismo internacional.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_06_CO_B34755AA645040558E207EBF3D9127F3">
+<seccion2Titulo>La independencia de las colonias en África</seccion2Titulo>
+<seccion2Texto>
+<p>Uno de los hechos más destacados en la descolonización de África
+es la <negrita>guerra de la independencia de Argelia</negrita> (1958-1962).
+La independencia del África central fue, en general, <negrita>pacífica</negrita
+> y <negrita>pactada</negrita>, aunque el trazado de las fronteras
+no tuvo en cuenta las divisiones tribales y originó problemas entre
+las etnias que aún se reflejan en los graves conflictos que afectan
+al continente.</p>
+<p>Otro caso especial es el de la <negrita>República de Sudáfrica</negrita
+>, donde la población de origen inglés e impuso el <negrita>apartheid</negrita
+> (1948), un régimen basado en una estricta <negrita>segregación racial</negrita
+>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso140&amp;IdRecurso=RES-84B81D220DA94072B746F4DCA521D1D8"
+>El apartheid</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_06_CO_39714EE142DD4FDAB77E0F1BE5E27CE1">
+<seccion2Titulo>Las consecuencias de la descolonización</seccion2Titulo>
+<seccion2Texto>
+<p>La colonización y luego la posterior descolonización causaron múltiples <negrita
+>problemas</negrita> en los países que lograron tener su independencia
+una vez terminó la Segunda Guerra Mundial:</p>
+<listaSinNumerar>
+<listaElemento>Economías dependientes y desarticuladas.</listaElemento>
+<listaElemento>Inestabilidad política.</listaElemento>
+<listaElemento>Empeoramiento del nivel de vida.</listaElemento>
+<listaElemento>Catástrofes humanitarias.</listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>La aparición del Tercer Mundo</destacadoTitulo>
+<destacadoTexto>
+<p>El nacimiento del “Tercer Mundo” es la <negrita>causa final</negrita
+> de la <negrita>descolonización</negrita>. La mayoría de los <negrita
+>países descolonizados</negrita> forman parte de este y se caracterizan
+por un importante <negrita>subdesarrollo económico</negrita> y <negrita
+>social</negrita>, y una gran <negrita>dependencia</negrita> de las
+antiguas metrópolis.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso150&amp;IdRecurso=RES-BFEF31A819E247C6BA9B37B3146563CF"
+>La descolonización y el nacimiento del Tercer Mundo</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso160&amp;IdRecurso=RES-C274425A5F1F4F9EBDD5BC4D09A2EF30"
+>La descolonización</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_06_CO_818854F3892B4B7180FEDB187C80A3DK">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso170&amp;IdRecurso=RES-14BB3FFC6FBF449883A90A2272B28401"
+>Refuerza tu aprendizaje: El proceso de descolonización</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_06_CO_3E9F79EF42614C82B4E91EFA31A4F590">
+<seccion1Titulo>La economía y la sociedad en las décadas de 1960 y
+1970</seccion1Titulo>
+<seccion1Texto>
+<p>Las décadas de 1960 y 1970 estuvieron marcadas por la distensión
+entre Estados Unidos y la Unión Soviética. Pese a ello, tanto en los
+países capitalistas como en los comunistas tuvieron lugar una serie
+de transformaciones políticas, económicas y sociales.</p>
+<seccion2 id="S2_CS_09_06_CO_10CC78C45C7E465CB28B80A39E2AD990">
+<seccion2Titulo>La realidad económica y social en el bloque capitalista</seccion2Titulo>
+<seccion2Texto>
+<p>En las décadas que siguieron al fin de la Segunda Guerra Mundial,
+la realidad económica y social de los países que formaban parte del
+bloque capitalista, con Estados Unidos a la cabeza, se transformó.
+El triunfo de la economía capitalista, el auge de la sociedad de consumo,
+la construcción europea y la consolidación del Estado del bienestar
+marcaron aquella etapa.</p>
+<seccion3 id="S3_CS_09_06_CO_4A694016CBD14FD495B743AFAFCFE0E8">
+<seccion3Titulo>La economía capitalista</seccion3Titulo>
+<seccion3Texto>
+<p>Acabada la Segunda Guerra Mundial, y ante una Europa arrasada por
+el conflicto, Estados Unidos se convirtió en la <negrita>principal
+potencia económica</negrita> del mundo. Tras la <negrita>conferencia
+de Bretton Woods</negrita> (1944), el <negrita>dólar</negrita> pasó
+a ser la moneda de referencia (hasta entonces el patrón de referencia
+había sido el oro). Luego se crearon el <negrita>Fondo Monetario Internacional
+(FMI)</negrita> y el <negrita>Banco Mundial (BM)</negrita> con el
+propósito de garantizar la estabilidad del sistema monetario y ofrecer
+préstamos y ayuda económica a los países en desarrollo.</p>
+<p>Se inició un periodo de crecimiento económico continuado, favorecido
+por el <negrita>aumento de la población</negrita>, el <negrita>auge
+de la industria</negrita> y del <negrita>sector terciario</negrita
+> frente a las actividades del sector primario y el <negrita>bajo
+coste de las materias primas</negrita> y del <negrita>petróleo</negrita
+>.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_09_06_CO_532FF70079E946E3B56659D8F4D9EFA8">
+<seccion3Titulo>La sociedad de consumo</seccion3Titulo>
+<seccion3Texto>
+<p>En las décadas que siguieron al fin de la Segunda Guerra Mundial,
+se vivió en Estados Unidos y Europa occidental una etapa de crecimiento
+económico continuado. Esto contribuyó al desarrollo del <negrita>Estado
+del bienestar</negrita> en Europa, así como a la extensión de la <negrita
+>sociedad de consumo</negrita>, lo que transformó las formas de vida
+de la población.</p>
+<imagen src="CS_09_06_CO_IMG08_small.jpg">
+<p>El Estado de Bienestar tuvo un propósito: facilitar el consumo
+para que la demanda de productos mantuviera activa la oferta y, por
+lo tanto la producción de mercancías. El consumismo fue un fenómeno
+propio de aquellos años y se extiende hasta nuestros días.</p>
+</imagen>
+<p>Fue en aquella época cuando se popularizó el <negrita>uso de electrodomésticos</negrita
+>, la <negrita>televisión</negrita> llegó a los salones de la mayor
+parte de los hogares, el <negrita>cine</negrita> se convirtió en un
+gran espectáculo de masas y las clases populares comenzaban a hacer <negrita
+>turismo</negrita> y a disfrutar de sus <negrita>vacaciones pagadas</negrita
+> (logro sindical) en playas como las españolas.</p>
+<p>Durante las décadas de 1960 y 1970, también tuvo lugar un hecho
+fundamental: la <negrita>incorporación progresiva de la mujer en el
+mercado laboral</negrita>.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_09_06_CO_B03DCCDEA2464D5186861980DCBE39A8">
+<seccion3Titulo>La construcción europea</seccion3Titulo>
+<seccion3Texto>
+<p>Después de la creación de la Comunidad Económica Europea (CEE)
+en 1957, muchos países europeos solicitaron su ingreso en la organización.
+Sin embargo, los países miembros decidieron que primero era necesario
+consolidar unos objetivos comunitarios. Solo después de 1969 la CEE
+abrió las puertas a nuevas incorporaciones.</p>
+<recuerda><recuerdaTexto>
+<p>En la <negrita>primera fase de ampliación</negrita> de la <negrita
+>Comunidad Económica Europea</negrita> (1973) solo se permitió la
+integración de países con un nivel económico parecido al de los Estados
+miembros y con regímenes democráticos. En esta época se adhirieron
+a la CEE <negrita>Dinamarca</negrita>, <negrita>República de Irlanda</negrita
+> y <negrita>Reino Unido</negrita> (1973).</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CS_09_06_CO_9EC55AD205FB4381987BDB682E9AC3C1">
+<seccion3Titulo>Las revueltas y agitaciones sociales</seccion3Titulo>
+<seccion3Texto>
+<p>A pesar de la mejora general del nivel de vida en las sociedades
+occidentales, en ellas seguían existiendo profundos problemas y desigualdades.
+Es por eso que surgieron algunos movimientos sociales de protesta
+como la lucha por los derechos civiles de la población afroamericana
+de Estados Unidos, el movimiento feminista, el movimiento hippie o
+las revueltas estudiantiles de Mayo de 1968 en Francia.</p>
+<imagen src="CS_09_06_CO_IMG09_small.jpg">
+<p>En mayo de 1968 los estudiantes franceses paralizaron el país.
+Pedían más libertad e igualdad y cuestionaban los valores del consumo
+y la dominación política. En el otro lado del océano, las comunidades
+afrodescendientes de Estados Unidos luchaban por sus derechos civiles.
+Marthin Luther King fue uno de los líderes de aquel movimiento.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso180&amp;IdRecurso=RES-1824B7A6BDED49228F1824EC6F6273D7"
+>Los años 1960 y 1970</enlace>
+</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_09_06_CO_818854F3892B4B7180FEDB187C80B7DG">
+<seccion2Titulo>La realidad económica y social en el bloque comunista</seccion2Titulo>
+<seccion2Texto>
+<p>Mientras en los países del bloque occidental se produjo un triunfo
+de la economía capitalista y de los sistemas democráticos, en los
+países del bloque comunista, en cuya cabeza se encontraba la Unión
+Soviética, se impuso una economía planificada y unos regímenes totalitarios
+controlados por un partido único.</p>
+<seccion3 id="S3_CS_09_06_CO_9EC55AD205FB4381987BDB682E9AD4D2">
+<seccion3Titulo>La economía comunista</seccion3Titulo>
+<seccion3Texto>
+<p>El <negrita>comunismo</negrita> nació como un modelo político,
+económico y social alternativo al capitalismo. Este defendía la <negrita
+>desaparición de la propiedad privada</negrita>, la <negrita>planificación
+de la economía</negrita> por parte del Estado y una <negrita>distribución
+igualitaria de la riqueza</negrita> entre los trabajadores.</p>
+<p>Entre 1927 y 1959, durante el mandato de Stalin, la Unión Soviética
+aprobó una serie de <negrita>planes quinquenales</negrita> (cada cinco
+años) para estimular la economía nacional mediante una planificación
+de la producción. El Estado fijaba qué, cuánto, cómo y dónde producir,
+así como su precio. Además, la administración soviética llevaba un
+control estricto del <negrita>comercio exterior</negrita>.</p>
+<p>El Estado soviético le dio prioridad a la <negrita>industria de
+bienes de producción</negrita>, la construcción de infraestructuras
+y la explotación de recursos naturales, lo que perjudicó al sector
+primario y a la industria de consumo.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_09_06_CO_9EC55AD205FB4381987BDB682E9AE5F3">
+<seccion3Titulo>Los intentos de reforma en la Europa oriental</seccion3Titulo>
+<seccion3Texto>
+<p>Tras la muerte de <negrita>Stalin</negrita> (1953) se desencadenó
+una lucha de poder entre los distintos sectores del PCUS <negrita
+>(Partido Comunista de la Unión Soviética)</negrita>. Como resultado
+de estos enfrentamientos internos se fue imponiendo una <negrita>nueva
+línea política</negrita> partidaria de mejorar las relaciones con
+el bloque occidental y de conceder más libertades a la población.
+Es lo que se ha llamado el proceso de <negrita>desestalinización</negrita
+>.</p>
+<p>En esta misma época, en los países de la Europa oriental tuvieron
+lugar algunos movimientos que reclamaban una apertura de sus regímenes.
+En 1956 fueron aplastadas las <negrita>revueltas de Polonia</negrita
+> y <negrita>Hungría</negrita>, mientras que en 1968 lo fue la llamada <negrita
+>Primavera de Praga</negrita> (Checoslovaquia).</p>
+<imagen ampliable="no" src="CS_09_06_CO_IMG10_small.jpg">
+<p>En 1968 el régimen checoslovaco trató de impulsar la apertura del
+país y la democratización del régimen. Sin embargo, el 20 de agosto
+de 1968 los tanques soviéticos aplastaron aquel intento que se conoció
+como la <negrita>Primavera de Praga</negrita>.</p><?Pub Caret -2?>
+</imagen>
+<p>En la década de 1980, el sistema soviético parecía agotado. En
+1985 <negrita>Mijaíl Gorbachov</negrita> accedió al poder y puso en
+marcha una serie de reformas encaminadas a liberalizar el sistema.
+Estas políticas recibieron el nombre de <negrita>perestroika</negrita
+> (“reestructuración”). El final del bloque comunista llegó con la <negrita
+>caída del muro de Berlín</negrita> (1989), lo que aceleró el <negrita
+>hundimiento de la URSS</negrita> (1991).</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_06_CO_818854F3892B4B7180FEDB187C80J4EF">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso190&amp;IdRecurso=RES-1565DAB40E094CD0B90200A92F556ABE"
+>Refuerza tu aprendizaje: La economía y la sociedad en los 60 y 70</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_06_CO_2A86BCFBA0054F84B745E0E7E370710A">
+<seccion1Titulo>La crisis del petróleo</seccion1Titulo>
+<seccion1Texto>
+<p>En 1973, como represalia de los países árabes por la ayuda prestada
+por las potencias occidentales a <negrita>Israel</negrita> como respuesta
+a los ataques de Egipto y Siria durante la celebración del Yom Kippur,
+la <negrita>Organización de Países Exportadores de Petróleo (OPEP)</negrita
+> anunció una subida del precio del barril de crudo. En poco tiempo
+el petróleo pasó de 2,5 a 10 dólares. Este hecho hizo temblar los
+cimientos del <negrita>crecimiento occidental</negrita> y provocó
+una grave <negrita>crisis económica</negrita>, especialmente en Europa.</p>
+<table border="1"><caption>El mundo después de la Segunda Guerra Mundial</caption>
+<colgroup><col width="23*"/><col width="75*"/></colgroup>
+<tbody>
+<tr>
+<td align="center">CRONOLOGÍA</td>
+<td align="center">PRINCIPALES HITOS</td>
+</tr>
+<tr>
+<td>1947</td>
+<td>El plan Marshall.<br/>La independencia de la India.</td>
+</tr>
+<tr>
+<td>1948</td>
+<td>El bloqueo de Berlín.<br/>La creación del Estado de Israel.</td>
+</tr>
+<tr>
+<td>1949</td>
+<td>La creación de la OTAN.</td>
+</tr>
+<tr>
+<td>1953</td>
+<td>La muerte de Stalin.</td>
+</tr>
+<tr>
+<td>1955</td>
+<td>La creación del Pacto de Varsovia.</td>
+</tr>
+<tr>
+<td>1956</td>
+<td>La crisis del canal de Suez.</td>
+</tr>
+<tr>
+<td>1957</td>
+<td>El tratado de Roma. <br/>Nacimiento de la Comunidad Económica
+Europea (CEE).</td>
+</tr>
+<tr>
+<td>1961</td>
+<td>La construcción del muro de Berlín.</td>
+</tr>
+<tr>
+<td>1962</td>
+<td>La crisis de los Misiles de Cuba.</td>
+</tr>
+<tr>
+<td>1969</td>
+<td>La llegada del hombre a la Luna.</td>
+</tr>
+<tr>
+<td>1973</td>
+<td>La crisis del petróleo.</td>
+</tr>
+<tr>
+<td>1975</td>
+<td>El fin de la guerra de Vietnam.</td>
+</tr>
+<tr>
+<td>1985</td>
+<td>Mijaíl Gorbachov, secretario general del PCUS.</td>
+</tr>
+<tr>
+<td>1989</td>
+<td>La caída del muro de Berlín.</td>
+</tr>
+<tr>
+<td>1991</td>
+<td>El fin de la URSS.</td>
+</tr>
+</tbody>
+</table>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso200&amp;IdRecurso=RES-79DB5672978D4325873AD1F485BFFC45"
+>Cronología: el mundo tras la Segunda Guerra Mundial</enlace>
+</practica><seccion2
+id="S2_CS_09_06_CO_818854F3892B4B7180FEDB187C80G6DK">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso210&amp;IdRecurso=RES-2FC7DFD6F99B4AA7BD1A7AF6D75C6A44"
+>Refuerza tu aprendizaje: La crisis del petróleo</enlace>
+</profundiza></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_06_CO_75F820BCB17B45798C483353A81F1BDF">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso220&amp;IdRecurso=RES-FBD7DC48760B4DE5876A051EA0768E75"
+>Competencias: estudio sobre la crisis del petróleo de 1973</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso230&amp;IdRecurso=RES-55C6EBE389824765A466E7AAF4164703"
+>Proyecto: análisis de los efectos de la descolonización</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_09_06_CO_B372F9046AE84A29A844C52E12F08CE8"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso250&amp;IdRecurso=RES-3FF57323D93B4645B9D926CE75F96200"
+>Mapa conceptual del tema El mundo después de la Segunda Guerra Mundial</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso260&amp;IdRecurso=RES-2DA135D4F35B49B1B5A5EC864F884952"
+>Evalúa tus conocimientos sobre el tema El mundo después de la Segunda
+Guerra Mundial</enlace></autoevaluate><enlacesreferencia>
+<enlace
+destino="http://especiales.ideal.es/caida-bloque-este/guerra-fria/guerra-fria.html"
+>La Segunda Guerra Mundial y sus consecuencias, secuencia didáctica
+en la que se ofrece información sobre este conflicto y el periodo
+conocido como Guerra Fría, ofrecida por el Proyectos Kairós, del Instituto
+Nacional de Tecnologías Educativas y de Formación del Profesorado
+(Ministerio de Educación, Cultura y Deporte).</enlace>
+<enlace>La caída del bloque de Este, especial del periódico El Ideal.</enlace>
+<enlace destino="http://www.historiasiglo20.org/GF/descolonizacion.htm"
+>La descolonización, material diverso para poder comprender las claves
+del proceso de descolonización vivido en África y Asia ofrecido por
+la página HistoriaSiglo20.</enlace>
+</enlacesreferencia></masinformacion></libro>
