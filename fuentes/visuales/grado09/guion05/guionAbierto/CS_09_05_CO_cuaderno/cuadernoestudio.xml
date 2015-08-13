@@ -1,515 +1,475 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_09_05_CO">
-  <libroTitulo>La Segunda Guerra Mundial</libroTitulo>
-  <seccion1 id="S1_CS_09_05_CO_BF92F69F93F644D38CBA9C5C28166361">
-    <seccion1Titulo>Los orígenes y antecedentes del conflicto</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_05_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso010&amp;IdRecurso=RES-97739F3DBF474A5CBB0D72844ACE5A12">Las causas de la guerra</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_05_CO_img_02_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso020&amp;IdRecurso=RES-E9A701F02D8D4C00914289B4FC1CAF37">Recurso M2C-01</enlace>
-      </practica>
-      <seccion2 id="S2_CS_09_05_CO_204B12797CCA48DEAE594D775617915B">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_05_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso030&amp;IdRecurso=RES-2D2432ADFC934EBE8E06CB366EB7E6FE">Refuerza tu aprendizaje: Los orígenes del conflicto</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_05_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso050&amp;IdRecurso=RES-E18E145E7C954B4994FBB91A690A0D5E">Refuerza tu aprendizaje: El estallido del conflicto</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_05_CO_img_08_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso080&amp;IdRecurso=RES-87EB2E49EAA74BEFBD68BDB390C7AF82">Refuerza tu aprendizaje: Los bandos del conflicto</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_05_CO_EF906A545496436C81FD684D972D3ED5">
-    <seccion1Titulo>El estallido del conflicto</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_05_CO_img_04_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso040&amp;IdRecurso=RES-BCEADA1CC919453B883E30D8C0E16D8B">Recurso F6B-01</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_05_CO_F140C701B73A4EE4B190C2C1C0FB387A">
-    <seccion1Titulo>Los bandos del conflicto</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_05_CO_img_06_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso060&amp;IdRecurso=RES-706FF87515CF4016B0107076CBFC0E41">Los contendientes</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_05_CO_img_07_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso070&amp;IdRecurso=RES-D9EC41E8C1C44C06A6FD48DB2349F363">Recurso M1D-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_05_CO_05A673B44D164D8BB540D7A060C3F7FC">
-    <seccion1Titulo>El desarrollo del conflicto</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_09_05_CO_02C23DE057044DE28712151771B96418">
-        <seccion2Titulo>La guerra-relámpago (1939-1941)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_05_CO_img_09_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_05_CO_761AACF03AC64037BEC4FE940ED9E446">
-        <seccion2Titulo>La contraofensiva aliada (1942-1943)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_05_CO_img_10_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_05_CO_AC4A302ECE7949E6A36EA5F96BE205BB">
-        <seccion2Titulo>La ofensiva aliada y la derrota del Eje (1943-1945)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_05_CO_img_11_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso090&amp;IdRecurso=RES-36DFE19B78C546C09BE8A30677ECEB37">El desarrollo del conflicto</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_05_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso100&amp;IdRecurso=RES-781F4A03849644DE8D7C248879C6B207">Entiende el desarrollo de la Segunda Guerra Mundial en Europa</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_05_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso110&amp;IdRecurso=RES-92A5DE17EE0E470D913CC52ABE723C9B">Refuerza tu aprendizaje: El desarrollo del conflicto</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_05_CO_46BED2905D4647758F7901EF20DE6A60">
-    <seccion1Titulo>Las consecuencias del conflicto</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_09_05_CO_7495A971050F4F83852E2D61B7E2B598">
-        <seccion2Titulo>Las pérdidas humanas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_09_05_CO_E4E38668FB414E1EAA6658F3086A5F94">
-            <seccion3Titulo>El genocidio judío</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_05_CO_img_14_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso120&amp;IdRecurso=RES-5E97AA41EF2E4DD7B16E9F89FB086C72">Conoce qué fue el genocidio judío</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_05_CO_516B2E29FC7545D3917618CCB488EDC0">
-        <seccion2Titulo>Las consecuencias económicas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_05_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso130&amp;IdRecurso=RES-1ECF10051EB743DFB9ECF4F816E99E59">Recurso F6-01</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_05_CO_6E18DE9FF7374F5690C2648913DCB9CF">
-        <seccion2Titulo>Los cambios políticos y territoriales</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_05_CO_img_16_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso140&amp;IdRecurso=RES-9DD3C445403D4AEE9A6FA570D5542C22">El final de la guerra y sus consecuencias</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_05_CO_img_17_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso150&amp;IdRecurso=RES-BED440702D624BAB9807A4EBC76F9BFF">Identifica los hechos clave en la Segunda Guerra Mundial</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_05_CO_img_18_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso160&amp;IdRecurso=RES-9848631CA53045FDA9921615B99836E6">Refuerza tu aprendizaje: Las consecuencias del conflicto</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_05_CO_img_21_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso190&amp;IdRecurso=RES-57FD4496E444460382018CA682BD2ECD">Refuerza tu aprendizaje: La creación de la ONU</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_05_CO_F70D84D8418B44C294B03C74536D5B5C">
-    <seccion1Titulo>La creación de la ONU</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_05_CO_img_19_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso170&amp;IdRecurso=RES-984F323A104D46BCB84CCFFC33CB21E3">Cronología: la Segunda Guerra Mundial</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_05_CO_img_20_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso180&amp;IdRecurso=RES-C8C930F4258A4FA48D5D869A550B275A">Recurso M1B-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_05_CO_5B6A8ADD5E20442F9FF6FA767D378FE1">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_05_CO_img_22_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso200&amp;IdRecurso=RES-20D248263F234ED8BC6BCDC378BFF3AC">Competencias: análisis del testimonio de una víctima del genocidio</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_05_CO_img_23_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso210&amp;IdRecurso=RES-CC73C3988916473AA43D3919B8723A56">Proyecto: estudio de la Segunda Guerra Mundial en el Pacífico</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_09_05_CO_FC67152FBBE7462E9FA68EE03899C3D9">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso230&amp;IdRecurso=RES-407B6F3ECE0445E9AECEE8B8AFB6B973">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso240&amp;IdRecurso=RES-C0D24E8107454DD6BD5DCE74E6F23B3B">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>La Segunda Guerra Mundial</libroTitulo>
+<seccion1 id="S1_CS_09_05_CO_BF92F69F93F644D38CBA9C5C28166361">
+<seccion1Titulo>Los orígenes y antecedentes del conflicto</seccion1Titulo>
+<seccion1Texto>
+<p>La Segunda Guerra Mundial fue el conflicto más importante del siglo
+XX y uno de los más relevantes de toda la historia de la humanidad.
+Estudiar este conflicto bélico nos permitirá entender muchos de los
+fenómenos y dinámicas que han determinado la historia de la segunda
+mitad del siglo XX y nos ayudará a comprender mejor algunos aspectos
+claves del mundo actual.</p>
+<imagen src="CS_09_05_CO_IMG01_small.jpg">
+<p>El inicio del <negrita>expansionismo agresivo</negrita> de la Alemania
+nazi hizo evidente la proximidad de un grave conflicto armado. El <negrita
+>III Reich</negrita> abandonó la Sociedad de Naciones en 1933. Tras
+esto, se anexionó distintos territorios ocupados por población de
+lengua alemana: Austria (cuya unión con Alemania se denominó <negrita
+>Anschluss</negrita>), los Sudetes (territorio checo con importante
+población alemana), etc.</p>
+</imagen>
+<p>Durante la década de 1930 se pusieron de manifiesto una serie de
+problemas que pueden considerarse los antecedentes de la Segunda Guerra
+Mundial:</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>crisis económica</negrita>: el crack de
+1929 desencadenó una profunda crisis económica que tuvo graves consecuencias
+a nivel político y social.</listaElemento>
+<listaElemento>El <negrita>auge del fascismo</negrita> y el <negrita
+>expansionismo agresivo</negrita>: la inestabilidad social y política
+que vivía Europa en la década de 1930 fue aprovechada por los regímenes
+fascistas para la construcción de Estados totalitarios sobre la base
+del nacionalismo extremo y el expansionismo territorial.</listaElemento>
+<listaElemento>La <negrita>crisis del sistema liberal</negrita>: la
+debilidad de las democracias occidentales y su incapacidad para enfrentarse
+al auge de los extremismos políticos dio vía libre al expansionismo
+alemán.</listaElemento>
+<listaElemento>El <negrita>fracaso de la Sociedad de Naciones</negrita
+>: creada después de la Primera Guerra Mundial (1914-1918), se mostró
+inoperante para resolver cuestiones de territorialidad y soberanía.</listaElemento>
+</listaSinNumerar>
+<recuerda><recuerdaTexto>
+<p>Hasta 1924, Alemania sufrió una situación económica muy grave con
+un gran número de desempleados y una hiperinflación. Tras una leve
+mejora en torno a 1925, el crack bursátil de Nueva York (1929) volvió
+a sacudir al país. El descontento popular ante la grave situación
+favoreció el ascenso al poder del nazismo en 1933.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso010&amp;IdRecurso=RES-97739F3DBF474A5CBB0D72844ACE5A12"
+>Las causas de la guerra</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso020&amp;IdRecurso=RES-E9A701F02D8D4C00914289B4FC1CAF37"
+>Los orígenes de la Segunda Guerra Mundial</enlace>
+</practica><seccion2
+id="S2_CS_09_05_CO_204B12797CCA48DEAE594D775617915B">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso030&amp;IdRecurso=RES-2D2432ADFC934EBE8E06CB366EB7E6FE"
+>Refuerza tu aprendizaje: Los orígenes del conflicto</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_05_CO_EF906A545496436C81FD684D972D3ED5">
+<seccion1Titulo>El estallido del conflicto</seccion1Titulo>
+<seccion1Texto>
+<p>Desde la llegada de <negrita>Adolf Hitler</negrita> al poder (1933),
+la política exterior alemana se definió por su <negrita>expansionismo
+agresivo</negrita>. El III Reich se anexionó distintos territorios,
+mientras las democracias europeas, temerosas del estallido de un conflicto
+armado, quisieron adelantar una <negrita>política de apaciguamiento</negrita
+>. Esta, en definitiva, se concretaba en dejar hacer al líder nazi,
+pero las consecuencias fueron terribles.</p>
+<destacado><destacadoTitulo>El pacto germano-soviético</destacadoTitulo>
+<destacadoTexto>
+<p>En 1939, Alemania firmó un <negrita>tratado de no agresión</negrita
+> con el gobierno ruso conocido como el <negrita>pacto germano-soviético</negrita
+> o <negrita>pacto Ribbentrop-Mólotov</negrita>, por los nombres de
+los ministros de cada país que lo firmaron. En el documento existían
+unas cláusulas secretas en las que ambos países acordaban el <negrita
+>futuro reparto de Polonia</negrita>.</p><?Pub Caret -2?>
+</destacadoTexto></destacado>
+<p>El <negrita>1 de septiembre de 1939</negrita>, las tropas alemanas
+iniciaron la <negrita>invasión de Polonia</negrita>. Dos días después,
+el Reino Unido y Francia le declararon la guerra a Alemania. Esto
+dio inicio al <negrita>estallido del conflicto</negrita>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso040&amp;IdRecurso=RES-BCEADA1CC919453B883E30D8C0E16D8B"
+>El pacto germano-soviético</enlace>
+</profundiza><seccion2
+id="S2_CS_09_05_CO_204B12797CCA48DEAE594D775617126C">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso050&amp;IdRecurso=RES-E18E145E7C954B4994FBB91A690A0D5E"
+>Refuerza tu aprendizaje: El estallido del conflicto</enlace>
+</profundiza></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_05_CO_F140C701B73A4EE4B190C2C1C0FB387A">
+<seccion1Titulo>Los bandos del conflicto</seccion1Titulo>
+<seccion1Texto>
+<p>El estallido de la Segunda Guerra Mundial llevó a la formación
+de <negrita>dos bandos enfrentados</negrita>:</p>
+<listaSinNumerar>
+<listaElemento>Las <negrita>potencias del Eje</negrita>: <negrita
+>Alemania</negrita>, <negrita>Italia</negrita> y <negrita>Japón</negrita
+>, que desarrollaron políticas expansionistas sobre Europa, África
+y Asia.</listaElemento>
+<listaElemento>Las <negrita>potencias aliadas</negrita>: <negrita
+>Francia</negrita>, <negrita>Reino Unido</negrita>, la <negrita>URSS</negrita
+> y <negrita>Estados Unidos</negrita>, que se unieron contra el <negrita
+>fascismo</negrita>.</listaElemento>
+</listaSinNumerar>
+<p>En un principio, la guerra se limitó al enfrentamiento entre Alemania
+(líder de las fuerzas del Eje) y el Reino Unido y Francia (líderes
+de las fuerzas aliadas). A medida que evolucionó el conflicto, se
+fueron incorporando otros contendientes: Italia y Japón se alinearon
+con el III Reich, mientras que Estados Unidos y la URSS se sumaron
+al bando aliado.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso060&amp;IdRecurso=RES-706FF87515CF4016B0107076CBFC0E41"
+>Los contendientes</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso070&amp;IdRecurso=RES-D9EC41E8C1C44C06A6FD48DB2349F363"
+>Los países enfrentados en el conflicto</enlace>
+</practica><seccion2
+id="S2_CS_09_05_CO_204B12797CCA48DEAE594D775617237D">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso080&amp;IdRecurso=RES-87EB2E49EAA74BEFBD68BDB390C7AF82"
+>Refuerza tu aprendizaje: Los bandos del conflicto</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_05_CO_05A673B44D164D8BB540D7A060C3F7FC">
+<seccion1Titulo>El desarrollo del conflicto</seccion1Titulo>
+<seccion1Texto>
+<p>La Segunda Guerra Mundial fue un conflicto muy largo, duró seis
+años, y durante ese tiempo la contienda pasó por distintas fases.</p>
+<seccion2 id="S2_CS_09_05_CO_02C23DE057044DE28712151771B96418">
+<seccion2Titulo>La guerra-relámpago (1939-1941)</seccion2Titulo>
+<seccion2Texto>
+<p>En esta etapa se produjo la rápida <negrita>invasión alemana de
+Europa occidental</negrita>, lo que permite hablar de <negrita>guerra-relámpago</negrita
+> o <negrita>Blitzkrieg</negrita>. Además, las fuerzas aéreas alemanas
+y británicas se enfrentaron en la <negrita>batalla de Inglaterra</negrita
+> (1940), se inició la <negrita>invasión alemana de la URSS</negrita
+> y se produjo el <negrita>ataque japonés a Pearl Harbor</negrita
+> (1942). La URSS y Estados Unidos entraron en la guerra.</p>
+<imagen src="CS_09_05_CO_IMG02_small.jpg">
+<p>El avance de las tropas alemanas fue imparable hasta el año 1942.
+Tras la rápida <negrita>invasión de Polonia</negrita> (septiembre
+de 1939), Alemania se lanzó a la conquista de la <negrita>Europa occidental</negrita
+>, donde solo pudo resistir el <negrita>Reino Unido</negrita> (1940).
+Por su lado, en el <negrita>frente oriental</negrita> los alemanes
+iniciaron la conquista de la <negrita>URSS</negrita> (1941).</p>
+</imagen>
+<destacado><destacadoTitulo>La Francia de Vichy</destacadoTitulo>
+<destacadoTexto>
+<p>Francia no pudo hacer nada para detener el rápido avance alemán
+al comienzo de la guerra. En junio de 1940, el gobierno firmó un <negrita
+>armisticio</negrita> con Alemania. Luego de ello, Francia quedó dividida
+en dos partes: una bajo control alemán, en el norte, y otra, en el
+sur, controlada por el gobierno colaboracionista <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=6477127&amp;ruta=Buscador"
+>[VER]</enlace> del mariscal <negrita>Philippe Pétain</negrita>. Su
+sede se encontraba en <negrita>Vichy</negrita>.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_05_CO_761AACF03AC64037BEC4FE940ED9E446">
+<seccion2Titulo>La contraofensiva aliada (1942-1943)</seccion2Titulo>
+<seccion2Texto>
+<p>El avance de las tropas alemanas en la primera mitad de 1942 fue
+imparable y el conflicto se extendió a otros puntos del planeta (la
+URSS, África del Norte, océano Pacífico, etc.).</p>
+<imagen src="CS_09_05_CO_IMG03_small.jpg">
+<p>Aprovechando la situación en Europa, Italia atacó el Imperio colonial
+británico en el <negrita>norte de África</negrita>. Después de sucesivas
+derrotas, Alemania intervino para ayudar a Italia. Hitler envió un
+cuerpo expedicionario comandado por el general <negrita>Erwin Rommel</negrita
+>, los <cursiva>Afrika Korps</cursiva>, cuya misión fue combatir junto
+al ejército italiano las fuerzas británicas. Rommel fue derrotado
+en la batalla del Al-Alamain (1942) por los británicos, lo que significó
+el fin de la expansión alemana en el norte de África.</p>
+</imagen>
+<p>El avance alemán en Rusia fue detenido por los ejércitos soviéticos
+en la <negrita>batalla de Stalingrado</negrita> (1943), lo que permitió
+iniciar la contraofensiva aliada desde el frente oriental.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_05_CO_AC4A302ECE7949E6A36EA5F96BE205BB">
+<seccion2Titulo>La ofensiva aliada y la derrota del Eje (1943-1945)</seccion2Titulo>
+<seccion2Texto>
+<p>Tras la recuperación de África del Norte, se produjo el <negrita
+>desembarco de Sicilia</negrita> (julio-agosto de 1943). Esto supuso
+el comienzo de la conquista aliada de Italia. En noviembre, tuvo lugar
+la <negrita>conferencia de Teherán</negrita>, donde los aliados acordaron
+el desembarco de Normandía (6 de junio de 1944).</p>
+<p>Si quieres saber más sobre el desembarco de Normandía, consulta
+la información que ofrece la web del Instituto Nacional de Tecnologías
+Educativas y de Formación del Profesorado (INTEF) <enlace
+destino="http://alerce.pntic.mec.es/~pong0000/44-normandia.htm">[VER]</enlace
+>.</p>
+<p>A partir de ese momento, las tropas angloestadounidenses iniciaron
+el avance hacia Berlín desde el frente occidental, mientras que los
+rusos avanzaban desde el frente oriental. Las fuerzas del Eje quedaron
+cercadas por el <negrita>avance aliado en Europa</negrita> y el <negrita
+>avance estadounidense en el Pacífico</negrita>.</p>
+<imagen ampliable="no" src="CS_09_05_CO_IMG04_small.jpg">
+<p>En febrero de 1945, se celebró la conferencia de Yalta, donde las
+potencias aliadas acordaron el reparto de Europa en zonas de influencia.
+También programaron el ataque final sobre la capital alemana.</p>
+</imagen>
+<p>La guerra acabó en Europa tras la caída de Berlín en mayo de 1945.
+Algunos meses después (julio-agosto), se celebró la <negrita>conferencia
+de Potsdam</negrita>, en la que las potencias aliadas acordaron la <negrita
+>división de Alemania</negrita> en <negrita>cuatro zonas de influencia</negrita
+> controladas por Estados Unidos, Reino Unido, la URSS y Francia.</p>
+<p>Por su lado, la guerra en el Pacífico acabó tras el lanzamiento
+de las <negrita>bombas atómicas</negrita> sobre las ciudades japonesas
+de <negrita>Hiroshima</negrita> y <negrita>Nagasaki</negrita> (agosto
+de 1945). El ataque estadounidense obligó a Japón a rendirse de forma
+incondicional.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso090&amp;IdRecurso=RES-36DFE19B78C546C09BE8A30677ECEB37"
+>El desarrollo del conflicto</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso100&amp;IdRecurso=RES-781F4A03849644DE8D7C248879C6B207"
+>Entiende el desarrollo de la Segunda Guerra Mundial en Europa</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_05_CO_7495A971050F4F83852E2D61B7E2C619">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso110&amp;IdRecurso=RES-92A5DE17EE0E470D913CC52ABE723C9B"
+>Refuerza tu aprendizaje: El desarrollo del conflicto</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_05_CO_46BED2905D4647758F7901EF20DE6A60">
+<seccion1Titulo>Las consecuencias del conflicto</seccion1Titulo>
+<seccion1Texto>
+<p>La Segunda Guerra Mundial se dio por concluida tras la rendición
+japonesa el 14 de agosto de 1945. Las consecuencias del conflicto
+fueron terribles, sobre todo a nivel humano y económico.</p>
+<seccion2 id="S2_CS_09_05_CO_7495A971050F4F83852E2D61B7E2B598">
+<seccion2Titulo>Las pérdidas humanas</seccion2Titulo>
+<seccion2Texto>
+<p>La guerra dejó cerca de <negrita>50 millones de muertos</negrita
+> y un número indeterminado de heridos, mutilados, huérfanos y desplazados.
+Es destacable, también, el hecho de que la mayoría de las víctimas
+eran <negrita>civiles</negrita> que no participaron en la lucha armada.
+A ello se sumó el <negrita>genocidio judío</negrita>, que representó
+un fuerte <negrita>impacto moral</negrita>.</p>
+<seccion3 id="S3_CS_09_05_CO_E4E38668FB414E1EAA6658F3086A5F94">
+<seccion3Titulo>El genocidio judío</seccion3Titulo>
+<seccion3Texto>
+<p>El III Reich creó durante la Segunda Guerra Mundial una serie de
+centros de detención destinados a encarcelar a los <negrita>opositores</negrita
+> al régimen nazi (comunistas, socialistas, sindicalistas, etc.).
+Luego vinieron <negrita>campos de concentración</negrita>, <negrita
+>campos de trabajos forzados</negrita> y <negrita>campos de prisioneros</negrita
+>.</p>
+<p>Por otro lado, también deben tenerse en cuenta los <negrita>campos
+de exterminio</negrita>, donde las autoridades nazis aplicaron la
+llamada <negrita>“solución final”</negrita>. Esta “solución” implicaba,
+según la ideología nazi, el exterminio de todos aquellos grupos étnicos
+o minorías considerados inferiores a la <negrita>raza aria</negrita
+>, en especial los <negrita>judíos</negrita> (también a gitanos, homosexuales,
+etc.). Para ello, utilizaron las cámaras de gas.</p>
+<imagen src="CS_09_05_CO_IMG05_small.jpg">
+<p>El <negrita>genocidio judío</negrita> fue la persecución y el <negrita
+>asesinato sistemático</negrita> que sufrieron en torno a seis <negrita
+>millones de judíos</negrita> por parte del régimen nazi bajo el pretexto
+de que eran una raza inferior que amenazaba la pureza aria. En ocasiones
+también se hace referencia a este proceso como el <negrita>holocausto</negrita
+> (sacrificio).</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso120&amp;IdRecurso=RES-5E97AA41EF2E4DD7B16E9F89FB086C72"
+>Conoce qué fue el genocidio judío</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_09_05_CO_516B2E29FC7545D3917618CCB488EDC0">
+<seccion2Titulo>Las consecuencias económicas</seccion2Titulo>
+<seccion2Texto>
+<p>Tras la guerra, la <negrita>destrucción</negrita> que habían sufrido
+las ciudades y todas las infraestructuras necesarias para el desarrollo
+normal de los países provocó una drástica <negrita>disminución de
+la capacidad de producción</negrita> y una gran necesidad de reconstrucción
+que los países, empobrecidos a causa del conflicto, no podían asumir.
+En ese sentido, fue imprescindible la <negrita>ayuda económica</negrita
+> prestada por Estados Unidos mediante el <negrita>plan Marshall</negrita
+> (1947).</p>
+<destacado><destacadoTitulo>El plan Marshall</destacadoTitulo>
+<destacadoTexto>
+<p>El <negrita>plan Marshall</negrita> fue el nombre con el que se
+conoció al <negritacursiva>European Recovery Program</negritacursiva
+> (Programa de Recuperación Europea). Este tenía como objetivo prestar <negrita
+>apoyo económico</negrita> a los países europeos para su reconstrucción.
+Así, Estados Unidos impedía la insolvencia de los países de Europa,
+la cual hubiera tenido consecuencias negativas para su economía y,
+a la vez, era un sistema de <negrita>contención del comunismo</negrita
+> ya que favorecía la <negrita>consolidación de regímenes democráticos</negrita
+> como condición necesaria para recibir los préstamos.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso130&amp;IdRecurso=RES-1ECF10051EB743DFB9ECF4F816E99E59"
+>El plan Marschall</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_05_CO_6E18DE9FF7374F5690C2648913DCB9CF">
+<seccion2Titulo>Los cambios políticos y territoriales</seccion2Titulo>
+<seccion2Texto>
+<p>A nivel político-territorial, las potencias vencedoras acordaron
+la <negrita>desmilitarización de Alemania</negrita> y su división
+en <negrita>zonas de influencia</negrita>. También se celebraron los
+juicios del proceso de <negrita>Nuremberg</negrita> contra los dirigentes
+nazis, acusados de crímenes contra la humanidad.</p>
+<p>Si quieres saber más sobre el proceso de Nuremberg, puedes consultar
+la web Artehistoria <enlace
+destino="http://www.artehistoria.jcyl.es/v2/contextos/4289.htm">[VER]</enlace
+>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso140&amp;IdRecurso=RES-9DD3C445403D4AEE9A6FA570D5542C22"
+>El final de la guerra y sus consecuencias</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso150&amp;IdRecurso=RES-BED440702D624BAB9807A4EBC76F9BFF"
+>Identifica los hechos clave en la Segunda Guerra Mundial</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_05_CO_6E18DE9FF7374F5690C2648913DCC1DG">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso160&amp;IdRecurso=RES-9848631CA53045FDA9921615B99836E6"
+>Refuerza tu aprendizaje: Las consecuencias del conflicto</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_05_CO_F70D84D8418B44C294B03C74536D5B5C">
+<seccion1Titulo>La creación de la ONU</seccion1Titulo>
+<seccion1Texto>
+<p>Durante la guerra y, en vista de los desastres que provocó, los
+países aliados vieron la necesidad de crear un <negrita>organismo
+internacional</negrita> que reemplazara la obsoleta Sociedad de Naciones <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=7511685&amp;ruta=Buscador"
+>[VER]</enlace>.</p>
+<p>En junio de 1945, se celebró la <negrita>conferencia de San Francisco</negrita
+>, donde nació la <negrita>Organización de las Naciones Unidas (ONU)</negrita
+> con la misión de sustituir a la <negrita>Sociedad de Naciones</negrita
+> y velar por la <negrita>paz mundial</negrita>.</p>
+<recuerda><recuerdaTexto>
+<p>Las principales instituciones de la ONU son:</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>Asamblea General</negrita>: es un órgano
+deliberativo. Se reúne una vez al año.</listaElemento>
+<listaElemento>El <negrita>Consejo de Seguridad</negrita>: se encarga
+del mantenimiento de la paz y está compuesto por quince miembros,
+cinco de ellos permanentes y con derecho a veto (Rusia, China, Francia,
+Estados Unidos y Reino Unido).</listaElemento>
+<listaElemento>La <negrita>Secretaría General</negrita>: atiende las
+necesidades de los diferentes organismos que dependen de la ONU y
+pone en práctica sus políticas.</listaElemento>
+<listaElemento>El <negrita>Tribunal Internacional de Justicia</negrita
+>: tribunal con jurisdicción sobre los Estados miembros de la ONU.</listaElemento>
+</listaSinNumerar>
+</recuerdaTexto></recuerda>
+<table border="1"><caption>La Segunda Guerra Mundial</caption><colgroup
+width="10*"></colgroup><colgroup width="46*"></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>CRONOLOGÍA</negrita></td>
+<td align="center"><negrita>PRINCIPALES HITOS</negrita></td>
+</tr>
+<tr>
+<td>1939</td>
+<td>La invasión alemana de Polonia (1 de septiembre). El inicio del
+conflicto (3 de septiembre).</td>
+</tr>
+<tr>
+<td>1940</td>
+<td>La ocupación alemana de Europa occidental (abril-junio). La batalla
+de Inglaterra (julio-octubre).</td>
+</tr>
+<tr>
+<td>1941</td>
+<td>El inicio de la invasión alemana de la URSS (junio). El ataque
+japonés a Pearl Harbour. Entrada de EUA en el conflicto (diciembre).</td>
+</tr>
+<tr>
+<td>1942</td>
+<td>El desembarco aliado en África del Norte.</td>
+</tr>
+<tr>
+<td>1943</td>
+<td>La victoria soviética en la batalla de Stalingrado (febrero).
+El desembarco aliado en el sur de Italia (agosto).</td>
+</tr>
+<tr>
+<td>1944</td>
+<td>El desembarco de Normandía (junio).</td>
+</tr>
+<tr>
+<td>1945</td>
+<td>La caída de Berlín (mayo). Fin del conflicto en Europa. Las bombas
+nucleares sobre Hiroshima y Nagasaki (agosto). El fin del conflicto
+en el Pacífico.</td>
+</tr>
+</tbody>
+</table>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso170&amp;IdRecurso=RES-984F323A104D46BCB84CCFFC33CB21E3"
+>Cronología: la Segunda Guerra Mundial</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso180&amp;IdRecurso=RES-C8C930F4258A4FA48D5D869A550B275A"
+>Los hitos de la Segunda Guerra Mundial</enlace>
+</practica><seccion2
+id="S2_CS_09_05_CO_6E18DE9FF7374F5690C2648913DCF2AB">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso190&amp;IdRecurso=RES-57FD4496E444460382018CA682BD2ECD"
+>Refuerza tu aprendizaje: La creación de la ONU</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_05_CO_5B6A8ADD5E20442F9FF6FA767D378FE1">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso200&amp;IdRecurso=RES-20D248263F234ED8BC6BCDC378BFF3AC"
+>Competencias: análisis del testimonio de una víctima del genocidio</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso210&amp;IdRecurso=RES-CC73C3988916473AA43D3919B8723A56"
+>Proyecto: estudio de la Segunda Guerra Mundial en el Pacífico</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_09_05_CO_FC67152FBBE7462E9FA68EE03899C3D9"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso230&amp;IdRecurso=RES-407B6F3ECE0445E9AECEE8B8AFB6B973"
+>Mapa conceptual del tema La Segunda Guerra Mundial</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_05_CO_Recurso240&amp;IdRecurso=RES-C0D24E8107454DD6BD5DCE74E6F23B3B"
+>Evalúa tus conocimientos sobre el tema La Segunda Guerra Mundial</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://iris.cnice.mec.es/kairos/ensenanzas/eso/actual/2g_mundial_01_00.html"
+>Secuencia didáctica sobre la Segunda Guerra Mundial, ofrecida por
+el proyecto Kairós del Instituto Nacional de Tecnologías Educativas
+y de Formación del Profesorado (Ministerio de Educación, Cultura y
+Deporte de España)</enlace>
+<enlace
+destino="http://www.elmundo.es/especiales/2009/09/internacional/segunda_guerra_mundial/index.html"
+>Setenta años de la Segunda Guerra Mundial. Especial del periódico
+español El Mundo.</enlace>
+<enlace destino="http://www.ushmm.org/wlc/sp/">Enciclopedia del Holocausto.
+Recurso con información sobre el genocidio judío ofrecido por el Museo
+del Holocausto de Estados Unidos.</enlace>
+</enlacesreferencia></masinformacion></libro>
