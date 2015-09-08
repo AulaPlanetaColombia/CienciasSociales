@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="a" aprid="M5a">
   <plataforma>
     <grado><![CDATA[1]]></grado>
-    <titulo>Identifica las características del paleolítico</titulo>
+    <titulo>Identifica las características del Paleolítico</titulo>
     <volumen><![CDATA[2]]></volumen>
     <nivel><![CDATA[1]]></nivel>
     <referencia><![CDATA[ms_3c_07_05]]></referencia>
@@ -43,9 +43,9 @@
       <imagen><![CDATA[0009vc01_500.png]]></imagen>
       <ampliacion><![CDATA[0009vc01_500.png]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="Australopithecus" correcta="1"/>
+        <respuesta contestacion="{{cur}}Australopithecus" correcta="1"/>
         <respuesta contestacion="Neandertal" correcta="0"/>
-        <respuesta contestacion="Homo sapiens" correcta="0"/>
+        <respuesta contestacion="{{cur}}Homo sapiens" correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
@@ -54,13 +54,13 @@
       <imagen><![CDATA[000lbq01_500.png]]></imagen>
       <ampliacion><![CDATA[000lbq01_500.png]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="120000-35000 a.C." correcta="1"/>
-        <respuesta contestacion="100000-40000 a.C." correcta="0"/>
-        <respuesta contestacion="500000 a.C." correcta="0"/>
+        <respuesta contestacion="120 000 - 35 000 a.C." correcta="1"/>
+        <respuesta contestacion="10 0000 - 40 000 a.C." correcta="0"/>
+        <respuesta contestacion="500 000 a.C." correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[¿Qué elemento descubrió el Homo erectus?]]></enunciado>
+      <enunciado><![CDATA[¿Qué elemento descubrió el {{cur}}Homo erectus{{normal}}?]]></enunciado>
       <explicacion/>
       <imagen><![CDATA[0009tk01_500.png]]></imagen>
       <ampliacion><![CDATA[0009tk01_500.png]]></ampliacion>
@@ -76,9 +76,9 @@
       <imagen><![CDATA[000wsr01_500.png]]></imagen>
       <ampliacion><![CDATA[000wsr01_500.png]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="Homo habilis" correcta="1"/>
-        <respuesta contestacion="Homo sapiens" correcta="0"/>
-        <respuesta contestacion="Homo heidelbergensis" correcta="0"/>
+        <respuesta contestacion="{{cur}}Homo habilis" correcta="1"/>
+        <respuesta contestacion="{{cur}}Homo sapiens" correcta="0"/>
+        <respuesta contestacion="{{cur}}Homo heidelbergensis" correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
