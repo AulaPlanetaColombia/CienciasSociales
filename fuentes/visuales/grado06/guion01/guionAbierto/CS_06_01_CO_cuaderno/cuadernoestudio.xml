@@ -2,6 +2,7 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_06_01_CO">
 <libroTitulo>La historia</libroTitulo>
 <seccion1 id="S1_CS_06_01_CO_03E0CA843D67455FA94D627E48E01411">
@@ -165,9 +166,9 @@ y finaliza con el descubrimiento de la agricultura y de la ganadería
 la prehistoria comprendida entre el descubrimiento de la <negrita
 >agricultura</negrita> y de la <negrita>ganadería</negrita>, y el
 descubrimiento de la <negrita>metalurgia</negrita> (5000 a.n.e).</listaElemento>
-<listaElemento><negrita>La Edad de los Metales</negrita><br/><?Pub
-Caret -2?>Es la etapa de la prehistoria que se extiende desde el descubrimiento
-de la <negrita>metalurgia</negrita> hasta la invención de la <negrita
+<listaElemento><negrita>La Edad de los Metales</negrita><br/>Es la
+etapa de la prehistoria que se extiende desde el descubrimiento de
+la <negrita>metalurgia</negrita> hasta la invención de la <negrita
 >escritura</negrita> (3500 a.n.e).</listaElemento>
 </listaSinNumerar>
 <imagen src="CS_06_01_CO_IMG03_small.jpg">
@@ -494,7 +495,7 @@ la técnica del carbono-14 <enlace
 destino="http://www.andaluciainvestiga.com/espanol/cienciaAnimada/sites/carbono/carbono.swf"
 >[VER]</enlace>.</p>
 <p>La <negrita>paleontología </negrita> <enlace
-destino="http://profesores.aulaplaneta.com/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=555513&amp;ruta=Buscador"
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=555513&amp;ruta=Buscador"
 >[VER]</enlace>, por su lado, ayuda a los arqueólogos a estudiar los <negrita
 >restos fósiles</negrita> de animales y de vegetales para determinar
 cómo eran.</p>
@@ -590,7 +591,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso180&amp;IdRecurso=RES-DDDCF3
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso190&amp;IdRecurso=RES-33295FF2331246EC9FEBD7D1019BE83C"
 >Competencias: análisis de las fuentes para el estudio del pasado</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_01_CO_Recurso200&amp;IdRecurso=RES-5428484DCDDF429BA4CB9B1533E05D7C"
 >Proyecto: estudio de testimonios orales y hechos históricos</enlace>
