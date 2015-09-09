@@ -11,19 +11,10 @@
 	var xmlDocu;
 	var resiz = new XResize('contenedor_actividad');
 
-	var IDTarea = getRecursiveQueryParam("IDTarea");
-	//if (IDTarea == '') IDTarea = "16069"; // Pruebas
-	var IDAlumno = getRecursiveQueryParam("IDAlumno");
-	//if (IDAlumno == '') IDAlumno = "9234"; // Pruebas
-	var IDProfesor = getRecursiveQueryParam("IDProfesor");
-	//if (IDProfesor == '') IDProfesor = "34965"; // Pruebas
-	var URL = getRecursiveQueryParam("URL");
-	//if (URL == '') URL = 'serverfake.php';
-	//if (URL == "") URL = "http://pre4.aulaplaneta.com/desktopmodules/ppp_uploadscorm/UploadPostedFiles.aspx";
-	//if (URL == "") URL = "/DesktopModules/PPP_UploadScorms/UploadPostedFiles.aspx";
-	//alert(URL);
-	//URL = "http://localhost/AulaPlaneta4.5/DesktopModules/PPP_UploadScorms/UploadPostedFiles.aspx";
-	//alert("Parámetros recibidos:\nIDTarea: "+IDTarea+"\nIDAlumno: "+IDAlumno+"\nIDProfesor: "+IDProfesor+"\nURL: "+URL);
+	var IDTarea = 0;
+	var IDAlumno = 0;
+	var IDProfesor = 0;
+	var URL = "";
 
 	//***************************************************************
 	// RUTINAS DE UTILIDAD
@@ -244,7 +235,7 @@
 		$(content).html($(content).html()+"<div id='expand_content'></div>");
 		$('#expand_content').css('visibility', 'visible');
 		$('#expand_content').click(function() {
-				window.open("data/adjuntos/" + adjunto, 'Adjunto', 'height='+window.screen.height+',width='+window.screen.width+',top=0,left=0,resizable,scrollbars=1')
+			window.open("data/adjuntos/" + adjunto, 'Adjunto', 'height='+window.screen.height+',width='+window.screen.width+',top=0,left=0,resizable,scrollbars=1')
 		});
 		}, 0);
 	}
@@ -446,7 +437,7 @@
 		if (resiz._isIOS)
 			$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank" scrolling="no"></iframe><div id="expand_contentExt"></div>');
 		else
-		$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank"></iframe><div id="expand_contentExt"></div>');
+			$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank"></iframe><div id="expand_contentExt"></div>');
 		var extiframe = document.getElementById("iframeUrlExt");
 		setGlobalFramePos(contentId, "iframeUrlExt", true);
 		adjustExtHTMLContent("data/adjuntos/" + adjunto, "iframeUrlExt");
@@ -505,6 +496,7 @@
 			$(this).css( { width: (width) + "px", height: (height) + "px", left: 0 + "px", top: 0 + "px"});
 		});
 	}
+	
 	function renderURLContent(contentId, url) {
 		if (!url || url.length == 0)
 			return;
@@ -530,8 +522,8 @@
 			setGlobalFrameContainerPos(contentId, "iframeExtContainer", true);
 			adjustExtHTMLContent(url, "iframeExtContainer");
 		} else {
-		setGlobalFramePos(contentId, "iframeUrlExt", true);
-		adjustExtHTMLContent(url, "iframeUrlExt");
+			setGlobalFramePos(contentId, "iframeUrlExt", true);
+			adjustExtHTMLContent(url, "iframeUrlExt");
 		}
 		$('#iframeUrlExt').css('visibility', 'visible');
 		if (resiz._isIOS)
@@ -544,7 +536,7 @@
 				setGlobalFrameContainerPos(contentId, "iframeExtContainer", true);
 				adjustExtHTMLContent(url, "iframeExtContainer", true);
 			} else {
-			setGlobalFramePos(contentId, "iframeUrlExt", true);
+				setGlobalFramePos(contentId, "iframeUrlExt", true);
 				adjustExtHTMLContent(url, "iframeUrlExt");
 			}
 			var $exp_but = $('#expand_contentExt');
@@ -601,6 +593,7 @@
 			});
 		}
 	}
+	
 	function renderYouTubeContent(contentId, url) {
 		var videoId = getQueryParamMotorUrl(url, "v");
 		var url = "//www.youtube.com/embed/" + videoId;
@@ -616,7 +609,7 @@
 		if (resiz._isIOS)
 			$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank" scrolling="no"></iframe><div id="expand_contentExt"></div>');
 		else
-		$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank"></iframe><div id="expand_contentExt"></div>');
+			$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank"></iframe><div id="expand_contentExt"></div>');
 		var extiframe = document.getElementById("iframeUrlExt");
 		setGlobalFramePos(contentId, "iframeUrlExt", false);
 		$('#iframeUrlExt').css('visibility', 'visible');
@@ -727,6 +720,22 @@
 	
 		scormConfig = aulaPlaneta.SCORM.initialize();
 
+		// Es fa aquí perquè SCORM s'encarrega d'ajustar el domini per evitar cross-domain
+		IDTarea = getRecursiveQueryParam("IDTarea");
+		//if (IDTarea == '') IDTarea = "16069"; // Pruebas
+		IDAlumno = getRecursiveQueryParam("IDAlumno");
+		//if (IDAlumno == '') IDAlumno = "9234"; // Pruebas
+		IDProfesor = getRecursiveQueryParam("IDProfesor");
+		//if (IDProfesor == '') IDProfesor = "34965"; // Pruebas
+		URL = getRecursiveQueryParam("URL");
+		//if (URL == '') URL = 'serverfake.php';
+		//if (URL == "") URL = "http://pre4.aulaplaneta.com/desktopmodules/ppp_uploadscorm/UploadPostedFiles.aspx";
+		//if (URL == "") URL = "/DesktopModules/PPP_UploadScorms/UploadPostedFiles.aspx";
+		//alert(URL);
+		//URL = "http://localhost/AulaPlaneta4.5/DesktopModules/PPP_UploadScorms/UploadPostedFiles.aspx";
+		//alert("Parámetros recibidos:\nIDTarea: "+IDTarea+"\nIDAlumno: "+IDAlumno+"\nIDProfesor: "+IDProfesor+"\nURL: "+URL);
+		
+
 		// AQUI HARIAMOS LA INICIALIZACION EN BASE A LO OBTENIDO DE SCORM Y POR PARAMETROS
 		// LUEGO SE EJECUTARIA EL $(document).ready PROPIO DEL MOTOR
 	
@@ -799,7 +808,36 @@
 			//alert('MODO: ' +scormConfig.mode+" SUSP: "+suspend_data+" COMPL.: "+completed);
 
 			addContent(xmlDocu);
-			if (scormConfig.mode == aulaPlaneta.SCORM.MODO_REVIEW) {
+			// Comprobación de que si estamos en localhost (todoso los casos)
+			if (document.location.hostname == "localhost") {
+				msg = "<span class=\"central_msg\">" + LangRes.curLang[LangRes.MSG_ADJUNTA] + "</span>";
+				// Poner los botones en gris y deshabilitarlos
+				// botón Subir proyecto
+				$('#cajaSubir').addClass('form_adj_inactive');
+				$('#cajaSubir').find(".upl").prop('title', ' ');
+				$('#cajaSubir').find(".upl").css('visibility', 'hidden');
+				$('#cajaSubir').find(".adjuntar").css('cursor', 'default');
+				// botón Enviar
+				$('#buttonEndAction').find('input').removeClass('corregir_bt');
+				$('#buttonEndAction').find("input").prop('title', '');
+				$('#buttonEndAction').find("input").prop('alt', '');
+				$('#buttonEndAction').find("input").prop("onclick", null);
+				$('#buttonEndAction').css("border", "none");
+				$('#buttonEndAction').find("input").css("border", "none");
+				$('#buttonEndAction').find('input').addClass('corregir_bt_inactive');
+				$('#buttonEndAction').find('input').val(LangRes.curLang[LangRes.ENVIAR]);
+				$('#cajaSubir').children('.adjuntar').html(LangRes.curLang[LangRes.ADJUNTAR]);
+				// Poner el texto en medio
+				$('.form_adj_txt').css('margin-top', '5px');
+				$('.form_adj_txt').css('width', '600px');
+				$('.form_adj_txt').html(msg);
+				//alert(parseInt($('.central_msg').css('height'))); // Pruebas, saber el tamaño de la letra
+				// Comprobar si hay dos líneas de texto para reposicionar en el centro el texto
+				if (parseInt($('.central_msg').css('height')) > 17) {
+					$('.form_adj_txt').css('margin-top', '-2px');
+				}
+			} else {
+			if (scormConfig.mode == aulaPlaneta.SCORM.MODO_REVIEW || scormConfig.mode == aulaPlaneta.SCORM.MODO_AREVIEW) {
 				// El professor lo REVISA
 				if (scormConfig.suspend_data == "" || scormConfig.suspend_data == null) {
 					// Aún no se subido ningún fichero
@@ -834,6 +872,11 @@
 								$('#cajaSubir').html('<table><tr><td>'+fileName+'</td><td> <div class="bt_descarg" ><a id="bt_descarg_a" href="' + anchorRuta + '" target="_blank"><input type="button" value="'+LangRes.curLang[LangRes.DESCARGAR_ARCH]+'" onclick="document.getElementById(\'bt_descarg_a\').click()"/></a></div></td></tr></table>');
 							else
 								$('#cajaSubir').html('<table><tr><td>'+fileName+'</td><td> <div class="bt_descarg" ><a href="' + anchorRuta + '" target="_blank"><input type="button" value="'+LangRes.curLang[LangRes.DESCARGAR_ARCH]+'" /></a></div></td></tr></table>');
+							// Poner el texto de ya enviado en medio
+							var msg = "<span class=\"central_msg\">" + LangRes.curLang[LangRes.MSG_VALIDADOCORRECTO] + "</span>";
+							$('.form_adj_txt').css('margin-top', '5px');
+							$('.form_adj_txt').css('width', '600px');
+							$('.form_adj_txt').html(msg);
 						}
 					}
 				}
@@ -929,6 +972,7 @@
 				$('#cajaSubir').toggleClass('form_adj');
 				$('#cajaSubir').toggleClass('form_adj_no_upload');
 				$('#cajaSubir').html('');
+			}
 			}
 		} else if (amano == "1") {
 			// Ejecutamos el visor online en HTML (b)

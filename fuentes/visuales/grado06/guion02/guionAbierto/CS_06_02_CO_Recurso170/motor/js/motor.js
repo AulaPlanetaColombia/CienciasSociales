@@ -808,6 +808,35 @@
 			//alert('MODO: ' +scormConfig.mode+" SUSP: "+suspend_data+" COMPL.: "+completed);
 
 			addContent(xmlDocu);
+			// Comprobación de que si estamos en localhost (todoso los casos)
+			if (document.location.hostname == "localhost") {
+				msg = "<span class=\"central_msg\">" + LangRes.curLang[LangRes.MSG_ADJUNTA] + "</span>";
+				// Poner los botones en gris y deshabilitarlos
+				// botón Subir proyecto
+				$('#cajaSubir').addClass('form_adj_inactive');
+				$('#cajaSubir').find(".upl").prop('title', ' ');
+				$('#cajaSubir').find(".upl").css('visibility', 'hidden');
+				$('#cajaSubir').find(".adjuntar").css('cursor', 'default');
+				// botón Enviar
+				$('#buttonEndAction').find('input').removeClass('corregir_bt');
+				$('#buttonEndAction').find("input").prop('title', '');
+				$('#buttonEndAction').find("input").prop('alt', '');
+				$('#buttonEndAction').find("input").prop("onclick", null);
+				$('#buttonEndAction').css("border", "none");
+				$('#buttonEndAction').find("input").css("border", "none");
+				$('#buttonEndAction').find('input').addClass('corregir_bt_inactive');
+				$('#buttonEndAction').find('input').val(LangRes.curLang[LangRes.ENVIAR]);
+				$('#cajaSubir').children('.adjuntar').html(LangRes.curLang[LangRes.ADJUNTAR]);
+				// Poner el texto en medio
+				$('.form_adj_txt').css('margin-top', '5px');
+				$('.form_adj_txt').css('width', '600px');
+				$('.form_adj_txt').html(msg);
+				//alert(parseInt($('.central_msg').css('height'))); // Pruebas, saber el tamaño de la letra
+				// Comprobar si hay dos líneas de texto para reposicionar en el centro el texto
+				if (parseInt($('.central_msg').css('height')) > 17) {
+					$('.form_adj_txt').css('margin-top', '-2px');
+				}
+			} else {
 			if (scormConfig.mode == aulaPlaneta.SCORM.MODO_REVIEW || scormConfig.mode == aulaPlaneta.SCORM.MODO_AREVIEW) {
 				// El professor lo REVISA
 				if (scormConfig.suspend_data == "" || scormConfig.suspend_data == null) {
@@ -943,6 +972,7 @@
 				$('#cajaSubir').toggleClass('form_adj');
 				$('#cajaSubir').toggleClass('form_adj_no_upload');
 				$('#cajaSubir').html('');
+			}
 			}
 		} else if (amano == "1") {
 			// Ejecutamos el visor online en HTML (b)

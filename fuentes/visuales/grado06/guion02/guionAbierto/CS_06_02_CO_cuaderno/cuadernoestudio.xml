@@ -288,12 +288,7 @@ de Peña Escrita, en Fuencaliente, España.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_02_CO_Recurso080&amp;IdRecurso=RES-479382455CC04748A4BCD1821B4E7B39"
 >El Neolítico</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_02_CO_Recurso070&amp;IdRecurso=RES-58FBA35AA9674FB6ADBD121C6EEEB07A"
->Reconoce los cambios del Neolítico y la Edad de los Metales</enlace><?Pub
-Caret -2?>
-</practica><seccion2
+</profundiza><seccion2
 id="S2_CS_06_02_CO_C6A9DB6C01B447989BFE5327859EE54D">
 <seccion2Titulo>La revolución neolítica</seccion2Titulo>
 <seccion2Texto>
@@ -365,7 +360,11 @@ se pudieron construir herramientas y armas más fuertes y resistentes.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_02_CO_Recurso110&amp;IdRecurso=RES-367A1B2855264564B6FB766D8704FB43"
 >El Neolítico y la Edad de los Metales</enlace>
-</profundiza><seccion2
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_02_CO_Recurso070&amp;IdRecurso=RES-58FBA35AA9674FB6ADBD121C6EEEB07A"
+>Reconoce los cambios del Neolítico y la Edad de los Metales</enlace>
+</practica><seccion2
 id="S2_CS_06_02_CO_F82E25829D0A435AAD8D6823CDBF8L13">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
@@ -373,7 +372,7 @@ id="S2_CS_06_02_CO_F82E25829D0A435AAD8D6823CDBF8L13">
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_02_CO_Recurso120&amp;IdRecurso=RES-FE81B89F7EA948A393617A07C713CA27"
->Relaciona conceptos con su período histórico</enlace>
+>Relaciona conceptos de las etapas de la prehistoria</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_06_02_CO_46B56795955841E08E8B04857625B008">
 <seccion1Titulo><?Pub _bookmark Command="[Quick Mark]"?>El arte prehistórico</seccion1Titulo>
@@ -481,7 +480,7 @@ amuletos, etc.</listaElemento>
 etc.</listaElemento>
 <listaElemento>Los<negrita> monumentos megalíticos</negrita>: menhires,
 alineamientos, crómlech y dólmenes.</listaElemento>
-</listaSinNumerar>
+</listaSinNumerar><?Pub Caret -2?>
 </recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
 id="S2_CS_06_02_CO_F82E25829D0A435AAD8D6823CDBF4M62">
 <seccion2Titulo>Consolidación</seccion2Titulo>

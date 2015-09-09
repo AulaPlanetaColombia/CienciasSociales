@@ -53,7 +53,7 @@
   </objeto>
   <objeto>
     <ref>30</ref>
-    <texto>se produce</texto>
+    <texto>se produjo</texto>
     <hijos>40</hijos>
     <padre>20</padre>
     <siz>14</siz>
@@ -73,7 +73,7 @@
   </objeto>
   <objeto>
     <ref>31</ref>
-    <texto>aparecen</texto>
+    <texto>aparecieron</texto>
     <hijos>41</hijos>
     <padre>20</padre>
     <siz>14</siz>
@@ -93,7 +93,7 @@
   </objeto>
   <objeto>
     <ref>50</ref>
-    <texto>basados en la</texto>
+    <texto>basado en la</texto>
     <hijos>60</hijos>
     <padre>40</padre>
     <siz>14</siz>
@@ -153,7 +153,7 @@
   </objeto>
   <objeto>
     <ref>51</ref>
-    <texto>forman</texto>
+    <texto>formaron</texto>
     <hijos>61</hijos>
     <padre>41</padre>
     <siz>14</siz>
@@ -173,7 +173,7 @@
   </objeto>
   <objeto>
     <ref>71</ref>
-    <texto>viven de la</texto>
+    <texto>vivían de la</texto>
     <hijos>81</hijos>
     <padre>61</padre>
     <siz>14</siz>
@@ -193,7 +193,7 @@
   </objeto>
   <objeto>
     <ref>72</ref>
-    <texto>habitan en</texto>
+    <texto>habitaron en</texto>
     <hijos>82</hijos>
     <padre>61</padre>
     <siz>14</siz>
@@ -213,7 +213,7 @@
   </objeto>
   <objeto>
     <ref>91</ref>
-    <texto>donde realizan</texto>
+    <texto>donde realizaron</texto>
     <hijos>a1</hijos>
     <padre>82</padre>
     <siz>14</siz>
@@ -233,7 +233,7 @@
   </objeto>
   <objeto>
     <ref>32</ref>
-    <texto>se descubre</texto>
+    <texto>se desarrollaron</texto>
     <hijos>42</hijos>
     <padre>21</padre>
     <siz>14</siz>
@@ -253,7 +253,7 @@
   </objeto>
   <objeto>
     <ref>52</ref>
-    <texto>favorece</texto>
+    <texto>favorecieron</texto>
     <hijos>62</hijos>
     <padre>42</padre>
     <siz>14</siz>
@@ -273,7 +273,7 @@
   </objeto>
   <objeto>
     <ref>73</ref>
-    <texto>aparecen</texto>
+    <texto>aparecieron</texto>
     <hijos>83</hijos>
     <padre>62</padre>
     <siz>14</siz>
@@ -293,7 +293,7 @@
   </objeto>
   <objeto>
     <ref>74</ref>
-    <texto>se desarrolla</texto>
+    <texto>se trabajó</texto>
     <hijos>84</hijos>
     <padre>62</padre>
     <siz>14</siz>
@@ -333,7 +333,7 @@
   </objeto>
   <objeto>
     <ref>33</ref>
-    <texto>se descubre</texto>
+    <texto>se inventó</texto>
     <hijos>43</hijos>
     <padre>22</padre>
     <siz>14</siz>
@@ -353,7 +353,7 @@
   </objeto>
   <objeto>
     <ref>53</ref>
-    <texto>se fabrican</texto>
+    <texto>se fabricaron</texto>
     <hijos>63</hijos>
     <padre>43</padre>
     <siz>14</siz>
@@ -373,7 +373,7 @@
   </objeto>
   <objeto>
     <ref>54</ref>
-    <texto>se construyen</texto>
+    <texto>se construyeron</texto>
     <hijos>64</hijos>
     <padre>43</padre>
     <siz>14</siz>
@@ -403,7 +403,7 @@
   </objeto>
   <objeto>
     <ref>65</ref>
-    <texto>- edad del cobre- edad del bronce- edad del hierro</texto>
+    <texto>- Edad del cobre- Edad del bronce- Edad del hierro</texto>
     <hijos>77</hijos>
     <padre>55</padre>
     <siz>0</siz>
@@ -443,7 +443,7 @@
   </objeto>
   <objeto>
     <ref>86</ref>
-    <texto>- menhir- cromlech- dolmen</texto>
+    <texto>- menhir- crómlech- dolmen</texto>
     <hijos/>
     <padre>76</padre>
     <siz>0</siz>
