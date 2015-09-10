@@ -144,7 +144,7 @@
   <objeto>
     <ref>a0</ref>
     <texto>primarias</texto>
-    <hijos>b0</hijos>
+    <hijos/>
     <padre>90</padre>
     <siz>0</siz>
     <negcur>000000000</negcur>
@@ -154,71 +154,11 @@
   <objeto>
     <ref>a1</ref>
     <texto>secundarias</texto>
-    <hijos>b1</hijos>
+    <hijos/>
     <padre>90</padre>
     <siz>0</siz>
     <negcur>00000000000</negcur>
     <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>b0</ref>
-    <texto>como</texto>
-    <hijos>c0</hijos>
-    <padre>a0</padre>
-    <siz>0</siz>
-    <negcur>0000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c0</ref>
-    <texto>- textos en forma original- edificios- objetos</texto>
-    <hijos>d0</hijos>
-    <padre>b0</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000000000000000000000000000000</negcur>
-    <cen>0</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>d0</ref>
-    <texto>interpretados por los</texto>
-    <hijos>e0</hijos>
-    <padre>c0</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>e0</ref>
-    <texto>historiadores</texto>
-    <hijos/>
-    <padre>d0</padre>
-    <siz>0</siz>
-    <negcur>0000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>b1</ref>
-    <texto>como</texto>
-    <hijos>c1</hijos>
-    <padre>a1</padre>
-    <siz>0</siz>
-    <negcur>0000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>c1</ref>
-    <texto>- dibujos- mapas- libros- artículos- científicos</texto>
-    <hijos/>
-    <padre>b1</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000000000000000000000000000000000000</negcur>
-    <cen>0</cen>
     <img/>
   </objeto>
   <objeto>
@@ -263,11 +203,11 @@
   </objeto>
   <objeto>
     <ref>71</ref>
-    <texto>como las</texto>
+    <texto>como</texto>
     <hijos>81</hijos>
     <padre>61</padre>
     <siz>0</siz>
-    <negcur>00000000</negcur>
+    <negcur>0000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
