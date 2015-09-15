@@ -2,6 +2,7 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_07_02_CO">
 <libroTitulo>La Edad Media</libroTitulo>
 <seccion1 id="S1_CS_07_02_CO_826230D9FF594531B8ED5243A5D0D6C7">
@@ -202,7 +203,6 @@ sometidos a la voluntad de los señores feudales.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_02_CO_Recurso070&amp;IdRecurso=RES-B9CD371160444C3DADA1B06C8B84303E"
 >Los campesinos en el sistema feudal</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_02_CO_Recurso080&amp;IdRecurso=RES-B72AA999CF524CF2AECB32EEE1269751"
 >Identifica las principales características de la sociedad feudal</enlace>
@@ -491,7 +491,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_02_CO_Recurso140&amp;IdRecurso=RES-D6BAB3
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_02_CO_Recurso150&amp;IdRecurso=RES-AA3AE9368B8D4FE5B419ADE5654B7C8D"
 >Refuerza tu aprendizaje: El arte y la cultura bizantinos</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_02_CO_Recurso160&amp;IdRecurso=RES-42D0D9020E7A4A49B953C68574024589"
 >Refuerza tu aprendizaje: El arte mozárabe</enlace>
@@ -933,7 +932,7 @@ papas (1334 - 1352). Esto derivó en el Cisma de Occidente (1378 -
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_02_CO_Recurso240&amp;IdRecurso=RES-C87C045D4DDB4293B8422AEC0A18B01B"
->La Iglesia en la baja edad media</enlace>
+>La Iglesia en la Baja Edad Media</enlace>
 </profundiza></seccion2Texto></seccion2><seccion2
 id="S2_CS_07_02_CO_686CD37662AF4E09AB68244078ECC98F">
 <seccion2Titulo>La crisis de la Edad Media</seccion2Titulo>
@@ -1132,7 +1131,7 @@ XVI.</p>
 <p>Cabe destacar que el <negrita>papel</negrita>, inventado por los
 chinos en el siglo II, fue introducido en Europa por los árabes. En
 1150 pasó de Marruecos a la península Ibérica, pero es a partir del
-siglo XIII cuando se extiende por toda Europa. </p><?Pub Caret 205?>
+siglo XIII cuando se extiende por toda Europa. </p>
 <p>Con la invención de la <negrita>imprenta</negrita>, es cuando definitivamente
 el papel se convierte en un elemento indispensable como vehículo de
 transmisión de cultura y conocimiento.</p>
@@ -1176,7 +1175,7 @@ mediterráneas para dar paso a algo nuevo.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_02_CO_Recurso280&amp;IdRecurso=RES-CFF5B80A5364419791F23C5FEDC2D2A1"
->Recurso F11-01</enlace>
+>Arte gótico en la península Ibérica</enlace>
 </profundiza><seccion3
 id="S3_CS_07_02_CO_B0E9E1D40ECE41608001134FBA0F959F">
 <seccion3Titulo>El arte gótico</seccion3Titulo>
@@ -1193,7 +1192,7 @@ se habían hecho hasta entonces.</p>
 <listaSinNumerar>
 <listaElemento>El arco apuntado u ojival.</listaElemento>
 <listaElemento>La bóveda de crucería.</listaElemento>
-<listaElemento>Los pilares.</listaElemento>
+<listaElemento>Los pilares.</listaElemento><?Pub Caret -2?>
 <listaElemento>Los arbotantes y contrafuertes.</listaElemento>
 </listaSinNumerar>
 <imagen src="CS_07_02_CO_IMG35_small.jpg">
