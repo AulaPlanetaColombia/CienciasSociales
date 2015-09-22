@@ -3,7 +3,7 @@
   <version>1.0</version>
   <objeto>
     <ref>00</ref>
-    <texto>Imperialismo y Primera Guerra Mundial</texto>
+    <texto>El imperialismo y la Primera Guerra Mundial</texto>
     <hijos>10</hijos>
     <padre/>
     <siz>0</siz>
@@ -173,7 +173,7 @@
   </objeto>
   <objeto>
     <ref>61</ref>
-    <texto>colonias gobernadaspor las metrópolis</texto>
+    <texto>colonias gobernadaspor las metrópoli</texto>
     <hijos>71</hijos>
     <padre>51</padre>
     <siz>0</siz>
@@ -413,7 +413,7 @@
   </objeto>
   <objeto>
     <ref>66</ref>
-    <texto>Batalla deVerdum</texto>
+    <texto>Batalla deVerdún</texto>
     <hijos>73</hijos>
     <padre>55</padre>
     <siz>0</siz>

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Cronología: el imperialismo y la Primera Guerra Mundial</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+
+        <script src="extlib/createjs/2013_12_12/createjs-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/movieclip-0-7-1-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/zoom.js"></script>
+        <script src="js/principal.js"></script>
+
+        <script>
+            var canvas, stage, exportRoot, incremento,popupon;
+            window.onresize = function ()
+            {
+                onResize();
+            }
+            
+            function init() {
+
+                canvas = document.getElementById("canvas");
+                images = images || {};
+                if (navigator.userAgent.toLowerCase().indexOf("firefox") == -1)
+                    incremento = 0;
+                else
+                    incremento = 4;
+                var manifest = [
+                     		{src:"images/_0009FU01.jpg", id:"_0009FU01"},
+		{src:"images/_0009FU01_1.jpg", id:"_0009FU01_1"},
+		{src:"images/_0009V301.jpg", id:"_0009V301"},
+		{src:"images/_0009V301_1.jpg", id:"_0009V301_1"},
+		{src:"images/_000A5A01.jpg", id:"_000A5A01"},
+		{src:"images/_000FGR01.jpg", id:"_000FGR01"},
+		{src:"images/_000FGR01_1.jpg", id:"_000FGR01_1"},
+		{src:"images/_000GI301.jpg", id:"_000GI301"},
+		{src:"images/_000HTK01.jpg", id:"_000HTK01"},
+		{src:"images/_000HTK01_1.jpg", id:"_000HTK01_1"},
+		{src:"images/_000ISU01.jpg", id:"_000ISU01"},
+		{src:"images/_000K5Q01.jpg", id:"_000K5Q01"},
+		{src:"images/_000K7P01.jpg", id:"_000K7P01"},
+		{src:"images/_000LE601.jpg", id:"_000LE601"},
+		{src:"images/_000S1A01.jpg", id:"_000S1A01"},
+		{src:"images/_000TT401.jpg", id:"_000TT401"},
+		{src:"images/_0014H401.jpg", id:"_0014H401"},
+		{src:"images/Mapadebits1.jpg", id:"Mapadebits1"},
+		{src:"images/Mapadebits10.png", id:"Mapadebits10"},
+		{src:"images/Mapadebits11.png", id:"Mapadebits11"},
+		{src:"images/Mapadebits12.png", id:"Mapadebits12"},
+		{src:"images/Mapadebits13.png", id:"Mapadebits13"},
+		{src:"images/Mapadebits14.png", id:"Mapadebits14"},
+		{src:"images/Mapadebits15.png", id:"Mapadebits15"},
+		{src:"images/Mapadebits16.png", id:"Mapadebits16"},
+		{src:"images/Mapadebits17.png", id:"Mapadebits17"},
+		{src:"images/Mapadebits18.png", id:"Mapadebits18"},
+		{src:"images/Mapadebits19.png", id:"Mapadebits19"},
+		{src:"images/Mapadebits2.jpg", id:"Mapadebits2"},
+		{src:"images/Mapadebits20.png", id:"Mapadebits20"},
+		{src:"images/Mapadebits21.png", id:"Mapadebits21"},
+		{src:"images/Mapadebits22.png", id:"Mapadebits22"},
+		{src:"images/Mapadebits23.png", id:"Mapadebits23"},
+		{src:"images/Mapadebits24.png", id:"Mapadebits24"},
+		{src:"images/Mapadebits25.png", id:"Mapadebits25"},
+		{src:"images/Mapadebits26.png", id:"Mapadebits26"},
+		{src:"images/Mapadebits27.png", id:"Mapadebits27"},
+		{src:"images/Mapadebits28.png", id:"Mapadebits28"},
+		{src:"images/Mapadebits29.png", id:"Mapadebits29"},
+		{src:"images/Mapadebits3.jpg", id:"Mapadebits3"},
+		{src:"images/Mapadebits30.png", id:"Mapadebits30"},
+		{src:"images/Mapadebits31.png", id:"Mapadebits31"},
+		{src:"images/Mapadebits32.png", id:"Mapadebits32"},
+		{src:"images/Mapadebits4.jpg", id:"Mapadebits4"},
+		{src:"images/Mapadebits5.jpg", id:"Mapadebits5"},
+		{src:"images/Mapadebits6.png", id:"Mapadebits6"},
+		{src:"images/Mapadebits7.png", id:"Mapadebits7"},
+		{src:"images/Mapadebits8.png", id:"Mapadebits8"},
+		{src:"images/Mapadebits9.png", id:"Mapadebits9"},
+		{src:"images/pautas950x608nuevosarreglos.jpg", id:"pautas950x608nuevosarreglos"},
+		{src:"images/shutterstock_21995257_Gran.jpg", id:"shutterstock_21995257_Gran"},
+		{src:"images/shutterstock_21995257_Peq.jpg", id:"shutterstock_21995257_Peq"},
+		{src:"images/shutterstock_36878500.jpg", id:"shutterstock_36878500"},
+		{src:"images/shutterstock_53508787.jpg", id:"shutterstock_53508787"},
+		{src:"images/shutterstock_53508787_1.jpg", id:"shutterstock_53508787_1"},
+		{src:"images/shutterstock_82683946.jpg", id:"shutterstock_82683946"},
+		{src:"images/Thinkstock_92818735.jpg", id:"Thinkstock_92818735"},
+		{src:"images/Thinkstock_92831130.jpg", id:"Thinkstock_92831130"},
+		{src:"images/Thinkstock_92831130_2.jpg", id:"Thinkstock_92831130_2"},
+		{src:"images/Thinkstock_92844453.jpg", id:"Thinkstock_92844453"},
+		{src:"images/Thinkstock_92844453_1.jpg", id:"Thinkstock_92844453_1"}
+                ];
+
+                var loader = new createjs.LoadQueue(false);
+                loader.addEventListener("fileload", handleFileLoad);
+                loader.addEventListener("complete", handleComplete);
+                loader.loadManifest(manifest);
+                loadXML();
+            }
+
+            function handleFileLoad(evt) {
+                if (evt.item.type == "image") {
+                    images[evt.item.id] = evt.result;
+                }
+            }
+            function putStage(myStage) {
+
+                if (exportRoot) {
+                    exportRoot.removeAllChildren();
+                }
+                exportRoot = myStage;
+                stage = new createjs.Stage(canvas);
+                stage.clear();
+                createjs.Ticker.removeAllEventListeners();
+                stage.autoClear = true; // This must be true to clear the stage.
+                stage.removeAllChildren();
+
+                stage.addChild(exportRoot);
+                stage.update();
+                stage.enableMouseOver();
+                onResize();
+                createjs.Ticker.setFPS(24);
+                createjs.Ticker.addEventListener("tick", stage);
+            }
+            function handleComplete() {
+                var child = document.getElementById("loading");
+                if (child != null)
+                    child.parentNode.removeChild(child);
+                putStage(new lib.frame1())
+
+            }
+            function loadXML() {
+                xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("GET", "data/datos.xml", false);
+                xmlhttp.send();
+                xmlDoc = xmlhttp.responseXML;
+                x = xmlDoc.getElementsByTagName("XMLDatos")[0].childNodes;
+                y = xmlDoc.getElementsByTagName("XMLDatos")[0].firstChild;
+                for (i = 0; i < x.length; i++)
+                {
+                    if (y.nodeType == 1)
+                    {//Process only element nodes (type 1)
+                        j = xmlDoc.getElementsByTagName(y.nodeName)[0].childNodes[0]
+                        textos[y.nodeName] = j.nodeValue;
+                    }
+                    y = y.nextSibling;
+                }
+            }
+        </script>
+    </head>
+
+    <body onload="init();" onorientationchange="onResize();" style="background-color:#FFFFFF" ><div id="loading" align="center" style="position: absolute;top:50%;left:50%;width:400px;margin-left:-200px;height:300px;margin-top:-150px;" ><img src="images/status.gif"/></div>
+        <canvas id="canvas" width="950" height="608" style="background-color:transparent"></canvas>
+    </body>
+</html>
