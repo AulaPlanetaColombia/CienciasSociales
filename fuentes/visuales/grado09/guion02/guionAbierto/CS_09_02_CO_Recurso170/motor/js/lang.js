@@ -33,6 +33,7 @@ var LangRes = {
 	ACTIVITY_NOT_VIEWED	:	17,
 	HTML_PAGE_TITLE		:	18,
 	MSG_VALIDADOCORRECTO	:	19,
+	MSG_ADJUNTA		:	20,
 	
 	// Text codificat que indica l'idioma, equivalent al langId però que
 	// es fa servir als XML
@@ -69,7 +70,8 @@ var LangRes = {
 			"El alumno ha abierto la actividad.",
 			"Actividad aún por empezar.",
 			"Actividad",
-			"Ejercicio enviado para validación"
+			"Ejercicio enviado para validación",
+			"Adjunta y envía el trabajo desde tu tarea abierta en la web."
 		],
 		[ // en
 			"Hand in to your teacher directly or by email.",
@@ -91,7 +93,8 @@ var LangRes = {
 			"The student has openned the exercise.",
 			"Activity still not started.",
 			"Activity",
-			"Exercise successfully sent for evaluation."
+			"Exercise successfully sent for evaluation.",
+			"Attach and send your answer from your task page."
 		],
 		[ // valenciano
 			"Lliura el treball en mà o per correu electrònic.",
@@ -113,7 +116,8 @@ var LangRes = {
 			"L'alumne ha obert l'activitat.",
 			"Activitat no iniciada encara.",
 			"Activitat",
-			"L'exercici s'ha enviat per a validar-lo"
+			"L'exercici s'ha enviat per a validar-lo",
+			"Adjunta i envia el treball des de la teua tasca oberta en la web."
 		],
 		[ // gallego
 			"Entrega o traballo en man ou por correo electrónico.",
@@ -135,7 +139,8 @@ var LangRes = {
 			"O alumno abriu a actividade.",
 			"Actividade aínda por empezar.",
 			"Actividade",
-			"Exercicio enviado para validar"
+			"Exercicio enviado para validar",
+			"Anexa e envía o traballo desde a túa tarefa aberta na web."
 		],
 		[ // catalán
 			"Entrega el treball en mà o per correu electrònic.",
@@ -157,7 +162,8 @@ var LangRes = {
 			"L'alumne ha obert l'activitat.",
 			"Activitat no iniciada encara.",
 			"Activitat",
-			"L'exercici s'ha enviat a validar"
+			"L'exercici s'ha enviat a validar",
+			"Adjunta i envia el treball des de la teva tasca oberta a la web."
 		],
 		[ // euskara
 			"Entregatu zuzenean irakasleari edo bidali posta elektronikoz.",
@@ -179,7 +185,8 @@ var LangRes = {
 			"Ikasleak ariketa ireki du.",
 			"Oraindik ez da jarduera hasi.",
 			"Jarduera",
-			"Ariketa behar bezala bidali da irakasleak berrikus dezan."
+			"Ariketa behar bezala bidali da irakasleak berrikus dezan.",
+			"Adjunta y envía el trabajo desde tu tarea abierta en la web."
 		]
 	],
 

@@ -1,8 +1,9 @@
 /************************************************************************
 	SCORM.js: Connexió entre els exercicis i AulaPlaneta via SCORM
 	
-	Versió: 15.4.27.1
+	Versió: 15.5.14.1
 	Història:
+						- 14/5/15: Eliminada crida Commit en inicialitzar-se si està completat
 						- 27/4/15: Afegida correcció Cross-Domain a getRecursiveQueryParam
 						- 23/4/15: Implementació Cross-Domain amb subdominis
 						- 23/3/15: Eliminació crida a doTerminate
@@ -196,7 +197,7 @@ if (!aulaPlaneta.hasOwnProperty("SCORM")) {
 				// Si el ejercicio ha sido completado, no dejamos crear nuevos intentos y se accede siempre a la actividad anterior
 				if (completed == 'completed') {
 					doSetValue('cmi.exit', 'suspend');
-					doCommit();
+					//doCommit();
 				}
 				
 				// Obtenemos el estado del ejercicio tal y como lo dejó el alumno

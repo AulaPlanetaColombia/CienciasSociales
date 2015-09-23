@@ -163,7 +163,7 @@
   </objeto>
   <objeto>
     <ref>43</ref>
-    <texto>crack de 1929(Nueva York)</texto>
+    <texto>"crack" de 1929(Nueva York)</texto>
     <hijos>52</hijos>
     <padre>33</padre>
     <siz>0</siz>
@@ -223,7 +223,7 @@
   </objeto>
   <objeto>
     <ref>66</ref>
-    <texto>acumulaciónde mercancias</texto>
+    <texto>acumulaciónde mercancías</texto>
     <hijos>70</hijos>
     <padre>52</padre>
     <siz>0</siz>
