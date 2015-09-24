@@ -1,16 +1,16 @@
-ï»¿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
 <head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<!--<meta name="viewport" id="viewport" content="initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />-->
 		<!-- ************************************************************************
 		*
 		* Motor F13
 		*
-		* VersiÃ³n 15.2.22.1
+		* Versión 15.2.22.1
 		*
-		* Autor: Javier GarcÃ©s - Sinergia sistemas informÃ¡ticos
-		* Autor: JesÃºs GironÃ©s - Sinergia sistemas informÃ¡ticos
+		* Autor: Javier Garcés - Sinergia sistemas informáticos
+		* Autor: Jesús Gironés - Sinergia sistemas informáticos
 		*
 		************************************************************************-->
     
@@ -20,7 +20,7 @@
     <!-- Preloader -->
 	<script src="lib/ppppreloader/1_0/ppppreloader_min.js" type="text/javascript"></script>
 
-	<!-- inicializaciÃ³n MathJax -->
+	<!-- inicialización MathJax -->
 	<script type="text/x-mathjax-config">
 		MathJax.Hub.Config({
 			tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]},
@@ -32,28 +32,28 @@
 		});
 	</script>
 
-	<!-- inicializaciÃ³n general -->
+	<!-- inicialización general -->
 	<script type="text/javascript">
 		// Volcado de errores del preloader por la consola
 		var manifest = {
 			// Bloques de elementos a descargar
 			blocks: [
 					{ type: "manifest", files: [{ from: "module", file: "motor/manifest.json" }] },
-					{ type: "xml", files: [{ from: "data", file: "data/datos.xml", id: "datos_xml" }] }
+					{ type: "xml", files: [{ from: "data", file: "data/datos.xml" + "?time=" + new Date().getTime(), id: "datos_xml" }] }
 			],
-			// Sin spinner automÃ¡tico
+			// Sin spinner automático
 			spinner: "no",
-			// Esperamos a que el documento estÃ¡ "ready" para recibir el evento
+			// Esperamos a que el documento está "ready" para recibir el evento
 			waitForDocumentReady: true,
 			// Evento de fin de carga (correcta o incorrecta). Si es incorrecta, el manifiesto
-			// contendrÃ¡ un array "errors" con los errores (manifest.errors.length > 0)
+			// contendrá un array "errors" con los errores (manifest.errors.length > 0)
 			onEndLoading: function (mf) {
 				// Miramos si ha habido errores graves en la precarga
 				if (mf.errors.length > 0) {
 					console.log(pppPreloader.logErrors(mf));
 					//return;
 				}
-				// Si llegamos hasta aquÃ­, es que todo ha ido bien
+				// Si llegamos hasta aquí, es que todo ha ido bien
 				// Inicializamos el motor
 				main(mf.ids["datos_xml"]);
 			}
@@ -61,7 +61,7 @@
 
 		// Inicializamos pppPreloader:
 		// - "module" es alias de CDN, pero en remoto apunta a CDN/motors/f1
-		// - "mathjax" es alias de CDN, pero en local apunta a la versiÃ³n online de MathJax
+		// - "mathjax" es alias de CDN, pero en local apunta a la versión online de MathJax
 		//   y en remoto apunta a "extlib/mathjax/latest/"
 		pppPreloader.init({
 			aliases: {

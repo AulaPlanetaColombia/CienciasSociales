@@ -2,6 +2,7 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_08_01_CO">
 <libroTitulo>El pensamiento liberal y las revoluciones</libroTitulo>
 <seccion1 id="S1_CS_08_01_CO_FF3BB9A2C1A94855BCDF7656976CF75E">
@@ -11,7 +12,9 @@
 una corriente de pensamiento: la <negrita>Ilustración</negrita>. Esta
 promovió la confianza en el <negrita>poder de la razón, la observación
 y la experimentación</negrita>, como herramientas para lograr el <negrita
->progreso</negrita> y la <negrita>felicidad</negrita>.</p>
+>progreso</negrita> y la <negrita>felicidad</negrita>. <enlace
+destino="http://aulaplaneta.planetasaber.com/msite/hae/hae/historia8_800.html?DATA=Kk1HbjW6xEOtHIgqZvyQ%2fTfqpXb%2b3YLTbbj%2btkCHHwY%3d"
+>[VER]</enlace></p>
 <p>Su idea fundamental era que el ser humano, que es racional, no
 puede estar sometido a la dominación de la religión y a la tiranía
 del poder.</p>
@@ -32,19 +35,23 @@ divino, es decir, no viene de un ser supremo.</listaElemento>
 <listaElemento>El conocimiento surge de la experiencia y el razonamiento.
 Por ello, la <negrita>educación</negrita> es un medio que garantiza
 la libertad y el progreso.</listaElemento>
-<listaElemento>Aunque no se niega la existencia de Dios, se cuestiona
-a la Iglesia como institución que ejerce dominación sobre los seres
-humanos y sus consciencias. </listaElemento>
+<listaElemento>Aunque <negrita>no se niega la existencia de Dios</negrita
+>, se cuestiona a la Iglesia como institución que ejerce dominación
+sobre los seres humanos y sus consciencias. </listaElemento>
 <listaElemento>Rechazo a la esclavitud. Si los hombres son <negrita
 >libres</negrita> e <negrita>iguales</negrita>, ningún ser humano
 puede someter a otro.</listaElemento>
-<listaElemento><negrita>Tolerancia religiosa</negrita>.</listaElemento>
+<listaElemento><negrita>Tolerancia religiosa</negrita>. Varios pensadores
+ilustrados postularon ideas y argumentos a favor de la libertad religiosa. <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=7540416&amp;ruta=Buscador"
+>[VER]</enlace></listaElemento>
 </listaSinNumerar>
 <destacado><destacadoTitulo>El Siglo de las Luces</destacadoTitulo>
 <destacadoTexto>
-<p>El movimiento de la Ilustración nació con el propósito de acabar
-con la ignorancia y el oscurantismo de las etapas anteriores. Por
-esto se le llama <negrita>Siglo de las Luces</negrita>.</p>
+<p>El movimiento de la Ilustración nació con el propósito de <negrita
+>acabar</negrita> con la <negrita>ignorancia</negrita> y el <negrita
+>oscurantismo</negrita> de las etapas anteriores. Por esto se le llama
+Siglo de las Luces.</p>
 </destacadoTexto></destacado><seccion2
 id="S2_CS_08_01_CO_A392D39FD14D4A6C8A4780E561E7E874">
 <seccion2Titulo>El contexto político de la Ilustración</seccion2Titulo>
@@ -98,11 +105,7 @@ por <negrita>Denis Diderot</negrita> y <negrita>Jean Le Rond d’Alembert</negri
 > entre 1751 y 1772. El proyecto, en el que participaron los principales
 intelectuales de la época, tenía como objetivo reunir todos los conocimientos
 de su tiempo en una misma obra.</p>
-</recuerdaTexto></recuerda><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso020&amp;IdRecurso=RES-3298896B93D74DEDBE01965A5337AD7F"
->Refuerza tu aprendizaje: La Ilustración</enlace>
-</practica></seccion2Texto></seccion2><seccion2
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
 id="S2_CS_08_01_CO_D94A679D34A54238BA39865A52482369">
 <seccion2Titulo>El despotismo ilustrado</seccion2Titulo>
 <seccion2Texto>
@@ -128,7 +131,11 @@ del siglo XVIII. Con el apoyo de los ilustrados y de técnicos especializados,
 promovieron el desarrollo de la agricultura, favorecieron el avance
 del comercio con carreteras, puertos o canales y crearon escuelas,
 universidades y hospitales.</p>
-<profundiza>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso040&amp;IdRecurso=RES-78AC8635EF844B6D979A8856F01F2B9A"
+>El pensamiento ilustrado frente a la idea del poder divino</enlace>
+</practica><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso030&amp;IdRecurso=RES-E7A13472A9634E539BECAF4FA416EDA3"
 >Las ideas de la Ilustración</enlace>
@@ -139,9 +146,8 @@ id="S2_CS_08_01_CO_4A0B3B5C285E4F319031C163E1A4E883">
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso040&amp;IdRecurso=RES-78AC8635EF844B6D979A8856F01F2B9A"
->Refuerza tu aprendizaje: El pensamiento ilustrado frente a la idea
-del poder divino</enlace>
+destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso020&amp;IdRecurso=RES-3298896B93D74DEDBE01965A5337AD7F"
+>Refuerza tu aprendizaje: La Ilustración</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_08_01_CO_FB9ED9ED003643648B20B32694467E82">
 <seccion1Titulo>La sociedad del Antiguo Régimen</seccion1Titulo>
@@ -165,10 +171,10 @@ y el <negrita>bajo clero</negrita> (sacerdotes, monjes, monjas, etc.),
 conformado por grupos más humildes de la sociedad. </listaElemento>
 <listaElemento>El <negrita>tercer estado</negrita>: representaba a
 la mayoría de la población. Las clases populares vivían de su trabajo
-y pagaban altos impuestos para mantener a los otros dos estamentos
-(nobleza y clero). No se trataba de un grupo homogéneo, estaba formado
-por distintos colectivos, como los <negrita>burgueses</negrita>, las <negrita
->clases populares urbanas</negrita> y el <negrita>campesinado</negrita
+y <negrita>pagaban altos impuestos</negrita> para mantener a los otros
+dos estamentos (nobleza y clero). No se trataba de un grupo homogéneo,
+estaba formado por distintos colectivos, como los <negrita>burgueses</negrita
+>, las <negrita>clases populares urbanas</negrita> y el <negrita>campesinado</negrita
 >. </listaElemento>
 </listaSinNumerar>
 <imagen ampliable="no" src="CS_08_01_CO_IMG04_small.jpg">
@@ -182,11 +188,13 @@ solo era posible dentro del mismo estamento.</p>
 en crisis a finales del siglo XVIII. Uno de los principales cambios
 fue el creciente protagonismo de la <negrita>burguesía</negrita>,
 cuyo <negrita>poder económico</negrita> la llevó a reclamar también
-el <negrita>poder político</negrita>. </p>
+el <negrita>poder político</negrita>. <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=6023552&amp;ruta=Buscador"
+>[VER]</enlace></p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso050&amp;IdRecurso=RES-1ED84EC3E9854921ACF0C370FE340F66"
->La sociedad del Antiguo Régimen</enlace>
+destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso060&amp;IdRecurso=RES-F3BB271AABFC4ED1809310D7F529F7A3"
+>Describe la sociedad del Antiguo Régimen</enlace>
 </practica><recuerda><recuerdaTexto>
 <p>Durante el siglo XVIII, el <negrita>Antiguo Régimen</negrita> siguió
 vigente. Esto permitió a los nobles exigir a los campesinos el <negrita
@@ -201,8 +209,8 @@ id="S2_CS_08_01_CO_4A0B3B5C285E4F319031C163E1A4D347">
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso060&amp;IdRecurso=RES-F3BB271AABFC4ED1809310D7F529F7A3"
->Refuerza tu aprendizaje: Describe la sociedad del Antiguo Régimen</enlace>
+destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso050&amp;IdRecurso=RES-1ED84EC3E9854921ACF0C370FE340F66"
+>Refuerza tu aprendizaje: La sociedad del Antiguo Régimen</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_08_01_CO_2475D5A827EC44328FC1A21954C0D9CF">
 <seccion1Titulo>La economía del siglo XVIII</seccion1Titulo>
@@ -227,8 +235,10 @@ notable aumento de la mortalidad.</p>
 <seccion2Texto>
 <p>Entre los siglos XVI y XVIII se desarrolló el <negrita>mercantilismo</negrita
 >, una teoría económica cuya aparición se vincula con la formación
-de los Estados modernos y con la transición de la economía feudal
-a la capitalista.</p>
+de los <negrita>Estados modernos</negrita> y con la transición de
+la economía feudal a la capitalista. <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=10&amp;idpil=DI000517&amp;ruta=Buscador"
+>[VER]</enlace></p>
 <p>El pensamiento mercantilista defiende el <negrita>intervencionismo</negrita
 > del Estado en la economía y la necesidad de <negrita>políticas proteccionistas</negrita
 >, con el fin de incrementar la riqueza estatal. Esta corriente consideraba
@@ -248,11 +258,11 @@ de medidas de política económica.</p>
 id="S2_CS_08_01_CO_517BF567AB074FD3A19B342A91A6D3A6">
 <seccion2Titulo>El comercio colonial</seccion2Titulo>
 <seccion2Texto>
-<p>Durante el siglo XVIII, el Reino de Gran Bretaña consolidó un importante
-Imperio colonial y construyó una marina potente que le permitió dominar
-las <negrita>rutas marítimas</negrita> y garantizar la seguridad del
-comercio entre la <negrita>metrópolis</negrita> y las <negrita>colonias</negrita
->.</p>
+<p>Durante el siglo XVIII, el <negrita>Reino de Gran Bretaña</negrita
+> consolidó un importante <negrita>Imperio colonial</negrita> y construyó
+una marina potente que le permitió dominar las <negrita>rutas marítimas</negrita
+> y garantizar la seguridad del comercio entre la <negrita>metrópolis</negrita
+> y las <negrita>colonias</negrita>.</p>
 <p>El denominado <negrita>comercio colonial</negrita> permitió a los
 británicos contar con un suministro continuo de <negrita>materias
 primas</negrita> y un mercado europeo y mundial en el cual poder vender
@@ -283,16 +293,16 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso070&amp;IdRecurso=RES-D341DE
 <seccion1 id="S1_CS_08_01_CO_5D6F2F1B7905490EB20905A086B2878F">
 <seccion1Titulo>El pensamiento liberal</seccion1Titulo>
 <seccion1Texto>
-<p>Las teorías de un grupo de pensadores de Inglaterra y Francia cuestionaron
-el origen divino del poder y sentaron las bases para una <negrita
->doctrina</negrita> que se propuso crear una nueva forma de Estado.
-Esa doctrina recibió el nombre de <negrita>liberalismo</negrita> e
-inspiró profundas transformaciones sociales y políticas que dieron
-fin definitivo al absolutismo.</p>
-<p>El pensamiento liberal provocó grandes revoluciones, a partir de
-ideas políticas, filosóficas y económicas que se opusieron al absolutismo
-y defendieron los <negrita>derechos del individuo</negrita> en la
-sociedad.</p>
+<p>Las teorías de un grupo de <negrita>pensadores de Inglaterra y
+Francia</negrita> cuestionaron el origen divino del poder y sentaron
+las bases para una <negrita>doctrina</negrita> que se propuso crear
+una <negrita>nueva forma de Estado</negrita>. Esa doctrina recibió
+el nombre de <negrita>liberalismo</negrita> e inspiró profundas transformaciones
+sociales y políticas que dieron fin definitivo al absolutismo.</p>
+<p>El pensamiento liberal provocó <negrita>grandes revoluciones</negrita
+>, a partir de ideas políticas, filosóficas y económicas que se opusieron
+al absolutismo y defendieron los <negrita>derechos del individuo</negrita
+> en la sociedad.</p>
 <imagen ampliable="no" src="CS_08_01_CO_IMG07_small.jpg">
 <p>El filósofo y médico inglés <negrita>John Locke</negrita> (1632-1704)
 fue uno de los principales teóricos del liberalismo político. Él defendía
@@ -310,9 +320,13 @@ por los gobernados. </p>
 <seccion2Titulo>El liberalismo político</seccion2Titulo>
 <seccion2Texto>
 <p>En Francia, pensadores ilustrados como <negrita>Montesquieu</negrita
->, <negrita>Rousseau</negrita> y <negrita>Voltaire</negrita> dejaron
-sentados los principios de la doctrina liberal sobre la que se fundó
-el Estado moderno y su correspondiente orden social:</p>
+> <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=7448928&amp;ruta=Buscador"
+>[VER]</enlace>, <negrita>Rousseau</negrita> <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=7486071&amp;ruta=Buscador"
+>[VER]</enlace> y <negrita>Voltaire</negrita> dejaron sentados los
+principios de la doctrina liberal sobre la que se fundó el <negrita
+>Estado moderno</negrita> y su correspondiente orden social:</p>
 <listaSinNumerar>
 <listaElemento><negrita>Los derechos naturales de los individuos:</negrita
 > como el derecho a la libertad, a la vida o a la propiedad.</listaElemento>
@@ -329,10 +343,20 @@ ejerce su soberanía a través de sus representantes en el <negrita
 <listaElemento><negrita>La separación de poderes:</negrita> teoría
 que defiende la necesidad de separar las funciones de hacer leyes
 (poder legislativo), de ejecutarlas y hacerlas cumplir (poder ejecutivo)
-y de juzgar (poder judicial). Estas funciones deben ser ejercidas
-por personas e instituciones diferentes (Parlamento, Gobierno y tribunales
-de justicia).</listaElemento>
+y de administrar justicia (poder judicial). Estas funciones deben
+ser ejercidas por personas e instituciones diferentes (Parlamento,
+Gobierno y tribunales de justicia).</listaElemento>
 </listaSinNumerar>
+<p>Según el liberalismo, estos principios deben estar recogidos en
+una <negrita>Constitución</negrita>, que es la ley fundamental de
+un Estado. Esta establece su forma de gobierno, así como los derechos
+y deberes de sus ciudadanos. De este modo, se proponía un sistema
+opuesto al absolutista, en el que el rey poseía todos los poderes.
+Estas ideas llevaron a una serie de <negrita>revoluciones liberales</negrita
+> que, a lo largo del siglo XIX, fueron poniendo fin al absolutismo.
+La primera de ellas, y la que marca el <negrita>inicio de la Edad
+Contemporánea</negrita>, fue la <negrita>Revolución francesa</negrita
+> (1789-1799).</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso080&amp;IdRecurso=RES-574222BF86594624820A77018A29204B"
@@ -343,15 +367,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso080&amp;IdRecurso=RES-574222
 Eugène Delacroix (1798- 1863), representa el deseo de los franceses
 de construir su propio destino político.</p>
 </imagen>
-<p>Según el liberalismo, estos principios deben estar recogidos en
-una <negrita>Constitución</negrita>, que es la ley fundamental de
-un Estado. Esta establece su forma de gobierno, así como los derechos
-y deberes de sus ciudadanos. De este modo, se proponía un sistema
-opuesto al absolutista, en el que el rey poseía todos los poderes.
-Estas ideas llevaron a una serie de <negrita>revoluciones liberales</negrita
-> que, a lo largo del siglo XIX, fueron poniendo fin al absolutismo.
-La primera de ellas, y la que marca el inicio de la Edad Contemporánea,
-fue la <negrita>Revolución francesa</negrita> (1789-1799).</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso090&amp;IdRecurso=RES-0EDCD9EBEF8547889779E3EC4F019AE4"
@@ -398,22 +413,24 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso110&amp;IdRecurso=RES-084D6D
 <p>El periodo histórico que se inició a finales del siglo XVIII y
 que comprende las primeras décadas del siglo XIX está marcado por
 unas profundas <negrita>transformaciones políticas</negrita> y <negrita
->sociales</negrita>, que pusieron las bases del mundo contemporáneo.
+>sociales</negrita>, que sentaron las bases del mundo contemporáneo.
 Estos cambios, unidos a la gran influencia mundial de las ideas de
 la <negrita>Ilustración</negrita>, causaron grandes modificaciones
 en la sociedad europea.</p>
 <p>La <negrita>burguesía</negrita>, la clase social emergente a lo
 largo del siglo XVIII, protagonizó las revoluciones liberales, que
-pondrían fin a la Edad Moderna y al <negrita>Antiguo Régimen</negrita
-> e inaugurarían una nueva etapa en la historia universal. La burguesía
-se había enriquecido enormemente, pero el Antiguo Régimen no le permitía
-el ascenso social ni la participación política. Dos de los acontecimientos
-más relevantes y decisivos en el inicio de la Edad Contemporánea fueron
-la <negrita>Revolución americana</negrita> y la <negrita>Revolución
-francesa</negrita>. A estos dos acontecimientos debe sumarse el duro
-golpe que significó para las monarquías absolutas cada uno de los
-procesos de <negrita>independencia</negrita> que ocurrieron en las
-colonias americanas.</p>
+pondrían <negrita>fin a la Edad Moderna</negrita> y al <negrita>Antiguo
+Régimen</negrita> e inaugurarían una nueva etapa en la historia universal.
+La burguesía se había enriquecido enormemente, pero el Antiguo Régimen
+no le permitía el ascenso social ni la participación política. Dos
+de los acontecimientos más relevantes y decisivos en el inicio de
+la <negrita>Edad Contemporánea</negrita> fueron la <negrita>Revolución
+americana</negrita> y la <negrita>Revolución francesa</negrita>. A
+estos dos acontecimientos debe sumarse el duro golpe que significó
+para las monarquías absolutas <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=10&amp;idpil=DI010450&amp;ruta=Buscador"
+>[VER]</enlace> cada uno de los procesos de <negrita>independencia</negrita
+> que ocurrieron en las colonias americanas.</p>
 <seccion2 id="S2_CS_08_01_CO_4A0B3B5C285E4F319031C163E1A4V213">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
@@ -428,8 +445,9 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso120&amp;IdRecurso=RES-37DFA1
 <seccion1Texto>
 <p>Entre los años 1642 y 1688, Inglaterra vivió tres importantes episodios
 que hicieron tambalear el absolutismo, hasta hacerlo caer y transformar
-el sistema político. Para ello fueron necesarias dos revoluciones,
-que resultaron de:</p>
+el sistema político. Para ello fueron necesarias dos revoluciones <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=10&amp;idpil=DI000451&amp;ruta=Buscador"
+>[VER]</enlace>, que resultaron de:</p>
 <listaSinNumerar>
 <listaElemento>El enfrentamiento entre las distintas clases sociales</listaElemento>
 <listaElemento>La participación del Parlamento </listaElemento>
@@ -493,7 +511,7 @@ culto</negrita>.</p>
 </destacadoTexto></destacado><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso130&amp;IdRecurso=RES-004DECAD10C8461984F57E914112994D"
->La tolerancia religiosa</enlace>
+>La religión en las Revoluciones inglesas</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_08_01_CO_4A0B3B5C285E4F319031C163E1A4T371">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -509,9 +527,9 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso140&amp;IdRecurso=RES-D55D1C
 <seccion1Texto>
 <p>La Revolución americana (1775-1783) fue una de las <negrita>primeras
 revoluciones burguesas</negrita>. A partir de ella, se dio la creación
-de los Estados Unidos de América. Esta revolución se desencadenó por
-causa del aumento de las tensiones entre la población de las <negrita
->Trece Colonias británicas</negrita> <enlace
+de los <negrita>Estados Unidos de América</negrita>. Esta revolución
+se desencadenó por causa del aumento de las tensiones entre la población
+de las <negrita>Trece Colonias británicas</negrita> <enlace
 destino="http://iris.cnice.mec.es/kairos/mediateca/cartoteca/pagsmapas/independencia_usa.html"
 > [VER]</enlace> en América del Norte y las autoridades británicas.
 El punto culminante fue el “<negrita>motín del té</negrita>” (diciembre
@@ -521,7 +539,7 @@ destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=55251&amp;ruta=Buscad
 las colonias y la metrópolis. La represión ejercida por el <negrita
 >Reino de Gran Bretaña</negrita> condujo sin remedio al estallido
 de la <negrita>Guerra de la Independencia norteamericana</negrita
-> (1775).</p><?Pub Caret 290?>
+> (1775).</p>
 <imagen src="CS_08_01_CO_IMG10_small.jpg">
 <p>Después de la Guerra de Independencia norteamericana, las Trece
 Colonias pasaron a llamarse Estados Unidos de América. Su primer presidente
@@ -530,7 +548,7 @@ Atlántico triunfaba la Revolución francesa.</p>
 </imagen>
 <p>La revolución culminó con la <negrita>independencia de Estados
 Unidos</negrita> y la firma del <negrita>Tratado de París</negrita
-> (1783). El nuevo país se dotó entonces de una <negrita>constitución</negrita
+> (1783). El nuevo país proclamó una <negrita>constitución</negrita
 > que estableció:</p>
 <listaSinNumerar>
 <listaElemento>Una República federal</listaElemento>
@@ -565,7 +583,9 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso160&amp;IdRecurso=RES-3D050A
 <p>La <negrita>Revolución francesa</negrita> (1789-1799) marca el
 inicio de la <negrita>Edad Contemporánea</negrita>. Este episodio,
 sin embargo, estuvo precedido por una serie de factores que llevaron
-al <negrita>fin del Antiguo Régimen</negrita> en Francia:</p>
+al <negrita>fin del Antiguo Régimen</negrita> <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=10&amp;idpil=DI000457&amp;ruta=Buscador"
+>[VER]</enlace> en Francia:</p>
 <listaSinNumerar>
 <listaElemento>Una <negrita>crisis económica</negrita> provocada por
 una sucesión de malas cosechas, la guerra de los Siete Años y los
@@ -581,22 +601,22 @@ Antiguo Régimen:</p>
 <listaSinNumerar>
 <listaElemento>Levantamiento de la <negrita>nobleza</negrita>: ante
 el absolutismo del rey, pero también ante la crisis económica, los
-nobles piden nuevas fuentes de ingreso.</listaElemento>
+nobles pidieron nuevas fuentes de ingreso.</listaElemento>
 <listaElemento>Levantamiento de la <negrita>burguesía</negrita>: ya
 que el Parlamento francés tenía la idea de que el poder del rey era
-de origen divino, los burgueses cuestionan ese ideal y presionan para
-abrir asambleas que garanticen una mayor participación en la toma
-de decisiones políticas y económicas.</listaElemento>
+de origen divino, los burgueses cuestionaron ese ideal y presionaron
+para abrir asambleas que garantizaran una mayor participación en la
+toma de decisiones políticas y económicas.</listaElemento>
 <listaElemento>Levantamiento <negrita>popular</negrita>: impulsado
 por el odio a Luis XVI y a su esposa María Antonieta, así como contra
 los nobles, el clero y la burguesía, por sus privilegios.</listaElemento>
 </listaSinNumerar>
 <imagen src="CS_08_01_CO_IMG11_small.jpg">
 <p>El 14 de julio de 1789 ocurrió la <negrita>toma de la Bastilla</negrita
->. Según los historiadores, con este hecho dio inicio a la <negrita
->Revolución francesa</negrita> (1789-1799) y, con ello, al comienzo
-de la Edad Contemporánea. En 1880, la República de Francia instauró
-el 14 de julio como día de la fiesta nacional.</p>
+>. Según los historiadores, este hecho dio inicio a la <negrita>Revolución
+francesa</negrita> (1789-1799) y, con ello, al comienzo de la Edad
+Contemporánea. En 1880, la República de Francia instauró el 14 de
+julio como día de la fiesta nacional.</p>
 </imagen>
 <p>Tras la <negrita>toma de la Bastilla</negrita> (1789) <enlace
 destino="http://ntic.educacion.es/w3/eos/MaterialesEducativos/bachillerato/historia/revfran/revolucion1789.htm"
@@ -626,7 +646,6 @@ quien inauguró una nueva etapa: el <negrita>Consulado</negrita> (1799-1804).</l
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso170&amp;IdRecurso=RES-1893CB46CD104DA8976CA887938442FA"
 >La Declaración de los Derechos del Hombre y del Ciudadano</enlace>
-</profundiza><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso180&amp;IdRecurso=RES-908CEC9526DD476EBADE96B6CD1AB3BF"
 >La Revolución francesa</enlace>
@@ -648,7 +667,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso190&amp;IdRecurso=RES-C833EF
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso200&amp;IdRecurso=RES-73129C8B38A74606A54E414AF32B07A5"
 >Competencias: comentario de un texto filosófico como fuente</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_01_CO_Recurso210&amp;IdRecurso=RES-0B34D3C742F347218FFC45164577B624"
 >Cronología: el fin del Antiguo Régimen</enlace>
@@ -669,8 +687,7 @@ a Distancia, Ministerio de Educación, Cultura y Deporte de España.</enlace>
 <enlace
 destino="http://recursostic.educacion.es/kairos/web/ensenanzas/eso/moderna/luces_00.html"
 >El Siglo de las Luces. Secuencia didáctica sobre la Ilustración,
-ofrecida por el proyecto Kairos del Ministerio de Educación, Cultura
-y Deporte de España.</enlace>
+ofrecida por el proyecto Kairos.</enlace>
 <enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=14&amp;idpil=6601720&amp;ruta=Buscador"
 >El concepto de Antiguo Régimen y otros elementos relacionados, ofrecidos
