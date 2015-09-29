@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapa aprid="mapa">
+  <copyright>(c) Editorial Planeta</copyright>
+  <version>1.0</version>
+  <botonMapaConceptual>mostrar</botonMapaConceptual>
+  <botonMapaMudo>ocultar</botonMapaMudo>
+  <botonMudo>0</botonMudo>
+  <objeto>
+    <ref>00</ref>
+    <texto>Los inicios de la Edad Media</texto>
+    <hijos>10</hijos>
+    <padre />
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>10</ref>
+    <texto />
+    <hijos>20,21,22</hijos>
+    <padre>00</padre>
+    <siz>14</siz>
+    <negcur />
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>20</ref>
+    <texto>Caída del Imperio
+romano - 476</texto>
+    <hijos>30</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>21</ref>
+    <texto>Nuevos imperios en Europa
+y Medio Oriente</texto>
+    <hijos>31</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>22</ref>
+    <texto>Otros imperios en
+Asia y África</texto>
+    <hijos>32</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto>causas</texto>
+    <hijos>40,41</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>cambios económicos
+y sociales</texto>
+    <hijos>50</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>invasiones
+germánicas</texto>
+    <hijos>51</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto>como</texto>
+    <hijos>60</hijos>
+    <padre>40</padre>
+    <siz>0</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>- falta de esclavos
+- ruralización
+- crisis comercial
+- revueltas militares
+- cristianismo</texto>
+    <hijos />
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>de pueblos</texto>
+    <hijos>61</hijos>
+    <padre>41</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>- vándalos
+- visigodos
+- francos</texto>
+    <hijos />
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>surgen</texto>
+    <hijos>42,43,44</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>Bizantino
+375</texto>
+    <hijos>52</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>43</ref>
+    <texto>Carolingio
+762</texto>
+    <hijos>53</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>44</ref>
+    <texto>Islámico
+622</texto>
+    <hijos>54</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>líder</texto>
+    <hijos>62</hijos>
+    <padre>42</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto>Justiniano I</texto>
+    <hijos>70</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto>ubicado en</texto>
+    <hijos>80</hijos>
+    <padre>62</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>península de
+Anatolia</texto>
+    <hijos />
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>53</ref>
+    <texto>líder</texto>
+    <hijos>63</hijos>
+    <padre>43</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>Carlomagno</texto>
+    <hijos>71</hijos>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto>ubicado en</texto>
+    <hijos>81</hijos>
+    <padre>63</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>Europa
+central</texto>
+    <hijos>90</hijos>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>90</ref>
+    <texto>unificación del</texto>
+    <hijos>a0</hijos>
+    <padre>81</padre>
+    <siz>0</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>a0</ref>
+    <texto>Sacro Imperio
+Romano</texto>
+    <hijos />
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>54</ref>
+    <texto>líder</texto>
+    <hijos>64</hijos>
+    <padre>44</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>Mahoma</texto>
+    <hijos>72</hijos>
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>72</ref>
+    <texto>ubicado en</texto>
+    <hijos>82</hijos>
+    <padre>64</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>Medio Oriente y
+norte de África</texto>
+    <hijos />
+    <padre>72</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto>surgen</texto>
+    <hijos>45,46</hijos>
+    <padre>22</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>45</ref>
+    <texto>- Imperio de Ghana
+  (700)
+- Imperio de Malí
+  (1235)</texto>
+    <hijos>55</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>46</ref>
+    <texto>- Imperio mongol
+  (1206)
+- Imperio chino
+  (Dinastía Jin 265)</texto>
+    <hijos>56</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>55</ref>
+    <texto>ubicado en</texto>
+    <hijos>65</hijos>
+    <padre>45</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>África
+occidental</texto>
+    <hijos />
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>56</ref>
+    <texto>ubicado en</texto>
+    <hijos>66</hijos>
+    <padre>46</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>Asia
+Oriental</texto>
+    <hijos />
+    <padre>56</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+</mapa>
