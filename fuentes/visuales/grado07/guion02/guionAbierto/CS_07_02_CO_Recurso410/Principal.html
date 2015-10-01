@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" id="viewport" content="initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		
+		<!--
+		 ************************************************************************
+		 * Visor Mapas Conceptuales
+		 * Versión: 15.7.16.1
+		 * Autores: Javier Garcés i Jesús Gironés (Sinergia)
+		 * Histórico:
+		 *  - 15.7.16.1:
+		 *	· Sonidos: hace stop/resume si esta reproduciendo/pausado.
+		 *	  Problemas varios Android 4.1, 4.2:
+		 *	  Comprobación event primary para tablet México.
+		 *	  En canvio de orientación aparece una copia del canvas.
+		 *  - 15.7.1.1:
+		 *	· Cajas de primer nivel (siguiente al root),
+		 *	  alargan su la conexión a su hijo hasta el hermano más alto.
+		 *	  Recargar caché añadiendo la fecha a la carga del xml
+		 *  - 15.6.11.1:
+		 *	· Para trazos de unión de nodos no se detectaba colisióon.
+		 *  - 15.4.16.1:
+		 *	· Eliminado borde negro general innecesario
+		 *  - 15.3.2.1:
+		 *	· Problema con el Recurso140. Un conector demasiado ancho
+		 *	  provoca que no se visualizen otras partes del árbol.
+		 *	  Se ha añadido la mejora de que se permiten conectores
+		 *	  de tamaño más largo i se ha visto que ciertas cajas no
+  		 *	  se podían abrir porque colisionaban con su vecina. Se
+		 *	  arregla poniendo las cajas al mismo nivel.
+		 *  - 14.12.16.1:
+		 *	· El botón de ocultar/mostrar aparece un poco mas alto
+		 *	  si no se especifica las tag "botonMapaMudo"/"botonMapaConceptual"
+		 *	  en el xml.
+		 *  - 14.11.28.1:
+		 *	· Eliminar efecto borroso de algunos elementos como
+		 *	  por ejemplo textos al hacer zoom
+		 *  - 14.9.9.1:
+		 *	· Fondo transparente del logo y de la botonera
+		 *	· Quitar path relativo de la inclusión de los js y css
+		 *  - 14.7.24.1:
+		 *	· Aplicada funcionalidad aclarada del botón T
+		 *	· Cambiar estados botones audio mapa conceptual
+		 *	· Aplicada nueva estructura de carpetas
+		 *  - 14.7.3.1
+		 ************************************************************************
+		-->
+		
+		<title>Mapa conceptual</title>
+
+		<link rel="stylesheet" href="motor/css/styles.css?v=14.6.16.1" type="text/css">
+	
+		<!-- versió min -->
+		<script type="text/javascript" src="extlib/jquery/1_11_1/jquery_1_11_1_min.js"></script>
+		<script type="text/javascript" src="extlib/createjs/2013_12_12/easeljs_0_7_1_min.js"></script>
+		<script type="text/javascript" src="extlib/createjs/2013_12_12/preloadjs_0_4_1_min.js"></script>
+		<script type="text/javascript" src="motor/js/pppmcall_min.js?v=15.3.2.1"></script>
+		<!-- -->
+		
+		<script type="text/javascript">
+			// Inicialitzem el diaporama
+			var mapac = new pppMapaConceptual("container", false);
+			mapac.initMapaConceptual(".");
+		</script>
+		
+	</head>
+	<body>
+		<div id="topcontainer" style="width: 100%; height: 100%; border: 0; margin: 0;">
+			<div class="html_mc">
+				<div class="mc_container">
+					<canvas id="container" width="950" height="608"></canvas>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

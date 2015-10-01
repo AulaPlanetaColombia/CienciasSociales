@@ -1,130 +1,108 @@
-﻿<!doctype html>
-<html lang="">
+<!DOCTYPE html>
+<html>
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Refuerza tu aprendizaje: La nobleza</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <meta charset="UTF-8">
+        <title>La nobleza: guerreros y trovadores</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
 
-        <!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
+        <script src="extlib/createjs/2013_12_12/createjs-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/movieclip-0_7_1_min.js"></script>
+        <script src="js/principal.js"></script>
+        <script src="extlib/createjs/2013_12_12/zoom.js"></script>
+        
+        <script>
+            var canvas, stage, exportRoot, incremento, popupon;
+            window.onresize = function ()
+            {
+                onResize();
+            }
+            
 
-        <script type='text/javascript' src='lib/ppppreloader/1_0/ppppreloader_min.js'></script> 
-	    <script>
-	    		// Manifiesto del preloader. En este caso, simplemente carga de un manifiesto
-	    		// externo en formato JSON todo lo que necesita el motor.
-	    		// No usamos el spinner autom�tico porque as� podemos controlar el spinner por
-	    		// nuestra cuenta y ocultarlo cuando se haya ejecutado todo el c�digo de inicio
-	    		// y el ejercicio est� realmente funcionando.
-	    		// El manifiesto se carga del origen "module", que representa el c�digo del motor.
-				var manifest = {
-					// Bloques de elementos a descargar
-				    blocks: [
-				    		{ type: "manifest", files: [ { from: "module", file:"motor/manifest.json"} ] }
-				    ],
-				    // Sin spinner autom�tico
-				    spinner: "no",
-				    // Esperamos a que el documento est� "ready" para recibir el evento
-				    waitForDocumentReady: true, 
-				    // Evento de fin de carga (correcta o incorrecta). Si es incorrecta, el manifiesto
-				    // contendr� un array "errors" con los errores (manifest.errors.length > 0)
-				    onEndLoading: function (mf) {
-				    	// Miramos si ha habido errores graves en la precarga
-				    	if (mf.errors.length > 0) {
-				    		logPreloaderErrors(mf);
-					        pppSpinner.hide();
-				    		return;
-				    	}
-				    	// Si llegamos hasta aqu�, es que todo ha ido bien
-				    	// Inicializamos el motor
-				        Main.init();
-						$.calculator.setDefaults( {
-							showOn: 'both', 
-							buttonImageOnly: true, 
-							onButton: function(value, inst) { 
-								if( value == "Cerrar" ){
-						        	Contenedor.closeHandler();
-						       	}
-						   },
-							buttonImage: pppPreloader.from('CDN', 'extlib/calculadora/calculator.png')
-						});
-						
-						var text = "";
-						for(i =0; i < Motor.symbols.length; i++)
-						{
-							var label = Motor.familyNames[i];
-							text = text + "<div class='symbolTitle'>"+label+"</div><div class='symbolTable'>";
-							var simbols = Motor.symbols[i].split(" ");
-							for(j=0; j < simbols.length; j++){
-								var simboltext = simbols[j];
-								text = text + " <div class='symbolCell' onclick='buttonSymbol("+ i + "," + j + ")'>" + simbols[j] + "</div>";
-							}
-							text = text + "</div>";
-						}	
-						//console.log(text);
-						text = text + "</div>";
-						document.getElementById("symbolHtml").innerHTML = text;
+            function init() {
+                canvas = document.getElementById("canvas");
+                images = images || {};
+                if (navigator.userAgent.toLowerCase().indexOf("firefox") == -1)
+                    incremento = 0;
+                else
+                    incremento = 4;
+                var manifest = [
+                 	{src:"images/image25019.png", id:"image25019"},
+		{src:"images/image27090.jpg", id:"image27090"},
+		{src:"images/image27468.jpg", id:"image27468"},
+		{src:"images/image27509.jpg", id:"image27509"},
+		{src:"images/image27550.jpg", id:"image27550"},
+		{src:"images/image27591.jpg", id:"image27591"},
+		{src:"images/image27632.jpg", id:"image27632"},
+		{src:"images/image27673.jpg", id:"image27673"},
+		{src:"images/image27714.jpg", id:"image27714"},
+		
+		{src:"sounds/sound2.mp3", id:"sound2"},
+		{src:"sounds/sound3.mp3", id:"sound3"},
+		
+                ];
+                createjs.Sound.alternateExtensions = ["mp3"];
+                var loader = new createjs.LoadQueue(false);
+                loader.installPlugin(createjs.Sound);
 
-						
-						// Ocultamos el spinner, ahora que ya est� todo inicializado
-						pppSpinner.hide();
+                loader.addEventListener("fileload", handleFileLoad);
+                loader.addEventListener("complete", handleComplete);
+                loader.loadManifest(manifest);
+                loadXML();
+            }
 
-						window.onbeforeunload = function() {
-							aulaPlaneta.SCORM.terminate();
-						};
-				    }
-				};
-				
-				// Inicializamos pppPreloader:
-				// - usamos "module" como alias de CDN, pero al que
-				//   se s� le aplicar�n los prefijos de localPath y remotePath
-				// - indicamos que "module", en remoto (el CDN), est� en la
-				//   la carpeta 'motors/m4a/'.
-				pppPreloader.init( {
-        			aliases: { "module": "CDN" },
-	        		remotePaths: { "module": "motors/m101a/" }
-	      		});
-				
-				// Mostramos el spinner, ya que as� controlamos cu�ndo quitarlo (por ejemplo, cuando se
-				// haya inicializado el propio ejercicio, y no simplemente cuando se haya bajado todo
-				pppSpinner.show();
-				
-				// Cargamos el manifiesto del motor
-				pppPreloader.loadManifest(manifest);
+            function handleFileLoad(evt) {
+                if (evt.item.type == "image") {
+                    images[evt.item.id] = evt.result;
+                }
+            }
+            function putStage(myStage) {
 
-				// Volcado de errores del preloader por la consola
-				function logPreloaderErrors(mf) {
-			    	if (mf.errors.length > 0) {
-				        var msg = "ERROR pppPreloader: \n";
-				        for (var i=0;i<mf.errors.length;i++) {
-				        	msg += "  - " + mf.errors[i].type + ": " + mf.errors[i].file + " [" + mf.errors[i].url + "]\n";
-				        }
-				        console.log(msg);
-			    	}
-				}
-				
-				function buttonSymbol(typeSymbol, numberSymbol){
-        			Motor.InsertSymbol(typeSymbol,numberSymbol);
-        		}
+                if (exportRoot) {
+                    exportRoot.removeAllChildren();
+                }
+                exportRoot = myStage;
+                stage = new createjs.Stage(canvas);
+                stage.clear();
+                createjs.Ticker.removeAllEventListeners();
+                stage.autoClear = true; // This must be true to clear the stage.
+                stage.removeAllChildren();
 
-	    </script>
+                stage.addChild(exportRoot);
+                stage.update();
+                stage.enableMouseOver();
+                onResize();
+                createjs.Ticker.setFPS(24);
+                createjs.Ticker.addEventListener("tick", stage);
+            }
+            function handleComplete() {
+                var child = document.getElementById("loading");
+                if (child != null)
+                    child.parentNode.removeChild(child);
+                putStage(new lib.frame1())
+
+            }
+            function loadXML() {
+                xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("GET", "data/datos.xml", false);
+                xmlhttp.send();
+                xmlDoc = xmlhttp.responseXML;
+                x = xmlDoc.getElementsByTagName("XMLDatos")[0].childNodes;
+                y = xmlDoc.getElementsByTagName("XMLDatos")[0].firstChild;
+                for (i = 0; i < x.length; i++)
+                {
+                    if (y.nodeType == 1)
+                    {//Process only element nodes (type 1)
+                        j = xmlDoc.getElementsByTagName(y.nodeName)[0].childNodes[0]
+                        textos[y.nodeName] = j.nodeValue;
+                    }
+                    y = y.nextSibling;
+                }
+            }
+        </script>
     </head>
-    <body id="background">
-    	
-        <!--[if lt IE 8]>
-            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-		<!--<video src="data/small.mp4" controls width="300" height="250" id="video" style="top:250px; position: absolute;"></video>-->
-        <!-- Add your site or application content here -->
-        <div id="aplicacion">
-        	<div id="wrapper">
-				<div id="mediaHolder" style="height:0px">
-				</div>
-				
-				<canvas id="stage" width="950" height="608"></canvas>
-				<span id="calculator"></span>
-				<div id="symbolHtml" class="symbolContainer"></div>
-			</div>
-		</div>
+
+    <body onload="init();" onorientationchange="onResize();" style="background-color:#FFFFFF" ><div id="loading" align="center" style="position: absolute;top:50%;left:50%;width:400px;margin-left:-200px;height:300px;margin-top:-150px;" ><img src="images/status.gif"/></div>
+        <canvas id="canvas" width="950" height="608" style="background-color:transparent"></canvas>
+       
     </body>
 </html>

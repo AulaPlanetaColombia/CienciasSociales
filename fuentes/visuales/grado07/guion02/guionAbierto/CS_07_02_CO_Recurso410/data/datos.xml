@@ -1,0 +1,576 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapa aprid="mapa">
+  <copyright>(c) Editorial Planeta</copyright>
+  <version>1.0</version>
+  <botonMapaConceptual>mostrar</botonMapaConceptual>
+  <botonMapaMudo>ocultar</botonMapaMudo>
+  <botonMudo>0</botonMudo>
+  <objeto>
+    <ref>00</ref>
+    <texto>La Edad Media</texto>
+    <hijos>10</hijos>
+    <padre />
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>10</ref>
+    <texto>tuvo dos fases</texto>
+    <hijos>20,21</hijos>
+    <padre>00</padre>
+    <siz>14</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>20</ref>
+    <texto>Alta Edad Media (476 - 1000)</texto>
+    <hijos>30,31,32,33</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>21</ref>
+    <texto>Baja Edad Media (s. X y XV)</texto>
+    <hijos>34,35</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto>se desarrollaron</texto>
+    <hijos>40</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>estilos
+artísticos</texto>
+    <hijos>50</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>se caracterizó por</texto>
+    <hijos>41</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>la dominación
+de la Iglesia</texto>
+    <hijos>51</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto>se fundamentó en</texto>
+    <hijos>42</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>Estado
+feudal</texto>
+    <hijos>52</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>33</ref>
+    <texto>se originó por</texto>
+    <hijos>43</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>43</ref>
+    <texto>invaciones
+a Europa</texto>
+    <hijos>53</hijos>
+    <padre>33</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto>como</texto>
+    <hijos>60</hijos>
+    <padre>40</padre>
+    <siz>0</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>- románico
+- mozárabe
+- bizantino</texto>
+    <hijos />
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>en</texto>
+    <hijos>61</hijos>
+    <padre>41</padre>
+    <siz>0</siz>
+    <negcur>00</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>la vida pública
+y privada</texto>
+    <hijos />
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>estableció</texto>
+    <hijos>62,63,64</hijos>
+    <padre>42</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto>sistema
+económico</texto>
+    <hijos>70</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>relaciones
+de vasallaje</texto>
+    <hijos>71</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>sociedad
+estamental</texto>
+    <hijos>72</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto>basado</texto>
+    <hijos>80</hijos>
+    <padre>62</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>- producción de
+  subsistencia
+- tributos</texto>
+    <hijos />
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto>entre</texto>
+    <hijos>81</hijos>
+    <padre>63</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>hombres
+libres</texto>
+    <hijos />
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>72</ref>
+    <texto>conformada por</texto>
+    <hijos>82</hijos>
+    <padre>64</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>- clero
+- nobleza
+- siervos</texto>
+    <hijos />
+    <padre>72</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>53</ref>
+    <texto>de</texto>
+    <hijos>65</hijos>
+    <padre>43</padre>
+    <siz>0</siz>
+    <negcur>000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>- normandos
+- húngaros
+- sarracenos</texto>
+    <hijos />
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>34</ref>
+    <texto>se desarrollaron</texto>
+    <hijos>44,48,49</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>44</ref>
+    <texto>ciencias
+y técnicas</texto>
+    <hijos>57</hijos>
+    <padre>34</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>35</ref>
+    <texto>se caracterizó por el</texto>
+    <hijos>45,46,47</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>45</ref>
+    <texto>intercambio
+comercial</texto>
+    <hijos>56</hijos>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>46</ref>
+    <texto>desarrollo
+agrícola</texto>
+    <hijos>55</hijos>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>47</ref>
+    <texto>renacer de
+las ciudades</texto>
+    <hijos>54</hijos>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>54</ref>
+    <texto>que trajó</texto>
+    <hijos>66</hijos>
+    <padre>47</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>el surgimiento
+de la burguesía</texto>
+    <hijos />
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>55</ref>
+    <texto>con</texto>
+    <hijos>67</hijos>
+    <padre>46</padre>
+    <siz>0</siz>
+    <negcur>000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>67</ref>
+    <texto>innovación
+técnica</texto>
+    <hijos />
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>56</ref>
+    <texto>con</texto>
+    <hijos>68,69</hijos>
+    <padre>45</padre>
+    <siz>0</siz>
+    <negcur>000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>68</ref>
+    <texto>la apertura
+de rutas</texto>
+    <hijos />
+    <padre>56</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>69</ref>
+    <texto>el desarrollo
+de la banca</texto>
+    <hijos />
+    <padre>56</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>48</ref>
+    <texto>escuelas de
+pensamiento</texto>
+    <hijos>58</hijos>
+    <padre>34</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>49</ref>
+    <texto>estilos
+artísticos</texto>
+    <hijos>59</hijos>
+    <padre>34</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>57</ref>
+    <texto>con aportes</texto>
+    <hijos>6A</hijos>
+    <padre>44</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>6A</ref>
+    <texto>árabes</texto>
+    <hijos />
+    <padre>57</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>58</ref>
+    <texto>determinadas por</texto>
+    <hijos>6B</hijos>
+    <padre>48</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>6B</ref>
+    <texto>la fe y
+la razón</texto>
+    <hijos />
+    <padre>58</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>59</ref>
+    <texto>como</texto>
+    <hijos>6C</hijos>
+    <padre>49</padre>
+    <siz>0</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>6C</ref>
+    <texto>- gótico
+- mudéjar</texto>
+    <hijos />
+    <padre>59</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>0</cen>
+    <img />
+    <audio />
+  </objeto>
+</mapa>

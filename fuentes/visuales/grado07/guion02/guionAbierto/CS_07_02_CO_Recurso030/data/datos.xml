@@ -1,51 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!--Arbortext, Inc., 1988-2013, v.4002-->
-<motor tipo="101" clase="a" aprid="M101a">
-  <plataforma>
-    <grado><![CDATA[2]]></grado>
-    <titulo>Refuerza tu aprendizaje: la nobleza</titulo>
-    <area>2</area>
-    <nivel>2</nivel>
-    <referencia><![CDATA[CS_08_08]]></referencia>
-    <idreg><![CDATA[3513]]></idreg>
-    <motor><![CDATA[M101A]]></motor>
-    <lang>es</lang>
-  </plataforma>
-  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario, entrega las respuestas por escrito o por email a tu profesor para que pueda validarlas.]]></enunciado>
-  <masinfo inicio="0" />
-  <calc><![CDATA[0]]></calc>
-  <preguntas cantidad="4">
-    <pregunta>
-      <enunciado><![CDATA[Define el papel de los nobles en la sociedad feudal y di a quién juraban fidelidad.]]></enunciado>
-      <explicacion />
-      <nivel><![CDATA[1]]></nivel>
-      <tipo />
-      <imagen />
-      <ampliacion />
-    </pregunta>
-    <pregunta>
-      <enunciado><![CDATA[Indica en qué dos grupos se dividía la nobleza en la época feudal y qué miembros formaban parte de cada uno de ellos. ]]></enunciado>
-      <explicacion />
-      <nivel><![CDATA[1]]></nivel>
-      <tipo />
-      <imagen />
-      <ampliacion />
-    </pregunta>
-    <pregunta>
-      <enunciado><![CDATA[Explica qué obligaciones tenían los nobles hacia la población.]]></enunciado>
-      <explicacion />
-      <nivel><![CDATA[1]]></nivel>
-      <tipo />
-      <imagen />
-      <ampliacion />
-    </pregunta>
-    <pregunta>
-      <enunciado><![CDATA[Averigua cómo eran los castillos de los señores feudales y elabora un breve texto donde los describas. ]]></enunciado>
-      <explicacion />
-      <nivel><![CDATA[3]]></nivel>
-      <tipo />
-      <imagen />
-      <ampliacion />
-    </pregunta>
-  </preguntas>
-</motor>
+<XMLDatos aprid="F">
+  <titulo>La literatura medieval europea también habló de los caballeros
+Roldán, El Cid, Tristán o los caballeros de la Tabla Redonda
+tienen sus propios versos.</titulo>
+  <btnpractica><![CDATA[PRACTICA]]></btnpractica>
+  <btnsolucion><![CDATA[SOLUCIÓN]]></btnsolucion>
+</XMLDatos>
