@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Comprende qué fue el Imperio carolingio</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[cs_08_08_02]]></referencia>
+    <id_reg><![CDATA[43]]></id_reg>
+    <motor><![CDATA[M5b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Elige la respuesta correcta después de ver el video.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado><![CDATA[¿En qué año Pipino el Breve se convirtió en rey de los francos?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000433_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="730" correcta="0"/>
+        <respuesta contestacion="751" correcta="1"/>
+        <respuesta contestacion="800" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Con quién selló Pipino el Breve un tratado de protección?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000433_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Alemania" correcta="0"/>
+        <respuesta contestacion="Papado" correcta="1"/>
+        <respuesta contestacion="Hispania" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién fue el hijo de Pipino el Breve?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000433_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Carlomagno" correcta="1"/>
+        <respuesta contestacion="Carlos Martel" correcta="0"/>
+        <respuesta contestacion="Carolingio" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué año fue coronado emperador Carlomagno?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000433_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="800" correcta="1"/>
+        <respuesta contestacion="814" correcta="0"/>
+        <respuesta contestacion="801" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibían los territorios gobernados por el papa?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000433_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Roma." correcta="0"/>
+        <respuesta contestacion="Estados Pontificios." correcta="1"/>
+        <respuesta contestacion="Tierra Santa." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué se convirtió la capital carolingia?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000433_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="La capital intelectual de Europa." correcta="1"/>
+        <respuesta contestacion="El centro del catolicismo." correcta="0"/>
+        <respuesta contestacion="La ciudad más grande del mundo." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué quiso recuperar Carlomagno?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000433_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="La herencia bizantina." correcta="0"/>
+        <respuesta contestacion="La herencia romana." correcta="1"/>
+        <respuesta contestacion="La herencia franca." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Carlomagno sentó las bases para la unidad...]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000433_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="...política y espiritual de Europa." correcta="1"/>
+        <respuesta contestacion="...del reino merovingio." correcta="0"/>
+        <respuesta contestacion="...del islam." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

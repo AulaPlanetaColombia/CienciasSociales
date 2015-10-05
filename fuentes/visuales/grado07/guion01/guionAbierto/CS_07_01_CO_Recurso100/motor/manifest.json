@@ -2,65 +2,64 @@
 
     "blocks": [
             { "type": "css", "files": [
-                { "from": "module", "file": "motor/css/normalize.css" },
-                { "from": "module", "file": "motor/css/main.css" },
-                { "from": "module", "file": "motor/css/ie.css", "onlyif": "IE 9" },
-                { "from": "module", "file": "motor/css/ie.css", "onlyif": "IE 10" },
-                { "from": "CDN", "file": "extlib/calculadora/jquery_calculator.css" }
+                { "from": "CDN", "file": "lib/pppui/1_0/css/pppui.css" },
+
+                { "from": "module", "file": "motor/css/app.css" },
+                { "from": "module", "file": "motor/css/f1.css" },
+
+                { "from": "CDN", "file": "lib/cepdamediaplayer/1_1/css/cepdamediaplayer_base.css" },
+                { "from": "CDN", "file": "lib/cepdamediaplayer/1_1/cepda_aulaplaneta_theme/cepda_aulaplaneta_small.css" }
             ]},
 
             { "type": "js", "files": [
-                { "from": "CDN", "file": "extlib/jquery/1_11_1/jquery-1_11_1_min.js" },
-                { "from": "CDN", "file": "extlib/jquery/1_11_1/jquery-ui_min.js" },
-				{ "from": "CDN", "file": "extlib/jquery/1_11_1/jquery-touch-punch_min.js" },
-                { "from": "CDN", "file": "extlib/calculadora/jquery_plugin_min.js" },
-                { "from": "CDN", "file": "extlib/calculadora/jquery_calculator_min.js" },
-                { "from": "CDN", "file": "extlib/calculadora/jquery_calculator-es.js" },
-                { "from": "CDN", "file": "extlib/createjs/2013_12_12/createjs_min.js" },
-                { "from": "CDN", "file": "lib/aulaplaneta/1_0/js/APIWrapper.js" },
-                { "from": "CDN", "file": "lib/aulaplaneta/1_0/js/SCORM.js" },
+                { "from": "CDN", "file": "extlib/jquery/1_11_1/jquery_1_11_1_min.js" },
 
-                { "from": "module", "file": "motor/js/utils.js" },
-                { "from": "module", "file": "motor/js/scorm.js" },
-                { "from": "module", "file": "motor/js/richText.js" },
-                { "from": "module", "file": "motor/js/controlsContenedor.js" },
-                { "from": "module", "file": "motor/js/controlsMotor.js" },
-                { "from": "module", "file": "motor/js/datosXML.js" },
-                { "from": "module", "file": "motor/js/motor.js" },
-                { "from": "module", "file": "motor/js/contenedor.js" },
-                { "from": "module", "file": "motor/js/correctorTexto.js" },
-                { "from": "module", "file": "motor/js/DOMElementCustom.js" },
-                { "from": "module", "file": "motor/js/lang.js" },
-                { "from": "module", "file": "motor/js/main.js" }
-            ]},
-            
-            { "type": "img", "files": [
-                { "from": "module", "file": "motor/images/tancar.png" },
-                { "from": "module", "file": "motor/images/btnAceptar.png" },
-                { "from": "module", "file": "motor/images/btnCancelar.png" },
-                { "from": "module", "file": "motor/images/btnCorregir.png" },
-                { "from": "module", "file": "motor/images/btnReiniciar.png" },
-                { "from": "module", "file": "motor/images/btnRestaurar.png" },
-                { "from": "module", "file": "motor/images/btnSolucio.png" },
-                { "from": "module", "file": "motor/images/btnSeguent.png" },
-                { "from": "module", "file": "motor/images/paginacioIni.png" },
-                { "from": "module", "file": "motor/images/paginacioFi.png" },
-                { "from": "module", "file": "motor/images/paginacio.png" },
-                { "from": "module", "file": "motor/images/btnValidar.png" },
+                { "from": "CDN", "file": "lib/cepdamediaplayer/1_1/js/jquery_ui_1_10_4_custom_min.js" },
+                { "from": "CDN", "file": "lib/cepdamediaplayer/1_1/js/jquery_ui_1_10_4_slider_scale.js" },
+                { "from": "CDN", "file": "lib/cepdamediaplayer/1_1/js/jquery_cepdamediaplayer.js" },
 
-                { "from": "module", "file": "motor/images/calculadora.png" },
-                { "from": "module", "file": "motor/images/mesInfo.png" },
-                { "from": "module", "file": "motor/images/tancar.png" },
-                { "from": "module", "file": "motor/images/planeta.png" },
-
-                { "from": "module", "file": "motor/images/ico_zoom.png" },
-                { "from": "module", "file": "motor/images/check_ok.png" },
-                { "from": "module", "file": "motor/images/check_ko.png" },
-                { "from": "module", "file": "motor/images/check_base.png" },
+                { "from": "CDN", "file": "lib/pppui/1_0/js/pppui_min.js" },
                 
-                { "from": "module", "file": "motor/images/ico_zoom.png" },
-                { "from": "module", "file": "motor/images/simbolos.png" },
-                { "from": "module", "file": "motor/images/wtancar.png" }
+                { "from": "module", "file": "motor/js/f1all_min.js" },
+
+                { "from": "mathjax", "file": "MathJax.js?config=TeX-AMS-MML_SVG", "onlyif": "Chrome" },
+                { "from": "mathjax", "file": "MathJax.js?config=TeX-AMS-MML_HTMLorMML", "onlyif": "!Chrome" }
+
+            ]},
+
+            { "type": "img", "files": [
+                { "from": "module", "file": "motor/images/btnclose35.svg" },
+                { "from": "module", "file": "motor/images/btnclose35_white.svg" },
+                { "from": "module", "file": "motor/images/btnfirst35.svg" },
+                { "from": "module", "file": "motor/images/btnfirst35_white.svg" },
+                { "from": "module", "file": "motor/images/btnhome35.svg" },
+                { "from": "module", "file": "motor/images/btnhome35_white.svg" },
+                { "from": "module", "file": "motor/images/btninfo35.svg" },
+                { "from": "module", "file": "motor/images/btninfo35_white.svg" },
+                { "from": "module", "file": "motor/images/btnlast35.svg" },
+                { "from": "module", "file": "motor/images/btnlast35_white.svg" },
+                { "from": "module", "file": "motor/images/btnminus35.svg" },
+                { "from": "module", "file": "motor/images/btnminus35_white.svg" },
+                { "from": "module", "file": "motor/images/btnnext35.svg" },
+                { "from": "module", "file": "motor/images/btnnext35_white.svg" },
+                { "from": "module", "file": "motor/images/btnnoinfo35.svg" },
+                { "from": "module", "file": "motor/images/btnnoinfo35_white.svg" },
+                { "from": "module", "file": "motor/images/btnopen35.svg" },
+                { "from": "module", "file": "motor/images/btnopen35_white.svg" },
+                { "from": "module", "file": "motor/images/btnpause35.svg" },
+                { "from": "module", "file": "motor/images/btnpause35_white.svg" },
+                { "from": "module", "file": "motor/images/btnplay35.svg" },
+                { "from": "module", "file": "motor/images/btnplay35_white.svg" },
+                { "from": "module", "file": "motor/images/btnprev35.svg" },
+                { "from": "module", "file": "motor/images/btnprev35_white.svg" },
+                { "from": "module", "file": "motor/images/btnroundamp35.svg" },
+                { "from": "module", "file": "motor/images/btnroundamp35_white.svg" },
+                { "from": "module", "file": "motor/images/btnzoom35.svg" },
+                { "from": "module", "file": "motor/images/btnzoom35_white.svg" },
+                { "from": "module", "file": "motor/images/scrollmarkertrans.png" },
+                { "from": "module", "file": "motor/images/watermark.svg" },
+                { "from": "module", "file": "motor/images/watermark_white.svg" },
+                { "from": "module", "file": "motor/images/_noimage.png" }
             ]}
     ]
 }

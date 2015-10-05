@@ -1,127 +1,88 @@
-<!doctype html>
-<html  lang="">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=10">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<!--<meta name="viewport" id="viewport" content="initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />-->
+		<!-- ************************************************************************
+		*
+		* Motor F1
+		*
+		* Versión 15.2.22.1
+		*
+		* Autor: Javier Garcés - Sinergia sistemas informáticos
+		* Autor: Jesús Gironés - Sinergia sistemas informáticos
+		*
+		************************************************************************-->
+    
+    
+    <title></title>
 
-        
+    <!-- Preloader -->
+	<script src="lib/ppppreloader/1_0/ppppreloader_min.js" type="text/javascript"></script>
 
-        <script type='text/javascript' src='lib/ppppreloader/1_0/ppppreloader_min.js'></script> 
-	    <script>
-	    		
-	    		
-	    		
-	    		
-	    		
-	    		
-				var manifest = {
-					
-				    blocks: [
-				    		{ type: "manifest", files: [ { from: "module", file:"motor/manifest.json"} ] }
-				    ],
-				    
-				    spinner: "no",
-				    
-				    waitForDocumentReady: true, 
-				    
-				    
-				    onEndLoading: function (mf) {
-				    	
-				    	if (mf.errors.length > 0) {
-				    		logPreloaderErrors(mf);
-					        pppSpinner.hide();
-				    		return;
-				    	}
-				    	
-				    	
-				        Main.init();
-						$.calculator.setDefaults( {
-							showOn: 'both', 
-							buttonImageOnly: true, 
-							onButton: function(value, inst) { 
-								if( value == "Cerrar" ){
-						        	Contenedor.closeHandler();
-						       	}
-						   },
-							buttonImage: pppPreloader.from('CDN', 'extlib/calculadora/calculator.png')
-						});
-						
-						var text = "";
-						for(i =0; i < Motor.symbols.length; i++)
-						{
-							var label = Motor.familyNames[i];
-							text = text + "<div class='symbolTitle'>"+label+"</div><div class='symbolTable'>";
-							var simbols = Motor.symbols[i].split(" ");
-							for(j=0; j < simbols.length; j++){
-								var simboltext = simbols[j];
-								text = text + " <div class='symbolCell' onclick='buttonSymbol("+ i + "," + j + ")'>" + simbols[j] + "</div>";
-							}
-							text = text + "</div>";
-						}	
-						//console.log(text);
-						text = text + "</div>";
-						document.getElementById("symbolHtml").innerHTML = text;
+	<!-- inicialización MathJax -->
+	<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+			tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]},
+			showMathMenu: false,
+			SVG: {
+				scale: 93,
+				matchFontHeight: true
+			}
+		});
+	</script>
 
-						
-						
-						pppSpinner.hide();
-
-						window.onbeforeunload = function() {
-							aulaPlaneta.SCORM.terminate();
-						};
-				    }
-				};
-				
-				
-				
-				
-				
-				
-				pppPreloader.init( {
-        			aliases: { "module": "CDN" },
-	        		remotePaths: { "module": "motors/m101a/" }
-	      		});
-				
-				
-				
-				pppSpinner.show();
-				
-				
-				pppPreloader.loadManifest(manifest);
-
-				
-				function logPreloaderErrors(mf) {
-			    	if (mf.errors.length > 0) {
-				        var msg = "ERROR pppPreloader: \n";
-				        for (var i=0;i<mf.errors.length;i++) {
-				        	msg += "  - " + mf.errors[i].type + ": " + mf.errors[i].file + " [" + mf.errors[i].url + "]\n";
-				        }
-				        console.log(msg);
-			    	}
+	<!-- inicialización general -->
+	<script type="text/javascript">
+		// Volcado de errores del preloader por la consola
+		var manifest = {
+			// Bloques de elementos a descargar
+			blocks: [
+					{ type: "manifest", files: [{ from: "module", file: "motor/manifest.json" }] },
+					{ type: "xml", files: [{ from: "data", file: "data/datos.xml" + "?time=" + new Date().getTime(), id: "datos_xml" }] }
+			],
+			// Sin spinner automático
+			spinner: "no",
+			// Esperamos a que el documento está "ready" para recibir el evento
+			waitForDocumentReady: true,
+			// Evento de fin de carga (correcta o incorrecta). Si es incorrecta, el manifiesto
+			// contendrá un array "errors" con los errores (manifest.errors.length > 0)
+			onEndLoading: function (mf) {
+				// Miramos si ha habido errores graves en la precarga
+				if (mf.errors.length > 0) {
+					console.log(pppPreloader.logErrors(mf));
+					//return;
 				}
-				
-				function buttonSymbol(typeSymbol, numberSymbol){
-        			Motor.InsertSymbol(typeSymbol,numberSymbol);
-        		}
+				// Si llegamos hasta aquí, es que todo ha ido bien
+				// Inicializamos el motor
+				main(mf.ids["datos_xml"]);
+			}
+		};
 
-	    </script>
-    </head>
-    <body id="background">
+		// Inicializamos pppPreloader:
+		// - "module" es alias de CDN, pero en remoto apunta a CDN/motors/f1
+		// - "mathjax" es alias de CDN, pero en local apunta a la versión online de MathJax
+		//   y en remoto apunta a "extlib/mathjax/latest/"
+		pppPreloader.init({
+			aliases: {
+							"module": "CDN",
+							"mathjax": "CDN"
+			},
+			localPaths: {	"mathjax": "http://cdn.mathjax.org/mathjax/latest/" } ,
+			remotePaths: {	"module": "motors/f1/",
+							"mathjax": "extlib/mathjax/latest/" }
+		});
 
-		
-        
-        <div id="aplicacion">
-        	<div id="wrapper">
-				<div id="mediaHolder" style="height:0px">
-				</div>
-				
-				<canvas id="stage" width="950" height="608"></canvas>
-				<span  id="calculator"></span>
-				<div id="symbolHtml" class="symbolContainer"></div>
-			</div>
-		</div>
-    </body>
+		// Mostramos el spinner
+		pppSpinner.show();
+
+		// Cargamos el manifiesto principal
+		pppPreloader.loadManifest(manifest);
+
+	</script>
+
+</head>
+<body style="background-color: #FFFFFF;">
+    <div id="__stage" style="width: 100%; height: 100%;"></div>
+</body>
 </html>
