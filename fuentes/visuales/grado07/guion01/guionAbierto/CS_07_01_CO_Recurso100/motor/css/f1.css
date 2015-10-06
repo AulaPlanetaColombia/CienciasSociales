@@ -217,7 +217,7 @@
 
 /* Botons tipus "slider" (quadrats negres de 35x35 amb icona) */
 .iconHomeButton {
-    background: transparent url("../images/btnhome35.svg") no-repeat;
+    background: transparent url("../images/btnhome35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -226,7 +226,7 @@
 }
 
 .iconHomeButton_white {
-    background: transparent url("../images/btnhome35_white.svg") no-repeat;
+    background: transparent url("../images/btnhome35_white.png") no-repeat;
 	background-position: center center;
 }
 
@@ -235,7 +235,7 @@
 }
 
 .iconPrevButton {
-    background: transparent url("../images/btnprev35.svg") no-repeat;
+    background: transparent url("../images/btnprev35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -244,7 +244,7 @@
 }
 
 .iconPrevButton_white {
-    background: transparent url("../images/btnprev35_white.svg") no-repeat;
+    background: transparent url("../images/btnprev35_white.png") no-repeat;
 	background-position: center center;
 }
 
@@ -253,7 +253,7 @@
 }
 
 .iconNextButton {
-    background: transparent url("../images/btnnext35.svg") no-repeat;
+    background: transparent url("../images/btnnext35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -262,7 +262,7 @@
 }
 
 .iconNextButton_white {
-    background: transparent url("../images/btnnext35_white.svg") no-repeat;
+    background: transparent url("../images/btnnext35_white.png") no-repeat;
 	background-position: center center;
 }
 
@@ -271,7 +271,7 @@
 }
 
 .iconCloseButton {
-    background: transparent url("../images/btnclose35.svg") no-repeat;
+    background: transparent url("../images/btnclose35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -280,7 +280,7 @@
 }
 
 .iconCloseButton_white {
-    background: transparent url("../images/btnclose35_white.svg") no-repeat;
+    background: transparent url("../images/btnclose35_white.png") no-repeat;
 	background-position: center center;
 }
 
@@ -289,7 +289,7 @@
 }
 
 .iconOpenButton {
-    background: transparent url("../images/btnopen35.svg") no-repeat;
+    background: transparent url("../images/btnopen35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -298,7 +298,7 @@
 }
 
 .iconOpenButton_white {
-    background: transparent url("../images/btnopen35_white.svg") no-repeat;
+    background: transparent url("../images/btnopen35_white.png") no-repeat;
 	background-position: center center;
 }
 
@@ -307,7 +307,7 @@
 }
 
 .iconInfoButton {
-    background: transparent url("../images/btninfo35.svg") no-repeat;
+    background: transparent url("../images/btninfo35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -316,7 +316,7 @@
 }
 
 .iconInfoButton_white {
-    background: transparent url("../images/btninfo35_white.svg") no-repeat;
+    background: transparent url("../images/btninfo35_white.png") no-repeat;
 	background-position: center center;
 }
 
@@ -325,7 +325,7 @@
 }
 
 .iconNoInfoButton {
-	background: transparent url("../images/btnnoinfo35.svg") no-repeat;
+	background: transparent url("../images/btnnoinfo35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -334,7 +334,7 @@
 }
 
 .iconNoInfoButton_white {
-	background: transparent url("../images/btnnoinfo35_white.svg") no-repeat;
+	background: transparent url("../images/btnnoinfo35_white.png") no-repeat;
 	background-position: center center;
 }
 
@@ -343,7 +343,7 @@
 }
 
 .iconZoomButton {
-	background: transparent url("../images/btnzoom35.svg") no-repeat;
+	background: transparent url("../images/btnzoom35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -352,7 +352,7 @@
 }
 
 .iconZoomButton_white {
-	background: transparent url("../images/btnzoom35_white.svg") no-repeat;
+	background: transparent url("../images/btnzoom35_white.png") no-repeat;
 	background-position: center center;
 }
 
@@ -361,7 +361,7 @@
 }
 
 .iconFirstButton {
-	background: transparent url("../images/btnfirst35.svg") no-repeat;
+	background: transparent url("../images/btnfirst35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -370,7 +370,7 @@
 }
 
 .iconFirstButton_white {
-	background: transparent url("../images/btnfirst35_white.svg") no-repeat;
+	background: transparent url("../images/btnfirst35_white.png") no-repeat;
 	background-position: center center;
 }
 
@@ -379,7 +379,7 @@
 }
 
 .iconLastButton {
-	background: transparent url("../images/btnlast35.svg") no-repeat;
+	background: transparent url("../images/btnlast35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -388,7 +388,7 @@
 }
 
 .iconLastButton_white {
-	background: transparent url("../images/btnlast35_white.svg") no-repeat;
+	background: transparent url("../images/btnlast35_white.png") no-repeat;
 	background-position: center center;
 }
 
@@ -397,7 +397,7 @@
 }
 
 .iconPlayButton {
-	background: transparent url("../images/btnplay35.svg") no-repeat;
+	background: transparent url("../images/btnplay35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -406,7 +406,7 @@
 }
 
 .iconPlayButton_white {
-	background: transparent url("../images/btnplay35_white.svg") no-repeat;
+	background: transparent url("../images/btnplay35_white.png") no-repeat;
 	background-position: center center;
 }
 
@@ -415,7 +415,7 @@
 }
 
 .iconPauseButton {
-	background: transparent url("../images/btnpause35.svg") no-repeat;
+	background: transparent url("../images/btnpause35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -424,7 +424,7 @@
 }
 
 .iconPauseButton_white {
-	background: transparent url("../images/btnpause35_white.svg") no-repeat;
+	background: transparent url("../images/btnpause35_white.png") no-repeat;
 	background-position: center center;
 }
 
@@ -433,7 +433,7 @@
 }
 
 .iconRoundAmpButton {
-	background: transparent url("../images/btnroundamp35.svg") no-repeat;
+	background: transparent url("../images/btnroundamp35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -442,7 +442,7 @@
 }
 
 .iconRoundAmpButton_white {
-	background: transparent url("../images/btnroundamp35_white.svg") no-repeat;
+	background: transparent url("../images/btnroundamp35_white.png") no-repeat;
 	background-position: center center;
 }
 
@@ -451,7 +451,7 @@
 }
 
 .iconPlusButton {
-	background: transparent url("../images/btnopen35.svg") no-repeat;
+	background: transparent url("../images/btnopen35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -460,7 +460,7 @@
 }
 
 .iconPlusButton_white {
-	background: transparent url("../images/btnopen35_white.svg") no-repeat;
+	background: transparent url("../images/btnopen35_white.png") no-repeat;
 	background-position: center center;
 }
 
@@ -469,7 +469,7 @@
 }
 
 .iconMinusButton {
-	background: transparent url("../images/btnminus35.svg") no-repeat;
+	background: transparent url("../images/btnminus35.png") no-repeat;
 	background-position: center center;
 }
 
@@ -478,7 +478,7 @@
 }
 
 .iconMinusButton_white {
-	background: transparent url("../images/btnminus35_white.svg") no-repeat;
+	background: transparent url("../images/btnminus35_white.png") no-repeat;
 	background-position: center center;
 }
 
