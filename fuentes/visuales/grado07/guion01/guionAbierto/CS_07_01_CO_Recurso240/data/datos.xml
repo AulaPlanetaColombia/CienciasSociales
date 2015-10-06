@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<motor tipo="101" clase="a" aprid="m101a">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>El mundo afroasiático durante la Edad Media</titulo>
+    <volumen />
+    <nivel><![CDATA[3]]></nivel>
+    <referencia />
+    <motor />
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario, entrega la respuestas por escrito o por email para que tu profesor pueda validarlas.]]></enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="5">
+    <pregunta>
+      <enunciado><![CDATA[Investiga sobre el Imperio mongol, su líder Gengis Khan, y sobre su importante legado para Asia y para el mundo occidental del segundo milenio.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Cuáles son las principales características de la dinastía Jin?]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Investiga sobre la ciudad de Chan’gan, capital de la dinastía Jin, y escribe brevemente cuál fue su proceso de auge y decadencia.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Cuál consideras que fue el mayor logro del Imperio mongol?]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿A qué atribuirías la necesidad de los Imperios Jin del Este y Jin del Oeste de tener grandes y poderosos ejércitos?]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+  </preguntas>
+  <temps>30</temps>
+</motor>
