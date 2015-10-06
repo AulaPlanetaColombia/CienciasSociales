@@ -2,19 +2,19 @@
  *
  * CEPDA Media Player - jQuery plugin basado en Acorn Media Player
  *
- * Versión 15.02.19.1
+ * Versiï¿½n 14.10.27.1
  *
  * Autores Acorn Media Player: www.ghinda.net 
  *														(stephenoldham y leslash en github.com)
- * Autor versión actual: Javier Garcés - Sinergia sistemas informáticos
+ * Autor versiï¿½n actual: Javier Garcï¿½s - Sinergia sistemas informï¿½ticos
  *
  ************************************************************************/
 
-// Inicialización del plugin JQuery
+// Inicializaciï¿½n del plugin JQuery
 (function($) {
 	
 	/*
-	 * Función a la que debemos llamar desde jquery
+	 * Funciï¿½n a la que debemos llamar desde jquery
 	 */
 	$.fn.cepdaMediaPlayer = function(options) {
 		
@@ -24,12 +24,12 @@
 		var defaults = {
 			theme: 'planeta',							// Tema
 			volumeSlider: 'horizontal',		// Tipo de slider para volumen (vertical u horizontal)
-			captionsOn: true,							// Mostramos los subtítulos si los tiene
-			autoplayOn: true,							// Reproducimos el vídeo nada más crearlo
-			bigBtnOn: true,								// Ponemos el botón BIG Play
+			captionsOn: true,							// Mostramos los subtï¿½tulos si los tiene
+			autoplayOn: true,							// Reproducimos el vï¿½deo nada mï¿½s crearlo
+			bigBtnOn: true,								// Ponemos el botï¿½n BIG Play
 			saveVolumeOn: false,					// No guardamos el nivel de volumen entre sesiones
 			nativeSliders: false,					// No usamos sliders nativos
-			fullScreenRelocateOn: false,	// Recolocamos en el DOM el elemento para que en fullscreen esté en el body y evite problemas de escalado
+			fullScreenRelocateOn: false,	// Recolocamos en el DOM el elemento para que en fullscreen estï¿½ en el body y evite problemas de escalado
 			texts:{												// Textos de los botones 
 				play: 'Play',
 				playTitle: 'Start the playback',
@@ -49,8 +49,8 @@
 		options = $.extend(defaults, options);
 
 		/*
-		 * Función para generar un identificador único a partir de la fecha y hora
-		 * Se usa para generar un Id por cada tag de media (vídeo o audio) que encontremos
+		 * Funciï¿½n para generar un identificador ï¿½nico a partir de la fecha y hora
+		 * Se usa para generar un Id por cada tag de media (vï¿½deo o audio) que encontremos
 		 */
 		var uniqueID = function() {
 			var currentDate = new Date();
@@ -69,9 +69,9 @@
 		}
 
 		/*
-		* Detección básica de algunos aspectos de compatibilidad (pantalla tactil, casos de navegadores determinados, etc)
+		* Detecciï¿½n bï¿½sica de algunos aspectos de compatibilidad (pantalla tactil, casos de navegadores determinados, etc)
 		*/
-		// Detección de Flash (basada en SWFObject 2.2)
+		// Detecciï¿½n de Flash (basada en SWFObject 2.2)
 		function hasAdobeFlash() {
       var SHOCKWAVE_FLASH = "Shockwave Flash",
           SHOCKWAVE_FLASH_AX = "ShockwaveFlash.ShockwaveFlash",
@@ -101,7 +101,7 @@
 			return false;
 		}
 		
-		// Detección de soporte para LocalStorage (para guardarnos el volumen)
+		// Detecciï¿½n de soporte para LocalStorage (para guardarnos el volumen)
 		function hasLocalStorage() {
 			try {
 				return 'localStorage' in window && window.localStorage !== null;
@@ -126,13 +126,13 @@
 		// Soporta local storage
 		var supports_local_storage = hasLocalStorage();
 		
-		// No tiene soporte nativo vídeo HTML5
+		// No tiene soporte nativo vï¿½deo HTML5
 		var cant_use_html5_video = !document.createElement('video').canPlayType;
 		// No puede manejar el volumen (iOS)
 		var cant_manage_volume = is_ios_browser; // Sin soporte de control de volumen
 		// No puede mostar el BIG play porque resulta que el propio navegador ya pone uno y no lo quita nunca
 		var cant_show_big_play = is_android_chrome_browser || is_android_os_browser;
-		// No puede usar el modo fullscreen nativo aunque el api lo soporte (por ejemplo, porque quita subtítulos o controles)
+		// No puede usar el modo fullscreen nativo aunque el api lo soporte (por ejemplo, porque quita subtï¿½tulos o controles)
 		// NOTA (11/7/2014): Lo desactivamos porque cuando el player va dentro de un IFRAME nunca puede hacer
 		//                   fullscreen nativo
 		var cant_go_fullscreen = true; //is_windows_ie_browser || is_ios_browser || is_android_chrome_browser || is_android_os_browser;
@@ -144,28 +144,28 @@
 		debugLog("has_adobe_flash: " + has_adobe_flash);
 
 		/*********************************************************************************************************
-				MODO VIDEO FLASH (para cuando no hay compatibilidad vídeo nativo HTML5)
+				MODO VIDEO FLASH (para cuando no hay compatibilidad vï¿½deo nativo HTML5)
 		**********************************************************************************************************/
 
 		/* cant_use_html5_video = false; */
 
-		// Miramos si tenemos soporte de vídeo HTML5 nativo
+		// Miramos si tenemos soporte de vï¿½deo HTML5 nativo
 		if (cant_use_html5_video) {
 			
 			/*
-			 * Función principal del plugin cuando ha de usar FLASH (pseudo-constructor)
-			 * Se la llamará para cada elemento video o audio que queramos customizar
+			 * Funciï¿½n principal del plugin cuando ha de usar FLASH (pseudo-constructor)
+			 * Se la llamarï¿½ para cada elemento video o audio que queramos customizar
 			 */
 			var cepdaFlashPlayer = function() {
-				// Creamos el objeto cepda, que será el que usaremos como raíz para las
-				// referencias a todos los elementos a manipular del vídeo/audio
+				// Creamos el objeto cepda, que serï¿½ el que usaremos como raï¿½z para las
+				// referencias a todos los elementos a manipular del vï¿½deo/audio
 				var cepda = {
 					$self: $(this)
 				};
 				
 				/*
 				 * Miramos si hay la media tiene ID.
-				 * Si no tiene, generamos uno que sea único
+				 * Si no tiene, generamos uno que sea ï¿½nico
 				 */
 				cepda.id = cepda.$self.attr('id');
 				if(!cepda.id) {
@@ -200,15 +200,15 @@
 				flashMarkup +=				'"/>\n' +
 													'</object>\n';
 													
-				// Contenedor de los media. Básicamente, lo que se hace es sacar el vídeo/audio del DOM
-				// poner este contenedor en su lugar, y dentro de éste volver a colocar el vídeo/audio
-				// junto con los controles, el botón BIG Play y otros elementos.
+				// Contenedor de los media. Bï¿½sicamente, lo que se hace es sacar el vï¿½deo/audio del DOM
+				// poner este contenedor en su lugar, y dentro de ï¿½ste volver a colocar el vï¿½deo/audio
+				// junto con los controles, el botï¿½n BIG Play y otros elementos.
 				var $wrapper = $(flashMarkup);
 				// Nos aseguramos que sea visible
 				//$wrapper.css('visibility','visible');
 				
 				// Montamos el HTML Markup definitivo
-				// Añadimos el contenedor
+				// Aï¿½adimos el contenedor
 				cepda.$self.after($wrapper);
 	
 				// Quitamos la media real y nos quedamos con el nuevo media/video dentro del contenedor
@@ -224,17 +224,17 @@
 				var $flashObject = $("object", cepda.$self);
 				// Lo sacamos del DOM
 				$flashObject.detach();
-				// Lo volvemos a añadir tras el tag de vídeo
+				// Lo volvemos a aï¿½adir tras el tag de vï¿½deo
 				cepda.$self.after($flashObject);
-				// Nos cargamos el tag de vídeo
+				// Nos cargamos el tag de vï¿½deo
 				cepda.$self.remove();
 				// Hacemos que $self apunte ahora al objeto Flash
 				cepda.$self = $flashObject;
 				
 			}
 			
-			// Hacemos este proceso por todos los elementos que cumplan con el criterio de incialización
-			// para que acaben siendo un plugin de Flash y lo dejamos así.
+			// Hacemos este proceso por todos los elementos que cumplan con el criterio de incializaciï¿½n
+			// para que acaben siendo un plugin de Flash y lo dejamos asï¿½.
 			return this.each(cepdaFlashPlayer);
 		}
 
@@ -243,7 +243,7 @@
 		**********************************************************************************************************/
 
 		/*
-		 * Obtenemos el volumen del LocalStorage, si lo hay. Si no, lo ponemos al máximo
+		 * Obtenemos el volumen del LocalStorage, si lo hay. Si no, lo ponemos al mï¿½ximo
 		 */
 		var volume = (supports_local_storage && options.saveVolumeOn) ? localStorage.getItem('cepdavolume') : 1;
 		if(!volume) {
@@ -251,36 +251,36 @@
 		}
 
 		/*
-		 * Función principal del plugin (pseudo-constructor)
-		 * Se la llamará para cada elemento video o audio que queramos customizar
+		 * Funciï¿½n principal del plugin (pseudo-constructor)
+		 * Se la llamarï¿½ para cada elemento video o audio que queramos customizar
 		 */
 		var cepdaPlayer = function() {
-			// Creamos el objeto cepda, que será el que usaremos como raíz para las
-			// referencias a todos los elementos a manipular del vídeo/audio
+			// Creamos el objeto cepda, que serï¿½ el que usaremos como raï¿½z para las
+			// referencias a todos los elementos a manipular del vï¿½deo/audio
 			var cepda = {
 				$self: $(this)
 			};
 			
 			// Variables privadas
 			var loadedMetadata; // Indica si se ha cargado las metadata
-			var seeking; // Indica que se está en proceso de seek 
-			var wasPlaying; // Indica si se estaba reproduciendo cuando se comenzó el seek
+			var seeking; // Indica que se estï¿½ en proceso de seek 
+			var wasPlaying; // Indica si se estaba reproduciendo cuando se comenzï¿½ el seek
 			var fullscreenMode; // Indica si estamos en modo fullscreen
-			var hasCaptions;		// Indica que hay subtítulos
-			var captionsActive; // Indica si los subtitulos están activos
+			var hasCaptions;		// Indica que hay subtï¿½tulos
+			var captionsActive; // Indica si los subtitulos estï¿½n activos
 
-			// Deshabilitamos el autoplay nativo para usar nuestra opción de autoplay
+			// Deshabilitamos el autoplay nativo para usar nuestra opciï¿½n de autoplay
 			cepda.$self.prop('autoplay', false);
 
 
-			// Contenedor de los media. Básicamente, lo que se hace es sacar el vídeo/audio del DOM
-			// poner este contenedor en su lugar, y dentro de éste volver a colocar el vídeo/audio
-			// junto con los controles, el botón BIG Play y otros elementos.
+			// Contenedor de los media. Bï¿½sicamente, lo que se hace es sacar el vï¿½deo/audio del DOM
+			// poner este contenedor en su lugar, y dentro de ï¿½ste volver a colocar el vï¿½deo/audio
+			// junto con los controles, el botï¿½n BIG Play y otros elementos.
 			var $wrapper = $('<div class="cepda-player" role="application"></div>').addClass(options.theme);
 
 			/*
 			 * Miramos si hay la media tiene ID.
-			 * Si no tiene, generamos uno que sea único
+			 * Si no tiene, generamos uno que sea ï¿½nico
 			 */
 			cepda.id = cepda.$self.attr('id');
 			if(!cepda.id) {
@@ -289,13 +289,13 @@
 			}
 
 			/*
-			 * HTML Markup del botón de FullScreen
-			 * Si no es un vídeo (es un audio, vaya), queda en blanco
+			 * HTML Markup del botï¿½n de FullScreen
+			 * Si no es un vï¿½deo (es un audio, vaya), queda en blanco
 			 */
 			var fullscreenBtnMarkup = (cepda.$self.is('video')) ? '<button class="cepda-fullscreen-button" title="' + options.texts.fullscreenTitle + '">' + options.texts.fullscreen + '</button>' : '';
 
 			/*
-			 * Template HTML general para una barra de control clásica
+			 * Template HTML general para una barra de control clï¿½sica
 			 */
 			var template = '<div class="cepda-controls">' +
 								'<button class="cepda-play-button" title="' + options.texts.playTitle + '">' + options.texts.play + '</button>' +
@@ -309,32 +309,31 @@
 								'<button class="cepda-caption-button" title="' + options.texts.captionsTitle + '">' + options.texts.captions + '</button>' +
 							'</div>';
 
-			// Si en las opciones tenemos una plantilla alternativa (a través de la función onToolbarTemplate),
+			// Si en las opciones tenemos una plantilla alternativa (a travï¿½s de la funciï¿½n onToolbarTemplate),
 			// entonces generamos la pantilla a partir de las opciones que nos han pasado
 			if (options.onToolbarTemplate) {
 				template = options.onToolbarTemplate(cepda, options);
 			}
 			
-			// HTML Markup para los subtítulos
+			// HTML Markup para los subtï¿½tulos
 			var captionMarkup = '<div class="cepda-caption"></div>';
 
 			/*
 			 * Montamos el HTML Markup definitivo
 			 */
 
-			// Añadimos el contenedor
+			// Aï¿½adimos el contenedor
 			cepda.$self.after($wrapper);
 
 			// IMPORTANTE: BUG iOS y BUG Chrome
 			// - BUG iOS: Para soportar iOS, debemos clonar el nodo y eliminar el original y obtener una referencia al nuevo.
-			// Esto se ha de hacer porque iOS no reproduce vídeos que han sido "recolocados".
+			// Esto se ha de hacer porque iOS no reproduce vï¿½deos que han sido "recolocados".
 			// Mirar: http://bugs.jquery.com/ticket/8015
-			// - BUG Chrome: Si se clona de vídeo/audio el nodo en vez de simplemente moverlo, ésto provoca que no se carguen
-			//   bien los metadatos y el vídeo se quede esperando indefinidamente.
-			// - BUG general Audios: Si recolocamos el audio, en vez de clonarlo, no recibimos evento de metadata...
+			// - BUG Chrome: Si se clona de vï¿½deo/audio el nodo en vez de simplemente moverlo, ï¿½sto provoca que no se carguen
+			//   bien los metadatos y el vï¿½deo se quede esperando indefinidamente.
 			// Debemos tener en cuenta estos temas:
-			// Si es iOS o es un audio, clonamos el nodo
-			if (is_ios_browser || cepda.$self.is('audio')) {
+			// Si es iOS, colnamos el nodo
+			if (is_ios_browser) {
 				$wrapper[0].appendChild( cepda.$self[0].cloneNode(true) );
 				// Quitamos la media real y nos quedamos con el nuevo media/video dentro del contenedor
 				cepda.$self.remove();
@@ -345,7 +344,7 @@
 				$wrapper[0].appendChild(cepda.$self[0]);
 			}
 			
-			// Añadimos los controles, el BIG Play (si lo soporta) y la máscara de cargando
+			// Aï¿½adimos los controles, el BIG Play (si lo soporta) y la mï¿½scara de cargando
 			cepda.$self.after(template);
 			if (options.bigBtnOn && !cant_show_big_play)
 				cepda.$self.after('<div class="cepda-bigbutton"></div>');
@@ -363,18 +362,18 @@
 			cepda.$volumeBtn = $('.cepda-volume-button', cepda.$container);
 			cepda.$fullscreenBtn = $('.cepda-fullscreen-button', cepda.$container);
 			
-			// El BIG Play, si la opción está activa.
+			// El BIG Play, si la opciï¿½n estï¿½ activa.
 			if (options.bigBtnOn && !cant_show_big_play) {
 				cepda.$bigBtn = $('.cepda-bigbutton', cepda.$container);
 				// Ajusto la altura del playbutton
 				cepda.$bigBtn.css('height', /*cepda.$self.height() + 'px'*/'100%');
 			}
 
-			// Añadimos finalmente el Markup de subtítulos
+			// Aï¿½adimos finalmente el Markup de subtï¿½tulos
 			// que van un poco por libre (subs dentro del contenedors)
 			cepda.$controls.after(captionMarkup);
 
-			// Nos quedamos con las referencias a los elementos DOM de los subtítulos
+			// Nos quedamos con las referencias a los elementos DOM de los subtï¿½tulos
 			cepda.$caption = $('.cepda-caption', cepda.$container);
 			cepda.$captionBtn = $('.cepda-caption-button', cepda.$container);
 
@@ -382,7 +381,7 @@
 			cepda.$self.data('cepdaPlayer', cepda);
 			/*
 			 * Rutina para formatear el tiempo en "minutos:segundos". 
-			 * Recibe el nº de segundos.
+			 * Recibe el nï¿½ de segundos.
 			 * Se usa junto a "currentTime"
 			 */
 			var timeFormat = function(sec) {
@@ -396,7 +395,7 @@
 			 *
 			 * Function for the Play button
 			 * Lanza los eventos nativods de Play o Pause. De esta manera, el control de los botones
-			 * está siempre sincronizado con el funcionamiento real del vídeo
+			 * estï¿½ siempre sincronizado con el funcionamiento real del vï¿½deo
 			 */
 			var playMedia = function() {
 				// Si no estaba en pausa, lo pone en pausa
@@ -410,11 +409,11 @@
 							cepda.$bigBtn.css('opacity','0');
 							setTimeout( function () {
 								cepda.$bigBtn.css('visibility','hidden');
-							}, 700); // Deja un tiempo para que se pueda hacer el efecto fadeout del botón
+							}, 700); // Deja un tiempo para que se pueda hacer el efecto fadeout del botï¿½n
 						}
 					}
-					// Habilitamos el botón de fullscreen si es necesario, que por defecto está
-					// inhabilitado hasta que comience la reproducción.
+					// Habilitamos el botï¿½n de fullscreen si es necesario, que por defecto estï¿½
+					// inhabilitado hasta que comience la reproducciï¿½n.
 					if (cepda.$fullscreenBtn.prop('disabled') == true) {
 						cepda.$fullscreenBtn.prop('disabled', false);
 					}
@@ -424,16 +423,16 @@
 			
 			/*
 			 * Funciones para gestionar los eventos de Play, Pause y Ended de la media.
-			 * Aquí es realmente donde ponemos los estados de los botones de la toolbar, de manera
-			 * que siempre están sincronizados con la media. Así pues, aún usando los mandos 
-			 * "nativos" del menú contextual (por ejemplo), la toolbar seguiría sincronizada
+			 * Aquï¿½ es realmente donde ponemos los estados de los botones de la toolbar, de manera
+			 * que siempre estï¿½n sincronizados con la media. Asï¿½ pues, aï¿½n usando los mandos 
+			 * "nativos" del menï¿½ contextual (por ejemplo), la toolbar seguirï¿½a sincronizada
 			 */
 			var startPlayback = function() {
-				// Cambiamos el texto y clase del botón para que ponga el modo pause
+				// Cambiamos el texto y clase del botï¿½n para que ponga el modo pause
 				cepda.$playBtn.text(options.texts.pause).attr('title', options.texts.pauseTitle);
 				cepda.$playBtn.addClass('cepda-paused-button');
 
-				// Si todavía no se ha cargado la metada, mostramos la máscara de cargando
+				// Si todavï¿½a no se ha cargado la metada, mostramos la mï¿½scara de cargando
 				if(!loadedMetadata) $wrapper.addClass('show-loading');
 			};
 
@@ -464,7 +463,7 @@
 					}
 				}
 
-				// Si tenemos subtítulos, los actualizamos
+				// Si tenemos subtï¿½tulos, los actualizamos
 				if(captionsActive) {
 					updateCaption();
 				}
@@ -472,8 +471,8 @@
 
 			/*
 			 * El slider de jQuery usa preventDefault cuando se clica sobre cualquier elemento
-			 * lo que hace que el botón activo no pierda el foco.
-			 * Esto causa problemas con la selección de subtítulos.
+			 * lo que hace que el botï¿½n activo no pierda el foco.
+			 * Esto causa problemas con la selecciï¿½n de subtï¿½tulos.
 			 * Hay que lanzar el blur manualmente.
 			 */
 			var blurCaptionBtn = function() {
@@ -506,13 +505,13 @@
 
 				cepda.$self.prop('currentTime', seekLocation);
 
-				// forzamos el blur sobre el botón de subtítulos
+				// forzamos el blur sobre el botï¿½n de subtï¿½tulos
 				blurCaptionBtn();
 			};
 
 			/*
 			 * Lanzado cuando el usuario acaba de hacer seek manualmente
-			 * Si la media estaba reproduciéndose, la pone en marcha de nuevo
+			 * Si la media estaba reproduciï¿½ndose, la pone en marcha de nuevo
 			 */
 			var endSeek = function(e, ui) {
 /*
@@ -547,11 +546,11 @@
 				// obtener el nuevo elemento seek definitivo
 				cepda.$seek = $('.' + seekClass, cepda.$container);
 
-				// Creamos el elemento que hará de buffer visual
+				// Creamos el elemento que harï¿½ de buffer visual
 				var bufferBar = '<div class="ui-slider-range cepda-buffer"></div>';
 				cepda.$seek.append(bufferBar);
 
-				// obtener el elemento DOM que hará de buffer
+				// obtener el elemento DOM que harï¿½ de buffer
 				cepda.$buffer = $('.cepda-buffer', cepda.$container);
 
 				// Ponemos las opciones propias de un slider jQuery
@@ -570,10 +569,10 @@
 
 			/*
 			 * Actualizar el slider de Seek, una vez tenemos los metadatos de la media cargados
-			 * Vinculamos eventos, añadimos el atributo "duration" y generamos el slider jQuery
+			 * Vinculamos eventos, aï¿½adimos el atributo "duration" y generamos el slider jQuery
 			 */
 			var updateSeek = function() {
-				// Obtenemos la duración de la media
+				// Obtenemos la duraciï¿½n de la media
 				var duration = cepda.$self.prop('duration');
 
 				// Check for the nativeSliders option
@@ -602,10 +601,10 @@
 						cepda.$seek.slider( "option", "max", duration );
 					debugLog("ACTUALIZANDO MAX: " + duration + " - " + cepda.$seek.slider( "option", "max"));
 
-				// Quitar el foco del botón de subtítulos manualmente cuando se clique el handle del slider
+				// Quitar el foco del botï¿½n de subtï¿½tulos manualmente cuando se clique el handle del slider
 				$('.ui-slider-handle', cepda.$seek).click(blurCaptionBtn);
 
-				// Vinculamos el avance del vídeo con el elemento DOM de buffer
+				// Vinculamos el avance del vï¿½deo con el elemento DOM de buffer
 				cepda.$self.bind('progress', showBuffer);
 				}
 
@@ -615,7 +614,7 @@
 			};
 
 			/*
-			 * Rutina para actualizar el tamaño del buffer en el slider según el progreso de la media
+			 * Rutina para actualizar el tamaï¿½o del buffer en el slider segï¿½n el progreso de la media
 			 */
 			var showBuffer = function(e) {
 				var max = parseInt(cepda.$self.prop('duration'), 10);
@@ -629,9 +628,9 @@
 			};
 
 			/*
-			 * Evento de cambio de volumen. Comportamiento del botón de volumen y su slider
+			 * Evento de cambio de volumen. Comportamiento del botï¿½n de volumen y su slider
 			 *
-			 * Cambiar el volumen a través del slider y usar el localStorage para guardar el volumen entre sesiones
+			 * Cambiar el volumen a travï¿½s del slider y usar el localStorage para guardar el volumen entre sesiones
 			 */
 			var changeVolume = function(e, ui) {
 				// Obtenemos el valor actual del volumen
@@ -656,7 +655,7 @@
 
 			/*
 			 * Mute y Unmute del volumen
-			 * También añadir clases y cambiar el label del volumen en el botón
+			 * Tambiï¿½n aï¿½adir clases y cambiar el label del volumen en el botï¿½n
 			 */
 			var muteVolume = function() {
 				if(cepda.$self.prop('muted') === true) {
@@ -719,7 +718,7 @@
 
 				cepda.$volume.$handle = cepda.$volume.find('.ui-slider-handle');
 
-				// quitar el foco manualmente al boton de subtítulos cuando se pica en el handle del slider de volumen
+				// quitar el foco manualmente al boton de subtï¿½tulos cuando se pica en el handle del slider de volumen
 				$('.ui-slider-handle', cepda.$volume).click(blurCaptionBtn);
 				}
 
@@ -729,7 +728,7 @@
 			/*
 			 * Comportamiento FULLSCREEN
 			 *
-			 * Cambiar el tamaño del vídeo mientras estamos en modo fullscreen
+			 * Cambiar el tamaï¿½o del vï¿½deo mientras estamos en modo fullscreen
 			 * Lo vinculamos a window.resize
 			 */
 			var resizeFullscreenVideo = function() {
@@ -742,11 +741,11 @@
 			/*
 			 * Evento de fullscreen
 			 * para cuando se sale a saco (ESC) del modo fullscreen.
-			 * debe normalizar la interficie de usuario para que esté sincronizada.
-			 * Sólo nos llega cuando el navegador está en fullscreen nativo y se sale
+			 * debe normalizar la interficie de usuario para que estï¿½ sincronizada.
+			 * Sï¿½lo nos llega cuando el navegador estï¿½ en fullscreen nativo y se sale
 			*/
 			var fullScreenChange = function(event) {
-				// actualizo los elementos visuales a la nueva disposición
+				// actualizo los elementos visuales a la nueva disposiciï¿½n
 				$('body').css('overflow', '');
 				cepda.$controls.removeClass('fullscreen-controls');
 				cepda.$caption.removeClass('fullscreen-caption');
@@ -763,8 +762,8 @@
 			/*
 			 * Rutina de entrada y salida del modo fullscreen
 			 *
-			 * Mira si hay soporte nativo para fullscreen (siempre que mantenga la interfaz y los subtítulos)
-			 * y la aplica, o bien la simula haciendo que el vídeo ocupe toda la ventana
+			 * Mira si hay soporte nativo para fullscreen (siempre que mantenga la interfaz y los subtï¿½tulos)
+			 * y la aplica, o bien la simula haciendo que el vï¿½deo ocupe toda la ventana
 			 * o bien sale del modo fullscreen si estaba ya en fullscreen.
 			 */
 			/* VARIOS ELEMENTOS ADICIONALES PARA EL MODO FULLSCREEN
@@ -775,9 +774,9 @@
 				
 				// Primero miramos si soportamos fullscreen
 				var supportsFullscreen = !cant_go_fullscreen;
-				// Miramos qué versiones de navegador soporta fullscreen
+				// Miramos quï¿½ versiones de navegador soporta fullscreen
 				
-				// Si estamos en modo fullscreen, salimos de éste
+				// Si estamos en modo fullscreen, salimos de ï¿½ste
 				if(fullscreenMode) {
 					
 				  if(document.mozCancelFullScreen && supportsFullscreen) {
@@ -800,7 +799,7 @@
 				    
 					}
 					
-					// actualizo los elementos visuales a la nueva disposición
+					// actualizo los elementos visuales a la nueva disposiciï¿½n
 					$('body').css('overflow', '');
 					cepda.$controls.removeClass('fullscreen-controls');
 					cepda.$caption.removeClass('fullscreen-caption');
@@ -819,7 +818,7 @@
 
 					fullscreenMode = false;
 
-				} else { // Si no estábamos en modo fullscreen, entramos en éste
+				} else { // Si no estï¿½bamos en modo fullscreen, entramos en ï¿½ste
 				
 				  if(cepda.$self[0].mozRequestFullScreen && supportsFullscreen) {
 				    cepda.$self[0].mozRequestFullScreen();
@@ -860,7 +859,7 @@
 				  	}
 					}			
 				
-					// entramos fullscreen: actualizmo los elementos visuales a la nueva posición
+					// entramos fullscreen: actualizmo los elementos visuales a la nueva posiciï¿½n
 					$('body').css('overflow', 'hidden');
 					cepda.$controls.addClass('fullscreen-controls');
 					cepda.$caption.addClass('fullscreen-caption');
@@ -877,9 +876,9 @@
 			};
 
 			/*
-			 * Comportamiento de los subtítulos
+			 * Comportamiento de los subtï¿½tulos
 			 *
-			 * Desactivando los subtítulos cuando falle la carga...
+			 * Desactivando los subtï¿½tulos cuando falle la carga...
 			 */
 			var captions;
 			var captionBtnActiveClass = 'cepda-caption-active';
@@ -896,8 +895,8 @@
 			};
 
 			/*
-			 * Actualizar los subtítulos en base a "currentTime"
-			 * Obtenido y adaptado del artículo "Accessible HTML5 Video with JavaScripted captions" de Bruce Lawson
+			 * Actualizar los subtï¿½tulos en base a "currentTime"
+			 * Obtenido y adaptado del artï¿½culo "Accessible HTML5 Video with JavaScripted captions" de Bruce Lawsonï¿½
 			 * http://dev.opera.com/articles/view/accessible-html5-video-with-javascripted-captions/
 			 */
 			var updateCaption = function() {
@@ -906,24 +905,24 @@
 					text = '',
 					i,
 					captionsLength = captions.length;
-				// Buscamos el subtítulo que nos toca mostrar
+				// Buscamos el subtï¿½tulo que nos toca mostrar
 				for (i = 0; i < captionsLength; i++) {
 					if (now >= captions[i].start && now <= captions[i].end) {
 						text = captions[i].content; // yes? then load it into a variable called text
 						break;
 					}
 				}
-				// lo ponemos (si no encontramos ninguno, entonces "text" quedará vacío)
+				// lo ponemos (si no encontramos ninguno, entonces "text" quedarï¿½ vacï¿½o)
 				cepda.$caption.html(text);
 			};
 
 			/*
-			 * Cargar subtítulos
+			 * Cargar subtï¿½tulos
 			 * Carga archivo en formato SRT 
-			 * Recibe la url de los subtítulos como parámetro de entrada
+			 * Recibe la url de los subtï¿½tulos como parï¿½metro de entrada
 			 */
 			var loadCaption = function(url) {
-				// Añadimos la clase de "cargando" para que aparezca el indicador
+				// Aï¿½adimos la clase de "cargando" para que aparezca el indicador
 				cepda.$captionBtn.addClass(captionBtnLoadingClass);
 				// Lanzamos la llamada AJAX para cargar el archivo
 				var jqXHR = $.ajax({
@@ -933,21 +932,21 @@
 						/*
 						 * Si todo va bien, parseamos el SRT
 						 * Usamos el parser SRT de  Silvia Pfeiffer <silvia@siliva-pfeiffer.de>
-						 * (la rutina está al final del archivo)
+						 * (la rutina estï¿½ al final del archivo)
 						 */
 						 
 						captions = parseSrt(data);
 
-						// Ahora indicamos que hay que recalcular la medida de la toolbar, al añadir el botón
-						// de subtítulos
+						// Ahora indicamos que hay que recalcular la medida de la toolbar, al aï¿½adir el botï¿½n
+						// de subtï¿½tulos
 						if (options.onToolbarChanged)
 							options.onToolbarChanged(cepda, options);
 							
-						// Mostramos los subtítulos
+						// Mostramos los subtï¿½tulos
 						cepda.$caption.show();
 						captionsActive = true;
 
-						// En caso de que la media esté en pausa, actualizamos los subtítulos para que se vean los actuales
+						// En caso de que la media estï¿½ en pausa, actualizamos los subtï¿½tulos para que se vean los actuales
 						if(cepda.$self.prop('paused')) {
 							updateCaption();
 						}
@@ -955,15 +954,15 @@
 						cepda.$captionBtn.addClass(captionBtnActiveClass).removeClass(captionBtnLoadingClass);
 					},
 					error: function() {
-						// Si hay algún error, desactivo el botón de subtítulos
+						// Si hay algï¿½n error, desactivo el botï¿½n de subtï¿½tulos
 						captionOff();
-						// Aquí podríamos mostrar un mensaje al usuario, si acaso
+						// Aquï¿½ podrï¿½amos mostrar un mensaje al usuario, si acaso
 					}
 				});
 			};
 
 			/*
-			 * Inicialización y carga de subtítulos
+			 * Inicializaciï¿½n y carga de subtï¿½tulos
 			 */
 			var initCaption = function() {
 				
@@ -972,11 +971,11 @@
 				// get all <track> elements
 				cepda.$track = $('track', cepda.$self);
 
-				// Si hay al menos un elemento DOM <track>, mostramos el botón
+				// Si hay al menos un elemento DOM <track>, mostramos el botï¿½n
 				if(cepda.$track.length) {
 					cepda.$captionBtn.show();
 					// Avisamos para que pongan la toolbar a la medida que toque
-					// al añadir el nuevo botón
+					// al aï¿½adir el nuevo botï¿½n
 					if (options.onToolbarChanged) {
 						options.onToolbarChanged(cepda, options);
 					}
@@ -993,13 +992,13 @@
 					return;
 				}
 
-				// Miramos si hay un track de subtítulos (el primero)
+				// Miramos si hay un track de subtï¿½tulos (el primero)
 				if(cepda.$track.length) {
 					
 					hasCaptions = true;
 					
-					// Si sólo hay un elemento <track>
-					// cargamos directamente los subtítulos al picar sobre el botón de subtítulos
+					// Si sï¿½lo hay un elemento <track>
+					// cargamos directamente los subtï¿½tulos al picar sobre el botï¿½n de subtï¿½tulos
 					var tracksrc = cepda.$track.attr('src');
 					cepda.$captionBtn.bind('click', function() {
 						if(cepda.$captionBtn.hasClass(captionBtnActiveClass)) {
@@ -1010,7 +1009,7 @@
 						}
 					});
 
-					// Cargamos los subtítulos por defecto si tenemos la opción activa
+					// Cargamos los subtï¿½tulos por defecto si tenemos la opciï¿½n activa
 					if(options.captionsOn) {
 						loadCaption(tracksrc);
 						cepda.$captionBtn.addClass(captionBtnActiveClass);
@@ -1020,7 +1019,7 @@
 			};
 
 			/*
-			 * Función de inicialización general (la llama el constructor)
+			 * Funciï¿½n de inicializaciï¿½n general (la llama el constructor)
 			 * Se encarga de inicializar todo, vincular eventos y eliminar los controles nativos de la media
 			 */
 			var init = function() {
@@ -1031,7 +1030,7 @@
 					options.onToolbarChanged(cepda, options);
 				}
 				
-				// Click del botón play/pause
+				// Click del botï¿½n play/pause
 				cepda.$playBtn.bind( (is_touch_device) ? 'touchstart' : 'click', playMedia);
 				
 				// BIG Play button
@@ -1042,19 +1041,19 @@
 					cepda.$self.bind((is_touch_device) ? 'touchstart' : 'click', playMedia);
 				}
 
-				// Eventos del propio vídeo
+				// Eventos del propio vï¿½deo
 				cepda.$self.bind('play', startPlayback);
 				cepda.$self.bind('pause', stopPlayback);
 				cepda.$self.bind('ended', stopPlayback);
 
-				// Evento de actualización de tiempo para el slider (que se vaya actualizando)
+				// Evento de actualizaciï¿½n de tiempo para el slider (que se vaya actualizando)
 				cepda.$self.bind('timeupdate', seekUpdate);
 
-				// Eventos del modo fullscreen (por defecto el botón está desactivado, hasta que se empiece a reproducir el vídeo)
+				// Eventos del modo fullscreen (por defecto el botï¿½n estï¿½ desactivado, hasta que se empiece a reproducir el vï¿½deo)
 				cepda.$fullscreenBtn.prop('disabled',true);
 				cepda.$fullscreenBtn.click(goFullscreen);
 
-				// Inicialización del volumen (botón y slider)
+				// Inicializaciï¿½n del volumen (botï¿½n y slider)
 				initVolume();
 				
 				// En iOS no podemos poner el volumen, pues iOS no deja controlar el volumen desde HTML
@@ -1062,7 +1061,7 @@
 					cepda.$volumeBtn.css('display', 'none');
 				}
 
-				// Inicialización del slider de seek
+				// Inicializaciï¿½n del slider de seek
 				if (!options.nativeSliders)
 				initSeek();
 
@@ -1070,7 +1069,7 @@
 				cepda.$self.bind('loadedmetadata', function() {
 					/* Uso un intervalo de 500ms para asegurarme de que pase a estado "readyState"
 					 * para saltarme un bug de webkit que hace que loadedmetadata sea llamado antes de que
-					 * efectivamente la información de la duración esté disponible.
+					 * efectivamente la informaciï¿½n de la duraciï¿½n estï¿½ disponible.
 					 */
 					var t = window.setInterval(function() {
 								if (cepda.$self.prop('readyState') > 0) {
@@ -1090,33 +1089,33 @@
 				});
 				
 
-				// Quitamos los controles nativos del vídeo/audio
+				// Quitamos los controles nativos del vï¿½deo/audio
 				cepda.$self.prop('controls', false);
 
-				// Si es audio, añadimos la clase "audio-player"
+				// Si es audio, aï¿½adimos la clase "audio-player"
 				if(cepda.$self.is('audio')) {
 					/*
-					 * Si la media es de tipo <audio>, añadimos la clase "audio-player".
+					 * Si la media es de tipo <audio>, aï¿½adimos la clase "audio-player".
 					 * Por lo visto, en Opera 10.62 no se puede "tunerar" un tag <audio> con CSS
 					 * por lo que lo "marcamos" con la clase "audio-player" para que pueda hacer dicho trabajo.
 					 */
 					cepda.$container.addClass('audio-player');
 				}
 				
-				// Forzamos la actualización del slider de seek la primera vez (para iOS)
+				// Forzamos la actualizaciï¿½n del slider de seek la primera vez (para iOS)
 				if (is_ios_browser) {
 					updateSeek();
 				}
 				if (options.onToolbarChanged)
 					options.onToolbarChanged(cepda, options);
 				
-				// Si está en modo autoplay, ponemos el vídeo en marcha
+				// Si estï¿½ en modo autoplay, ponemos el vï¿½deo en marcha
 				// (excepto para iOS, que no deja)
 				if (options.autoplayOn && !is_ios_browser) {
 					playMedia();
 				}
 
-				// Añadio API PUBLIC al objeto CEPDA para cambiar el vídeo
+				// Aï¿½adio API PUBLIC al objeto CEPDA para cambiar el vï¿½deo
 				cepda.playPause = function () { 
 					playMedia();
 				};
@@ -1138,16 +1137,22 @@
 				}
 
 				cepda.loadVideo = function(videoUrl, srtUrl, srtLang, srtLabel) {
-					// Paramos el vídeo si está reproduciéndose
+					// Paramos el vï¿½deo si estï¿½ reproduciï¿½ndose
 					if (this.isPlaying())
 						this.playPause();
-					// Ahora cargamos el nuevo vídeo
-					this.$self.children("source").attr("src", videoUrl);
-					this.$self.children("track").remove();
-					if (srtUrl != null && srtUrl != undefined && srtUrl != "") {
-						$("<track src=\"" + srtUrl + "\" kind=\"subtitles\" srclang=\"" + srtLang + "\" label=\"" + srtLabel + "\" />").appendTo(this.$self);
+					// Ahora cargamos el nuevo vï¿½deo
+					if(Main.navegador == "MSIE 9"){
+						this.$self.attr("src", videoUrl);
+					}else{
+						this.$self.children("source").attr("src", videoUrl);
+						this.$self.children("track").remove();
+						if (srtUrl != null && srtUrl != undefined && srtUrl != "") {
+							$("<track src=\"" + srtUrl + "\" kind=\"subtitles\" srclang=\"" + srtLang + "\" label=\"" + srtLabel + "\" />").appendTo(this.$self);
+						}
 					}
-					// Lanzamos la carga del vídeo (en 100 ms).
+					
+					
+					// Lanzamos la carga del vï¿½deo (en 100 ms).
 					this.$self[0].load();
 
 				}
@@ -1171,7 +1176,7 @@
 
 		};
 
-		// Hacemos este proceso por todos los elementos que cumplan con el criterio de incialización
+		// Hacemos este proceso por todos los elementos que cumplan con el criterio de incializaciï¿½n
 		return this.each(cepdaPlayer);
 	};
 

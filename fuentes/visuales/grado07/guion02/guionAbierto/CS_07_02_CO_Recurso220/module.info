@@ -1,9 +1,9 @@
 [module]
-id=f1
-desc=Motor F1
-aprid=f1
-version=14.12.11.1
+id=m5b
+desc=Motor M5b
+aprid=m5b
+version=1.0
 folder=motor
 entrypoint=principal.html
-dependencies=principal.dep
+dependencies=
 

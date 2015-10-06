@@ -1,187 +1,107 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<engine copy="Editorial Planeta" version="1" aprid="f1">
-  <css><![CDATA[.defaultCSSBox2 {
-	background: #000000;
-}
-.defaultCSSBox3 {
-	background: #ffffff;
-}]]></css>
-  <pantallas>
-    <pantalla id="pantalla_5">
-      <event id="onPrepare" language="DO"><![CDATA[]]></event>
-      <event id="onShown" language="DO"><![CDATA[]]></event>
-      <components>
-        <component _type="_compSlider" id="diaporama_12" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" transMode="1" />
-        <component _type="_compSliderNav" id="slidernav_11" x="45" y="526" width="162" height="37" alpha="1" visible="1" enabled="1" sliderId="diaporama_12" showHome="1" whiteButtons="1" />
-      </components>
-      <animaciones>
-      </animaciones>
-      <slider id="diaporama_12">
-        <pantalla id="pantalla_14">
-          <event id="onPrepare" language="DO"><![CDATA[]]></event>
-          <event id="onShown" language="DO"><![CDATA[]]></event>
-          <components>
-            <component _type="_compCSSBox" id="fondo_19" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
-            <component _type="_compRichText" id="texto_26" x="6" y="254" width="938" height="150" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p style="text-align:center"><span style="font-size:50px"><span style="color:rgb(255, 255, 255)"><span style="font-family:georgia,serif">La Iglesia en la Baja Edad Media</span></span></span></p>
-]]></content>
-            </component>
-          </components>
-          <animaciones>
-          </animaciones>
-        </pantalla>
-        <pantalla id="pantalla_19">
-          <event id="onPrepare" language="DO"><![CDATA[]]></event>
-          <event id="onShown" language="DO"><![CDATA[]]></event>
-          <components>
-            <component _type="_compCSSBox" id="fondo_19" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
-            <component _type="_compRichText" id="texto_26" x="101" y="215" width="748" height="190" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p style="text-align:center"><span style="font-size:50px"><span style="color:rgb(255, 255, 255)"><span style="font-family:verdana,geneva,sans-serif">La Iglesia en la baja edad media se transform&oacute;.</span></span></span></p>
-]]></content>
-            </component>
-          </components>
-          <animaciones>
-          </animaciones>
-        </pantalla>
-        <pantalla id="pantalla_19">
-          <event id="onPrepare" language="DO"><![CDATA[]]></event>
-          <event id="onShown" language="DO"><![CDATA[]]></event>
-          <components>
-            <component _type="_compImage" id="image_23" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25043.jpg" />
-            <component _type="_compRichText" id="texto_26" x="51" y="40" width="391" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Siglo XIV</span></span></span></p>
-]]></content>
-            </component>
-            <component _type="_compRichText" id="texto_25" x="50" y="226" width="386" height="98" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p><span style="font-size:25px"><span style="color:rgb(255, 255, 255)"><span style="font-family:verdana,geneva,sans-serif">&middot; Avignon, corte papal</span></span></span></p>
-]]></content>
-            </component>
-          </components>
-          <animaciones>
-          </animaciones>
-        </pantalla>
-        <pantalla id="pantalla_24">
-          <event id="onPrepare" language="DO"><![CDATA[]]></event>
-          <event id="onShown" language="DO"><![CDATA[]]></event>
-          <components>
-            <component _type="_compImage" id="image_23" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25092.jpg" />
-            <component _type="_compRichText" id="texto_26" x="49" y="40" width="391" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">1378</span></span></span></p>
-]]></content>
-            </component>
-            <component _type="_compRichText" id="texto_25" x="48" y="226" width="386" height="217" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p><span style="font-size:25px"><span style="color:rgb(255, 255, 255)"><span style="font-family:verdana,geneva,sans-serif">&middot; Cisma de Occidente<br />
-&middot; Dos papas<br />
-&middot; 40 a&ntilde;os de conflicto </span></span></span></p>
-]]></content>
-            </component>
-          </components>
-          <animaciones>
-          </animaciones>
-        </pantalla>
-        <pantalla id="pantalla_28">
-          <event id="onPrepare" language="DO"><![CDATA[]]></event>
-          <event id="onShown" language="DO"><![CDATA[]]></event>
-          <components>
-            <component _type="_compImage" id="image_23" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25140.jpg" />
-            <component _type="_compCSSBox" id="fondo_19" x="103" y="53" width="538" height="61" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
-            <component _type="_compRichText" id="texto_26" x="113" y="40" width="596" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Nuevas órdenes religiosas</span></span></span></p>
-]]></content>
-            </component>
-          </components>
-          <animaciones>
-          </animaciones>
-        </pantalla>
-        <pantalla id="pantalla_32">
-          <event id="onPrepare" language="DO"><![CDATA[]]></event>
-          <event id="onShown" language="DO"><![CDATA[]]></event>
-          <components>
-            <component _type="_compImage" id="image_23" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25188.jpg" />
-            <component _type="_compCSSBox" id="fondo_19" x="97" y="53" width="359" height="61" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
-            <component _type="_compRichText" id="texto_26" x="113" y="40" width="472" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Los franciscanos</span></span></span></p>
-]]></content>
-            </component>
-            <component _type="_compCSSBox" id="fondo_36" x="97" y="275" width="191" height="81" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
-            <component _type="_compRichText" id="texto_25" x="112" y="266" width="386" height="124" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p><span style="font-size:25px"><span style="color:rgb(255, 255, 255)"><span style="font-family:verdana,geneva,sans-serif">
-· Austeridad<br />
-· Pobreza
-</span></span></span></p>
-]]></content>
-            </component>
-          </components>
-          <animaciones>
-          </animaciones>
-        </pantalla>
-        <pantalla id="pantalla_37">
-          <event id="onPrepare" language="DO"><![CDATA[]]></event>
-          <event id="onShown" language="DO"><![CDATA[]]></event>
-          <components>
-            <component _type="_compImage" id="image_23" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25239.jpg" />
-            <component _type="_compRichText" id="texto_26" x="56" y="40" width="391" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Los dominicos</span></span></span></p>
-]]></content>
-            </component>
-            <component _type="_compRichText" id="texto_25" x="55" y="226" width="386" height="217" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p><span style="font-size:25px"><span style="color:rgb(255, 255, 255)"><span style="font-family:verdana,geneva,sans-serif">
-· Predicadores<br />
-· Teólogos<br />
-· Inquisidores
-</span></span></span></p>
-]]></content>
-            </component>
-          </components>
-          <animaciones>
-          </animaciones>
-        </pantalla>
-        <pantalla id="pantalla_41">
-          <event id="onPrepare" language="DO"><![CDATA[]]></event>
-          <event id="onShown" language="DO"><![CDATA[]]></event>
-          <components>
-            <component _type="_compImage" id="image_23" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25290.jpg" />
-            <component _type="_compRichText" id="texto_26" x="60" y="40" width="391" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Los dominicos</span></span></span></p>
-]]></content>
-            </component>
-            <component _type="_compRichText" id="texto_25" x="59" y="226" width="386" height="217" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p><span style="font-size:25px"><span style="color:rgb(255, 255, 255)"><span style="font-family:verdana,geneva,sans-serif">&middot; Predicadores<br />
-&middot; Te&oacute;logos<br />
-&middot; Inquisidores<br />
-· Santo Tomás de Aquino
-</span></span></span></p>
-]]></content>
-            </component>
-          </components>
-          <animaciones>
-          </animaciones>
-        </pantalla>
-        <pantalla id="pantalla_45">
-          <event id="onPrepare" language="DO"><![CDATA[]]></event>
-          <event id="onShown" language="DO"><![CDATA[]]></event>
-          <components>
-            <component _type="_compImage" id="image_23" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25339.jpg" />
-            <component _type="_compCSSBox" id="fondo_19" x="97" y="53" width="271" height="61" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
-            <component _type="_compRichText" id="texto_26" x="113" y="40" width="270" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Peste negra</span></span></span></p>
-]]></content>
-            </component>
-            <component _type="_compCSSBox" id="fondo_36" x="97" y="275" width="310" height="81" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox2" />
-            <component _type="_compRichText" id="texto_25" x="112" y="266" width="325" height="124" alpha="1" visible="1" enabled="1" scrollable="1">
-              <content><![CDATA[<p><span style="font-size:25px"><span style="color:rgb(255, 255, 255)"><span style="font-family:verdana,geneva,sans-serif">
-· Mayor espiritualidad<br />
-· Cultura popular
-</span></span></span></p>
-]]></content>
-            </component>
-          </components>
-          <animaciones>
-          </animaciones>
-        </pantalla>
-      </slider>
-    </pantalla>
-  </pantallas>
-  <popups>
-  </popups>
-</engine>
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce quién fue Marco Polo</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[cs_08_11_05]]></referencia>
+    <id_reg><![CDATA[216]]></id_reg>
+    <motor><![CDATA[M5b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde las siguientes preguntas en torno al video sobre el famoso Marco Polo.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado><![CDATA[¿En qué año partió Marco Polo junto con su padre y su tío hacia China?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000441_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="1271" correcta="1"/>
+        <respuesta contestacion="1370" correcta="0"/>
+        <respuesta contestacion="1230" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuántos años tenía Marco Polo cuando inició su primer viaje hacia China?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000441_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="17" correcta="1"/>
+        <respuesta contestacion="20" correcta="0"/>
+        <respuesta contestacion="14" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué importante desierto del centro de Asia atravesó la caravana en la que viajaba Marco Polo?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000441_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Gobi" correcta="1"/>
+        <respuesta contestacion="Sahara" correcta="0"/>
+        <respuesta contestacion="Ormuz" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuánto tiempo tardó Marco Polo en llegar a la corte mongola del gran kan?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000441_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Tres años y medio." correcta="1"/>
+        <respuesta contestacion="Tres años." correcta="0"/>
+        <respuesta contestacion="Medio año." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué tipo de actividades realizó Marco Polo para el gran kan?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000441_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Administración y diplomacia." correcta="1"/>
+        <respuesta contestacion="Interpretación y traducción." correcta="0"/>
+        <respuesta contestacion="Consejo y asesoramiento legal." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuánto duró la estancia de Marco Polo en Asia?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000441_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="De 1275 a 1291." correcta="1"/>
+        <respuesta contestacion="De 1271 a 1295." correcta="0"/>
+        <respuesta contestacion="De 1371 a 1295." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿De dónde era originario Marco Polo?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000441_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Venecia" correcta="1"/>
+        <respuesta contestacion="Génova" correcta="0"/>
+        <respuesta contestacion="Acre" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué título recibe el libro en que Marco Polo narró su experiencia en Asia?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000441_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="`Libro de las maravillas´." correcta="1"/>
+        <respuesta contestacion="`Libro de Asia´." correcta="0"/>
+        <respuesta contestacion="`Libro de la seda´." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>
