@@ -76,7 +76,7 @@ públicos en las colonias. Otro objetivo era asegurar que España recibiera
 todos los impuestos.</p>
 <profundiza>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_08_02_CO_Recurso010&amp;IdRecurso=RES-9C2D081AAAA943F18DD1D7B907C432BC"
+destino="/LoIdRedirect.aspx?LoId=CS_08_02_CO_Recurso300&amp;IdRecurso=RES-813A34130ACE441393D012F15731A055"
 >El fin de la dinastía de los Austrias</enlace>
 </profundiza><seccion3
 id="S3_CS_08_02_CO_031AF18BDC054375BBC34E08E4D3FD81">
@@ -405,7 +405,7 @@ encontraba <negrita>Simón Bolívar</negrita>.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_02_CO_Recurso090&amp;IdRecurso=RES-3BA6FF15ADCE49A290C91468C7E0650B"
->La Independencia de las colonias americanas</enlace>
+>La Independencia de América</enlace>
 </profundiza><seccion3
 id="S3_CS_08_02_CO_94AFFE0F46F844ABA51CD02F35163795">
 <seccion3Titulo>El proceso</seccion3Titulo>
@@ -480,11 +480,7 @@ las colonias americanas (1814) para sofocar el movimiento independentista.
 Tras su llegada, la guerra se agudizó. Luego inició las negociaciones
 de paz que dieron paso a la firma del armisticio de Trujillo en 1820.</p>
 </imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_08_02_CO_Recurso250&amp;IdRecurso=RES-2FCA088D67554D1499BA837B7082D3A7"
->El proceso de independencia de las colonias españolas en América</enlace>
-</profundiza></seccion3Texto></seccion3><seccion3
+</seccion3Texto></seccion3><seccion3
 id="S3_CS_08_02_CO_C154BF617A374D9EAFFE6B868E195689">
 <seccion3Titulo>El Congreso de Angostura</seccion3Titulo>
 <seccion3Texto>
@@ -631,11 +627,11 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_02_CO_Recurso120&amp;IdRecurso=RES-27CE85
 de la órbita mexicana, y la completó en 1824, cuando se separó de
 México. La fase siguiente de la liberación del colonialismo se produjo
 a fines del siglo XIX, con la Independencia de Cuba.</p>
-<practica>
+<profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_02_CO_Recurso140&amp;IdRecurso=RES-7AC17589B76C4005B1B343B0323FB260"
 >La Independencia de Centroamérica</enlace>
-</practica><seccion3
+</profundiza><seccion3
 id="S3_CS_08_02_CO_0BD23BBCC801498EB43749D223DE6B41">
 <seccion3Titulo>El Grito de Dolores, en México</seccion3Titulo>
 <seccion3Texto>
@@ -1039,8 +1035,8 @@ y reconocer las <negrita>costumbres</negrita> de los distintos grupos
 sociales. El desarrollo de la acuarela y, más tarde del mural, contribuyó
 a dejar importantes testimonios de la época.</p>
 <imagen src="CS_08_02_CO_IMG23_small.png">
-<p>Mapa de la independencia de América Latina</p>
-</imagen><?Pub Caret -1?>
+<p>Mapa de la Independencia de América Latina</p>
+</imagen>
 <seccion2 id="S2_CS_08_02_CO_A835A2F7027D4E6E992A971C9BF3I138">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
@@ -1058,7 +1054,8 @@ durante la Independencia de América</enlace>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_02_CO_Recurso180&amp;IdRecurso=RES-92B47088C5A344A2B3FA5AFC3162436B"
->Competencias: Cronología de la independencia americana</enlace>
+>Competencias: Cronología de la Independencia americana</enlace><?Pub
+Caret 15?>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_02_CO_Recurso170&amp;IdRecurso=RES-7FBC16C8BC2448C59B74513A7B3C857E"
 >Proyecto: Las características del caudillismo en América Latina</enlace>
