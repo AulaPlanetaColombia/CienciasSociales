@@ -2,7 +2,7 @@
 id=m102ab
 desc=Motor M102ab
 aprid=m102ab
-version=15.4.27.1
+version=15.7.22.1
 folder=motor
 entrypoint=principal.html
 dependencies=principal.dep

@@ -1,18 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?><motor tipo="102" clase="ab" aprid="m102ab">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<motor tipo="102" clase="ab" aprid="m102ab">
   <plataforma>
     <grado><![CDATA[1]]></grado>
     <titulo>Proyecto: Las características del caudillismo en América Latina</titulo>
     <volumen><![CDATA[1]]></volumen>
-    <nivel><![CDATA[1]]></nivel>
+    <nivel>2</nivel>
     <referencia><![CDATA[EX_PLANTILLA_M102AB]]></referencia>
     <motor><![CDATA[M102ab]]></motor>
     <lang>es</lang>
   </plataforma>
-  <enunciado><![CDATA[A partir de la lectura de un texto describe las características del caudillismo.]]></enunciado>
-  <masinfo inicio="0"/>
-  <textoupload/>
+  <enunciado><![CDATA[A partir de la lectura de un texto, describe las características del caudillismo.]]></enunciado>
+  <masinfo inicio="0" />
+  <textoupload><![CDATA[A partir de la lectura de un texto, describe las características del caudillismo.]]></textoupload>
   <adjunto><![CDATA[principal.html]]></adjunto>
-  <url/>
+  <url />
   <amano><![CDATA[0]]></amano>
   <temps>30</temps>
 </motor>
