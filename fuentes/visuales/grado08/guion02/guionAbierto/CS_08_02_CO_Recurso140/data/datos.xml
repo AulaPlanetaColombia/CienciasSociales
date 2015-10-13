@@ -1,35 +1,46 @@
-<?xml version='1.0' encoding='UTF-8'?><motor tipo="101" clase="a">
-  <plataforma>
-    <grado>2</grado>
-    <titulo>La independencia de Centroamérica</titulo>
-    <volumen/>
-    <nivel><![CDATA[1]]></nivel>
-    <referencia/>
-    <motor/>
-    <lang>es</lang>
-  </plataforma>
-  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines, haz clic en enviar. Si es necesario, entrega las respuestas a mano o por correo electrónico a tu profesor.]]></enunciado>
-  <masinfo inicio="0"/>
-  <calc><![CDATA[0]]></calc>
-  <preguntas cantidad="2">
-    <pregunta>
-      <enunciado><![CDATA[Investiga quién fue Francisco Morazán y su participación en la independencia de Centroamérica. Escribe una síntesis con las principales ideas.]]></enunciado>
-      <explicacion/>
-      <nivel><![CDATA[3]]></nivel>
-      <tipo/>
-      <imagen/>
-      <ampliacion/>
-      <texto/>
-    </pregunta>
-    <pregunta>
-      <enunciado><![CDATA[Explica por qué Centroamérica quedó dividida en varios países después de lograr su Independencia.]]></enunciado>
-      <explicacion/>
-      <nivel><![CDATA[3]]></nivel>
-      <tipo/>
-      <imagen/>
-      <ampliacion/>
-      <texto/>
-    </pregunta>
-  </preguntas>
-  <temps>45</temps>
-</motor>
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f1">
+<css><![CDATA[.defaultCSSBox2 {
+	background: #000000;
+}
+.defaultCSSBox3 {
+	background: #ffffff;
+}]]></css>
+<pantallas>
+<pantalla id="pantalla_5">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compSlider' id='diaporama_77' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' transMode='1' />
+<component _type='_compSliderNav' id='slidernav_122' x='45' y='526' width='162' height='37' alpha='1' visible='1' enabled='1' sliderId='diaporama_77' showHome='1' whiteButtons='1' mode='1' />
+</components>
+<animaciones>
+</animaciones>
+<slider id="diaporama_77">
+<pantalla id="pantalla_11">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_50' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_126' x='-5' y='262' width='957' height='257' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:52px"><span style="font-family:georgia,serif">La Independencia de Centroam&eacute;rica</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_15">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_50' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</slider>
+</pantalla>
+</pantallas>
+<popups>
+</popups>
+</engine>
