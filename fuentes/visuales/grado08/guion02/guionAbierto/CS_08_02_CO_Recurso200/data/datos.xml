@@ -1,6 +1,10 @@
-<mapa>
+<?xml version="1.0" encoding="UTF-8"?>
+<mapa aprid="mapa">
   <copyright>(c) Editorial Planeta</copyright>
   <version>1.0</version>
+  <botonMapaConceptual>mostrar</botonMapaConceptual>
+  <botonMapaMudo>ocultar</botonMapaMudo>
+  <botonMudo>0</botonMudo>
   <objeto>
     <ref>00</ref>
     <texto>Independencia de América Latina (1811-1824)</texto>

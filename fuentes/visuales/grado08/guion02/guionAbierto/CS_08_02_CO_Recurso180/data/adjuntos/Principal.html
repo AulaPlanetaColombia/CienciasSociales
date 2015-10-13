@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
 <head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<!--<meta name="viewport" id="viewport" content="initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />-->
 		<!-- ************************************************************************
 		*
@@ -39,7 +39,7 @@
 			// Bloques de elementos a descargar
 			blocks: [
 					{ type: "manifest", files: [{ from: "module", file: "motor/manifest.json" }] },
-					{ type: "xml", files: [{ from: "data", file: "data/datos.xml", id: "datos_xml" }] }
+					{ type: "xml", files: [{ from: "data", file: "data/datos.xml" + "?time=" + new Date().getTime(), id: "datos_xml" }] }
 			],
 			// Sin spinner automático
 			spinner: "no",

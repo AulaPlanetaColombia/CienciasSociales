@@ -3,18 +3,18 @@
     <grado><![CDATA[2]]></grado>
     <titulo>El sistema de castas</titulo>
     <area>0</area>
-    <nivel>1</nivel>
+    <nivel>2</nivel>
     <referencia/>
     <idreg><![CDATA[0]]></idreg>
     <motor><![CDATA[M5B]]></motor>
     <lang>es</lang>
   </plataforma>
-  <enunciado><![CDATA[Revisa el video y luego responde las preguntas eligiendo la respuesta correcta.]]></enunciado>
+  <enunciado><![CDATA[Revisa el video y luego responde correctamente las preguntas.]]></enunciado>
   <masinfo inicio="0"/>
   <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
   <calc><![CDATA[0]]></calc>
   <respuestaunica><![CDATA[1]]></respuestaunica>
-  <test cantidad="5">
+  <test cantidad="6">
     <cuestion>
       <enunciado><![CDATA[El mestizaje tuvo su inicio aproximado en el año]]></enunciado>
       <explicacion/>
@@ -38,7 +38,7 @@
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[Los blancos nacidos en las colonias recibieron el nombre de:]]></enunciado>
+      <enunciado><![CDATA[Los blancos nacidos en las colonias recibieron el nombre de]]></enunciado>
       <explicacion/>
       <video><![CDATA[vi002114_lo.mp4]]></video>
       <salto/>
@@ -49,25 +49,36 @@
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[Según el sistema de castas de la Colonia, “morisco” es cruce de:]]></enunciado>
+      <enunciado><![CDATA[Según el sistema de castas de la Colonia, morisco es cruce de:]]></enunciado>
       <explicacion/>
       <video><![CDATA[vi002114_lo.mp4]]></video>
       <salto/>
       <respuestas>
-        <respuesta contestacion="Negro y Zamba" correcta="0"/>
-        <respuesta contestacion="Española y mulato" correcta="1"/>
-        <respuesta contestacion="Blanco e india" correcta="0"/>
+        <respuesta contestacion="Negro y zamba." correcta="0"/>
+        <respuesta contestacion="Española y mulato." correcta="1"/>
+        <respuesta contestacion="Blanco e india." correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[Según el sistema de castas de la Colonia, “chino” es cruce de:]]></enunciado>
+      <enunciado><![CDATA[Según el sistema de castas de la Colonia, chino es cruce de:]]></enunciado>
       <explicacion/>
       <video><![CDATA[vi002114_lo.mp4]]></video>
       <salto/>
       <respuestas>
-        <respuesta contestacion="Española con Morisco" correcta="1"/>
-        <respuesta contestacion="Zambo con morisco" correcta="0"/>
-        <respuesta contestacion="Indio con morisco" correcta="0"/>
+        <respuesta contestacion="Española con morisco." correcta="1"/>
+        <respuesta contestacion="Zambo con morisco." correcta="0"/>
+        <respuesta contestacion="Indio con morisco." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Durante la Colonia el sistema de castas tuvo una connotación negativa porque se refería a personas ]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[vi002114_lo.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="de escasa valía." correcta="1"/>
+        <respuesta contestacion="en condiciones de pobreza." correcta="0"/>
+        <respuesta contestacion="que carecían de abolengo." correcta="0"/>
       </respuestas>
     </cuestion>
   </test>

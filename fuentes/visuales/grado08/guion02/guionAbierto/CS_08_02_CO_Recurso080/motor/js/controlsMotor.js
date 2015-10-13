@@ -27,16 +27,16 @@ function Pagina( pregunta, _numpagina) {
 	
 	this.explicacion = new createjs.RichText();
 	this.explicacion.text = pregunta.explicacion;
-	this.explicacion.font = (Contenedor.datosXML.plataforma.grado == 1)? "16px Arial" : "14px Arial" ;
-	this.explicacion.fontSize = (Contenedor.datosXML.plataforma.grado == 1)? 16 : 14 ;
+	this.explicacion.font = (Contenedor.datosXML.plataforma.grado == 1)? "15px Arial" : "13px Arial" ;
+	this.explicacion.fontSize = (Contenedor.datosXML.plataforma.grado == 1)? 15 : 13 ;
 	this.explicacion.color = "#0D3158";
 	this.explicacion.x = 400;
-	this.explicacion.y = 375;
+	this.explicacion.y = 355;
 	this.explicacion.lineWidth = 500;
-	this.explicacion.lineHeight = 22;
+	this.explicacion.lineHeight = 21;
 	this.explicacion.mask = new createjs.Shape();
-	this.explicacion.mask.graphics.beginFill("#fff").drawRect(0,0,500, 66);
-	this.explicacion.mask.y = 375;
+	this.explicacion.mask.graphics.beginFill("#fff").drawRect(0,0,500, 88);
+	this.explicacion.mask.y = 355;
 	this.explicacion.mask.x = 400;
 	this.explicacion.mouseEnabled = false;
 	this.explicacion.visible = false;
@@ -58,7 +58,7 @@ function Pagina( pregunta, _numpagina) {
 		pregunta.respuestas.splice(index,1);
 		
 		var cb = new CheckBox( resp, this, i);
-    	cb.contenedor.y = 100 + (280 / num_respuestas) * i;
+    	cb.contenedor.y = 90 + (280 / num_respuestas) * i;
     	cb.contenedor.x = 400;
     	this.contenedor.addChild(cb.contenedor);
     	
@@ -140,37 +140,38 @@ function CheckBox(resposta, pagina, index)
 	//this.desactivar();
 
 }
-CheckBox.prototype.pressHandler = function(){
-	//deseleccionem en cas de resposta unica
-	if(this.repostaUnica == 1)
-	{
-		for(key in this.paginaPare.respostes)
-	    {
-	    	if(this.paginaPare.respostes[key].id != this.id)
-	    	{
-	    		this.paginaPare.respostes[key].base.removeAllChildren();
-	    		this.paginaPare.respostes[key].areaText.alpha = 0.01;
-	    		this.paginaPare.respostes[key].checked= false;
-	    	
-	    	}
-	    }
+CheckBox.prototype.pressHandler = function(evt){
+	if(evt == null || evt.primary){
+		//deseleccionem en cas de resposta unica
+		if(this.repostaUnica == 1)
+		{
+			for(key in this.paginaPare.respostes)
+		    {
+		    	if(this.paginaPare.respostes[key].id != this.id)
+		    	{
+		    		this.paginaPare.respostes[key].base.removeAllChildren();
+		    		this.paginaPare.respostes[key].areaText.alpha = 0.01;
+		    		this.paginaPare.respostes[key].checked= false;
+		    	
+		    	}
+		    }
+		}
+		
+		//seleccionem o deseleccionem
+		if(this.checked) {
+			this.base.removeAllChildren();
+			this.areaText.alpha = 0.01;
+		}
+		else 
+		{
+			this.base.addChild(this.chk);
+			this.areaText.alpha = 1;
+		}
+		
+		this.checked = !this.checked;
+		
+		Contenedor.checkPagina();
 	}
-	
-	//seleccionem o deseleccionem
-	if(this.checked) {
-		this.base.removeAllChildren();
-		this.areaText.alpha = 0.01;
-	}
-	else 
-	{
-		this.base.addChild(this.chk);
-		this.areaText.alpha = 1;
-	}
-	
-	this.checked = !this.checked;
-	
-	Contenedor.checkPagina();
-	
 }
 CheckBox.prototype.desactivar = function(){
 	this.area.removeAllEventListeners();

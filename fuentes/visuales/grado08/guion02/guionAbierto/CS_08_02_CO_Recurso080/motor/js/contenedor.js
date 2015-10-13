@@ -159,6 +159,7 @@ Contenedor = new function()
 	        var masinfo = $(xml).find('masinfo');
 	        Contenedor.datosXML.masinfo.text  = masinfo.text();
 	        Contenedor.datosXML.masinfo.inicio = masinfo.attr('inicio');
+	        //console.log( Contenedor.datosXML.masinfo);
 	         
 		    var plataforma = $(xml).find('plataforma');
 	        Contenedor.datosXML.plataforma.grado = plataforma.find('grado').text(); 
@@ -788,13 +789,13 @@ Contenedor = new function()
     			texto = Utils.cleanText(Contenedor.datosXML.masinfo.text);
                 this.$inputText = $('<div id="input_moreInfo" style="display:none;"><span class="spanMoreInfo">' + texto + '</span></div>');
                 this.$inputText.focusout(function(event){ $("body").focus(); });
-                $("#mediaHolder").append(this.$inputText);
+                $("#moreinfo").append(this.$inputText);
             }
 		}
 	}
 	this.masInfoHandler = function(evt){
 		//alert("mas info");
-		if( evt.primary ){
+		if( evt ==null ||  evt.primary ){
 			if( Contenedor.moreinfopanel == "" )
 			{
 				Contenedor.moreinfopanel = new moreInfoPanell( Contenedor.datosXML.masinfo.text );
