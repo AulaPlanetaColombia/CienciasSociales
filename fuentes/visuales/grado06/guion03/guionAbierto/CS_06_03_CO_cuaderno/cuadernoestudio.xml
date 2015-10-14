@@ -304,7 +304,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso060&amp;IdRecurso=RES-4677AE
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso070&amp;IdRecurso=RES-9004622EA1CB44EA98CDF85744E3C3FF"
 >Conoce los principales rasgos de las civilizaciones mesopotámicas</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso080&amp;IdRecurso=RES-0C0920E8843346F1BE6F02F84D358799"
 >Identifica elementos del arte en Mesopotamia</enlace>
@@ -681,7 +680,7 @@ Por ejemplo, <negrita>Cartago</negrita>, en la actual Tunicia, o <negrita
 <listaElemento>Las <negrita>factorías</negrita>: modelo de asentamiento
 que consistía en ocupar un punto costero que servía para comerciar
 con la población del territorio.</listaElemento>
-</listaSinNumerar>
+</listaSinNumerar><?Pub Caret -1?>
 </seccion3Texto></seccion3><seccion3
 id="S3_CS_06_03_CO_E2885598B6824E77AF19FD2EA2032AA8">
 <seccion3Titulo>La religión fenicia</seccion3Titulo>
@@ -714,9 +713,6 @@ creación del <negrita>alfabeto</negrita>, que permitió una forma de
 escritura más cómoda y sencilla que la jeroglífica egipcia. El alfabeto
 fenicio constaba de 22 signos que representaban solo las consonantes.
 Los signos se escribían de derecha a izquierda.</p>
-<imagen src="CS_06_03_CO_IMG16_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
 </seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
 id="S2_CS_06_03_CO_744858EF49FF4937BC7C98071406GJ8G">
 <seccion2Titulo>Los hebreos</seccion2Titulo>
@@ -753,7 +749,7 @@ width="180"/></colgroup>
 <td align="center">FENICIOS</td>
 </tr>
 <tr>
-<td rowspan="2">3500 a.C.</td><?Pub Caret -1?>
+<td rowspan="2">3500 a.C.</td>
 <td>Desarrollo de las primeras ciudades-Estado (3500 a.C.).</td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
@@ -844,7 +840,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso210&amp;IdRecurso=RES-AD0B38
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso220&amp;IdRecurso=RES-7B7365C7880340639635761376DFC6FE"
 >Competencias: análisis del arte de las primeras civilizaciones</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso230&amp;IdRecurso=RES-9377C8623E0B403495F5B8B306364C29"
 >Proyecto: conocer la historia del pueblo judío</enlace>
@@ -852,11 +847,11 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso230&amp;IdRecurso=RES-9377C8
 id="MI_CS_06_03_CO_94C841F8AC06457FA7002B1E525E9A55"><mapaconceptual>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso250&amp;IdRecurso=RES-A53BFFA549E944A88D9E6DDE15BBFCCE"
->Mapa conceptual del tema Primeras civilizaciones: Mesopotamia, Egipto
-y Fenicia</enlace></mapaconceptual><autoevaluate><enlace
+>Mapa conceptual del tema Civilizaciones de la Antigüedad</enlace>
+</mapaconceptual><autoevaluate><enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso260&amp;IdRecurso=RES-0E2071920AA44972A4BC4AB001956226"
->Evalúa tus conocimientos sobre el tema Primeras civilizaciones: Mesopotamia,
-Egipto y Fenicia</enlace></autoevaluate><enlacesreferencia>
+>Evalúa tus conocimientos sobre el tema Civilizaciones de la Antigüedad</enlace>
+</autoevaluate><enlacesreferencia>
 <enlace
 destino="http://www.juntadeandalucia.es/averroes/html/adjuntos/2007/09/13/0030/mediterraneos/entrada/entrada.htm"
 >Los pueblos del Mediterráneo</enlace>
