@@ -33,7 +33,117 @@
 <event id='onPrepare' language='DO'><![CDATA[]]></event>
 <event id='onShown' language='DO'><![CDATA[]]></event>
 <components>
-<component _type='_compCSSBox' id='fondo_50' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compImage' id='image_170' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='17' image='data/imagenes/CS_08_02_REC160_IMG01.jpg' />
+<component _type='_compRichText' id='texto_138' x='108' y='38' width='714' height='63' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:24px"><span style="font-family:verdana,geneva,sans-serif">En 1821 culmin&oacute; el proceso de Independencia de M&eacute;xico.</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_133">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_138' x='125' y='38' width='699' height='56' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:24px"><span style="color:rgb(255, 255, 255)"><span style="font-family:verdana,geneva,sans-serif">En 1821 culmin&oacute; el proceso de Independencia de M&eacute;xico.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compCSSBox' id='fondo_50' x='-1' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_145' x='50' y='61' width='372' height='322' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Mientras aqu&eacute;l ocurr&iacute;a, el optimismo del pueblo mexicano contagi&oacute; a las poblaciones que hac&iacute;an parte de la Capitan&iacute;a General de Guatemala: la Provincia de Ciudad Real de Chiapas, la Provincia de Guatemala, la Provincia de San Salvador, la Provincia de </span></span><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Comayagua y la Provincia de Nicaragua y Costa Rica.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_172' x='465' y='80' width='485' height='438' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_08_02_REC160_IMG02.jpg' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_146">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_50' x='-1' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_145' x='51' y='89' width='349' height='462' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">La llamarada de la libertad se hab&iacute;a encendido en <strong>San</strong> <strong>Salvador</strong> en 1811. La causa: el <strong>aumento de impuestos</strong> y la discriminaci&oacute;n impulsada por el modelo pol&iacute;tico colonial. Aquel a&ntilde;o ocurri&oacute; el &ldquo;Primer grito de independencia&rdquo;, pero la rebeli&oacute;n fue sofocada inmediatamente por la reconquista espa&ntilde;ola.</span></span></span></p>
+
+<p><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">El proceso tom&oacute; un rumbo exitoso en 1821 cuando San Salvador y los dem&aacute;s pa&iacute;ses centroamericanos se organizaron para expulsar a los espa&ntilde;oles.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_173' x='466' y='173' width='449' height='261' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_08_02_REC160_IMG03.jpg' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_150">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_50' x='-1' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_145' x='50' y='156' width='310' height='277' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px"><strong>Guatemala:</strong> su independencia tuvo como personaje central a Gabino Ga&iacute;nza el 16 de septiembre de 1821. El pa&iacute;s fue anexionado <strong>al Imperio Mexicano</strong>, hasta el 29 de junio de 1823, cuando el emperador Agust&iacute;n de Iturbide fue derrocado.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_174' x='456' y='173' width='449' height='261' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_08_02_REC160_IMG04.jpg' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_154">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_50' x='-1' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_145' x='50' y='159' width='363' height='290' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px"><strong>Honduras:</strong> su independencia tuvo como personajes centrales al liberal <strong>Francisco Moraz&aacute;n</strong> (1792-1842) y al conservador Jos&eacute; Cecilio del Valle (1780-1834). El pa&iacute;s fue anexionado <strong>al Imperio Mexicano</strong>, hasta el 29 de junio de 1823, cuando el emperador Agust&iacute;n de Iturbide fue derrocado.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_175' x='464' y='173' width='449' height='261' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_08_02_REC160_IMG05.jpg' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_158">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_50' x='-1' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_145' x='50' y='152' width='309' height='297' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px"><strong>Costa Rica:</strong> su independencia fue el resultado de la relaci&oacute;n que este pa&iacute;s ten&iacute;a con Guatemala. Al igual de que los dem&aacute;s pa&iacute;ses declar&oacute; su independencia en 1821 pero se incorpor&oacute; a la fuerza al Imperio mexicano.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_176' x='457' y='173' width='449' height='262' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_08_02_REC160_IMG06.jpg' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_162">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_50' x='-1' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_145' x='50' y='159' width='371' height='290' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px"><strong>Nicaragua:</strong> su independencia tuvo como personaje central a Miguel Larreynaga. Al igual que los dem&aacute;s pa&iacute;ses declar&oacute; su independencia en 1821 pero se incorpor&oacute; a la fuerza al Imperio mexicano.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_177' x='456' y='173' width='449' height='262' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_08_02_REC160_IMG07.jpg' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_166">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_50' x='-1' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_145' x='50' y='34' width='395' height='400' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Luego de que el Imperio mexicano se diluy&oacute;, los pa&iacute;ses centroamericanos conformaron en 1823 la <strong>Federaci&oacute;n de Provincias Unidas del Centro de Am&eacute;rica</strong>, una rep&uacute;blica federal que agrup&oacute; a todos los pa&iacute;ses entre 1823 y 1839. Tuvo como capitales a Ciudad de Guatemala y luego a San Salvador.</span></span></span></p>
+
+<p><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">En 1839, la Federaci&oacute;n vivi&oacute; una guerra civil y uno a uno los pa&iacute;ses se fueron separando para conformar estados independientes.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_178' x='478' y='50' width='472' height='508' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_08_02_REC160_IMG08.jpg' />
 </components>
 <animaciones>
 </animaciones>
