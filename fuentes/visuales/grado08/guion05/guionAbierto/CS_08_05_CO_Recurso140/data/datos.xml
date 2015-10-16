@@ -1,16 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="a" aprid="m5a">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<motor tipo="5" clase="a" aprid="m5a">
   <plataforma>
     <grado><![CDATA[2]]></grado>
     <titulo>Cambios sociales como consecuencia de la Revolución Industrial</titulo>
     <area>0</area>
     <nivel>2</nivel>
-    <referencia/>
+    <referencia />
     <idreg><![CDATA[0]]></idreg>
     <motor><![CDATA[M5A]]></motor>
     <lang>es</lang>
   </plataforma>
   <enunciado><![CDATA[A continuación encontrarás preguntas relacionadas con los efectos que trajo a la sociedad de la Revolución Industrial. Lee atentamente y marca la respuesta correcta.]]></enunciado>
-  <masinfo inicio="0"/>
+  <masinfo inicio="0" />
   <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
   <calc><![CDATA[0]]></calc>
   <respuestaunica><![CDATA[1]]></respuestaunica>
@@ -21,11 +22,11 @@
       <imagen><![CDATA[CS_08_05_REC140_IMG08n.jpg]]></imagen>
       <ampliacion><![CDATA[CS_08_05_REC140_IMG08a.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="aumentó sustancialmente y se ubicó en ciudades" correcta="1"/>
-        <respuesta contestacion="ingreso masivamente al trabajo en fábricas" correcta="0"/>
-        <respuesta contestacion="disminuyó debido a las pésimas condiciones higiénicas" correcta="0"/>
-        <respuesta contestacion="tenía baja esperanza de vida al nacer" correcta="0"/>
-        <respuesta contestacion="se estaba envejeciendo y había pocos nacimientos" correcta="0"/>
+        <respuesta contestacion="aumentó sustancialmente y se ubicó en ciudades" correcta="1" />
+        <respuesta contestacion="ingreso masivamente al trabajo en fábricas" correcta="0" />
+        <respuesta contestacion="disminuyó debido a las pésimas condiciones higiénicas" correcta="0" />
+        <respuesta contestacion="tenía baja esperanza de vida al nacer" correcta="0" />
+        <respuesta contestacion="se estaba envejeciendo y había pocos nacimientos" correcta="0" />
       </respuestas>
     </cuestion>
     <cuestion>
@@ -34,11 +35,11 @@
       <imagen><![CDATA[CS_08_05_REC140_IMG02n.jpg]]></imagen>
       <ampliacion><![CDATA[CS_08_05_REC140_IMG02a.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="se liberara mano de obra para emplearse en la industria" correcta="1"/>
-        <respuesta contestacion="se formaran bancos de crédito para los campesinos" correcta="0"/>
-        <respuesta contestacion="la poblacion campesina deseara permanecer en el campo" correcta="0"/>
-        <respuesta contestacion="disminuyera la migración a las ciudades" correcta="0"/>
-        <respuesta contestacion="escaseara la mano de obra en las fábricas urbanas" correcta="0"/>
+        <respuesta contestacion="se liberara mano de obra para emplearse en la industria" correcta="1" />
+        <respuesta contestacion="se formaran bancos de crédito para los campesinos" correcta="0" />
+        <respuesta contestacion="la poblacion campesina deseara permanecer en el campo" correcta="0" />
+        <respuesta contestacion="disminuyera la migración a las ciudades" correcta="0" />
+        <respuesta contestacion="escaseara la mano de obra en las fábricas urbanas" correcta="0" />
       </respuestas>
     </cuestion>
     <cuestion>
@@ -47,11 +48,11 @@
       <imagen><![CDATA[CS_08_05_REC140_IMG03n.jpg]]></imagen>
       <ampliacion><![CDATA[CS_08_05_REC140_IMG03a.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="el obrero no es dueño de la mercancía y recibe un salario" correcta="1"/>
-        <respuesta contestacion="el artesano recibe salario y no es dueño de la mercancía" correcta="0"/>
-        <respuesta contestacion="el obrero es dueño de los medios de producción" correcta="0"/>
-        <respuesta contestacion="el artesano trabaja en un horario fijo" correcta="0"/>
-        <respuesta contestacion="el obrero organiza su jornada de trabajo" correcta="0"/>
+        <respuesta contestacion="el obrero no es dueño de la mercancía y recibe un salario" correcta="1" />
+        <respuesta contestacion="el artesano recibe salario y no es dueño de la mercancía" correcta="0" />
+        <respuesta contestacion="el obrero es dueño de los medios de producción" correcta="0" />
+        <respuesta contestacion="el artesano trabaja en un horario fijo" correcta="0" />
+        <respuesta contestacion="el obrero organiza su jornada de trabajo" correcta="0" />
       </respuestas>
     </cuestion>
     <cuestion>
@@ -60,11 +61,11 @@
       <imagen><![CDATA[CS_08_05_REC140_IMG04n.jpg]]></imagen>
       <ampliacion><![CDATA[CS_08_05_REC140_IMG04a.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="la inexistencia de legislación laboral y de sindicatos" correcta="1"/>
-        <respuesta contestacion="los horarios laborales se establecieron así por común acuerdo" correcta="0"/>
-        <respuesta contestacion="la política laboral de los gobiernos europeos" correcta="0"/>
-        <respuesta contestacion="el poder económico de los empresarios industriales" correcta="0"/>
-        <respuesta contestacion="las deficiencias tecnológicas en seguridad industrial " correcta="0"/>
+        <respuesta contestacion="la inexistencia de legislación laboral y de sindicatos" correcta="1" />
+        <respuesta contestacion="los horarios laborales se establecieron así por común acuerdo" correcta="0" />
+        <respuesta contestacion="la política laboral de los gobiernos europeos" correcta="0" />
+        <respuesta contestacion="el poder económico de los empresarios industriales" correcta="0" />
+        <respuesta contestacion="las deficiencias tecnológicas en seguridad industrial " correcta="0" />
       </respuestas>
     </cuestion>
     <cuestion>
@@ -73,11 +74,11 @@
       <imagen><![CDATA[CS_08_05_REC140_IMG05n.jpg]]></imagen>
       <ampliacion><![CDATA[CS_08_05_REC140_IMG05a.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="llegada masiva de campesinos a barrios obreros hacinados " correcta="1"/>
-        <respuesta contestacion="construcción de grandes avenidas y de rascacielos" correcta="0"/>
-        <respuesta contestacion="mejora en los medios de transporte como el tren" correcta="0"/>
-        <respuesta contestacion="apertura de empleos en fábricas con buenos salarios" correcta="0"/>
-        <respuesta contestacion="migración de personas provenientes del extranjero " correcta="0"/>
+        <respuesta contestacion="llegada masiva de campesinos a barrios obreros hacinados " correcta="1" />
+        <respuesta contestacion="construcción de grandes avenidas y de rascacielos" correcta="0" />
+        <respuesta contestacion="mejora en los medios de transporte como el tren" correcta="0" />
+        <respuesta contestacion="apertura de empleos en fábricas con buenos salarios" correcta="0" />
+        <respuesta contestacion="migración de personas provenientes del extranjero " correcta="0" />
       </respuestas>
     </cuestion>
     <cuestion>
@@ -86,11 +87,11 @@
       <imagen><![CDATA[CS_08_05_REC140_IMG06n.jpg]]></imagen>
       <ampliacion><![CDATA[CS_08_05_REC140_IMG06a.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="la falta de higiene y la contaminación del aire y el agua" correcta="1"/>
-        <respuesta contestacion="el flujo vehicular que provocaba congestiones" correcta="0"/>
-        <respuesta contestacion="la proliferación de espacios públicos y los alumbrados" correcta="0"/>
-        <respuesta contestacion="la existencia de hambrunas y epidemias mortales" correcta="0"/>
-        <respuesta contestacion="la proliferación de casas de juego, bares y prostíbulos" correcta="0"/>
+        <respuesta contestacion="la falta de higiene y la contaminación del aire y el agua" correcta="1" />
+        <respuesta contestacion="el flujo vehicular que provocaba congestiones" correcta="0" />
+        <respuesta contestacion="la proliferación de espacios públicos y los alumbrados" correcta="0" />
+        <respuesta contestacion="la existencia de hambrunas y epidemias mortales" correcta="0" />
+        <respuesta contestacion="la proliferación de casas de juego, bares y prostíbulos" correcta="0" />
       </respuestas>
     </cuestion>
     <cuestion>
@@ -99,11 +100,11 @@
       <imagen><![CDATA[CS_08_05_REC140_IMG07n.jpg]]></imagen>
       <ampliacion><![CDATA[CS_08_05_REC140_IMG07a.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="el automovil" correcta="0"/>
-        <respuesta contestacion="el ferrocarril" correcta="1"/>
-        <respuesta contestacion="el buque" correcta="0"/>
-        <respuesta contestacion="el aeroplano" correcta="0"/>
-        <respuesta contestacion="la bicicleta" correcta="0"/>
+        <respuesta contestacion="el automovil" correcta="0" />
+        <respuesta contestacion="el ferrocarril" correcta="1" />
+        <respuesta contestacion="el buque" correcta="0" />
+        <respuesta contestacion="el aeroplano" correcta="0" />
+        <respuesta contestacion="la bicicleta" correcta="0" />
       </respuestas>
     </cuestion>
     <cuestion>
@@ -112,11 +113,11 @@
       <imagen><![CDATA[CS_08_05_REC140_IMG01n.jpg]]></imagen>
       <ampliacion><![CDATA[CS_08_05_REC140_IMG01a.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="de clases" correcta="1"/>
-        <respuesta contestacion="de castas" correcta="0"/>
-        <respuesta contestacion="esclavista" correcta="0"/>
-        <respuesta contestacion="excluyente" correcta="0"/>
-        <respuesta contestacion="democratica" correcta="0"/>
+        <respuesta contestacion="de clases" correcta="1" />
+        <respuesta contestacion="de castas" correcta="0" />
+        <respuesta contestacion="esclavista" correcta="0" />
+        <respuesta contestacion="excluyente" correcta="0" />
+        <respuesta contestacion="democratica" correcta="0" />
       </respuestas>
     </cuestion>
   </test>
