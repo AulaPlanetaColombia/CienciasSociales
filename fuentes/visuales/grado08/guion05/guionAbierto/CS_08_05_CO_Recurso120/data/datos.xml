@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="101" clase="a" aprid="m101a">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Refuerza tu aprendizaje: La segunda Revolución Industrial (1870-1910)</titulo>
+    <volumen/>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia/>
+    <motor/>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Enunciado]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="0"/>
+</motor>

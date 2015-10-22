@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Entiende la importancia del ferrocarril en la Revolución Industrial</titulo>
+    <area>2</area>
+    <nivel>2</nivel>
+    <referencia><![CDATA[CS_10_03_04]]></referencia>
+    <idreg><![CDATA[594 ]]></idreg>
+    <motor><![CDATA[M5B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde a las preguntas después de ver el video sobre el lugar que ocupó el ferrocarril en la Revolución Industrial.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="6">
+    <cuestion>
+      <enunciado><![CDATA[¿En qué época comenzó a extenderse por todo el planeta la red de ferrocarril?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002078_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="A mediados del siglo XIX." correcta="1" />
+        <respuesta contestacion="En el último tercio del siglo XIX." correcta="0" />
+        <respuesta contestacion="A comienzos del siglo XIX." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué modo contribuyó el ferrocarril al crecimiento y expansión de la industrialización?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002078_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Facilitó el transporte de productos y mercancías." correcta="1" />
+        <respuesta contestacion="Incrementó los costes del transporte de mercancías." correcta="0" />
+        <respuesta contestacion="Permitió el desplazamiento de las clases trabajadoras." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué lugar ocupó el ferrocarril en la historia de Estados Unidos de América?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002078_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Permitió la ocupación y desarrollo de las tierras del interior." correcta="1" />
+        <respuesta contestacion="Permitió la ocupación de la coste Este." correcta="0" />
+        <respuesta contestacion="Permitió llegar, por primera vez, a la costa Oeste." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Además de ser más veloz, ¿qué otras ventajas ofrecía el ferrocarril frente a los barcos de vapor?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002078_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Funcionaba mejor en condiciones climáticas adversas." correcta="1" />
+        <respuesta contestacion="El transporte de mercancías era mucho más seguro." correcta="0" />
+        <respuesta contestacion="No estaba condicionado por las reservas de carbón." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuándo comenzaron a circular por las vías los primeros trenes de pasajeros de largo recorrido?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002078_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="A partir de 1860." correcta="1" />
+        <respuesta contestacion="A partir de 1950." correcta="0" />
+        <respuesta contestacion="A partir de 1830." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué tren es considerado el exponente más destacado de los llamados "hoteles sobre ruedas"?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002078_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="El {{cur}}Orient Express{{normal}}." correcta="1" />
+        <respuesta contestacion="El {{cur}}George Mortimer Pullman{{normal}}." correcta="0" />
+        <respuesta contestacion="El {{cur}}America's Railway{{normal}}." correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>10</temps>
+</motor>

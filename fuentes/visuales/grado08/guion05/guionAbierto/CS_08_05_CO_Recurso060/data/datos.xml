@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f1">
+  <css><![CDATA[.defaultCSSBox2 {
+	background: #000000;
+}
+.defaultCSSBox3 {
+	background: #ffffff;
+}]]></css>
+  <pantallas>
+    <pantalla id="pantalla_5">
+      <event id="onPrepare" language="DO"><![CDATA[]]></event>
+      <event id="onShown" language="DO"><![CDATA[]]></event>
+      <components>
+        <component _type="_compSlider" id="diaporama_12" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" transMode="1" />
+        <component _type="_compSliderNav" id="slidernav_11" x="45" y="526" width="162" height="37" alpha="1" visible="1" enabled="1" sliderId="diaporama_12" showHome="1" whiteButtons="0" mode="1" />
+      </components>
+      <animaciones>
+      </animaciones>
+      <slider id="diaporama_12">
+        <pantalla id="pantalla_14">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compRichText" id="texto_26" x="6" y="40" width="938" height="137" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:center"><span style="font-size:31px"><span style="font-family:georgia,serif">La primera Revolución Industrial</span></span></p>
+]]></content>
+            </component>
+            <component _type="_compImage" id="image_20" x="82" y="145" width="785" height="333" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="1" image="data/imagenes/image_76_copy.jpg" />
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_30">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compRichText" id="texto_26" x="111" y="18" width="767" height="68" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Los antecedentes</span></span></p>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_19" x="111" y="91" width="468" height="393" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">La <strong>Revoluci&oacute;n Industrial </strong>estuvo precedida de una serie de <strong>cambios fundamentales</strong> a partir de la segunda mitad del siglo XVIII:</span></span></p>
+
+<ul>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">La <strong>revoluci&oacute;n agr&iacute;cola</strong>. Fue posible por:</span></span><br />
+	&nbsp;
+	<ul>
+		<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Sistema Norfolk</strong>.</span></span></li>
+		<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Nuevos cultivos </strong>(patata, ma&iacute;z&hellip;).</span></span></li>
+		<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Mejoras t&eacute;cnicas</strong>.</span></span></li>
+		<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Nuevas <strong>roturaciones</strong>.</span></span></li>
+		<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Sustituci&oacute;n de las tierras comunales por <strong>campos vallados </strong><em>(<strong>enclosures</strong>)</em>.</span></span></li>
+	</ul>
+	</li>
+</ul>
+]]></content>
+            </component>
+            <component _type="_compImage" id="image_20" x="500" y="116" width="339" height="362" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="2" image="data/imagenes/image_86_copy.jpg" />
+          </components>
+          <animaciones>
+            <anim id="Entrada"><![CDATA[{"texto_19":[],"texto_19.x":[{"time":0,"value":111,"easing":"Linear.EaseNone"}],"texto_19.y":[{"time":0,"value":91,"easing":"Linear.EaseNone"}],"texto_19.width":[{"time":0,"value":468,"easing":"Linear.EaseNone"}],"texto_19.height":[{"time":0,"value":393,"easing":"Linear.EaseNone"}],"texto_19.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":1.03,"value":0,"easing":"Linear.EaseNone"},{"time":1.145,"value":1,"easing":"Linear.EaseNone"}],"image_20":[],"image_20.x":[{"time":0,"value":250,"easing":"Linear.EaseNone"},{"time":1.03,"value":500,"easing":"Linear.EaseNone"}],"image_20.y":[{"time":0,"value":116,"easing":"Linear.EaseNone"}],"image_20.width":[{"time":0,"value":339,"easing":"Linear.EaseNone"}],"image_20.height":[{"time":0,"value":362,"easing":"Linear.EaseNone"}],"image_20.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_25">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compRichText" id="texto_26" x="111" y="18" width="767" height="68" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Los antecedentes</span></span></p>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_19" x="111" y="91" width="413" height="393" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<ul>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">La <strong>revoluci&oacute;n demogr&aacute;fica</strong>. Fue posible por:</span></span><br />
+	&nbsp;
+	<ul>
+		<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Reducci&oacute;n de la <strong>mortalidad</strong>.</span></span></li>
+		<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Aumento de la <strong>natalidad</strong>.</span></span></li>
+		<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Menor incidencia de <strong>epidemias </strong>y <strong>guerras</strong>.</span></span></li>
+		<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Mejoras en la <strong>alimentaci&oacute;n</strong>.</span></span></li>
+	</ul>
+	</li>
+</ul>
+]]></content>
+            </component>
+            <component _type="_compImage" id="image_20" x="578" y="116" width="261" height="362" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="2" image="data/imagenes/image_97_copy.jpg" />
+            <component _type="_compIconButton" id="iconbutton_24" x="226" y="526" width="37" height="37" alpha="1" visible="1" enabled="1" cssClass="iconInfoButton" group="-1">
+              <event id="onClick" language="DO"><![CDATA[popup_open("pantalla_25")]]></event>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_29">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_20" x="411" y="116" width="428" height="362" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="2" image="data/imagenes/image_114_copy.jpg" />
+            <component _type="_compCSSBox" id="fondo_19" x="839" y="0" width="111" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compCSSBox" id="fondo_33" x="372" y="0" width="263" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_19" x="111" y="91" width="449" height="393" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">De forma sucesiva, en el <strong>proceso de mecanizaci&oacute;n </strong>de la producci&oacute;n se utilizaron tres tipos de energ&iacute;a:</span></span></p>
+
+<ul>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Energ&iacute;as tradicionales</strong>: humana, animal, e&oacute;lica.</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Energ&iacute;a hidr&aacute;ulica</strong>: primer avance relevante.</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Vapor</strong>: permiti&oacute; abandonar la dependencia de las fuentes de energ&iacute;a tradicionales.</span></span></li>
+</ul>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_26" x="111" y="18" width="767" height="68" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">La innovación tecnológica</span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+            <anim id="Entrada"><![CDATA[{"image_20":[],"image_20.x":[{"time":0,"value":590,"easing":"Linear.EaseNone"},{"time":2.575,"value":411,"easing":"Linear.EaseNone"}],"image_20.y":[{"time":0,"value":116,"easing":"Linear.EaseNone"}],"image_20.width":[{"time":0,"value":428,"easing":"Linear.EaseNone"}],"image_20.height":[{"time":0,"value":362,"easing":"Linear.EaseNone"}],"image_20.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_34">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_20" x="361" y="116" width="537" height="378" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="2" image="data/imagenes/image_120_copy.jpg" />
+            <component _type="_compCSSBox" id="fondo_19" x="839" y="0" width="111" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compCSSBox" id="fondo_33" x="372" y="0" width="263" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_19" x="111" y="91" width="516" height="421" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Las <strong>primeras industrias </strong>en desarrollarse fueron:</span></span></p>
+
+<ul>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Industria textil</strong>. En funci&oacute;n de la materia prima utilizada, se distingu&iacute;an:</span></span><br />
+	&nbsp;
+	<ul>
+		<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Industria textil tradicional: lana y seda.</span></span><br />
+		&nbsp;</li>
+		<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Industria textil moderna: algod&oacute;n.</span></span><br />
+		&nbsp;</li>
+	</ul>
+	</li>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Industria sider&uacute;rgica</strong>. La utilizaci&oacute;n del <strong>carb&oacute;n de coque </strong>y los <strong>altos hornos</strong> fueron claves.</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Otras industrias importantes fueron la <strong>mec&aacute;nica</strong>, la <strong>alimentaria </strong>y la <strong>de la piel</strong>.</span></span></li>
+</ul>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_26" x="111" y="18" width="767" height="68" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Las primeras industrias</span></span></p>
+]]></content>
+            </component>
+            <component _type="_compIconButton" id="iconbutton_24" x="226" y="526" width="37" height="37" alpha="1" visible="1" enabled="1" cssClass="iconInfoButton" group="-1">
+              <event id="onClick" language="DO"><![CDATA[popup_open("pantalla_38")]]></event>
+            </component>
+          </components>
+          <animaciones>
+            <anim id="Entrada"><![CDATA[{"image_20":[],"image_20.x":[{"time":0,"value":560,"easing":"Linear.EaseNone"},{"time":2.41,"value":361,"easing":"Linear.EaseNone"}],"image_20.y":[{"time":0,"value":116,"easing":"Linear.EaseNone"}],"image_20.width":[{"time":0,"value":537,"easing":"Linear.EaseNone"}],"image_20.height":[{"time":0,"value":378,"easing":"Linear.EaseNone"}],"image_20.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_42">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_20" x="304" y="116" width="537" height="362" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="2" image="data/imagenes/image_126_copy.jpg" />
+            <component _type="_compCSSBox" id="fondo_19" x="839" y="0" width="111" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compCSSBox" id="fondo_33" x="332" y="0" width="263" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_19" x="111" y="91" width="443" height="421" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">La mecanizaci&oacute;n supuso el nacimiento de un nuevo modelo de producci&oacute;n: el <strong>sistema fabril</strong>. Este estaba definido por:</span></span></p>
+
+<ul>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Concentraci&oacute;n </strong>de obreros y m&aacute;quinas en las f&aacute;bricas.</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Divisi&oacute;n del trabajo</strong>.</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Mayor control </strong>de empresario sobre la <strong>producci&oacute;n </strong>y la <strong>mano de obra</strong>.</span></span></li>
+</ul>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_26" x="111" y="18" width="767" height="68" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Las primeras fábricas</span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+            <anim id="Entrada"><![CDATA[{"image_20":[],"image_20.x":[{"time":0,"value":524,"easing":"Linear.EaseNone"},{"time":2.465,"value":304,"easing":"Linear.EaseNone"}],"image_20.y":[{"time":0,"value":116,"easing":"Linear.EaseNone"}],"image_20.width":[{"time":0,"value":537,"easing":"Linear.EaseNone"}],"image_20.height":[{"time":0,"value":362,"easing":"Linear.EaseNone"}],"image_20.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_46">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_20" x="313" y="116" width="564" height="362" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="2" image="data/imagenes/image_132_copy.jpg" />
+            <component _type="_compCSSBox" id="fondo_19" x="839" y="0" width="111" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compCSSBox" id="fondo_33" x="312" y="0" width="291" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_19" x="111" y="91" width="468" height="421" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Las primeras f&aacute;bricas tuvieron que hacer frente a:</span></span></p>
+
+<ul>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Crecimiento lento</strong>: en 1850, el 50 % no superaba los 100 trabajadores. En 1871, el promedio era de 86 obreros por f&aacute;brica.</span></span></li>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Renovaci&oacute;n tecnol&oacute;gica escalonada</strong>.</span></span></li>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Permanencia de actividades dependientes de la <strong>habilidad manual</strong>. Esto se debi&oacute; a:</span></span>
+	<ul>
+		<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Abundancia de <strong>mano de obra</strong>.</span></span></li>
+		<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Imperfecci&oacute;n de las <strong>m&aacute;quinas</strong>.</span></span></li>
+		<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Preferencia del <strong>consumidor</strong> por el producto artesanal.</span></span></li>
+	</ul>
+	</li>
+</ul>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_26" x="111" y="18" width="767" height="68" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Las primeras fábricas</span></span></p>
+]]></content>
+            </component>
+            <component _type="_compIconButton" id="iconbutton_24" x="226" y="526" width="37" height="37" alpha="1" visible="1" enabled="1" cssClass="iconInfoButton" group="-1">
+              <event id="onClick" language="DO"><![CDATA[popup_open("pantalla_50")]]></event>
+            </component>
+          </components>
+          <animaciones>
+            <anim id="Entrada"><![CDATA[{"image_20":[],"image_20.x":[{"time":0,"value":513,"easing":"Linear.EaseNone"},{"time":2.515,"value":313,"easing":"Linear.EaseNone"}],"image_20.y":[{"time":0,"value":116,"easing":"Linear.EaseNone"}],"image_20.width":[{"time":0,"value":564,"easing":"Linear.EaseNone"}],"image_20.height":[{"time":0,"value":362,"easing":"Linear.EaseNone"}],"image_20.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_54">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_20" x="274" y="116" width="587" height="402" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="2" image="data/imagenes/image_138_copy.jpg" />
+            <component _type="_compCSSBox" id="fondo_19" x="839" y="0" width="111" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compCSSBox" id="fondo_33" x="261" y="0" width="263" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_19" x="111" y="91" width="344" height="421" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">La aplicaci&oacute;n de la m&aacute;quina de vapor a los medios de transporte represent&oacute; una aut&eacute;ntica revoluci&oacute;n. Esto se concret&oacute; en:</span></span></p>
+
+<ul>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Barco de vapor </strong>(1807).</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Ferrocarril </strong>y <strong>locomotora de vapor </strong>(1825).</span></span></li>
+</ul>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_26" x="111" y="18" width="767" height="68" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">La revolución de los transportes</span></span></p>
+]]></content>
+            </component>
+            <component _type="_compCSSBox" id="fondo_58" x="457" y="476" width="493" height="132" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+          </components>
+          <animaciones>
+            <anim id="Entrada"><![CDATA[{"image_20":[],"image_20.x":[{"time":0,"value":490,"easing":"Linear.EaseNone"},{"time":2.5,"value":274,"easing":"Linear.EaseNone"}],"image_20.y":[{"time":0,"value":116,"easing":"Linear.EaseNone"}],"image_20.width":[{"time":0,"value":587,"easing":"Linear.EaseNone"}],"image_20.height":[{"time":0,"value":402,"easing":"Linear.EaseNone"}],"image_20.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_59">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_20" x="314" y="116" width="537" height="407" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="2" image="data/imagenes/image_144_copy.jpg" />
+            <component _type="_compCSSBox" id="fondo_19" x="839" y="0" width="111" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compCSSBox" id="fondo_33" x="242" y="0" width="354" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_19" x="111" y="91" width="450" height="421" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">El ferrocarril, considerado uno de los s&iacute;mbolos de la revoluci&oacute;n industrial, contribuy&oacute; a:</span></span></p>
+
+<ul>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Extensi&oacute;n de los <strong>mercados nacionales</strong>.</span></span></li>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Especializaci&oacute;n productiva </strong>regional.</span></span></li>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Abastecimiento de <strong>materias primas </strong>a las zonas industriales.</span></span></li>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Dinamizaci&oacute;n del <strong>comercio</strong>.</span></span></li>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Impulso a la <strong>industria de bienes de equipo</strong>.</span></span></li>
+	<li><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Formaci&oacute;n de <strong>grandes empresas de capital</strong>.</span></span></li>
+</ul>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_26" x="111" y="18" width="767" height="68" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">La revolución de los transportes</span></span></p>
+]]></content>
+            </component>
+            <component _type="_compCSSBox" id="fondo_58" x="457" y="476" width="493" height="132" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+          </components>
+          <animaciones>
+            <anim id="Entrada"><![CDATA[{"image_20":[],"image_20.x":[{"time":0,"value":560,"easing":"Linear.EaseNone"},{"time":2.475,"value":314,"easing":"Linear.EaseNone"}],"image_20.y":[{"time":0,"value":116,"easing":"Linear.EaseNone"}],"image_20.width":[{"time":0,"value":537,"easing":"Linear.EaseNone"}],"image_20.height":[{"time":0,"value":407,"easing":"Linear.EaseNone"}],"image_20.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+          </animaciones>
+        </pantalla>
+      </slider>
+    </pantalla>
+  </pantallas>
+  <popups>
+    <pantalla id="pantalla_25">
+      <event id="onPrepare" language="DO"><![CDATA[]]></event>
+      <event id="onShown" language="DO"><![CDATA[]]></event>
+      <components>
+        <component _type="_compCSSBox" id="fondo_74" x="0" y="429" width="947" height="180" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+        <component _type="_compCSSBox" id="fondo_19" x="106" y="0" width="844" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+        <component _type="_compImage" id="image_20" x="78" y="64" width="825" height="497" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="1" image="data/imagenes/1.jpg" />
+        <component _type="_compIconButton" id="iconbutton_24" x="867" y="45" width="37" height="37" alpha="1" visible="1" enabled="1" cssClass="iconCloseButton" group="-1">
+          <event id="onClick" language="DO"><![CDATA[popup_close()]]></event>
+        </component>
+      </components>
+      <animaciones>
+      </animaciones>
+    </pantalla>
+    <pantalla id="pantalla_38">
+      <event id="onPrepare" language="DO"><![CDATA[]]></event>
+      <event id="onShown" language="DO"><![CDATA[]]></event>
+      <components>
+        <component _type="_compCSSBox" id="fondo_74" x="0" y="429" width="947" height="180" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+        <component _type="_compCSSBox" id="fondo_19" x="81" y="0" width="869" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+        <component _type="_compImage" id="image_20" x="38" y="69" width="874" height="438" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="1" image="data/imagenes/image_53_copy.jpg" />
+        <component _type="_compIconButton" id="iconbutton_24" x="867" y="45" width="37" height="37" alpha="1" visible="1" enabled="1" cssClass="iconCloseButton" group="-1">
+          <event id="onClick" language="DO"><![CDATA[popup_close()]]></event>
+        </component>
+        <component _type="_compRichText" id="texto_26" x="81" y="488" width="767" height="68" alpha="1" visible="1" enabled="1" scrollable="1">
+          <content><![CDATA[<p><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">* Cifras expresadas en millones de personas.</span></span></p>
+]]></content>
+        </component>
+      </components>
+      <animaciones>
+      </animaciones>
+    </pantalla>
+    <pantalla id="pantalla_50">
+      <event id="onPrepare" language="DO"><![CDATA[]]></event>
+      <event id="onShown" language="DO"><![CDATA[]]></event>
+      <components>
+        <component _type="_compCSSBox" id="fondo_74" x="0" y="429" width="947" height="180" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+        <component _type="_compCSSBox" id="fondo_19" x="97" y="0" width="853" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+        <component _type="_compImage" id="image_20" x="38" y="69" width="874" height="513" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="1" image="data/imagenes/image_40.png" />
+        <component _type="_compIconButton" id="iconbutton_24" x="867" y="45" width="37" height="37" alpha="1" visible="1" enabled="1" cssClass="iconCloseButton" group="-1">
+          <event id="onClick" language="DO"><![CDATA[popup_close()]]></event>
+        </component>
+        <component _type="_compRichText" id="texto_26" x="91" y="4" width="767" height="68" alpha="1" visible="1" enabled="1" scrollable="1">
+          <content><![CDATA[<p style="text-align: center;"><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">La Revolución Industrial en el Reino Unido (1750-1850)</span></span></p>
+]]></content>
+        </component>
+      </components>
+      <animaciones>
+      </animaciones>
+    </pantalla>
+  </popups>
+</engine>
