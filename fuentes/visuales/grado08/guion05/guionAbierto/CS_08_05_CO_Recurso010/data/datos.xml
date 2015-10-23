@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMLDatos aprid="F">
+  <titol><![CDATA[La Revolución Industrial y el primer capitalismo]]></titol>
+  <txt_selecciona><![CDATA[Selecciona en la línea de la cronología un período de tiempo]]></txt_selecciona>
+  <p_01_tabla_01><![CDATA[Primera Revolución Industrial]]></p_01_tabla_01>
+  <p_01_tabla_02><![CDATA[Segunda Revolución Industrial]]></p_01_tabla_02>
+  <p_01_hito_01><![CDATA[<span class="negrita">1769</span><br><br><br>Máquina de vapor]]></p_01_hito_01>
+  <p_01_hito_02><![CDATA[<span class="negrita">1776</span><br><br><span class="cursiva">La riqueza de <br>las naciones</span>]]></p_01_hito_02>
+  <p_01_hito_03><![CDATA[<span class="negrita">1825</span><br><br>Locomotora de Stephenson]]></p_01_hito_03>
+  <p_01_hito_04><![CDATA[<span class="negrita">1869</span><br><br>Producción de electricidad]]></p_01_hito_04>
+  <p_01_hito_05><![CDATA[<span class="negrita">1908</span><br><br><br><span class="cursiva">Ford T]]></p_01_hito_05>
+  <!-- Zona_01 -->
+  <p_02_tabla_01><![CDATA[Primera Revolución Industrial]]></p_02_tabla_01>
+  <p_02_hito_01><![CDATA[<span class="negrita">Máquina de vapor</span>]]></p_02_hito_01>
+  <p_02_hito_02><![CDATA[<span class="negrita"><span class="cursiva">La riqueza de las naciones</span></span>]]></p_02_hito_02>
+  <p_02_hito_03><![CDATA[<span class="negrita">Telar mecánico</span>]]></p_02_hito_03>
+  <txt_popup_1_01><![CDATA[<span class="negrita">1769</span><br><br>Sobre la base de las primeras <span class="negrita">máquinas de vapor</span>, el ingeniero británico <span class="negrita">James Watt</span> diseñó un sistema de refrigeración que hizo más eficiente el invento. Gracias a ello, su máquina se convirtió en uno de los símbolos de la Revolución Industrial.]]></txt_popup_1_01>
+  <txt_popup_1_02><![CDATA[<span class="negrita">1776</span><br><br>El escocés <span class="negrita">Adam Smith</span>, considerado el padre del <span class="negrita">liberalismo económico</span>, publicó <span class="cursiva">Investigación sobre la naturaleza y causas de la riqueza de las naciones</span>, una obra en la que recoge los principios sobre los que se asienta el modelo capitalista.]]></txt_popup_1_02>
+  <txt_popup_1_03><![CDATA[<span class="negrita">1785</span><br><br>Tras los grandes avances que representaron la <span class="negrita">lanzadora volante</span> (1733) y la <span class="negrita"><span class="cursiva">spinning jenny</span></span> (1767) para la incipiente industria textil, <span class="negrita">Edmund Cartwright</span> presentó el <span class="negrita">telar mecánico</span>. El nuevo invento, que funcionaba con vapor, permitió aumentar la producción de forma espectacular.]]></txt_popup_1_03>
+  <!-- Zona_02 -->
+  <p_03_tabla_01><![CDATA[Primera Revolución Industrial]]></p_03_tabla_01>
+  <p_03_hito_01><![CDATA[<span class="negrita">Robert Malthus</span></<span>]]></p_03_hito_01>
+  <p_03_hito_02><![CDATA[<span class="negrita">Barco
+de vapor</span>]]></p_03_hito_02>
+  <txt_popup_2_01><![CDATA[<span class="negrita">1798</span><br><br>El economista británico <span class="negrita">Thomas Robert Malthus</span> publicó <span class="cursiva">Ensayo sobre el principio de la población y sobre sus efectos en la futura mejora de la sociedad</span>. Según el autor, la pobreza es el resultado de un crecimiento de la población superior al de los recursos.]]></txt_popup_2_01>
+  <txt_popup_2_02><![CDATA[<span class="negrita">1807</span><br><br>Se realizó la primera travesía en <span class="negrita">barco de vapor</span> a través del río Hudson. El padre del invento fue el estadounidense <span class="negrita">Robert Fulton</span>, quien había ideado en 1803 un sistema de propulsión basado en una rueda de palas movida por una máquina de vapor.]]></txt_popup_2_02>
+  <!-- Zona_03 -->
+  <p_04_tabla_01><![CDATA[Primera Revolución Industrial]]></p_04_tabla_01>
+  <p_04_hito_01><![CDATA[<span class="negrita">Locomotora de Stephenson</span>]]></p_04_hito_01>
+  <p_04_hito_02><![CDATA[<span class="negrita">Primer tren de pasajeros</span>]]></p_04_hito_02>
+  <p_04_hito_03><![CDATA[<span class="negrita"><span class="cursiva">Enclosure Acts</span></span>]]></p_04_hito_03>
+  <txt_popup_3_01><![CDATA[<span class="negrita">1825</span><br><br>Sobre la base de otras locomotoras utilizadas en las minas de carbón, el ingeniero <span class="negrita">George Stephenson</span> presentó la <span class="cursiva">Locomotion</span>, con la que se puso en marcha la línea de ferrocarril Stockton-Darlington, la primera de la historia. ]]></txt_popup_3_01>
+  <txt_popup_3_02><![CDATA[<span class="negrita">1830</span><br><br>El 15 de septiembre se inauguró el ferrocarril <span class="negrita">Manchester-Liverpool</span>, la primera línea de pasajeros de la historia. Tras esta, surgieron otras tanto en Gran Bretaña como en el resto del mundo: Lyon-Saint-Étienne (Francia), Bruselas-Malinas (Bélgica), Nuremberg-Fürth (Alemania), etc. ]]></txt_popup_3_02>
+  <txt_popup_3_03><![CDATA[<span class="negrita">1845</span><br><br>La promulgación de las <span class="negrita"><span class="cursiva">Enclosure Acts</span></span> acabó con los antiguos derechos de explotación de las tierras comunales. Los campos se cercaron y las nuevas parcelas pasaron a ser de <span class="negrita">propiedad privada</span>. Con ello se logró mejorar la productividad de los campos británicos.]]></txt_popup_3_03>
+  <!-- Zona_04 -->
+  <p_05_tabla_01><![CDATA[Primera Revolución Industrial]]></p_05_tabla_01>
+  <p_05_tabla_02><![CDATA[Segunda Revolución Industrial]]></p_05_tabla_02>
+  <p_05_hito_01><![CDATA[<span class="negrita">Convertidor Bessemer</span>]]></p_05_hito_01>
+  <p_05_hito_02><![CDATA[<span class="negrita">Producción de electricidad</span>]]></p_05_hito_02>
+  <p_05_hito_03><![CDATA[<span class="negrita">Teléfono</span>]]></p_05_hito_03>
+  <p_05_hito_04><![CDATA[<span class="negrita">Bombilla eléctrica</span>]]></p_05_hito_04>
+  <txt_popup_4_01><![CDATA[<span class="negrita">1854</span><br><br>El inventor británico <span class="negrita">Henry Bessemer</span> inventó el <span class="negrita">convertidor</span> que lleva su nombre. El recubrimiento con material refractario representó un gran avance en el sector siderometalúrgico, pues permitió la <span class="negrita">transformación del hierro en acero</span>. ]]></txt_popup_4_01>
+  <txt_popup_4_02><![CDATA[<span class="negrita">1869</span><br><br>El inventor belga <span class="negrita">Zénobe-Théophile Gramme</span> presentó una <span class="negrita">dinamo</span> que permitió generar <span class="negrita">energía eléctrica continua</span> a partir del movimiento relativo entre un imán y un circuito eléctrico. Con ello, se sentaron las bases para la utilización de la <span class="negrita">electricidad a nivel industrial</span>.]]></txt_popup_4_02>
+  <txt_popup_4_03><![CDATA[<span class="negrita">1876</span><br><br>Aunque se acepta que <span class="negrita">Antonio Meucci</span>, un italiano asentado en Estados Unidos, creó el primer <span class="negrita">teléfono</span> en 1860, se considera que el padre de este invento fue <span class="negrita">Alexander Graham Bell</span>. ]]></txt_popup_4_03>
+  <txt_popup_4_04><![CDATA[<span class="negrita">1879</span><br><br>El 21 de octubre, el inventor estadounidense <span class="negrita">Thomas Alva Edison</span> presentó su nuevo invento: la <span class="negrita">lámpara de incandescencia</span>. Se trataba de una lámpara de hilo de carbono que se iluminaba con electricidad. En pocos años, su invento comenzó a sustituir el alumbrado de gas en ciudades como Nueva York, Londres o Milán. ]]></txt_popup_4_04>
+  <!-- Zona_05 -->
+  <p_06_tabla_01><![CDATA[Segunda Revolución Industrial]]></p_06_tabla_01>
+  <p_06_hito_01><![CDATA[<span class="negrita">Automóvil</span>]]></p_06_hito_01>
+  <p_06_hito_02><![CDATA[<span class="negrita">Telégrafo sin hilos</span>]]></p_06_hito_02>
+  <p_06_hito_03><![CDATA[<span class="negrita">Primer vuelo</span>]]></p_06_hito_03>
+  <p_06_hito_04><![CDATA[<span class="negrita"><span class="cursiva">Ford T</span></span>]]></p_06_hito_04>
+  <txt_popup_5_01><![CDATA[<span class="negrita">1885</span><br><br>El inventor alemán <span class="negrita">Carl Friedrich Benz</span> presentó el primer <span class="negrita">automóvil</span>. Se trataba de un vehículo de tres ruedas propulsado por un motor de gasolina de cuatro tiempos. Sobre la base de este, se desarrollaron otros modelos de cuatro ruedas y con cambio de marchas.]]></txt_popup_5_01>
+  <txt_popup_5_02><![CDATA[<span class="negrita">1896</span><br><br>El inventor italiano <span class="negrita">Guglielmo Marconi</span> patentó en Gran Bretaña el primer <span class="negrita">telégrafo sin hilos</span>. Supo aprovechar las ondas electromagnéticas para poder transmitir mensajes a larga distancia. Sus trabajos hicieron posibles las primeras <span class="negrita">transmisiones radiofónicas</span> en 1907.]]></txt_popup_5_02>
+  <txt_popup_5_03><![CDATA[<span class="negrita">1903</span><br><br>El 17 de diciembre tuvo lugar el vuelo del <span class="negrita"><span class="cursiva">Flyer I</span></span>, el primer <span class="negrita">avión a motor tripulado</span>. El vehículo, obra de los hermanos <span class="negrita">Wilbur</span> y <span class="negrita">Orville Wright</span>, realizó un vuelo de 266 metros en 59 segundos. La utilización del invento se generalizó a lo largo de las primeras décadas del siglo XX.]]></txt_popup_5_03>
+  <txt_popup_5_04><![CDATA[<span class="negrita">1908</span><br><br>En la Ford Motor Co., se comenzó a fabricar un nuevo modelo de automóvil: el <span class="negrita"><span class="cursiva">Ford T</span></span>. El dueño de la firma, <span class="negrita">Henry Ford</span>, introdujo aquel año la <span class="negrita">cadena de montaje</span>. Con ello logró no solo aumentar de forma espectacular la productividad de su fábrica, sino también reducir los costes.]]></txt_popup_5_04>
+  <pie_foto_1><![CDATA[<i>Barco Delta Queen</i> en el río Mississippi (Estados Unidos).]]></pie_foto_1>
+  <pie_foto_2><![CDATA[<i>Vagón de tercera clase</i>, s. XIX, de Honoré Daumier (Walters Art Museum, Baltimore, Estados Unidos).]]></pie_foto_2>
+  <pie_foto_3><![CDATA[Las actas de cercamiento (<i>Enclosure Acts</i>) provocaron la transferencia de los terrenos comunales a manos de los terratenientes.]]></pie_foto_3>
+  <pie_foto_4><![CDATA[<i>La fundición</i>, de François Bonhomme, 1851.]]></pie_foto_4>
+  <pie_foto_5><![CDATA[Guglielmo Marconi, inventor de la telegrafía sin hilos, en un dibujo publicado en <i>L'Illustration</i> en 1897.]]></pie_foto_5>
+</XMLDatos>
