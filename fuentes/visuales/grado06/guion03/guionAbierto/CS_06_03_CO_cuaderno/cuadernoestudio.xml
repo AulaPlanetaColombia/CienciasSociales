@@ -23,7 +23,7 @@ la de Ihstar.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso010&amp;IdRecurso=RES-91EA9A57F2614249811A8E9BCC342589"
->La Edad antigua: límites cronológicos</enlace>
+>La Edad Antigua: límites cronológicos</enlace>
 </profundiza><seccion2
 id="S2_CS_06_03_CO_744858EF49FF4937BC7C98071406DF4D">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -164,7 +164,7 @@ desde el río Nilo hasta el río Indo.</p>
 </destacadoTexto></destacado><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso040&amp;IdRecurso=RES-F94D08B4E0D649508A1E4DB7973836E1"
->Mesopotamia: períodos históricos</enlace>
+>Mesopotamia: periodos históricos</enlace>
 </profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_CS_06_03_CO_3D97610E38CC478CBE05138ECFF6A62C">
 <seccion2Titulo>La economía y la sociedad mesopotámica</seccion2Titulo>
@@ -456,7 +456,7 @@ puede utilizarse para ser almacenada o vendida.</p>
 </recuerdaTexto></recuerda><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso120&amp;IdRecurso=RES-6A9041AF737448A28DE9B3ED69FB4BD9"
->La economía en el antiguo Egipto</enlace>
+>La economía en el Antiguo Egipto</enlace>
 </practica></seccion3Texto></seccion3><seccion3
 id="S3_CS_06_03_CO_0FC068F573FA4BDE8A10A28D0CD731FC">
 <seccion3Titulo>La sociedad del Antiguo Egipto</seccion3Titulo>
@@ -624,7 +624,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso160&amp;IdRecurso=RES-6A2266
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso170&amp;IdRecurso=RES-E0AB0584080B48FC9094E6C12CB00A4B"
->Refuerza tu aprendizaje: El antiguo Egipto</enlace>
+>Refuerza tu aprendizaje: El Antiguo Egipto</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_06_03_CO_EA7046656D3D4FB083796D0C305A563A">
 <seccion1Titulo>Los pueblos del Mediterráneo oriental</seccion1Titulo>
@@ -836,7 +836,8 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso210&amp;IdRecurso=RES-AD0B38
 <seccion1 id="S1_CS_06_03_CO_6941C4D0EC0C49C0B3B7BF799F4DD35B">
 <seccion1Titulo>Competencias</seccion1Titulo>
 <seccion1Texto>
-<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p><?Pub
+Caret -2?>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_03_CO_Recurso220&amp;IdRecurso=RES-7B7365C7880340639635761376DFC6FE"
@@ -861,5 +862,5 @@ destino="http://thales.cica.es/rd/Recursos/rd98/HisArtLit/01/artecf.htm"
 >Arte mesopotamico</enlace>
 <enlace
 destino="http://www.encuentro.gov.ar/sitios/encuentro/programas/ver?rec_id=119279"
->Egipto al descubierto</enlace><?Pub Caret 0?>
+>Egipto al descubierto</enlace>
 </enlacesreferencia></masinformacion></libro>
