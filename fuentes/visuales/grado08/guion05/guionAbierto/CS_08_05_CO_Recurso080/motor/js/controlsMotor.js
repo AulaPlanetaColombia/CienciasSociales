@@ -141,7 +141,7 @@ function CheckBox(resposta, pagina, index)
 
 }
 CheckBox.prototype.pressHandler = function(evt){
-	if(evt.primary){
+	if(evt == null || evt.primary){
 		//deseleccionem en cas de resposta unica
 		if(this.repostaUnica == 1)
 		{

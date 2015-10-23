@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce cómo se construía una pirámide</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[cs_07_08_09]]></referencia>
+    <id_reg><![CDATA[89]]></id_reg>
+    <motor><![CDATA[M5b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Después de ver el video responde las preguntas sobre cómo se construían las pirámides del Antiguo Egipto.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="6">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué faraón fue enterrado en la pirámide mostrada en el video?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[AN001075_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Micerinos" correcta="0"/>
+        <respuesta contestacion="Kefrén" correcta="0"/>
+        <respuesta contestacion="Keops" correcta="1"/>
+        <respuesta contestacion="Tutankhamón" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué utilidad tenía la pirámide?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[AN001075_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Tumba del faraón" correcta="1"/>
+        <respuesta contestacion="Teatro" correcta="0"/>
+        <respuesta contestacion="Palacio" correcta="0"/>
+        <respuesta contestacion="Templo" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Dónde se construyó la pirámide de Keops?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[AN001075_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Cerca de Nubia" correcta="0"/>
+        <respuesta contestacion="En medio del desierto" correcta="0"/>
+        <respuesta contestacion="En los oasis del interior" correcta="0"/>
+        <respuesta contestacion="Cerca del Nilo" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué forma tienen las bases de las pirámides?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[AN001075_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Triangular" correcta="0"/>
+        <respuesta contestacion="Redonda" correcta="0"/>
+        <respuesta contestacion="Cuadrada" correcta="1"/>
+        <respuesta contestacion="Rectangular" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué podía encontrarse en el interior de la pirámide?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[AN001075_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Cámaras funerarias y galerías" correcta="1"/>
+        <respuesta contestacion="Una gran necrópolis" correcta="0"/>
+        <respuesta contestacion="Una gran sala vacía" correcta="0"/>
+        <respuesta contestacion="Almacenes de cereal y caballerizas" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué empleaban los egipcios para colocar de forma escalonada los grandes bloques de piedra con los que se construían las pirámides?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[AN001075_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Andamios" correcta="0"/>
+        <respuesta contestacion="Grúas" correcta="0"/>
+        <respuesta contestacion="Rampas de barro y grava" correcta="1"/>
+        <respuesta contestacion="Rampas de madera" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>
