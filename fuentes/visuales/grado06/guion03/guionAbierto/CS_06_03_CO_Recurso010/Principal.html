@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>La edad antigua: límites cronológicos</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+
+        <script src="extlib/createjs/2013_12_12/createjs-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/movieclip-0-7-1-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/zoom.js"></script>
+        <script src="js/principal.js"></script>
+
+          <script>
+            var canvas, stage, exportRoot, incremento,popupon;
+            window.onresize = function ()
+            {
+                onResize();
+            }
+                       
+             
+            function init() {
+
+                canvas = document.getElementById("canvas");
+                images = images || {};
+                if (navigator.userAgent.toLowerCase().indexOf("firefox") == -1)
+                    incremento = 0;
+                else
+                    incremento = 4;
+                var manifest = [
+                     {src:"images/Mapadebits1.png", id:"Mapadebits1"},
+                     {src:"images/_0001GY01.jpg", id:"_0001GY01"},
+		{src:"images/_0001GY01_btn.jpg", id:"_0001GY01_btn"},
+		{src:"images/_0009IC01.jpg", id:"_0009IC01"},
+		{src:"images/_0009IC01_btn.jpg", id:"_0009IC01_btn"},
+		{src:"images/_000J1001.jpg", id:"_000J1001"},
+		{src:"images/_000J1001_btn.jpg", id:"_000J1001_btn"},
+		{src:"images/_000JKK01.jpg", id:"_000JKK01"},
+		{src:"images/_000JKK01_btn.jpg", id:"_000JKK01_btn"},
+		{src:"images/_000KJ201.jpg", id:"_000KJ201"},
+		{src:"images/_000KJ201_btn.jpg", id:"_000KJ201_btn"},
+		{src:"images/_000T9001.jpg", id:"_000T9001"},
+		{src:"images/_000T9001_btn.jpg", id:"_000T9001_btn"},
+		{src:"images/entrada_egipto.jpg", id:"entrada_egipto"},
+		{src:"images/entrada_egipto_btn.jpg", id:"entrada_egipto_btn"}
+                ];
+
+                var loader = new createjs.LoadQueue(false);
+                loader.addEventListener("fileload", handleFileLoad);
+                loader.addEventListener("complete", handleComplete);
+                loader.loadManifest(manifest);
+                loadXML();
+            }
+
+            function handleFileLoad(evt) {
+                if (evt.item.type == "image") {
+                    images[evt.item.id] = evt.result;
+                }
+            }
+            function putStage(myStage) {
+
+                if (exportRoot) {
+                    exportRoot.removeAllChildren();
+                }
+                exportRoot = myStage;
+                stage = new createjs.Stage(canvas);
+                stage.clear();
+                createjs.Ticker.removeAllEventListeners();
+                stage.autoClear = true; // This must be true to clear the stage.
+                stage.removeAllChildren();
+
+                stage.addChild(exportRoot);
+                stage.update();
+                stage.enableMouseOver();
+                onResize();
+                createjs.Ticker.setFPS(24);
+                createjs.Ticker.addEventListener("tick", stage);
+            }
+            function handleComplete() {
+                var child = document.getElementById("loading");
+                if (child != null)
+                    child.parentNode.removeChild(child);
+                putStage(new lib.frame1())
+
+            }
+            function loadXML() {
+                xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("GET", "data/datos.xml", false);
+                xmlhttp.send();
+                xmlDoc = xmlhttp.responseXML;
+                x = xmlDoc.getElementsByTagName("XMLDatos")[0].childNodes;
+                y = xmlDoc.getElementsByTagName("XMLDatos")[0].firstChild;
+                for (i = 0; i < x.length; i++)
+                {
+                    if (y.nodeType == 1)
+                    {//Process only element nodes (type 1)
+                        j = xmlDoc.getElementsByTagName(y.nodeName)[0].childNodes[0]
+                        textos[y.nodeName] = j.nodeValue;
+                    }
+                    y = y.nextSibling;
+                }
+            }
+        </script>
+    </head>
+
+    <body onload="init();" onorientationchange="onResize();"  style="background-color:#FFFFFF" ><div id="loading" align="center" style="position: absolute;top:50%;left:50%;width:400px;margin-left:-200px;height:300px;margin-top:-150px;" ><img src="images/status.gif"/></div>
+        <canvas id="canvas" width="950" height="608" style="background-color:transparent"></canvas>
+    </body>
+</html>

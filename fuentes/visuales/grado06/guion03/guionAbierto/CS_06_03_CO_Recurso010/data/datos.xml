@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMLDatos aprid="F">
+  <titulo>La Edad Antigua: límites cronológicos</titulo>
+  <btnselec><![CDATA[Selecciona una imagen]]></btnselec>
+  <btnpregunta><![CDATA[¿Cuándo se desarrolló?]]></btnpregunta>
+  <f_btn1><![CDATA[Edad de
+los Metales]]></f_btn1>
+  <f_btn2><![CDATA[3200-330 a.C.]]></f_btn2>
+  <f_btn3><![CDATA[3000-31 a.C.]]></f_btn3>
+  <f_btn4><![CDATA[s. VIII-148 a.C.]]></f_btn4>
+  <f_btn5><![CDATA[753 a.C. - 476]]></f_btn5>
+  <f_btn6><![CDATA[Edad Media]]></f_btn6>
+  <f_btn7><![CDATA[Fin del Imperio romano]]></f_btn7>
+  <f_btn8><![CDATA[Invención de la escritura]]></f_btn8>
+  <popuprta_cor><![CDATA[Respuesta correcta.]]></popuprta_cor>
+  <popuprta_cor1><![CDATA[Roma se fundó en el año<b>753 a.C.</b> a orillas del río Tíber, en la península Itálica.]]></popuprta_cor1>
+  <popuprta_cor2><![CDATA[Las primeras polis griegas nacieron alrededor del <b>siglo VIII a.C.</b> en las tierras de las actuales Grecia y Turquía.]]></popuprta_cor2>
+  <popuprta_cor3><![CDATA[La civilización egipcia nació a orillas del río Nilo en torno al <b>III milenio a.C</b>.]]></popuprta_cor3>
+  <popuprta_cor4><![CDATA[Mesopotamia vivió 3.500 años de esplendor.]]></popuprta_cor4>
+  <tit_meso><![CDATA[Mesopotamia]]></tit_meso>
+  <text_meso><![CDATA[<ul><li>Mesopotamia significa “tierra entre ríos”.</li><li>Los ríos <b>Tigris</b> y <b>Éufrates</b> la convirtieron en una región <b>extremadamente fértil</b>.</li><li>Los canales de regadío permitieron un gran desarrollo de la <b>agricultura</b>.</li><li>Mesopotamia estaba formada por un conjunto de <b>ciudades-estado</b>. <li><b>Hammurabi</b>, rey de Babilonia, redactó el primer código legal en 1800 a.C. </li></ul>]]></text_meso>
+  <tit_egipto><![CDATA[Egipto]]></tit_egipto>
+  <text_egipto><![CDATA[<ul><li>  El Nilo permitió desarrollar la <b>agricultura</b> y el nacimiento de las <b>ciudades</b>.</li><li>Los reyes de Egipto, considerados dioses, recibieron el nombre de <b>faraones</b>.</li><li>Los faraones eran enterrados en las <b>pirámides</b>. Las tres más grandes son las de<b> Keops</b>, <b>Kefrén</b> y<b> Micerinos</b>.</li></ul>]]></text_egipto>
+  <tit_grecia><![CDATA[Grecia]]></tit_grecia>
+  <text_grecia><![CDATA[<ul><li> Estaba formada por <b>ciudades-estado</b> llamadas <b>polis</b>.</li><li>Los griegos fundaron <b>colonias</b> por todo el Mediterráneo.</li><li>A la antigua Grecia le debemos la <b>democracia</b>, la <b>filosofía</b> y el <b>teatro</b>.</li><li> La literatura, arquitectura y escultura griegas fueron muy influyentes.</li><li>La mitología era la base de su religión. </li></ul>]]></text_grecia>
+  <tit_roma><![CDATA[Roma]]></tit_roma>
+  <text_roma><![CDATA[<ul><li> Los romanos conquistaron el <b>Mediterráneo</b> y crearon un gran imperio.</li><li>Fundaron grandes <b>ciudades</b> por todo el Imperio y construyeron <b>calzadas</b> y <b>puentes</b> para comunicarlas.</li><li>Difundieron el <b>latín</b> por el territorio conquistado.</li><li>El <b>arte</b> y la <b>mitología</b> de los romanos eran herederos de la cultura griega. </li></ul>]]></text_roma>
+  <btnpractica><![CDATA[PRACTICA]]></btnpractica>
+  <btnsolucion><![CDATA[SOLUCIÓN]]></btnsolucion>
+</XMLDatos>
