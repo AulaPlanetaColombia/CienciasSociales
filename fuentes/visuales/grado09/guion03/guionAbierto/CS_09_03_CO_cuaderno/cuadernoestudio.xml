@@ -38,7 +38,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_09_03_CO_Recurso010&amp;IdRecurso=RES-96CC97
 >Situación social de México en el siglo XIX</enlace>
 </profundiza><seccion2
 id="S2_CS_09_03_CO_2B04241B004749F88AC25C5AF3DB0278">
-<seccion2Titulo>Las causas de la Revolución</seccion2Titulo>
+<seccion2Titulo>Las causas de la Revolución</seccion2Titulo><?Pub Caret 0?>
 <seccion2Texto>
 <p>En 1910, Porfirio Díaz, quien se había hecho reelegir en varias
 oportunidades, llegaría a los 80 años y a un nuevo periodo de elecciones.
@@ -288,9 +288,9 @@ se hizo realidad en los años treinta con el ascenso de Lázaro Cárdenas.</p>
 > y potenció el acceso de los indígenas a las antiguas propiedades
 rurales que les habían sido arrebatadas.</p>
 <p>También benefició a los trabajadores con <negrita>mejoras salariales</negrita
-> y con la creación de sindicatos <enlace
+> y con la creación de sindicatos<enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=60036&amp;ruta=Buscador"
->[VER]</enlace>.</p>
+> [VER]</enlace>.</p>
 <p>Cárdenas llevó a la práctica otros sueños revolucionarios cuando
 en 1938 <negrita>nacionalizó</negrita> los <negrita>ferrocarriles</negrita
 > y <negrita>expropió</negrita> las <negrita>concesiones petrolíferas</negrita
@@ -475,13 +475,13 @@ americano, que reunió diversas tendencias ideológicas como el <negrita
 de una integración más igualitaria en la estructura socioeconómica.<br
 />El indigenismo se convirtió en una corriente filosófica, política
 y antropológica. El peruano <negrita>José Carlos Mariátegui</negrita
-><enlace destino="https://www.youtube.com/embed/2oUc6TQgjj0"> [VER]</enlace
 >, fundador del Partido Socialista Peruano y <negrita>Víctor Raúl
 Haya de la Torre</negrita>, fundador de la Alianza Popular Revolucionaria
 Americana <negrita>(APRA)</negrita>, incluyeron a los indígenas en
 sus programas políticos. La divulgación del pensamiento de ambos personajes
 tuvo una repercusión a nivel continental y alimentó a los movimientos
-populistas.</listaElemento>
+populistas<enlace destino="https://www.youtube.com/embed/2oUc6TQgjj0"
+> [VER]</enlace>.</listaElemento>
 </listaSinNumerar>
 <imagen ampliable="no" src="CS_09_03_CO_IMG13_small.jpg">
 <p>José Carlos Mariátegui, autor de la obra: “Siete ensayos de interpretación
@@ -524,7 +524,7 @@ a mejorar las condiciones de vida de sus ciudadanos y a fomentar la
 igualdad de oportunidades. Se trata de ofrecer servicios y garantizar
 los derechos de los ciudadanos. En parte, este tipo de Estado, de
 origen europeo, <negrita>inspiró al populismo latinoamericano</negrita
->.</p><?Pub Caret 306?>
+>.</p>
 </destacadoTexto></destacado><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_03_CO_Recurso080&amp;IdRecurso=RES-A70429E965A0445F832A5F4D9A3B6272"
@@ -593,10 +593,11 @@ tras un golpe de Estado en su contra.</p>
 una profunda <negrita>reforma agraria</negrita> que afectó a las propiedades
 de la United Fruit Company y de la oligarquía guatemalteca.</p>
 <p>El país fue invadido por exiliados apoyados por Estados Unidos
-y tras el bombardeo de la capital, Arbenz fue depuesto <enlace
-destino="https://www.youtube.com/embed/4E55FdP9KiM">[VER]</enlace
-> y asumió el poder el coronel derechista Castillo Armas, que devolvió
-las tierras confiscadas a la United Fruit Company.</p>
+y tras el bombardeo de la capital, Arbenz fue depuesto y asumió el
+poder el coronel derechista Castillo Armas, que devolvió las tierras
+confiscadas a la United Fruit Company<enlace
+destino="https://www.youtube.com/embed/4E55FdP9KiM"> [VER]</enlace
+>.</p>
 </seccion3Texto></seccion3><seccion3
 id="S3_CS_09_03_CO_674C628973C7447CBA906F575139A5B1">
 <seccion3Titulo>Argentina</seccion3Titulo>
@@ -608,7 +609,7 @@ Armadas.</p>
 <p>Como presidente tuvo los siguientes logros:</p>
 <listaSinNumerar>
 <listaElemento>Nacionalizó los <negrita>ferrocarriles</negrita></listaElemento>
-<listaElemento><negrita>Nacionalizó el Banco Central</negrita> </listaElemento>
+<listaElemento>Nacionalizó <negrita>el Banco Central</negrita> </listaElemento>
 <listaElemento>Aumentó <negrita>el salario mínimo</negrita></listaElemento>
 <listaElemento>Normalizó la <negrita>seguridad social</negrita> de
 los trabajadores</listaElemento>
@@ -616,7 +617,7 @@ los trabajadores</listaElemento>
 <p>Estas políticas fueron posibles gracias a que Argentina había pasado
 por una época de prosperidad debido a que fue el único país de América
 Latina que siguió exportando sus productos a Europa. El ingreso de
-divisas se mantuvo mientras en el resto del contienen cayó.</p>
+divisas se mantuvo mientras en el resto del continente cayó.</p>
 <imagen src="CS_09_03_CO_IMG15_small.jpg">
 <p>El vínculo afectivo del presidente Perón con <negrita>Eva Duarte</negrita
 >, “Evita”, reforzó su popularidad. Evita fue puesta al frente de
@@ -625,27 +626,28 @@ gobierno.</p>
 </imagen>
 <p>Sin embargo el mandato de Perón empezó a entrar en crisis. Su desatención
 a los sectores rurales le trajeron la desconfianza de sectores de
-terratenientes que se sintieron desatendidos. Se sumó a ello la resistencia
+terratenientes que se sintieron excluidos. Se sumó a ello la resistencia
 de la Iglesia católica, pues Perón promovió el reconocimiento de los
 hijos “ilegítimos” y la supresión de la enseñanza de cátedras de religión
 en los colegios. Además, sobrevino la muerte de su esposa Eva (julio
 de 1952).</p>
-<p>En 1955, tras un sangriento golpe de Estado, Perón fue derrocado <enlace
+<p>En 1955, tras un sangriento golpe de Estado, Perón fue derrocado
+y se exilió en España. Las Fuerzas Armadas y un sector de derecha
+controlaban el país con un sistema represivo. En 1973, el coronel
+regresó definitivamente y, tras unas elecciones, asumió la presidencia
+por corto tiempo. A su muerte fue sucedido por su segunda esposa,
+María Estela Martínez<enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=13&amp;idpil=AU000790&amp;ruta=Buscador"
->[VER]</enlace> y se exilió en España. Las Fuerzas Armadas y un sector
-de derecha controlaban el país con un sistema represivo. En 1973,
-el coronel regresó definitivamente y, tras unas elecciones, asumió
-la presidencia por corto tiempo. A su muerte fue sucedido por su segunda
-esposa, María Estela Martínez.</p>
+> [VER]</enlace>.</p>
 </seccion3Texto></seccion3><seccion3
 id="S3_CS_09_03_CO_C80FDC6CD69D4A54830A2D97690FF475">
 <seccion3Titulo>Estado Novo de Brasil</seccion3Titulo>
 <seccion3Texto>
 <p>Con la iniciativa del militar <negrita>Getulio Vargas</negrita
-> surgió el <negrita>Estado Novo</negrita> <enlace
-destino="https://www.youtube.com/embed/wfBRXeItykE">[VER]</enlace
->, que fue la forma que tomó el gobierno de Brasil durante el periodo
-1937-1945.</p>
+> surgió el <negrita>Estado Novo</negrita> , que fue la forma que
+tomó el gobierno de Brasil durante el periodo 1937-1945<enlace
+destino="https://www.youtube.com/embed/wfBRXeItykE"> [VER]</enlace
+>.</p>
 <p>Vargas llegó al poder en 1930, tras un golpe de Estado. Al poco
 tiempo inauguró el <negrita>Estado Novo</negrita>, una forma de gobierno
 que estimuló la industria y la seguridad social de los obreros pero
@@ -782,7 +784,7 @@ una alianza internacional apoyada por Estados Unidos: la Operación
 Cóndor <enlace destino="https://www.youtube.com/embed/G0C3bHr92HU"
 >[VER]</enlace>.</p>
 <seccion2 id="S2_CS_09_03_CO_76D936019559494DA38DCBA5342A6C42">
-<seccion2Titulo>Caracteristicas de las dictaduras Militares</seccion2Titulo>
+<seccion2Titulo>Características de las dictaduras Militares</seccion2Titulo>
 <seccion2Texto>
 <p>Como ocurrieron a la vez en varios países del continente, estas
 dictaduras tuvieron características comunes:</p>
@@ -795,7 +797,7 @@ desaparición forzada, el secuestro y el asesinato selectivo.</listaElemento>
 bajo su mando los otros poderes, el judicial y el legislativo.</listaElemento>
 <listaElemento><negrita>Desnacionalización de la economía:</negrita
 > las dictaduras coincidieron con la llegada del neoliberalismo, un
-fenómeno mundial que impuso un modelo económico el cual buscaba liberalizar
+fenómeno mundial que impuso un modelo económico que buscaba liberalizar
 de manera extrema la economía, lo que implicaba la reducción al máximo
 de la intervención del Estado, para facilitar negocios internacionales
 y con ello propiciar más ganancias para grandes empresas.</listaElemento>
@@ -926,12 +928,11 @@ masivas del campo a la ciudad.</listaElemento>
 mejoras en políticas de salud pública. Este aumento está ligado a
 la urbanización pues las ciudades se fueron poblando. </listaElemento>
 </listaSinNumerar>
-<destacado><destacadoTitulo>Título de Descatado</destacadoTitulo>
-<destacadoTexto>
+<recuerda><recuerdaTexto>
 <p>El crecimiento urbano contempla tanto la ampliación del espacio
 geográfico ocupado por las ciudades como el aumento del número de
 estas.</p>
-</destacadoTexto></destacado><practica>
+</recuerdaTexto></recuerda><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_03_CO_Recurso170&amp;IdRecurso=RES-3D7367F1018549D3B5710A0509F96B01"
 >Refuerza tu aprendizaje: Los problemas de la ciudad</enlace>
@@ -1016,14 +1017,14 @@ width="10*"></colgroup><colgroup><col width="14*"/><col width="11*"/>
 >, 2009.</p>
 <p>En América Latina se encuentran algunas de las ciudades más grandes
 del mundo, como Río de Janeiro o Ciudad de México.</p>
-<imagen src="CS_09_03_CO_IMG21_small.jpg">
-<p>Río de Janeiro, ejemplo de una ciudad imponente pero con altos
-índices de desigualdad.</p>
-</imagen>
 <p>Desde mediados del siglo veinte, América Latina y el Caribe ha
 pasado de ser una región predominantemente rural para convertirse
 en un territorio donde la mayoría de la población vive en asentamientos
 considerados estadísticamente como urbanos.</p>
+<imagen src="CS_09_03_CO_IMG21_small.jpg">
+<p>Río de Janeiro, ejemplo de una ciudad imponente pero con altos
+índices de desigualdad.</p>
+</imagen>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_03_CO_Recurso180&amp;IdRecurso=RES-24BE15E04967448F9FDB16F5870C0543"
@@ -1050,7 +1051,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_09_03_CO_Recurso200&amp;IdRecurso=RES-849EEA
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_03_CO_Recurso210&amp;IdRecurso=RES-A6623B7E23664297AE4FED02AF8D96B0"
 >Competencias: Regímenes políticos de América Latina en el siglo XX</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_03_CO_Recurso220&amp;IdRecurso=RES-6AE6CAACBCF8441498CD771FC6E3E52D"
 >Proyecto: Estudio de un régimen dictatorial en un país de América
@@ -1064,7 +1064,8 @@ destino="/LoIdRedirect.aspx?LoId=CS_09_03_CO_Recurso240&amp;IdRecurso=RES-986E9E
 destino="/LoIdRedirect.aspx?LoId=CS_09_03_CO_Recurso250&amp;IdRecurso=RES-A792A21CFEC64DDC9AE786F10F704D69"
 >Evalúa tus conocimientos sobre el tema Los regímenes políticos en
 América Latina</enlace></autoevaluate><enlacesreferencia>
-<enlace destino="http://www.museoevita.org/">Museo Evita Perón</enlace>
+<enlace destino="http://www.eird.org/camp-10-15/index.html">Sitio
+oficial del proyecto Ciudades resilientes</enlace>
 <enlace destino="http://www.museodelamemoria.cl/">Instituto Nacional
 de Derechos Humanos en Chile. Sitio que presenta historia, estadísticas
 y documentos sobre las violaciones a los derechos humanos durante
