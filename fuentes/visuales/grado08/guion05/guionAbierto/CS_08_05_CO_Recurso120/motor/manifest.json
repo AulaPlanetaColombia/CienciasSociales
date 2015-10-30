@@ -68,51 +68,7 @@
                 },
                 {
                     "from": "module",
-                    "file": "motor/js/utils.js"
-                },
-                {
-                    "from": "module",
-                    "file": "motor/js/scorm.js"
-                },
-                {
-                    "from": "module",
-                    "file": "motor/js/richText.js"
-                },
-                {
-                    "from": "module",
-                    "file": "motor/js/controlsContenedor.js"
-                },
-                {
-                    "from": "module",
-                    "file": "motor/js/controlsMotor.js"
-                },
-                {
-                    "from": "module",
-                    "file": "motor/js/datosXML.js"
-                },
-                {
-                    "from": "module",
-                    "file": "motor/js/motor.js"
-                },
-                {
-                    "from": "module",
-                    "file": "motor/js/contenedor.js"
-                },
-                {
-                    "from": "module",
-                    "file": "motor/js/correctorTexto.js"
-                },
-                {
-                    "from": "module",
-                    "file": "motor/js/DOMElementCustom.js"
-                },
-                {
-                    "from": "module",
-                    "file": "motor/js/lang.js"
-                },
-                {
-                    "from": "module",
-                    "file": "motor/js/main.js"
+                    "file": "motor/js/M101aall_min.js"
                 }
             ]
         },

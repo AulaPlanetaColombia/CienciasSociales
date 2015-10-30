@@ -1,15 +1,72 @@
-<?xml version='1.0' encoding='UTF-8'?><motor tipo="101" clase="a" aprid="m101a">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<motor tipo="101" clase="a" aprid="m101a">
   <plataforma>
     <grado>2</grado>
     <titulo>Refuerza tu aprendizaje: La segunda Revolución Industrial (1870-1910)</titulo>
-    <volumen/>
-    <nivel><![CDATA[1]]></nivel>
-    <referencia/>
-    <motor/>
+    <volumen />
+    <nivel><![CDATA[2]]></nivel>
+    <referencia />
+    <motor />
     <lang>es</lang>
   </plataforma>
-  <enunciado><![CDATA[Enunciado]]></enunciado>
-  <masinfo inicio="0"/>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario, entrega las respuestas por escrito o por email a tu profesor para que pueda validarlas.]]></enunciado>
+  <masinfo inicio="0" />
   <calc><![CDATA[0]]></calc>
-  <preguntas cantidad="0"/>
+  <preguntas cantidad="6">
+    <pregunta>
+      <enunciado><![CDATA[Explica qué recursos naturales y qué avances tecnológicos permitieron el nacimiento de la segunda Revolución Industrial.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Define el concepto de "trabajo en cadena" y explica qué supuso para la industria del siglo XIX.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Reflexiona acerca de la importancia de la invención de la bombilla eléctrica. Enumera qúe cambios comportó en la vida cotidiana.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica cómo impactó la Revolución Industrial en América Latina.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica el papel de América en la producción de nuevas energías para el desarrollo de la segunda Revolución Industrial.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica en qué consistió el pacto neocolonial en América.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+  </preguntas>
+  <temps>20</temps>
 </motor>
