@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <motor tipo="102" clase="ab" aprid="M102ab">
   <plataforma>
     <grado>2</grado>
@@ -10,10 +10,10 @@
     <lang>es</lang>
   </plataforma>
   <calc>0</calc>
-  <textoupload />
   <enunciado><![CDATA[Desarrolla este proyecto siguiendo las indicaciones de tu profesor o profesora.]]></enunciado>
   <masinfo inicio="0" />
-  <adjunto>Principal.html</adjunto>
+  <textoupload />
+  <adjunto><![CDATA[Principal.html]]></adjunto>
   <url />
-  <amano>0</amano>
+  <amano><![CDATA[0]]></amano>
 </motor>
