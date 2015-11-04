@@ -38,7 +38,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_09_03_CO_Recurso010&amp;IdRecurso=RES-96CC97
 >Situación social de México en el siglo XIX</enlace>
 </profundiza><seccion2
 id="S2_CS_09_03_CO_2B04241B004749F88AC25C5AF3DB0278">
-<seccion2Titulo>Las causas de la Revolución</seccion2Titulo><?Pub Caret 0?>
+<seccion2Titulo>Las causas de la Revolución</seccion2Titulo>
 <seccion2Texto>
 <p>En 1910, Porfirio Díaz, quien se había hecho reelegir en varias
 oportunidades, llegaría a los 80 años y a un nuevo periodo de elecciones.
@@ -115,7 +115,7 @@ id="S3_CS_09_03_CO_6AF3D467F1F54B52923537791DC5A804">
 tropas y presionó militarmente hasta que Porfirio Díaz tuvo que retirarse
 del poder y partir al exilio. Madero ascendió a la presidencia el
 2 de noviembre de 1911.</p>
-<imagen ampliable="no" src="CS_09_03_CO_IMG05_small.jpg">
+<imagen src="CS_09_03_CO_IMG05_small.jpg">
 <p>Las fuerzas de Madero tomaron la ciudad en 1911 y en ella se firmó
 la capitulación y renuncia de Porfirio Díaz.</p>
 </imagen>
@@ -241,7 +241,7 @@ de la Revolución mexicana.</p>
 estatal.</listaElemento>
 <listaElemento>La reforma agraria.</listaElemento>
 </listaSinNumerar>
-<imagen ampliable="no" src="CS_09_03_CO_IMG08_small.jpg">
+<imagen src="CS_09_03_CO_IMG08_small.jpg">
 <p>Constitución de 1917, que sigue vigente en el presente, incorporó:
 derechos civiles, derechos de trabajadores, procedimientos democráticos,
 medidas anticlericales, medidas antimonopólicas; el derecho a la educación
@@ -280,7 +280,7 @@ id="S3_CS_09_03_CO_AD393DC1DDC14BBE8154524833B72E0A">
 <p>Probablemente fue con el mandato de <negrita>Lázaro Cárdenas</negrita
 >, quien llegó a la presidencia en 1934, cuando los anhelos populares
 de los revolucionarios tomaron más vuelo.</p>
-<imagen ampliable="no" src="CS_09_03_CO_IMG09_small.jpg">
+<imagen src="CS_09_03_CO_IMG09_small.jpg">
 <p>El sueño de los revolucionarios mexicanos, que empezó en 1910,
 se hizo realidad en los años treinta con el ascenso de Lázaro Cárdenas.</p>
 </imagen>
@@ -483,7 +483,7 @@ tuvo una repercusión a nivel continental y alimentó a los movimientos
 populistas<enlace destino="https://www.youtube.com/embed/2oUc6TQgjj0"
 > [VER]</enlace>.</listaElemento>
 </listaSinNumerar>
-<imagen ampliable="no" src="CS_09_03_CO_IMG13_small.jpg">
+<imagen src="CS_09_03_CO_IMG13_small.jpg">
 <p>José Carlos Mariátegui, autor de la obra: “Siete ensayos de interpretación
 de la realidad peruana”. Fundó el Partido Socialista Peruano.</p>
 </imagen>
@@ -864,8 +864,9 @@ además veían cómo se frenaban sus importaciones.</p>
 la <negrita>industrialización</negrita>. Se puso énfasis en la creación
 de fábricas y empresas que produjeran bienes que tradicionalmente
 se importaban de Europa y Estados Unidos, pero que en aquel momento
-no desembarcaban con la misma intensidad en los puertos latinoamericanos.</p>
-<imagen ampliable="no" src="CS_09_03_CO_IMG19_small.jpg">
+no desembarcaban con la misma intensidad en los puertos latinoamericanos.</p><?Pub
+Caret 175?>
+<imagen src="CS_09_03_CO_IMG19_small.jpg">
 <p>Los gobiernos populistas lograron impulsar las industrias nacionales.</p>
 </imagen>
 <p>La apuesta por esta vía obedecía a la idea de que la industrialización
