@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f6">
+  <main layout="4">
+    <title>Dictaduras militares en América Latina</title>
+    <footer>Revisa las características de la dictaduras haciendo clic sobre cada imagen</footer>
+  </main>
+  <sections>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="Castelobranco.jpg" border="1">
+        <title><![CDATA[Brasil 1964 - 1985 ]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Dcitadura en Brasil</title>
+          <description><![CDATA[<p></p>
+
+<p>En 1964 los militares asumieron el control total del pa&iacute;s. Su gobierno se caracetriz&oacute; por reprimir cualquier intento de movimiento pol&iacute;tico o partido que manifestara desacuerdo u oposici&oacute;n.&nbsp;Sin embrago, diferentes sectores de la poblaci&oacute;n apoyaron al r&eacute;gimen:&nbsp;la Iglesia cat&oacute;lica, los&nbsp;empresarios y los grandes propietarios rurales.</p>
+
+<p>El gobierno de los Estados Unidos proporcion&oacute; apoyo a la dictadura mientras &eacute;sta ejerc&iacute;a el control sobre los medios de comunicaci&oacute;n, suprimi&oacute; la libertad y torturados y desapareci&oacute;&nbsp;a un gran n&uacute;mero de opositores.</p>
+]]></description>
+          <images>
+            <image path="Avenida_Rio_Branco,_Rio,_1964_De_Gaulle_no_Rolls_Royce.jpg" border="1" pathbig="ditadura_militar_brasil_big.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="Pinochet_en_Historia_Pol%C3%ADtica_BCN.JPG" border="1">
+        <title><![CDATA[Chile 1973 - 1989]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Dictadura en Chile</title>
+          <description><![CDATA[<p>Tras un golpe&nbsp;que depuso al gobierno socialista de Salvador Allende, el militar Augusto Pinochet tom&oacute; el poder apoyado por una junta conformada con representantes de la Armada, el Ej&eacute;rcito y la Fuerza A&eacute;rea.</p>
+
+<p>El gobierno militar prohibi&oacute; los partidos pol&iacute;ticos que defendieran ideolog&iacute;as de izquierda;&nbsp;estableci&oacute;&nbsp;el libre mercado, redujo el gasto p&uacute;blico,&nbsp;privatiz&oacute; los servicios p&uacute;blicos y dio paso a la inversi&oacute;n extranjera. Durante la dictadura un alto n&uacute;mero de chilenos fueron torturados y desaparecidos, lo que la convirti&oacute; en una de las m&aacute;s violentas en Latinoam&eacute;rica.</p>
+]]></description>
+          <images>
+            <image path="dictadura%20ch.jpg" border="1" pathbig="dictadura%20ch_big.jpg">
+              <title><![CDATA[Casa de La Monda 11 de septiembre de 1973]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="Jorge_Rafael_Videla_1976.PNG" border="1">
+        <title><![CDATA[Argentina 1976 - 1983]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Dictadura en Argentina</title>
+          <description><![CDATA[Junto con la dictadura chilena, la Argentina se caracteriz&oacute; por la brutal violencia y asedio a cualquier forma de oposici&oacute;n. Alrededor de 2300 asesinatos pol&iacute;ticos y 30 mil personas desaparecidas hicieron que el r&eacute;gimen militar fuera denunciado ante la Comisi&oacute;n Argentina de Derechos Humanos. Durante la dictadura, Argentina se enfrent&oacute; con Gran Breta&ntilde;a en la Guerra de las Malvinas.]]></description>
+          <images>
+            <image path="2%C2%AA_Marcha_de_la_Resistencia_9_y_10_diciembre_1982.jpg" border="0" pathbig="2%C2%AA_Marcha_de_la_Resistencia_9_y_10_diciembre_1982_big.jpg">
+              <title><![CDATA[Marcha de las Madres de la Plaza de Mayo]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="Juan_Maria_Bordaberry.jpg" border="1">
+        <title><![CDATA[Uruguay 1973 - 1985]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Dictadura en Uruguay</title>
+          <description><![CDATA[<p>En 1973 se instal&oacute;&nbsp;la dictadura militar uruguaya, con el&nbsp;presidente Juan Mar&iacute;a Bordaberry a la cabeza. Se&nbsp;disolvi&oacute; el parlamento,&nbsp;se estableci&oacute; un sistema de vigilancia para controlar a todos los ciudadanos y su forma de pensar. Se&nbsp;desmantelaron diferentes organizaciones sociales y sindicales;&nbsp;sus l&iacute;deres fueron torturados y desaparecidos. Esto llev&oacute;&nbsp;a que un gran n&uacute;mero de personas buscara&nbsp;exilio en otros pa&iacute;ses.&nbsp;</p>
+]]></description>
+          <images>
+            <image path="dictadura%20uruguay.jpg" border="0" pathbig="dictadura%20uruguay_big.jpg">
+              <title><![CDATA[Policía de Uruguay]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="Hugo_banzer_suarez_3.jpg" border="1">
+        <title><![CDATA[Bolivia 1964 - 1982]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Dictadura en Bolivia</title>
+          <description><![CDATA[<p>En 1964 el ej&eacute;rcito boliviano, liderado por el general Barrientos asume el poder. Durante la dictadura se manejaron pol&iacute;ticas de corte progresista, se implanto una reforma agraria, educativa y se nacionalizaron empresas y capitales extranjeros. El general Banzer con medidas violentas busco establecer el orden terminando con cualquier manifestaci&oacute;n de anarquismo y &nbsp;oposici&oacute;n,&nbsp; se estableci&oacute; la pena de muerte y se autoriz&oacute;&nbsp;a la detenci&oacute;n ilimitada y sin juicio, se prohibieron las organizaciones sindicales, los partidos pol&iacute;ticos y cualquier forma de reuni&oacute;n;&nbsp;hacia 1974 tras una crisis econ&oacute;mica se establece la Asamblea Permanente de los Derechos del Hombre con el fin de legitimar nuevamente al gobierno. Durante la dictadura se realiza una huelga de hambre que alcanz&oacute;&nbsp;a contar con m&aacute;s de mil personas que exig&iacute;an la liberaci&oacute;n de familiares presos y manifestar de manera pac&iacute;fica el desacuerdo con las medidas violentas del r&eacute;gimen. En 1982 la dictadura colapsa y el poder es entregado al Congreso Nacional.</p>
+]]></description>
+          <images>
+            <image path="Che_bolivia_.jpg" border="0" pathbig="Che_bolivia_2_big.jpg">
+              <title><![CDATA[Che Guevara con la guerrilla boliviana]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="Rafael_Trujillo_1952.jpg" border="1">
+        <title><![CDATA[República Dominicana 1930 - 1961]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Dictadura Re´pública Dominicana</title>
+          <description><![CDATA[<p>Bajo el lema &ldquo;Dios y Trujillo&rdquo;, este militar se convierte en el dirigente de la dictadura militar que se extender&iacute;a hasta 1961, caracteriz&aacute;ndose por ser un gobierno sumamente violento&nbsp; y represivo en la historia no solo de Rep&uacute;blica Dominicana, sino de toda&nbsp;Latinoam&eacute;rica. Con respecto al desarrollo econ&oacute;mico, Trujillo busc&oacute;&nbsp;obtener beneficios personales con la producci&oacute;n del pa&iacute;s y llego a controlar cerca del 80 de la industria a trav&eacute;s de sus empresas. Las masacres, torturas y desapariciones fueron una caracter&iacute;stica permanente en su gobierno con el fin de mantener oprimidos a sus opositores y as&iacute; evitar cualquier manifestaci&oacute;n en contra del gobierno, se incorporaron diferentes organismos de inteligencia y se obligaba a los ciudadanos a portar pases de buena conducta. En 1961 es asesinado dando fin a la dictadura.</p>
+]]></description>
+          <images>
+            <image path="Dictad%20Rep%20Dominicana.jpg" border="0" pathbig="Dictad%20Rep%20Dominicana_big.jpg">
+              <title><![CDATA[Trujillo con el presidente Magloire de Haiti]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+  </sections>
+</engine>
