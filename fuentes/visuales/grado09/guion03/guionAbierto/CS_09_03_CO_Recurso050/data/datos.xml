@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="b" aprid="m5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>La Revolución mexicana</titulo>
+    <area>0</area>
+    <nivel>3</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Observa el video y luego responde las preguntas seleccionando la respuesta correcta.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[Porfirio Díaz fue presidente de México por un periodo que duró:]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000466_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="30 años." correcta="1"/>
+        <respuesta contestacion="4 años." correcta="0"/>
+        <respuesta contestacion="17 años." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Ese año empezó la Revolución mexicana:]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000466_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="1910." correcta="1"/>
+        <respuesta contestacion="1810." correcta="0"/>
+        <respuesta contestacion="1917." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Uno tras otro, los siguientes fueron presidentes durante el periodo revolucionario en México:]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000466_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Madero y Huerta." correcta="1"/>
+        <respuesta contestacion="Villa y Zapata." correcta="0"/>
+        <respuesta contestacion="Carranza y Zapata." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Las primeras reformas de la Revolución iniciaron este año:]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000466_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="1917." correcta="1"/>
+        <respuesta contestacion="1910." correcta="0"/>
+        <respuesta contestacion="1930." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Aunque fueron insuficientes, las primeras reformas de la Revolución mexicana fueron realizadas por:]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000466_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Venustiano Carranza." correcta="1"/>
+        <respuesta contestacion="Pancho Villa." correcta="0"/>
+        <respuesta contestacion="Victoriano Huerta." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>20</temps>
+</motor>

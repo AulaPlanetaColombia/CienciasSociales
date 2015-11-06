@@ -1,24 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <engine copy="Editorial Planeta" version="1" aprid="f4">
   <main title="México en el siglo XIX" path="" buttonsHeight="73">
-    <text><![CDATA[<p style="text-align:justify"><strong><span style="font-family:verdana,sans-serif; font-size:13.5pt">En el siglo XIX M&eacute;xico dej&oacute; de conocerse como Nueva Espa&ntilde;a. Algunos a&ntilde;os despu&eacute;s del proceso de Independencia tuvo que sufrir las invasiones de Francia y Estados Unidos, adem&aacute;s de una guerra civil. M&aacute;s tarde, en 1858, Benito Ju&aacute;rez logr&oacute;&nbsp;posesionarse&nbsp;como presidente defendiendo ideas liberales. Ju&aacute;rez fue sustituido por Porfirio D&iacute;az, tambi&eacute;n liberal,&nbsp;quien instaur&oacute;&nbsp;una dictadura que se mantuvo por 30 a&ntilde;os (1876-1911).</span></strong></p>
+    <text><![CDATA[<p><span style="font-size:22px"><span style="font-family:verdana,geneva,sans-serif">En el siglo XIX M&eacute;xico dej&oacute; de conocerse como Nueva Espa&ntilde;a. Algunos a&ntilde;os despu&eacute;s del proceso de Independencia tuvo<br />
+que sufrir las invasiones de Francia y Estados Unidos, adem&aacute;s<br />
+de una guerra civil. M&aacute;s tarde, en 1858, Benito Ju&aacute;rez logr&oacute;&nbsp;<br />
+posesionarse&nbsp;como presidente defendiendo ideas liberales.<br />
+Ju&aacute;rez fue sustituido por Porfirio D&iacute;az, tambi&eacute;n liberal,&nbsp;quien instaur&oacute;&nbsp;una dictadura que se mantuvo por 30 a&ntilde;os (1876-1911).</span></span></p>
 
-<p style="text-align:justify"><strong><span style="font-family:verdana,sans-serif; font-size:13.5pt">Durante este periodo, los campesinos e ind&iacute;genas tuvieron condiciones de vida bastante precarias debido a que sus tierras les fueron arrebatadas. Esto llev&oacute; a que se fuera acumulando un gran descontento que termin&oacute; llevando al desarrollo de la primera revoluci&oacute;n social que vivi&oacute; Am&eacute;rica Latina en el siglo XX.</span></strong></p>
+<p><span style="font-size:22px"><span style="font-family:verdana,geneva,sans-serif">Durante este periodo, los campesinos e ind&iacute;genas tuvieron condiciones de vida bastante precarias debido a que sus tierras<br />
+les fueron arrebatadas. Esto llev&oacute; a que se fuera acumulando un gran descontento que termin&oacute; llevando al desarrollo de la primera revoluci&oacute;n social que vivi&oacute; Am&eacute;rica Latina en el siglo XX.</span></span></p>
 ]]></text>
   </main>
-  <questions respCorrecta="Acertaste" respIncorrecta="Inténtalo de Nuevo">
-    <question title="¿Quién fue Benito Juárez?" path="independencia_m.jpg">
+  <questions respCorrecta="Respuesta correcta." respIncorrecta="Vuélvelo a intentar.">
+    <question title="¿Quién fue Benito Juárez?" path="CS_09_03_REC10_IMG01.jpg">
       <answers>
         <answer correct="1">
           <text><![CDATA[Presidente que realizó reformas de tipo liberal]]></text>
-          <explanation width="394"><![CDATA[<p>&nbsp;</p>
-
-<p>Con estas&nbsp;reformas las tierras de los ind&iacute;genas, que eran de propiedad colectiva, se dividieron y pudieron comprarse y venderse, lo que provoc&oacute; una crisis agraria de enormes dimensiones que se fue agudizando hasta que a principios del siglo XX se dio una revoluci&oacute;n social.&nbsp;</p>
+          <explanation width="394"><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:18px">Con estas&nbsp;reformas las tierras<br />
+de los ind&iacute;genas, que eran de propiedad colectiva, se dividieron y pudieron comprarse y venderse, lo que provoc&oacute;<br />
+una crisis agraria de enormes dimensiones que se fue agudizando hasta que a principios del siglo XX<br />
+se dio una revoluci&oacute;n social.&nbsp;</span></span></p>
 ]]></explanation>
         </answer>
         <answer correct="0">
           <text><![CDATA[Presidente mexicano conservador]]></text>
-          <explanation width="394"><![CDATA[<p>Esta opci&oacute;n no es correcta porque Benito Ju&aacute;rez era liberal, lo que significaba que cre&iacute;a en la competencia, la libertad de empresa.&nbsp;</p>
+          <explanation width="394"><![CDATA[<p><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">Benito Ju&aacute;rez era liberal,<br />
+lo que significaba que cre&iacute;a<br />
+en la competencia, la libertad<br />
+de empresa.&nbsp;</span></span></p>
 ]]></explanation>
         </answer>
         <answer correct="0">
@@ -50,16 +59,27 @@
         <text><![CDATA[]]></text>
       </info>
     </question>
-    <question title="Luego del mandato de Juárez llegó al poder un gobierno dictatorial. ¿De quién fue?" path="Juarezreforma.jpg">
+    <question title="Luego del mandato de Juárez llegó al poder un gobierno dictatorial. ¿De quién fue?" path="imagenDummy-MotorF.jpg">
       <answers>
         <answer correct="1">
           <text><![CDATA[Porfirio Díaz]]></text>
-          <explanation width="394"><![CDATA[<p>Al gobierno de Benito Ju&aacute;rez le sigui&oacute; el de Porfirio D&iacute;az. Este &uacute;ltimo se caracteriz&oacute;&nbsp;por endurecer las pol&iacute;ticas econ&oacute;micas y por excluir a grandes sectores de la poblaci&oacute;n de la toma de decisiones pol&iacute;ticas.</p>
+          <explanation width="394"><![CDATA[<p><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">Al gobierno de Benito Ju&aacute;rez<br />
+le sigui&oacute; el de Porfirio D&iacute;az.<br />
+Este &uacute;ltimo se caracteriz&oacute;&nbsp;<br />
+por endurecer las pol&iacute;ticas<br />
+econ&oacute;micas y por excluir<br />
+a grandes sectores de<br />
+la poblaci&oacute;n de la toma<br />
+de decisiones pol&iacute;ticas.</span></span></p>
 ]]></explanation>
         </answer>
         <answer correct="0">
           <text><![CDATA[Pancho Villa]]></text>
-          <explanation width="394"><![CDATA[<p>No, Pancho Villa fue uno de los l&iacute;deres que promovi&oacute; la Revoluci&oacute;n mexicana, que inici&oacute; contra la reelecci&oacute;n de Porfirio D&iacute;az.</p>
+          <explanation width="394"><![CDATA[<p><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">Pancho Villa fue uno de<br />
+los l&iacute;deres que promovi&oacute;<br />
+la Revoluci&oacute;n mexicana,<br />
+que inici&oacute; contra la<br />
+reelecci&oacute;n de Porfirio D&iacute;az.</span></span></p>
 ]]></explanation>
         </answer>
         <answer correct="0">
@@ -91,16 +111,24 @@
         <text><![CDATA[]]></text>
       </info>
     </question>
-    <question title="¿Cómo fue  el gobierno de Porfirio Díaz?" path="10b-PORFIRIO_DIAZ.png">
+    <question title="¿Cómo fue  el gobierno de Porfirio Díaz?" path="CS_09_03_REC10_IMG02.jpg">
       <answers>
         <answer correct="0">
           <text><![CDATA[Democrático ]]></text>
-          <explanation width="394"><![CDATA[<p>Esta respuesta no es correcta. La&nbsp;democracia es una forma de gobierno participativo&nbsp;y el gobierno de Porfirio D&iacute;az no corresponde a esta caracter&iacute;stica, fue impositivo y autoritario.</p>
+          <explanation width="394"><![CDATA[<p>La&nbsp;democracia es una forma<br />
+de gobierno participativo&nbsp;y<br />
+el gobierno de Porfirio D&iacute;az<br />
+no corresponde a esta<br />
+caracter&iacute;stica, fue impositivo<br />
+y autoritario.</p>
 ]]></explanation>
         </answer>
         <answer correct="1">
           <text><![CDATA[Dictatorial ]]></text>
-          <explanation width="394"><![CDATA[<p>El gobierno de Porfirio D&iacute;az se caracteriz&oacute; por ser autoritario y no participativo. Por ello es&nbsp;dictatorial.</p>
+          <explanation width="394"><![CDATA[<p>El gobierno de Porfirio D&iacute;az<br />
+se caracteriz&oacute; por ser<br />
+autoritario y no participativo.<br />
+Por ello es&nbsp;dictatorial.</p>
 ]]></explanation>
         </answer>
         <answer correct="0">
