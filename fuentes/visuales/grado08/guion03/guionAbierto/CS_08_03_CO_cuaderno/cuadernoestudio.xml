@@ -1,719 +1,1153 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_08_03_CO">
-  <libroTitulo>El Nuevo Reino de Granada al comenzar el siglo XIX</libroTitulo>
-  <seccion1 id="S1_CS_08_03_CO_5E4AB20B69504B11A705973143532EA8">
-    <seccion1Titulo>La Independencia</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_08_03_CO_602D84D33C0049EB9B69972E290ACF30">
-        <seccion2Titulo>Los primeros levantamientos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_08_03_CO_09D4C0CE2E074138AF3D8764B79BEFC4">
-            <seccion3Titulo>La Rebelión de los comuneros</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_01_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso010&amp;IdRecurso=RES-6719749CFCF346B9948EF6DA68B8F906">Diaporama F1-01</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_02_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso020&amp;IdRecurso=RES-4B1596B0002D48B6BB5A8DC761C1EE16">Recurso M2A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_03_CO_63B938B6F2A14F64A08529B0DCD91996">
-        <seccion2Titulo>El pensamiento independentista</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_08_03_CO_7885790CA6FE42A0BD5E4B5576B6426A">
-            <seccion3Titulo>La Expedición Botánica</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_03_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso030&amp;IdRecurso=RES-C38B6FC9636343AEBF0FDD6F0D5DF491">Recurso M2A-02</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_03_CO_F7471DB492DB4A20B8FABE33867192F8">
-            <seccion3Titulo>Los Derechos del Hombre y del Ciudadano</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_04_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_03_CO_099B48DF3D9E4444855FF7A3A1CACBAA">
-            <seccion3Titulo>El Memorial de Agravios</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_05_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_03_CO_B8B54AA9D9624B96B00EE8EB410801CA">
-        <seccion2Titulo>Los hechos del 20 de julio de 1810</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_08_03_CO_47A3967878144C099CF692C91798957E">
-            <seccion3Titulo>La llegada de Antonio Villavicencio</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_06_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_03_CO_37C3C2CD6F034C40AA0E4B9B02B3D8CD">
-            <seccion3Titulo>El florero de Llorente</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_07_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso060&amp;IdRecurso=RES-AD89C87980EE46F387B0E1BDF6A9EBE7">Recurso M2B-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_03_CO_6E928CB7A3F444FE8402C8036908AB8C">
-        <seccion2Titulo>La Patria Boba</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_08_03_CO_031E5862AF5A458A978ACC91AE8E47AC">
-            <seccion3Titulo>La división del territorio y sus consecuencias</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_08_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso070&amp;IdRecurso=RES-F48210F5394E446AA52767F22A3EE913">Recurso M5D-02</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_09_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso080&amp;IdRecurso=RES-905D969FBAD94DCB868B746C17B68181">Diaporama F1-02</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_10_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso090&amp;IdRecurso=RES-34DA656F82CE4D3C987F9B495197A5AB">Recurso M10A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_03_CO_63350E5AE1D4490B9161861BDE659B02">
-        <seccion2Titulo>La Reconquista</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_08_03_CO_CE25D87B8CCD4460AA30430632542BEF">
-            <seccion3Titulo>El régimen del terror</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_11_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_03_CO_BD7FA94D3F664CB88CE6778C4ABEE652">
-            <seccion3Titulo>La respuesta de los rebeldes</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_12_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso100&amp;IdRecurso=RES-3C12364FB32641878805DF5A3A79D8E0">Recurso F10-01</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_03_CO_96A8A2C54C4C46829D664D3435320090">
-        <seccion2Titulo>La Campaña Libertadora</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_03_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso110&amp;IdRecurso=RES-92140F3C724E4591AB3614D8343E79A0">Recurso M4A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_03_CO_7E14A92C3BA54393B58766CE1C1ECC7D">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_03_CO_img_14_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso120&amp;IdRecurso=RES-10D08CA7EA534D17B72118A584FC1204">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_03_CO_9306923D96DD49AFBE1D995971A8B5DA">
-    <seccion1Titulo>La Gran Colombia</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_08_03_CO_3A36976C21D84E509CC609141184361F">
-        <seccion2Titulo>El orden social de la Gran Colombia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_03_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_03_CO_324E6B71F02942518F63734DE460596E">
-        <seccion2Titulo>Las confrontaciones entre Bolívar y Santander</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_03_CO_img_16_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso130&amp;IdRecurso=RES-BE3A209000F544CDB0AABA8EF5EF7432">Recurso M14A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_03_CO_img_17_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso140&amp;IdRecurso=RES-24870DBA33634FDFA4A2614843BAC9B1">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_03_CO_301194AF2F7A4FD78225C210F7657632">
-    <seccion1Titulo>La República de la Nueva Granada (1831-1858)</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_08_03_CO_68F064C55ADC485F84060B982F15A7C2">
-        <seccion2Titulo>La presidencia de Francisco de Paula Santander</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_03_CO_img_18_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_03_CO_672D7F6B5C124266B8DE5A6D656D07B4">
-        <seccion2Titulo>La presidencia de José Ignacio de Márquez</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_08_03_CO_2502AD886BE34750BC0B59A246F7BDBD">
-            <seccion3Titulo>La Guerra de los Conventillos (1839)</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_19_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso150&amp;IdRecurso=RES-1CC83FE47494413382788A2E7D5F11A3">Recurso M1B-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_03_CO_25C6588EDFBA45AFA8A9F0A4DF265907">
-            <seccion3Titulo>La Guerra de los Supremos (1839-1842)</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_20_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_03_CO_4BCD7B6CD3CC4B7FB802E1B7404F9891">
-            <seccion3Titulo>Consecuencias de la Guerra de los Supremos (1839-1842)</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_03_CO_img_21_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_03_CO_0A970F3C16D94CC5AB6A4F1132B13C5C">
-        <seccion2Titulo>Presidencias de Herrán y Mosquera</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_03_CO_img_22_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_03_CO_4473B2F4F411445C899D0C615A1DD79C">
-        <seccion2Titulo>Surgimiento de los partidos políticos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_03_CO_img_23_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso170&amp;IdRecurso=RES-8821AD42E38F42D8BA1EE5EF0A26C133">Recurso M10A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_03_CO_858B2F23C7CA4372AC9C163B37531D31">
-        <seccion2Titulo>Presidencia de José Hilario López (1849-1852)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_03_CO_img_24_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso180&amp;IdRecurso=RES-BB6EC114B05541E5B2362897CB8169F4">Recurso F10-02</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_03_CO_EC7CDD386A4A4354ADEA591C1AA11C33">
-        <seccion2Titulo>Presidencia de José María Obando (1853-1854)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_03_CO_img_25_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_03_CO_A6C05FDF08AA40A6B74D610DA08A4E83">
-        <seccion2Titulo>Presidencias de Manuel María Mallarino y Mariano Ospina Rodríguez (1855-1861)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_03_CO_img_26_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso190&amp;IdRecurso=RES-DDC1ACE86C5148078290344073EB257A">Recurso F6-01</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_03_CO_img_27_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso200&amp;IdRecurso=RES-71C89B680EC94CC4A91C8D505A367017">Recurso M1C-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_03_CO_img_28_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso210&amp;IdRecurso=RES-B96F2EAA489B48C79F7CC51E542B6E95">Recurso M101A-04</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_03_CO_C844E41E2B594F7BAC00B89D3D097151">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_03_CO_img_29_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso220&amp;IdRecurso=RES-238545EC5B564D2B8C26779A3F11BBEE">Recurso M102AB-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_03_CO_img_30_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso230&amp;IdRecurso=RES-A5F2D165A9384FD5B666E4934965569A">Recurso F13-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_08_03_CO_F5342342359F4867B0683047D6FE8E5A">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso250&amp;IdRecurso=RES-F26316ABFF324C2C8A0C15F263404284">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso260&amp;IdRecurso=RES-4E956362162E44719481809BAB05AE03">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>El Nuevo Reino de Granada al comenzar el siglo XIX</libroTitulo>
+<seccion1 id="S1_CS_08_03_CO_5E4AB20B69504B11A705973143532EA8">
+<seccion1Titulo>La Independencia</seccion1Titulo>
+<seccion1Texto>
+<p>En la Nueva Granada, las causas de la Independencia fueron, en
+esencia, las mismas que determinaron el proceso emancipador en el
+resto de las colonias americanas: las Reformas borbónicas, la Independencia
+de las Trece Colonias americanas, la invasión napoleónica a España
+y las ideas de la Ilustración y de la Revolución francesa. No obstante,
+en la Nueva Granada el proceso tuvo algunas particularidades.</p>
+<seccion2 id="S2_CS_08_03_CO_602D84D33C0049EB9B69972E290ACF30">
+<seccion2Titulo>Los primeros levantamientos</seccion2Titulo>
+<seccion2Texto>
+<p>El proceso de Independencia de la Nueva Granada se remonta al 16
+de marzo de 1781, cuando ocurrió un levantamiento que abrió el camino
+a la emancipación definitiva: la Rebelión de los comuneros.</p>
+<seccion3 id="S3_CS_08_03_CO_09D4C0CE2E074138AF3D8764B79BEFC4">
+<seccion3Titulo>La Rebelión de los comuneros</seccion3Titulo>
+<seccion3Texto>
+<p>Este movimiento fue el resultado de una reacción al aumento de
+impuestos que se dio en el contexto de las Reformas borbónicas. Ocurrió
+en la población de Socorro, y luego en Mogotes, Charalá, Vélez y San
+Gil.</p>
+<recuerda><recuerdaTexto>
+<p>Aunque la Independencia de la Nueva Granada tiene como fecha de
+inicio el año de 1781, con la Rebelión de los comuneros, desde la
+Conquista y durante toda la Colonia hubo levantamientos populares,
+particularmente de indígenas y negros sometidos a la exclusión social,
+a la esclavitud y al trabajo forzado. El proceso de Independencia,
+sin embargo, fue impulsado inicialmente por la élite criolla.</p>
+</recuerdaTexto></recuerda>
+<p>Los comuneros pedían <negrita>igualdad económica</negrita>. Para
+algunos era esa la reivindicación principal. Para otros, la igualdad
+económica debía traer igualdad <negrita>social</negrita> y también <negrita
+>política</negrita>. Con las <negrita>Reformas borbónicas</negrita
+> se creó la figura del “visitador regente”, un representante del
+rey encargado de implementar medidas económicas acordes con el interés
+de España en fortalecer su poder económico.</p>
+<p>Esa política fiscal quedó plasmada en documentos que aumentaban
+y hacían más estricto el recaudo de los impuestos. Por ejemplo, artículos
+que la población usaba a diario, como el tabaco o las mantas de algodón,
+se volvieron más costosos. Así mismo, se ejerció un control sobre
+la producción y el comercio de sal y otros artículos de primera necesidad.</p>
+<imagen src="CS_08_03_CO_IMG01_small.jpg">
+<p>Esta estampilla conmemorativa de la Rebelión de los comuneros destaca
+la figura de <negrita>Manuela Beltrán</negrita>, mujer que arrancó
+el edicto en el que se publicó la instrucción del visitador Juan Francisco
+Gutiérrez de Piñeres. Este hombre, por mandato de la Corona española,
+impuso un conjunto de impuestos y medidas que buscaban fortalecer
+el Imperio, pero que empobrecían a la población mestiza, indígena
+y campesina de las colonias.</p>
+</imagen>
+<p>Los comuneros, dirigidos inicialmente por el criollo <negrita>Francisco
+Berbeo</negrita>, conformaron un enorme ejército comandado, entre
+otros líderes, por el descendiente de indígenas <negrita>Ambrosio
+Pisco</negrita> y el mestizo <negrita>José Antonio Galán</negrita
+>. Cientos de pobladores de oficios medios, como carniceros, sombrereros
+o tejedores, se unieron en armas al movimiento. Una vez organizado,
+este ejército partió a Santa Fe de Bogotá para presentar sus reclamos,
+reunidos en un documento conocido como las <negrita>Capitulaciones</negrita
+>.</p>
+<p>Al llegar a Zipaquirá, los comuneros fueron interceptados por el
+arzobispo Caballero y Góngora, quien tenía órdenes de contener a los
+rebeldes. Se acordó, entonces, la firma de las Capitulaciones y, de
+inmediato, el líder Francisco Berbeo ordenó la desmovilización de
+los comuneros y el retorno a sus lugares de origen.</p>
+<p>A pocos días de la firma de las Capitulaciones, el virrey, que
+estaba en Cartagena, deshizo los acuerdos y ordenó que su ejército
+apresara y persiguiera a los rebeldes. Algunos de los comuneros, como
+José Antonio Galán, continuaron resistiendo y organizando más levantamientos,
+en los que incorporaron a más indígenas y negros.</p>
+<imagen ampliable="no" src="CS_08_03_CO_IMG02_small.jpg">
+<p>(<cursiva>José Antonio Galán. Óleo de Domingo Moreno Otero. Ca.
+1937</cursiva>). <negrita>José Antonio Galán</negrita> fue el líder
+popular que mantuvo a los comuneros organizados aun después de la
+firma de las Capitulaciones en Zipaquirá. Él, junto con otros aliados,
+fue cruelmente ajusticiado por las autoridades españolas en Santa
+Fe, el 1 de febrero de 1782.</p>
+</imagen>
+<p>La rebeldía aumentó cuando llegó a oídos de los insurrectos que
+Berbeo había disuelto el movimiento en Zipaquirá a cambio de dinero.
+La rebelión terminó con la detención y descuartizamiento de Galán
+y sus aliados. A pesar de la derrota, el descontento quedó como una
+semilla para la posteridad.</p>
+<recuerda><recuerdaTexto>
+<p>La <negrita>Rebelión de los comuneros</negrita>, ocurrida en 1781,
+dejó al descubierto el enorme descontento que había frente a las imposiciones
+políticas y económicas de la Corona española en la Nueva Granada.
+En aquella rebelión participaron distintos grupos sociales. Aunque
+criollos como Francisco Berbeo asumieron el liderazgo, otros dirigentes
+populares, como José Antonio Galán o Ambrosio Pisco, dejaron su sello
+al prolongar y llevar la rebelión a distintas zonas del país y reivindicar
+los intereses de los grupos más oprimidos.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso010&amp;IdRecurso=RES-6719749CFCF346B9948EF6DA68B8F906"
+>La Rebelión de los comuneros</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso020&amp;IdRecurso=RES-4B1596B0002D48B6BB5A8DC761C1EE16"
+>Comprende en qué consistió la lucha de los comuneros</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_08_03_CO_63B938B6F2A14F64A08529B0DCD91996">
+<seccion2Titulo>El pensamiento independentista</seccion2Titulo>
+<seccion2Texto>
+<p>A pesar de la distancia y de que las comunicaciones eran muy lentas,
+las ideas de la Revolución francesa llegaron a la Nueva Granada en
+libros y periódicos. Los criollos y algunos mestizos leyeron documentos
+fascinantes que exaltaban los ideales de <negrita>igualdad</negrita
+>, <negrita>libertad</negrita> y <negrita>fraternidad</negrita>.</p>
+<p>De otra parte, las Reformas borbónicas, que buscaban reforzar el
+control total de España sobre las colonias, tuvieron un efecto inesperado
+para la Corona. Con la participación de los virreyes Guirior, Caballero
+y Góngora, y Ezpeleta, se fundaron periódicos como el <cursiva>Papel
+periódico de Santafé de Bogotá</cursiva> y se fomentó la creación
+de universidades y bibliotecas que, más tarde, cumplirían un papel
+crucial en la Independencia. De igual manera, se impulsó la Expedición
+Botánica.</p>
+<seccion3 id="S3_CS_08_03_CO_7885790CA6FE42A0BD5E4B5576B6426A">
+<seccion3Titulo>La Expedición Botánica</seccion3Titulo>
+<seccion3Texto>
+<p>Fue una enorme empresa científica impulsada por la Corona española.
+Su propósito era el estudio de los recursos naturales del virreinato,
+para clasificarlos e inventariarlos. Con la Expedición, España esperaba
+conocer qué tanta riqueza había en la Nueva Granada y cómo podía ser
+explotada.</p>
+<p>La Expedición Botánica estuvo dirigida por <negrita>José Celestino
+Mutis</negrita>, un sacerdote científico que trabajó en áreas como
+la Medicina, la Botánica, la Matemática, la Geografía y la Astronomía.</p>
+<p>Para Mutis, la Expedición solo podía llevarse a cabo con la ayuda
+de jóvenes estudiosos y entusiastas, capaces de recorrer el virreinato
+para recoger muestras de su flora, fauna y minerales. Fue así como
+se rodeó de un grupo de estudiantes criollos que, poco a poco, al
+reconocer la inmensa riqueza del territorio, desarrollaron un sentimiento
+de apego por este y de independencia frente a España.</p>
+<imagen ampliable="no" src="CS_08_03_CO_IMG03_small.jpg">
+<p><cursiva>(José Celestino Mutis, naturalista español. Óleo de R.
+Cristóbal)</cursiva>. <negrita>José Celestino Mutis</negrita> impulsó
+la <negrita>Expedición Botánica</negrita>, proyecto científico que
+tuvo importantes repercusiones políticas pues permitió conocer los
+recursos con los que contaba el virreinato para su explotación y,
+por supuesto, para el envío de más  recursos a España.</p>
+</imagen>
+<p>La Expedición Botánica fue fundamental para descubrir variedades
+de plantas atractivas para los comerciantes. Una de las especies más
+buscadas y estudiadas fue la <negrita>quina</negrita>. El interés
+por esta planta eran sus cualidades antipiréticas, es decir, porque
+controlaba la fiebre. En regiones en donde el paludismo es frecuente,
+la quina resulta muy útil. Por ello, España sabía que esta planta
+representaba una enorme fuente de riqueza.</p>
+<p>Desde su inicio, el 30 de abril de 1783, el epicentro de investigación
+de la Expedición Botánica fue la población de Mariquita (hoy municipio
+del departamento del Tolima). En 1802, Mutis encargó la construcción
+en Santa Fe de un <negrita>observatorio astronómico</negrita>. Al
+científico <negrita>Francisco José de Caldas</negrita> se le encomendó
+las investigaciones meteorológicas y astronómicas.</p>
+<p>Los jóvenes que acompañaban a Mutis en su investigación hicieron
+del Observatorio Astronómico de Santa Fe un sitio de reunión. Allí
+se presentaban los avances de las investigaciones. Con ellas, Caldas
+y otros miembros de la Expedición, como Francisco Zea, Javier Matiz,
+Sinforoso Mutis, José María Carbonell, Jorge Tadeo Lozano y Salvador
+Rizo se dieron cuenta de que la Nueva Granada podía ser una <negrita
+>república independiente</negrita>, capaz de producir y comercializar
+recursos y materias para su subsistencia. Ese “patriotismo científico”
+pasó a convertirse en un proyecto político de emancipación.</p>
+<imagen ampliable="no" src="CS_08_03_CO_IMG04_small.jpg">
+<p><negrita>Francisco José de Caldas</negrita> publicó el 3 de enero
+de 1808 el primer número del <negritacursiva>Semanario del Nuevo Reyno
+de Granada</negritacursiva>, periódico en que se divulgaban artículos
+científicos. En él también los jóvenes estudiantes que colaboraban
+en la Expedición Botánica expresaban su deseo de construir una nación
+libre, capaz de asumir su independencia gracias a la diversidad de
+sus recursos naturales.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>La <negrita>Expedición Botánica</negrita> fue una gran empresa
+científica con la que España quiso hacer un inventario de los recursos
+naturales que había en el Nuevo de Reino de Granada. Ese inventario,
+que ordenaba y clasificaba las especies de fauna, flora y minerales,
+serviría para conocer y cuantificar las riquezas del virreinato y,
+así, explotarlas de manera más eficiente.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso030&amp;IdRecurso=RES-C38B6FC9636343AEBF0FDD6F0D5DF491"
+>Conoce la Expedición Botánica</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_08_03_CO_F7471DB492DB4A20B8FABE33867192F8">
+<seccion3Titulo>Los Derechos del Hombre y del Ciudadano</seccion3Titulo>
+<seccion3Texto>
+<p>La Rebelión de los comuneros, la Expedición Botánica y las ideas
+francesas empezaron a generar cambios en la mentalidad de los habitantes
+del Nuevo Reino de Granada.  El estallido de la Revolución francesa
+en 1789 y la divulgación de los Derechos del Hombre y del Ciudadano
+sirvieron de inspiración para las colonias y, en particular, para
+los criollos ilustrados.</p>
+<p>En 1793, empezaron a verse los frutos de esa influencia en el virreinato.
+Ese año, en la imprenta de <negrita>Antonio Nariño</negrita> se imprimió
+la traducción que él mismo hizo del francés al castellano de los <negrita
+>Derechos del Hombre y del Ciudadano</negrita>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso040&amp;IdRecurso=RES-0AFA3F05E0D343F0A49234398CD75375"
+>Reflexiona sobre los Derechos del Hombre y del Ciudadano</enlace>
+</practica>
+<p>Además, en aquella imprenta, conocida como la “Imprenta patriótica”,
+también se reprodujeron varios números del primer periódico de la
+Nueva Granada: el <negritacursiva>Papel Periódico de Santafé</negritacursiva
+>, que dirigía el periodista e intelectual cubano <negrita>Manuel
+del Socorro Rodríguez</negrita>. Este publicaba ensayos y artículos
+de científicos europeos y locales en los que se divulgaba el <negrita
+>pensamiento ilustrado</negrita>.</p>
+<destacado><destacadoTitulo>El costo de la libertad de expresión</destacadoTitulo>
+<destacadoTexto>
+<p>La divulgación de conocimiento y de ideas ilustradas le costó a
+Nariño la cárcel y el destierro. Por varios años, Nariño permaneció
+en diferentes prisiones. Sin embargo, ello no fue impedimento para
+que su vida estuviera dedicada al logro de la emancipación de la Nueva
+Granada.</p>
+</destacadoTexto></destacado>
+<imagen ampliable="no" src="CS_08_03_CO_IMG05_small.jpg">
+<p>Para muchos historiadores, <negrita>Antonio Nariño</negrita> es
+el precursor de la Independencia de la Nueva Granada. En parte, porque
+se interesó en divulgar los <cursiva>Derechos del Hombre y del Ciudadano</cursiva
+>, pero también porque a pesar de haber pasado varias ocasiones en
+prisión se mantuvo firme en el proyecto emancipador.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_03_CO_099B48DF3D9E4444855FF7A3A1CACBAA">
+<seccion3Titulo>El Memorial de Agravios</seccion3Titulo>
+<seccion3Texto>
+<p>Cuando se supo de la invasión napoleónica a España y, a la vez,
+de la resistencia de los españoles en las Juntas reunidas en Cádiz,
+el criollo <negrita>Camilo Torres</negrita>, abogado de profesión
+y primo de Francisco José de Caldas, publicó un documento en el que
+cuestionó la actitud de las Cortes que, aunque llamaron a los americanos
+a participar de una Suprema Junta Central, lo hicieron sin considerar
+que una representación real debía tener en cuenta la proporción de
+habitantes.</p>
+<p>Para aquel entonces, los criollos conocían ya el concepto de <negrita
+>representación</negrita>. Algunos de ellos, como Camilo Torres, creían
+que podía seguirse perteneciendo a España, pero conservando alguna
+autonomía económica y teniendo participación en la toma de decisiones
+políticas, en igualdad de condiciones. Es decir, pensaban que podía
+formarse parte del reino de España, siempre y cuando los criollos
+tuvieran representación en las Juntas, que era el nombre que recibía
+este órgano de gobierno que cumplía las funciones de Parlamento.</p><?Pub
+Caret 332?>
+<p>Pero las <negrita>Juntas de Cádiz</negrita> invitaron a un número
+muy reducido de representantes de las colonias. Esto desató la indignación
+de algunos criollos.</p>
+<imagen ampliable="no" src="CS_08_03_CO_IMG06_small.jpg">
+<p><negrita>Camilo Torres</negrita> escribió y envió a España el <negrita
+>Memorial de agravios</negrita>, que juraba lealtad al rey Fernando
+VII, pero se quejaba de la desigualdad en la representación en la
+Nueva Granada. Torres quiso que los españoles notaran la injusticia,
+pero el documento nunca llegó a su destino. Sin embargo, quedó como
+constancia de la inconformidad que se vivía en la época.</p>
+</imagen>
+<p>Lo particular del Memorial es que deja entrever que los criollos
+no tenían una total claridad de si querían independizarse completamente
+de España o conservar tan solo autonomía económica. La decisión definitiva
+de emancipación se tomó cuando empezaron las guerras, pues allí la
+relación de fuerzas exigía estar en un bando o en el otro.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso050&amp;IdRecurso=RES-F6D03ED455CE44078128156F445E1F02"
+>Comprende el Memorial de agravios</enlace>
+</practica><recuerda><recuerdaTexto>
+<p>El <negrita>Memorial de agravios</negrita> pedía igualdad de representación
+de criollos y españoles. Sin embargo, no mencionaba a los indígenas
+ni a los negros.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3></seccion2Texto>
+</seccion2><seccion2
+id="S2_CS_08_03_CO_B8B54AA9D9624B96B00EE8EB410801CA">
+<seccion2Titulo>Los hechos del 20 de julio de 1810</seccion2Titulo>
+<seccion2Texto>
+<p>Al Virreinato de la Nueva Granada llegó la noticia de que en la <negrita
+>Audiencia de Quito</negrita> los criollos más poderosos habían expulsado
+a los españoles de la Junta Suprema de Gobierno y que habían hecho
+declaraciones a favor de la independencia y de la unión de las colonias
+para lograrla.</p>
+<p>Las autoridades de la Nueva Granada tomaron medidas preventivas,
+pues sabían que los criollos se interesarían por seguir los pasos
+de Quito. Se esperó que con una fuerte <negrita>represión</negrita
+> y <negrita>vigilancia</negrita>, así como con detenciones, los criollos
+se amedrantarían. Sin embargo, en poblaciones como Cartagena, Cali,
+Pamplona, entre otras, empezaron a ocurrir levantamientos que tuvieron
+su punto culminante en Santa Fe, el 20 de julio de 1810.</p>
+<seccion3 id="S3_CS_08_03_CO_47A3967878144C099CF692C91798957E">
+<seccion3Titulo>La llegada de Antonio Villavicencio</seccion3Titulo>
+<seccion3Texto>
+<p>La Junta Suprema Central de España, que defendía al rey Fernando
+VII, quien había sido secuestrado por Napoleón durante la invasión
+de los franceses, envió al virreinato a <negrita>Antonio Villavicencio</negrita
+> como regente y representante de la Corona. El objetivo era hacer
+visible la autoridad del rey y evitar la sensación de vacío de poder
+que había provocado la invasión francesa a la Península.</p>
+<p>Sin embargo, Antonio Villavicencio no había terminado de desembarcar,
+cuando fue recibido con un <negrita>motín en la ciudad de Cartagena</negrita
+>. Entre tanto, la llama de la rebelión se fue encendiendo en distintos
+puntos del territorio.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_03_CO_37C3C2CD6F034C40AA0E4B9B02B3D8CD">
+<seccion3Titulo>El florero de Llorente</seccion3Titulo>
+<seccion3Texto>
+<p>El 20 de julio de 1810, la capital del reino se encontraba agitada
+desde la mañana. Era día de mercado y la plaza estaba llena de gente.
+El mismo grupo de criollos que años atrás participó de la Expedición
+Botánica, y que por lo mismo conocía muy bien el pensamiento ilustrado,
+preparó la noche anterior una <negrita>conspiración</negrita> para
+provocar a los españoles y llamar a la rebelión.</p>
+<p>Debido a la pronta llegada de Antonio Villavicencio, se preparaban
+algunos festejos. El grupo de criollos se presentó en la tienda del
+español <negrita>José González Llorente</negrita> para pedirle prestado
+un florero. Se dice que el florero se utilizaría como adorno en el
+agasajo. En torno al florero hubo una discusión, que no era otra cosa
+que el reflejo del rencor entre criollos y españoles.</p>
+<p>La disputa por el florero fue la chispa que provocó la revuelta
+del <negrita>20 de julio y el grito de Independencia</negrita><enlace
+destino="www.colombiaaprende.edu.co/html/home/1592/article-83837.html"
+> [VER]</enlace>. Desde ese momento se presentaron discusiones acaloradas
+sobre qué hacer y cómo actuar. En medio del desorden que duró toda
+la tarde, de ultrajes, arengas y discursos callejeros, los criollos
+decidieron finalmente constituir una junta. Pero esta estuvo conformada
+por los criollos más poderosos de la ciudad, lo cual despertó la furia
+del pueblo, que seguía exigiendo <negrita>Cabildo Abierto</negrita
+>, es decir, una instancia de decisión abierta a la real participación
+del pueblo.</p>
+<imagen ampliable="no" src="CS_08_03_CO_IMG07_small.jpg">
+<p><cursiva>(José María Carbonell. Colección Museo de la Independencia-Casa
+del Florero)</cursiva>. Uno de los líderes populares que organizó
+en barrios y plazas a los sectores más pobres fue <negrita>José María
+Carbonell</negrita>, quien también había participado en la Expedición
+Botánica. A pesar de su cercanía a la élite criolla, consideró que
+la independencia debía beneficiarlos no solamente a ellos, sino también
+a campesinos, gentes de los barrios, artesanos, indígenas y negros.</p>
+</imagen>
+<p>Los motines y disturbios mostraron que la Independencia no solo
+podía ser un proceso en el que los criollos ganaran privilegios. El
+14 de agosto de 1810, el virrey y su esposa fueron encarcelados, pero
+lograron huir con la complicidad de criollos acomodados. A partir
+de aquel momento, el virreinato empezó a vivir momentos de confrontación
+política y militar que llevaron a que la Independencia fuera un proceso
+de varios años. Durante este tiempo, la sociedad se dividió en torno
+a la manera como debía construirse la nación.</p>
+<p>En Santa Fe, la llegada de <negrita>Antonio Nariño</negrita>, proveniente
+de una de sus largas temporadas de prisión en Cartagena, puso en guardia
+a las élites criollas que aún estaban indecisas, pues no sabían si
+querían una Independencia absoluta o solo autonomía económica y acceso
+a puestos de mando.</p>
+<p>La división de opiniones e intereses políticos empezó a perfilarse:
+se crearon bandos, se fraccionó el territorio y se inició una etapa
+difícil y duradera: la <negrita>Patria Boba</negrita>.</p>
+<recuerda><recuerdaTexto>
+<p>En su libro <cursiva>Las revoluciones hispanoamericanas</cursiva
+>, el historiador John Lynch, al hacer su análisis de los hechos que
+se desataron el 20 de julio de 1810, afirma: “pronto se vio claramente
+que era más fácil derrotar a los españoles que organizar a los criollos”. </p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso060&amp;IdRecurso=RES-AD89C87980EE46F387B0E1BDF6A9EBE7"
+>Recuerda qué fue el grito de Independencia</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_08_03_CO_6E928CB7A3F444FE8402C8036908AB8C">
+<seccion2Titulo>La Patria Boba</seccion2Titulo>
+<seccion2Texto>
+<p> Al salir de tres siglos de dominación, para las colonias que empezaban
+a despertar a la libertad fue difícil aprender a gobernarse. Pensar
+en un Estado implicaba organizar un conjunto de instituciones, un
+ejército y entender y conocer bien tanto el territorio como a los
+gobernados.</p>
+<p>Este reto tardó en lograrse. A partir de 1811 empezaron los duros
+años de la Patria Boba, llamada así por Antonio Nariño en su escrito
+de 1823. Pero no era boba la patria sino, más bien, difícil de construir
+por tantas diferencias y disputas<enlace
+destino="www.semana.com/especiales/articulo/la-patria-boba/105278-3"
+> [VER]</enlace>.</p>
+<seccion3 id="S3_CS_08_03_CO_031E5862AF5A458A978ACC91AE8E47AC">
+<seccion3Titulo>La división del territorio y sus consecuencias</seccion3Titulo>
+<seccion3Texto>
+<p>El 11 de marzo de 1811 se constituyó el estado de Cundinamarca. <negrita
+>Jorge Tadeo Lozano</negrita>, quien también había participado de
+la Expedición Botánica, fue nombrado presidente. Lozano propuso que
+el estado estuviera formado por cuatro departamentos: Quito (que incluía
+a Ecuador), Popayán (que incluía a Chocó), Cartagena (que incluía
+Panamá y Antioquia) y Cundinamarca. En suma, proponía un <negrita
+>Estado federalista</negrita>.</p>
+<destacado><destacadoTitulo>El federalismo</destacadoTitulo>
+<destacadoTexto>
+<p>El <negrita>federalismo</negrita> como proyecto político surgió
+inspirado en el modelo de Estado norteamericano. En la Nueva Granada,
+fue Camilo Torres su principal impulsor. El federalismo implicaba
+la <negrita>división</negrita> en provincias o departamentos que conservaran
+su <negrita>autonomía administrativa y presupuestal</negrita>, pero
+que fueran protegidos por un ejército central.</p>
+</destacadoTexto></destacado>
+<p>Para un sector de los patriotas, el federalismo era la forma menos
+adecuada de empezar a construir la nación, sobre todo porque el proceso
+de Independencia apenas empezaba y España no estaba dispuesta a perder
+sus colonias sin dar la batalla.</p>
+<p>La presidencia de Jorge Tadeo Lozano duró poco, y fue reemplazado
+a los cuatro meses por Antonio Nariño. Para este último, la nación
+debía ser compacta y no dividida, como la querían los federalistas.
+Según su pensamiento, la unión haría la fuerza y garantizaría la victoria
+sobre España. </p>
+<destacado><destacadoTitulo>El centralismo</destacadoTitulo>
+<destacadoTexto>
+<p>El <negrita>centralismo</negrita> propone un <negrita>Estado unitario</negrita
+>, sin divisiones, que tuviera la fuerza suficiente para hacerle frente
+a las ideas y a las fuerzas españolas.</p>
+</destacadoTexto></destacado>
+<p>El 27 de noviembre de 1811, representantes de los estados federalistas
+firmaron el Acta de la <negrita>Federación de las Provincias Unidas
+de Nueva Granada</negrita><enlace
+destino="www.banrepcultural.org/node/88606"> [VER]</enlace>. Hacían
+parte <negrita>Cartagena</negrita>, <negrita>Tunja</negrita>, <negrita
+>Pamplona</negrita>, <negrita>Antioquia</negrita> y <negrita>Neiva</negrita
+>. Entre los firmantes se encontraba el principal rival de Antonio
+Nariño: Camilo Torres, como representante de Pamplona. Por el contrario,
+las poblaciones centralistas fueron <negrita>Cundinamarca</negrita
+>, <negrita>Chocó</negrita> y <negrita>Mariquita</negrita>.</p>
+<p>Los planteamientos centralistas de Nariño generaron odios políticos
+que llevaron a la primera <negrita>guerra civil</negrita>. El federalismo
+promovía regionalismos, y el deseo de autonomía se transformó en egoísmo
+y, finalmente, atrajo al <negrita>caudillismo</negrita>. Una vez Nariño
+asumió la presidencia de Cundinamarca, empezó una guerra civil entre
+los dos bandos.</p>
+<imagen src="CS_08_03_CO_IMG08_small.jpg">
+<p>Desde el periódico <negritacursiva>La Bagatela</negritacursiva
+>, creado por <negrita>Antonio Nariño</negrita> en 1811, el precursor
+atacó a los federalistas y promovió el centralismo como estrategia
+de unión contra España.</p>
+</imagen>
+<p>Esta guerra duró entre 1812 y 1813, y no solo enfrentó a federalistas
+y centralistas sino que también intervinieron en ella los realistas,
+es decir, españoles y poblaciones fieles a la Corona.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso070&amp;IdRecurso=RES-F48210F5394E446AA52767F22A3EE913"
+>Conoce la lucha de Nariño contra el federalismo</enlace>
+</practica>
+<imagen src="CS_08_03_CO_IMG09_small.jpg">
+<p>Durante los años de confrontación entre federalistas, centralistas
+y realistas, la Nueva Granada se dividió en tres partes: el estado
+de Cundinamarca, las Provincias Unidas y los territorios que estaban
+bajo el mando de los fieles a España.</p>
+</imagen>
+<p>Los federalistas lograron la victoria. El líder de los centralistas,
+Antonio Nariño, decidió adelantar una campaña de Santa Fe de Bogotá
+hacia el sur, para vencer a sus opositores. Fue una larga campaña
+de múltiples batallas de las que, finalmente, salió derrotado por
+los pastusos, que eran realistas y no deseaban la Independencia. Nariño
+fue apresado nuevamente y conducido a la ciudad española de Cádiz,
+en donde estuvo preso hasta 1820.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso080&amp;IdRecurso=RES-905D969FBAD94DCB868B746C17B68181"
+>La Campaña del Sur, de Antonio Nariño</enlace>
+</profundiza>
+<p>El panorama empezó a tomar un rumbo distinto cuando, en 1813, <negrita
+>Simón Bolívar</negrita> le pidió ayuda al Congreso de las Provincias
+Unidas de la Nueva Granada para lograr la Independencia de Venezuela.
+A esta campaña se vincularon cientos de soldados neogranadinos, entre
+los que se encontraban <negrita>José Antonio Ricaurte</negrita> y <negrita
+>Atanasio Girardot</negrita>. Pero Bolívar no triunfó y regresó a
+la Nueva Granada.</p>
+<p>El Congreso, en cabeza de Camilo Torres, le pidió a Bolívar que
+fuera capitán del ejército de las Provincias Unidas para vencer a
+los centralistas en Santa Fe y luego dirigirse al norte. Allí, el
+ejército federalista tuvo que enfrentar a las tropas realistas en
+Santa Marta, donde fue derrotado. Tras ver que aún las condiciones
+para vencer a los españoles eran difíciles y que la Nueva Granada
+estaba dividida, en 1815 Bolívar decidió exiliarse en Jamaica.</p>
+<destacado><destacadoTitulo>Simón Bolívar contra Antonio Nariño</destacadoTitulo>
+<destacadoTexto>
+<p>Debido a que <negrita>Bolívar</negrita> actuó como capitán del
+ejército de las Provincias Unidas (federalistas), enfrentó y venció
+a <negrita>Nariño</negrita> en Santa Fe, el 9 de diciembre de 1814.
+Años más tarde, ambos próceres entendieron que para vencer a España
+era necesaria la unión. </p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso090&amp;IdRecurso=RES-34DA656F82CE4D3C987F9B495197A5AB"
+>Diferencia las ideas centralistas y las federalistas</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_08_03_CO_63350E5AE1D4490B9161861BDE659B02">
+<seccion2Titulo>La Reconquista</seccion2Titulo>
+<seccion2Texto>
+<p>Frente a los deseos de independencia y tras constatar que la mayoría
+de sus colonias estaban dispuestas a desprenderse de su yugo, España
+actuó con mayor decisión a partir de 1814, cuando envió refuerzos
+y diseñó un plan de Reconquista.</p>
+<recuerda><recuerdaTexto>
+<p>Fernando VII regresó al trono en 1814 y, desde aquel momento, España
+reforzó su interés y sus estrategias para no dejar perder las colonias
+americanas que habían declarado su Independencia. A partir de entonces
+la guerra se recrudeció.</p>
+</recuerdaTexto></recuerda>
+<p><negrita>Cartagena</negrita>, población pionera en independizarse
+(11 de noviembre de 1811), fue la primera en recibir el efecto de
+la revancha española en 1815. El español <negrita>Pablo Morillo</negrita
+>, quien había llegado a la ciudad realista de Santa Marta y había
+desembarcado antes en la isla Margarita procedente de España, sitió
+a Cartagena con una flota naval que impedía el ingreso y la salida
+de gente y de víveres.</p>
+<imagen src="CS_08_03_CO_IMG10_small.jpg">
+<p>El <negrita>sitio a Cartagena</negrita> impidió la salida y la
+entrada de víveres. Se acompañó de algunos combates, así como también
+de asesinatos masivos. Las enfermedades, el cólera y el hambre llevaron
+a la muerte de miles de personas.</p>
+</imagen>
+<p>Durante cien días los patriotas resistieron el asedio, desde el
+26 de agosto de 1815, día en que los españoles ingresaron a la ciudad
+para masacrar a varios centenares, someterlos al hambre y a las enfermedades.
+Morillo eligió atacar Cartagena porque era el centro de la resistencia
+contra España y porque, además, desde allí era posible ingresar a
+la Nueva Granada.</p>
+<p>La Reconquista tuvo cuatro frentes que ocuparon sitios estratégicos
+de la Nueva Granada. Finalmente, Morillo llegó el 26 de mayo de 1816
+a Santa Fe. Allí puso en marcha lo que hoy se conoce como el <negrita
+>Régimen del Terror</negrita>. Con una serie de medidas que infundieron
+miedo en algunos sectores de la población, Morillo buscó conservar
+el territorio neogranadino para la Corona española. </p>
+<seccion3 id="S3_CS_08_03_CO_CE25D87B8CCD4460AA30430632542BEF">
+<seccion3Titulo>El régimen del terror</seccion3Titulo>
+<seccion3Texto>
+<p>Las principales medidas ejecutadas durante el Régimen del Terror
+fueron:</p>
+<table border="1"><colgroup><col width="22*"/><col width="77*"/>
+</colgroup>
+<tbody>
+<tr>
+<td><negrita>Junta de Secuestros</negrita></td>
+<td>Encargada de confiscar los bienes de los aliados de los patriotas,
+imponerles multas, trabajos forzados, castigos físicos y la obligación
+de denunciar a otros patriotas.</td>
+</tr>
+<tr>
+<td><negrita>Junta de Purificación</negrita></td>
+<td>Encargada de garantizar la lealtad a la Corona española y de encarcelar
+o desterrar a los que no pudieran demostrarla.</td>
+</tr>
+<tr>
+<td><negrita>Consejo Permanente de Guerra</negrita></td>
+<td>Encargado de condenar sin el debido proceso a los patriotas independentistas.
+La condena superior fue la pena de muerte y, según su acusación, podían
+morir ahorcados o fusilados.</td>
+</tr>
+</tbody>
+</table>
+<p>Según algunas memorias, como las de José María Caballero o José
+María Espinosa, varias construcciones de la ciudad fueron habilitadas
+como cárceles y las plazas fueron escenarios de las ejecuciones.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_03_CO_BD7FA94D3F664CB88CE6778C4ABEE652">
+<seccion3Titulo>La respuesta de los rebeldes</seccion3Titulo>
+<seccion3Texto>
+<p>Aunque la Patria Boba se caracterizó por las pugnas entre federalistas
+y centralistas, la llegada a la Nueva Granada de Pablo Morillo y sus
+métodos de terror llevaron a que los criollos replantearan sus estrategias.</p>
+<p>Aunque subsistieron las diferencias, el ejército patriota al mando
+de Bolívar pudo recuperarse y adelantar una campaña más efectiva.
+Así mismo, en diferentes poblaciones surgieron guerrillas, integradas
+por personas de distinta procedencia social (campesinos, mujeres,
+negros, etc.) y su propósito fue atacar todos los centros de reclutamiento
+y concentración de las tropas realistas.</p>
+<imagen src="CS_08_03_CO_IMG11_small.jpg">
+<p>A pesar de los métodos de terror que se impusieron durante la Reconquista,
+esta resultó menos fácil de lo que se pensaba debido a que atrajo
+la participación de muchos <negrita>sectores sociales</negrita>. Entre
+ellos el de las mujeres, quienes como <negrita>Policarpa Salavarrieta</negrita
+> se incorporaron a la lucha.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso100&amp;IdRecurso=RES-3C12364FB32641878805DF5A3A79D8E0"
+>Pablo Morillo, héroe y villano</enlace>
+</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_08_03_CO_96A8A2C54C4C46829D664D3435320090">
+<seccion2Titulo>La Campaña Libertadora</seccion2Titulo>
+<seccion2Texto>
+<p>Los independentistas respondieron a la Reconquista organizando
+un ejército patriota, compuesto por los neogranadinos, con participación
+de cientos de venezolanos y de algunos europeos (ingleses, irlandeses,
+franceses, polacos y alemanes).</p>
+<p>Tras haber pasado por Jamaica y Haití, <negrita>Simón Bolívar</negrita
+> inició un segundo y definitivo proceso estratégico que incluía la
+liberación de la Nueva Granada, de su natal Venezuela, Ecuador, Perú
+y el territorio que luego sería Bolivia.</p>
+<p>Bolívar se apoyó en los generales <negrita>Francisco de Paula Santander</negrita
+> y <negrita>José María Anzoátegui</negrita><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=7600149&amp;ruta=Buscador"
+> [VER]</enlace>. Les asignó la vanguardia y la retaguardia del ejército,
+respectivamente. El ejército inició su campaña desde los llanos orientales
+y tomó la cordillera de los Andes. En Paya, Gámeza y el Pantano de
+Vargas se llevaron a cabo enfrentamientos con los realistas.</p>
+<p>La <negrita>batalla del Pantano de Vargas</negrita>, el 25 de julio
+de 1819, fue la más difícil debido a la fatiga de los combatientes,
+quienes venían del llano y habían vivido penurias por el frío de los
+páramos. Sin embargo, la victoria animó a las tropas a seguir su camino
+hacia Tunja y Santa Fe.</p>
+<p>El 7 de agosto siguiente, los independentistas notaron que los
+realistas se aproximaban al Puente de Boyacá<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=6331537&amp;ruta=Buscador"
+> [VER]</enlace>. Los patriotas impidieron su paso y, en cuestión
+de poco tiempo, el general español <negrita>José María Barreiro</negrita
+> fue vencido. Este y otros mandos realistas fueron fusilados por
+orden del general Santander.</p>
+<imagen src="CS_08_03_CO_IMG12_small.jpg">
+<p><cursiva>(La rendición del general español José María Barreiro
+durante la batalla de Boyacá, el 7 de agosto de 1819. Obra de J. N.
+Cañarete. Museo Nacional)</cursiva>. Tras los enormes sacrificios
+que el ejército independentista sufrió, a causa del clima y del escarpado
+relieve de la cordillera de los Andes, la victoria llegó con la <negrita
+>batalla de Boyacá, el 7 de agosto de 1819</negrita>.</p>
+</imagen>
+<p>El triunfo en la <negrita>batalla de Boyacá</negrita> obligó al
+virrey Juan Sámano a huir. Sin duda, este fue un notable triunfo para
+el avance de la Independencia. Simón Bolívar continuó con el proceso
+emancipador de Venezuela y los demás países.</p>
+<p>Previendo la victoria, pocos meses antes del inicio de la Campaña
+Libertadora, se instaló el <negrita>Congreso de Angostura</negrita
+> (en la población venezolana del mismo nombre, que hoy es la ciudad
+Bolívar, en Venezuela). Allí se definió la organización de la <negrita
+>República de la Gran Colombia</negrita> que, una vez libre del yugo
+español, comprendía los territorios de la actual Venezuela, Nueva
+Granada y Quito. Simón Bolívar fue nombrado presidente provisional.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso110&amp;IdRecurso=RES-92140F3C724E4591AB3614D8343E79A0"
+>Recuerda cómo era la Nueva Granada a inicios del siglo XIX</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_03_CO_7E14A92C3BA54393B58766CE1C1ECC7D">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso120&amp;IdRecurso=RES-10D08CA7EA534D17B72118A584FC1204"
+>Refuerza tu aprendizaje: La Independencia</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_03_CO_9306923D96DD49AFBE1D995971A8B5DA">
+<seccion1Titulo>La Gran Colombia</seccion1Titulo>
+<seccion1Texto>
+<p>Una vez los patriotas triunfaron en la batalla de Boyacá, en 1819
+el Congreso de Angostura proclamó la unión de todo el territorio del
+Virreinato de la Nueva Granada. Para aquel momento, aún Ecuador y
+una parte de Venezuela se encontraban bajo el yugo español.</p>
+<imagen src="CS_08_03_CO_IMG13_small.jpg">
+<p>A partir del <negrita>Congreso de Angostura</negrita> se creó la <negrita
+>Gran Colombia</negrita>, una nación que agrupó los territorios que
+formaron parte del Virreinato de la Nueva Granada.</p>
+</imagen>
+<p>En 1821, con el <negrita>Congreso de Cúcuta</negrita>, quiso reorganizarse
+el modelo administrativo de la Gran Colombia. Afloraron de nuevo las
+diferencias entre centralistas y federalistas y se optó por un <negrita
+>régimen centralista</negrita>. Esta decisión se tomó, en parte, porque
+se temía una nueva arremetida de España y solo la unión garantizaría
+una nueva victoria.</p>
+<p>En el Congreso de Cúcuta se eligió a <negrita>Simón Bolívar</negrita
+> como <negrita>presidente</negrita> y a <negrita>Francisco de Paula
+Santander</negrita> como <negrita>vicepresidente</negrita>, este último
+compitió contra Antonio Nariño.</p>
+<p>A pesar de su elección como presidente, Bolívar confió el mando
+de la Gran Colombia a Santander para poder adelantar bajo su dirección
+las campañas de los territorios que se encontraban aún en manos de
+los realistas. Santander gobernó desde Santa Fe.</p>
+<recuerda><recuerdaTexto>
+<p>En el <negrita>Congreso de Cúcuta</negrita>, celebrado en la ciudad
+colombiana de Villa del Rosario en 1821, se creó la primera <negrita
+>Constitución de la Gran Colombia</negrita>.</p>
+</recuerdaTexto></recuerda><seccion2
+id="S2_CS_08_03_CO_3A36976C21D84E509CC609141184361F">
+<seccion2Titulo>El orden social de la Gran Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>En la Constitución aprobada en el Congreso de Cúcuta se estableció
+una república. Las reformas decretadas fueron:</p>
+<listaSinNumerar>
+<listaElemento>Estado centralista con un poder legislativo bicameral
+(Senado y Cámara de representantes) y un ejecutivo presidencialista,
+con sede en <negrita>Bogotá</negrita>, la nueva capital.</listaElemento>
+<listaElemento>Manumisión (liberación) progresiva de los esclavos. </listaElemento>
+<listaElemento>Reconocimiento a los indígenas como ciudadanos con
+plenos derechos.</listaElemento>
+<listaElemento>Eliminación de los tributos indígenas.</listaElemento>
+<listaElemento>Supresión de los conventos masculinos que tuvieran
+pocos monjes y entrega de sus bienes a las escuelas.</listaElemento>
+<listaElemento>Promoción de la alfabetización y la educación escolar
+y superior.</listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>La libertad de los esclavos seguía pendiente</destacadoTitulo>
+<destacadoTexto>
+<p>La libertad de los esclavos tuvo que esperar. En la Constitución
+de Cúcuta se llegó tan solo a este acuerdo: “los hijos de padres esclavos
+serían libres al llegar a los 18 años de edad”.</p>
+</destacadoTexto></destacado>
+<p>La Gran Colombia, que se encontraba en manos del general Santander,
+empezó a vivir una <negrita>transformación</negrita> gracias a <negrita
+>nuevas leyes</negrita>, con las que se buscaba establecer un orden
+social basado en derechos y deberes. Se esperó lograr el control sobre
+el territorio, el comercio e, incluso, la religión. Así mismo, Santander
+hizo especial énfasis en la <negrita>educación pública</negrita>,
+pues durante su gobierno se creó un buen número de escuelas, colegios
+y universidades.</p>
+<p>Sin embargo, al igual que en el resto del continente y a pesar
+de los grandes cambios que llegaron con la expulsión de los españoles,
+las<negrita> leyes sobre esclavitud</negrita> y la <negrita>abolición
+de resguardos</negrita> dejaron en entredicho los derechos de <negrita
+>negros</negrita> e <negrita>indígenas</negrita>. Aunque a estos últimos
+se les concedía el estatus de <negrita>ciudadanos</negrita>, se estableció
+que solo podían ejercer el derecho al <negrita>voto</negrita> quienes <negrita
+>supieran leer</negrita>, fueran de <negrita>sexo masculino</negrita
+> y tuvieran <negrita>capacidad económica</negrita>.</p>
+<p>La ideología propagada por la Independencia resultaba incoherente
+para grupos sociales mayoritarios, que vieron cómo la transición de
+la Colonia a la Gran Colombia los dejaba sin derechos políticos y
+sociales reales.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_03_CO_324E6B71F02942518F63734DE460596E">
+<seccion2Titulo>Las confrontaciones entre Bolívar y Santander</seccion2Titulo>
+<seccion2Texto>
+<p>Luego de adelantar la Campaña Libertadora de los demás países que
+conformaban la Gran Colombia, Simón Bolívar regresó en 1826 para ocupar
+la presidencia, que había dejado a cargo de Francisco de Paula Santander.
+Su estadía fue breve, pues en Venezuela el general <negrita>José Antonio
+Páez</negrita>, que había sido cercano al Libertador, lideraba un
+movimiento que buscaba <negrita>separar a Venezuela</negrita> de la
+Gran Colombia.</p>
+<p>Al igual que en Venezuela, en Ecuador y en regiones propias de
+la Nueva Granada, los <negrita>federalismos</negrita> y <negrita>caudillismos</negrita
+> habían empezado a aflorar. Los distintos estados que conformaban
+la República buscaban <negrita>mayor representación y autonomía</negrita
+>.</p>
+<imagen ampliable="no" src="CS_08_03_CO_IMG14_small.jpg">
+<p><negrita>Simón Bolívar</negrita> y <negrita>Francisco de Paula
+Santander</negrita> fueron estrategas centrales en el proceso de Independencia.
+Sin embargo, sus diferencias sobre cómo debía ser gobernada la nación
+los separaron de manera definitiva, especialmente cuando se conoció
+el texto de la Constitución de Bolivia. Santander fue sospechoso de
+haber conspirado contra Bolívar en la “noche septembrina”.</p>
+</imagen>
+<p>Así mismo, la Gran Colombia se encontraba en una <negrita>situación
+económica difícil</negrita>, pues apoyó con dinero y recursos las
+campañas de liberación de los países del sur. Además, para aquel entonces
+aún persistían cuadrillas realistas que obligaban a mantener un ejército
+bien dotado.</p>
+<p>Tras la creación de la nación <negrita>boliviana</negrita> se expidió
+una <negrita>Constitución</negrita> que nombraba a <negrita>Bolívar
+presidente vitalicio</negrita>. El hecho de que una de las naciones
+liberadas inspirara su nombre en el apellido del Libertador, y que
+este aceptara con beneplácito, fue interpretado por Santander y sus
+seguidores, así como por los líderes de los demás estados, como un
+acto de vanidad.</p>
+<p>Además, el comportamiento <negrita>militarista</negrita> de Bolívar
+reñía con el de Santander, que había procurado contribuir a lograr
+un orden social basado en la <negrita>ley</negrita>. Para Santander,
+el militarismo de Bolívar ponía en peligro el equilibrio de poderes
+y resultaba un riesgo para la democracia.</p>
+<p>Hubo un <negrita>intento</negrita> de solucionar esta situación
+con la <negrita>Convención de Ocaña</negrita>, convocada para los
+días 9 y 10 de junio de 1828. El propósito era hacer una reforma constitucional
+que se adaptara a los intereses de los distintos grupos. Sin embargo,
+esta fracasó por la falta de acuerdos y <negrita>Bolívar</negrita
+> se proclamó <negrita>dictador</negrita>.</p>
+<p>Esto hizo que muchos de sus más antiguos colaboradores lo abandonaran,
+y que el 25 de septiembre de 1828 se diera la llamada <negrita>“noche
+septembrina”</negrita>, un atentado del cual salió ileso gracias a
+la ayuda de <negrita>Manuelita Sáenz</negrita>. El general Santander,
+uno de los conspiradores, fue desterrado a Europa.</p>
+<imagen src="CS_08_03_CO_IMG15_small.jpg">
+<p><negrita>Manuelita Sáenz</negrita> fue una interesante mujer ecuatoriana,
+compañera de Simón Bolívar. Lo apoyó en diversas tareas políticas
+y en algunas campañas militares. Durante la “noche septembrina” logró
+salvarle la vida, lo que le valió el apelativo de <cursiva>Libertadora
+del Libertador</cursiva>. A la muerte de Bolívar, en 1830, fue desterrada
+al Perú.</p>
+</imagen>
+<p>La separación de Venezuela, proclamada por José Antonio Páez, el
+asesinato del mariscal Sucre en Berruecos (Sucre era fiel a los propósitos
+de Bolívar) y la inmediata separación de Ecuador desmoralizaron al
+Libertador y lo obligaron a dejar el poder. El 17 de diciembre de
+ese mismo año murió en la ciudad de Santa Marta, a donde había llegado
+con el propósito de partir hacia Estados Unidos. Con todos estos hechos
+y el deceso de Bolívar, llegó a su fin la Gran Colombia.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso130&amp;IdRecurso=RES-BE3A209000F544CDB0AABA8EF5EF7432"
+>Identifica hechos y personajes de la Gran Colombia</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_03_CO_858B2F23C7CA4372AC9C163B37533F53">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso140&amp;IdRecurso=RES-24870DBA33634FDFA4A2614843BAC9B1"
+>Refuerza tu aprendizaje: La Gran Colombia</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_03_CO_301194AF2F7A4FD78225C210F7657632">
+<seccion1Titulo>La República de la Nueva Granada (1831-1858)</seccion1Titulo>
+<seccion1Texto>
+<p>La disolución de la Gran Colombia implicó la creación de nuevos <negrita
+>Estados</negrita>: Nueva Granada, Venezuela y Ecuador. La Nueva Granada
+surgió con la <negrita>Ley Fundamental de 1831</negrita>, tomando
+en cuenta la delimitación del territorio que existía en el antiguo
+virreinato.</p>
+<imagen src="CS_08_03_CO_IMG16_small.jpg">
+<p>Territorio que abarcó la <negrita>República de la Nueva Granada</negrita
+>.</p>
+</imagen>
+<p>En <negrita>1832</negrita> se redactó la <negrita>Constitución
+Política</negrita> de la nueva república. En ella el Estado era <negrita
+>centralista</negrita>, pero creó cámaras provinciales que rendían
+cuentas ante el <negrita>presidente</negrita>. En este cargo fue elegido <negrita
+>Francisco de Paula Santander</negrita>, quien regresó del exilio
+al que fue sometido por el atentado de la “noche septembrina”.</p>
+<seccion2 id="S2_CS_08_03_CO_68F064C55ADC485F84060B982F15A7C2">
+<seccion2Titulo>La presidencia de Francisco de Paula Santander</seccion2Titulo>
+<seccion2Texto>
+<p>Desde la presidencia, Santander volvió sobre su preocupación por
+la educación pública. También quiso lograr una economía mejor planeada
+y con la que pudiera empezarse a abastecer a la población y a atender
+necesidades del mercado externo. Aunque con dificultades, la Nueva
+Granada empezó a exportar <negrita>café</negrita>, <negrita>tabaco</negrita
+> y <negrita>algodón</negrita>. También se estimuló la <negrita>minería</negrita
+>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_03_CO_672D7F6B5C124266B8DE5A6D656D07B4">
+<seccion2Titulo>La presidencia de José Ignacio de Márquez</seccion2Titulo>
+<seccion2Texto>
+<p>La dinámica de las guerras de Independencia hizo que los primeros
+mandatarios de las nacientes repúblicas fueran militares. En la Nueva
+Granada el primer mandatario civil llegó apenas en 1837. Se le conoce
+como el <negrita>presidente civilista</negrita>, además porque promovió
+el respeto a la ley, en el difícil contexto en que empezaron a surgir
+confrontaciones entre caudillos como la guerra de los Conventillos.</p>
+<seccion3 id="S3_CS_08_03_CO_2502AD886BE34750BC0B59A246F7BDBD">
+<seccion3Titulo>La Guerra de los Conventillos (1839)</seccion3Titulo>
+<seccion3Texto>
+<p>En 1831, la Constitución de Cúcuta dispuso el <negrita>cierre de
+algunos conventos</negrita>, particularmente de aquellos que tuvieran
+menos de ocho religiosos. Los bienes y las rentas de aquellos conventos
+se utilizarían para financiar la educación pública. Esta directriz
+empezó a aplicarse en 1839.</p>
+<p>En Pasto, que era la ciudad más afectada por esta medida, hubo
+levantamientos y proclamas de independencia y separación. De alguna
+manera, la medida fue el pretexto para que algunos <negrita>caudillos</negrita
+> empezaran a presionar, desde su región, para obtener mayores privilegios,
+ampliar su poder sobre territorios y acercarse más a la toma del poder.
+El federalismo asomó de nuevo, y el Estado central, que era aún débil,
+no tenía la capacidad de unificar completamente a la nación.</p>
+<imagen src="CS_08_03_CO_IMG17_small.jpg">
+<p>En torno al padre <negrita>Francisco de la Villota</negrita> se
+congregó gran parte de la comunidad católica de <negrita>Pasto</negrita
+> para protestar de manera enérgica durante la <negrita>guerra de
+los Conventillos</negrita>. Además, los levantamientos de Pasto dejaban
+entrever el poder que alcanzaba a tener la Iglesia en las decisiones
+políticas.</p>
+</imagen>
+<p>Cuando se conocieron los levantamientos en Pasto, el presidente
+José Ignacio de Márquez envió a dos militares a reprimirlos: Pedro
+Alcántara Herrán y Tomás Cipriano de Mosquera.</p>
+<p>El general <negrita>José María Obando</negrita>, que en ese momento
+era <negrita>ministro de Guerra</negrita>, no tenía la confianza del
+presidente y, por lo tanto, debió quedarse en Bogotá, a pesar de que
+tenía una fuerte influencia en el sur, pues era caucano y dueño de
+grandes tierras en la región. La desconfianza de Márquez hacia Obando
+tenía una explicación: Obando era uno de los principales sospechosos
+del asesinato del mariscal Sucre en Berruecos. Las sospechas nunca
+se comprobaron. Así mismo, los jefes de la rebelión de Pasto eran
+cercanos a él.</p>
+<p>Con la guerra de los Conventillos, la sublevación de un <negrita
+>sector católico</negrita> de la sociedad neogranadina se convirtió
+en una <negrita>guerra</negrita> de <negrita>proporción nacional</negrita
+>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso150&amp;IdRecurso=RES-1CC83FE47494413382788A2E7D5F11A3"
+>Recuerda la guerra de los Conventillos</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_08_03_CO_25C6588EDFBA45AFA8A9F0A4DF265907">
+<seccion3Titulo>La Guerra de los Supremos (1839-1842)</seccion3Titulo>
+<seccion3Texto>
+<p>Una vez los Mosquera y Alcántara Herrán sofocaron la rebelión en
+el sur, Obando fue acusado por <negrita>José Erazo</negrita>, un guerrillero
+que había conocido de cerca los hechos que tuvieron que ver con la
+muerte de Sucre. El presidente Márquez ordenó su captura, pero Obando
+escapó hacia el sur para atizar de nuevo el fuego e iniciar nuevas
+confrontaciones.</p>
+<p>Aunque en Pasto la guerra había terminado, revivió con este episodio
+que empezó a incorporar a más caudillos y a comprometer casi la totalidad
+del territorio nacional. A esa nueva guerra se le conoce como la <negrita
+>guerra de los Supremos</negrita>, pues en 1840 Obando se declaró
+el <negrita>Supremo Director</negrita> de la guerra contra el presidente
+José Ignacio de Márquez.</p>
+<p>Debido a que la relación de fuerzas entre el Estado y los rebeldes
+de Obando era desigual, Mosquera y Alcántara Herrán pidieron ayuda
+militar a <negrita>José Flórez</negrita>, presidente ecuatoriano,
+quien envió tropas que derrotaron a Obando. Pero Flórez pidió a cambio
+que se anexara parte del territorio del sur a su país, lo cual desató
+la furia de caudillos de todo el territorio de la Nueva Granada. Además,
+Flórez actuó de manera contradictoria, pues inicialmente le ofreció
+refugio a Obando y después lo combatió.</p>
+<p>Todos estos factores se conjugaron para que en distintos puntos
+del país, caudillos cercanos a Obando, que a su vez seguían las ideas
+del general Santander, se levantaran contra el gobierno central del
+presidente Márquez. La guerra abarcó Nariño, Cauca, Valle, Tunja,
+Casanare, Socorro, Antioquia, el Magdalena Medio, la costa Atlántica
+y Panamá.</p>
+<imagen src="CS_08_03_CO_IMG18_small.jpg">
+<p>Campañas de la <negrita>guerra de los Supremos</negrita>, llevadas
+a cabo entre 1839 y 1842, en las que se enfrentaron los supremos caudillos
+contra las fuerzas del Estado y se extendió por gran parte del territorio.</p>
+</imagen>
+<p>Esta guerra dejó ver la importancia de la figura de los <negrita
+>caudillos</negrita>. Más aún porque sus tropas estaban conformadas
+por gentes del pueblo que fueron arrastradas a combatir para demostrar
+su lealtad.</p>
+<destacado><destacadoTitulo>La economía amenazada</destacadoTitulo>
+<destacadoTexto>
+<p>La economía, que había despegado con el plan de exportaciones,
+de producción agrícola y de impulso a pequeñas industrias nacionales,
+que se desarrolló durante la presidencia del general Santander, se
+desbarató con la guerra de los Supremos.</p>
+</destacadoTexto></destacado>
+<p>En 1841, <negrita>los supremos</negrita> fueron <negrita>derrotados</negrita
+> por el ejército del gobierno, dirigido por Pedro Alcántara Herrán
+y Tomás Cipriano de Mosquera. Ambos ocuparon de inmediato y sucesivamente
+la presidencia. Alcántara Herrán entre 1841 y 1845, y Mosquera entre1845
+y 1849. El fin de la guerra de los Supremos se selló con un decreto
+de <negrita>amnistía en 1842</negrita>. Esta amnistía señalaba que
+quienes se sublevaron serían perdonados.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_03_CO_4BCD7B6CD3CC4B7FB802E1B7404F9891">
+<seccion3Titulo>Consecuencias de la Guerra de los Supremos (1839-1842)</seccion3Titulo>
+<seccion3Texto>
+<p>Luego de esta guerra, la nación debió empezar a reconstruirse. <negrita
+>Una economía arrasada</negrita>, <negrita>territorios devastados</negrita
+>, <negrita>muertes por combate</negrita> y <negrita>enfermedades</negrita
+>, además de un <negrita>territorio dividido</negrita> fue el balance
+al que se enfrentaron los gobernantes y pobladores.</p>
+<p>La guerra de los Supremos exigió reformas. Los gobernantes que
+posteriormente asumieron el poder crearon un Estado centralista para
+evitar nuevos intentos de división, le dieron de nuevo un impulso
+a la producción de tabaco y empezaron a diseñar y ejecutar obras públicas.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso160&amp;IdRecurso=RES-DD3848FF4F1F46778C017DF69C7B3CA5"
+>Recuerda la guerra de los Supremos</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_08_03_CO_0A970F3C16D94CC5AB6A4F1132B13C5C">
+<seccion2Titulo>Presidencias de Herrán y Mosquera</seccion2Titulo>
+<seccion2Texto>
+<p><negrita>Pedro Alcántara Herrán</negrita>, presidente entre 1841
+y 1845, se destacó por:</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>reforma educativa</negrita>, que impulsó
+la <negrita>educación técnica</negrita>. </listaElemento>
+</listaSinNumerar>
+<p><negrita>Tomás Cipriano de Mosquera</negrita>, presidente entre
+1845 y 1849, por:</p>
+<listaSinNumerar>
+<listaElemento>Un programa de <negrita>modernización</negrita>, en
+el que incorporó la construcción de <negrita>vías para el ferrocarril</negrita
+>.</listaElemento>
+<listaElemento>Un amplio plan de <negrita>comunicaciones</negrita
+> y <negrita>navegación</negrita> por el <negrita>río Magdalena</negrita
+>.</listaElemento>
+<listaElemento>Ampliar la cobertura de acceso a la educación.</listaElemento>
+<listaElemento>Primeros pasos para la organización de la <negrita
+>Comisión Corográfica</negrita>, que luego puso en marcha el presidente
+José Hilario López.</listaElemento>
+</listaSinNumerar>
+<recuerda><recuerdaTexto>
+<p>Durante el mandado de <negrita>Tomás Cipriano de Mosquera</negrita
+> se sentaron las bases para la <negrita>Comisión Corográfica</negrita
+>, que estuvo posteriormente dirigida por el geógrafo italiano Agustín
+Codazzi. Su objetivo fue hacer un completo reconocimiento de los recursos
+naturales de la nación, así como también de los tipos, costumbres
+y rasgos sociales. Conocer esta realidad permitiría entender mejor
+a la nación y diseñar estrategias para su desarrollo.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_03_CO_4473B2F4F411445C899D0C615A1DD79C">
+<seccion2Titulo>Surgimiento de los partidos políticos</seccion2Titulo>
+<seccion2Texto>
+<p>Las guerras vividas por el país después de la Independencia demostraban
+que había desigualdad social, económica, política e ideológica. Estas
+diferencias dieron lugar al nacimiento de los <negrita>partidos políticos
+tradicionales</negrita>.</p>
+<p>En 1848 surgió el <negrita>partido liberal</negrita>, cuando José
+Ezequiel Rojas publicó en el periódico <cursiva>El Aviso</cursiva
+> sus ideales políticos para justificar por qué en las siguientes
+elecciones votaría por José Hilario López. El documento se tituló
+“La razón de mi voto”, y sintetizaba así los ideales liberales:</p>
+<listaSinNumerar>
+<listaElemento>Libertades: religiosa, de enseñanza, de industria y
+comercio, de imprenta, de armas y municiones.</listaElemento>
+<listaElemento>Abolición de la esclavitud.</listaElemento>
+<listaElemento>Estado laico (sin ninguna intervención de la Iglesia).</listaElemento>
+<listaElemento>Sufragio universal, directo y secreto.</listaElemento>
+<listaElemento>Supresión de la pena de muerte. </listaElemento>
+<listaElemento>Disminución de las funciones del poder Ejecutivo.</listaElemento>
+<listaElemento>Abolición de los monopolios y libre cambio.</listaElemento>
+<listaElemento>Abolición del ejército.</listaElemento>
+<listaElemento>Expulsión de los jesuitas.</listaElemento>
+</listaSinNumerar>
+<p>Al año siguiente, en 1849, en el periódico <cursiva>La Civilización</cursiva
+>, Mariano Ospina Rodríguez y José Eusebio Caro publicaron un texto
+con los ideales del <negrita>partido conservador</negrita>. Allí resaltaron
+la defensa de la propiedad, la moral, la religión católica, la educación
+cristiana y el orden constitucional.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso170&amp;IdRecurso=RES-8821AD42E38F42D8BA1EE5EF0A26C133"
+>Comprende el surgimiento de los partidos políticos en la Nueva Granada</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_03_CO_858B2F23C7CA4372AC9C163B37531D31">
+<seccion2Titulo>Presidencia de José Hilario López (1849-1852)</seccion2Titulo>
+<seccion2Texto>
+<p>Este presidente logró avances importantes para la democratización
+de la Nueva Granada. Su pensamiento <negrita>liberal</negrita> fue
+determinante para tomar decisiones en favor de algunas <negrita>libertades</negrita
+>. Expidió leyes de libertad de prensa, dio libertad plena a los esclavos
+y permitió la organización de sociedades políticas de todo tipo de
+ideologías.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso180&amp;IdRecurso=RES-BB6EC114B05541E5B2362897CB8169F4"
+>La Comisión Corográfica</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_03_CO_EC7CDD386A4A4354ADEA591C1AA11C33">
+<seccion2Titulo>Presidencia de José María Obando (1853-1854)</seccion2Titulo>
+<seccion2Texto>
+<p>Después de haber vivido las dificultades de la guerra de los Supremos,
+Obando llegó a la presidencia. Uno de sus actos de gobierno fue la
+puesta en marcha de la <negrita>Constitución de 1853</negrita>, que
+se venía creando y discutiendo desde tiempo atrás. En sus principios,
+la nueva Carta Magna era más radical en sus <negrita>ideas liberales</negrita
+>, pues estimulaba la <negrita>competencia</negrita> y el ingreso
+de <negrita>productos extranjeros</negrita>.</p>
+<imagen src="CS_08_03_CO_IMG19_small.jpg">
+<p><cursiva>(Tejedoras y mercaderes de sombreros de nacuma en Bucaramanga,
+ Carmelo Fernández, 1850. Biblioteca Nacional, Bogotá)</cursiva>.
+Las ideas de importación de productos afectaban a los <negrita>artesanos</negrita
+>, quienes no tardaron en levantarse contra Obando y en presionar
+un golpe de Estado. Tras este evento, <negrita>José María Melo</negrita
+> tomó el poder.</p>
+</imagen>
+<p><negrita>Melo</negrita> ocupó la silla presidencial por pocos meses.
+Sin embargo, su gobierno fue una mezcla de ideas liberales y socialistas,
+en las que se promovieron derechos, como la educación primaria obligatoria,
+el derecho al voto para aquellos que estuvieran alfabetizados (no
+solo para los propietarios), y otras relacionadas con la defensa de
+la propiedad y la libertad religiosa.</p>
+<p>Por proteger los derechos del artesanado y las clases populares,
+Melo tuvo inconvenientes con los políticos tradicionales. Fue destituido
+por un nuevo golpe, liderado por Tomás Cipriano de Mosquera, Pedro
+Alcántara Herrán y José Hilario López, y desterrado junto con decenas
+de artesanos. En su exilio, antes de morir, Melo combatió en Nicaragua
+contra William Walker<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=7566677&amp;ruta=Buscador"
+> [VER]</enlace> y luego al lado del mexicano Benito Juárez<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=7278380&amp;ruta=Buscador"
+> [VER]</enlace>.  Para ampliar este episodio de la vida política
+y social del país, lee este artículo del escritor colombiano Daniel
+Samper Pizano acerca de la rebelión de los artesanos<enlace
+destino="http://www.revistacredencial.com/credencial/node/1888"> [VER]</enlace
+>. Escucha también este radioteatro, que recrea las luchas de los
+artesanos<enlace
+destino="http://semillerotymh.wix.com/tymh#!podcast/c11ym"> [VER]</enlace
+>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_03_CO_A6C05FDF08AA40A6B74D610DA08A4E83">
+<seccion2Titulo>Presidencias de Manuel María Mallarino y Mariano Ospina
+Rodríguez (1855-1861)</seccion2Titulo>
+<seccion2Texto>
+<p>Mallarino ascendió a la presidencia tras la destitución de Melo.
+De inmediato, declaró ilegales las <negrita>sociedades de artesanos</negrita
+>. En aquel momento se agudizó el <negrita>federalismo</negrita>,
+pues se le dio la independencia a Panamá y a otros estados, como Antioquia,
+Santander, Cauca, Boyacá, Magdalena y Bolívar.</p>
+<p>A Mallarino le siguió uno de los fundadores del <negrita>partido
+conservador</negrita>: Mariano Ospina Rodríguez, quien era centralista,
+pero debió mantener el federalismo debido a que recientemente se le
+había dado la independencia a algunos estados. Ospina sancionó una
+nueva Carta Magna, la <negrita>Constitución de 1858</negrita>, a partir
+de la cual el país recibió el nombre de <negrita>Confederación Granadina</negrita
+>. Así mismo, permitió el regreso de los jesuitas.</p>
+<p>La <negrita>Confederación Granadina</negrita> fue el nombre que
+recibió el territorio de los Estados actuales de Colombia y Panamá
+entre 1858 y 1861. Por la Constitución de 1858, la república se convirtió
+en federativa, constituida por ocho estados soberanos confederados.
+Las tensiones y luchas entre la administración central y las estatales
+desembocaron en la victoria de <negrita>Tomás Cipriano de Mosquera</negrita
+>, quien proclamó los<negrita> Estados Unidos de Colombia</negrita
+> (1862), hecho ratificado en la nueva Constitución emanada de la
+Convención de Rionegro, el 3 de febrero de 1863. </p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso190&amp;IdRecurso=RES-DDC1ACE86C5148078290344073EB257A"
+>El sufragio universal en las constituciones del siglo XIX</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso200&amp;IdRecurso=RES-71C89B680EC94CC4A91C8D505A367017"
+>Recuerda a algunos personajes de la República de la Nueva Granada</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_03_CO_858B2F23C7CA4372AC9C163B37532E42">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso210&amp;IdRecurso=RES-B96F2EAA489B48C79F7CC51E542B6E95"
+>Refuerza tu aprendizaje: La República de la Nueva Granada</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_03_CO_C844E41E2B594F7BAC00B89D3D097151">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso220&amp;IdRecurso=RES-238545EC5B564D2B8C26779A3F11BBEE"
+>Competencias: tu propia Comisión Corográfica</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso230&amp;IdRecurso=RES-A5F2D165A9384FD5B666E4934965569A"
+>Proyecto: comparación de los partidos políticos tradicionales en
+sus inicios y en la actualidad</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_08_03_CO_F5342342359F4867B0683047D6FE8E5A"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso250&amp;IdRecurso=RES-F26316ABFF324C2C8A0C15F263404284"
+>Mapa conceptual del tema El Nuevo Reino de Granada al comenzar el
+siglo XIX</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_03_CO_Recurso260&amp;IdRecurso=RES-4E956362162E44719481809BAB05AE03"
+>Evalúa tus conocimientos sobre el tema El Nuevo Reino de Granada
+al comenzar el siglo XIX</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.codazzi.mitreum.net/es/prefacio.php">Sitio
+a cargo del grupo de investigación que coordina Giorgio Antei, biógrafo
+del Agustín Codazzi.</enlace>
+<enlace destino="http://www.rjb.csic.es/icones/mutis/paginas/index.php"
+>Sitio elaborado y actualizado por el Real Jardín Botánico (España)
+sobre la Expedición Botánica.</enlace>
+<enlace
+destino="http://www.bibliotecanacional.gov.co/content/jos%C3%A9-mar%C3%AD-espinosa"
+>Sitio de la Biblioteca Nacional que presenta la obra completa del
+pintor de la Independencia José María Espinosa.</enlace>
+</enlacesreferencia></masinformacion></libro>
