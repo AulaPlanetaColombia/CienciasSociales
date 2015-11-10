@@ -2,6 +2,7 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_06_10_CO">
 <libroTitulo>El relieve y la hidrografía</libroTitulo>
 <seccion1 id="S1_CS_06_10_CO_EA6F79E3B2BF46C2BDAAA6E84B3383CC">
@@ -345,7 +346,7 @@ el mar Báltico, el mar Caribe, el mar Amarillo, el mar de Timor, etc.</listaEle
 mar Caribe.</listaElemento>
 <listaElemento><negrita>Intercontinentales</negrita>: mar Mediterráneo.</listaElemento>
 </listaSinNumerar> </listaElemento>
-</listaSinNumerar><?Pub Caret -1?>
+</listaSinNumerar>
 <p>En las aguas oceánicas se producen <negrita>movimientos</negrita
 > originados por distintos factores:</p>
 <listaSinNumerar>
@@ -465,7 +466,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_10_CO_Recurso170&amp;IdRecurso=RES-D5BA3F
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_10_CO_Recurso180&amp;IdRecurso=RES-52FBDB62E58F4F0DA82A7D2240F096F6"
 >Competencias: análisis del relieve de Europa</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_10_CO_Recurso190&amp;IdRecurso=RES-84F24263FC0F4828B7C210CF2079E81A"
 >Proyecto: estudio de un río europeo</enlace>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="5" clase="b" aprid="m5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Identifica las formas del relieve</titulo>
+    <area>0</area>
+    <nivel>2</nivel>
+    <referencia />
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde las siguientes preguntas según el video que acabas de ver.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué clase de relieve produce el movimiento de subducción ?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[AN010304_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Valles" correcta="0" />
+        <respuesta contestacion="Cadenas montañosas " correcta="1" />
+        <respuesta contestacion="Planicies " correcta="0" />
+        <respuesta contestacion="Sabanas" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Los valles llamados "rifts" se producen por:]]></enunciado>
+      <explicacion />
+      <video><![CDATA[AN010304_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Movimiento convergente" correcta="0" />
+        <respuesta contestacion="Movimiento de subducción  " correcta="0" />
+        <respuesta contestacion="Movimiento divergente" correcta="1" />
+        <respuesta contestacion="Movimiento de transformación " correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Que corteza emerge cuando se rompe la corteza terrestre?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[AN010304_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Corteza litoral " correcta="0" />
+        <respuesta contestacion="Corteza montañosa " correcta="0" />
+        <respuesta contestacion="Corteza fluvial " correcta="0" />
+        <respuesta contestacion="Corteza oceánica " correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue la dinámica de placas tectónicas que se produjo para la formación de grandes montañas como el Himalaya?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[AN010304_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Choque de dos placas oceánicas" correcta="0" />
+        <respuesta contestacion="Choque de una placa oceánica con una  placa continental " correcta="0" />
+        <respuesta contestacion="Choque de dos placas continentales " correcta="1" />
+        <respuesta contestacion="Choque de placas continentales con placa oceánicas" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué produce el choque de dos placas oceánicas?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[AN010304_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Fosas marinas " correcta="1" />
+        <respuesta contestacion="Fosas coralinas " correcta="0" />
+        <respuesta contestacion="Fosas litorales " correcta="0" />
+        <respuesta contestacion="Fosas oceánicas " correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>
