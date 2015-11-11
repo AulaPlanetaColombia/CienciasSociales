@@ -1,4 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?><motor tipo="102" clase="ab" aprid="m102ab">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="102" clase="ab" aprid="m102ab">
   <plataforma>
     <grado><![CDATA[1]]></grado>
     <titulo>Competencias: Regímenes políticos de América Latina en en el siglo XX</titulo>
@@ -9,9 +10,9 @@
     <lang>es</lang>
   </plataforma>
   <enunciado><![CDATA[Realiza la siguiente actividad. Al terminar envíala a tu profesor para ser evaluada.]]></enunciado>
-  <masinfo inicio="0"/>
-  <textoupload/>
+  <masinfo inicio="0" />
+  <textoupload />
   <adjunto><![CDATA[Principal.html]]></adjunto>
-  <url/>
+  <url />
   <amano><![CDATA[0]]></amano>
 </motor>
