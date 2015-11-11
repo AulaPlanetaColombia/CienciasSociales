@@ -1,0 +1,607 @@
+<?xml version='1.0' encoding='UTF-8'?><mapa aprid="mapa">
+  <copyright>(c) Editorial Planeta</copyright>
+  <version>1.0</version>
+  <botonMapaConceptual>mostrar</botonMapaConceptual>
+  <botonMapaMudo>ocultar</botonMapaMudo>
+  <botonMudo>0</botonMudo>
+  <objeto>
+    <ref>00</ref>
+    <texto>El Nuevo Reino de Granada al comenzar el siglo XIX</texto>
+    <hijos>10</hijos>
+    <padre/>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>10</ref>
+    <texto/>
+    <hijos>20,21,22</hijos>
+    <padre>00</padre>
+    <siz>14</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>20</ref>
+    <texto>Independencia
+(1810-1819)</texto>
+    <hijos>30,31</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>21</ref>
+    <texto>Gran Colombia
+(1819-1831)</texto>
+    <hijos>32</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>22</ref>
+    <texto>Républica de la Nueva Granada
+(1831-1858)</texto>
+    <hijos>33</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto>antecedentes</texto>
+    <hijos>40,42</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>Rebelión de
+los comuneros</texto>
+    <hijos>50</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>principales hitos</texto>
+    <hijos>41,43,44</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>Grito de Independencia
+(20 de julio de 1810)</texto>
+    <hijos>52</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>Pensamiento
+independentista</texto>
+    <hijos>51</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>43</ref>
+    <texto>Campaña
+Libertadora</texto>
+    <hijos>53</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>44</ref>
+    <texto>Patria
+Boba</texto>
+    <hijos>54</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto>pretendió</texto>
+    <hijos>60</hijos>
+    <padre>40</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>igualdad económica,
+social y política</texto>
+    <hijos/>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>se evidenció en</texto>
+    <hijos>61,62</hijos>
+    <padre>42</padre>
+    <siz>0</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>La Expedición
+Botánica</texto>
+    <hijos>70</hijos>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto>El Memorial
+de agravios</texto>
+    <hijos>71</hijos>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto>consistió en</texto>
+    <hijos>80</hijos>
+    <padre>61</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>estudio y valoración
+recursos naturales</texto>
+    <hijos/>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto>inconformidad por</texto>
+    <hijos>81</hijos>
+    <padre>62</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>desigual representación en 
+las Juntas de Gobierno</texto>
+    <hijos>90</hijos>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>90</ref>
+    <texto/>
+    <hijos>a0</hijos>
+    <padre>81</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a0</ref>
+    <texto>Derechos del Hombre
+y del Ciudadano</texto>
+    <hijos>b0</hijos>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>b0</ref>
+    <texto>traducidos y
+publicados por</texto>
+    <hijos>c0</hijos>
+    <padre>a0</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>c0</ref>
+    <texto>Antonio Nariño</texto>
+    <hijos/>
+    <padre>b0</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>provocó la</texto>
+    <hijos>63</hijos>
+    <padre>41</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>creación de una
+Junta de Gobierno</texto>
+    <hijos>72</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>72</ref>
+    <texto>conformada por</texto>
+    <hijos>82</hijos>
+    <padre>63</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>- élite criolla
+- virrey</texto>
+    <hijos/>
+    <padre>72</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>53</ref>
+    <texto>liderada por</texto>
+    <hijos>64</hijos>
+    <padre>43</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>- Simón Bolívar
+- Francisco de Paula Santander
+- José María Anzoátegui</texto>
+    <hijos>73</hijos>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>73</ref>
+    <texto>lograron</texto>
+    <hijos>83,84</hijos>
+    <padre>64</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>83</ref>
+    <texto>victoria definitiva en
+batalla de Boyacá
+(7 de agosto de 1819)</texto>
+    <hijos/>
+    <padre>73</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>84</ref>
+    <texto>inicio de 
+la Gran Colombia</texto>
+    <hijos/>
+    <padre>73</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>54</ref>
+    <texto>caracterizada por</texto>
+    <hijos>65</hijos>
+    <padre>44</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>luchas entre
+federalistas y centralistas</texto>
+    <hijos>74</hijos>
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>74</ref>
+    <texto>efectos</texto>
+    <hijos>85</hijos>
+    <padre>65</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>85</ref>
+    <texto>- ingobernabilidad
+- división del territorio</texto>
+    <hijos>91</hijos>
+    <padre>74</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>91</ref>
+    <texto>aprovechados por</texto>
+    <hijos>a1</hijos>
+    <padre>85</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a1</ref>
+    <texto>Reconquista
+española</texto>
+    <hijos/>
+    <padre>91</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto>se ordenó en</texto>
+    <hijos>45</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>45</ref>
+    <texto>República
+centralista</texto>
+    <hijos>55</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>55</ref>
+    <texto>caracterizada por</texto>
+    <hijos>66</hijos>
+    <padre>45</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>derechos y deberes
+vs. militarismo</texto>
+    <hijos>75</hijos>
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>75</ref>
+    <texto>enfrentó a</texto>
+    <hijos>86</hijos>
+    <padre>66</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>86</ref>
+    <texto>Francisco de Paula
+Santander y 
+Simón Bolívar</texto>
+    <hijos/>
+    <padre>75</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>33</ref>
+    <texto>caracterizada por</texto>
+    <hijos>46,47</hijos>
+    <padre>22</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>46</ref>
+    <texto>Hechos</texto>
+    <hijos>56</hijos>
+    <padre>33</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>47</ref>
+    <texto>Guerras y rebeliones</texto>
+    <hijos/>
+    <padre>33</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>56</ref>
+    <texto>como</texto>
+    <hijos>67</hijos>
+    <padre>46</padre>
+    <siz>0</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>67</ref>
+    <texto>- nueva Constitución Política
+- disputas entre centralistas y 
+  federalistas
+- exportación de 
+  productos agrícolas
+- impulso a la educación
+- surgen caudillos regionales
+- surgen partidos liberal y 
+  conservador
+- primeras elecciones por
+  sufragio universal</texto>
+    <hijos/>
+    <padre>56</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+</mapa>
