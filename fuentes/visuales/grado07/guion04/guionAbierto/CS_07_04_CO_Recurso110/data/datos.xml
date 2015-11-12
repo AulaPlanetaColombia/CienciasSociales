@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<motor tipo="5" clase="b" aprid="m5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>El desarrollo filosófico y científico en la Edad Moderna</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia />
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Escucha y observa atentamente el siguiente video que te explicará brevemente el desarrollo de la ciencia y la filosofía en Occidente. Después contesta las preguntas que se te proponen.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="3">
+    <cuestion>
+      <enunciado><![CDATA[¿Por qué fue tan importante para los pensadores griegos la búsqueda de la verdad?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[DI000802_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Para comprender qué cosas son ciertas y cuáles son falsas." correcta="0" />
+        <respuesta contestacion="Para saber cómo burlar a la naturaleza." correcta="0" />
+        <respuesta contestacion="Para conocer las leyes de la naturaleza." correcta="1" />
+        <respuesta contestacion="Para saber comprender el engaño en el ser humano." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue la mayor preocupación de la filosofía en la Edad Moderna?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[DI000802_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="El conocimiento de la naturaleza desde las ciencias." correcta="0" />
+        <respuesta contestacion="Comprender la relación entre la naturaleza y el hombre." correcta="0" />
+        <respuesta contestacion="La razón, como forma del conocimiento humano." correcta="1" />
+        <respuesta contestacion="Criticar a Dios." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Por qué en el siglo XX la filosofía se relegó a un análisis del lenguaje y una visión crítica del mundo?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[DI000802_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Porque ya lo había explicado todo." correcta="0" />
+        <respuesta contestacion="Porque es más importante el lenguaje que el hombre." correcta="0" />
+        <respuesta contestacion="Porque las ciencias y sus explicaciones la relegaron." correcta="1" />
+        <respuesta contestacion="Porque las ciencias comprenden mejor a la naturaleza." correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

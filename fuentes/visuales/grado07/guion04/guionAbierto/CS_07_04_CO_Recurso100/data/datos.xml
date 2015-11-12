@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f7">
+  <main layout="4">
+    <title>Adelantos Científicos del siglo XVI</title>
+    <footer>Haz click en las imágenes para aprender más sobre la Revolución Científica</footer>
+  </main>
+  <sections>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="Copernico.jpg" border="0">
+        <title><![CDATA[Nicolás Copérnico]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Nicolás Copernico</title>
+          <description><![CDATA[Nicol&aacute;s Copernico naci&oacute; en Polonia en 1473. Fue un matem&aacute;tico, astr&oacute;nomo, f&iacute;sico, diplom&aacute;tico y militar que plante&oacute; la teor&iacute;a helioc&eacute;ntrica del sistema solar, es decir, un sistema donde los planetas, incluida la tierra, gira al rededor del sol. Durante 25 a&ntilde;os Cop&eacute;rnico trabaj&oacute; en su modelo. Reuni&oacute; su obra en el libro &quot;Sobre las revoluciones de las esferas celestes&quot; pero este fue publicado, por miedo a la reacci&oacute;n de la iglesia, despu&eacute;s de su muerte en 1543]]></description>
+          <images>
+            <image path="Copernico.jpg" border="0" pathbig="Copernico.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="tele_gali.jpg" border="0">
+        <title><![CDATA[Telescopio]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>El Telescopio</title>
+          <description><![CDATA[Aunque su inventor original es el franc&eacute;s Juan Roget en 1590, una vez Galileo tiene noticias del invento decide construir uno con un dise&ntilde;o propio. A partir de all&iacute;, y teniendo como base el modelo helioc&eacute;ntrico comenz&oacute; un proceso lento para ir conociendo nuestro universo y el lugar del planeta Tierra en &eacute;l. Con el pasar de los siglos este invento se ha ido perfeccionando hasta contar con los enormes telescopios que alcanzan a ver incluso otras galaxias y lugares muy alejados en el espacio exterior.&nbsp;]]></description>
+          <images>
+            <image path="tele_gali.jpg" border="0" pathbig="tele_gali.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="galileo.jpg" border="0">
+        <title><![CDATA[Galileo Galilei]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Galileo Galilei</title>
+          <description><![CDATA[Galileo (1564-1642) fue un astr&oacute;nomo, f&iacute;sico y matem&aacute;tico italiano, gran precursor de la Revoluci&oacute;n Cient&iacute;fica que recorri&oacute; Europa en ese siglo y considerado el padre de la astronom&iacute;a. Apoy&aacute;ndose en las teor&iacute;as de Cop&eacute;rnico y complementando las ideas y avances de Johanes Kepler, Galileo plante&oacute; una nueva visi&oacute;n del universo y de nuestro planeta en ese universo. Esta teor&iacute;a fue tan revolucionaria que desafiaba todas las estructuras cient&iacute;ficas, filos&oacute;ficas y pol&iacute;ticas por lo que fue sometido a juicio y obligado a confesarse como hereje por la Iglesia Cat&oacute;lica. Por esta confesi&oacute;n fue condenado a prisi&oacute;n de por vida a partir de 1633, pero el papa le permite cumplir su sentencia en su domicilio, donde muere 9 a&ntilde;os despu&eacute;s y desde donde continu&oacute; con su producci&oacute;n cient&iacute;fica ayudado por sus pupilos.&nbsp;]]></description>
+          <images>
+            <image path="galileo.jpg" border="0" pathbig="galileo.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="microscopio.jpg" border="0">
+        <title><![CDATA[Microscopio]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Microscopio</title>
+          <description><![CDATA[Este importante instrumento para la investigaci&oacute;n cient&iacute;fica hizo parte de los adelantos tecnol&oacute;gicos que surgen en este periodo. Aunque existe desacuerdo en cuanto a su creador, Zacar&iacute;as Janssen, un holand&eacute;s logra un dise&ntilde;o operacional en 1590 y es considerado uno de los pioneros en esta &aacute;rea de la &oacute;ptica. El microscopio fue entonces utilizado por muchos cient&iacute;ficos de la &eacute;poca y poco a poco se fue descubriendo la composici&oacute;n celular de los seres vivos y la composici&oacute;n f&iacute;sica y qu&iacute;mica de los elementos del mundo. &nbsp;]]></description>
+          <images>
+            <image path="microscopio.jpg" border="0" pathbig="microscopio.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="kepler.jpg" border="0">
+        <title><![CDATA[Johanes Kepler]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Johanes Kepler</title>
+          <description><![CDATA[Astr&oacute;nomo y matem&aacute;tico alem&aacute;n, figura central en la Revoluci&oacute;n Cient&iacute;fica del siglo XVI. Kepler plante&oacute; la teor&iacute;a del movimiento orbital de los planetas al rededor del sol. Esta teor&iacute;a fue el comienzo del descubrimiento de la relaci&oacute;n de fuerzas entre todos los cuerpos del universo, como por ejemplo la relaci&oacute;n entre el estado de la luna y la intensidad de las mareas. Dentro de su amplia obra cient&iacute;fica destacan las tres leyes de Kepler donde se sintentizan los preceptos b&aacute;sicos para comprender el movimiento de los cuerpos celestiales.&nbsp;]]></description>
+          <images>
+            <image path="kepler.jpg" border="0" pathbig="kepler.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="termometro_galileo.jpg" border="0">
+        <title><![CDATA[Termómetro]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Termómetro</title>
+          <description><![CDATA[El nombre real del aparato dise&ntilde;ado por Galileo se conoce como termoscopio. En sus estudios, el astr&oacute;nomo y f&iacute;sico descubri&oacute; que la densidad de un l&iacute;quido var&iacute;a seg&uacute;n su temperatura. En su primer dise&ntilde;o, Galileo utiliz&oacute; un contenedor lleno de agua con una esfera de vidrio llena de aire en un extremo. Al calentarse la esfera, se movia a lo largo del recipiente, indicando la presencia de calor. En 1612, Santorre Santorio incluy&oacute; una gradaci&oacute;n num&eacute;rica y as&iacute; empez&oacute; a utilizarse para fines m&eacute;dicos. En 1714 se reemplazo el agua por mercurio y en el siglo XX se introducen los term&oacute;metros digitales.&nbsp;]]></description>
+          <images>
+            <image path="termometro_galileo.jpg" border="0" pathbig="termometro_galileo.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+  </sections>
+</engine>
