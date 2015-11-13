@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Entiende el desarrollo de la Segunda Guerra Mundial en Europa</titulo>
+    <area>2</area>
+    <nivel><![CDATA[3]]></nivel>
+    <referencia><![CDATA[CS_10_09_04]]></referencia>
+    <idreg><![CDATA[99]]></idreg>
+    <motor><![CDATA[M5B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Después de ver el vídeo sobre el transcurso de la Segunda Guerra Mundial en Europa, responde a las preguntas.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué hecho desencadenó el estallido de la II Guerra Mundial?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI000472_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="La invasión alemana de Polonia." correcta="1" />
+        <respuesta contestacion="La ocupación alemana de Checoslovaquia." correcta="0" />
+        <respuesta contestacion="El pacto germano-soviético." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué territorio de habla germana se anexionó la Alemania nazi antes de 1939?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI000472_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Austria" correcta="1" />
+        <respuesta contestacion="Austria y la República Checa." correcta="0" />
+        <respuesta contestacion="Austria y Checoslovaquia." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles eran los objetivos del III Reich en Europa?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI000472_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Imponer la hegemonía de Alemania y la raza aria en Europa." correcta="1" />
+        <respuesta contestacion="Acabar con Polonia y las minorías arias." correcta="0" />
+        <respuesta contestacion="Derrotar a los soviéticos y anexionarse la URSS." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué lugar detuvo el ejército soviético el avance alemán de forma decisiva?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI000472_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="En Stalingrado." correcta="1" />
+        <respuesta contestacion="En Leningrado." correcta="0" />
+        <respuesta contestacion="En Moscú." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué territorios Alemania no encontró apenas obstáculos para su conquista?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI000472_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="La Europa continental." correcta="1" />
+        <respuesta contestacion="La península Itálica y Sicilia." correcta="0" />
+        <respuesta contestacion="La URSS." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué momento del conflicto pareció que la victoria alemana era segura?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI000472_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="A finales de 1942." correcta="1" />
+        <respuesta contestacion="A comienzos de 1945." correcta="0" />
+        <respuesta contestacion="A finales de 1939." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Los soviéticos lograron detener el avance alemán sobre la URSS en 1943. ¿Cómo lo aprovecharon las potencias aliadas?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI000472_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Contraatacaron en los frentes de África y el Este de Europa." correcta="1" />
+        <respuesta contestacion="Reforzaron las defensas de Europa occidental." correcta="0" />
+        <respuesta contestacion="Desembarcaron en el norte de Europa." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles fueron los desembarcos de tropas de Estados Unidos más decisivos para volcar la guerra en favor de las potencias aliadas?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI000472_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Sicilia y Normandía." correcta="1" />
+        <respuesta contestacion="Normandía y Stalingrando." correcta="0" />
+        <respuesta contestacion="Sicilia y Lombardía." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué quiere decir que Alemania "capituló" en mayo de 1945?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI000472_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Que se rindió." correcta="1" />
+        <respuesta contestacion="Que resistió hasta el final." correcta="0" />
+        <respuesta contestacion="Que pidió una tregua." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quiénes fueron las principales víctimas de los campos de concentración nazi?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI000472_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Los judíos." correcta="1" />
+        <respuesta contestacion="Los arios." correcta="0" />
+        <respuesta contestacion="Los soviéticos." correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

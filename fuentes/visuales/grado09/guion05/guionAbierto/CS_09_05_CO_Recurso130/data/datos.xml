@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f6">
+  <main layout="0">
+    <title>El Plan Marshall</title>
+    <footer>haz clic sobre las imagenes</footer>
+  </main>
+  <sections>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="CS_09_05_CO_REC130_IMG01.jpg" border="1">
+        <title><![CDATA[Europa en la posguerra]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Contexto </title>
+          <description><![CDATA[<p>La Segunda Guerra Mundial ocasion&oacute; grandes p&eacute;rdidas humanas y materiales para Europa.&nbsp;Las ciudades quedaron pr&aacute;cticamente destruidas por causa de los bombardeos. A esto se sum&oacute; la pobreza y la escasez&nbsp;de alimentos y combustibles. Tal situaci&oacute;n dificult&oacute; la recuperaci&oacute;n econ&oacute;mica del&nbsp;continente.</p>
+
+<p>Por su parte, Estados Unidos proclamaba la &ldquo;Doctrina Truman&rdquo; con la que pretend&iacute;a frenar el avance de las ideas socialistas en el mundo. Una vez la guerra lleg&oacute; a su fin, la URSS se prepar&oacute; para expandir su poder&iacute;o en los pa&iacute;ses vecinos. Esta fue la oportunidad para que Estados Unidos le ofreciera a Europa la ayuda para reconstruir sus ciudades y hacer despegar su econom&iacute;a, mientras la apoyaba militarmente para evitar el avance del comunismo.</p>
+]]></description>
+          <images>
+            <image path="CS_09_05_CO_REC130_IMG03.jpg" border="1" pathbig="CS_09_05_CO_REC130_IMG03.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="CS_09_05_CO_REC130_IMG02.jpg" border="1">
+        <title><![CDATA[George Mashall y Henry Stimson]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Intención y resultados del Plan</title>
+          <description><![CDATA[<p>Estados Unidos abasteci&oacute; a los pa&iacute;ses europeos con materias primas y capital. A&nbsp;cambio, los gobiernos europeos permitieron&nbsp;que empresas&nbsp;estadounidenses desarrollaran&nbsp;actividades en diferentes sectores de la econom&iacute;a. Esto permiti&oacute; que&nbsp;Europa se recuperara r&aacute;pidamente de los vestigios de la guerra pues se reactivaron&nbsp;la industria y el comercio.&nbsp;</p>
+Con la implantaci&oacute;n del Plan Marshall se cre&oacute; el FMI (Fondo Monetario Internacional). As&iacute; mismo, se conform&oacute; la OTAN (Organizaci&oacute;n Tratado del Atl&aacute;ntico Norte) con la intenci&oacute;n de&nbsp; apoyar militarmente la ejecuci&oacute;n del Plan Marshall.]]></description>
+          <images>
+            <image path="CS_09_05_CO_REC130_IMG04.jpg" border="1" pathbig="CS_09_05_CO_REC130_IMG04.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+  </sections>
+</engine>
