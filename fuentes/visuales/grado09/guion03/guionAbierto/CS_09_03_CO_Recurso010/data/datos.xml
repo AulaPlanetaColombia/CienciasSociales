@@ -1,15 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <engine copy="Editorial Planeta" version="1" aprid="f4">
-  <main title="México en el siglo XIX" path="" buttonsHeight="73">
-    <text><![CDATA[<p><span style="font-size:22px"><span style="font-family:verdana,geneva,sans-serif">En el siglo XIX M&eacute;xico dej&oacute; de conocerse como Nueva Espa&ntilde;a. Algunos a&ntilde;os despu&eacute;s del proceso de Independencia tuvo<br />
-que sufrir las invasiones de Francia y Estados Unidos, adem&aacute;s<br />
-de una guerra civil. M&aacute;s tarde, en 1858, Benito Ju&aacute;rez logr&oacute;&nbsp;<br />
-posesionarse&nbsp;como presidente defendiendo ideas liberales.<br />
-Ju&aacute;rez fue sustituido por Porfirio D&iacute;az, tambi&eacute;n liberal,&nbsp;quien instaur&oacute;&nbsp;una dictadura que se mantuvo por 30 a&ntilde;os (1876-1911).</span></span></p>
+  <main title="México en el siglo XIX" path="CS_09_03_REC10_IMG00.jpg" buttonsHeight="73">
+    <info path="">
+      <text><![CDATA[<p><span style="font-size:22px"><span style="font-family:verdana,geneva,sans-serif">En el siglo XIX M&eacute;xico dej&oacute; de conocerse como Nueva Espa&ntilde;a.<br />
+Algunos a&ntilde;os despu&eacute;s del proceso de Independencia tuvo que sufrir las invasiones de Francia y Estados Unidos, adem&aacute;s de una guerra civil. M&aacute;s tarde, en 1858, Benito Ju&aacute;rez logr&oacute; posesionarse&nbsp;como presidente defendiendo ideas liberales. Ju&aacute;rez fue sustituido por Porfirio D&iacute;az, tambi&eacute;n liberal,&nbsp;quien instaur&oacute;&nbsp;una dictadura que se mantuvo por 30 a&ntilde;os (1876-1911).</span></span></p>
 
-<p><span style="font-size:22px"><span style="font-family:verdana,geneva,sans-serif">Durante este periodo, los campesinos e ind&iacute;genas tuvieron condiciones de vida bastante precarias debido a que sus tierras<br />
-les fueron arrebatadas. Esto llev&oacute; a que se fuera acumulando un gran descontento que termin&oacute; llevando al desarrollo de la primera revoluci&oacute;n social que vivi&oacute; Am&eacute;rica Latina en el siglo XX.</span></span></p>
+<p><span style="font-size:22px"><span style="font-family:verdana,geneva,sans-serif">Durante este periodo, los campesinos e ind&iacute;genas tuvieron condiciones de vida bastante precarias debido a que sus tierras les fueron arrebatadas. Esto llev&oacute; a que se fuera acumulando un gran descontento que termin&oacute; llevando al desarrollo de la primera revoluci&oacute;n social que vivi&oacute; Am&eacute;rica Latina en el siglo XX.</span></span></p>
 ]]></text>
+    </info>
   </main>
   <questions respCorrecta="Respuesta correcta." respIncorrecta="Vuélvelo a intentar.">
     <question title="¿Quién fue Benito Juárez?" path="CS_09_03_REC10_IMG01.jpg">
@@ -59,7 +57,7 @@ de empresa.&nbsp;</span></span></p>
         <text><![CDATA[]]></text>
       </info>
     </question>
-    <question title="Luego del mandato de Juárez llegó al poder un gobierno dictatorial. ¿De quién fue?" path="imagenDummy-MotorF.jpg">
+    <question title="Luego del mandato de Juárez llegó al poder un gobierno dictatorial. ¿De quién fue?" path="CS_09_03_REC10_IMG02.jpg">
       <answers>
         <answer correct="1">
           <text><![CDATA[Porfirio Díaz]]></text>
@@ -75,11 +73,9 @@ de decisiones pol&iacute;ticas.</span></span></p>
         </answer>
         <answer correct="0">
           <text><![CDATA[Pancho Villa]]></text>
-          <explanation width="394"><![CDATA[<p><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">Pancho Villa fue uno de<br />
+          <explanation width="394"><![CDATA[<p><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">Pancho Villa nunca lleg&oacute; al poder. Fue uno de<br />
 los l&iacute;deres que promovi&oacute;<br />
-la Revoluci&oacute;n mexicana,<br />
-que inici&oacute; contra la<br />
-reelecci&oacute;n de Porfirio D&iacute;az.</span></span></p>
+la Revoluci&oacute;n mexicana y se levant&oacute; en armas&nbsp;contra Porfirio D&iacute;az</span></span></p>
 ]]></explanation>
         </answer>
         <answer correct="0">
@@ -111,7 +107,7 @@ reelecci&oacute;n de Porfirio D&iacute;az.</span></span></p>
         <text><![CDATA[]]></text>
       </info>
     </question>
-    <question title="¿Cómo fue  el gobierno de Porfirio Díaz?" path="CS_09_03_REC10_IMG02.jpg">
+    <question title="¿Cómo fue  el gobierno de Porfirio Díaz?" path="CS_09_03_REC10_IMG03.jpg">
       <answers>
         <answer correct="0">
           <text><![CDATA[Democrático ]]></text>
@@ -129,6 +125,129 @@ y autoritario.</p>
 se caracteriz&oacute; por ser<br />
 autoritario y no participativo.<br />
 Por ello es&nbsp;dictatorial.</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="">
+        <text><![CDATA[]]></text>
+      </info>
+    </question>
+    <question title="¿Cuál fue la principal razón por la que Estados Unidos se apoderó de más de la mitad del territorio mexicano en 1848?" path="FronterasMexico.png">
+      <answers>
+        <answer correct="1">
+          <text><![CDATA[El separatismo de los estados mexicanos]]></text>
+          <explanation width="394"><![CDATA[<p>El federalismo que&nbsp;defendi&oacute; din&aacute;micas separatistas por parte de los estados mexicanos, fue aprovechado&nbsp;por Estados Unidos,&nbsp;que&nbsp;para 1848 se qued&oacute; con m&aacute;s de la mitad del territorio perteneciente a M&eacute;xico hasta ese momento.</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Las políticas instauradas por el centralismo]]></text>
+          <explanation width="394"><![CDATA[<p>Para este momento hist&oacute;rico en M&eacute;xico el gobierno era de car&aacute;cter federalista, por lo tanto el centralismo no influy&oacute;&nbsp;en este proceso.</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="">
+        <text><![CDATA[]]></text>
+      </info>
+    </question>
+    <question title="Las Leyes de la Reforma plantearon cambios importantes frente a la influencia y protección que la Iglesia católica ejercía sobre indígenas y campesinos. ¿Cuál fue el presidente que proclamó estas leyes?" path="DoroteoArango.jpg">
+      <answers>
+        <answer correct="1">
+          <text><![CDATA[Benito Juárez]]></text>
+          <explanation width="394"><![CDATA[<p>Con estas leyes, el gobierno de Benito Ju&aacute;rez, pretendi&oacute; despojar a todos los sectores de la poblaci&oacute;n de la influencia del catolicismo.</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Doroteo Arango]]></text>
+          <explanation width="394"><![CDATA[<p>Doroteo Arango, tambi&eacute;n conocido como Pancho Villa no fue presidente de M&eacute;xico.&nbsp;</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="">
+        <text><![CDATA[]]></text>
+      </info>
+    </question>
+    <question title="¿Cuál fue la principal característica económica del porfiriato?" path="Valle_de_Mexico_Jose_Maria_Velazco_3.jpg">
+      <answers>
+        <answer correct="0">
+          <text><![CDATA[Regreso al sistema capitalismo]]></text>
+          <explanation width="394"><![CDATA[<p>Para este momento, en M&eacute;xico, apenas se empezaban a instaurar medidas en la organizaci&oacute;n econ&oacute;mica de tipo capitalista con la aparici&oacute;n de la industria y el impulso de la actividad comercial.</p>
+]]></explanation>
+        </answer>
+        <answer correct="1">
+          <text><![CDATA[ Regreso al sistema hacendario]]></text>
+          <explanation width="394"><![CDATA[<p>Los campesinos fueron despojados de sus tierras dando lugar a latifundios, cerca del 85 %&nbsp;de las tierras pertenec&iacute;a a un sector de la poblaci&oacute;n que no superaba el 5&nbsp;%.&nbsp;Estas formas de organizaci&oacute;n son caracter&iacute;sticas del sistema hacendario.</p>
 ]]></explanation>
         </answer>
         <answer correct="0">
