@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<diaporama autoplay="false" diapoDefaultTimeOut="5000" effectDefaultTimeOut="1500" textDefaultTimeOut="1000" toolbarAlign="LeftBottom" toolbarColor="White" toolbarCounter="false" toolbarCounterColor="White" toolbarMargin="40,40,40,40" fotoMargin="0,0,0,0" textMargin="40,40,40,80" aprid="diaporama">
+  <diapo foto="fondoNegro.jpg" diapoTimeOut="3000">
+    <texto type="Georgia" size="72" style="Normal" color="White" align="CenterCenter" effect="fadein" effectTimeOut="1500">Las causas de la guerra</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="000GYC01.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="30" style="Normal" color="Black" align="LeftTop" effect="fadein" effectTimeOut="1500">Inestabilidad económica</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="CS_10_09_01_indice_comercio_exterior.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="30" style="Normal" color="Black" align="CenterTop" effectTimeOut="1500" textTimeOut="0">Índices de valor del comercio exterior</texto>
+    <texto type="Verdana" size="22" style="Normal" color="Black" align="CenterTop" effect="fadein" effectTimeOut="1500" textTimeOut="0">##(media 1926-1929 = 100)</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="CS_10_09_01_pobl_activa_desempleada.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="30" style="Normal" color="Black" align="CenterTop" effect="fadein" effectTimeOut="1500">Tasa de población activa desempleada</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="000EIV01.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Expansionismo#agresivo####· Alemania###</texto>
+    <texto type="Verdana" size="30" style="Normal" color="Black" align="LeftCenter" effect="fadein" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="000JO801.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effectTimeOut="1500">Expansionismo#agresivo####· Alemania#· Italia##</texto>
+    <texto type="Verdana" size="30" style="Normal" color="Black" align="LeftCenter" effect="fadein" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="000F9A01.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effectTimeOut="1500">Expansionismo#agresivo####· Alemania#· Italia#· Japón</texto>
+    <texto type="Verdana" size="30" style="Normal" color="Black" align="LeftCenter" effect="fadein" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="000GHT01.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Debilidad de las democracias#occidentales</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="img.jpg" diapoTimeOut="50">
+    <texto type="Verdana" size="30" style="Normal" color="White" align="RightTop" effectTimeOut="1500">Desprestigio de la Sociedad de Naciones</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+</diaporama>
