@@ -1001,7 +1001,7 @@
 				$('#cajaSubir').toggleClass('form_adj');
 				$('#cajaSubir').toggleClass('form_adj_no_upload');
 				$('#cajaSubir').html(msg);
-			} else if (scormConfig.mode == aulaPlaneta.SCORM.MODO_EXAM || scormConfig.mode == aulaPlaneta.SCORM.MODO_NORMAL) {
+			} else if (scormConfig.mode == aulaPlaneta.SCORM.MODO_EXAM || scormConfig.mode == aulaPlaneta.SCORM.MODO_NORMAL || scormConfig.mode == aulaPlaneta.SCORM.MODO_AREVIEW) {
 				// Si la actividad es abierta por el alumno, por cada documento que "abra" o vea
 				// se pone un "visto" en el suspend_data para indicar al professor que ha sido abierto
 				addContent(xmlDocu, function() {
@@ -1016,11 +1016,14 @@
 				$('#cajaSubir').toggleClass('form_adj');
 				$('#cajaSubir').toggleClass('form_adj_no_upload');
 				$('#cajaSubir').html(msg);
+				// Si no estem revisant, notifiquem que l'hem vist
+				if (scormConfig.mode != aulaPlaneta.SCORM.MODO_AREVIEW) {
 				setTimeout(function() { 
 					if (scormConfig.suspend_data != 'visto') {
 						aulaPlaneta.SCORM.ejercicio_evaluar('visto', ''); 
 					}
 				}, 1000);
+				}
 			} else {
 				// Si no se reconoce el modo, la barra inferior se muestra vacía
 				$('#buttonEndAction').html('');

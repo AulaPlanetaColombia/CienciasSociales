@@ -3,7 +3,7 @@
  * CEPDA MEDIA INIT: rutina de inicialización del CEPDA MEDIA Player
  * con las opciones y aspecto habitual del player AulaPlaneta
  *
- * Versión 14.10.17.1
+ * Versión 15.10.08.1
  *
  * Autor: Javier Garcés - Sinergia sistemas informáticos
  * 
