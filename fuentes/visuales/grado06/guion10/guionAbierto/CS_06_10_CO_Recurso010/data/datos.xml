@@ -1,314 +1,316 @@
-<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f4">
-<main title="Las capas de la esfera terrestre" path="CS_09_03_CO_REC10_IMG01.jpg" buttonsHeight="53">
-</main>
-<questions respCorrecta="Respuesta correcta" respIncorrecta="Respuesta incorrecta">
-<question title="¿Cuál es la capa de la esfera terrestre que indica la flecha?" path="CS_09_03_CO_REC10_IMG01.jpg">
-<text><![CDATA[<p><br />
+﻿<?xml version="1.0" encoding="utf-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f4">
+  <main title="Las capas de la esfera terrestre" path="CS_06_10_CO_REC10_IMG01.jpg" buttonsHeight="53">
+  </main>
+  <questions respCorrecta="Respuesta correcta" respIncorrecta="Respuesta incorrecta">
+    <question title="¿Cuál es la capa de la esfera terrestre que indica la flecha?" path="CS_06_10_CO_REC10_IMG02.jpg">
+      <text><![CDATA[<p><br />
 &nbsp;</p>
-]]></text><answers>
-<answer correct="0">
-<text><![CDATA[Geosfera]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="1">
-<text><![CDATA[Hidrosfera]]></text>
-<explanation width="394"><![CDATA[<p>Es correcto.&nbsp;La hidrosfera es la esfera de agua.</p>
+]]></text>
+      <answers>
+        <answer correct="0">
+          <text><![CDATA[Geosfera]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="1">
+          <text><![CDATA[Hidrosfera]]></text>
+          <explanation width="394"><![CDATA[<p>Es correcto.&nbsp;La hidrosfera es la esfera de agua.</p>
 ]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Atmósfera]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-</answers>
-<info path="CS_09_03_CO_REC10_IMG02.jpg">
-<text><![CDATA[<p style="text-align: justify;"><strong>La hidrosfera</strong></p>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Atmósfera]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="CS_06_10_CO_REC10_IMG03.jpg">
+        <text><![CDATA[<p style="text-align: justify;"><strong>La hidrosfera</strong></p>
 
 <p style="text-align: justify;">Se le&nbsp;llama tambi&eacute;n esfera de agua;&nbsp;ocupa las &frac34; partes de la superficie terrestre.&nbsp; Est&aacute; distribuida entre oc&eacute;anos, mares, lagos, lagunas, r&iacute;os, aguas subterr&aacute;neas, etc.</p>
 ]]></text>
-</info>
-</question>
-<question title="¿Cuál es la capa de la geosfera que contiene a la hidrosfera?" path="CS_09_03_CO_REC10_IMG03.jpg">
-<answers>
-<answer correct="1">
-<text><![CDATA[Litosfera]]></text>
-<explanation width="394"><![CDATA[<p>Es correcto. La litosfera es la capa de piedra y en ella est&aacute;n depositadas las aguas continentales y oce&aacute;nicas.</p>
+      </info>
+    </question>
+    <question title="¿Cuál es la capa de la geosfera que contiene a la hidrosfera?" path="CS_06_10_CO_REC10_IMG04.jpg">
+      <answers>
+        <answer correct="1">
+          <text><![CDATA[Litosfera]]></text>
+          <explanation width="394"><![CDATA[<p>Es correcto. La litosfera es la capa de piedra y en ella est&aacute;n depositadas las aguas continentales y oce&aacute;nicas.</p>
 ]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Manto]]></text>
-<explanation width="394"><![CDATA[<p>&nbsp;</p>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Manto]]></text>
+          <explanation width="394"><![CDATA[<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 ]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Núcleo]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-</answers>
-<info path="CS_09_03_CO_REC10_IMG04.jpg">
-<text><![CDATA[<p style="text-align: justify;"><strong>La Litosfera</strong></p>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Núcleo]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="CS_06_10_CO_REC10_IMG05.jpg">
+        <text><![CDATA[<p style="text-align:justify"><strong>La litosfera</strong></p>
 
-<p style="text-align: justify;">Las aguas oce&aacute;nicas y continentales est&aacute;n sobre la litosfera o corteza terrestre. Es una capa formada por <strong>rocas</strong>, <strong>minerales</strong> y <strong>metales</strong>. Tiene un di&aacute;metro de cerca de 13.000 km.</p>
+<p style="text-align:justify">Las aguas oce&aacute;nicas y continentales est&aacute;n sobre la litosfera o corteza terrestre. Es una capa formada por <strong>rocas</strong>, <strong>minerales</strong> y <strong>metales</strong>. Tiene un di&aacute;metro de cerca de 13.000 km.</p>
 ]]></text>
-</info>
-</question>
-<question title="¿Cuál es el fenómeno que permite que el agua cambie de un estado a otro?" path="CS_09_03_CO_REC10_IMG05.jpg">
-<answers>
-<answer correct="0">
-<text><![CDATA[Ciclo de lluvias y tormentas]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Energía solar y lumínica]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="1">
-<text><![CDATA[Ciclo del agua]]></text>
-<explanation width="394"><![CDATA[<p>Es correcto. El ciclo del agua permite que el agua l&iacute;quida se evapore y se condense en la atm&oacute;sfera.</p>
+      </info>
+    </question>
+    <question title="¿Cuál es el fenómeno que permite que el agua cambie de un estado a otro?" path="CS_06_10_CO_REC10_IMG06.jpg">
+      <answers>
+        <answer correct="0">
+          <text><![CDATA[Ciclo de lluvias y tormentas]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Energía solar y lumínica]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="1">
+          <text><![CDATA[Ciclo del agua]]></text>
+          <explanation width="394"><![CDATA[<p>Es correcto. El ciclo del agua permite que el agua l&iacute;quida se evapore y se condense en la atm&oacute;sfera.</p>
 ]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-</answers>
-<info path="CS_09_03_CO_REC10_IMG06.jpg">
-<text><![CDATA[<p style="text-align: justify;">El <strong>ciclo del agua</strong></p>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="CS_06_10_CO_REC10_IMG07.jpg">
+        <text><![CDATA[<p style="text-align: justify;">El <strong>ciclo del agua</strong></p>
 
 <p style="text-align: justify;">Es un fen&oacute;meno meteorol&oacute;gico que inicia cuando los rayos del sol calientan la superficie de los cuerpos de aguas oce&aacute;nicas y continentales&nbsp;y la <strong>evaporan</strong>. El <strong>vapor de agua</strong> asciende hasta la troposfera, una de las capas de la atm&oacute;sfera, donde se <strong>condensa</strong> y origina peque&ntilde;as <strong>gotas</strong>&nbsp;que se acumulan formando las nubes. Cuando las nubes est&aacute;n suficientemente cargadas, se precipitan en forma de <strong>lluvia</strong>, <strong>nieve</strong> o <strong>hielo</strong>, seg&uacute;n la temperatura sobre la superficie terrestre. De esta manera, el agua vuelve a formar parte del agua de los mares, oc&eacute;anos y continentes.</p>
 ]]></text>
-</info>
-</question>
-<question title="¿En cuál fenómeno podemos observar el elemento líquido del interior de la geosfera?" path="CS_09_03_CO_REC10_IMG07.jpg">
-<answers>
-<answer correct="1">
-<text><![CDATA[En las erupciones de magma]]></text>
-<explanation width="394"><![CDATA[<p>Es correcto.&nbsp;El magma es el elemento l&iacute;quido del interior de la Tierra que expulsan&nbsp;los volcanes o aberturas de la litosfera.</p>
+      </info>
+    </question>
+    <question title="¿En cuál fenómeno podemos observar el elemento líquido del interior de la geosfera?" path="CS_06_10_CO_REC10_IMG08.jpg">
+      <answers>
+        <answer correct="1">
+          <text><![CDATA[En las erupciones de magma]]></text>
+          <explanation width="394"><![CDATA[<p>Es correcto.&nbsp;El magma es el elemento l&iacute;quido del interior de la Tierra que expulsan&nbsp;los volcanes o aberturas de la litosfera.</p>
 ]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[En las fumarolas de los volcanes]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[En los géiseres]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-</answers>
-<info path="CS_09_03_CO_REC10_IMG08.jpg">
-<text><![CDATA[<p><strong>El magma</strong></p>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[En las fumarolas de los volcanes]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[En los géiseres]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="CS_06_10_CO_REC10_IMG09.jpg">
+        <text><![CDATA[<p><strong>El magma</strong></p>
 
 <p style="text-align: justify;">Se encuentra en el <strong>manto</strong> que est&aacute; formado por rocas y minerales m&aacute;s pesados que los de la corteza. Adem&aacute;s, en algunas zonas, las temperaturas del manto son tan elevadas que las rocas se encuentran fundidas, en estado l&iacute;quido denominado <strong>magma. </strong></p>
 ]]></text>
-</info>
-</question>
-<question title="¿En cuál capa de la atmósfera se presentan las tormentas eléctricas?" path="CS_09_03_CO_REC10_IMG09.jpg">
-<answers>
-<answer correct="1">
-<text><![CDATA[Troposfera]]></text>
-<explanation width="394"><![CDATA[<p>Es correcto.&nbsp;En la troposfera se presentan las tormentas el&eacute;ctricas.</p>
+      </info>
+    </question>
+    <question title="¿En cuál capa de la atmósfera se presentan las tormentas eléctricas?" path="CS_06_10_CO_REC10_IMG10.jpg">
+      <answers>
+        <answer correct="1">
+          <text><![CDATA[Troposfera]]></text>
+          <explanation width="394"><![CDATA[<p>Es correcto.&nbsp;En la troposfera se presentan las tormentas el&eacute;ctricas.</p>
 ]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Ionosfera]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Estratosfera]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-</answers>
-<info path="CS_09_03_CO_REC10_IMG010.jpg">
-<text><![CDATA[<p style="text-align: justify;"><strong>Las tormentas el&eacute;ctricas</strong></p>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Ionosfera]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Estratosfera]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="CS_06_10_CO_REC10_IMG011.jpg">
+        <text><![CDATA[<p style="text-align:justify"><strong>Las tormentas el&eacute;ctricas</strong></p>
 
-<p style="text-align: justify;">En la troposfera ocurren los fen&oacute;menos Meteorol&oacute;gicos. Entre el suelo y la atm&oacute;sfera hay una distribuci&oacute;n de cargas el&eacute;ctricas que implica la existencia de un campo el&eacute;ctrico cuya intensidad es de unos 0,15 kV/m, aunque puede llegar a 20 kV/m durante las tormentas. El rayo es una descarga el&eacute;ctrica que se produce en la atm&oacute;sfera.</p>
+<p style="text-align:justify">En la troposfera ocurren los fen&oacute;menos meteorol&oacute;gicos. Entre el suelo y la atm&oacute;sfera hay una distribuci&oacute;n de cargas el&eacute;ctricas que implica la existencia de un campo el&eacute;ctrico cuya intensidad es de unos 0,15 kV/m, aunque puede llegar a 20 kV/m durante las tormentas. El rayo es una descarga el&eacute;ctrica que se produce en la atm&oacute;sfera.</p>
 ]]></text>
-</info>
-</question>
-<question title="¿En cuál capa de la atmósfera se encuentra el ozono?" path="CS_09_03_CO_REC10_IMG11.jpg">
-<answers>
-<answer correct="0">
-<text><![CDATA[Ionosfera]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Exosfera]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="1">
-<text><![CDATA[Estratosfera]]></text>
-<explanation width="394"><![CDATA[<p>Es correcto. El ozono se encuentra en la parte alta de la estratosfera.</p>
+      </info>
+    </question>
+    <question title="¿En cuál capa de la atmósfera se encuentra el ozono?" path="CS_06_10_CO_REC10_IMG12.jpg">
+      <answers>
+        <answer correct="0">
+          <text><![CDATA[Ionosfera]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Exosfera]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="1">
+          <text><![CDATA[Estratosfera]]></text>
+          <explanation width="394"><![CDATA[<p>Es correcto. El ozono se encuentra en la parte alta de la estratosfera.</p>
 ]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-</answers>
-<info path="CS_09_03_CO_REC10_IMG12.jpg">
-<text><![CDATA[<p style="text-align: justify;"><strong><span style="color:#000000">El ozono</span></strong></p>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="CS_06_10_CO_REC10_IMG13.jpg">
+        <text><![CDATA[<p style="text-align:justify"><strong><span style="color:#000000">El ozono</span></strong></p>
 
-<p style="text-align: justify;">En la zona m&aacute;s alta de la <strong>estratosfera</strong> se acumula el <strong>ozono</strong>, un gas que constituye la llamada <strong>capa de ozono</strong> . El ozono es capaz de absorber gran parte de los rayos ultravioleta procedentes del Sol, que son perjudiciales para los seres vivos. Esto provoca un aumento de temperatura en esta capa, que puede llegar a los 0 &deg;C. Cuando el ozono disminuye, los rayos ultravioleta pasan a la troposfera y calientan demasiado la superficie terrestre, lo cual produce el deshielo de los glaciares y el aumento del nivel del mar.</p>
+<p style="text-align:justify">En la zona m&aacute;s alta de la <strong>estratosfera</strong> se acumula el <strong>ozono</strong>, un gas que constituye la llamada <strong>capa de ozono</strong>. El ozono es capaz de absorber gran parte de los rayos ultravioleta procedentes del Sol, que son perjudiciales para los seres vivos. Esto provoca un aumento de temperatura en esta capa, que puede llegar a los 0 &deg;C. Cuando el ozono disminuye, los rayos ultravioleta pasan a la troposfera y calientan demasiado la superficie terrestre, lo cual produce el deshielo de los glaciares y el aumento del nivel del mar.</p>
 ]]></text>
-</info>
-</question>
-<question title="¿Las aguas subterráneas son más cálidas a mayor profundidad?" path="CS_09_03_CO_REC10_IMG13.jpg">
-<answers>
-<answer correct="1">
-<text><![CDATA[SÍ]]></text>
-<explanation width="394"><![CDATA[<p>Es correcto. &nbsp;Las aguas subterr&aacute;neas se calientan a mayor profundidad.</p>
+      </info>
+    </question>
+    <question title="¿Las aguas subterráneas son más cálidas a mayor profundidad?" path="CS_06_10_CO_REC10_IMG14.jpg">
+      <answers>
+        <answer correct="1">
+          <text><![CDATA[SÍ]]></text>
+          <explanation width="394"><![CDATA[<p>Es correcto. &nbsp;Las aguas subterr&aacute;neas se calientan a mayor profundidad.</p>
 ]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[NO]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-</answers>
-<info path="CS_09_03_CO_REC10_IMG14.jpg">
-<text><![CDATA[<p style="text-align: justify;"><strong>El calor interno de la Tierra</strong></p>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[NO]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="CS_06_10_CO_REC10_IMG15.jpg">
+        <text><![CDATA[<p style="text-align: justify;"><strong>El calor interno de la Tierra</strong></p>
 
 <p style="text-align: justify;">La existencia del calor interno de la Tierra se manifiesta por el incremento de temperatura conforme aumenta la profundidad, que, por t&eacute;rmino medio, alcanza los 2,5 a&nbsp;3 &deg;C cada 100 m. Las aguas que se filtran a trav&eacute;s de las rocas y se depositan en el&nbsp;interior alcanzan temperaturas promedio de 38&deg; C.&nbsp; Son conocidas como aguas termales.</p>
 
 <p>&nbsp;</p>
 ]]></text>
-</info>
-</question>
-</questions>
+      </info>
+    </question>
+  </questions>
 </engine>

@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f1">
+  <css><![CDATA[.defaultCSSBox2 {
+	background: #000000;
+}
+.defaultCSSBox3 {
+	background: #ffffff;
+}]]></css>
+  <pantallas>
+    <pantalla id="pantalla_5">
+      <event id="onPrepare" language="DO"><![CDATA[]]></event>
+      <event id="onShown" language="DO"><![CDATA[]]></event>
+      <components>
+        <component _type="_compSlider" id="diaporama_12" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" transMode="1" />
+        <component _type="_compSliderNav" id="slidernav_11" x="45" y="526" width="162" height="37" alpha="1" visible="1" enabled="1" sliderId="diaporama_12" showHome="1" whiteButtons="1" />
+      </components>
+      <animaciones>
+      </animaciones>
+      <slider id="diaporama_12">
+        <pantalla id="pantalla_19">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compCSSBox" id="fondo_19" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_26" x="19" y="226" width="911" height="221" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:52px"><span style="font-family:verdana,geneva,sans-serif">La formaci&oacute;n del relieve:<br />
+agentes internos y externos</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_20">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compCSSBox" id="fondo_19" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_26" x="19" y="259" width="911" height="221" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:52px"><span style="font-family:verdana,geneva,sans-serif">Agentes internos</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_24">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compCSSBox" id="fondo_19" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compImage" id="image_28" x="456" y="0" width="494" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25134.jpg" />
+            <component _type="_compRichText" id="texto_26" x="113" y="40" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Terremotos</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_29">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compCSSBox" id="fondo_19" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compImage" id="image_28" x="550" y="1" width="400" height="606" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25190.jpg" />
+            <component _type="_compRichText" id="texto_26" x="113" y="40" width="432" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">La escala de Richter</span></span></span></p>
+]]></content>
+            </component>
+            <component _type="_compRichText" id="texto_25" x="114" y="142" width="292" height="149" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:28px"><span style="color:rgb(255, 255, 255)">Mide la intensidad de los terremotos.</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_33">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25199.png" />
+            <component _type="_compImage" id="image_37" x="509" y="530" width="441" height="78" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="4" alignMode="34" image="data/imagenes/image_25208.jpg" />
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_38">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25254.jpg" />
+            <component _type="_compRichText" id="texto_26" x="533" y="479" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align: right;"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Volcanes</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_42">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25301.jpg" />
+            <component _type="_compRichText" id="texto_26" x="533" y="36" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align: right;"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Volcanes</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_46">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compCSSBox" id="fondo_19" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="defaultCSSBox2" />
+            <component _type="_compRichText" id="texto_26" x="19" y="259" width="911" height="221" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:52px"><span style="font-family:verdana,geneva,sans-serif">Agentes externos</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_50">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25395.jpg" />
+            <component _type="_compRichText" id="texto_26" x="533" y="36" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:right"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Viento</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_54">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25442.jpg" />
+            <component _type="_compRichText" id="texto_26" x="533" y="480" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:right"><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Viento</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_58">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25489.jpg" />
+            <component _type="_compRichText" id="texto_26" x="533" y="36" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:right"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Mar</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_62">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25536.jpg" />
+            <component _type="_compRichText" id="texto_26" x="533" y="36" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:right"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Mar</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_66">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25583.jpg" />
+            <component _type="_compRichText" id="texto_26" x="533" y="479" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:right"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">R&iacute;os</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_70">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25630.jpg" />
+            <component _type="_compRichText" id="texto_26" x="533" y="479" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:right"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">R&iacute;os</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_74">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25677.jpg" />
+            <component _type="_compRichText" id="texto_26" x="533" y="36" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:right"><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Nieve</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_78">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25724.jpg" />
+            <component _type="_compRichText" id="texto_26" x="319" y="36" width="544" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:right"><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Aguas subterr&aacute;neas</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_82">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25772.jpg" />
+            <component _type="_compRichText" id="texto_26" x="533" y="479" width="330" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:right"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Vegetaci&oacute;n</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_86">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25820.jpg" />
+            <component _type="_compRichText" id="texto_26" x="480" y="479" width="383" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:right"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Animales</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+        <pantalla id="pantalla_90">
+          <event id="onPrepare" language="DO"><![CDATA[]]></event>
+          <event id="onShown" language="DO"><![CDATA[]]></event>
+          <components>
+            <component _type="_compImage" id="image_28" x="0" y="0" width="950" height="608" alpha="1" visible="1" enabled="1" cssClass="" adjustMode="1" alignMode="0" image="data/imagenes/image_25867.jpg" />
+            <component _type="_compCSSBox" id="fondo_20" x="558" y="49" width="319" height="57" alpha="0.5" visible="1" enabled="1" cssClass="defaultCSSBox3" />
+            <component _type="_compRichText" id="texto_26" x="319" y="36" width="544" height="96" alpha="1" visible="1" enabled="1" scrollable="1">
+              <content><![CDATA[<p style="text-align:right"><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">El ser humano</span></span></span></p>
+]]></content>
+            </component>
+          </components>
+          <animaciones>
+          </animaciones>
+        </pantalla>
+      </slider>
+    </pantalla>
+  </pantallas>
+  <popups>
+  </popups>
+</engine>
