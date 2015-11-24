@@ -1,5 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<engine title="Análisis del relieve de América" copy="Editorial Planeta" version="1" aprid="F13">
-  <section title="Presentación" path="medias/section0.jpg" image1Text="" zoom1="true" zoom2a="false" zoom2b="false" layout="0"><![CDATA[<TextFlow><p><span>Los movimientos de las placas tectónicas que se producen desde hace millones de años explican la formación del relieve.</span></p><p><span></span></p><p><span>Para analizar el relieve de un territorio podemos partir de una imagen aérea donde visualizar los principales accidentes geográficos.</span></p><p><span></span></p><p><span fontSize="12" fontWeight="bold">El objetivo de esta práctica es que entiendas las características del relieve americano y lo puedas comparar con el de otros continentes. </span></p><p><span></span></p><p><span>Antes de empezar la actividad y, para hacer un breve repaso a los conceptos clave, responde las siguientes preguntas:</span></p><p><span></span></p><p paragraphStartIndent="20" styleName="bullet"><span>¿Qué es el relieve? </span></p><p paragraphStartIndent="20" styleName="bullet"><span>¿Qué elementos lo caracterizan?</span></p><p paragraphStartIndent="20" styleName="bullet"><span>¿Qué elementos básicos definen relieve americano?</span></p><p><span></span></p></TextFlow>]]></section>
-  <section title="Tarea" path="medias/section1.jpg" image1Text="" zoom1="true" zoom2a="false" zoom2b="false" layout="0"><![CDATA[<TextFlow><p><span>Para realizar la práctica sigue estos pasos.</span></p><p><span></span></p><p><span fontSize="12" fontWeight="bold">Material:</span></p><p><span fontSize="12" fontWeight="bold"></span></p><p paragraphStartIndent="20" styleName="bullet"><span>La imagen que te proporcionamos a continuación.</span></p><p paragraphStartIndent="20" styleName="bullet"><span>Un rotulador.</span></p><p paragraphStartIndent="20" styleName="bullet"><span>Una imagen de cada continente. </span></p><p><span></span></p><p><span fontSize="12" fontWeight="bold"> Procedimiento:</span></p><p><span></span></p><p><span>1º. Identifica los elementos que se observan en la imagen que definan el relieve. </span></p><p><span></span></p><p><span>2º. Marca los principales accidentes geográficos con un rotulador. </span></p><p><span></span></p><p><span>3º. Crea una leyenda que sintetice cada tipo de accidentes.</span></p><p><span></span></p><p><span>4º. Escribe las características principales de cada elemento que señales. </span></p><p><span></span></p><p><span>5º. Busca una imagen aérea de otro continente y realiza las mismas tareas.</span></p><p><span></span></p><p><span>6º. Compara las características que observas en las dos imágenes.</span></p><p><span></span></p><p><span>Finalmente, sintetiza la información obtenida y redacta unas líneas sobre las características del relieve americano, contrastándolas con las del otro continente que hayas elegido.</span></p><p><span></span></p></TextFlow>]]></section>
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f13" title="Análisis del relieve de América" >
+<section title="Presentación" path="CS_06_10_CO_REC180_IMG01n.jpg" pathAmp="CS_06_10_CO_REC180_IMG01a.jpg" image1Text="" zoom1="true" zoom2a="false" zoom2b="false" layout="0" >
+<![CDATA[<p>Los movimientos de las placas tect&oacute;nicas que se producen desde hace millones de a&ntilde;os explican la formaci&oacute;n del relieve.</p>
+
+<p>Para analizar el relieve de un territorio podemos partir de una imagen a&eacute;rea donde se vean los principales accidentes geogr&aacute;ficos.</p>
+
+<p><strong>El objetivo de esta pr&aacute;ctica es que entiendas las caracter&iacute;sticas del relieve americano y lo puedas comparar con el de otros continentes. </strong></p>
+
+<p>Antes de empezar la actividad y, para hacer un breve repaso a los conceptos clave, responde las siguientes preguntas:</p>
+
+<ul>
+	<li>&iquest;Qu&eacute; es el relieve?</li>
+</ul>
+
+<ul>
+	<li>&iquest;Qu&eacute; elementos lo caracterizan?</li>
+</ul>
+
+<ul>
+	<li>&iquest;Qu&eacute; elementos b&aacute;sicos definen relieve americano?</li>
+</ul>
+]]></section>
+<section title="Tarea" path="CS_06_10_CO_REC180_IMG02n.jpg" pathAmp="CS_06_10_CO_REC180_IMG02a.jpg" image1Text="" zoom1="true" zoom2a="false" zoom2b="false" layout="0" >
+<![CDATA[<p><span>Para realizar la práctica sigue estos pasos.</span></p><p><span style="font-weight: bold; ">Material:</span></p><ul><li><span>La imagen que te proporcionamos a continuación.</span></li></ul><ul><li><span>Un rotulador.</span></li></ul><ul><li><span>Una imagen de cada continente. </span></li></ul><p><span style="font-weight: bold; "> Procedimiento:</span></p><p><span>1º. Identifica los elementos que se observan en la imagen que definan el relieve. </span></p><p><span>2º. Marca los principales accidentes geográficos con un rotulador. </span></p><p><span>3º. Crea una leyenda que sintetice cada tipo de accidentes.</span></p><p><span>4º. Escribe las características principales de cada elemento que señales. </span></p><p><span>5º. Busca una imagen aérea de otro continente y realiza las mismas tareas.</span></p><p><span>6º. Compara las características que observas en las dos imágenes.</span></p><p><span>Finalmente, sintetiza la información obtenida y redacta unas líneas sobre las características del relieve americano, contrastándolas con las del otro continente que hayas elegido.</span></p>]]></section>
 </engine>
