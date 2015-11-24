@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMLDatos aprid="F">
+  <titolintro><![CDATA[Los contendientes de la Segunda Guerra Mundial]]></titolintro>
+  <textbtn1><![CDATA[Potencias del Eje]]></textbtn1>
+  <textbtn2><![CDATA[Potencias aliadas]]></textbtn2>
+  <!-- Escena 1 -->
+  <titol1><![CDATA[Las potencias del Eje]]></titol1>
+  <p1><![CDATA[Alemania antes de la guerra]]></p1>
+  <texto1><![CDATA[<ul><li>Proyecto <span class="negrita">pangermanista</span>.</li><li>Creación de un <span class="negrita">espacio vital</span>. 
+  Invasión de territorios de
+  Europa central.</li><li>Política exterior agresiva.</li></ul>]]></texto1>
+  <p2><![CDATA[Alemania durante la guerra]]></p2>
+  <texto2><![CDATA[<ul><li><span class="negrita">Ocupación</span> de la mayor parte de Europa:
+<ul><li>· Polonia.</li><li>· Dinamarca y Noruega.</li><li>· Francia, Bélgica y Países Bajos.</li></ul></li><li>Superioridad armamentística</li><li>Frente occidental: <span class="negrita">guerra-relámpago</span>.</li><li>Frente oriental: guerra contra la <span class="negrita">URSS</span>.</li></ul>]]></texto2>
+  <p3><![CDATA[Italia antes de la guerra]]></p3>
+  <texto3><![CDATA[<ul><li><span class="negrita">Aspiraciones territoriales</span> insatisfechas 
+   tras la firma de la paz en 1919.</li><li>Triunfo del <span class="negrita">fascismo</span>.</li><li>Llegada de <span class="negrita">Mussolini</span> al poder.</li></ul>]]></texto3>
+  <p4><![CDATA[Italia durante la guerra]]></p4>
+  <texto4><![CDATA[<ul><li>Papel secundario.</li><li><span class="negrita">Derrotas</span> en África y en el Mediterráneo. </li><li>Necesidad del <span class="negrita">apoyo alemán</span>.</li><li>Cambio de bando en 1943.]]></texto4>
+  <p5><![CDATA[Japón antes de la guerra]]></p5>
+  <texto5><![CDATA[<ul><li>Pugna por el <span class="negrita">control de Asia</span> con <span class="negrita">Rusia</span>.</li><li><span class="negrita">Política expansionista</span> sobre China.</li><li>Ocupación de <span class="negrita">Manchuria</span>.</li></ul>]]></texto5>
+  <p6><![CDATA[Japón durante la guerra]]></p6>
+  <texto6><![CDATA[<ul><li>Conquista del <span class="negrita">sudeste asiático </span>  (Indonesia, Myanmar, Singapur, Hong Kong y Malasia).</li><li>Conquista de los archipiélagos 
+  del <span class="negrita">Pacífico</span>.</li></ul>]]></texto6>
+  <!-- Escena 2 -->
+  <titol2_1><![CDATA[Las potencias aliadas]]></titol2_1>
+  <p7><![CDATA[Reino Unido]]></p7>
+  <texto2_1><![CDATA[<ul><li>Fracaso de la <span class="negrita">política de 
+  apaciguamiento</span>.</li><li><span class="negrita">Batalla de Inglaterra</span> (1940).</li><li>Ataques conjuntos con EE.UU. sobre  Alemania.</li></ul>]]></texto2_1>
+  <titolanimacio><![CDATA[Bombardeos sobre Reino Unido]]></titolanimacio>
+  <textanimacio><![CDATA[Toneladas de bombas]]></textanimacio>
+  <p8><![CDATA[Francia]]></p8>
+  <texto2_3><![CDATA[Batalla de Francia (junio de 1940). 
+  División del país en:<ul><li>Zona ocupada (norte): <span class="negrita">De Gaulle</span> 
+    actúa desde Londres.</li><li>Zona libre: <span class="negrita">régimen de Vichy</span>, 
+    aliado de Hitler.</li><li>Aparición de <span class="negrita">grupos clandestinos</span> 
+    de <span class="negrita">resistencia antinazi</span>.</li></ul>]]></texto2_3>
+  <p9><![CDATA[Estados Unidos]]></p9>
+  <texto2_4><![CDATA[<ul><li>Ataque japonés a <span class="negrita">Pearl Harbor</span> 
+  (1941). Entrada de EE.UU. en la guerra.</li><li>Pugna por el <span class="negrita">control del Pacífico</span> con   Japón.</li><li>Lucha contra el <span class="negrita">fascismo</span> en Europa.</li></ul>]]></texto2_4>
+  <p10><![CDATA[Estados Unidos en la guerra]]></p10>
+  <texto2_5><![CDATA[<ul><li>Conquista de <span class="negrita">Sicilia</span> (1943).</li><li>Desembarco de <span class="negrita">Normandía</span> (1944). </li><li>Uso de la <span class="negrita">bomba atómica</span> contra 
+  Japón (1945).</li></ul>]]></texto2_5>
+  <p11><![CDATA[URSS]]></p11>
+  <texto2_6><![CDATA[<ul><li>Pretensiones sobre <span class="negrita">Europa del Este</span>.</li><li>Freno al intento de <span class="negrita">invasión nazi</span>.</li><li>Defensa del <span class="negrita">frente oriental.</span></li><li>Liberación de <span class="negrita">Berlín</span>.</li></ul>]]></texto2_6>
+</XMLDatos>

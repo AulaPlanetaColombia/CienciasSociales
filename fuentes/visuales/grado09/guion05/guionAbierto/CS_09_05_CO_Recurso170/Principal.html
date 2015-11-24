@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Cronología: la Segunda Guerra Mundial</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+
+        <script src="extlib/createjs/2013_12_12/createjs-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/movieclip-0-7-1-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/zoom.js"></script>
+        <script src="js/principal.js"></script>
+
+        <script>
+            var canvas, stage, exportRoot, incremento,popupon;
+            window.onresize = function ()
+            {
+                onResize();
+            }
+            
+
+            function init() {
+
+                canvas = document.getElementById("canvas");
+                images = images || {};
+                if (navigator.userAgent.toLowerCase().indexOf("firefox") == -1)
+                    incremento = 0;
+                else
+                    incremento = 4;
+                var manifest = [
+		{src:"images/_0001F001.jpg", id:"_0001F001"},
+		{src:"images/_0001F001_1.jpg", id:"_0001F001_1"},
+		{src:"images/_0008ZP01_OPT.jpg", id:"_0008ZP01_OPT"},
+		{src:"images/_0009C701_OPT.jpg", id:"_0009C701_OPT"},
+		{src:"images/_0009DZ01_Min.jpg", id:"_0009DZ01_Min"},
+		{src:"images/_0009DZ01_OPT.jpg", id:"_0009DZ01_OPT"},
+		{src:"images/_0009TD01.jpg", id:"_0009TD01"},
+		{src:"images/_0009XI01_Min.jpg", id:"_0009XI01_Min"},
+		{src:"images/_0009XI01_OPT.jpg", id:"_0009XI01_OPT"},
+		{src:"images/_000F5O01_OPT.jpg", id:"_000F5O01_OPT"},
+		{src:"images/_000G8001_Min.jpg", id:"_000G8001_Min"},
+		{src:"images/_000G8001_OPT.jpg", id:"_000G8001_OPT"},
+		{src:"images/_000G8H01.jpg", id:"_000G8H01"},
+		{src:"images/_000IVK01_OPT.jpg", id:"_000IVK01_OPT"},
+		{src:"images/_000K8O01_Min.jpg", id:"_000K8O01_Min"},
+		{src:"images/_000K8O01_OPT.jpg", id:"_000K8O01_OPT"},
+		{src:"images/_000LBV01_OPT.jpg", id:"_000LBV01_OPT"},
+		{src:"images/_000YH801.jpg", id:"_000YH801"},
+		{src:"images/_000YH801_1.jpg", id:"_000YH801_1"},
+		{src:"images/_0016X201.jpg", id:"_0016X201"},
+		{src:"images/_0016X201_ok.jpg", id:"_0016X201_ok"},
+		{src:"images/_0016XK01.jpg", id:"_0016XK01"},
+		{src:"images/_0016YT01.jpg", id:"_0016YT01"},
+		{src:"images/_0017FB01.jpg", id:"_0017FB01"},
+		{src:"images/_0019NT01_OPT.jpg", id:"_0019NT01_OPT"},
+		{src:"images/_001CJP01.jpg", id:"_001CJP01"},
+		{src:"images/_001OWQ01.jpg", id:"_001OWQ01"},
+		{src:"images/_001RJT01.jpg", id:"_001RJT01"},
+		{src:"images/_001RJT01_1.jpg", id:"_001RJT01_1"},
+		{src:"images/_002C3K01_OPT.jpg", id:"_002C3K01_OPT"},
+		{src:"images/_002C6101_OPT.jpg", id:"_002C6101_OPT"},
+		{src:"images/_002C6801_Min.jpg", id:"_002C6801_Min"},
+		{src:"images/_002C6801_OPT.jpg", id:"_002C6801_OPT"},
+		{src:"images/_002C6G01_OPT.jpg", id:"_002C6G01_OPT"},
+		{src:"images/_002C7X01_OPT.jpg", id:"_002C7X01_OPT"},
+		{src:"images/_002F4U01.jpg", id:"_002F4U01"},
+		{src:"images/constituci_n002.jpg", id:"constituci_n002"},
+		{src:"images/CS_10_10_081.jpg", id:"CS_10_10_081"},
+		{src:"images/CS_10_10_081_1.jpg", id:"CS_10_10_081_1"},
+		{src:"images/CS_10_10_082.jpg", id:"CS_10_10_082"},
+		{src:"images/CS_10_10_082_1.jpg", id:"CS_10_10_082_1"},
+		{src:"images/CS_10_10_083.jpg", id:"CS_10_10_083"},
+		{src:"images/CS_10_10_083_1.jpg", id:"CS_10_10_083_1"},
+		{src:"images/CS_10_10_084.jpg", id:"CS_10_10_084"},
+		{src:"images/CS_10_10_084_1.jpg", id:"CS_10_10_084_1"},
+		{src:"images/Mapadebits1.png", id:"Mapadebits1"},
+		{src:"images/Mapadebits10.png", id:"Mapadebits10"},
+		{src:"images/Mapadebits11.png", id:"Mapadebits11"},
+		{src:"images/Mapadebits12.png", id:"Mapadebits12"},
+		{src:"images/Mapadebits13.png", id:"Mapadebits13"},
+		{src:"images/Mapadebits14.png", id:"Mapadebits14"},
+		{src:"images/Mapadebits15.png", id:"Mapadebits15"},
+		{src:"images/Mapadebits16.png", id:"Mapadebits16"},
+		{src:"images/Mapadebits17.png", id:"Mapadebits17"},
+		{src:"images/Mapadebits18.png", id:"Mapadebits18"},
+		{src:"images/Mapadebits19.png", id:"Mapadebits19"},
+		{src:"images/Mapadebits2.png", id:"Mapadebits2"},
+		{src:"images/Mapadebits20.png", id:"Mapadebits20"},
+		{src:"images/Mapadebits21.png", id:"Mapadebits21"},
+		{src:"images/Mapadebits22.png", id:"Mapadebits22"},
+		{src:"images/Mapadebits23.png", id:"Mapadebits23"},
+		{src:"images/Mapadebits24.png", id:"Mapadebits24"},
+		{src:"images/Mapadebits3.png", id:"Mapadebits3"},
+		{src:"images/Mapadebits4.png", id:"Mapadebits4"},
+		{src:"images/Mapadebits5.png", id:"Mapadebits5"},
+		{src:"images/Mapadebits6.png", id:"Mapadebits6"},
+		{src:"images/Mapadebits7.png", id:"Mapadebits7"},
+		{src:"images/Mapadebits8.png", id:"Mapadebits8"},
+		{src:"images/Mapadebits9.png", id:"Mapadebits9"},                ];
+
+                var loader = new createjs.LoadQueue(false);
+                loader.addEventListener("fileload", handleFileLoad);
+                loader.addEventListener("complete", handleComplete);
+                loader.loadManifest(manifest);
+                loadXML();
+            }
+
+            function handleFileLoad(evt) {
+                if (evt.item.type == "image") {
+                    images[evt.item.id] = evt.result;
+                }
+            }
+            function putStage(myStage) {
+
+                if (exportRoot) {
+                    exportRoot.removeAllChildren();
+                }
+                exportRoot = myStage;
+                stage = new createjs.Stage(canvas);
+                stage.clear();
+                createjs.Ticker.removeAllEventListeners();
+                stage.autoClear = true; // This must be true to clear the stage.
+                stage.removeAllChildren();
+
+                stage.addChild(exportRoot);
+                stage.update();
+                stage.enableMouseOver();
+                onResize();
+                createjs.Ticker.setFPS(24);
+                createjs.Ticker.addEventListener("tick", stage);
+            }
+            function handleComplete() {
+                var child = document.getElementById("loading");
+                if (child != null)
+                    child.parentNode.removeChild(child);
+                putStage(new lib.frame1())
+
+            }
+            function loadXML() {
+                xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("GET", "data/datos.xml", false);
+                xmlhttp.send();
+                xmlDoc = xmlhttp.responseXML;
+                x = xmlDoc.getElementsByTagName("XMLDatos")[0].childNodes;
+                y = xmlDoc.getElementsByTagName("XMLDatos")[0].firstChild;
+                for (i = 0; i < x.length; i++)
+                {
+                    if (y.nodeType == 1)
+                    {//Process only element nodes (type 1)
+                        j = xmlDoc.getElementsByTagName(y.nodeName)[0].childNodes[0]
+                        textos[y.nodeName] = j.nodeValue;
+                    }
+                    y = y.nextSibling;
+                }
+            }
+        </script>
+    </head>
+
+    <body onload="init();" onorientationchange="onResize();" style="background-color:#FFFFFF" ><div id="loading" align="center" style="position: absolute;top:50%;left:50%;width:400px;margin-left:-200px;height:300px;margin-top:-150px;" ><img src="images/status.gif"/></div>
+        <canvas id="canvas" width="950" height="608" style="background-color:transparent"></canvas>
+    </body>
+</html>

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Los contendientes</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+
+        <script src="extlib/createjs/2013_12_12/createjs-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/movieclip-0-7-1-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/zoom.js"></script>
+        <script src="js/principal.js"></script>
+        
+
+        <script>
+            var canvas, stage, exportRoot, incremento,popupon;
+            window.onresize = function ()
+            {
+                onResize();
+            }
+                                   
+            
+            function init() {
+                canvas = document.getElementById("canvas");
+                images = images || {};
+                if (navigator.userAgent.toLowerCase().indexOf("firefox") == -1)
+                    incremento = 0;
+                else
+                    incremento = 4;
+                var manifest = [
+                    {src: "images/_0009C701.jpg", id: "_0009C701"},
+                    {src: "images/_0009XI01.jpg", id: "_0009XI01"},
+                    {src: "images/_000G7J01.jpg", id: "_000G7J01"},
+                    {src: "images/_000G8001.jpg", id: "_000G8001"},
+                    {src: "images/_000K8T01.jpg", id: "_000K8T01"},
+                    {src: "images/_000K8Y01.jpg", id: "_000K8Y01"},
+                    {src: "images/_000UCU01.jpg", id: "_000UCU01"},
+                    {src: "images/_002C3001.jpg", id: "_002C3001"},
+                    {src: "images/_002C6101.jpg", id: "_002C6101"},
+                    {src: "images/_002C6G01.jpg", id: "_002C6G01"},
+                    {src: "images/_002C7X01.jpg", id: "_002C7X01"},
+                    {src: "images/_002C8501.jpg", id: "_002C8501"},
+                    {src: "images/Bomba.png", id: "Bomba"},
+                    {src: "images/Diapositiva1.jpg", id: "Diapositiva1"},
+                    {src: "images/EEUU.png", id: "EEUU"},
+                    {src: "images/esvastica_negre.png", id: "esvastica_negre"},
+                    {src: "images/FlashAICBActivos.png", id: "FlashAICBActivos"},
+                    {src: "images/FR.png", id: "FR"},
+                    {src: "images/GB.png", id: "GB"},
+                    {src: "images/Italia.png", id: "Italia"},
+                    {src: "images/Japon.png", id: "Japon"},
+                    {src: "images/Japon_1.png", id: "Japon_1"},
+                    {src: "images/Mapadebits24.png", id: "Mapadebits24"},
+                    {src: "images/Nazi.png", id: "Nazi"},
+                    {src: "images/shutterstock_13421593.jpg", id: "shutterstock_13421593"},
+                    {src: "images/URRS.png", id: "URRS"}
+                ];
+
+                var loader = new createjs.LoadQueue(false);
+                loader.addEventListener("fileload", handleFileLoad);
+                loader.addEventListener("complete", handleComplete);
+                loader.loadManifest(manifest);
+                loadXML();
+            }
+
+            function handleFileLoad(evt) {
+                if (evt.item.type == "image") {
+                    images[evt.item.id] = evt.result;
+                }
+            }
+            function putStage(myStage) {
+
+                if (exportRoot) {
+                    exportRoot.removeAllChildren();
+                }
+                exportRoot = myStage;
+                stage = new createjs.Stage(canvas);
+                stage.clear();
+                createjs.Ticker.removeAllEventListeners();
+                stage.autoClear = true; // This must be true to clear the stage.
+                stage.removeAllChildren();
+
+                stage.addChild(exportRoot);
+                stage.update();
+                stage.enableMouseOver();
+                onResize();
+                createjs.Ticker.setFPS(24);
+                createjs.Ticker.addEventListener("tick", stage);
+            }
+            function handleComplete() {
+                var child = document.getElementById("loading");
+                if (child != null)
+                    child.parentNode.removeChild(child);
+                putStage(new lib.frame1())
+
+            }
+            function loadXML() {
+                xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("GET", "data/datos.xml", false);
+                xmlhttp.send();
+                xmlDoc = xmlhttp.responseXML;
+                x = xmlDoc.getElementsByTagName("XMLDatos")[0].childNodes;
+                y = xmlDoc.getElementsByTagName("XMLDatos")[0].firstChild;
+                for (i = 0; i < x.length; i++)
+                {
+                    if (y.nodeType == 1)
+                    {//Process only element nodes (type 1)
+                        j = xmlDoc.getElementsByTagName(y.nodeName)[0].childNodes[0]
+                        textos[y.nodeName] = j.nodeValue;
+                    }
+                    y = y.nextSibling;
+                }
+            }
+        </script>
+    </head>
+
+    <body onload="init();" onorientationchange="onResize();" style="background-color:#FFFFFF" ><div id="loading" align="center" style="position: absolute;top:50%;left:50%;width:400px;margin-left:-200px;height:300px;margin-top:-150px;" ><img src="images/status.gif"/></div>
+        <canvas id="canvas" width="950" height="608" style="background-color:#FFFFFF"></canvas>
+    </body>
+</html>
