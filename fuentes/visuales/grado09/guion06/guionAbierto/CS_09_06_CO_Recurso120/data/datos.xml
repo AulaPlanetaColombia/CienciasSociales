@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Entiende la guerra de Vietnam</titulo>
+    <area>2</area>
+    <nivel>3</nivel>
+    <referencia><![CDATA[CS_10_10_06]]></referencia>
+    <idreg><![CDATA[241]]></idreg>
+    <motor><![CDATA[M5B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Después de ver el video sobre la guerra de Vietnam, responde a las preguntas.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué relación había entre la guerra de Vietnam y la guerra de Indochina?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002050_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="La primera fue consecuencia de la segunda." correcta="1" />
+        <respuesta contestacion="La segunda fue consecuencia de la primera." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue la verdadera razón que llevó a Estados Unidos a combatir en Vietnam?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002050_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Las riquezas minerales del país." correcta="1" />
+        <respuesta contestacion="La voluntad de frenar la expansión comunista." correcta="0" />
+        <respuesta contestacion="El tratado de amistad con el gobierno de Francia." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién era Hô Chi Minh?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002050_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="El líder comunista de Vietnam del Norte." correcta="1" />
+        <respuesta contestacion="El líder comunista de Vietnam del Sur." correcta="0" />
+        <respuesta contestacion="El líder comunista de Indochina." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué condición se debía dar, según los acuerdos de Ginebra de 1954, para que Vietnam pudiese ser reunificado tras su división?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002050_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Debían convocarse elecciones." correcta="1" />
+        <respuesta contestacion="Debía aceptarse la tutela de Estados Unidos." correcta="0" />
+        <respuesta contestacion="El Vietcong debía ser destruido." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué era el Vietcong?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002050_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="La guerrilla comunista de Vietnam del Norte." correcta="1" />
+        <respuesta contestacion="El contingente militar estadounidense enviado a Vietnam." correcta="0" />
+        <respuesta contestacion="El gobierno revolucionario de Saigón." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué presidente estadounidense decidió enviar un gran número de combatientes a Vietnam para luchar contra las guerrillas comunistas?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002050_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Lyndon B. Johnson" correcta="1" />
+        <respuesta contestacion="John F. Kennedy" correcta="0" />
+        <respuesta contestacion="Richard Nixon" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuántos soldados envió Estados Unidos a Vietnam?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002050_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="500.000" correcta="1" />
+        <respuesta contestacion="50.000" correcta="0" />
+        <respuesta contestacion="100.000" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cómo reaccionó la sociedad estadounidense ante la guerra en la que su gobierno se había involucrado?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002050_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Hubo grandes manifestaciones y deserciones en masa." correcta="1" />
+        <respuesta contestacion="El gobierno contó con un gran apoyo social hasta el final." correcta="0" />
+        <respuesta contestacion="El conflicto fue visto como algo ajeno a su día a día." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué fecha Estados Unidos retiró sus tropas de Vietnam?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002050_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="1975" correcta="1" />
+        <respuesta contestacion="1966" correcta="0" />
+        <respuesta contestacion="1954" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles fueron los dos grandes obstáculos al avance estadounidense durante la guerra de Vietnam?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002050_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="El Vietcong y la selva." correcta="1" />
+        <respuesta contestacion="Hô Chi Minh y las autoridades indochinas." correcta="0" />
+        <respuesta contestacion="Hô Chi Minh y las brigadas francesas." correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

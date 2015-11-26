@@ -2,7 +2,6 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="CS_09_06_CO">
 <libroTitulo>El mundo después de la Segunda Guerra Mundial</libroTitulo>
 <seccion1 id="S1_CS_09_06_CO_A33612455BDE4EDBA1F72E3F4AD30D11">
@@ -365,7 +364,7 @@ apoyo a las <negrita>políticas de represión de los dictadores</negrita
 </destacadoTexto></destacado><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso100&amp;IdRecurso=RES-FCAFEB1EF0794116878BEF4CA246775C"
->Recurso M1B-02</enlace>
+>Las guerras de la Guerra Fría</enlace>
 </practica><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso110&amp;IdRecurso=RES-056416DA89724A168FE2D8534CBAA068"
@@ -620,7 +619,7 @@ En 1956 fueron aplastadas las <negrita>revueltas de Polonia</negrita
 <p>En 1968 el régimen checoslovaco trató de impulsar la apertura del
 país y la democratización del régimen. Sin embargo, el 20 de agosto
 de 1968 los tanques soviéticos aplastaron aquel intento que se conoció
-como la <negrita>Primavera de Praga</negrita>.</p><?Pub Caret -2?>
+como la <negrita>Primavera de Praga</negrita>.</p>
 </imagen>
 <p>En la década de 1980, el sistema soviético parecía agotado. En
 1985 <negrita>Mijaíl Gorbachov</negrita> accedió al poder y puso en
@@ -742,7 +741,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso210&amp;IdRecurso=RES-2FC7DF
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso220&amp;IdRecurso=RES-FBD7DC48760B4DE5876A051EA0768E75"
 >Competencias: estudio sobre la crisis del petróleo de 1973</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso230&amp;IdRecurso=RES-55C6EBE389824765A466E7AAF4164703"
 >Proyecto: análisis de los efectos de la descolonización</enlace>
@@ -762,9 +760,11 @@ en la que se ofrece información sobre este conflicto y el periodo
 conocido como Guerra Fría, ofrecida por el Proyectos Kairós, del Instituto
 Nacional de Tecnologías Educativas y de Formación del Profesorado
 (Ministerio de Educación, Cultura y Deporte).</enlace>
-<enlace>La caída del bloque de Este, especial del periódico El Ideal.</enlace>
+<enlace
+destino="http://especiales.ideal.es/caida-bloque-este/guerra-fria/guerra-fria.html"
+>La caída del bloque de Este, especial del periódico El Ideal.</enlace>
 <enlace destino="http://www.historiasiglo20.org/GF/descolonizacion.htm"
 >La descolonización, material diverso para poder comprender las claves
 del proceso de descolonización vivido en África y Asia ofrecido por
-la página HistoriaSiglo20.</enlace>
+la página HistoriaSiglo20.</enlace><?Pub Caret 16?>
 </enlacesreferencia></masinformacion></libro>

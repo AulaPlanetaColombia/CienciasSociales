@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Descubre la China comunista</titulo>
+    <area>2</area>
+    <nivel>3</nivel>
+    <referencia><![CDATA[CS_10_10_07]]></referencia>
+    <idreg><![CDATA[243]]></idreg>
+    <motor><![CDATA[M5B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Después de ver el video sobre la República Popular China desde sus orígenes hasta la década de 1990, responde a las preguntas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[¿Quién fue el personaje más importante de la historia de la República Popular de China desde 1941?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI010490_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Mao Zedong" correcta="1"/>
+        <respuesta contestacion="Deng Xiaoping" correcta="0"/>
+        <respuesta contestacion="Tian'anmen" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién impulsó la revolución cultural en 1966?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI010490_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Mao Zedong" correcta="1"/>
+        <respuesta contestacion="Deng Xiaoping" correcta="0"/>
+        <respuesta contestacion="Tian'anmen" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quiénes formaban la Guardia Roja, surgida durante la revolución cultural proletaria?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI010490_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Estudiantes universitarios, seguidores de Mao." correcta="1"/>
+        <respuesta contestacion="Intelectuales y campesinos chinos." correcta="0"/>
+        <respuesta contestacion="Jóvenes dirigentes comunistas, seguidores de Deng." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles fueron las transformaciones más importantes que se dieron en la economía durante el gobierno de Mao Zedong?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI010490_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Distribución de tierras e impulso a la industria pesada." correcta="1"/>
+        <respuesta contestacion="Aperturismo y creación de zonas de economía capitalista." correcta="0"/>
+        <respuesta contestacion="Colectivizaciones agrarias y creación de industrias ligeras." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué momento Mao Zedong dejó de participar en la vida política china?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI010490_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="1976" correcta="1"/>
+        <respuesta contestacion="1966" correcta="0"/>
+        <respuesta contestacion="1959" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién se puso al frente de la República Popular China en 1976?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI010490_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Deng Xiaoping" correcta="1"/>
+        <respuesta contestacion="Mao Zedong" correcta="0"/>
+        <respuesta contestacion="Tian'anmen" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue el aspecto más destacado del nuevo modelo económico planteado por Deng Xiaoping?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI010490_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Se permitieron zonas de economía capitalista." correcta="1"/>
+        <respuesta contestacion="Se orientó la producción agraria hacia la exportación." correcta="0"/>
+        <respuesta contestacion="Se impulsó el desarrollo de la industria pesada." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién desalojó de forma violenta a los jóvenes chinos acampados en la plaza de Tian'anmen?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI010490_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="El ejército chino." correcta="1"/>
+        <respuesta contestacion="La Guardia Roja." correcta="0"/>
+        <respuesta contestacion="La policía pekinesa." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles fueron las dos colonias europeas que retornaron a China a finales de la década de 1990?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI010490_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Hong Kong (1997) y Macao (1999)." correcta="1"/>
+        <respuesta contestacion="Phnom Penh (1997) y Taiwan (1999)." correcta="0"/>
+        <respuesta contestacion="Taiwan (1997) y Macao (1999)." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué reclamaban los jóvenes manifestantes de la plaza de Tian'anmen?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI010490_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="La democratización de la política china." correcta="1"/>
+        <respuesta contestacion="Un retorno a la ortodoxia maoísta." correcta="0"/>
+        <respuesta contestacion="Un retorno a los ideales de la ''revolución cultural''." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>
