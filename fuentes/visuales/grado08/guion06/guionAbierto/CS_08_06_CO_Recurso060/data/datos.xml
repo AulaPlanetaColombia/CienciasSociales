@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Aproxímate al asociacionismo obrero</titulo>
+    <area>1</area>
+    <nivel>2</nivel>
+    <referencia><![CDATA[CS_10_04_05]]></referencia>
+    <idreg><![CDATA[645]]></idreg>
+    <motor><![CDATA[M5B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde a las preguntas después de ver el video sobre el nacimiento y la evolución del movimiento obrero durante el siglo XIX.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado><![CDATA[¿Con qué fin nació el movimiento obrero?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002014_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Para defender los intereses de los trabajadores ante la patronal." correcta="1" />
+        <respuesta contestacion="Para controlar a los trabajadores dentro de la fábrica." correcta="0" />
+        <respuesta contestacion="Para poner de acuerdo a trabajadores y empresarios." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Dónde nació el movimiento obrero?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002014_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="En Reino Unido." correcta="1" />
+        <respuesta contestacion="En Alemania." correcta="0" />
+        <respuesta contestacion="En Francia." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué nombre recibieron las primeras organizaciones sindicales?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002014_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="{{cur}}Trade unions{{normal}}" correcta="1" />
+        <respuesta contestacion="{{cur}}Work unions{{normal}}" correcta="0" />
+        <respuesta contestacion="{{cur}}British workers unions{{normal}}" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál fue uno de los hitos más destacados en la historia del asociacionismo obrero?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002014_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="La formación de la Asociación Internacional de Trabajadores." correcta="1" />
+        <respuesta contestacion="La creación del Sindicato Internacional del Trabajo." correcta="0" />
+        <respuesta contestacion="El nacimiento de la Organización Mundial del Trabajo." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué fecha se creó la Primera Internacional?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002014_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="1864" correcta="1" />
+        <respuesta contestacion="1840" correcta="0" />
+        <respuesta contestacion="1890" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué fecha surgieron en España las primeras asociaciones obreras?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002014_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="1840" correcta="1" />
+        <respuesta contestacion="1821" correcta="0" />
+        <respuesta contestacion="1864" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuándo se manifestaron los obreros españoles por primera vez?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002014_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="1821" correcta="1" />
+        <respuesta contestacion="1864" correcta="0" />
+        <respuesta contestacion="1840" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué fecha se estableció en España el descanso dominical de los trabajadores?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[VI002014_CO_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="A comienzos del siglo XX." correcta="1" />
+        <respuesta contestacion="En el último tercio del siglo XX." correcta="0" />
+        <respuesta contestacion="A partir de 1910." correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

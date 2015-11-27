@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="d" aprid="m5d">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>El feminismo en Europa y las mujeres del siglo XIX</titulo>
+    <area>0</area>
+    <nivel>3</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5D]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Contesta las siguientes preguntas con referencia a los textos correspondientes]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[De acuerdo con el texto, la liberación femenina significa: ]]></enunciado>
+      <explicacion><![CDATA[El texto plantea las principales denuncias del movimiento feminista y afirma que su propósito es la liberación de la opresión masculina. Ello supone igualdad de sexos.]]></explicacion>
+      <texto><![CDATA[El feminismo es un movimiento social y político que se inició formalmente a finales del siglo XVIII y que condujo a la toma de conciencia como grupo o colectivo humano, de la opresión, dominación y explotación de que han sido las mujeres por parte del colectivo de varones, en el seno del patriarcado bajo sus distintas fases históricas de modelo de producción, lo cual las mueve a la acción para la liberación de su sexo con todas las transformaciones de la sociedad que aquella requiera.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Conseguir la plena igualdad de sexos." correcta="1"/>
+        <respuesta contestacion="Limitar la desigualdad de sexos." correcta="0"/>
+        <respuesta contestacion="Invertir la relación de desigualdad de sexos." correcta="0"/>
+        <respuesta contestacion="Otorgar derechos ciudadanos a las mujeres." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[De acuerdo con el texto, se puede inferir que la Revolución Industrial favoreció la lucha de las mujeres por dos razones:]]></enunciado>
+      <explicacion><![CDATA[La incorporación de mujeres a las fábricas implicó el acceso a salarios y la competencia con los hombres en el mundo laboral, evidenciando así la desigualdad y dependencia.]]></explicacion>
+      <texto><![CDATA[Con la Revolución Industrial iniciada a finales del siglo XVIII en algunos países de Europa, millones de mujeres se incorporaron a las fábricas y al trabajo asalariado en la industria, lo cual alteró los fundamentos de la cultura, de la vida familiar y social tradicionales. La mujer aportaba unos ingresos externos a la familia, lo que suponía una diferencia importante con la situación preexistente. ]]></texto>
+      <respuestas>
+        <respuesta contestacion="Sacó a la mujer del espacio domestico a la fábrica." correcta="1"/>
+        <respuesta contestacion="Garantizó el acceso de las mujeres a la seguridad social." correcta="0"/>
+        <respuesta contestacion="Las mujeres asalariadas obtuvieron cierta independencia económica." correcta="1"/>
+        <respuesta contestacion="Otorgó igualdad de salarios y oportunidades laborales." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[De acuerdo con el texto, se pueden hacer dos afirmaciones sobre las mujeres obreras europeas en el siglo XIX: ]]></enunciado>
+      <explicacion><![CDATA[Las obreras en esa época debían mantener sus obligaciones domésticas y asumir sus nuevas obligaciones como asalariadas, lo cual se constituye en una doble explotación.]]></explicacion>
+      <texto><![CDATA[Durante el siglo XIX y principios del XX, a pesar de su nuevo papel como trabajadoras asalariadas, las mujeres todavía debían obediencia al marido o al padre, no tenían derecho a votar ni a ser elegidas, no tenían libertad para desplazarse, casarse o disponer de su vida, ni tenían derecho ni medios para controlar el número de hijos que deseaban concebir.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Obtuvieron mayores responsabilidades sin ninguna contraprestación." correcta="1"/>
+        <respuesta contestacion="Mejoraron sus condiciones de vida." correcta="0"/>
+        <respuesta contestacion="Continuaron con sus labores domésticas, además de las fabriles." correcta="1"/>
+        <respuesta contestacion="Lograron asociarse en sindicatos para mejorar su vida." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[De acuerdo con el texto, se pueden inferir dos aseveraciones:]]></enunciado>
+      <explicacion><![CDATA[Al plantear el problema de los derechos, el liberalismo impulsado por la Revolución Francesa proponía implícitamente el debate sobre la igualdad de sexos.]]></explicacion>
+      <texto><![CDATA[El feminismo tomó impulso a partir de la Revolución Francesa a finales del siglo XVIII. Cuando los revolucionarios abolieron el Antiguo Régimen absolutista y proclamaron la {{cur}}Declaración de los derechos del hombre y del ciudadano{{normal}} (1789), un grupo de mujeres cultas y revolucionarias, encabezadas por Olympe de Gouges, criticaron el sexismo de aquella declaración y defendieron su propia {{cur}}Declaración de los derechos de la mujer{{normal}}. Se afirmaba allí que "la mujer nace libre y permanece igual al hombre en derechos". Esta propuesta, además de no tenerse en cuenta, fue ridiculizada por las nuevas autoridades.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Las ideas liberales favorecieron el surgimiento del movimiento feminista." correcta="1"/>
+        <respuesta contestacion="Los revolucionarios franceses eran menos machistas que sus oponentes." correcta="0"/>
+        <respuesta contestacion="Los partidarios del Antiguo Régimen eran favorables al feminismo." correcta="0"/>
+        <respuesta contestacion="Las feministas eran más radicales que los revolucionarios." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[De acuerdo con el texto, el movimiento sufragista buscaba reivindicar:]]></enunciado>
+      <explicacion><![CDATA[Reivindicar el derecho al voto es buscar derechos ciudadanos o civiles. ]]></explicacion>
+      <texto><![CDATA[En Inglaterra y Estados Unidos cobró fuerza durante la segunda mitad del siglo XIX el movimiento sufragista como una manera de reivindicar el derecho al voto femenino. Su lucha apeló a diversos actos como reuniones, acoso a los políticos opuestos y diferentes actos de reivindicación pública de sus aspiraciones. ]]></texto>
+      <respuestas>
+        <respuesta contestacion="Derechos civiles de las mujeres." correcta="1"/>
+        <respuesta contestacion="Derechos humanos de las mujeres." correcta="0"/>
+        <respuesta contestacion="Derechos económicos de las mujeres." correcta="0"/>
+        <respuesta contestacion="Derechos culturales de las mujeres." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>
