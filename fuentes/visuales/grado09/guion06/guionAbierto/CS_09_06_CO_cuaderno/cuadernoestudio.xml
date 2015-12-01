@@ -2,6 +2,7 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_09_06_CO">
 <libroTitulo>El mundo después de la Segunda Guerra Mundial</libroTitulo>
 <seccion1 id="S1_CS_09_06_CO_A33612455BDE4EDBA1F72E3F4AD30D11">
@@ -18,7 +19,7 @@ de un conflicto con amenazas latentes y sin confrontaciones directas,
 por esa razón a esta etapa de la historia se le denominó la Guerra
 Fría.</p>
 <seccion2 id="S2_CS_09_06_CO_19DEC300F69642E1A024B362AF54C33F">
-<seccion2Titulo>La cuestión alemana</seccion2Titulo><?Pub Caret 0?>
+<seccion2Titulo>La cuestión alemana</seccion2Titulo>
 <seccion2Texto>
 <p>Acabada la Segunda Guerra Mundial, el futuro de Alemania se convirtió
 en el primer punto de enfrentamiento entre Estados Unidos y la URSS.
@@ -188,11 +189,7 @@ adhirió al pacto en 1956.</p>
 >Iósif Vissariónovich Stalin</negrita>. Durante este periodo, el PCUS
 controlaba todos los aspectos del Estado y de la sociedad, y cualquier
 tipo de disidencia era duramente reprimida.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso030&amp;IdRecurso=RES-C8EBC4395FA14890ABBA51EE171196EB"
->Identifica los bloques de poder</enlace>
-</practica></seccion3Texto></seccion3><seccion3
+</seccion3Texto></seccion3><seccion3
 id="S3_CS_09_06_CO_366A1682E6F8455A85128A48FEC89E44">
 <seccion3Titulo>Las democracias populares</seccion3Titulo>
 <seccion3Texto>
@@ -241,11 +238,6 @@ con capitalismo.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso040&amp;IdRecurso=RES-F331638B14384EB69471D37C57676CAD"
 >Conoce aspectos de la Revolución china</enlace>
-</practica><profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso050&amp;IdRecurso=RES-49EBB6E05FE048288D2F89E3C63DA09B"
->Un mundo de bloques</enlace>
-</profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso060&amp;IdRecurso=RES-8362B51B42684C53BDED4FAC4CCC1EE6"
 >Descubre la China comunista</enlace>
@@ -362,11 +354,7 @@ militares</negrita> en <negrita>América del Sur</negrita>. El papel
 de Estados Unidos frente a estas dictaduras fue de permisividad y
 apoyo a las <negrita>políticas de represión de los dictadores</negrita
 >.</p>
-</destacadoTexto></destacado><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso100&amp;IdRecurso=RES-FCAFEB1EF0794116878BEF4CA246775C"
->Conoce las guerras de la Guerra Fría</enlace>
-</practica><profundiza>
+</destacadoTexto></destacado><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso110&amp;IdRecurso=RES-056416DA89724A168FE2D8534CBAA068"
 >Los conflictos de la Guerra Fría</enlace>
@@ -401,7 +389,12 @@ las colonias.</listaElemento>
 la <negrita>Unión Soviética</negrita>.</listaElemento>
 <listaElemento>La <negrita>conferencia de Bandung</negrita>.</listaElemento>
 </listaSinNumerar>
-<seccion2 id="S2_CS_09_06_CO_818854F3892B4B7180FEDB187C80D8AF">
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso150&amp;IdRecurso=RES-BFEF31A819E247C6BA9B37B3146563CF"
+>La descolonización y el nacimiento del Tercer Mundo</enlace>
+</profundiza><seccion2
+id="S2_CS_09_06_CO_818854F3892B4B7180FEDB187C80D8AF">
 <seccion2Titulo>La independencia de las colonias en Asia</seccion2Titulo>
 <seccion2Texto>
 <p>El proceso de descolonización en Asia fue heterogéneo. Mientras
@@ -457,11 +450,7 @@ una vez terminó la Segunda Guerra Mundial:</p>
 por un importante <negrita>subdesarrollo económico</negrita> y <negrita
 >social</negrita>, y una gran <negrita>dependencia</negrita> de las
 antiguas metrópolis.</p>
-</destacadoTexto></destacado><profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso150&amp;IdRecurso=RES-BFEF31A819E247C6BA9B37B3146563CF"
->La descolonización y el nacimiento del Tercer Mundo</enlace>
-</profundiza><practica>
+</destacadoTexto></destacado><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_06_CO_Recurso160&amp;IdRecurso=RES-C274425A5F1F4F9EBDD5BC4D09A2EF30"
 >Reconoce características de la descolonización</enlace>
@@ -761,9 +750,7 @@ Guerra Mundial</enlace></autoevaluate><enlacesreferencia>
 destino="http://especiales.ideal.es/caida-bloque-este/guerra-fria/guerra-fria.html"
 >La Segunda Guerra Mundial y sus consecuencias, secuencia didáctica
 en la que se ofrece información sobre este conflicto y el periodo
-conocido como Guerra Fría, ofrecida por el Proyectos Kairós, del Instituto
-Nacional de Tecnologías Educativas y de Formación del Profesorado
-(Ministerio de Educación, Cultura y Deporte).</enlace>
+conocido como Guerra Fría, ofrecida por el Proyectos Kairós.</enlace>
 <enlace
 destino="http://especiales.ideal.es/caida-bloque-este/guerra-fria/guerra-fria.html"
 >La caída del bloque de Este, especial del periódico El Ideal.</enlace>
