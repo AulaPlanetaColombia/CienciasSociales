@@ -2,7 +2,6 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="CS_07_04_CO">
 <libroTitulo>La Edad Moderna</libroTitulo>
 <seccion1 id="S1_CS_07_04_CO_753AA8F8D5E54072863CD0AEDE12718A">
@@ -75,7 +74,8 @@ dos de los ideales renacentistas.</p>
 </imagen>
 <p>Renacimiento también significaba el deseo de afirmar los valores
 positivos de la vida, con todas las dificultades que ella puede tener;
-la sensación del hombre de ser artífice de su propio destino.</p>
+la sensación del hombre de ser el centro de la creación y dueño de
+sus propias decisiones.</p>
 <p>El Renacimiento surgió en Italia y vivió su momento cumbre en la
 Roma del siglo XVI (<negritacursiva>cinquecento</negritacursiva>).
 En el ámbito del arte la principal característica de esta época fue
@@ -216,7 +216,7 @@ matrimonio con la noble inglesa Ana Bolena.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso060&amp;IdRecurso=RES-4714A30985A74E55A7771662E07DBD01"
->El papado y el pago de indulgencias</enlace>
+>Reconoce las características de las nuevas doctrinas protestantes</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_07_04_CO_A9840D9DE9924A21B6AC68A386C950FD">
 <seccion2Titulo>La Contrarreforma</seccion2Titulo>
@@ -255,15 +255,15 @@ división entre <negrita>protestantes</negrita> y <negrita>católicos</negrita
 destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso070&amp;IdRecurso=RES-08375788F59D42F3AB8F48A3F8B5ED84"
 >La Contrarreforma</enlace>
 </profundiza><recuerda><recuerdaTexto>
-<p>San Ignacio de Loyola (1491?-1556) en compañía de sus condicípulos
-de filosofía (Pedro Fabro, Francisco Javier y Diego Laínez) juran
-“servir a nuestro Señor, dejando todas las cosas del mundo”, para
-fundar de este modo (15 de agosto de 1534) la Sociedad de Jesús, que
-luego se llamará la Compañía de Jesús.</p><?Pub Caret 215?>
-<p>Para san Ignacio era claro que él y sus amigos estaban llamados
-a ser compañeros de Jesús, y en esa medida debían ponerse al servicio
-de Dios y del bien de los hombres; esto en el marco de la reforma
-protestante.</p>
+<p>San Ignacio de Loyola junto a un grupo formado por algunos de sus
+condiscípulos de filosofía en la Universidad de París (Pedro Fabro,
+Francisco Javier, Diego Laínez) fundaron el 15 de agosto de 1534 la
+Compañía de Jesús, luego de realizar un juramento de “servir a nuestro
+señor, dejando las cosas de este mundo”. Esta comunidad sería reconocida
+y autorizada de forma posterior, en 1540, por el papa Paulo III.</p>
+<p>La fundación de la Compañía de Jesús, cuya finalidad consitió en
+formar una compañía al servicio de Dios y del bien de los hombres,
+fue uno de los primeros pasos de la Contrarreforma.</p>
 </recuerdaTexto></recuerda><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso080&amp;IdRecurso=RES-DDB00F942856413890D356735159A8CD"
@@ -312,12 +312,18 @@ contenían una cantidad diferente de líquido y por ello cada esfera
 tenía una densidad distinta y, por lo tanto, flotaban a diferentes
 alturas.</p>
 <p>Es importante anotar que en el termómetro de Galileo el cilindro
-no tenía ningún tipo graduación. Las que llevaban una marca para indicar
-una temperatura eran cada una de las esferas.</p>
+no tenía ningún tipo de graduación. Las que llevaban una marca para
+indicar una temperatura eran cada una de las esferas.</p>
 <imagen ampliable="no" src="CS_07_04_CO_IMG12_small.jpg">
 <p>Galileo Galilei estableció las bases de la ciencia moderna al proponer
 un método basado en la verificación experimental de las hipótesis
-o de las explicaciones sobre los fenómenos naturales.</p>
+o de las explicaciones sobre los fenómenos naturales. Este método
+se oponía al que se practicaba hasta entonces, basado en el “principio
+de autoridad”, y en el cual bastaba con el prestigio y la autoridad
+de los argumentos expuestos por filósofos y santos, especialmente
+por Aristóteles, para quien era más importante identificar las cualidades
+intrínsecas que, según él, poseían los objetos.</p>
+<p></p>
 </imagen>
 <p>Ahora bien, el problema con el agua es que se congela a los cero
 grados, lo que impide medir temperaturas más bajas; de tal modo que
@@ -344,7 +350,11 @@ instrumento para la astronomía.</p>
 en 1609 el telescopio astronómico, o el telescopio de Galileo, con
 dos lentes, una convergente y otra divergente. Su defensa de la teoría
 heliocéntrica del universo hizo que fuera juzgado por un tribunal
-de la Inquisición.</p>
+de la Inquisición. Galileo utilizó su telescopio para observar la
+luna y los planetas del sistema solar, y con base en sus observaciones,
+logró descubrir algunos de los satélites que giran alrededor de Júpiter,
+las manchas solares, el relieve lunar y los anillos de Saturno.</p>
+<p></p>
 </imagen>
 <p>Dos años después, en 1611 el alemán <negrita>Johannes Kepler</negrita
 > fue el primero en usar dos lentes convexos que enfocaban los rayos
@@ -485,7 +495,7 @@ por encima de todo.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso130&amp;IdRecurso=RES-DD14D8931CB34ADEB1E578C1C91FDEAF"
->Las monarquías absolutas</enlace>
+>Luis XIV "El Rey Sol"</enlace>
 </profundiza>
 <imagen src="CS_07_04_CO_IMG20_small.jpg">
 <p>Durante el reinado de Luis XIV la corte se trasladó a Versalles,
@@ -504,12 +514,12 @@ de Versalles, Francia).</p>
 </tr>
 <tr>
 <td>1598-1621</td>
-<td>El reinado de <negrita>Felipe III</negrita>.</td>
+<td>El reinado de <negrita>Felipe III</negrita> en España.</td>
 </tr>
 <tr>
 <td>1609-1621</td>
-<td>La tregua de los <negrita>Doce Años</negrita> con las Provincias
-Unidas.</td>
+<td>La tregua de los <negrita>Doce Años</negrita> entre España y las
+Provincias Unidas.</td>
 </tr>
 <tr>
 <td>1609</td>
@@ -521,7 +531,7 @@ Unidas.</td>
 </tr>
 <tr>
 <td>1621-1665</td>
-<td>El reinado de <negrita>Felipe IV</negrita>.</td>
+<td>El reinado de <negrita>Felipe IV</negrita> en España.</td>
 </tr>
 <tr>
 <td>1635-1659</td>
@@ -554,7 +564,7 @@ los <negrita>Países Bajos</negrita>.</td>
 </tr>
 <tr>
 <td>1665-1700</td>
-<td>El reinado de <negrita>Carlos II</negrita>.</td>
+<td>El reinado de <negrita>Carlos II</negrita> en España.</td>
 </tr>
 <tr>
 <td>1668</td>
@@ -611,14 +621,7 @@ crisis a finales del siglo XVIII. Uno de los principales cambios fue
 el creciente protagonismo de la <negrita>burguesía</negrita>, cuyo <negrita
 >poder económico</negrita> la llevó a reclamar también el <negrita
 >poder político</negrita>.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso140&amp;IdRecurso=RES-9999F8C00C434850AC4536279E61B81F"
->Comprende la forma de pensar de la monarquía absoluta</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso150&amp;IdRecurso=RES-081599B27487489986FB80F77B28AAF1"
->Describe la sociedad del Antiguo Régimen</enlace>
-</practica></seccion2Texto></seccion2><seccion2
+</seccion2Texto></seccion2><seccion2
 id="S2_CS_07_04_CO_9631C562296540E5B5F5E3F752597E3F">
 <seccion2Titulo>La economía del siglo XVIII</seccion2Titulo>
 <seccion2Texto>
@@ -716,7 +719,11 @@ francesa</negrita>.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso160&amp;IdRecurso=RES-2E267211F89349E388736BCC70A597FC"
 >El absolutismo</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso150&amp;IdRecurso=RES-081599B27487489986FB80F77B28AAF1"
+>Describe la sociedad del Antiguo Régimen</enlace>
+</practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_07_04_CO_38BFD4A9FD464C39870A275AA7CF02B4">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
@@ -753,17 +760,8 @@ por ejemplo, en la organización de <negrita>expediciones científicas</negrita
 >Alejandro Malaspina</negrita>, en los dominios coloniales de España,
 la de <negrita>James Cook</negrita>, en el Pacífico o la de <negrita
 >Alexander von Humboldt</negrita>, considerado el padre de la geografía
-moderna, en diferentes lugares del hemisferio, como Europa, América
-y Asia.</p>
-<recuerda><recuerdaTexto>
-<p>El movimiento de la Ilustración nació con el propósito de acabar
-con la ignorancia y el oscurantismo de las etapas anteriores. Esto
-explica que se calificase como el <negrita>Siglo de las Luces</negrita
-> en España. Por su lado, en el Reino Unido se habló de <negritacursiva
->Enlightenment</negritacursiva>; en Italia, de <negritacursiva>Illuminismo</negritacursiva
->; en Francia, de <negritacursiva>Lumières</negritacursiva>; y en
-Alemania, de <negritacursiva>Aufklärung</negritacursiva>.</p>
-</recuerdaTexto></recuerda>
+moderna, en diferentes lugares del planeta, como Europa, América y
+Asia.</p>
 <imagen ampliable="no" src="CS_07_04_CO_IMG24_small.jpg">
 <p>Las ideas y el espíritu de la Ilustración se concretaron en la <cursiva
 >Enciclopedia</cursiva> o <cursiva>Diccionario razonado de las ciencias,
@@ -772,11 +770,19 @@ Le-Rond D’Alembert entre 1751 y 1772. El proyecto, en el que participaron
 los principales intelectuales de la época, tenía como objetivo reunir
 todos los conocimientos de su tiempo en una misma obra.</p>
 </imagen>
-<practica>
+<recuerda><recuerdaTexto>
+<p>El movimiento de la Ilustración nació con el propósito de acabar
+con la ignorancia y el oscurantismo de las etapas anteriores. Esto
+explica que se calificase como el <negrita>Siglo de las Luces</negrita
+> en España. Por su lado, en el Reino Unido se habló de <negritacursiva
+>Enlightenment</negritacursiva>; en Italia, de <negritacursiva>Illuminismo</negritacursiva
+>; en Francia, de <negritacursiva>Lumières</negritacursiva>; y en
+Alemania, de <negritacursiva>Aufklärung</negritacursiva>.</p>
+</recuerdaTexto></recuerda><profundiza>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso190&amp;IdRecurso=RES-BEEA2EBD87D643F0A9CE3305BF63D442"
->La Ilustración en Hispanoamérica</enlace>
-</practica></seccion2Texto></seccion2><seccion2
+destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso180&amp;IdRecurso=RES-DD4331D1BC684820A679C333E6208A35"
+>Las ideas de la Ilustración</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
 id="S2_CS_07_04_CO_BE66133454D4408DAF08C8E31E75DCB1">
 <seccion2Titulo>Las ideas políticas de la Ilustración</seccion2Titulo>
 <seccion2Texto>
@@ -840,12 +846,8 @@ la teoría de Adam Smith, los gobiernos tenían que dejar actuar libremente
 a las empresas, que se regían por la <negrita>ley de la oferta y la
 demanda</negrita>. Su objetivo final debía ser conseguir el <negrita
 >mayor beneficio posible</negrita>.</p>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso180&amp;IdRecurso=RES-DD4331D1BC684820A679C333E6208A35"
->Las ideas de la Ilustración</enlace>
-</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
-<seccion2 id="S2_CS_07_04_CO_0C4968B694FC4A87928E0342167C07C3">
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_04_CO_0C4968B694FC4A87928E0342167C07C3">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
@@ -890,7 +892,8 @@ destino="http://recursostic.educacion.es/secundaria/edad/4esohistoria/quincena2/
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso210&amp;IdRecurso=RES-999DB19671634C27A6ABFD41011D8A2C"
->Los principales representantes del despotismo ilustrado en Europa</enlace>
+>Los principales representantes del despotismo ilustrado en Europa</enlace><?Pub
+Caret -3?>
 </profundiza>
 <imagen ampliable="no" src="CS_07_04_CO_IMG26_small.jpg">
 <p>Durante el reinado de Carlos III de España, se acuñó el lema: “Todo

@@ -1,74 +1,69 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<engine copy="Editorial Planeta" version="1" aprid="f6">
-  <main layout="2">
-    <title>Conoce el Pensamiento Humanista</title>
-    <footer>Selecciona una imagen</footer>
-  </main>
-  <sections>
-    <section i="0" star="false" hasSubsections="false">
-      <menuImage path="0006XX01.jpg" border="0">
-        <title><![CDATA[Erasmo de Rotterdam (Holanda, 1466-1536)]]></title>
-      </menuImage>
-      <pages>
-        <page i="0" visible="true" color="">
-          <title>Erasmo de Rotterdam</title>
-          <description><![CDATA[<span style="font-family:verdana,geneva,sans-serif;">Erasmo de Rotterdman fue uno de los pioneros en el cambio de una concepci&oacute;n teoc&eacute;ntrica de la sociedad&nbsp;</span>&mdash;<span style="font-family: verdana, geneva, sans-serif;">donde el poder se organiza alrededor de Dios y la Iglesia</span>&mdash;<span style="font-family: verdana, geneva, sans-serif;">, hacia una concepci&oacute;n antropoc&eacute;ntrica de la sociedad&nbsp;</span>&mdash;<span style="font-family: verdana, geneva, sans-serif;">en la cual lo social gira en torno al individuo</span>&mdash;<span style="font-family: verdana, geneva, sans-serif;">. Para &eacute;l la educaci&oacute;n era la base para que el individuo pudiera cuestionar la Iglesia y el gobierno. Entre sus obras m&aacute;s importantes se encuentran los &quot;Adagios&quot; y &quot;Elogio de la Locura&quot;</span>]]></description>
-          <images>
-            <image path="0006XX01.jpg" border="0" pathbig="0006XX01.jpg">
-              <title><![CDATA[]]></title>
-            </image>
-          </images>
-        </page>
-      </pages>
-    </section>
-    <section i="0" star="false" hasSubsections="false">
-      <menuImage path="0015IC01.jpg" border="0">
-        <title><![CDATA[Francesco Petrarca (Italia, 1304-1374)]]></title>
-      </menuImage>
-      <pages>
-        <page i="0" visible="true" color="">
-          <title>Francesco Petrarca</title>
-          <description><![CDATA[<span style="font-family:verdana,geneva,sans-serif;">Petrarca fue un escritor italiano que durante gran parte de su vida trabaj&oacute; para la Iglesia cat&oacute;lica al servicio del cardenal Giovanni Colonna. Esta ocupaci&oacute;n le permiti&oacute; viajar por toda Europa y desarrollar, a trav&eacute;s de su obra, sus ideas humanistas. En sus escritos (entre los que destacan &quot;&Aacute;frica&quot; y &quot;El Cancionero&quot;) se puede ver no solo la gran influencia en cuanto a estilo literario sino tambi&eacute;n la relaci&oacute;n entre el amor y la fe, algo que marc&oacute; a este autor en su vida personal.&nbsp;</span>]]></description>
-          <images>
-            <image path="0015IC01.jpg" border="0" pathbig="0015IC01.jpg">
-              <title><![CDATA[]]></title>
-            </image>
-          </images>
-        </page>
-      </pages>
-    </section>
-    <section i="0" star="false" hasSubsections="false">
-      <menuImage path="antoniodelebrija.jpg" border="0">
-        <title><![CDATA[Antonio de Nebrija (España, 1441-1522)]]></title>
-      </menuImage>
-      <pages>
-        <page i="0" visible="true" color="">
-          <title>Antonio de Nebrija </title>
-          <description><![CDATA[<p>Esta importante figura del humanismo espa&ntilde;ol centr&oacute; su trabajo en el lenguaje, y tambi&eacute;n fue historiador, astr&oacute;nomo y poeta. Nebrija pensaba que la gram&aacute;tica era la base de toda ciencia y por eso era fundamental, como en todo el resto del humanismo, volver a los cl&aacute;sicos para reinventar el lenguaje. En 1492 public&oacute; la que es considerada el primer compendio de gram&aacute;tica del espa&ntilde;ol y en los siguientes dos a&ntilde;os publica diccionarios espa&ntilde;ol-latin-espa&ntilde;ol ya que cre&iacute;a que el lat&iacute;n, por ser la lengua cl&aacute;sica, era una lengua superior.&nbsp;</p>
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f6"><main layout="2">
+<title>Conoce el Pensamiento Humanista</title>
+<footer>Selecciona una imagen</footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="false">
+<menuImage path="CS_07_04_REC10_IMG01n.jpg" border="0">
+<title><![CDATA[Erasmo de Rotterdam (Holanda, 1466-1536)]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Erasmo de Rotterdam</title>
+<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Erasmo de Rotterdman fue uno de los pioneros en el cambio de una concepci&oacute;n teoc&eacute;ntrica de la sociedad&nbsp;&mdash;donde el poder se organiza alrededor de Dios y la Iglesia&mdash;, hacia una concepci&oacute;n antropoc&eacute;ntrica de la sociedad&nbsp;&mdash;en la cual lo social gira en torno al individuo&mdash;. Para &eacute;l la educaci&oacute;n era la base para que el individuo pudiera cuestionar la Iglesia y el gobierno. Entre sus obras m&aacute;s importantes se encuentran los &quot;Adagios&quot; y &quot;Elogio de la Locura&quot;.</span></span></p>
 ]]></description>
-          <images>
-            <image path="antoniodelebrija.jpg" border="0" pathbig="antoniodelebrija.jpg">
-              <title><![CDATA[]]></title>
-            </image>
-          </images>
-        </page>
-      </pages>
-    </section>
-    <section i="0" star="false" hasSubsections="false">
-      <menuImage path="tomasmoro1.jpg" border="0">
-        <title><![CDATA[Tomás Moro (Londres, 1478 -1535)]]></title>
-      </menuImage>
-      <pages>
-        <page i="0" visible="true" color="">
-          <title>Tomás Moro</title>
-          <description><![CDATA[<span style="font-family:verdana,geneva,sans-serif;">Este abogado y fil&oacute;sofo ingl&eacute;s mantuvo relaciones con otros pensadores de su &eacute;poca, especialmente con Erasmo de Rotterdam. A pesar de su ferviente fe, fue un cr&iacute;tico del sistema mon&aacute;rquico y eclesi&aacute;stico que imperaba en Europa gracias a la injusticia social que dicho r&eacute;gimen tra&iacute;a a la poblaci&oacute;n. Moro renunci&oacute; a su posici&oacute;n dentro de la nobleza durante el reinado de Enrique VIII por los constantes abusos que este perpetr&oacute; contra la Iglesia, y por la escandalosa vida personal que llevaba el monarca ingl&eacute;s. Por este rechazo, el rey lo tom&oacute; preso y lo ejecut&oacute; en 1535. La Iglesia cat&oacute;lica lo canoniz&oacute; en 1935 y su obra m&aacute;s destacada es Utop&iacute;a (1516), un lugar donde los gobernantes son elegidos popularmente y no exist&iacute;a la propiedad privada.</span>&nbsp;En ella, como en el resto de humanistas aparecen referencias al pensamiento cl&aacute;sico.&nbsp;]]></description>
-          <images>
-            <image path="tomasmoro1.jpg" border="0" pathbig="tomasmoro1.jpg">
-              <title><![CDATA[]]></title>
-            </image>
-          </images>
-        </page>
-      </pages>
-    </section>
-  </sections>
+<images>
+<image path="CS_07_04_REC10_IMG01ln.jpg" border = "0" pathbig="CS_07_04_REC10_IMG01la.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="CS_07_04_REC10_IMG02n.jpg" border="0">
+<title><![CDATA[Francesco Petrarca (Italia, 1304-1374)]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Francesco Petrarca</title>
+<description><![CDATA[<span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Petrarca fue un escritor italiano que durante gran parte de su vida trabaj&oacute; para la Iglesia cat&oacute;lica al servicio del cardenal Giovanni Colonna. Esta ocupaci&oacute;n le permiti&oacute; viajar por toda Europa y desarrollar, a trav&eacute;s de su obra, sus ideas humanistas. En sus escritos (entre los que destacan &quot;&Aacute;frica&quot; y &quot;El Cancionero&quot;) se puede ver no solo la gran influencia en cuanto a estilo literario sino tambi&eacute;n la relaci&oacute;n entre el amor y la fe, algo que marc&oacute; a este autor en su vida personal.&nbsp;</span></span>]]></description>
+<images>
+<image path="CS_07_04_REC10_IMG02ln.jpg" border = "0" pathbig="CS_07_04_REC10_IMG02la.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="CS_07_04_REC10_IMG03n.jpg" border="0">
+<title><![CDATA[Antonio de Nebrija (España, 1441-1522)]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Antonio de Nebrija </title>
+<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Esta importante figura del humanismo espa&ntilde;ol centr&oacute; su trabajo en el lenguaje, y tambi&eacute;n fue historiador, astr&oacute;nomo y poeta. Nebrija pensaba que la gram&aacute;tica era la base de toda ciencia y por eso era fundamental, como en todo el resto del humanismo, volver a los cl&aacute;sicos para reinventar el lenguaje. En 1492 public&oacute; la que es considerada el primer compendio de gram&aacute;tica del espa&ntilde;ol y en los siguientes dos a&ntilde;os publica diccionarios espa&ntilde;ol-latin-espa&ntilde;ol ya que cre&iacute;a que el lat&iacute;n, por ser la lengua cl&aacute;sica, era una lengua superior.&nbsp;</span></span></p>
+]]></description>
+<images>
+<image path="CS_07_04_REC10_IMG03ln.jpg" border = "0" pathbig="CS_07_04_REC10_IMG03la.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="CS_07_04_REC10_IMG04n.jpg" border="0">
+<title><![CDATA[Tomás Moro (Londres, 1478 -1535)]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Tomás Moro</title>
+<description><![CDATA[<span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 20px;">Este abogado y fil&oacute;sofo ingl&eacute;s mantuvo relaciones con otros pensadores de su &eacute;poca, especialmente con Erasmo de Rotterdam. A pesar de su ferviente fe, fue un cr&iacute;tico del sistema mon&aacute;rquico y eclesi&aacute;stico que imperaba en Europa gracias a la injusticia social que dicho r&eacute;gimen tra&iacute;a a la poblaci&oacute;n. Moro renunci&oacute; a su posici&oacute;n dentro de la nobleza durante el reinado de Enrique VIII por los constantes abusos que este perpetr&oacute; contra la Iglesia, y por la escandalosa vida personal que llevaba el monarca ingl&eacute;s. Por este rechazo, el rey lo tom&oacute; preso y lo ejecut&oacute; en 1535. La Iglesia cat&oacute;lica lo canoniz&oacute; en 1935 y su obra m&aacute;s destacada es Utop&iacute;a (1516), un lugar donde los gobernantes son elegidos popularmente y no exist&iacute;a la propiedad privada.&nbsp;En ella, como en el resto de humanistas aparecen referencias al pensamiento cl&aacute;sico.&nbsp;</span></span>]]></description>
+<images>
+<image path="CS_07_04_REC10_IMG04ln.jpg" border = "0" pathbig="CS_07_04_REC10_IMG04la.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section></sections>
 </engine>

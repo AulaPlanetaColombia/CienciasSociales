@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f1">
+<css><![CDATA[.c {background-color:#b0dfe8;}]]></css>
+<pantallas>
+<pantalla id="pantalla_5">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compIconButton' id='iconbutton_169' x='46' y='527' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconInfoButton' group='-1'><event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",1)]]></event>
+</component>
+<component _type='_compSimpleText' id='texto_87' x='156' y='40' width='637' height='60' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[El despotismo ilustrado]]></content>
+</component>
+<component _type='_compRoundButton' id='roundbutton_97' x='88' y='385' width='180' height='40' alpha='1' visible='1' enabled='1' cssClass='roundTextButton' group='-1'>
+<content><![CDATA[Austria]]></content>
+<event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",5)]]></event>
+</component>
+<component _type='_compRoundButton' id='roundbutton_98' x='88' y='449' width='180' height='40' alpha='1' visible='1' enabled='1' cssClass='roundTextButton' group='-1'>
+<content><![CDATA[Prusia]]></content>
+<event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",6)]]></event>
+</component>
+<component _type='_compRoundButton' id='roundbutton_101' x='88' y='257' width='180' height='40' alpha='1' visible='1' enabled='1' cssClass='roundTextButton' group='-1'>
+<content><![CDATA[Francia]]></content>
+<event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",3)]]></event>
+</component>
+<component _type='_compRoundButton' id='roundbutton_102' x='88' y='321' width='180' height='40' alpha='1' visible='1' enabled='1' cssClass='roundTextButton' group='-1'>
+<content><![CDATA[Imperio ruso]]></content>
+<event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",4)]]></event>
+</component>
+<component _type='_compRoundButton' id='roundbutton_103' x='88' y='193' width='180' height='40' alpha='1' visible='1' enabled='1' cssClass='roundTextButton' group='-1'>
+<content><![CDATA[España]]></content>
+<event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",2)]]></event>
+</component>
+<component _type='_compImage' id='image_105' x='344' y='117' width='537' height='440' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='3' alignMode='0' image='data/imagenes/001.jpg' />
+<component _type='_compIconButton' id='iconbutton_110' x='837' y='513' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconInfoButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_open("pantalla_111")]]></event>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_10">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_37' x='114' y='18' width='814' height='94' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><strong><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">La europa absolutista</span></span></strong></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_106' x='112' y='83' width='814' height='359' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">En el siglo XVIII la forma m&aacute;s extendida de gobierno era la <strong>monarqu&iacute;a</strong><br />
+<strong>absoluta</strong>, caracterizada por:</span></span></p>
+
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&bull; Concentraci&oacute;n de poder.<br />
+&bull; Centralismo.<br />
+&bull; Unificaci&oacute;n pol&iacute;tica.</span></span></p>
+
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Pese a ello, y con el objetivo de asegurar la pervivencia del modelo<br />
+absolutista, los soberanos europeos tendieron a practicar un <strong>despotismo</strong><br />
+<strong>ilustrado</strong>. Este se presentaba como una forma de gobierno que apostaba por<br />
+la b&uacute;squeda del <strong>bien com&uacute;n</strong>, tomando como referencia las ideas de la<br />
+<strong>Ilustraci&oacute;n</strong>.</span></span></p>
+]]></content>
+</component>
+<component _type='_compIconButton' id='iconbutton_109' x='875' y='45' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",0)]]></event>
+</component>
+<component _type='_compRichText' id='texto_116' x='235' y='393' width='263' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Se persegu&iacute;an:</span></span></p>
+
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&bull; Mejoras econ&oacute;micas.<br />
+&bull; Mejoras culturales.</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_117' x='567' y='393' width='263' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Se evitaban:</span></span></p>
+
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&bull; Cambios pol&iacute;ticos.<br />
+&bull; Cambios sociales.</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_20">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compIconButton' id='iconbutton_109' x='875' y='45' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",0)]]></event>
+</component>
+<component _type='_compImage' id='image_88' x='0' y='102' width='952' height='380' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='3' alignMode='0' image='data/imagenes/003.jpg' />
+<component _type='_compRichText' id='texto_37' x='112' y='20' width='594' height='81' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Espa&ntilde;a</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_24">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_37' x='112' y='20' width='594' height='81' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Francia</span></span></p>
+]]></content>
+</component>
+<component _type='_compIconButton' id='iconbutton_109' x='875' y='45' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",0)]]></event>
+</component>
+<component _type='_compImage' id='image_88' x='0' y='125' width='952' height='380' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='3' alignMode='0' image='data/imagenes/004.jpg' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_32">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_37' x='112' y='20' width='594' height='81' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Imperio ruso</span></span></p>
+]]></content>
+</component>
+<component _type='_compIconButton' id='iconbutton_109' x='875' y='45' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",0)]]></event>
+</component>
+<component _type='_compImage' id='image_88' x='0' y='102' width='952' height='380' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='3' alignMode='0' image='data/imagenes/006.jpg' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_36">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_37' x='112' y='20' width='594' height='81' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Austria</span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_88' x='0' y='125' width='952' height='380' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='3' alignMode='0' image='data/imagenes/007.jpg' />
+<component _type='_compIconButton' id='iconbutton_109' x='875' y='45' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",0)]]></event>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_44">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compIconButton' id='iconbutton_109' x='875' y='45' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",0)]]></event>
+</component>
+<component _type='_compImage' id='image_88' x='0' y='102' width='952' height='380' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='3' alignMode='0' image='data/imagenes/009.jpg' />
+<component _type='_compRichText' id='texto_37' x='112' y='20' width='594' height='81' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Prusia</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</pantallas>
+<popups>
+<pantalla id="pantalla_111">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_115' x='35' y='99' width='306' height='475' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='3' alignMode='0' image='data/imagenes/0010.jpg' />
+<component _type='_compIconButton' id='iconbutton_110' x='298' y='98' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_close()]]></event>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</popups>
+</engine>
