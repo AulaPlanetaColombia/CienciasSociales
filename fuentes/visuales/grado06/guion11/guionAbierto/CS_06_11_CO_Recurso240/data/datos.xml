@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mapa aprid="mapa">
+  <copyright>(c) Editorial Planeta</copyright>
+  <version>1.0</version>
+  <botonMapaConceptual>mostrar</botonMapaConceptual>
+  <botonMapaMudo>ocultar</botonMapaMudo>
+  <botonMudo>0</botonMudo>
+  <objeto>
+    <ref>00</ref>
+    <texto />
+    <hijos>10</hijos>
+    <padre />
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>10</ref>
+    <texto />
+    <hijos>20</hijos>
+    <padre>00</padre>
+    <siz>14</siz>
+    <negcur />
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+  <objeto>
+    <ref>20</ref>
+    <texto />
+    <hijos />
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+    <img />
+    <audio />
+  </objeto>
+</mapa>

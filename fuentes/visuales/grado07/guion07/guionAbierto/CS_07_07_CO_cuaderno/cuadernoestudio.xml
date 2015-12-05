@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<libro id="CS_07_07_CO">
+  <libroTitulo>Geografía física y humana de Europa, Asia y África</libroTitulo>
+  <seccion1 id="S1_CS_07_07_CO_1D7BD999F6BF4A20B9DB1E0168D4F541">
+    <seccion1Titulo>
+    </seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_07_07_CO_img_01_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso010&amp;IdRecurso=RES-9BC2B77E4CEF4200A297337885B992AE">Recurso F10B-01</enlace>
+      </profundiza>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_07_07_CO_B5912D33F5E840F6894BBECB457DCC37">
+    <seccion1Titulo>Europa</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CS_07_07_CO_AA23EC77C4D74CBBA4D92098AFF74A27">
+        <seccion2Titulo>El aspecto físico de Europa</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CS_07_07_CO_B84C5441F5F541AF960596F19CD65842">
+            <seccion3Titulo>El relieve y el clima</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_02_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso020&amp;IdRecurso=RES-7295F489D7B44B12BCE5C0F91D6DFB71">El relieve, costas y aguas de Europa</enlace>
+              </practica>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_03_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <profundiza>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso030&amp;IdRecurso=RES-D161774F3AD44A60A70A6AFA7311D568">Los medios templados: el paisaje mediterráneo</enlace>
+              </profundiza>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_04_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso040&amp;IdRecurso=RES-32E0A9DCF21241B1A4885B795508BF5B">Identifica el relieve de Europa</enlace>
+              </practica>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_05_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <profundiza>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso050&amp;IdRecurso=RES-2EBF2462DC764402888AB7B4EE5E2EA3">Recurso M10A-01</enlace>
+              </profundiza>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CS_07_07_CO_CB380AED2E6145CF874459EC6D57643E">
+            <seccion3Titulo>La hidrografía</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_06_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso060&amp;IdRecurso=RES-4F986F98E090496D9E15DAF2575F24BC">Recurso M15A-01</enlace>
+              </practica>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_07_07_CO_5F05513DCC354CDA96A28CEE8BEC390E">
+        <seccion2Titulo>Aspecto humano de Europa</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CS_07_07_CO_B80FB6D99D3E47A18F62A0A894E5589E">
+            <seccion3Titulo>La población</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_07_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <profundiza>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso010&amp;IdRecurso=RES-9BC2B77E4CEF4200A297337885B992AE">Recurso F10B-01</enlace>
+              </profundiza>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CS_07_07_CO_C6D581A27C894364A7B5A172C9B5AF21">
+            <seccion3Titulo>Aspecto económico</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_08_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso080&amp;IdRecurso=RES-4D5B9DD6FD16459F8533A9B403E4F6D3">Recurso M4A-01</enlace>
+              </practica>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_10_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso100&amp;IdRecurso=RES-80EF602669044A2280C8FA68E0BF8BFF">El relieve de Asia</enlace>
+              </practica>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_11_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <profundiza>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso110&amp;IdRecurso=RES-060B232A380E4FCBA496BE64AB11AE9B">Recurso F4-01</enlace>
+              </profundiza>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_12_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso120&amp;IdRecurso=RES-9CA1AEBE915343ED91495D4941C2548C">Conoce la tundra</enlace>
+              </practica>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_13_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso130&amp;IdRecurso=RES-6C0B49D6BBD244E0B6A642FC3B768B3C">Identifica los recursos hídricos y la problemática del agua en Asia</enlace>
+              </practica>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_15_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso150&amp;IdRecurso=RES-C79126F3DF3843BD996EBD0868A563D1">Recurso M5A-02</enlace>
+              </practica>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_17_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso170&amp;IdRecurso=RES-99833B30881847AC96D64C7D026AFA2C">El relieve de África</enlace>
+              </practica>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_18_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso180&amp;IdRecurso=RES-872B479604514049B807B7180B6E4A6E">Recurso M10A-02</enlace>
+              </practica>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_19_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso190&amp;IdRecurso=RES-A1A84344A7794616AD260FC934784D05">Los medios cálidos: el paisaje desértico y la sabana</enlace>
+              </practica>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_07_07_CO_img_20_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso200&amp;IdRecurso=RES-129197B00E014250B504B836E20A878C">Reconoce los ríos y lagos de África</enlace>
+              </practica>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_07_07_CO_9A55D500FB234B509B10CC9E0BCC5A98">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_07_07_CO_img_09_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso090&amp;IdRecurso=RES-A28D968883EE4B5CB1875880496C5149">Recurso M101A-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_07_07_CO_A96FAA58550C4C20A5CBA46CA36EC6B3">
+    <seccion1Titulo>Asia</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CS_07_07_CO_D3D96A4D89364E629B73EC9C4B50F92A">
+        <seccion2Titulo>Aspecto físico de Asia</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_07_07_CO_B82267E38BBB4EFDBFBB4AC62A38C755">
+        <seccion2Titulo>Aspecto humano de Asia</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_07_07_CO_img_14_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso140&amp;IdRecurso=RES-5496E92F179D47509D00F8A3CB9B65B3">Sitúa en el mapa algunos Estados de Asia</enlace>
+          </profundiza>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_07_07_CO_6F156C0F36C049F08BC3385E61D4EC4E">
+        <seccion2Titulo>Aspecto humano de Asia</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_07_07_CO_img_16_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso160&amp;IdRecurso=RES-72950C08022744568370A17317039CB0">Recurso M101A-02</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_07_07_CO_A46E5A6084CF4411BE03EF269DC26286">
+    <seccion1Titulo>África</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CS_07_07_CO_64080091C7C4482C8DCF0F731FD64883">
+        <seccion2Titulo>Aspecto físico de África</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_07_07_CO_img_21_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso210&amp;IdRecurso=RES-CCD9DF6186E54003BDB4C471B7111671">Recurso M101A-03</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_07_07_CO_img_22_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso220&amp;IdRecurso=RES-87760053F89D47439140190C0C124BCB">Competencias: diseño de un mapa conceptual del medio físico</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <masinformacion id="MI_CS_07_07_CO_00747CC61A3B4243ADEE678C6A301EDC">
+    <mapaconceptual>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso240&amp;IdRecurso=RES-B807A4D48C3244F386292AF2C68D8D32">Mapa Conceptual</enlace>
+    </mapaconceptual>
+    <autoevaluate>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso250&amp;IdRecurso=RES-81382AD4F5AC40BEBDE321C34976E456">Evaluación</enlace>
+    </autoevaluate>
+    <enlacesreferencia>
+      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+    </enlacesreferencia>
+  </masinformacion>
+</libro>

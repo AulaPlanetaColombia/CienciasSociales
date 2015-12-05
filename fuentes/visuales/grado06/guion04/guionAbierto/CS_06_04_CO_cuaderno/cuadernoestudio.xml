@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<libro id="CS_06_04_CO">
+  <libroTitulo>Civilizaciones de la Antigüedad: India y China</libroTitulo>
+  <seccion1 id="S1_CS_06_04_CO_F45905833BCB4B3691A9BE754A7792A5">
+    <seccion1Titulo>India en la Antigüedad</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CS_06_04_CO_16B8F112836B464FB172182FB0B055F9">
+        <seccion2Titulo>Evolución histórica</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_01_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso010&amp;IdRecurso=RES-07FC1CD89D5C4293800CE7B3FEB5B62D">Video como media principal - 01</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_02_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso020&amp;IdRecurso=RES-B5BF83DDE3334A209225446F757FE782">Video como media principal - 02</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_03_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso030&amp;IdRecurso=RES-1B86E46C0C4C4C6895BC315E9A2FCF1B">Recurso M1C-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_04_CO_BD45268073034A9E8BC741B6A1DB2454">
+        <seccion2Titulo>Organización económica</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_04_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso040&amp;IdRecurso=RES-DBA9C57139F744009BC1D6C5E7368CB9">Recurso M5D-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_04_CO_00243E08915E497FBC6D5EF7B8698500">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_05_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso050&amp;IdRecurso=RES-F853E89A30874930BBECB25116D459BD">Recurso M101A-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_04_CO_33407B365AAC4FC496021DA3B3D48F1C">
+    <seccion1Titulo>Los aportes culturales de India en la Antigüedad</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_06_04_CO_img_06_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso060&amp;IdRecurso=RES-77B9DC02FAD3495D90C6838199A929FE">Recurso M5A-01</enlace>
+      </practica>
+      <seccion2 id="S2_CS_06_04_CO_76A3A9E6DBF4417ABFEF0A5EEFE990E6">
+        <seccion2Titulo>La religión de India en la Antigüedad</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_07_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso070&amp;IdRecurso=RES-8EF282233AEC4F61B7C4567989D0F96F">Recurso F4-01</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_08_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_09_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso090&amp;IdRecurso=RES-1BC9A6BE1B8E48FF9EB6873213642196">Recurso M101A-02</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_04_CO_10EE385B1A61402F9354A239B47B6D7B">
+    <seccion1Titulo>China en la Antigüedad</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CS_06_04_CO_9FB9B4C4CD8F4208BB91909CB1C1C219">
+        <seccion2Titulo>El medio geográfico</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_10_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso100&amp;IdRecurso=RES-CB6BF7958299455587B2C5DD0B986DE9">Recurso M2A-01</enlace>
+          </practica>
+          <seccion3 id="S3_CS_06_04_CO_BCFC3DF43B0340BABF792DEFAC871A4C">
+            <seccion3Titulo>Dinastía Zhou (1122 - 221 a. C.)</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_06_04_CO_img_11_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CS_06_04_CO_EF02CBC770D1415E92773766D05C3A08">
+            <seccion3Titulo>Dinastía Ch’in (221-206 a. C.)</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_06_04_CO_img_12_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <profundiza>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso120&amp;IdRecurso=RES-70A81DD29CCF4652A1054DE9590E5F40">Video como media principal - 03</enlace>
+              </profundiza>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CS_06_04_CO_E5109E106F554AC38BF33947B9C69D60">
+            <seccion3Titulo>Dinastía Han (206 a. C. – 220 d. C.)</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_06_04_CO_img_13_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_04_CO_CB29E3FBA3BC4380A91310A0FCDBEFF6">
+        <seccion2Titulo>Organización política y social</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_14_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso140&amp;IdRecurso=RES-F6898C2C248E48F5A6496F39A4C5570B">Recurso M5D-02</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_15_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso150&amp;IdRecurso=RES-BD12FBFDA0FA406D8ABE47027E217599">Recurso M1B-01</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_16_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso160&amp;IdRecurso=RES-A057B8D3A0BB48AD8BC7C087FE9D9BD6">Recurso M5B-01</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_17_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso170&amp;IdRecurso=RES-8BD44A7CDD194FE787214D28B2D4CB07">Recurso M101A-03</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_04_CO_D74983BB191D4CE298C592EA32DDC624">
+    <seccion1Titulo>Los aportes culturales de China en la Antigüedad</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_06_04_CO_img_18_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <seccion2 id="S2_CS_06_04_CO_9B9AB0C0FD1A4AC197D674A604A9F154">
+        <seccion2Titulo>La religión de China en la Antigüedad</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_19_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso190&amp;IdRecurso=RES-08CA7F4BCE614957B373244BEF3C42A5">Video como media principal - 04</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_20_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso200&amp;IdRecurso=RES-B16CD3F2735A4FCA841924E91A169710">Recurso M2C-01</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_04_CO_img_21_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso210&amp;IdRecurso=RES-B063485C7B974AFFB7B0648DD0813805">Recurso M101A-04</enlace>
+          </profundiza>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_04_CO_7439267A094A486899F9C45D188AF090">
+    <seccion1Titulo>Competencias</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_06_04_CO_img_22_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso220&amp;IdRecurso=RES-C18EA3C4A0F44396A3B7123E977DA0EA">Recurso M102AB-01</enlace>
+      </practica>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_06_04_CO_img_23_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso230&amp;IdRecurso=RES-A4C6EBDF4E7343D6A284BC264EE5EE54">Recurso F13-01</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <masinformacion id="MI_CS_06_04_CO_7306A86726AD45C7A16E9C3CA87C5C2A">
+    <mapaconceptual>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso250&amp;IdRecurso=RES-6841BD9A7B004A718A80754FCC1398A0">Mapa Conceptual</enlace>
+    </mapaconceptual>
+    <autoevaluate>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso260&amp;IdRecurso=RES-4A29CDDA3DB449CF834FFD8CB475DE35">Evaluación</enlace>
+    </autoevaluate>
+    <enlacesreferencia>
+      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+    </enlacesreferencia>
+  </masinformacion>
+</libro>

@@ -1,89 +1,141 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <engine copy="Editorial Planeta" version="1" aprid="f7">
-  <main layout="1">
-    <title>Las monarquías absolutas</title>
-    <footer>Conoce más acerca de las monarquías representativas del absolutismo.</footer>
+  <main layout="3">
+    <title>Luis XIV "El Rey Sol"</title>
+    <footer>Conoce más sobre Luis XIV, paradigma del monarca absoluto.</footer>
   </main>
   <sections>
     <section i="0" star="false" hasSubsections="false">
       <menuImage path="luisxiv.jpg" border="0">
-        <title><![CDATA[Francia. Luis XIV, el Rey Sol.]]></title>
+        <title><![CDATA[Luis XIV "el Rey Sol"]]></title>
       </menuImage>
       <pages>
         <page i="0" visible="true" color="">
           <title>Luis XIV, el Rey Sol.</title>
-          <description><![CDATA[<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>Luis XIV, el Rey Sol</strong> (1638-1715), ejerci&oacute;&nbsp;su poder mediante el establecimiento de una monarqu&iacute;a absoluta de &ldquo;derecho divino&rdquo;. Para &eacute;l, el Estado se confund&iacute;a con su persona, y de all&iacute; la frase que se le atribuye: <strong>&ldquo;El Estado soy yo&rdquo;</strong>. Nunca comparti&oacute; su poder y no acept&oacute; ninguna limitaci&oacute;n a este. Por ello, en su reinado la nobleza qued&oacute; excluida de los asuntos de gobierno, y los parlamentos ya no ten&iacute;an injerencia alguna, pues hab&iacute;an quedado suspendidos a partir de 1673.</p>
+          <description><![CDATA[<p style="font-family: Arial,Helvetica,Verdana,sans-serif; font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px none; outline: 0px none; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;"><span style="text-align: justify; word-spacing: 1.75px; color: rgb(37, 37, 37); line-height: 22.4px;"><strong>Luis XIV</strong> fue el hijo promig&eacute;nito de <strong>Luis XIII</strong>, quien fuera llamado &quot;El Justo&quot; por su bondad, religiosidad cat&oacute;lica y su austeridad, y de Ana de Austria, heredera del rey Felipe III de Espa&ntilde;a.</span><span style="line-height: 21px; text-align: justify; word-spacing: 1.75px;">&nbsp;</span></span></span></p>
 
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Para consolidar la unidad interna, revoc&oacute; el Edicto de Nantes, ya que en la monarqu&iacute;a absoluta deb&iacute;an regir una sola ley y una sola fe. De paso, mand&oacute; al exilio a unos 200 mil hugonotes, y pag&oacute; dinero a quienes se convirtieran al catolicismo.</p>
+<p style="font-family: Arial,Helvetica,Verdana,sans-serif; font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px none; outline: 0px none; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;"><strong>Luis Dieudonn&eacute;</strong>, nombre con el que fue bautizado y que significa &quot;dado por Dios&quot;,&nbsp;naci&oacute; en Sanint Germain en Laye, Francia el 5 de septiembre de 1638, se le llamaba el &quot;ni&ntilde;o del milagro&quot; debido a que su nacimiento se dio cuando ya estaban pr&aacute;cticamente perdidas las esperanzas de su padre en tener un heredero.</span></span></p>
 
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Luis XIV se rode&oacute; de inteligentes ministros. Entre ellos destac&oacute; el de finanzas Jean <strong>Baptiste Colbert</strong>, quien foment&oacute; sistem&aacute;ticamente la producci&oacute;n industrial y el comercio de exportaci&oacute;n, pol&iacute;tica econ&oacute;mica que se denominar&iacute;a <strong>colbertismo o mercantilismo.</strong></p>
+<p style="font-family: Arial,Helvetica,Verdana,sans-serif; font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px none; outline: 0px none; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;">Fue coronado rey&nbsp;de <strong>Francia y Navarra</strong> el 14 de mayo de 1643 a los cinco a&ntilde;os de edad, ya &nbsp;que supadre decret&oacute; que fuese nombrado rey siendo menor de edad y que un consejo de ministros gobernasesn por &eacute;l, esto por no confiar en su esposa, Ana de Austria, para gobernar Frnacia.&nbsp;Luis&nbsp;gobern&oacute; durante 72 a&ntilde;os hasta el d&iacute;a de su muerte, el 1 de septiembre de 1715, a los 77 a&ntilde;os.</span></span></p>
 
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Este reinado tambi&eacute;n se caracteriz&oacute; por una agresiva y ambiciosa pol&iacute;tica exterior, cuyo objetivo principal consisti&oacute; en reforzar la hegemon&iacute;a francesa, ampliando su territorio hacia el nordeste y el este. Para lograr este fin se apoy&oacute; en ciertos derechos hereditarios que empez&oacute; a reclamar, y en un ej&eacute;rcito considerado el mejor organizado de su &eacute;poca. As&iacute; sali&oacute; victorioso en numerosas empresas; por ejemplo, en la guerra con Holanda (1672-1678), durante la cual le arrebat&oacute; a Espa&ntilde;a el Franco Condado y varias plazas de Flandes, y efectu&oacute; diversas anexiones territoriales, gracias a las cuales la frontera francesa avanz&oacute; hasta la margen izquierda del Rhin. Sin embargo, tras este per&iacute;odo de apogeo comenzaron los desastres. En la larga Guerra de la sucesi&oacute;n espa&ntilde;ola (1701-1714), contra Inglaterra y Austria, los franceses sufrieron serias derrotas en todos los frentes, a pesar de lo cual, y gracias a las desavenencias de sus rivales y a su propia resistencia, Luis XIV salv&oacute; a Francia del desastre total.</p>
+<p style="font-family: Arial,Helvetica,Verdana,sans-serif; font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px none; outline: 0px none; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;">Durante su infancia, la persona encargada de su educaci&oacute;n y de presidir el consejo de ministros fue el <strong>cardenal Mazarino</strong>, quien inculc&oacute;&nbsp;en Luis el sentido de la realeza y le ense&ntilde;&oacute; a servirse de los hombres para que estos no se sirvieran de &eacute;l. Durante estos a&ntilde;os Francia entr&oacute; en crisis debido a las diferentes <strong>guerras civiles</strong> que se cernieron sobre el pa&iacute;s en respuesta a la mala administraci&oacute;n de Mazarino,&nbsp;la creaci&oacute;n de impuestos nuevos y la pol&iacute;tica de supeditar cualquier poder al monarca. Estos levantamientos fueron conocidos como las <strong>Frondas</strong>.&nbsp;</span></span></p>
 
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">No obstante, a causa de las largas guerras y el derroche de la fastuosa corte del rey, la naci&oacute;n qued&oacute; arruinada. Adem&aacute;s, el pueblo franc&eacute;s se hab&iacute;a desangrado, no solo por las batallas, sino tambi&eacute;n por las crueles persecuciones en contra de los protestantes.</p>
+<p style="font-family: Arial,Helvetica,Verdana,sans-serif; font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px none; outline: 0px none; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;">Al momento de&nbsp;la muerte de Mazarino, en 1661, Luis ten&iacute;a ventidos a&ntilde;os y&nbsp;decidi&oacute; dejar de confiar el gobierno a un primer ministro para gobernar &eacute;l mismo, usando como s&iacute;mbolo el sol, y as&iacute; como el sol iluminar a Francia, de ac&aacute; le viene el apelativo de<strong> &quot;Rey sol&quot;</strong>.</span></span></p>
 
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">A pesar del desenlace desafortunado de su mandato, el reinado de Luis XIV es recordado como el gran siglo franc&eacute;s,&nbsp;la cultura de esta naci&oacute;n se irradi&oacute; por toda Europa. El franc&eacute;s se convirti&oacute; en el idioma de la diplomacia y de la alta sociedad. Las artes, las letras y aun las ciencias alcanzaron un brillo inigualado en este per&iacute;odo.&nbsp;</p>
+<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; text-align: justify; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"></p>
 
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">En las letras destacaron Voltaire, Corneille, Moliere, Racine y La Fontaine. De la misma manera, la moda y las costumbres versallescas fueron imitadas m&aacute;s all&aacute; de los l&iacute;mites del Estado franc&eacute;s; incluso se habl&oacute; del estilo Luis XIV.</p>
+<p style="font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 40px; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; text-align: justify; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"></p>
+
+<p style="font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; text-align: justify; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"></p>
+
+<p style="font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"></p>
+]]></description>
+          <images>
+            <image path="luisxiv.jpg" border="0" pathbig="luisxiv.jpg">
+              <title><![CDATA[Luis XIV con traje real, 1701, por Hyacinthe Rigaud.]]></title>
+            </image>
+            <image path="cardenalmazarino.jpg" border="0" pathbig="cardenalmazarino.jpg">
+              <title><![CDATA[El lienzo Las barricadas durante la Fronda de agosto de 1648, de F. -X. Dupré. ]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="luisxiv-4.jpg" border="0">
+        <title><![CDATA["El Estado soy yo"]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>"El Estado soy yo"</title>
+          <description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Luis XIV sosten&iacute;a que el poder del rey derivaba directamente de Dios, quien se lo hab&iacute;a dado, entre todos los hombres, para que se convirtiera en rey de Francia, por este motivo era superior a todos los hombres.</span></span></p>
+
+<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Consideraba su poder una&nbsp;<strong>monarqu&iacute;a absoluta</strong>, sin limites. Por ello se le ha adjudicado la&nbsp;afirmaci&oacute;n &quot;El&nbsp;Estado soy yo&quot;, la cual, mas si la pronunci&oacute; o no, esta c&eacute;lebre frase comprende completamente su pensamiento.</span></span></p>
+
+<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Luis XIV consolid&oacute; el estado central y para ellos traslad&oacute; a la corte a la ciudad de&nbsp;<strong>Versalles</strong>, donde se construy&oacute; un magn&iacute;fico palacio que albergaba al parlamento y a todos los mienbros de la&nbsp;<strong>sociedad cortesana</strong>.</span></span></p>
+
+<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Versalles fue para Luis XIV un instrumento para controlar a los nobles y para impedir que se rebelaran nuevamente como ya hab&iacute;a ocurrido en el pasado.</span></span></p>
+]]></description>
+          <images>
+            <image path="luisxiv-4.jpg" border="0" pathbig="luisxiv-4.jpg">
+              <title><![CDATA[Matrimonio entre Luis XIV y María de Austria en Saint-Jean de Luz, por Sainte-André.]]></title>
+            </image>
+            <image path="luisxiv-6.jpg" border="0" pathbig="luisxiv-6.jpg">
+              <title><![CDATA[Desfile de Luis XIV en el palacio de las Tullerías, s. XVII.]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="luisxiv-5.jpg" border="0">
+        <title><![CDATA[Mercantilismo]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Mercantilismo</title>
+          <description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Como ministro de finanzas Luis XIV escogi&oacute; a un hombre destacado y brillante, <strong>Jean-Baptiste Colbert</strong>, quien inaugur&oacute; una pol&iacute;tica de gran desarrollo, basada en el comercio de mercanc&iacute;as conocida como el <strong>mercantilismo</strong>.</span></span></p>
+
+<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Debido a que muchos productos se produci&aacute;n en el extranjero, Colbert favoreci&oacute; el surgimiento de <strong>f&aacute;bricas</strong> dedicadas a la producci&oacute;n de tapices, cordones, percelanas, espejos. Numerosos artesanos provenientes de toda Europa, llegaron a Francia con los conocimientos de sus propios oficios, atraidos por las grandes ganancias.</span></span></p>
+
+<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Otras f&aacute;bricas como las dedicadas a la producci&oacute;n de carros, partes de naves, tuvieron un notable desarrollo. Sin embargo, el presupuesto del estado conoci&oacute; momentos de crisis debido a las constantes <strong>guerras</strong>. Todo el reinado de Luis XIV fue una larga guerra por consolidar la supremas&iacute;a de Francia sobre el resto de Europa.</span></span></p>
+]]></description>
+          <images>
+            <image path="luisxiv-5.jpg" border="0" pathbig="luisxiv-5.jpg">
+              <title><![CDATA[Visita de Luis XIV a la manufactura de los Gobelinos, s. XVII.]]></title>
+            </image>
+            <image path="Jean-BaptisteColbert.jpg" border="0" pathbig="Jean-BaptisteColbert.jpg">
+              <title><![CDATA[Jean-Baptiste Colbert. s. XVII.]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="luisxiv-3.jpg" border="0">
+        <title><![CDATA[Versalles]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Versalles</title>
+          <description><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;">A unos veinte kil&oacute;metros de <strong>Par&iacute;s</strong>, se ubicaba, al inicio de mil seiscientos un humilde y desconocido pueblo,&nbsp;<strong>Versalles</strong>. En 1624, <strong>Luis XIII</strong>, decici&oacute; construir all&iacute; un castillo dedicado a la cazer&iacute;a. Sin embargo, el esplendido palacio de Vesalles que se conoce en nuestros d&iacute;as, fue construido en este lugar, por su hijo Luis XIV.</span></span></p>
+
+<p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;">&Eacute;l quizo construir un palacio que por su grandiosidad, su riqueza, sus tesoros art&iacute;sticos, su belleza incomparable, fuera considerado un s&iacute;mbolo en todo el mundo de la poder y refinamiento de la <strong>monarqu&iacute;a francesa</strong>.</span></span></p>
+
+<p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;">En la construcci&oacute;n del palacio, que fue seguida de cerca por Luis, participaron millares de personas entre alba&ntilde;iles, jardineros, marmolistas, decoradores, tapiceros, pintores, etc. Se ha calculado que el n&uacute;mero de personas empleadas super&oacute; en algunos momentos los treinta mil.</span></span></p>
+
+<p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;">El palacio y los jardines de Versalles fueron imitados en la realizaci&oacute;n de numerosos palacios europeos, muestra de la influencia francesa en el campo cultural, art&iacute;stico y arquitect&oacute;nico.</span></span></p>
+
+<p style="text-align: justify;"></p>
+]]></description>
+          <images>
+            <image path="luisxiv-3.jpg" border="0" pathbig="luisxiv-3.jpg">
+              <title><![CDATA[Iluminación de la fuente de Neptuno en Versalles. Eugène Lami.]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="luisxiv-2.jpg" border="0">
+        <title><![CDATA[Sociedad Cortesana]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Sociedad Cortesana</title>
+          <description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">La vida en la corte de <strong>Versalles</strong> era dominada por una severa etiqueta, que hoy en d&iacute;a podr&iacute;a parecernos curiosa y casi m&aacute;gica.&nbsp;</span></span></p>
+
+<p></p>
+
+<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Las ceremonias que se realizaban en la rec&aacute;mara de Luis XIV, han sido ampliamente descritas, sin embargo, no deben analizarse como si fueran solo una curiosidad, es importante comprender que est&aacute;n cargadas de <strong>simbolog&iacute;a </strong>y<strong> funcionalidad</strong>. Se hab&iacute;a establecido, por ejemplo, una meticulosa ceremonia cotidiana que iniciaba muy temprano desde su despertada y arreglada, donde cada miembro cercano de la corte, desde el chambel&aacute;n, los camareros y pajes,&nbsp;en un estricto orden jerarquico, organizaban con sumo cuidado cada detalle del arreglo del rey, mientras en una procesi&oacute;n cuyo orden era absolutamente riguroso y preciso, ingresaban a las c&aacute;maras reales los mienbros de la <strong>sociedad cortesana.</strong></span></span></p>
+
+<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Esta organizaci&oacute;n ten&iacute;a un objetivo, le permit&iacute;a al rey utilizar sus momentos m&aacute;s privados para establecer diferencias de rango y otorgar privilegios, acompa&ntilde;ado de manifestaciones de favoritismo o desfavorables.</span></span></p>
+
+<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Esta ceremonia ten&iacute;a una funci&oacute;n importante, era sin duda necesario, que el rey hiciera p&uacute;blicos estos actos, ya que este gesto se convert&iacute;a para los nobles que asist&iacute;an, en un <strong>privilegio</strong> que los distingu&iacute;a de los dem&aacute;s.</span></span></p>
 ]]></description>
           <images>
             <image path="luisxiv-2.jpg" border="0" pathbig="luisxiv-2.jpg">
-              <title><![CDATA[Luis XIV, el Rey Sol, en el palacio de Fontainebleau. Louis de Silvestre. Museo del Castillo de Versalles, París, Francia.]]></title>
-            </image>
-            <image path="luisxiv-3.jpg" border="0" pathbig="luisxiv-3.jpg">
-              <title><![CDATA[Durante el reinado de Luis XIV la corte se trasladó a Versalles, cuyo palacio se convirtió en símbolo indiscutible del absolutismo. Eugène Lami. Museo del Castillo de Versalles, Francia.]]></title>
-            </image>
-          </images>
-        </page>
-      </pages>
-    </section>
-    <section i="0" star="false" hasSubsections="false">
-      <menuImage path="Pedroielgrande-2.jpg" border="0">
-        <title><![CDATA[Rusia. Pedro I, el Grande.]]></title>
-      </menuImage>
-      <pages>
-        <page i="0" visible="true" color="">
-          <title>Pedro I, el Grande.</title>
-          <description><![CDATA[<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Pedro Alex&eacute;ievich (1672-1725), tambi&eacute;n conocido como&nbsp;<strong style="font-family: inherit; font-style: inherit; vertical-align: baseline; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent;">Pedro I el Grande</strong>, naci&oacute; en Mosc&uacute; y pertenec&iacute;a a la&nbsp;dinast&iacute;a Romanov, era el hijo menor del Zar Alejo Mij&aacute;ilovic y su segunda esposa, Natalia.&nbsp;Tras la muerte de su padre, en 1676, &eacute;l y su madre fueron desterrados al campo. En 1682 ascendi&oacute; al trono junto a su hermanastro Iv&aacute;n V, pero bajo la regencia de Sof&iacute;a, su hermanastra mayor.</p>
-
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">En 1689, apoyado por sus partidarios, Pedro dio un golpe de Estado contra Sof&iacute;a y fue proclamado zar de Rusia.&nbsp;En 1696 conquist&oacute; Azov, puerto del Mar Negro, que era parte del Imperio Otomano.</p>
-
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">En 1697 viaj&oacute; por Europa (Francia, Alemania, Pa&iacute;ses Bajos, Holanda, Suecia, Inglaterra, Austria), estableciendo contactos diplom&aacute;ticos en Viena, Alemania del Norte, Holanda e Inglaterra.&nbsp;Al a&ntilde;o siguiente se vio obligado a volver a Rusia, para enfrentar una sublevaci&oacute;n en su contra, instigada por el partido nacionalista que era&nbsp;contrario a su pol&iacute;tica reformista.</p>
-
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">En sus viajes estudi&oacute; y conoci&oacute; la cultura occidental, sus actividades econ&oacute;micas y el funcionamiento de los ej&eacute;rcitos. Gracias a este aprendizaje, pudo desarrollar una serie de reformas para occidentalizar y modernizar su pa&iacute;s.</p>
-
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Despu&eacute;s de su muerte,&nbsp;en San Petersburgo, fue&nbsp;sucedido en el trono por&nbsp;su segunda esposa, <strong>Catalina I</strong>.</p>
-]]></description>
-          <images>
-            <image path="Pedroielgrande.jpg" border="0" pathbig="Pedroielgrande.jpg">
-              <title><![CDATA[Pedro I el Grande. Pieter Van der Werff. Museo del Castillo de Versalles, Francia.]]></title>
-            </image>
-          </images>
-        </page>
-      </pages>
-    </section>
-    <section i="0" star="false" hasSubsections="false">
-      <menuImage path="Federicoiideprusia.jpg" border="0">
-        <title><![CDATA[Prusia. Federico II, el Grande y Filósofo.]]></title>
-      </menuImage>
-      <pages>
-        <page i="0" visible="true" color="">
-          <title>Federico II, el Grande y Filósofo.</title>
-          <description><![CDATA[<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><strong>Federico II&nbsp;de Prusia</strong>&nbsp;(1712-1786) llamado&nbsp;<strong>&quot;el Grande&quot;, </strong>fue conocido tambi&eacute;n&nbsp;como&nbsp;el <strong>&quot;rey fil&oacute;sofo&quot; o &quot;rey m&uacute;sico&quot;&nbsp;</strong>entre otros sobrenombres. Naci&oacute; en la ciudad e Berl&iacute;n siendo su padre&nbsp;Federico Guillermo I y su abuelo Jorge I, elector de Hannover y rey de Gran Breta&ntilde;a.&nbsp;Miembro de la dinast&iacute;a Hohenzollern. Federico II fue educado bajo la estricta disciplina militar, aunque prefer&iacute;a estudiar letras, filosof&iacute;a y disfrutaba de la m&uacute;sica.</p>
-
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Al subir al trono, en 1740, continu&oacute; las reformas iniciadas por su padre, tendientes a centralizar y fortalecer el Estado prusiano. Sus campa&ntilde;as militares resultaron muy exitosas, ya que significaron importantes anexiones territoriales a Prusia. Su ej&eacute;rcito compuesto por 180 mil hombres lleg&oacute; a ser el m&aacute;s poderoso de Europa.&nbsp;</p>
-
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Durante su mandato tuvo que hacer frente a&nbsp;la guerra de <strong>Sucesi&oacute;n de Austria</strong> (1740-1748), donde Prusia obtuvo la provincia fronteriza de Silesia. Este hecho ocasion&oacute; la <strong>guerra de los Siete A&ntilde;os</strong> (1756-1763), en la que Prusia se ali&oacute; con Inglaterra y se enfrent&oacute; con Francia, Rusia, Suecia y Austria. Pese a la superioridad num&eacute;rica del enemigo, Prusia triunf&oacute; y aunque mantuvo su territorio, gan&oacute; preponderancia en Alemania como una gran potencia militar. Federico II&nbsp;ampli&oacute;, adem&aacute;s, sus fronteras mendiante&nbsp;una pol&iacute;tica de alianzas con otros monarcas europeos. De su pacto con Catalina II de Rusia obtuvo la Prusia polaca, adem&aacute;s de Gdansk y Thorn. Esto le permiti&oacute; unir las regiones de Brandenburgo y Pomerania. En los a&ntilde;os siguientes se dedic&oacute; a consolidar su reino. Hizo una importante reforma al&nbsp;sistema judicial, aboli&oacute; la tortura, la censura y la discriminaci&oacute;n religiosa, mejor&oacute; las condiciones de vida de los campesinos, introdujo la libertad de culto y declar&oacute; obligatoria la asistencia a las escuelas, desde los cinco a los 13 a&ntilde;os.&nbsp;Durante su reinado se cre&oacute; un c&oacute;digo de procedimiento civil (1781), que independizaba al Poder Judicial del Ejecutivo, y un c&oacute;digo civil que rigi&oacute; entre 1794 y 1900.</p>
-
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Federico II fue un&nbsp;representante propio&nbsp;del despotismo ilustrado. A diferencia de otros reyes absolutistas, negaba que la monarqu&iacute;a se recibiera por derecho divino. Para &eacute;l se trataba de un contrato que le ligaba al pueblo, del cual exig&iacute;a una perfecta obediencia. Como d&eacute;spota ilustrado, siempre se rode&oacute; y dej&oacute; guiar por numerosos m&uacute;sicos, escritores, pintores, cient&iacute;ficos y fil&oacute;sofos, entre ellos <strong>Voltaire</strong>. Tuvo una biblioteca de alrededor de 4.000 libros. Era un hombre refinado, de una vasta cultura humanista, sobre todo un profundo conocedor y admirador de la cultura francesa. Escribi&oacute; varios ensayos de historia y pol&iacute;tica, entre ellos el &quot;Antimaquiavelo&quot; y &quot;Ensayo sobre las formas de gobierno&quot;, y obras musicales (tocaba flauta); dise&ntilde;&oacute; proyectos arquitect&oacute;nicos de corte neocl&aacute;sico, como la &Oacute;pera de Berl&iacute;n.</p>
-
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"></p>
-
-<p style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; vertical-align: baseline; margin: 0px 0px 1.5em; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px; line-height: 21px; word-spacing: 1.75px;">Tras su muerte, la direcci&oacute;n de Prusia qued&oacute; en manos de&nbsp;una coalici&oacute;n de pr&iacute;ncipes alemanes&nbsp;que m&aacute;s tarde la transformaron&nbsp;en el <strong>Imperio Alem&aacute;n</strong>.</span></p>
-]]></description>
-          <images>
-            <image path="Federicoiideprusia-2.jpg" border="0" pathbig="Federicoiideprusia-2.jpg">
-              <title><![CDATA[El juramento de fidelidad de Federico II. Dolph von Menzel. Museos Nacionales, Berlín, Alemania.]]></title>
+              <title><![CDATA[Luis XIV recibiendo en su palacio a Federico Augusto I, elector de Sajonia y rey de Polonia. Louis de Silvestre de 1715.]]></title>
             </image>
           </images>
         </page>
