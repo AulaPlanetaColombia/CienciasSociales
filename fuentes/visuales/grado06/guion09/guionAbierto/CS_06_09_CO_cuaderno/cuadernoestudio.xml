@@ -1,491 +1,315 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_06_09_CO">
-  <libroTitulo>La representación de la Tierra</libroTitulo>
-  <seccion1 id="S1_CS_06_09_CO_6C41BE698F084F6387275B0C1E87885B">
-    <seccion1Titulo>La localización de los puntos terrestres</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_09_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso010&amp;IdRecurso=RES-147BF878A3C0499B9334D97308822932">¿Qué sabes sobre la representación del espacio?</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_06_09_CO_0ABCE3046E0D47C0AD4A55879074C0C4">
-        <seccion2Titulo>Los paralelos y la latitud</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_09_CO_BEB1C387D7794936A0A8D52D0D86278A">
-        <seccion2Titulo>Los meridianos y la longitud</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso020&amp;IdRecurso=RES-9CDA6830354E474888D16BE74ED8B073">Localiza elementos a partir de coordenadas</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_04_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso030&amp;IdRecurso=RES-7E5335962C7B4B07B0E14CCEC44EF7C0">La latitud y la longitud</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_09_CO_38FE66C120254A0EA81303929C3E9565">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_09_CO_D54F86C1966943D582EB7A8E9974FB88">
-    <seccion1Titulo>Formas de representar la Tierra</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_09_CO_img_06_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso050&amp;IdRecurso=RES-DE9E4145335C433D9D3976A599601FF4">Identifica los sistemas de representación</enlace>
-      </practica>
-      <seccion2 id="S2_CS_06_09_CO_393821B54BE945598CDE20583B8A6500">
-        <seccion2Titulo>La cartografía</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_07_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso060&amp;IdRecurso=RES-74D237D65ED04BEC85561B311B56385E">Las proyecciones cartográficas</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_09_CO_691BEDA14C4948E8BEBED1F37B878C3E">
-        <seccion2Titulo>Tipos de proyecciones cartográficas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_08_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso070&amp;IdRecurso=RES-F1B4BB8F6931437A829963365BC137BD">Identifica los tipos de proyección cartográfica</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_09_CO_ABA49934F8794B82AA8819ED5B7AA007">
-        <seccion2Titulo>Los nuevos sistemas cartográficos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_09_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_10_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso080&amp;IdRecurso=RES-1AAE5B147AF94B8F9C262B9F24F313FA">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_09_CO_D86D0C11579742EB8F8A50C86BA2CEEA">
-    <seccion1Titulo>Los mapas</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_09_CO_img_11_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso090&amp;IdRecurso=RES-15FC1A6435554947B30F782218C7F1B6">La topografía</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_09_CO_img_12_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso100&amp;IdRecurso=RES-FF2FCA95AD7C4727AE83F37C2C49B82F">El cálculo de distancias en un mapa</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_09_CO_img_13_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso110&amp;IdRecurso=RES-4E0A188A92F54C37A8FB1854D00A5F53">Interpreta la escala de un mapa</enlace>
-      </practica>
-      <seccion2 id="S2_CS_06_09_CO_3E62C16514FE4BF49D699E2578AEB898">
-        <seccion2Titulo>Los tipos de mapas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_14_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso120&amp;IdRecurso=RES-2C9E06472C7749919D186BD9CCCA568F">La representación de la Tierra: los mapas</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso130&amp;IdRecurso=RES-D3E964CEA9CD4ED58A8DAFACEA816EFC">Identifica los distintos tipos de mapa</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_16_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso140&amp;IdRecurso=RES-A4F391AD1C214225874400EF065F0C29">Los mapas físicos</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_17_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_18_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso160&amp;IdRecurso=RES-1075AB4403904AB5BE0C5D6BB9F0C4F1">Los mapas políticos</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_19_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso170&amp;IdRecurso=RES-311DF2514A4A42688A01EEA53E255524">Sitúa los países en el continente correspondiente</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_09_CO_DBA004F98DC54A2B938BA78CFDCA0E09">
-        <seccion2Titulo>Los atlas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_20_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso180&amp;IdRecurso=RES-AF19C70AAA034E1DA89721CDACF46143">Cómo comentar un mapa</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_09_CO_img_21_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso190&amp;IdRecurso=RES-126EC0CAF9B041D1B665840705A290AB">Refuerza tu aprendizaje: La representación de la Tierra</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_09_CO_97C582B0525F47FFACA8F9D81227B4C5">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_09_CO_img_22_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso200&amp;IdRecurso=RES-94AC9F8E996A4DDBB222F1481D24C1A5">Recurso M102AB-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_09_CO_img_23_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso210&amp;IdRecurso=RES-51662D076B6A4FB686C0A2310ED0CB47">Proyecto: realización de un mapa temático</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_06_09_CO_8A03DD72CDE245F19C6B7F4961FCC32B">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso230&amp;IdRecurso=RES-E780628A6256426799CA15465342D5FD">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso240&amp;IdRecurso=RES-EEB3D8E44EBB4D92B57C5287228EC54F">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>La representación de la Tierra</libroTitulo>
+<seccion1 id="S1_CS_06_09_CO_6C41BE698F084F6387275B0C1E87885B">
+<seccion1Titulo>La localización de los puntos terrestres</seccion1Titulo>
+<seccion1Texto>
+<p>Para situar y localizar un punto concreto terrestre, se ha creado
+un sistema que llamamos <negrita>coordenadas geográficas</negrita
+>. Este sistema sirve para ubicar un punto cualquiera en un mapa.
+Cada uno es el resultado de la intersección de dos líneas imaginarias,
+una vertical y otra horizontal. La línea horizontal se llama <negrita
+>paralelo</negrita>, y la vertical, <negrita>meridiano</negrita>.</p>
+<p>Por otra parte, y para su estudio, dividimos la Tierra en una serie
+de líneas imaginarias.</p>
+<destacado><destacadoTitulo>Los ejes de la Tierra</destacadoTitulo>
+<destacadoTexto>
+<p>El eje de la Tierra es la <negrita>línea imaginaria</negrita> que
+la atraviesa desde ambos polos.</p>
+<p>El <negrita>Ecuador</negrita> es la línea imaginaria que corta
+la Tierra y su eje por la mitad; divide el planeta en dos medias esferas
+o hemisferios: el <negrita>hemisferio norte</negrita> y el <negrita
+>hemisferio sur</negrita>. Colombia tiene tierras en el hemisferio
+norte y en el hemisferio sur.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso010&amp;IdRecurso=RES-147BF878A3C0499B9334D97308822932"
+>¿Qué sabes sobre la representación del espacio?</enlace>
+</profundiza><seccion2
+id="S2_CS_06_09_CO_0ABCE3046E0D47C0AD4A55879074C0C4">
+<seccion2Titulo>Los paralelos y la latitud</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>paralelos</negrita> son líneas paralelas que recorren
+el planeta de oeste a este. El <negrita>Ecuador</negrita> o <negrita
+>paralelo 0°</negrita> divide el planeta en dos <negrita>hemisferios</negrita
+>: el <negrita>norte</negrita> y el <negrita>sur</negrita>. También
+son importantes el <negrita>trópico de Cáncer</negrita> y el <negrita
+>de Capricornio</negrita>.</p>
+<p>Los paralelos indican la <negrita>latitud</negrita>, es decir,
+la distancia de cualquier punto del planeta al Ecuador. Se mide en
+grados (°), minutos (') y segundos ('').</p>
+<imagen src="CS_06_09_CO_IMG01_small.jpg">
+<p>Los <negrita>paralelos</negrita> son las líneas horizontales que
+recorren el planeta; junto con los <negrita>meridianos</negrita> tejen
+una cuadrícula sobre la esfera terrestre.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_09_CO_BEB1C387D7794936A0A8D52D0D86278A">
+<seccion2Titulo>Los meridianos y la longitud</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>meridianos</negrita> son líneas imaginarias que recorren
+el planeta de norte a sur y lo rodean a través de los polos. Dividen
+la Tierra en dos <negrita>hemisferios</negrita>: el <negrita>este</negrita
+> y el <negrita>oeste</negrita>.</p>
+<p>Los meridianos indican la <negrita>longitud</negrita>, es decir,
+la distancia de cualquier punto del planeta al <negrita>meridiano
+0°</negrita>, también conocido como <negrita>meridiano de Greenwich</negrita
+>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso020&amp;IdRecurso=RES-9CDA6830354E474888D16BE74ED8B073"
+>Localiza elementos a partir de coordenadas</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso030&amp;IdRecurso=RES-7E5335962C7B4B07B0E14CCEC44EF7C0"
+>La latitud y la longitud</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_09_CO_38FE66C120254A0EA81303929C3E9565">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso040&amp;IdRecurso=RES-F87BE21E7122437C92E3537AAF5C0F0E"
+>Refuerza tu aprendizaje: Las coordenadas geográficas</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_09_CO_D54F86C1966943D582EB7A8E9974FB88">
+<seccion1Titulo>Formas de representar la Tierra</seccion1Titulo>
+<seccion1Texto>
+<p>El ser humano siempre ha creado sistemas para representar gráficamente
+la Tierra, orientarse y poder viajar.</p>
+<p>En la Antigüedad, la elaboración de mapas era un trabajo lento
+y difícil, puesto que el único sistema posible era dibujarlos a partir
+de observaciones sobre el terreno. Hoy en día, los sistemas han mejorado
+y se pueden hacer mapas más precisos a partir de las fotografías aéreas
+y las imágenes obtenidas por los satélites artificiales.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso050&amp;IdRecurso=RES-DE9E4145335C433D9D3976A599601FF4"
+>Identifica los sistemas de representación</enlace>
+</practica><seccion2
+id="S2_CS_06_09_CO_393821B54BE945598CDE20583B8A6500">
+<seccion2Titulo>La cartografía</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>cartografía</negrita> es la ciencia que se encarga
+de elaborar representaciones de la superficie de la Tierra mediante <negrita
+>mapas</negrita> y planos.</p>
+<p>Para representar gráficamente la superficie de la Tierra sobre
+un mapa, se utilizan distintas técnicas de <negrita>proyección cartográfica</negrita
+>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso060&amp;IdRecurso=RES-74D237D65ED04BEC85561B311B56385E"
+>Las proyecciones cartográficas</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_09_CO_691BEDA14C4948E8BEBED1F37B878C3E">
+<seccion2Titulo>Tipos de proyecciones cartográficas</seccion2Titulo>
+<seccion2Texto>
+<p>Las proyecciones cartográficas son sistemas que representan una <negrita
+>superficie esférica en un plano</negrita>. Se distinguen tres tipos:
+cilíndrica, cónica y acimutal.</p>
+<p>La <negrita>proyección cilíndrica</negrita>: proyecta la superficie
+de la Tierra sobre un cilindro imaginario que rodea el planeta.</p>
+<imagen src="CS_06_09_CO_IMG02_small.jpg">
+<p>En la <negrita>proyección cilíndrica</negrita> los paralelos y
+meridianos son rectos.</p>
+</imagen>
+<p>La proyección cónica: proyecta la superficie de la Tierra sobre
+un cono imaginario situado sobre el planeta.</p>
+<imagen src="CS_06_09_CO_IMG03_small.jpg">
+<p>En la <negrita>proyección cónica</negrita> los meridianos se juntan
+en un punto y los paralelos son curvos.</p>
+</imagen>
+<p>La <negrita>proyección acimutal</negrita>: proyecta la superficie
+terrestre sobre un plano tangente a un punto de la superficie de la
+Tierra. Según el plano tangente elegido, puede ser: polar, ecuatorial
+u oblicua.</p>
+<imagen src="CS_06_09_CO_IMG04_small.jpg">
+<p>La <negrita>proyección acimutal</negrita> no permite representar
+toda la Tierra. En el esquema se representa una proyección acimutal
+ecuatorial.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso070&amp;IdRecurso=RES-F1B4BB8F6931437A829963365BC137BD"
+>Identifica los tipos de proyección cartográfica</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_09_CO_ABA49934F8794B82AA8819ED5B7AA007">
+<seccion2Titulo>Los nuevos sistemas cartográficos</seccion2Titulo>
+<seccion2Texto>
+<p>Las <negrita>imágenes</negrita> nos muestran cómo son en realidad
+los diferentes elementos de un paisaje. A través de una <negrita>fotografía</negrita
+> podemos conocer las formas del <negrita>relieve</negrita> (zona
+llana o de montaña, corrientes de agua, etc.), la <negrita>vegetación</negrita
+> (desiertos, matorrales, bosques, prados, etc.), las <negrita>explotaciones
+económicas</negrita> (fábricas, cultivos, etc.) y los <negrita>elementos
+construidos por las personas</negrita> (núcleos de población, carreteras
+y vías de comunicación, casas aisladas, etc.).</p>
+<p>Actualmente, la representación de la Tierra se puede realizar de
+forma muy precisa gracias a la fotografía aérea, los satélites y los
+programas informáticos.</p>
+<imagen src="CS_06_09_CO_IMG05_small.jpg">
+<p>Las imágenes tomadas por los <negrita>satélites</negrita> permiten
+elaborar mapas muy precisos, como esta que muestra parte de China
+y Corea, fotografiadas desde un satélite de la NASA.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_09_CO_38FE66C120254A0EA81303929C3E8676">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso080&amp;IdRecurso=RES-1AAE5B147AF94B8F9C262B9F24F313FA"
+>Refuerza tu aprendizaje: Formas de representar la Tierra</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_09_CO_D86D0C11579742EB8F8A50C86BA2CEEA">
+<seccion1Titulo>Los mapas</seccion1Titulo>
+<seccion1Texto>
+<p>Los mapas representan un espacio sobre una <negrita>superficie
+plana</negrita>, a un tamaño o <negrita>escala</negrita> concretos.
+Cuentan con <negrita>leyendas</negrita> que permiten identificar los
+distintos elementos que los componen: la escala, los sistemas de coordenadas,
+la representación del relieve, la simbología (ríos, carreteras, bosques,
+tipos de cultivo, etc.) y la toponimia (los nombres propios de un
+lugar).</p>
+<destacado><destacadoTitulo>Los principales elementos de un mapa</destacadoTitulo>
+<destacadoTexto>
+<listaSinNumerar>
+<listaElemento>La <negrita>escala</negrita>: indica la proporción
+que hay entre las distancias medidas y la realidad que representan.
+La escala 1:500.000 indica que 1 cm del mapa equivale en la realidad
+a 500.000 cm, es decir, a 5 km.</listaElemento>
+<listaElemento>La <negrita>leyenda</negrita>: explica el significado
+de los símbolos del mapa.</listaElemento>
+<listaElemento>La <negrita>rosa de los vientos</negrita>: indica la
+orientación del mapa.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso090&amp;IdRecurso=RES-15FC1A6435554947B30F782218C7F1B6"
+>La topografía</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso100&amp;IdRecurso=RES-FF2FCA95AD7C4727AE83F37C2C49B82F"
+>El cálculo de distancias en un mapa</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso110&amp;IdRecurso=RES-4E0A188A92F54C37A8FB1854D00A5F53"
+>Interpreta la escala de un mapa</enlace>
+</practica><seccion2
+id="S2_CS_06_09_CO_3E62C16514FE4BF49D699E2578AEB898">
+<seccion2Titulo>Los tipos de mapas</seccion2Titulo>
+<seccion2Texto>
+<p>La información que proporcionan los mapas puede ser muy variada.
+Algunos muestran los <negrita>elementos naturales</negrita> (formas
+de relieve, ríos y lagos, vegetación, etc.), y otros informan acerca
+de diferentes <negrita>elementos humanos</negrita> (poblaciones, vías
+de comunicación, actividades económicas, etc.).</p>
+<destacado><destacadoTitulo>Mapas topográficos y temáticos</destacadoTitulo>
+<destacadoTexto>
+<p>Según los datos que representan, los mapas pueden ser topográficos
+o temáticos:</p>
+<listaSinNumerar>
+<listaElemento>Los <negrita>mapas temáticos</negrita>: se utilizan
+para destacar algún aspecto concreto del territorio. Son variados:
+políticos, históricos, económicos, climáticos, de población, etc. </listaElemento>
+<listaElemento>Los <negrita>mapas topográficos</negrita>: representan
+superficies más reducidas. Son muy detallados y suelen utilizarse
+como mapas de referencia.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso120&amp;IdRecurso=RES-2C9E06472C7749919D186BD9CCCA568F"
+>La representación de la Tierra: los mapas</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso130&amp;IdRecurso=RES-D3E964CEA9CD4ED58A8DAFACEA816EFC"
+>Identifica los distintos tipos de mapa</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso140&amp;IdRecurso=RES-A4F391AD1C214225874400EF065F0C29"
+>Los mapas físicos</enlace><?Pub Caret -2?>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso150&amp;IdRecurso=RES-4730108105DF48E5952F4E8E5A7DA5B1"
+>Organiza los elementos para elaborar un mapa físico</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso160&amp;IdRecurso=RES-1075AB4403904AB5BE0C5D6BB9F0C4F1"
+>Los mapas políticos</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso170&amp;IdRecurso=RES-311DF2514A4A42688A01EEA53E255524"
+>Sitúa los países en el continente correspondiente</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_09_CO_DBA004F98DC54A2B938BA78CFDCA0E09">
+<seccion2Titulo>Los atlas</seccion2Titulo>
+<seccion2Texto>
+<p>Un <negrita>atlas</negrita> es un libro que contiene varios mapas
+relacionados entre sí. Hay atlas del mundo, de los continentes, de
+los países, de regiones, etc. Para facilitar su consulta, los atlas
+suelen tener:</p>
+<listaSinNumerar>
+<listaElemento>Un <negrita>índice general</negrita>: sirve para hacernos
+una idea del contenido de un atlas y para localizar conjuntos de mapas,
+por ejemplo, los mapas de América.</listaElemento>
+<listaElemento>Un <negrita>índice de topónimos</negrita>: sirve para
+localizar un lugar concreto, como puede ser una ciudad, una cordillera,
+un pico o un parque natural. Los topónimos están ordenados de forma
+alfabética y junto a cada nombre figura el plano en el que aparece
+y dos datos (usualmente una <negrita>letra</negrita> y un <negrita
+>número</negrita>) que indican las <negrita>coordenadas</negrita>.
+Para situar un  lugar, basta con trazar una línea vertical y otra
+horizontal, y buscar el lugar en el que se encuentran ambas.</listaElemento>
+<listaElemento>Una <negrita>leyenda</negrita>: aparece en cada mapa
+y es una lista en la que figura el significado de cada símbolo utilizado.</listaElemento>
+</listaSinNumerar>
+<recuerda><recuerdaTexto>
+<p>Un topónimo es el nombre propio de un lugar, ya sea una ciudad,
+un pueblo, una región, un país, etc. También puede hacer referencia
+al nombre de ríos, mares, montañas, valles, etc.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso180&amp;IdRecurso=RES-AF19C70AAA034E1DA89721CDACF46143"
+>Cómo comentar un mapa</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_09_CO_38FE66C120254A0EA81303929C3E7581">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso190&amp;IdRecurso=RES-126EC0CAF9B041D1B665840705A290AB"
+>Refuerza tu aprendizaje: La representación de la Tierra</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_09_CO_97C582B0525F47FFACA8F9D81227B4C5">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso200&amp;IdRecurso=RES-94AC9F8E996A4DDBB222F1481D24C1A5"
+>Competencias: lectura e interpretación del mapa físico de Colombia</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso210&amp;IdRecurso=RES-51662D076B6A4FB686C0A2310ED0CB47"
+>Proyecto: realización de un mapa temático</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_06_09_CO_8A03DD72CDE245F19C6B7F4961FCC32B"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso230&amp;IdRecurso=RES-E780628A6256426799CA15465342D5FD"
+>Mapa conceptual del tema La representación de la Tierra</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso240&amp;IdRecurso=RES-EEB3D8E44EBB4D92B57C5287228EC54F"
+>Evalúa tus conocimientos sobre el tema La representación de la Tierra</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace destino="http://www.sogeocol.edu.co/documentos/11car.pdf"
+>Cartografía básica de Colombia</enlace>
+<enlace
+destino="http://www2.igac.gov.co/ninos/contenidos/detalle_como_se_hacen_mapas.jsp?idMenu=10&amp;idDocumento=107&amp;subMenu=11"
+>Instituto Geográfico Agustín Codazzi – IGAC</enlace>
+<enlace destino="http://www.viasatelital.com/mapas/">Vista satelital
+de la Tierra: mapas satelitales en vivo</enlace>
+</enlacesreferencia></masinformacion></libro>
