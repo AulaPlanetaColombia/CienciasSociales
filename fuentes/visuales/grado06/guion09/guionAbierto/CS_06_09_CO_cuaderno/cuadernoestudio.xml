@@ -41,7 +41,7 @@ son importantes el <negrita>trópico de Cáncer</negrita> y el <negrita
 <p>Los paralelos indican la <negrita>latitud</negrita>, es decir,
 la distancia de cualquier punto del planeta al Ecuador. Se mide en
 grados (°), minutos (') y segundos ('').</p>
-<imagen src="CS_06_09_CO_IMG01_small.jpg">
+<imagen ampliable="no" src="CS_06_09_CO_IMG01_small.jpg">
 <p>Los <negrita>paralelos</negrita> son las líneas horizontales que
 recorren el planeta; junto con los <negrita>meridianos</negrita> tejen
 una cuadrícula sobre la esfera terrestre.</p>
@@ -117,8 +117,8 @@ de la Tierra sobre un cilindro imaginario que rodea el planeta.</p>
 <p>En la <negrita>proyección cilíndrica</negrita> los paralelos y
 meridianos son rectos.</p>
 </imagen>
-<p>La proyección cónica: proyecta la superficie de la Tierra sobre
-un cono imaginario situado sobre el planeta.</p>
+<p>La <negrita>proyección cónica</negrita>: proyecta la superficie
+de la Tierra sobre un cono imaginario situado sobre el planeta.</p>
 <imagen src="CS_06_09_CO_IMG03_small.jpg">
 <p>En la <negrita>proyección cónica</negrita> los meridianos se juntan
 en un punto y los paralelos son curvos.</p>
@@ -147,11 +147,11 @@ llana o de montaña, corrientes de agua, etc.), la <negrita>vegetación</negrita
 > (desiertos, matorrales, bosques, prados, etc.), las <negrita>explotaciones
 económicas</negrita> (fábricas, cultivos, etc.) y los <negrita>elementos
 construidos por las personas</negrita> (núcleos de población, carreteras
-y vías de comunicación, casas aisladas, etc.).</p>
+y vías de comunicación, casas aisladas, etc.).</p><?Pub Caret 364?>
 <p>Actualmente, la representación de la Tierra se puede realizar de
 forma muy precisa gracias a la fotografía aérea, los satélites y los
 programas informáticos.</p>
-<imagen src="CS_06_09_CO_IMG05_small.jpg">
+<imagen ampliable="no" src="CS_06_09_CO_IMG05_small.jpg">
 <p>Las imágenes tomadas por los <negrita>satélites</negrita> permiten
 elaborar mapas muy precisos, como esta que muestra parte de China
 y Corea, fotografiadas desde un satélite de la NASA.</p>
@@ -231,7 +231,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso130&amp;IdRecurso=RES-D3E964
 </practica><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso140&amp;IdRecurso=RES-A4F391AD1C214225874400EF065F0C29"
->Los mapas físicos</enlace><?Pub Caret -2?>
+>Los mapas físicos</enlace>
 </profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso150&amp;IdRecurso=RES-4730108105DF48E5952F4E8E5A7DA5B1"

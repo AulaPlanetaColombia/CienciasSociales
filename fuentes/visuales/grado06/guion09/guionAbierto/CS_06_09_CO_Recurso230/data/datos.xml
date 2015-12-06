@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<mapa aprid="mapa">
+<?xml version='1.0' encoding='UTF-8'?><mapa aprid="mapa">
   <copyright>(c) Editorial Planeta</copyright>
   <version>1.0</version>
   <botonMapaConceptual>mostrar</botonMapaConceptual>
@@ -7,35 +6,308 @@
   <botonMudo>0</botonMudo>
   <objeto>
     <ref>00</ref>
-    <texto />
+    <texto>La Tierra</texto>
     <hijos>10</hijos>
-    <padre />
+    <padre/>
     <siz>0</siz>
-    <negcur />
+    <negcur>000000000000000000000000000000</negcur>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
   </objeto>
   <objeto>
     <ref>10</ref>
-    <texto />
+    <texto>se representa con</texto>
     <hijos>20</hijos>
     <padre>00</padre>
     <siz>14</siz>
-    <negcur />
+    <negcur>00000000000000000</negcur>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
   </objeto>
   <objeto>
     <ref>20</ref>
-    <texto />
-    <hijos />
+    <texto>técnicas cartográficas</texto>
+    <hijos>30,31</hijos>
     <padre>10</padre>
     <siz>0</siz>
-    <negcur />
+    <negcur>0000000000000000000000</negcur>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto>elaboran</texto>
+    <hijos>40,43,44</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>globos
+terráqueos</texto>
+    <hijos/>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>utilizan</texto>
+    <hijos>41,42</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>proyecciones</texto>
+    <hijos>50,51</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>la red geográfica</texto>
+    <hijos>52</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto>como</texto>
+    <hijos>60</hijos>
+    <padre>41</padre>
+    <siz>0</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>- cilíndrica
+- cónica
+- acimutal</texto>
+    <hijos/>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>emplean</texto>
+    <hijos>61</hijos>
+    <padre>41</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>- fotografías aéreas
+- teledetección
+- SIG</texto>
+    <hijos/>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>compuesta por</texto>
+    <hijos>66,67</hijos>
+    <padre>42</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>paralelos</texto>
+    <hijos>71</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>67</ref>
+    <texto>meridianos</texto>
+    <hijos>70</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto/>
+    <hijos>80</hijos>
+    <padre>67</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>Greenwich</texto>
+    <hijos/>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>111111111</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto/>
+    <hijos>81,82,83,84,85</hijos>
+    <padre>66</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>círculo polar
+Ártico</texto>
+    <hijos>90</hijos>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>Trópico
+de Cáncer</texto>
+    <hijos/>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>83</ref>
+    <texto>Ecuador</texto>
+    <hijos/>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>84</ref>
+    <texto>Trópico
+de Capricornio</texto>
+    <hijos/>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>85</ref>
+    <texto>círculo polar
+Antártico</texto>
+    <hijos/>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>90</ref>
+    <texto/>
+    <hijos>a0</hijos>
+    <padre>81</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a0</ref>
+    <texto>ecuador</texto>
+    <hijos/>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>43</ref>
+    <texto>mapas</texto>
+    <hijos/>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>44</ref>
+    <texto>planos</texto>
+    <hijos/>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
   </objeto>
 </mapa>
