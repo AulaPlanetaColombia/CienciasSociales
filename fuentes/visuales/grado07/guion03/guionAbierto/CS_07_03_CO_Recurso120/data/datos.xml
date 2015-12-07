@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<motor tipo="101" clase="a" aprid="m101a">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Refuerza tu aprendizaje: Las exploraciones marítimas</titulo>
+    <volumen />
+    <nivel><![CDATA[1]]></nivel>
+    <referencia />
+    <motor />
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario, entrega las respuestas en físico o por email a tu profesor (a) para que pueda validarlas.]]></enunciado>
+  <masinfo inicio="1" />
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="10">
+    <pregunta>
+      <enunciado><![CDATA[Investiga acerca de Enrique el Navegante y explica cuál fue su  importancia para las exploraciones y los intercambios económicos que se vivieron en Portugal durante el siglo XIV.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[1]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Cuáles fueron las razones para que Portugal tuviera un protagonismo fundamental en las exploraciones marítimas en el siglo XIV?]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica las intensiones que tuvieron los portugueses para comenzar las exploraciones marítimas.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[1]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Por qué crees que los reyes de Portugal rechazaron la idea de Colón de zarpar hacia la India por el Oeste y no por Este? Argumenta tu respuesta.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Enumera los principales exploradores portugueses que tuvieron empresas tanto en América, como en África y Asia.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica qué beneficios encontraron los portugueses con estas nuevas exploraciones marítimas, y cómo influyeron en su desarrollo económico y político.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Por qué crees que Portugal no alcanzó a tener una hegemonía tan grande y sólida como la que tuvo la corona española?]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Investiga en qué medida el Tratado de Tordecillas permitió el dominio geopolítico de España y Portugal en el momento de la Conquista de América Central y América del Sur.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿De qué manera las expediciones marítimas permitieron hacer grandes avances científicos que dieron paso al descubrimiento del mundo?]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Cómo se entiende la frase "el encuentro de dos mundos" desde el desarrollo de las expediciones marítimas?]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[3]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+  </preguntas>
+</motor>

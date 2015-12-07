@@ -2,7 +2,6 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="CS_07_03_CO">
 <libroTitulo>Los inicios de la Edad Moderna</libroTitulo>
 <seccion1 id="S1_CS_07_03_CO_CB565E67354A4D1F9AB2F5B2469FD1F8">
@@ -26,7 +25,7 @@ en Inglaterra. Esta y otros conflictos similares, como la guerra de
 Sucesión castellana (1475-1479), contribuyeron a perfilar algunos
 de los instrumentos utilizados por el Estado moderno: la diplomacia,
 una fiscalidad más perfecta y ejércitos permanentes.</p>
-</imagen><?Pub Caret -3?>
+</imagen>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso010&amp;IdRecurso=RES-F78C68069D1F4B95B538A532F0BB5DDB"
@@ -414,7 +413,7 @@ como Enrique <negrita>‘el Navegante’</negrita> , fue quien <negrita
 >costas occidentales de áfrica</negrita>, cuya motivación era esencialmente
 económica<enlace destino="https://www.youtube.com/embed/69DjhMhQm6M"
 > [VER]</enlace>.</p>
-<imagen src="CS_07_03_CO_IMG12_small.jpg">
+<imagen ampliable="no" src="CS_07_03_CO_IMG12_small.jpg">
 <p>(Político de San Vicente. Detalle con Enrique ‘el Navegante’ y
 el príncipe Juan.Museo Nacional de Arte Antiguo, Lisboa, Portugal).
 El príncipe portugués Enrique ‘el Navegante’ (1394-1460) fue el gran
@@ -455,9 +454,14 @@ las ganancias que dejaban a la Corona portuguesa, uno de los principios
 básicos de estas exploraciones por las costas africanas era la de
 mantener un absoluto secreto sobre las corrientes, vientos y rutas
 que iban abriendo.</p>
-<imagen src="CS_07_03_CO_IMG14_small.jpg">
-<p>Pintura de la salida del explorador portugués Vasco da Gama hacia
-la India en 1497.</p>
+<imagen ampliable="no" src="CS_07_03_CO_IMG14_small.jpg">
+<p>Vasco da Gama (1469-1524) fue un navegante portugués, que se destacó
+por realizar el primer viaje marítimo directo entre Portugal e India
+en 1498 tras haber circunnavegado el continente africano; gracias
+a este viaje se estableció una ruta comercial marítima entre Europa
+e India. Como consecuencia de su viaje, los comerciantes portugueses
+pasaron a ejercer una fuerte presencia en India y a tener mayor importancia
+en el tráfico de especias y otras mercancías valiosas.</p>
 </imagen>
 <p>La tarea que se había puesto Enrique ‘el Navegante’ era ir cada
 vez más lejos. En <negrita>1444</negrita> los exploradores portugueses
@@ -477,7 +481,7 @@ fue llegar a los <negrita>mercados de especias</negrita> en Asia,
 para quitarle el control a los venecianos<enlace
 destino="http://olmo.pntic.mec.es/jtac0001/historia/exploradores/india.htm"
 > [VER]</enlace>.</p>
-<imagen src="CS_07_03_CO_IMG15_small.jpg">
+<imagen ampliable="no" src="CS_07_03_CO_IMG15_small.jpg">
 <p>Navegación transoceánica</p>
 </imagen>
 <p>En <negrita>1482</negrita> llegaron a la desembocadura del <negrita
@@ -508,7 +512,7 @@ de enfrentar a unos antiguos y duros enemigos, los <negrita>moros</negrita
 >cristianismo</negrita>. No obstante, España, más adelante, buscará,
 a su vez, una nueva ruta de comercio que le permitirá, sin saberlo,
 hallar un nuevo continente.</p>
-<imagen src="CS_07_03_CO_IMG17_small.jpg">
+<imagen ampliable="no" src="CS_07_03_CO_IMG17_small.jpg">
 <p>La entrada de los musulmanes en la Península Ibérica en 711 se
 convirtió muy pronto en tema de los primeros relatos épicos. Escena
 de una batalla durante la Reconquista, miniatura de un manuscrito
@@ -766,11 +770,15 @@ emprendió el primero de los cuatro viajes que hizo  a América.</p>
 había propuesto al rey Juan II de Portugal llegar a la India por el
 occidente, propuesta que el genovés sustentaba en la idea de la redondez
 de la Tierra.</p>
-<imagen ampliable="no" src="CS_07_03_CO_IMG23_small.jpg">
-<p>Juan II se hizo rey de Portugal en 1413 cuando su padre abdicó
-a la corona para entrar en un monasterio. Era sobrino nieto de Enrique
-‘el Navegante’, así que cuando se hizo rey retomó los viajes y exploraciones
-atlánticas.</p>
+<imagen src="CS_07_03_CO_IMG23_small.jpg">
+<p>El encuentro entre Cristóbal Colón y la reina de Castilla Isabel
+I la Católica, celebrado en 1491, en el que esta se comprometió a
+financiar el viaje transoceánico tras culminar la conquista de Granada,
+fue posible gracias a la influencia que Colón tenía sobre personas
+cercanas a la soberana, como su confesor, Hernando de Talavera, sobre
+Luis de la Cerda, duque de Medinaceli, y sobre fray Juan Pérez. Estos
+personajes, oriundos de la provincia de Hueva, donde se ubicaba el
+puerto de Palos, tenían un especial interés en la navegación marítima.</p>
 </imagen>
 <p>Al rey portugués no le interesó el proyecto, y Cristóbal Colón
 tuvo que esperar una década hasta cuando la reina Isabel de Castilla
@@ -912,12 +920,14 @@ comenzaron a pasar hambre y a morir <negrita>víctimas de enfermedades</negrita
 >, empezó a crecer un gran malestar. Situación a la que se sumó la <negrita
 >indignación</negrita> de la población <negrita>indígena</negrita
 > por los abusos de los peninsulares.</p>
-<imagen ampliable="no" src="CS_07_03_CO_IMG26_small.jpg">
-<p>Los caciques de las diferentes comunidades que habitaban en La
-Española estaban hartos de la presencia de los españoles y de sus
-abusos. El cacique <negrita>Caonabo</negrita>, quien había intentado,
-sin éxito, acabar con el fuerte Santo Tomás, organizó a los caciques
-para unirse y atacar La Isabela, y así sacar a los invasores extranjeros.</p>
+<imagen src="CS_07_03_CO_IMG26_small.jpg">
+<p>Desde el primer viaje de Cristóbal Colón se presentaron los primeros
+enfrentamientos entre españoles e indígenas en el continente americano,
+ya que aquellos se enemistaron con los grupos caribes que habitaban
+en La Española. Estos enfrentamientos tuvieron sus primeros acontecimientos
+destacados cuando un grupo de indígenas, liderados por el cacique <negrita
+>Caonabo</negrita>, atacaron el fuerte de Navidad, y posteriormente
+el fuerte de Santo Tomás, destruyéndolos completamente.</p>
 </imagen>
 <p>Cristóbal Colón decidió regresar a España en <negrita>1496</negrita
 > para frenar el posible <negrita>desprestigio</negrita> del que seguramente
@@ -1072,12 +1082,13 @@ recurrieron al robo y a la profanación de tumbas, o al asalto de los
 pobladores de los lugares a los llegaban.</listaElemento>
 </listaSinNumerar></listaElemento>
 </listaSinNumerar>
-<imagen src="CS_07_03_CO_IMG28_small.jpg">
-<p>La ‘cabalgada’ es un término que se refiere a una expedición en
-busca de un botín en oro, perlas o cualquier objeto que tenga un valor
-monetario. El primer periodo de la Conquista se caracterizó por este
-tipo de asaltos, puesto que el cometido de los españoles era enriquecerse
-rápido sin importar los medios que se usaran.</p>
+<imagen ampliable="no" src="CS_07_03_CO_IMG28_small.jpg">
+<p>En la conquista de las islas, los españoles no encontraron poblados
+ni edificios de gran tamaño, calificando a los bohíos más grandes
+como “mezquitas”, en alusión a los edificios religiosos del Islam.
+Las primeras grandes ciudades solo serían localizadas desde 1519,
+cuando la conquista de México llevó a Hernán Cortés y sus hombres
+hasta Tenochtitlan, la capital azteca.</p>
 </imagen>
 <listaSinNumerar>
 <listaElemento><negrita>La Conquista de tierra firme (1519-1540)</negrita
@@ -1098,7 +1109,7 @@ estaba bien jerarquizada.</listaElemento>
 destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso230&amp;IdRecurso=RES-58FADF9E429741D4B8772D0269C70D38"
 >Conflictos internos en los imperios precolombinos</enlace>
 </practica>
-<imagen src="CS_07_03_CO_IMG29_small.jpg">
+<imagen ampliable="no" src="CS_07_03_CO_IMG29_small.jpg">
 <p>Las conquistas españolas en América. La conquista española se dividió
 en dos fases principales: insular y continental. El periodo insular
 se caracterizó por la desaparición de la población indígena por causa
@@ -1157,7 +1168,7 @@ que no estaban dispuestas a dejarse <negrita>someter</negrita>, de
 tal modo que la mitad de los exploradores de <negrita>Francisco Hernández
 de Córdoba</negrita> murieron y este tuvo que regresar a Cuba con
 los sobrevivientes.</p>
-<imagen src="CS_07_03_CO_IMG31_small.jpg">
+<imagen ampliable="no" src="CS_07_03_CO_IMG31_small.jpg">
 <p>Moctezuma I, emperador de los aztecas, en una miniatura perteneciente
 a <cursiva>Historia de las Indias de Nueva España y las Islas de Tierra
 Firme</cursiva>, 1579, de Diego Durán (Biblioteca Nacional, Madrid,
@@ -1289,7 +1300,7 @@ incas independientes, que no reconocían a los invasores como sus nuevos
 gobernantes. ¿Por qué hasta ese año? Porque los españoles ese año
 encontraron a Vilcabamba, entraron en ella y mataron al inca de ese
 momento, <negrita>Tupac Amarú</negrita>, llegando a su fin el Imperio.</p>
-<imagen src="CS_07_03_CO_IMG36_small.jpg">
+<imagen ampliable="no" src="CS_07_03_CO_IMG36_small.jpg">
 <p>Atahualpa junto a Pizarro en un grabado de la Nueva Crónica y Buen
 Gobierno, de Felipe Huamán Poma de Ayala.</p>
 </imagen>
@@ -1390,7 +1401,7 @@ al rey Enrique VII de apoyarlo. </p>
 > con el patrocinio de la Corona y le otorgó a Caboto los derechos
 de gobernar aquellas tierras que encontrase y obtener ganancias de
 las posibilidades comerciales que allí hubiese. </p>
-<imagen ampliable="no" src="CS_07_03_CO_IMG40_small.jpg">
+<imagen src="CS_07_03_CO_IMG40_small.jpg">
 <p>Giovanni Caboto, navegante <negrita>veneciano</negrita>, quien
 gracias a su testarudez logró la financiación de la <negrita>Corona
 inglesa</negrita>, y con un solo barco llegó a <negrita>Terranova</negrita
@@ -1485,7 +1496,7 @@ y siguió al norte hasta las costas del actual estado de Oregón, y
 allí decidió no continuar y regresar a Inglaterra, pero antes de hacerlo
 tomó posesión, en nombre de la Corona de Inglaterra, del territorio
 y lo nombró <negrita>Nueva Albion</negrita>.</p>
-<imagen ampliable="no" src="CS_07_03_CO_IMG43_small.jpg">
+<imagen src="CS_07_03_CO_IMG43_small.jpg">
 <p>Francis Drake llamó Nueva Albion a la costa del Pacífico de Norteamérica,
 que había explorada entre finales de 1578 y 1579. El nombre que empleó
 no es gratuito, puesto que Albion es el nombre más antiguo que se
@@ -1524,8 +1535,16 @@ tomó posesión de ella en nombre de la Corona inglesa. Gilbert murió
 de  a regreso Inglaterra, víctima de una tormenta en las cercanías
 de las islas <negrita>Azores</negrita>. </p>
 <imagen ampliable="no" src="CS_07_03_CO_IMG44_small.jpg">
-<p>Humphrey Gilbert fue un militar, explorador y parlamentario británico
-que sirvió a la Corona británica durante el reinado de Isabel I.</p>
+<p>Walter Raleigh (1552-1618) fue uno de los exploradores ingleses
+más importantes de los siglos XVI y XVII. Obtuvo de la Corona inglesa
+el privilegio de establecer colonias en América del Norte, participando
+en la fundación de la colonia de la isla de Roanoke, además de explorar
+y darle nombre a la región de Virginia. Posteriormente, en 1595 y
+1617, encabezó dos expediciones a inglesas Sudamérica en búsqueda
+de Eldorado, durante las cuales exploró la cuenca del río Orinoco
+en los actuales territorios de Guyana y Venezuela. En sus viajes tuvo
+violentos enfrentamientos con los colonos españoles, lo cual terminó
+costándole la condena a muerte en su país.</p><?Pub Caret 347?>
 </imagen>
 <p><negrita>Walter Raleigh</negrita>, medio hermano de Gilbert y uno
 de los favoritos de la reina, heredó los permisos para colonizar.
@@ -1640,7 +1659,7 @@ en parte de Suramérica.</p>
 encontradas, en 1500 Juan II envió al navegante <negrita>álvarez de
 Cabral</negrita> a tomar posesión de las costas <negrita>brasileñas</negrita
 > en nombre de la Corona.</p>
-<imagen src="CS_07_03_CO_IMG47_small.jpg">
+<imagen ampliable="no" src="CS_07_03_CO_IMG47_small.jpg">
 <p>Las conquistas portuguesas en América. Españoles y portugueses
 se repartieron el Nuevo Mundo por el tratado de Tordesillas, que fijaba
 los límites de la expansión portuguesa 370 leguas al oeste de Cabo
