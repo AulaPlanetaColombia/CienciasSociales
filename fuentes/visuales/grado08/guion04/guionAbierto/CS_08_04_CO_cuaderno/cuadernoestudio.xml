@@ -1,437 +1,390 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_08_04_CO">
-  <libroTitulo>La Restauración, el liberalismo y los nacionalismos</libroTitulo>
-  <seccion1 id="S1_CS_08_04_CO_5DB8BCE536E943FA9DBC996778A62F81">
-    <seccion1Titulo>Las guerras napoleónicas</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_04_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso010&amp;IdRecurso=RES-85E5729A74594FCF96AFFB5C29F03E6C">El Imperio napoleónico</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_04_CO_img_02_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso020&amp;IdRecurso=RES-48B774D9CAB846839782CC0522675C27">Recurso M1C-01</enlace>
-      </practica>
-      <seccion2 id="S2_CS_08_04_CO_D849B806B3624036B9EDABAC757B4DDA">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_04_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_04_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso050&amp;IdRecurso=RES-FC6DC89B54654B86AC3FF6E872591097">Refuerza tu aprendizaje: La Europa de la Restauración</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_04_CO_img_07_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso070&amp;IdRecurso=RES-B387F086A8114DC1BFA419C748C3B9AF">Refuerza tu aprendizaje: El liberalismo y los nacionalismos</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_04_CO_87C2E2F74EAA484C89A519248C290618">
-    <seccion1Titulo>La Europa de la Restauración</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_04_CO_img_04_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso040&amp;IdRecurso=RES-BB7B30D6DBC94CEC9B40F70CEE3F9524">Entiende qué fue el congreso de Viena</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_04_CO_23FAEA741F4D4A1FADC232B0B415873C">
-    <seccion1Titulo>El liberalismo político y los nacionalismos</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_04_CO_img_06_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso060&amp;IdRecurso=RES-CC0087A8DC584DFAA6B5D7ED3BD1D34A">El liberalismo frente a los nacionalismos</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_04_CO_4AEFE1AC3214487A8A492BB82E83495C">
-    <seccion1Titulo>Las revoluciones liberales</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_08_04_CO_DBCE638F53ED40F089610079D4A2A0B8">
-        <seccion2Titulo>Las revoluciones de 1820</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_04_CO_img_08_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_04_CO_D9059249721C4D82A8E61CA225EFEF58">
-        <seccion2Titulo>Las revoluciones de 1830</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_04_CO_img_09_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_04_CO_D9A3F652DC674388AAE33A62E4245036">
-        <seccion2Titulo>Las revoluciones de 1848</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_04_CO_img_10_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso080&amp;IdRecurso=RES-60A5433E6E44467F8589F51E0AB9D96C">Las revoluciones liberales</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_04_CO_img_11_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso090&amp;IdRecurso=RES-545A8815BEE944B6A60EB22176CD62A8">Analiza la trascendencia de las revoluciones liberales</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_04_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso100&amp;IdRecurso=RES-5D12D73B5DC04D9286B1B392C567E36A">Refuerza tu aprendizaje: Las revoluciones liberales</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_04_CO_80AA38447FE24B94900C8288E737FF5C">
-    <seccion1Titulo>Los procesos de unificación nacional</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_08_04_CO_75F4205671DB4C4F9F5112073766A629">
-        <seccion2Titulo>La unificación italiana</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_04_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_04_CO_52BD072DEC7B4ACCB0163AF4B2E08485">
-        <seccion2Titulo>La unificación alemana</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_04_CO_img_14_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso110&amp;IdRecurso=RES-B4B70401FA1E493480EEAE3B353E9136">Las unificaciones de Italia y de Alemania</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_04_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso120&amp;IdRecurso=RES-00C82C9E712246CAB34E3F10D58490C3">Conoce los procesos de unificación nacional del siglo XIX</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_04_CO_img_16_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso130&amp;IdRecurso=RES-4D37A366949A4D808D0CF653AB10E69C">Recurso M10A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_04_CO_img_17_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso140&amp;IdRecurso=RES-F22207E6018A40D79E7433F82060AE64">Cronología: la Restauración, el liberalismo y los nacionalismos</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_04_CO_img_18_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso150&amp;IdRecurso=RES-CDE0A5D358AA4EADB3D0E20C0DF8440F">Refuerza tu aprendizaje: Los procesos de unificación nacional</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_04_CO_77962AEC0A684395A795FFE58940A001">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_04_CO_img_19_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso160&amp;IdRecurso=RES-A09E21DBAF204694ADD2FE083EE780A3">Competencias: exposición oral sobre un episodio histórico</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_04_CO_img_20_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso170&amp;IdRecurso=RES-181C91DCAE79491A8D6A9C25365B0DB5">Proyecto: análisis de las guerras napoleónicas</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_08_04_CO_C7129526D10E4AB2A26D991B496BE87B">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso190&amp;IdRecurso=RES-B369A884F1F14DDFB10BF39D53CFE14F">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso200&amp;IdRecurso=RES-1ABCBBE21BCC42AE93BE1F3FEAF5BAF4">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>La Restauración, el liberalismo y los nacionalismos</libroTitulo>
+<seccion1 id="S1_CS_08_04_CO_5DB8BCE536E943FA9DBC996778A62F81">
+<seccion1Titulo>Las guerras napoleónicas</seccion1Titulo>
+<seccion1Texto>
+<p>Tras su coronación como emperador de Francia (1804), <negrita>Napoleón
+Bonaparte</negrita> se propuso continuar la guerra contra Gran Bretaña
+y las potencias absolutistas, con el fin de extender las ideas de
+la Revolución francesa.</p>
+<p>Las <negrita>guerras napoleónicas (1806-1815)</negrita> llevaron
+a la conquista de gran parte de Europa por los ejércitos franceses.
+Durante aquel periodo, el imperio napoleónico invadió la Península
+Ibérica, Bélgica, Italia y Alemania.</p>
+<p>Sin embargo, el intento de ocupar Rusia se frustró. A partir de
+entonces, comenzó el repliegue francés, que tuvo que hacer frente
+a otros conflictos paralelos, como la guerra de la <negrita>Independencia
+española (1808-1815)</negrita>.</p>
+<imagen src="CS_08_04_CO_IMG01_small.jpg">
+<p>Las tropas de Napoleón (más de 500 000 hombres) iniciaron la conquista
+de Rusia en el verano de 1812. Aunque llegaron hasta Moscú, que fue
+incendiado, el <negrita>hambre</negrita> y el <negrita>duro invierno</negrita
+> diezmaron los ejércitos napoleónicos, que tuvieron que retirarse
+hacia Alemania. Tras esto, Rusia, Austria, Prusia y Suecia forjaron
+una alianza que los llevó a imponerse sobre los franceses en la decisiva <negrita
+>batalla de Leipzig (1813)</negrita>.</p>
+</imagen>
+<p>El final de las guerras napoleónicas se produjo con la <negrita
+>derrota de Napoleón</negrita> en la <negrita>batalla de Waterloo</negrita
+> (18 de junio de 1815). Posteriormente, fue enviado como prisionero
+de guerra a la isla de Santa Elena, frente a las costas de África
+del sur, mientras que en el trono de Francia se restituía la monarquía
+absoluta de los Borbones, en la cabeza de <negrita>Luis XVIII</negrita
+> (1814-1824).</p>
+<destacado><destacadoTitulo>Los Cien Días</destacadoTitulo>
+<destacadoTexto>
+<p>Tras la ocupación de París por parte de las tropas aliadas, Napoleón
+se vio forzado a <negrita>abdicar</negrita> (6 de abril de 1814) y
+a exiliarse en la isla de Elba. Sin embargo, ante el creciente descontento
+popular que había en Francia con <negrita>Luis XVIII</negrita>, Napoleón
+reunió una pequeña tropa de mil hombres y ocupó París (20 de marzo
+de 1815). Con ello se abrió el periodo de los <negrita>Cien Días</negrita
+>, aunque una nueva coalición de potencias europeas derrotó de forma
+definitiva a Napoleón en la <negrita>batalla de Waterloo</negrita
+>.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso010&amp;IdRecurso=RES-85E5729A74594FCF96AFFB5C29F03E6C"
+>El Imperio napoleónico</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso020&amp;IdRecurso=RES-48B774D9CAB846839782CC0522675C27"
+>Recuerda algunos hechos y personajes importantes de las guerras napoleónicas</enlace>
+</practica><seccion2
+id="S2_CS_08_04_CO_D849B806B3624036B9EDABAC757B4DDA">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso030&amp;IdRecurso=RES-DEBDABE8FEF0480CA43FA15C8747315C"
+>Refuerza tu aprendizaje: Las guerras napoleónicas</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_04_CO_87C2E2F74EAA484C89A519248C290618">
+<seccion1Titulo>La Europa de la Restauración</seccion1Titulo>
+<seccion1Texto>
+<p>El hundimiento del imperio napoleónico llevó a la celebración del <negrita
+>congreso de Viena (1814-1815)</negrita>, en el cual las potencias
+vencedoras acordaron restablecer las <negrita>monarquías absolutas</negrita
+> donde habían sido derrocadas. Aquello implicaba:</p>
+<listaSinNumerar>
+<listaElemento>La restauración del <negrita>Antiguo Régimen</negrita
+>.</listaElemento>
+<listaElemento>La redefinición de las <negrita>fronteras europeas</negrita
+>.</listaElemento>
+</listaSinNumerar>
+<p>En el marco del Congreso y por propuesta del zar de Rusia, se creó
+la <negrita>Santa Alianza</negrita>, una coalición militar construida
+sobre un <negrita>tratado de ayuda mutua contra el liberalismo</negrita
+>, suscrito por <negrita>Prusia</negrita>, <negrita>Rusia</negrita
+>, <negrita>Austria</negrita> y <negrita>Francia</negrita>.</p>
+<imagen src="CS_08_04_CO_IMG02_small.jpg">
+<p>La <negrita>Santa Alianza</negrita> fue el resultado del pacto
+entre <negrita>Alejandro I de Rusia</negrita>, <negrita>Francisco
+II de Austria</negrita> y <negrita>Federico Guillermo III de Prusia</negrita
+>, luego de la derrota de Napoleón (1815). A ellos se unió <negrita
+>Luis XVIII</negrita> de Francia, quien había restaurado el absolutismo
+en su país. Se trataba de una <negrita>alianza militar</negrita> mediante
+la cual sus miembros se comprometían a intervenir militarmente cuando
+algún país se viera amenazado por las ideas liberales.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso040&amp;IdRecurso=RES-BB7B30D6DBC94CEC9B40F70CEE3F9524"
+>Entiende qué fue el congreso de Viena</enlace>
+</practica><seccion2
+id="S2_CS_08_04_CO_D849B806B3624036B9EDABAC757B5FFB">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso050&amp;IdRecurso=RES-FC6DC89B54654B86AC3FF6E872591097"
+>Refuerza tu aprendizaje: La Europa de la Restauración</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_04_CO_23FAEA741F4D4A1FADC232B0B415873C">
+<seccion1Titulo>El liberalismo político y los nacionalismos</seccion1Titulo>
+<seccion1Texto>
+<p>A pesar de la derrota francesa, las guerras napoleónicas contribuyeron
+a difundir las <negrita>ideas liberales</negrita>, derivadas del <negrita
+>pensamiento ilustrado</negrita> del siglo XVIII. Estas reclamaban:</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>soberanía</negrita> nacional.</listaElemento>
+<listaElemento>La <negrita>división</negrita> de poderes</listaElemento>
+<listaElemento>El derecho de <negrita>propiedad</negrita>.</listaElemento>
+<listaElemento>La <negrita>igualdad</negrita> ante la ley.</listaElemento>
+</listaSinNumerar>
+<imagen ampliable="no" src="CS_08_04_CO_IMG03_small.jpg">
+<p>El escritor y político francés <negrita>Alexis de Tocqueville</negrita
+> fue uno de los grandes teóricos del <negrita>liberalismo político</negrita
+> en el siglo XIX. Defendía el modelo político implantado en Estados
+Unidos, tras su independencia. </p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Las ideas liberales se extendieron por <negrita>Europa</negrita
+> y también tomaron fuerza en las <negrita>colonias españolas en América</negrita
+>.</p>
+</recuerdaTexto></recuerda>
+<p>La propagación de las ideas liberales por Europa contribuyó, al
+mismo tiempo, a despertar una serie de <negrita>reivindicaciones nacionalistas</negrita
+> en aquellos territorios sometidos al dominio de alguna de las potencias
+de la época o que estaban divididos, a pesar de compartir una cultura.</p>
+<p>Los nacionalistas defendían la idea del <negrita>Estado-nación</negrita
+>, concebido como el espacio ocupado por una <negrita>comunidad nacional</negrita
+> que comparte, entre otros aspectos: <negrita>territorio</negrita
+>, <negrita>lengua</negrita>, <negrita>cultura</negrita> e <negrita
+>historia</negrita>.</p>
+<destacado><destacadoTitulo>El Romanticismo y el nacionalismo</destacadoTitulo>
+<destacadoTexto>
+<p>El <negrita>Romanticismo</negrita>, un movimiento artístico y cultural
+surgido a finales del siglo XVIII, influyó en el desarrollo del <negrita
+>nacionalismo</negrita> en Europa. La <negrita>exaltación de los sentimientos</negrita
+> frente a la razón, así como la <negrita>defensa de la libertad</negrita
+> y el <negrita>individualismo</negrita>, definían este movimiento
+que buscó las <negrita>esencias nacionales</negrita> en un pasado
+remoto (la Edad Media).</p>
+</destacadoTexto></destacado>
+<p>El <negrita>rechazo</negrita> de las invasiones napoleónicas y
+los cambios fronterizos que siguieron a la celebración del <negrita
+>congreso de Viena</negrita> (1815), junto con la difusión de las <negrita
+>ideas románticas</negrita>, propiciaron la aparición de distintos <negrita
+>movimientos nacionalistas</negrita>, tanto en las naciones divididas
+en Estados (Alemania e Italia), como en los pueblos sometidos a otros
+(como Hungría y Bulgaria).</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso060&amp;IdRecurso=RES-CC0087A8DC584DFAA6B5D7ED3BD1D34A"
+>El liberalismo frente a los nacionalismos</enlace>
+</profundiza><seccion2
+id="S2_CS_08_04_CO_D849B806B3624036B9EDABAC757B9RRE">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso070&amp;IdRecurso=RES-B387F086A8114DC1BFA419C748C3B9AF"
+>Refuerza tu aprendizaje: El liberalismo y los nacionalismos</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_04_CO_4AEFE1AC3214487A8A492BB82E83495C">
+<seccion1Titulo>Las revoluciones liberales</seccion1Titulo>
+<seccion1Texto>
+<p>Las ideas liberales fueron defendidas en distintas <negrita>oleadas
+revolucionarias</negrita> a lo largo del siglo XIX. A pesar de que
+la derrota de Napoleón supuso el restablecimiento del absolutismo,
+las <negrita>ideas liberales</negrita> ya se conocían en los países
+que habían participado en las guerras napoleónicas. Esto cambió el
+curso de la historia.</p>
+<seccion2 id="S2_CS_08_04_CO_DBCE638F53ED40F089610079D4A2A0B8">
+<seccion2Titulo>Las revoluciones de 1820</seccion2Titulo>
+<seccion2Texto>
+<p>Las <negrita>revoluciones de 1820</negrita> fueron encabezadas
+por levantamientos militares contra el absolutismo, pero estos fueron
+reprimidos por la <negrita>Santa Alianza</negrita>, la cual tuvo que
+intervenir en <negrita>España</negrita>, <negrita>Nápoles</negrita
+> y <negrita>Piamonte</negrita>.</p>
+<destacado><destacadoTitulo>El Trienio Liberal (1820-1823)</destacadoTitulo>
+<destacadoTexto>
+<p>Entre 1820 y 1823, un pronunciamiento militar permitió restaurar
+en España el <negrita>régimen constitucional</negrita>. El rey Fernando
+VII, quien juró la Constitución de 1812, le pidió ayuda a la <negrita
+>Santa Alianza</negrita>, que envió a los <negrita>Cien mil hijos
+de San Luis</negrita>, un gran ejército que tuvo la misión de acabar
+el régimen liberal y propiciar la restauración del absolutismo en
+España.</p>
+</destacadoTexto></destacado>
+<p>Sin embargo, durante aquella década se produjo el triunfo de las
+revoluciones en <negrita>Grecia</negrita> (guerra de independencia
+griega contra el dominio turco) y en las <negrita>colonias españolas
+en América</negrita> (guerras de independencia de la América colonial).</p>
+<imagen ampliable="no" src="CS_08_04_CO_IMG04_small.jpg">
+<p>La <negrita>guerra de liberación griega (1821-1829)</negrita> contra
+el dominio otomano fue uno de los acontecimientos más destacados de
+la década de 1820. El <negrita>congreso de Epidauro</negrita>, celebrado
+en 1822, proclamó la independencia de Grecia con el apoyo de las principales
+potencias europeas. <cursiva>La matanza de Quíos</cursiva> (1824),
+de Eugène Delacroix, conmemora uno de los episodios más sangrientos
+del conflicto.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_04_CO_D9059249721C4D82A8E61CA225EFEF58">
+<seccion2Titulo>Las revoluciones de 1830</seccion2Titulo>
+<seccion2Texto>
+<p>En la década de 1830, se produjo una segunda oleada de movimientos
+revolucionarios, cuya extensión y consecuencias políticas fueron más
+importantes que las de la etapa anterior. Las <negrita>revoluciones
+de 1830</negrita> recuperaron los <negrita>valores de la Revolución
+francesa</negrita>.</p>
+<p>En esta ocasión, la burguesía contó con el <negrita>apoyo</negrita
+> de las <negrita>clases populares</negrita> como consecuencia del
+contexto de crisis económica por el que atravesaba Europa.</p>
+<imagen src="CS_08_04_CO_IMG05_small.jpg">
+<p>Uno de los principales símbolos de la <negrita>Revolución francesa
+de 1830</negrita> es la obra <cursiva>La libertad guiando al pueblo</cursiva
+> (1830), de Eugène Delacroix. Aquella revolución forzó a <negrita
+>Carlos X de Francia</negrita> (absolutista) a abdicar a favor de <negrita
+>Luis Felipe de Orleans</negrita> (liberal), quien se mantuvo en el
+trono hasta 1848.</p>
+</imagen>
+<p>Las revoluciones liberales de 1830 triunfaron en <negrita>Francia</negrita
+> (<negrita>Carlos X</negrita> abdicó en favor de <negrita>Luis Felipe
+de Orleans</negrita>) y <negrita>Bélgica</negrita> (logró la <negrita
+>independencia</negrita> de los <negrita>Países Bajos</negrita>).
+En <negrita>España</negrita>, <negrita>Suiza</negrita> y <negrita
+>Portugal</negrita> se produjo el retorno de los liberales al poder.
+Sin embargo, estas revoluciones fracasaron en otros territorios europeos,
+como <negrita>Italia</negrita>, <negrita>Polonia</negrita> y <negrita
+>Prusia</negrita>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_04_CO_D9A3F652DC674388AAE33A62E4245036">
+<seccion2Titulo>Las revoluciones de 1848</seccion2Titulo>
+<seccion2Texto>
+<p>Durante las <negrita>revoluciones de 1848</negrita>, conocidas
+como la “<negrita>primavera de los pueblos</negrita>”, se presentaron
+las siguientes peticiones:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Reivindicaciones liberales</negrita>, por
+parte de la burguesía.</listaElemento>
+<listaElemento><negrita>Demandas sociales</negrita>, por parte de
+las clases populares.</listaElemento>
+<listaElemento><negrita>Reivindicaciones nacionalistas</negrita>.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_08_04_CO_IMG06_small.jpg">
+<p>En febrero de 1848, se produjo el estallido de una nueva revolución
+en París. La <negrita>burguesía liberal</negrita>, apoyada por los <negrita
+>obreros</negrita>, proclamó la <negrita>Segunda República</negrita
+>. Sin embargo, el retorno al poder de la <negrita>burguesía moderada</negrita
+> propició que <negrita>Luis Napoleón Bonaparte</negrita>, presidente
+desde 1848, fuera elegido emperador del <negrita>Segundo Imperio francés
+(1852-1870)</negrita>.</p>
+</imagen>
+<p>A pesar del estallido de revoluciones en distintos lugares de Europa,
+se produjo un <negrita>fracaso general</negrita>. Sin embargo, las
+ideas liberales y nacionalistas se vieron refrendadas por una población
+compuesta, en mayor parte, por burgueses y por una incipiente clase
+obrera, surgida a raíz de la <negrita>Revolución Industrial</negrita
+>, que empezaba a reclamar políticas progresistas y democráticas,
+sufragio universal masculino, soberanía popular, defensa de la república
+como forma de gobierno, etc. Además, surgieron las primeras ideas
+socialistas como nueva opción política.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso080&amp;IdRecurso=RES-60A5433E6E44467F8589F51E0AB9D96C"
+>Las revoluciones liberales</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso090&amp;IdRecurso=RES-545A8815BEE944B6A60EB22176CD62A8"
+>Analiza la trascendencia de las revoluciones liberales</enlace>
+</practica><destacado><destacadoTitulo>El Segundo Imperio francés</destacadoTitulo>
+<destacadoTexto>
+<p>Tras un golpe de Estado, <negrita>Napoleón III</negrita> inauguró
+el <negrita>Segundo Imperio francés (1852-1870)</negrita>. Este impuso
+un <negrita>régimen autoritario</negrita> en el que el emperador asumió
+el poder ejecutivo y restringió el poder del Parlamento. Durante este
+periodo se impulsaron <negrita>obras públicas</negrita>, se produjo
+la <negrita>intervención militar en México</negrita> (1862-1866) y
+tuvo lugar la <negrita>guerra franco-prusiana</negrita> (1870-1871),
+conflicto que puso fin al Segundo Imperio francés.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_04_CO_D849B806B3624036B9EDABAC757B3AAT">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso100&amp;IdRecurso=RES-5D12D73B5DC04D9286B1B392C567E36A"
+>Refuerza tu aprendizaje: Las revoluciones liberales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_04_CO_80AA38447FE24B94900C8288E737FF5C">
+<seccion1Titulo>Los procesos de unificación nacional</seccion1Titulo>
+<seccion1Texto>
+<p>A lo largo del siglo XIX, se produjo un aumento de las reivindicaciones
+nacionalistas. Sobre esa base ideológica se dieron las unificaciones
+de Italia y de Alemania.</p>
+<seccion2 id="S2_CS_08_04_CO_75F4205671DB4C4F9F5112073766A629">
+<seccion2Titulo>La unificación italiana</seccion2Titulo>
+<seccion2Texto>
+<p>A mediados del siglo XIX, la Península Itálica era un conglomerado
+de distintos territorios. Además, una parte se encontraba bajo el
+dominio del imperio austríaco. El proceso de unificación de los territorios
+italianos estuvo encabezado por <negrita>Camilo Benso de Cavour</negrita
+>, primer ministro de Piamonte, y <negrita>Giuseppe Garibaldi</negrita
+>, líder de los Camisas Rojas.</p>
+<p>Así, mientras el primero puso fin a la <negrita>ocupación austríaca</negrita
+> del norte de Italia, el segundo logró acabar con las <negrita>monarquías
+del centro</negrita> y del <negrita>sur del país</negrita>.</p>
+<imagen src="CS_08_04_CO_IMG07_small.jpg">
+<p><negrita>Giuseppe Garibaldi</negrita> fue uno de los personajes
+más importantes en el proceso de unificación italiana. El estallido
+de la guerra, en 1859, lo llevó a ponerse al frente de la <negrita
+>expedición de los Mil</negrita> o <negrita>de los Camisas Rojas</negrita
+>. Tras desembarcar en <negrita>Marsala</negrita>, conquistó el <negrita
+>Reino de las Dos Sicilias</negrita> (1860). En los años siguientes
+continuó su lucha contra los austríacos, aunque sus ideas revolucionarias
+lo enfrentaron al <negrita>rey Víctor Manuel II</negrita>.</p><?Pub
+Caret 440?>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_04_CO_52BD072DEC7B4ACCB0163AF4B2E08485">
+<seccion2Titulo>La unificación alemana</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_04_CO_img_08_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso110&amp;IdRecurso=RES-B4B70401FA1E493480EEAE3B353E9136"
+>Las unificaciones de Italia y de Alemania</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso120&amp;IdRecurso=RES-00C82C9E712246CAB34E3F10D58490C3"
+>Conoce los procesos de unificación nacional del siglo XIX</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso130&amp;IdRecurso=RES-4D37A366949A4D808D0CF653AB10E69C"
+>Recurso M10A-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso140&amp;IdRecurso=RES-F22207E6018A40D79E7433F82060AE64"
+>Cronología: la Restauración, el liberalismo y los nacionalismos</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso150&amp;IdRecurso=RES-CDE0A5D358AA4EADB3D0E20C0DF8440F"
+>Refuerza tu aprendizaje: Los procesos de unificación nacional</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_04_CO_77962AEC0A684395A795FFE58940A001">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso160&amp;IdRecurso=RES-A09E21DBAF204694ADD2FE083EE780A3"
+>Competencias: exposición oral sobre un episodio histórico</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso170&amp;IdRecurso=RES-181C91DCAE79491A8D6A9C25365B0DB5"
+>Proyecto: análisis de las guerras napoleónicas</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_08_04_CO_C7129526D10E4AB2A26D991B496BE87B"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso190&amp;IdRecurso=RES-B369A884F1F14DDFB10BF39D53CFE14F"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso200&amp;IdRecurso=RES-1ABCBBE21BCC42AE93BE1F3FEAF5BAF4"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+</enlacesreferencia></masinformacion></libro>
