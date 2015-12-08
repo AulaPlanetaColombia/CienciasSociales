@@ -2,6 +2,7 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub EntList lt?>
 <libro id="CS_07_03_CO">
 <libroTitulo>Los inicios de la Edad Moderna</libroTitulo>
 <seccion1 id="S1_CS_07_03_CO_CB565E67354A4D1F9AB2F5B2469FD1F8">
@@ -267,10 +268,10 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso070&amp;IdRecurso=RES-8E794E
 <p>En el <negrita>siglo XIV</negrita> Europa comenzó a cambiar y entró
 en crisis tanto en el ámbito económico y político como en el demográfico.</p>
 <p>La economía feudal, basada en la agricultura, era insuficiente
-para alimentar a una población cada vez más numerosque crecía. Por
+para alimentar a una población cada vez más numeros que crecía. Por
 mucho tiempo sus técnicas de cultivo no se habían modificado y le
 era imposible afrontar los cambios climáticos que por varios años
-habían golpeado al continente, lo que acabó con grandes extensiones
+ habían golpeado al continente, lo que acabó con grandes extensiones
 de cultivos.</p>
 <p>La significativa disminución de cosechas, durante varios años continuos,
 hizo que los pocos productos que se hallaban en los mercados fuesen
@@ -437,7 +438,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso100&amp;IdRecurso=RES-A2CAEA
 siglos XIV y XV</enlace>
 </practica>
 <imagen src="CS_07_03_CO_IMG13_small.jpg">
-<p>El explorador portugués Joao Gonçalves Zarco descubrió en 1419
+<p>El explorador portugués Joao Gonçalves Zarco descubrió en 1419
 el archipiélago de Maidera, pero solo fue un año después que lo reclamó
 territorio portugués para ofrecérselo al príncipe. Pocos años después
 se estableció allí un sistema de plantaciones para el cultivo de azúcar.</p>
@@ -575,8 +576,8 @@ destino="https://www.youtube.com/embed/KWOaP17JFEQ "> [VER]</enlace
 <imagen src="CS_07_03_CO_IMG18_small.jpg">
 <p>La importancia política de los Médicis tuvo su origen en el poder
 económico del banco familiar. <cursiva>(Los banqueros Médicis</cursiva
->, detalle del fresco de Niccolò Gerini. Capilla Migliorati, iglesia
-de San Francisco, Prato, Italia).</p>
+>, detalle del fresco de Niccolò Gerini. Capilla Migliorati, iglesia
+de San Francisco, Prato, Italia).</p><?Pub Caret 36?>
 </imagen>
 <seccion3 id="S3_CS_07_03_CO_A499C05C48864800B146F87ACEE7BA15">
 <seccion3Titulo>Las compañías por comandita</seccion3Titulo>
@@ -1544,7 +1545,7 @@ y darle nombre a la región de Virginia. Posteriormente, en 1595 y
 de Eldorado, durante las cuales exploró la cuenca del río Orinoco
 en los actuales territorios de Guyana y Venezuela. En sus viajes tuvo
 violentos enfrentamientos con los colonos españoles, lo cual terminó
-costándole la condena a muerte en su país.</p><?Pub Caret 347?>
+costándole la condena a muerte en su país.</p>
 </imagen>
 <p><negrita>Walter Raleigh</negrita>, medio hermano de Gilbert y uno
 de los favoritos de la reina, heredó los permisos para colonizar.
