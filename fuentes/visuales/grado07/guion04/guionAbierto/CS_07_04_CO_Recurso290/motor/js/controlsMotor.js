@@ -121,7 +121,7 @@ function Imagen( pregunta ){
 	}
 }
 Imagen.prototype.zooming = function(evt){
-	if( evt.primary ){
+	if( evt == null || evt.primary ){
 		Main.stage.setChildIndex ( this.ampliacion.contenedor,  Main.stage.getNumChildren () - 1 );
 		this.ampliacion.contenedor.visible = true;
 		createjs.Tween.get(this.ampliacion.contenedor).to({alpha:1}, 500, createjs.Ease.circOut);
@@ -167,7 +167,7 @@ function Ampliacion(pregunta)
 	this.contenedor.on("mouseout", function(evt){ document.body.style.cursor='default'; });
 }
 Ampliacion.prototype.tancar= function(evt){
-	if( evt.primary ){
+	if( evt == null || evt.primary ){
 		createjs.Tween.get(this).to({alpha:0}, 500, createjs.Ease.circOut);
 	}
 }
@@ -246,7 +246,7 @@ function CheckBox(resposta, pagina, index, pregunta)
 
 }
 CheckBox.prototype.pressHandler = function(evt){
-	if(evt.primary){
+	if(evt == null || evt.primary){
 		//deseleccionem en cas de resposta unica
 		if(this.repostaUnica == 1)
 		{
