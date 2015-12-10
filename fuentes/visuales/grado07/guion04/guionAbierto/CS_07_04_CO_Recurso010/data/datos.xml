@@ -1,69 +1,108 @@
-<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f6"><main layout="2">
-<title>Conoce el Pensamiento Humanista</title>
-<footer>Selecciona una imagen</footer>
-</main>
-<sections>
-<section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_07_04_REC10_IMG01n.jpg" border="0">
-<title><![CDATA[Erasmo de Rotterdam (Holanda, 1466-1536)]]></title>
-</menuImage>
-<pages>
-<page i="0" visible="true" color="">
-<title>Erasmo de Rotterdam</title>
-<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Erasmo de Rotterdman fue uno de los pioneros en el cambio de una concepci&oacute;n teoc&eacute;ntrica de la sociedad&nbsp;&mdash;donde el poder se organiza alrededor de Dios y la Iglesia&mdash;, hacia una concepci&oacute;n antropoc&eacute;ntrica de la sociedad&nbsp;&mdash;en la cual lo social gira en torno al individuo&mdash;. Para &eacute;l la educaci&oacute;n era la base para que el individuo pudiera cuestionar la Iglesia y el gobierno. Entre sus obras m&aacute;s importantes se encuentran los &quot;Adagios&quot; y &quot;Elogio de la Locura&quot;.</span></span></p>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f6">
+  <main layout="2">
+    <title>Conoce el pensamiento humanista</title>
+    <footer>Selecciona una imagen</footer>
+  </main>
+  <sections>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="CS_07_04_REC10_IMG01n.jpg" border="0">
+        <title><![CDATA[El Humanismo y la religión]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>El Humanismo y la religión</title>
+          <description><![CDATA[<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">La postura de los pensadores humanistas fue cr&iacute;tica frente a algunos de los aspectos m&aacute;s importantes de la Iglesia que, durante la Edad Media, hab&iacute;a adquirido no solo un gran poder sino una notoria&nbsp;acumulaci&oacute;n de riquezas, proveniente de <strong>las indulgencias </strong>y de los ingresos conseguidos por los Estados Pontificios.</span></font></p>
+
+<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">Los humanistas fueron reacios frente a la vida ostentosa que llevaban el papa y otros representantes de la Iglesia. Esto los llev&oacute; a cuestionarse si realmente la Iglesia cat&oacute;lica pod&iacute;a ser una interlocutora v&aacute;lida entre el ser humano y Dios.</span></font></p>
+
+<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">Algunos de los pensadores m&aacute;s importantes de esta &eacute;poca, que perduraron por sus ideas cr&iacute;ticas y reacias frente a la realidad de la Iglesia del siglo XV, fueron:</span></font></p>
+
+<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">- Lorenzo Valla (1407-1457)<br />
+- Erasmo de Rotterdam&nbsp;(1469-1536)</span></font><br />
+<font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">- Tom&aacute;s Moro (1478-1535)</span></font></p>
 ]]></description>
-<images>
-<image path="CS_07_04_REC10_IMG01ln.jpg" border = "0" pathbig="CS_07_04_REC10_IMG01la.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
-</page>
-</pages>
-</section><section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_07_04_REC10_IMG02n.jpg" border="0">
-<title><![CDATA[Francesco Petrarca (Italia, 1304-1374)]]></title>
-</menuImage>
-<pages>
-<page i="0" visible="true" color="">
-<title>Francesco Petrarca</title>
-<description><![CDATA[<span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Petrarca fue un escritor italiano que durante gran parte de su vida trabaj&oacute; para la Iglesia cat&oacute;lica al servicio del cardenal Giovanni Colonna. Esta ocupaci&oacute;n le permiti&oacute; viajar por toda Europa y desarrollar, a trav&eacute;s de su obra, sus ideas humanistas. En sus escritos (entre los que destacan &quot;&Aacute;frica&quot; y &quot;El Cancionero&quot;) se puede ver no solo la gran influencia en cuanto a estilo literario sino tambi&eacute;n la relaci&oacute;n entre el amor y la fe, algo que marc&oacute; a este autor en su vida personal.&nbsp;</span></span>]]></description>
-<images>
-<image path="CS_07_04_REC10_IMG02ln.jpg" border = "0" pathbig="CS_07_04_REC10_IMG02la.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
-</page>
-</pages>
-</section><section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_07_04_REC10_IMG03n.jpg" border="0">
-<title><![CDATA[Antonio de Nebrija (España, 1441-1522)]]></title>
-</menuImage>
-<pages>
-<page i="0" visible="true" color="">
-<title>Antonio de Nebrija </title>
-<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Esta importante figura del humanismo espa&ntilde;ol centr&oacute; su trabajo en el lenguaje, y tambi&eacute;n fue historiador, astr&oacute;nomo y poeta. Nebrija pensaba que la gram&aacute;tica era la base de toda ciencia y por eso era fundamental, como en todo el resto del humanismo, volver a los cl&aacute;sicos para reinventar el lenguaje. En 1492 public&oacute; la que es considerada el primer compendio de gram&aacute;tica del espa&ntilde;ol y en los siguientes dos a&ntilde;os publica diccionarios espa&ntilde;ol-latin-espa&ntilde;ol ya que cre&iacute;a que el lat&iacute;n, por ser la lengua cl&aacute;sica, era una lengua superior.&nbsp;</span></span></p>
+          <images>
+            <image path="0007GO01.jpg" border="0" pathbig="0007GO01.jpg">
+              <title><![CDATA[Alejandro VI es uno de los ejemplos más representativos del poder de la Iglesia tanto en lo político como en lo económico durante el siglo XV.]]></title>
+            </image>
+            <image path="0006XX011.jpg" border="0" pathbig="0006XX011.jpg">
+              <title><![CDATA[Erasmo de Rotterdam fue uno de los humanistas más influyentes de su época por rescatar los valores éticos de la religión, entendida como una verdadera mímesis de la vida de Cristo.]]></title>
+            </image>
+            <image path="000F7V01.jpg" border="0" pathbig="000F7V01.jpg">
+              <title><![CDATA[Con su obra "Utopia" (1516), Moro critica los valores cristianos de su época proponiendo una nueva organización social.  ]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="CS_07_04_REC10_IMG02n.jpg" border="0">
+        <title><![CDATA[El Humanismo y la literatura]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>El Humanismo y la literatura</title>
+          <description><![CDATA[<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">La literatura humanista recogi&oacute; los elementos literarios y los conceptos de los cl&aacute;sicos. Sus temas ahondaron en lo humano, el amor, la mitolog&iacute;a grecorromana y la naturaleza.</span></font></p>
+
+<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">Los autores humanistas interiorizaron las nuevas formas po&eacute;ticas surgidas en la Italia medieval tales como el <strong>soneto</strong> y la <strong>octava real</strong>, con algunos tintes cl&aacute;sicos&nbsp;en el estilo.&nbsp;</span></font></p>
+
+<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">El autor m&aacute;s representativo de esta &eacute;poca es el italiano Francesco Petrarca (1304-1374), conocido por su obra el&nbsp;<em>Canzoniere</em>, dedicado a su gran amor: Laura. Este escrito re&uacute;ne, por un lado, la filosof&iacute;a de la &eacute;poca, y por otro, su gran pasi&oacute;n por el lat&iacute;n y su inalcanzable b&uacute;squeda de perfecci&oacute;n en la lengua.</span></font></p>
 ]]></description>
-<images>
-<image path="CS_07_04_REC10_IMG03ln.jpg" border = "0" pathbig="CS_07_04_REC10_IMG03la.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
-</page>
-</pages>
-</section><section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_07_04_REC10_IMG04n.jpg" border="0">
-<title><![CDATA[Tomás Moro (Londres, 1478 -1535)]]></title>
-</menuImage>
-<pages>
-<page i="0" visible="true" color="">
-<title>Tomás Moro</title>
-<description><![CDATA[<span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 20px;">Este abogado y fil&oacute;sofo ingl&eacute;s mantuvo relaciones con otros pensadores de su &eacute;poca, especialmente con Erasmo de Rotterdam. A pesar de su ferviente fe, fue un cr&iacute;tico del sistema mon&aacute;rquico y eclesi&aacute;stico que imperaba en Europa gracias a la injusticia social que dicho r&eacute;gimen tra&iacute;a a la poblaci&oacute;n. Moro renunci&oacute; a su posici&oacute;n dentro de la nobleza durante el reinado de Enrique VIII por los constantes abusos que este perpetr&oacute; contra la Iglesia, y por la escandalosa vida personal que llevaba el monarca ingl&eacute;s. Por este rechazo, el rey lo tom&oacute; preso y lo ejecut&oacute; en 1535. La Iglesia cat&oacute;lica lo canoniz&oacute; en 1935 y su obra m&aacute;s destacada es Utop&iacute;a (1516), un lugar donde los gobernantes son elegidos popularmente y no exist&iacute;a la propiedad privada.&nbsp;En ella, como en el resto de humanistas aparecen referencias al pensamiento cl&aacute;sico.&nbsp;</span></span>]]></description>
-<images>
-<image path="CS_07_04_REC10_IMG04ln.jpg" border = "0" pathbig="CS_07_04_REC10_IMG04la.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
-</page>
-</pages>
-</section></sections>
+          <images>
+            <image path="0015IC011.jpg" border="0" pathbig="0015IC01.jpg">
+              <title><![CDATA[Petrarca fue uno de los autores más influyentes del pensamiento humanista en Europa por el estudio de los clásicos y por tomar como modelo su concepción de la vida.]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="0022FF01.jpg" border="0">
+        <title><![CDATA[El Humanismo y el Renacimiento]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>El Humanismo y el Renacimiento</title>
+          <description><![CDATA[<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">El humanismo es considerado&nbsp;una primera etapa del periodo renacentista dado que coinciden en muchos conceptos ideol&oacute;gicos, entre estos encontramos:<br />
+- El inter&eacute;s por los cl&aacute;sicos<br />
+- El auge de Florencia en los siglos XIV y XV a nivel cultural, pol&iacute;tico y social, y motivo de ejemplo y difusi&oacute;n cultural en toda Europa.<br />
+-La descentralizaci&oacute;n de la religi&oacute;n en la cultura y en la concepci&oacute;n de sociedad.</span></font></p>
+]]></description>
+          <images>
+            <image path="0022FJ01.jpg" border="0" pathbig="0022FJ01.jpg">
+              <title><![CDATA[El tema mitológico es uno de los más recurrentes en el Renacimiento, heredado del Humanismo]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="000JTY01.jpg" border="0">
+        <title><![CDATA[El Humanismo y la filosofía]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>El Humanismo y la filosofía</title>
+          <description><![CDATA[<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">La filosof&iacute;a humanista se fund&oacute; en el estudio del pensamiento cl&aacute;sico griego y romano, ya que sosten&iacute;an que en &eacute;l se encontraba un aut&eacute;ntico modelo de humanidad. Este fervor por los cl&aacute;sicos los llevo a redescubrir las obras de Plat&oacute;n y Arist&oacute;teles, principalmente; determinando un quiebre fundamental con la filosof&iacute;a medieval, centrada en Dios y no en el hombre.</span></font></p>
+
+<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">Esta re lectura de los cl&aacute;sicos, dio paso a dos tendencias filos&oacute;ficas:</span></font></p>
+
+<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">-Plat&oacute;nica, con una tendencia m&aacute;s humanista.<br />
+-Aristot&eacute;lica, con una tendencia hacia el naturalismo.</span></font></p>
+
+<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">Michel de Montaigne (1533-1592) fue un fil&oacute;sofo que dist&oacute; de las concepciones plat&oacute;nicas y aristot&eacute;licas, orientando su pensamiento hacia una visi&oacute;n m&aacute;s esc&eacute;ptica.</span></font></p>
+]]></description>
+          <images>
+            <image path="000FFH01.jpg" border="0" pathbig="000FFH01.jpg">
+              <title><![CDATA[Michel de Montaigne creó una nueva forma de comunicación filosófica: el ensayo.]]></title>
+            </image>
+            <image path="000JTY01.jpg" border="0" pathbig="000JTY01.jpg">
+              <title><![CDATA[Marsiglio Ficino (1433-1499) fue uno de los principales representantes del platonismo italiano del siglo XV.]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+  </sections>
 </engine>
