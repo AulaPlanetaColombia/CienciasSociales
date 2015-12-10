@@ -2,6 +2,7 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_07_04_CO">
 <libroTitulo>La Edad Moderna</libroTitulo>
 <seccion1 id="S1_CS_07_04_CO_753AA8F8D5E54072863CD0AEDE12718A">
@@ -45,11 +46,7 @@ fue importante en España.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso010&amp;IdRecurso=RES-93A0C662ED4749BE9F09A3E72517534F"
 >Conoce el pensamiento humanista</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso020&amp;IdRecurso=RES-28E23F41DFA445049ED5DC9887968E39"
->Identifica las principales características del Humanismo</enlace>
-</practica><recuerda><recuerdaTexto>
+</profundiza><recuerda><recuerdaTexto>
 <p>Si bien para el hombre medieval Dios era el centro de todo, el
 espíritu del Renacimiento es otro; el hombre se reconoce a sí mismo
 como artífice de su propio destino y, en esa medida, un ser capaz
@@ -298,7 +295,7 @@ Francia).</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso100&amp;IdRecurso=RES-BB43D8A940AF477D8BB51DBC7B9405A5"
->Los avances tecnológicos en el siglo XVI</enlace>
+>Los avances tecnológicos en el siglo XVI</enlace><?Pub Caret -2?>
 </profundiza><seccion2
 id="S2_CS_07_04_CO_138CBDFF43324E05A0D04031339CDF58">
 <seccion2Titulo>Los adelantos tecnológicos</seccion2Titulo>
@@ -317,10 +314,12 @@ de autoridad”, y en el cual bastaba con el prestigio y la autoridad
 de los argumentos expuestos por filósofos y santos, especialmente
 por Aristóteles, para quien era más importante identificar las cualidades
 intrínsecas que, según él, poseían los objetos.</p>
-<p>Ese primer termómetro consistía en un tubo de vidrio lleno de agua
-en el que flotaban una serie de esferas que contenían una cantidad
-diferente de líquido y por ello cada esfera tenía una densidad distinta
-y, por lo tanto, flotaban a diferentes alturas.</p>
+<p>Por sus descubrimientos e inventos, Galileo es considerado padre
+de la ciencia moderna. El termómetro inventado por Galileo consistía
+en un tubo de vidrio lleno de agua en el que flotaban una serie de
+esferas que contenían una cantidad diferente de líquido y por ello
+cada esfera tenía una densidad distinta y, por lo tanto, flotaban
+a diferentes alturas.</p>
 <p>Es importante anotar que en el termómetro de Galileo el cilindro
 no tenía ningún tipo de graduación. Las que llevaban una marca para
 indicar una temperatura eran cada una de las esferas.</p>
@@ -494,11 +493,6 @@ Luis XIV sirvió de referencia a los monarcas del momento, quienes
 gobernaban sin convocar a los parlamentarios e imponiendo su voluntad
 por encima de todo.</p>
 </imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso130&amp;IdRecurso=RES-DD14D8931CB34ADEB1E578C1C91FDEAF"
->Luis XIV "El Rey Sol"</enlace>
-</profundiza>
 <imagen src="CS_07_04_CO_IMG20_small.jpg">
 <p>Durante el reinado de Luis XIV la corte se trasladó a Versalles,
 cuyo palacio se convirtió en símbolo indiscutible del absolutismo.
@@ -628,7 +622,11 @@ crisis a finales del siglo XVIII. Uno de los principales cambios fue
 el creciente protagonismo de la <negrita>burguesía</negrita>, cuyo <negrita
 >poder económico</negrita> la llevó a reclamar también el <negrita
 >poder político</negrita>.</p>
-</seccion2Texto></seccion2><seccion2
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso150&amp;IdRecurso=RES-081599B27487489986FB80F77B28AAF1"
+>Describe la sociedad del Antiguo Régimen</enlace>
+</practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_07_04_CO_9631C562296540E5B5F5E3F752597E3F">
 <seccion2Titulo>La economía del siglo XVIII</seccion2Titulo>
 <seccion2Texto>
@@ -722,11 +720,7 @@ el ascenso social ni la participación política. Dos de los acontecimientos
 más relevantes y decisivos en el inicio de la Edad Contemporánea fueron
 la <negrita>Revolución americana</negrita> y la <negrita>Revolución
 francesa</negrita>.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso150&amp;IdRecurso=RES-081599B27487489986FB80F77B28AAF1"
->Describe la sociedad del Antiguo Régimen</enlace>
-</practica></seccion2Texto></seccion2><seccion2
+</seccion2Texto></seccion2><seccion2
 id="S2_CS_07_04_CO_38BFD4A9FD464C39870A275AA7CF02B4">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
@@ -924,8 +918,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso230&amp;IdRecurso=RES-8FDB14
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso250&amp;IdRecurso=RES-BD3690F5FE8746068C8000E76E506681"
->Competencias: estudio de la guerra de Sucesión española</enlace><?Pub
-Caret -2?>
+>Competencias: estudio de la guerra de Sucesión española</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso240&amp;IdRecurso=RES-E299F2E78DDE4C3B99C67C9C564FBC68"
 >Proyecto: La Edad Moderna en el siglo XXI</enlace>
