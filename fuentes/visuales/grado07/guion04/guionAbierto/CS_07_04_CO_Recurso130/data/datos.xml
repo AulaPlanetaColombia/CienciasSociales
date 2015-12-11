@@ -1,18 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<engine copy="Editorial Planeta" version="1" aprid="f7">
-  <main layout="3">
-    <title>Luis XIV "El Rey Sol"</title>
-    <footer>Conoce más sobre Luis XIV, paradigma del monarca absoluto.</footer>
-  </main>
-  <sections>
-    <section i="0" star="false" hasSubsections="false">
-      <menuImage path="luisxiv.jpg" border="0">
-        <title><![CDATA[Luis XIV "el Rey Sol"]]></title>
-      </menuImage>
-      <pages>
-        <page i="0" visible="true" color="">
-          <title>Luis XIV, el Rey Sol.</title>
-          <description><![CDATA[<p style="font-family: Arial,Helvetica,Verdana,sans-serif; font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px none; outline: 0px none; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;"><span style="text-align: justify; word-spacing: 1.75px; color: rgb(37, 37, 37); line-height: 22.4px;"><strong>Luis XIV</strong> fue el hijo promig&eacute;nito de <strong>Luis XIII</strong>, quien fuera llamado &quot;El Justo&quot; por su bondad, religiosidad cat&oacute;lica y su austeridad, y de Ana de Austria, heredera del rey Felipe III de Espa&ntilde;a.</span><span style="line-height: 21px; text-align: justify; word-spacing: 1.75px;">&nbsp;</span></span></span></p>
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f7"><main layout="3">
+<title>Luis XIV &quot;El Rey Sol&quot;</title>
+<footer>Conoce más sobre Luis XIV, paradigma del monarca absoluto.</footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="false">
+<menuImage path="CS_07_04_REC130_IMG01n.jpg" border="0">
+<title><![CDATA[Luis XIV "el Rey Sol"]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Luis XIV, el Rey Sol.</title>
+<description><![CDATA[<p style="font-family: Arial,Helvetica,Verdana,sans-serif; font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px none; outline: 0px none; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;"><span style="text-align: justify; word-spacing: 1.75px; color: rgb(37, 37, 37); line-height: 22.4px;"><strong>Luis XIV</strong> fue el hijo promig&eacute;nito de <strong>Luis XIII</strong>, quien fuera llamado &quot;El Justo&quot; por su bondad, religiosidad cat&oacute;lica y su austeridad, y de Ana de Austria, heredera del rey Felipe III de Espa&ntilde;a.</span><span style="line-height: 21px; text-align: justify; word-spacing: 1.75px;">&nbsp;</span></span></span></p>
 
 <p style="font-family: Arial,Helvetica,Verdana,sans-serif; font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px none; outline: 0px none; word-spacing: 0.125em; line-height: 21px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;"><strong>Luis Dieudonn&eacute;</strong>, nombre con el que fue bautizado y que significa &quot;dado por Dios&quot;,&nbsp;naci&oacute; en Sanint Germain en Laye, Francia el 5 de septiembre de 1638, se le llamaba el &quot;ni&ntilde;o del milagro&quot; debido a que su nacimiento se dio cuando ya estaban pr&aacute;cticamente perdidas las esperanzas de su padre en tener un heredero.</span></span></p>
 
@@ -30,25 +28,24 @@
 
 <p style="font-size: 14px; vertical-align: baseline; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; padding: 0px; border: 0px; outline: 0px; word-spacing: 0.125em; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"></p>
 ]]></description>
-          <images>
-            <image path="luisxiv.jpg" border="0" pathbig="luisxiv.jpg">
-              <title><![CDATA[Luis XIV con traje real, 1701, por Hyacinthe Rigaud.]]></title>
-            </image>
-            <image path="cardenalmazarino.jpg" border="0" pathbig="cardenalmazarino.jpg">
-              <title><![CDATA[El lienzo Las barricadas durante la Fronda de agosto de 1648, de F. -X. Dupré. ]]></title>
-            </image>
-          </images>
-        </page>
-      </pages>
-    </section>
-    <section i="0" star="false" hasSubsections="false">
-      <menuImage path="luisxiv-4.jpg" border="0">
-        <title><![CDATA["El Estado soy yo"]]></title>
-      </menuImage>
-      <pages>
-        <page i="0" visible="true" color="">
-          <title>"El Estado soy yo"</title>
-          <description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Luis XIV sosten&iacute;a que el poder del rey derivaba directamente de Dios, quien se lo hab&iacute;a dado, entre todos los hombres, para que se convirtiera en rey de Francia, por este motivo era superior a todos los hombres.</span></span></p>
+<images>
+<image path="CS_07_04_REC130_IMG01ln.jpg" border = "0" pathbig="CS_07_04_REC130_IMG01a.jpg">
+<title><![CDATA[Luis XIV con traje real, 1701, por Hyacinthe Rigaud.]]></title>
+</image>
+<image path="cardenalmazarino.jpg" border = "0" pathbig="cardenalmazarino.jpg">
+<title><![CDATA[El lienzo Las barricadas durante la Fronda de agosto de 1648, de F. -X. Dupré. ]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="CS_07_04_REC130_IMG02a.jpg" border="0">
+<title><![CDATA["El Estado soy yo"]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>&quot;El Estado soy yo&quot;</title>
+<description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Luis XIV sosten&iacute;a que el poder del rey derivaba directamente de Dios, quien se lo hab&iacute;a dado, entre todos los hombres, para que se convirtiera en rey de Francia, por este motivo era superior a todos los hombres.</span></span></p>
 
 <p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Consideraba su poder una&nbsp;<strong>monarqu&iacute;a absoluta</strong>, sin limites. Por ello se le ha adjudicado la&nbsp;afirmaci&oacute;n &quot;El&nbsp;Estado soy yo&quot;, la cual, mas si la pronunci&oacute; o no, esta c&eacute;lebre frase comprende completamente su pensamiento.</span></span></p>
 
@@ -56,49 +53,47 @@
 
 <p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Versalles fue para Luis XIV un instrumento para controlar a los nobles y para impedir que se rebelaran nuevamente como ya hab&iacute;a ocurrido en el pasado.</span></span></p>
 ]]></description>
-          <images>
-            <image path="luisxiv-4.jpg" border="0" pathbig="luisxiv-4.jpg">
-              <title><![CDATA[Matrimonio entre Luis XIV y María de Austria en Saint-Jean de Luz, por Sainte-André.]]></title>
-            </image>
-            <image path="luisxiv-6.jpg" border="0" pathbig="luisxiv-6.jpg">
-              <title><![CDATA[Desfile de Luis XIV en el palacio de las Tullerías, s. XVII.]]></title>
-            </image>
-          </images>
-        </page>
-      </pages>
-    </section>
-    <section i="0" star="false" hasSubsections="false">
-      <menuImage path="luisxiv-5.jpg" border="0">
-        <title><![CDATA[Mercantilismo]]></title>
-      </menuImage>
-      <pages>
-        <page i="0" visible="true" color="">
-          <title>Mercantilismo</title>
-          <description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Como ministro de finanzas Luis XIV escogi&oacute; a un hombre destacado y brillante, <strong>Jean-Baptiste Colbert</strong>, quien inaugur&oacute; una pol&iacute;tica de gran desarrollo, basada en el comercio de mercanc&iacute;as conocida como el <strong>mercantilismo</strong>.</span></span></p>
+<images>
+<image path="CS_07_04_REC130_IMG02ln.jpg" border = "0" pathbig="CS_07_04_REC130_IMG02a.jpg">
+<title><![CDATA[Matrimonio entre Luis XIV y María de Austria en Saint-Jean de Luz, por Sainte-André.]]></title>
+</image>
+<image path="luisxiv-6.jpg" border = "0" pathbig="luisxiv-6.jpg">
+<title><![CDATA[Desfile de Luis XIV en el palacio de las Tullerías, s. XVII.]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="CS_07_04_REC130_IMG03n.jpg" border="0">
+<title><![CDATA[Mercantilismo]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Mercantilismo</title>
+<description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Como ministro de finanzas Luis XIV escogi&oacute; a un hombre destacado y brillante, <strong>Jean-Baptiste Colbert</strong>, quien inaugur&oacute; una pol&iacute;tica de gran desarrollo, basada en el comercio de mercanc&iacute;as conocida como el <strong>mercantilismo</strong>.</span></span></p>
 
 <p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Debido a que muchos productos se produci&aacute;n en el extranjero, Colbert favoreci&oacute; el surgimiento de <strong>f&aacute;bricas</strong> dedicadas a la producci&oacute;n de tapices, cordones, percelanas, espejos. Numerosos artesanos provenientes de toda Europa, llegaron a Francia con los conocimientos de sus propios oficios, atraidos por las grandes ganancias.</span></span></p>
 
 <p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Otras f&aacute;bricas como las dedicadas a la producci&oacute;n de carros, partes de naves, tuvieron un notable desarrollo. Sin embargo, el presupuesto del estado conoci&oacute; momentos de crisis debido a las constantes <strong>guerras</strong>. Todo el reinado de Luis XIV fue una larga guerra por consolidar la supremas&iacute;a de Francia sobre el resto de Europa.</span></span></p>
 ]]></description>
-          <images>
-            <image path="luisxiv-5.jpg" border="0" pathbig="luisxiv-5.jpg">
-              <title><![CDATA[Visita de Luis XIV a la manufactura de los Gobelinos, s. XVII.]]></title>
-            </image>
-            <image path="Jean-BaptisteColbert.jpg" border="0" pathbig="Jean-BaptisteColbert.jpg">
-              <title><![CDATA[Jean-Baptiste Colbert. s. XVII.]]></title>
-            </image>
-          </images>
-        </page>
-      </pages>
-    </section>
-    <section i="0" star="false" hasSubsections="false">
-      <menuImage path="luisxiv-3.jpg" border="0">
-        <title><![CDATA[Versalles]]></title>
-      </menuImage>
-      <pages>
-        <page i="0" visible="true" color="">
-          <title>Versalles</title>
-          <description><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;">A unos veinte kil&oacute;metros de <strong>Par&iacute;s</strong>, se ubicaba, al inicio de mil seiscientos un humilde y desconocido pueblo,&nbsp;<strong>Versalles</strong>. En 1624, <strong>Luis XIII</strong>, decici&oacute; construir all&iacute; un castillo dedicado a la cazer&iacute;a. Sin embargo, el esplendido palacio de Vesalles que se conoce en nuestros d&iacute;as, fue construido en este lugar, por su hijo Luis XIV.</span></span></p>
+<images>
+<image path="CS_07_04_REC130_IMG03ln.jpg" border = "0" pathbig="CS_07_04_REC130_IMG03la.jpg">
+<title><![CDATA[Visita de Luis XIV a la manufactura de los Gobelinos, s. XVII.]]></title>
+</image>
+<image path="Jean-BaptisteColbert.jpg" border = "0" pathbig="Jean-BaptisteColbert.jpg">
+<title><![CDATA[Jean-Baptiste Colbert. s. XVII.]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="CS_07_04_REC130_IMG04n.jpg" border="0">
+<title><![CDATA[Versalles]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Versalles</title>
+<description><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;">A unos veinte kil&oacute;metros de <strong>Par&iacute;s</strong>, se ubicaba, al inicio de mil seiscientos un humilde y desconocido pueblo,&nbsp;<strong>Versalles</strong>. En 1624, <strong>Luis XIII</strong>, decici&oacute; construir all&iacute; un castillo dedicado a la cazer&iacute;a. Sin embargo, el esplendido palacio de Vesalles que se conoce en nuestros d&iacute;as, fue construido en este lugar, por su hijo Luis XIV.</span></span></p>
 
 <p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 18px;">&Eacute;l quizo construir un palacio que por su grandiosidad, su riqueza, sus tesoros art&iacute;sticos, su belleza incomparable, fuera considerado un s&iacute;mbolo en todo el mundo de la poder y refinamiento de la <strong>monarqu&iacute;a francesa</strong>.</span></span></p>
 
@@ -108,22 +103,21 @@
 
 <p style="text-align: justify;"></p>
 ]]></description>
-          <images>
-            <image path="luisxiv-3.jpg" border="0" pathbig="luisxiv-3.jpg">
-              <title><![CDATA[Iluminación de la fuente de Neptuno en Versalles. Eugène Lami.]]></title>
-            </image>
-          </images>
-        </page>
-      </pages>
-    </section>
-    <section i="0" star="false" hasSubsections="false">
-      <menuImage path="luisxiv-2.jpg" border="0">
-        <title><![CDATA[Sociedad Cortesana]]></title>
-      </menuImage>
-      <pages>
-        <page i="0" visible="true" color="">
-          <title>Sociedad Cortesana</title>
-          <description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">La vida en la corte de <strong>Versalles</strong> era dominada por una severa etiqueta, que hoy en d&iacute;a podr&iacute;a parecernos curiosa y casi m&aacute;gica.&nbsp;</span></span></p>
+<images>
+<image path="CS_07_04_REC130_IMG04ln.jpg" border = "0" pathbig="CS_07_04_REC130_IMG04a.jpg">
+<title><![CDATA[Iluminación de la fuente de Neptuno en Versalles. Eugène Lami.]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="CS_07_04_REC130_IMG05n.jpg" border="0">
+<title><![CDATA[Sociedad Cortesana]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Sociedad Cortesana</title>
+<description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">La vida en la corte de <strong>Versalles</strong> era dominada por una severa etiqueta, que hoy en d&iacute;a podr&iacute;a parecernos curiosa y casi m&aacute;gica.&nbsp;</span></span></p>
 
 <p></p>
 
@@ -133,13 +127,12 @@
 
 <p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Esta ceremonia ten&iacute;a una funci&oacute;n importante, era sin duda necesario, que el rey hiciera p&uacute;blicos estos actos, ya que este gesto se convert&iacute;a para los nobles que asist&iacute;an, en un <strong>privilegio</strong> que los distingu&iacute;a de los dem&aacute;s.</span></span></p>
 ]]></description>
-          <images>
-            <image path="luisxiv-2.jpg" border="0" pathbig="luisxiv-2.jpg">
-              <title><![CDATA[Luis XIV recibiendo en su palacio a Federico Augusto I, elector de Sajonia y rey de Polonia. Louis de Silvestre de 1715.]]></title>
-            </image>
-          </images>
-        </page>
-      </pages>
-    </section>
-  </sections>
+<images>
+<image path="CS_07_04_REC130_IMG05ln.jpg" border = "0" pathbig="CS_07_04_REC130_IMG05a.jpg">
+<title><![CDATA[Luis XIV recibiendo en su palacio a Federico Augusto I, elector de Sajonia y rey de Polonia. Louis de Silvestre de 1715.]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section></sections>
 </engine>
