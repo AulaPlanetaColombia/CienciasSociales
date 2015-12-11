@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f1">
+<css><![CDATA[.defaultCSSBox2 {
+	background: #000000;
+}
+.defaultCSSBox3 {
+	background: #ffffff;
+}
+.popupbox {
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    border:2px solid #000000;
+    background-color:#FFFFFF;
+}
+.tabla01 {
+  border-collapse: collapse;
+}
+
+.tabla01 td {
+  border: 2px solid black;
+  padding: 2px;
+  text-align: center;
+  font-family:verdana,geneva,sans-serif
+}]]></css>
+<pantallas>
+<pantalla id="pantalla_5">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compSlider' id='diaporama_77' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' transMode='1' />
+<component _type='_compSliderNav' id='slidernav_122' x='45' y='526' width='162' height='37' alpha='1' visible='1' enabled='1' sliderId='diaporama_77' showHome='1' whiteButtons='0' mode='1' />
+</components>
+<animaciones>
+</animaciones>
+<slider id="diaporama_77">
+<pantalla id="pantalla_11">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_42' x='101' y='3' width='747' height='84' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:30px"><span style="font-family:georgia,serif">C&oacute;mo comentar un mapa</span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_15' x='126' y='68' width='697' height='374' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/CS_06_09_REC180_IMG01.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_15">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_42' x='131' y='3' width='747' height='84' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Paso 1:</strong> Observaci&oacute;n</span></span></p>
+]]></content>
+</component>
+<component _type='_compAnimatedGIF' id='animgif_14' x='127' y='68' width='696' height='498' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/CS_06_09_REC180_IMG01.png' anim='data/imagenes/CS_06_09_REC180_IMG02.png' autoplay='1' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_19">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compAnimatedGIF' id='animgif_14' x='127' y='68' width='696' height='498' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/CS_06_09_REC180_IMG01.png' anim='data/imagenes/CS_06_09_REC180_IMG03.png' autoplay='1' />
+<component _type='_compRichText' id='texto_42' x='131' y='3' width='747' height='84' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Paso 1:</strong> Observaci&oacute;n</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_23">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compAnimatedGIF' id='animgif_14' x='127' y='68' width='696' height='498' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/CS_06_09_REC180_IMG01.png' anim='data/imagenes/CS_06_09_REC180_IMG04.png' autoplay='1' />
+<component _type='_compRichText' id='texto_42' x='131' y='3' width='747' height='84' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Paso 1:</strong> Observaci&oacute;n</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_27">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compAnimatedGIF' id='animgif_14' x='127' y='68' width='696' height='498' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/CS_06_09_REC180_IMG01.png' anim='data/imagenes/CS_06_09_REC180_IMG05.png' autoplay='1' />
+<component _type='_compRichText' id='texto_42' x='131' y='3' width='747' height='84' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Paso 1:</strong> Observaci&oacute;n</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_31">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_15' x='127' y='68' width='696' height='498' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/CS_06_09_REC180_IMG01.png' />
+<component _type='_compRichText' id='texto_42' x='131' y='3' width='747' height='84' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Paso 2:</strong> Lectura del mapa</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_35">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compAnimatedGIF' id='animgif_14' x='127' y='68' width='696' height='498' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/CS_06_09_REC180_IMG01.png' anim='data/imagenes/CS_06_09_REC180_IMG06.png' autoplay='1' />
+<component _type='_compRichText' id='texto_42' x='131' y='3' width='747' height='84' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Paso 2:</strong> Lectura del mapa</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_39">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_42' x='131' y='3' width='747' height='84' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Paso 3:</strong> Interpretaci&oacute;n y explicaci&oacute;n</span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_15' x='127' y='68' width='696' height='498' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/CS_06_09_REC180_IMG01.png' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_43">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compAnimatedGIF' id='animgif_14' x='127' y='68' width='696' height='498' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/CS_06_09_REC180_IMG01.png' anim='data/imagenes/CS_06_09_REC180_IMG11.png' autoplay='1' />
+<component _type='_compRichText' id='texto_42' x='131' y='3' width='747' height='84' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Paso 4: </strong>Conclusi&oacute;n</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_47">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_42' x='107' y='57' width='472' height='466' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:23px"><span style="font-family:verdana,geneva,sans-serif"><span style="color:#ff6600"><strong>&iexcl;Recuerda!</strong></span><br />
+<br />
+<br />
+<strong>Paso 1:</strong> Observaci&oacute;n.<br />
+<br />
+<strong>Paso 2:</strong> Lectura del mapa.<br />
+<br />
+<strong>Paso 3:</strong> Interpretaci&oacute;n y explicaci&oacute;n.<br />
+<br />
+<strong>Paso 4: </strong>Conclusi&oacute;n.</span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_15' x='578' y='99' width='312' height='498' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/CS_06_09_REC180_IMG12.jpg' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</slider>
+</pantalla>
+</pantallas>
+<popups>
+</popups>
+</engine>

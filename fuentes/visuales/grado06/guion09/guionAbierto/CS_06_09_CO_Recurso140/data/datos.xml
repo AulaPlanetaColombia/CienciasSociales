@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f1">
+<css><![CDATA[.defaultCSSBox2 {
+	background: #000000;
+}
+.defaultCSSBox3 {
+	background: #ffffff;
+}]]></css>
+<pantallas>
+<pantalla id="pantalla_5">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compSlider' id='diaporama_12' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' transMode='1' />
+<component _type='_compSliderNav' id='slidernav_11' x='45' y='526' width='162' height='37' alpha='1' visible='1' enabled='1' sliderId='diaporama_12' showHome='1' whiteButtons='0' mode='1' />
+</components>
+<animaciones>
+</animaciones>
+<slider id="diaporama_12">
+<pantalla id="pantalla_14">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_20' x='82' y='87' width='785' height='419' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_11_copy.jpg' />
+<component _type='_compRichText' id='texto_26' x='6' y='20' width='938' height='137' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:23px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Qu&eacute; es el relieve?</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_125">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_20' x='82' y='87' width='785' height='419' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_11_copy.jpg' />
+<component _type='_compRichText' id='texto_26' x='6' y='20' width='938' height='137' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:23px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Qu&eacute; es el relieve?</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_19' x='111' y='391' width='728' height='107' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">El relieve es el conjunto de <strong>formas </strong>y <strong>accidentes topogr&aacute;ficos </strong>de la superficie terrestre: monta&ntilde;as, acantilados, llanuras, etc.</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_129">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_20' x='82' y='87' width='785' height='419' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_11_copy.jpg' />
+<component _type='_compImage' id='image_133' x='82' y='87' width='785' height='419' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_34_copy.jpg' />
+<component _type='_compImage' id='image_134' x='82' y='87' width='785' height='419' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_37_copy.jpg' />
+<component _type='_compImage' id='image_135' x='82' y='87' width='785' height='419' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_40_copy.jpg' />
+<component _type='_compImage' id='image_136' x='82' y='87' width='785' height='419' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_43_copy.jpg' />
+<component _type='_compImage' id='image_137' x='82' y='87' width='785' height='419' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_46_copy.jpg' />
+<component _type='_compImage' id='image_139' x='0' y='16' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_49.png' />
+<component _type='_compImage' id='image_140' x='0' y='134' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_51.png' />
+<component _type='_compImage' id='image_141' x='0' y='252' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_53.png' />
+<component _type='_compImage' id='image_142' x='0' y='370' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_55.png' />
+<component _type='_compImage' id='image_143' x='752' y='370' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_63.png' />
+<component _type='_compImage' id='image_144' x='752' y='252' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_61.png' />
+<component _type='_compImage' id='image_145' x='752' y='134' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_59.png' />
+<component _type='_compImage' id='image_146' x='752' y='16' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_57.png' />
+<component _type='_compImage' id='image_147' x='214' y='81' width='521' height='410' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_65.png' />
+<component _type='_compRichText' id='texto_148' x='6' y='21' width='938' height='137' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:23px"><span style="font-family:verdana,geneva,sans-serif">¿Qué representamos?</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_133":[],"image_133.x":[{"time":0,"value":82,"easing":"Linear.EaseNone"}],"image_133.y":[{"time":0,"value":87,"easing":"Linear.EaseNone"}],"image_133.width":[{"time":0,"value":785,"easing":"Linear.EaseNone"}],"image_133.height":[{"time":0,"value":419,"easing":"Linear.EaseNone"}],"image_133.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":0.505,"value":1,"easing":"Linear.EaseNone"}],"image_134":[],"image_134.x":[{"time":0,"value":82,"easing":"Linear.EaseNone"}],"image_134.y":[{"time":0,"value":87,"easing":"Linear.EaseNone"}],"image_134.width":[{"time":0,"value":785,"easing":"Linear.EaseNone"}],"image_134.height":[{"time":0,"value":419,"easing":"Linear.EaseNone"}],"image_134.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":0.505,"value":0,"easing":"Linear.EaseNone"},{"time":1.005,"value":1,"easing":"Linear.EaseNone"}],"image_135":[],"image_135.x":[{"time":0,"value":82,"easing":"Linear.EaseNone"}],"image_135.y":[{"time":0,"value":87,"easing":"Linear.EaseNone"}],"image_135.width":[{"time":0,"value":785,"easing":"Linear.EaseNone"}],"image_135.height":[{"time":0,"value":419,"easing":"Linear.EaseNone"}],"image_135.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":1,"value":0,"easing":"Linear.EaseNone"},{"time":1.515,"value":1,"easing":"Linear.EaseNone"}],"image_136":[],"image_136.x":[{"time":0,"value":82,"easing":"Linear.EaseNone"}],"image_136.y":[{"time":0,"value":87,"easing":"Linear.EaseNone"}],"image_136.width":[{"time":0,"value":785,"easing":"Linear.EaseNone"}],"image_136.height":[{"time":0,"value":419,"easing":"Linear.EaseNone"}],"image_136.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":1.515,"value":0,"easing":"Linear.EaseNone"},{"time":2.005,"value":1,"easing":"Linear.EaseNone"}],"image_137":[],"image_137.x":[{"time":0,"value":82,"easing":"Linear.EaseNone"}],"image_137.y":[{"time":0,"value":87,"easing":"Linear.EaseNone"}],"image_137.width":[{"time":0,"value":785,"easing":"Linear.EaseNone"}],"image_137.height":[{"time":0,"value":419,"easing":"Linear.EaseNone"}],"image_137.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":2.005,"value":0,"easing":"Linear.EaseNone"},{"time":2.555,"value":1,"easing":"Linear.EaseNone"}],"image_139":[],"image_139.x":[{"time":0,"value":0,"easing":"Linear.EaseNone"}],"image_139.y":[{"time":0,"value":16,"easing":"Linear.EaseNone"}],"image_139.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"}],"image_139.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"}],"image_139.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":3.015,"value":0,"easing":"Linear.EaseNone"},{"time":3.52,"value":1,"easing":"Linear.EaseNone"}],"image_140":[],"image_140.x":[{"time":0,"value":0,"easing":"Linear.EaseNone"}],"image_140.y":[{"time":0,"value":134,"easing":"Linear.EaseNone"}],"image_140.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"}],"image_140.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"}],"image_140.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":3.52,"value":0,"easing":"Linear.EaseNone"},{"time":4.03,"value":1,"easing":"Linear.EaseNone"}],"image_141":[],"image_141.x":[{"time":0,"value":0,"easing":"Linear.EaseNone"}],"image_141.y":[{"time":0,"value":252,"easing":"Linear.EaseNone"}],"image_141.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"}],"image_141.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"}],"image_141.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":4.026857142857144,"value":0,"easing":"Linear.EaseNone"},{"time":4.551428571428572,"value":1,"easing":"Linear.EaseNone"}],"image_142":[],"image_142.x":[{"time":0,"value":0,"easing":"Linear.EaseNone"}],"image_142.y":[{"time":0,"value":370,"easing":"Linear.EaseNone"}],"image_142.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"}],"image_142.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"}],"image_142.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":4.566857142857144,"value":0,"easing":"Linear.EaseNone"},{"time":5.045142857142857,"value":1,"easing":"Linear.EaseNone"}],"image_143":[],"image_143.x":[{"time":0,"value":752,"easing":"Linear.EaseNone"}],"image_143.y":[{"time":0,"value":370,"easing":"Linear.EaseNone"}],"image_143.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"}],"image_143.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"}],"image_143.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":6.510857142857144,"value":0,"easing":"Linear.EaseNone"},{"time":7.035428571428572,"value":1,"easing":"Linear.EaseNone"}],"image_144":[],"image_144.x":[{"time":0,"value":752,"easing":"Linear.EaseNone"}],"image_144.y":[{"time":0,"value":252,"easing":"Linear.EaseNone"}],"image_144.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"}],"image_144.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"}],"image_144.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":6.017142857142858,"value":0,"easing":"Linear.EaseNone"},{"time":6.4954285714285716,"value":1,"easing":"Linear.EaseNone"}],"image_145":[],"image_145.x":[{"time":0,"value":752,"easing":"Linear.EaseNone"}],"image_145.y":[{"time":0,"value":134,"easing":"Linear.EaseNone"}],"image_145.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"}],"image_145.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"}],"image_145.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":5.554285714285715,"value":0,"easing":"Linear.EaseNone"},{"time":6.017142857142858,"value":1,"easing":"Linear.EaseNone"}],"image_146":[],"image_146.x":[{"time":0,"value":752,"easing":"Linear.EaseNone"}],"image_146.y":[{"time":0,"value":16,"easing":"Linear.EaseNone"}],"image_146.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"}],"image_146.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"}],"image_146.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":5.045142857142857,"value":0,"easing":"Linear.EaseNone"},{"time":5.554285714285715,"value":1,"easing":"Linear.EaseNone"}],"image_147":[],"image_147.x":[{"time":0,"value":214,"easing":"Linear.EaseNone"}],"image_147.y":[{"time":0,"value":81,"easing":"Linear.EaseNone"}],"image_147.width":[{"time":0,"value":521,"easing":"Linear.EaseNone"}],"image_147.height":[{"time":0,"value":410,"easing":"Linear.EaseNone"}],"image_147.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":7.189714285714286,"value":0,"easing":"Linear.EaseNone"},{"time":7.683428571428572,"value":1,"easing":"Linear.EaseNone"}],"texto_148":[],"texto_148.x":[{"time":0,"value":6,"easing":"Linear.EaseNone"}],"texto_148.y":[{"time":0,"value":21,"easing":"Linear.EaseNone"}],"texto_148.width":[{"time":0,"value":938,"easing":"Linear.EaseNone"}],"texto_148.height":[{"time":0,"value":137,"easing":"Linear.EaseNone"}],"texto_148.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_150">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_20' x='82' y='87' width='785' height='419' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_11_copy.jpg' />
+<component _type='_compImage' id='image_133' x='82' y='87' width='785' height='419' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_34_copy.jpg' />
+<component _type='_compImage' id='image_134' x='82' y='87' width='785' height='419' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_37_copy.jpg' />
+<component _type='_compImage' id='image_135' x='82' y='87' width='785' height='419' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_40_copy.jpg' />
+<component _type='_compImage' id='image_136' x='82' y='87' width='785' height='419' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_43_copy.jpg' />
+<component _type='_compImage' id='image_137' x='82' y='87' width='785' height='419' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_46_copy.jpg' />
+<component _type='_compRichText' id='texto_148' x='6' y='21' width='938' height='76' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:23px"><span style="font-family:verdana,geneva,sans-serif">Elementos del relieve</span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_147' x='214' y='501' width='521' height='410' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_65.png' />
+<component _type='_compCSSBox' id='fondo_160' x='235' y='197' width='120' height='30' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_161' x='224' y='215' width='141' height='75' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:17px"><strong><span style="font-family:verdana,geneva,sans-serif">CABO</span></strong></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_139' x='0' y='16' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_49.png' />
+<component _type='_compCSSBox' id='fondo_159' x='415' y='197' width='120' height='30' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_158' x='404' y='215' width='141' height='75' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:17px"><strong><span style="font-family:verdana,geneva,sans-serif">COLINA</span></strong></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_140' x='0' y='134' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_51.png' />
+<component _type='_compCSSBox' id='fondo_162' x='595' y='197' width='120' height='30' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_163' x='585' y='214' width='141' height='75' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:17px"><strong><span style="font-family:verdana,geneva,sans-serif">GOLFO</span></strong></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_141' x='0' y='252' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_53.png' />
+<component _type='_compCSSBox' id='fondo_183' x='235' y='317' width='120' height='30' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_188' x='224' y='335' width='141' height='75' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:17px"><strong><span style="font-family:verdana,geneva,sans-serif">ISLOTE</span></strong></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_142' x='0' y='370' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_55.png' />
+<component _type='_compCSSBox' id='fondo_184' x='415' y='317' width='120' height='30' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_187' x='404' y='335' width='141' height='75' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:17px"><strong><span style="font-family:verdana,geneva,sans-serif">LLANURA</span></strong></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_146' x='752' y='16' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_57.png' />
+<component _type='_compCSSBox' id='fondo_185' x='595' y='317' width='120' height='30' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_186' x='584' y='335' width='141' height='75' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:17px"><strong><span style="font-family:verdana,geneva,sans-serif">MONTA&Ntilde;A</span></strong></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_145' x='752' y='134' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_59.png' />
+<component _type='_compCSSBox' id='fondo_192' x='235' y='437' width='120' height='30' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_197' x='224' y='455' width='141' height='75' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:17px"><strong><span style="font-family:verdana,geneva,sans-serif">PLAYA</span></strong></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_144' x='752' y='252' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_61.png' />
+<component _type='_compCSSBox' id='fondo_193' x='415' y='437' width='120' height='30' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_196' x='404' y='455' width='141' height='75' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:17px"><strong><span style="font-family:verdana,geneva,sans-serif">RÍO</span></strong></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_143' x='752' y='370' width='198' height='108' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_63.png' />
+<component _type='_compCSSBox' id='fondo_194' x='595' y='437' width='120' height='30' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_195' x='584' y='455' width='141' height='75' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:17px"><strong><span style="font-family:verdana,geneva,sans-serif">VALLE</span></strong></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_147":[],"image_147.x":[{"time":0,"value":214,"easing":"Linear.EaseNone"},{"time":0.52,"value":196,"easing":"Linear.EaseNone"}],"image_147.y":[{"time":0,"value":81,"easing":"Linear.EaseNone"},{"time":0.52,"value":125,"easing":"Linear.EaseNone"}],"image_147.width":[{"time":0,"value":521,"easing":"Linear.EaseNone"},{"time":0.525,"value":198,"easing":"Linear.EaseNone"}],"image_147.height":[{"time":0,"value":410,"easing":"Linear.EaseNone"},{"time":0.525,"value":108,"easing":"Linear.EaseNone"}],"image_147.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}],"fondo_160":[],"fondo_160.x":[{"time":0,"value":235,"easing":"Linear.EaseNone"}],"fondo_160.y":[{"time":0,"value":197,"easing":"Linear.EaseNone"}],"fondo_160.width":[{"time":0,"value":120,"easing":"Linear.EaseNone"}],"fondo_160.height":[{"time":0,"value":30,"easing":"Linear.EaseNone"}],"fondo_160.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":0.555,"value":0,"easing":"Linear.EaseNone"},{"time":0.575,"value":1,"easing":"Linear.EaseNone"}],"texto_161":[],"texto_161.x":[{"time":0,"value":224,"easing":"Linear.EaseNone"}],"texto_161.y":[{"time":0,"value":185,"easing":"Linear.EaseNone"}],"texto_161.width":[{"time":0,"value":141,"easing":"Linear.EaseNone"}],"texto_161.height":[{"time":0,"value":75,"easing":"Linear.EaseNone"}],"texto_161.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":0.5613157894736842,"value":0,"easing":"Linear.EaseNone"},{"time":0.6110526315789474,"value":1,"easing":"Linear.EaseNone"}],"image_139":[],"image_139.x":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":0.595,"value":0,"easing":"Linear.EaseNone"},{"time":1.33,"value":214,"easing":"Linear.EaseNone"},{"time":2.005,"value":214,"easing":"Linear.EaseNone"},{"time":2.525,"value":376,"easing":"Linear.EaseNone"}],"image_139.y":[{"time":0,"value":16,"easing":"Linear.EaseNone"},{"time":0.595,"value":16,"easing":"Linear.EaseNone"},{"time":1.325,"value":81,"easing":"Linear.EaseNone"},{"time":2.005,"value":81,"easing":"Linear.EaseNone"},{"time":2.52,"value":125,"easing":"Linear.EaseNone"}],"image_139.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"},{"time":0.6,"value":198,"easing":"Linear.EaseNone"},{"time":1.33,"value":521,"easing":"Linear.EaseNone"},{"time":2.01,"value":521,"easing":"Linear.EaseNone"},{"time":2.525,"value":198,"easing":"Linear.EaseNone"}],"image_139.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"},{"time":0.605,"value":108,"easing":"Linear.EaseNone"},{"time":1.335,"value":410,"easing":"Linear.EaseNone"},{"time":2.005,"value":410,"easing":"Linear.EaseNone"},{"time":2.525,"value":108,"easing":"Linear.EaseNone"}],"image_139.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}],"fondo_159":[],"fondo_159.x":[{"time":0,"value":415,"easing":"Linear.EaseNone"}],"fondo_159.y":[{"time":0,"value":197,"easing":"Linear.EaseNone"}],"fondo_159.width":[{"time":0,"value":120,"easing":"Linear.EaseNone"}],"fondo_159.height":[{"time":0,"value":30,"easing":"Linear.EaseNone"}],"fondo_159.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":2.53,"value":0,"easing":"Linear.EaseNone"},{"time":2.545,"value":1,"easing":"Linear.EaseNone"}],"texto_158":[],"texto_158.x":[{"time":0,"value":404,"easing":"Linear.EaseNone"}],"texto_158.y":[{"time":0,"value":185,"easing":"Linear.EaseNone"}],"texto_158.width":[{"time":0,"value":141,"easing":"Linear.EaseNone"}],"texto_158.height":[{"time":0,"value":75,"easing":"Linear.EaseNone"}],"texto_158.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":2.54,"value":0,"easing":"Linear.EaseNone"},{"time":2.56,"value":1,"easing":"Linear.EaseNone"}],"image_140":[],"image_140.x":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":2.525,"value":0,"easing":"Linear.EaseNone"},{"time":3.02,"value":214,"easing":"Linear.EaseNone"},{"time":3.5,"value":214,"easing":"Linear.EaseNone"},{"time":4.005,"value":556,"easing":"Linear.EaseNone"}],"image_140.y":[{"time":0,"value":134,"easing":"Linear.EaseNone"},{"time":2.53,"value":134,"easing":"Linear.EaseNone"},{"time":3.02,"value":81,"easing":"Linear.EaseNone"},{"time":3.505,"value":81,"easing":"Linear.EaseNone"},{"time":4.01,"value":125,"easing":"Linear.EaseNone"}],"image_140.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"},{"time":2.535,"value":198,"easing":"Linear.EaseNone"},{"time":3.02,"value":521,"easing":"Linear.EaseNone"},{"time":3.505,"value":521,"easing":"Linear.EaseNone"},{"time":4.005,"value":198,"easing":"Linear.EaseNone"}],"image_140.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"},{"time":2.53,"value":108,"easing":"Linear.EaseNone"},{"time":3.02,"value":410,"easing":"Linear.EaseNone"},{"time":3.505,"value":410,"easing":"Linear.EaseNone"},{"time":4.005,"value":108,"easing":"Linear.EaseNone"}],"image_140.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}],"fondo_162":[],"fondo_162.x":[{"time":0,"value":595,"easing":"Linear.EaseNone"}],"fondo_162.y":[{"time":0,"value":197,"easing":"Linear.EaseNone"}],"fondo_162.width":[{"time":0,"value":120,"easing":"Linear.EaseNone"}],"fondo_162.height":[{"time":0,"value":30,"easing":"Linear.EaseNone"}],"fondo_162.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":4.03578947368421,"value":0,"easing":"Linear.EaseNone"},{"time":4.06,"value":1,"easing":"Linear.EaseNone"}],"texto_163":[],"texto_163.x":[{"time":0,"value":584,"easing":"Linear.EaseNone"}],"texto_163.y":[{"time":0,"value":185,"easing":"Linear.EaseNone"}],"texto_163.width":[{"time":0,"value":141,"easing":"Linear.EaseNone"}],"texto_163.height":[{"time":0,"value":75,"easing":"Linear.EaseNone"}],"texto_163.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":4.05,"value":0,"easing":"Linear.EaseNone"},{"time":4.065,"value":1,"easing":"Linear.EaseNone"}],"image_141":[],"image_141.x":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":4.030714285714286,"value":0,"easing":"Linear.EaseNone"},{"time":4.609285714285715,"value":214,"easing":"Linear.EaseNone"},{"time":5.149285714285715,"value":214,"easing":"Linear.EaseNone"},{"time":5.650714285714286,"value":196,"easing":"Linear.EaseNone"}],"image_141.y":[{"time":0,"value":252,"easing":"Linear.EaseNone"},{"time":4.011428571428572,"value":252,"easing":"Linear.EaseNone"},{"time":4.628571428571429,"value":81,"easing":"Linear.EaseNone"},{"time":5.168571428571429,"value":81,"easing":"Linear.EaseNone"},{"time":5.670000000000001,"value":245,"easing":"Linear.EaseNone"}],"image_141.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"},{"time":3.9921428571428574,"value":198,"easing":"Linear.EaseNone"},{"time":4.628571428571429,"value":521,"easing":"Linear.EaseNone"},{"time":5.168571428571429,"value":521,"easing":"Linear.EaseNone"},{"time":5.670000000000001,"value":198,"easing":"Linear.EaseNone"}],"image_141.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"},{"time":4.030714285714286,"value":108,"easing":"Linear.EaseNone"},{"time":4.628571428571429,"value":410,"easing":"Linear.EaseNone"},{"time":5.187857142857143,"value":410,"easing":"Linear.EaseNone"},{"time":5.670000000000001,"value":108,"easing":"Linear.EaseNone"}],"image_141.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}],"fondo_183":[],"fondo_183.x":[{"time":0,"value":235,"easing":"Linear.EaseNone"}],"fondo_183.y":[{"time":0,"value":317,"easing":"Linear.EaseNone"}],"fondo_183.width":[{"time":0,"value":120,"easing":"Linear.EaseNone"}],"fondo_183.height":[{"time":0,"value":30,"easing":"Linear.EaseNone"}],"fondo_183.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":5.690079808224985,"value":0,"easing":"Linear.EaseNone"},{"time":5.715079808224985,"value":1,"easing":"Linear.EaseNone"}],"texto_188":[],"texto_188.x":[{"time":0,"value":224,"easing":"Linear.EaseNone"}],"texto_188.y":[{"time":0,"value":305,"easing":"Linear.EaseNone"}],"texto_188.width":[{"time":0,"value":141,"easing":"Linear.EaseNone"}],"texto_188.height":[{"time":0,"value":75,"easing":"Linear.EaseNone"}],"texto_188.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":5.6942029726232954,"value":0,"easing":"Linear.EaseNone"},{"time":5.714202972623296,"value":1,"easing":"Linear.EaseNone"}],"image_142":[],"image_142.x":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":5.6808,"value":0,"easing":"Linear.EaseNone"},{"time":6.0912,"value":214,"easing":"Linear.EaseNone"},{"time":6.6528,"value":214,"easing":"Linear.EaseNone"},{"time":7.128,"value":376,"easing":"Linear.EaseNone"}],"image_142.y":[{"time":0,"value":370,"easing":"Linear.EaseNone"},{"time":5.6808,"value":370,"easing":"Linear.EaseNone"},{"time":6.1128,"value":81,"easing":"Linear.EaseNone"},{"time":6.696,"value":81,"easing":"Linear.EaseNone"},{"time":7.128,"value":245,"easing":"Linear.EaseNone"}],"image_142.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"},{"time":5.6808,"value":198,"easing":"Linear.EaseNone"},{"time":6.1128,"value":521,"easing":"Linear.EaseNone"},{"time":6.696,"value":521,"easing":"Linear.EaseNone"},{"time":7.1495999999999995,"value":198,"easing":"Linear.EaseNone"}],"image_142.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"},{"time":5.6592,"value":108,"easing":"Linear.EaseNone"},{"time":6.1128,"value":410,"easing":"Linear.EaseNone"},{"time":6.696,"value":410,"easing":"Linear.EaseNone"},{"time":7.1495999999999995,"value":108,"easing":"Linear.EaseNone"}],"image_142.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}],"fondo_184":[],"fondo_184.x":[{"time":0,"value":415,"easing":"Linear.EaseNone"}],"fondo_184.y":[{"time":0,"value":317,"easing":"Linear.EaseNone"}],"fondo_184.width":[{"time":0,"value":120,"easing":"Linear.EaseNone"}],"fondo_184.height":[{"time":0,"value":30,"easing":"Linear.EaseNone"}],"fondo_184.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":7.1550798082249845,"value":0,"easing":"Linear.EaseNone"},{"time":7.177376732656606,"value":1,"easing":"Linear.EaseNone"}],"texto_187":[],"texto_187.x":[{"time":0,"value":404,"easing":"Linear.EaseNone"}],"texto_187.y":[{"time":0,"value":305,"easing":"Linear.EaseNone"}],"texto_187.width":[{"time":0,"value":141,"easing":"Linear.EaseNone"}],"texto_187.height":[{"time":0,"value":75,"easing":"Linear.EaseNone"}],"texto_187.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":7.17949558978009,"value":0,"easing":"Linear.EaseNone"},{"time":7.204495589780089,"value":1,"easing":"Linear.EaseNone"}],"image_146":[],"image_146.x":[{"time":0,"value":752,"easing":"Linear.EaseNone"},{"time":7.128,"value":752,"easing":"Linear.EaseNone"},{"time":7.53923076923077,"value":214,"easing":"Linear.EaseNone"},{"time":7.965944055944056,"value":214,"easing":"Linear.EaseNone"},{"time":8.494615384615384,"value":556,"easing":"Linear.EaseNone"}],"image_146.y":[{"time":0,"value":16,"easing":"Linear.EaseNone"},{"time":7.128,"value":16,"easing":"Linear.EaseNone"},{"time":7.5384,"value":81,"easing":"Linear.EaseNone"},{"time":7.974125874125875,"value":81,"easing":"Linear.EaseNone"},{"time":8.505944055944056,"value":245,"easing":"Linear.EaseNone"}],"image_146.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"},{"time":7.128,"value":198,"easing":"Linear.EaseNone"},{"time":7.5384,"value":521,"easing":"Linear.EaseNone"},{"time":7.965944055944056,"value":521,"easing":"Linear.EaseNone"},{"time":8.505944055944056,"value":198,"easing":"Linear.EaseNone"}],"image_146.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"},{"time":7.128,"value":108,"easing":"Linear.EaseNone"},{"time":7.5384,"value":410,"easing":"Linear.EaseNone"},{"time":7.957762237762238,"value":410,"easing":"Linear.EaseNone"},{"time":8.48958041958042,"value":108,"easing":"Linear.EaseNone"}],"image_146.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}],"fondo_185":[],"fondo_185.x":[{"time":0,"value":595,"easing":"Linear.EaseNone"}],"fondo_185.y":[{"time":0,"value":317,"easing":"Linear.EaseNone"}],"fondo_185.width":[{"time":0,"value":120,"easing":"Linear.EaseNone"}],"fondo_185.height":[{"time":0,"value":30,"easing":"Linear.EaseNone"}],"fondo_185.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":8.512376732656607,"value":0,"easing":"Linear.EaseNone"},{"time":8.547376732656607,"value":1,"easing":"Linear.EaseNone"}],"texto_186":[],"texto_186.x":[{"time":0,"value":584,"easing":"Linear.EaseNone"}],"texto_186.y":[{"time":0,"value":305,"easing":"Linear.EaseNone"}],"texto_186.width":[{"time":0,"value":141,"easing":"Linear.EaseNone"}],"texto_186.height":[{"time":0,"value":75,"easing":"Linear.EaseNone"}],"texto_186.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":8.536195105168437,"value":0,"easing":"Linear.EaseNone"},{"time":8.556195105168438,"value":1,"easing":"Linear.EaseNone"}],"image_145":[],"image_145.x":[{"time":0,"value":752,"easing":"Linear.EaseNone"},{"time":8.497762237762238,"value":752,"easing":"Linear.EaseNone"},{"time":9.07048951048951,"value":214,"easing":"Linear.EaseNone"},{"time":9.553216783216783,"value":214,"easing":"Linear.EaseNone"},{"time":10.003216783216782,"value":196,"easing":"Linear.EaseNone"}],"image_145.y":[{"time":0,"value":134,"easing":"Linear.EaseNone"},{"time":8.497762237762238,"value":134,"easing":"Linear.EaseNone"},{"time":9.062307692307693,"value":81,"easing":"Linear.EaseNone"},{"time":9.553216783216783,"value":81,"easing":"Linear.EaseNone"},{"time":10.011398601398602,"value":365,"easing":"Linear.EaseNone"}],"image_145.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"},{"time":8.48958041958042,"value":198,"easing":"Linear.EaseNone"},{"time":9.062307692307693,"value":521,"easing":"Linear.EaseNone"},{"time":9.553216783216783,"value":521,"easing":"Linear.EaseNone"},{"time":10.003216783216782,"value":198,"easing":"Linear.EaseNone"}],"image_145.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"},{"time":8.48958041958042,"value":108,"easing":"Linear.EaseNone"},{"time":9.054125874125873,"value":410,"easing":"Linear.EaseNone"},{"time":9.5613986013986,"value":410,"easing":"Linear.EaseNone"},{"time":10.003216783216782,"value":108,"easing":"Linear.EaseNone"}],"image_145.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}],"fondo_192":[],"fondo_192.x":[{"time":0,"value":235,"easing":"Linear.EaseNone"}],"fondo_192.y":[{"time":0,"value":437,"easing":"Linear.EaseNone"}],"fondo_192.width":[{"time":0,"value":120,"easing":"Linear.EaseNone"}],"fondo_192.height":[{"time":0,"value":30,"easing":"Linear.EaseNone"}],"fondo_192.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":10.019823456507678,"value":0,"easing":"Linear.EaseNone"},{"time":10.041065098984907,"value":1,"easing":"Linear.EaseNone"}],"texto_197":[],"texto_197.x":[{"time":0,"value":224,"easing":"Linear.EaseNone"}],"texto_197.y":[{"time":0,"value":425,"easing":"Linear.EaseNone"}],"texto_197.width":[{"time":0,"value":141,"easing":"Linear.EaseNone"}],"texto_197.height":[{"time":0,"value":75,"easing":"Linear.EaseNone"}],"texto_197.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":10.025817770786396,"value":0,"easing":"Linear.EaseNone"},{"time":10.040817770786397,"value":1,"easing":"Linear.EaseNone"}],"image_144":[],"image_144.x":[{"time":0,"value":752,"easing":"Linear.EaseNone"},{"time":9.998385093167704,"value":752,"easing":"Linear.EaseNone"},{"time":10.491428571428573,"value":214,"easing":"Linear.EaseNone"},{"time":10.990341614906834,"value":214,"easing":"Linear.EaseNone"},{"time":11.475838509316771,"value":376,"easing":"Linear.EaseNone"}],"image_144.y":[{"time":0,"value":252,"easing":"Linear.EaseNone"},{"time":10.004254658385095,"value":252,"easing":"Linear.EaseNone"},{"time":10.491428571428573,"value":81,"easing":"Linear.EaseNone"},{"time":10.990341614906834,"value":81,"easing":"Linear.EaseNone"},{"time":11.481708074534161,"value":365,"easing":"Linear.EaseNone"}],"image_144.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"},{"time":10.010124223602485,"value":198,"easing":"Linear.EaseNone"},{"time":10.491428571428573,"value":521,"easing":"Linear.EaseNone"},{"time":10.996211180124225,"value":521,"easing":"Linear.EaseNone"},{"time":11.475838509316771,"value":198,"easing":"Linear.EaseNone"}],"image_144.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"},{"time":10.010124223602485,"value":108,"easing":"Linear.EaseNone"},{"time":10.485559006211181,"value":410,"easing":"Linear.EaseNone"},{"time":11.002080745341615,"value":410,"easing":"Linear.EaseNone"},{"time":11.47583850931677,"value":108,"easing":"Linear.EaseNone"}],"image_144.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}],"fondo_193":[],"fondo_193.x":[{"time":0,"value":415,"easing":"Linear.EaseNone"}],"fondo_193.y":[{"time":0,"value":437,"easing":"Linear.EaseNone"}],"fondo_193.width":[{"time":0,"value":120,"easing":"Linear.EaseNone"}],"fondo_193.height":[{"time":0,"value":30,"easing":"Linear.EaseNone"}],"fondo_193.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":11.481065098984907,"value":0,"easing":"Linear.EaseNone"},{"time":11.516065098984907,"value":1,"easing":"Linear.EaseNone"}],"texto_196":[],"texto_196.x":[{"time":0,"value":404,"easing":"Linear.EaseNone"}],"texto_196.y":[{"time":0,"value":425,"easing":"Linear.EaseNone"}],"texto_196.width":[{"time":0,"value":141,"easing":"Linear.EaseNone"}],"texto_196.height":[{"time":0,"value":75,"easing":"Linear.EaseNone"}],"texto_196.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":11.49302197802199,"value":0,"easing":"Linear.EaseNone"},{"time":11.518021978021988,"value":1,"easing":"Linear.EaseNone"}],"image_143":[],"image_143.x":[{"time":0,"value":752,"easing":"Linear.EaseNone"},{"time":11.480869565217391,"value":752,"easing":"Linear.EaseNone"},{"time":11.997391304347826,"value":214,"easing":"Linear.EaseNone"},{"time":12.603214285714287,"value":214,"easing":"Linear.EaseNone"},{"time":13.001538461538463,"value":556,"easing":"Linear.EaseNone"}],"image_143.y":[{"time":0,"value":370,"easing":"Linear.EaseNone"},{"time":11.480869565217391,"value":370,"easing":"Linear.EaseNone"},{"time":11.997391304347826,"value":81,"easing":"Linear.EaseNone"},{"time":12.612857142857145,"value":81,"easing":"Linear.EaseNone"},{"time":12.996346153846154,"value":365,"easing":"Linear.EaseNone"}],"image_143.width":[{"time":0,"value":198,"easing":"Linear.EaseNone"},{"time":11.481675824175827,"value":198,"easing":"Linear.EaseNone"},{"time":11.997391304347826,"value":521,"easing":"Linear.EaseNone"},{"time":12.612857142857145,"value":521,"easing":"Linear.EaseNone"},{"time":13.00302197802198,"value":198,"easing":"Linear.EaseNone"}],"image_143.height":[{"time":0,"value":108,"easing":"Linear.EaseNone"},{"time":11.481675824175827,"value":108,"easing":"Linear.EaseNone"},{"time":11.997391304347826,"value":410,"easing":"Linear.EaseNone"},{"time":12.612857142857145,"value":410,"easing":"Linear.EaseNone"},{"time":12.992637362637364,"value":108,"easing":"Linear.EaseNone"}],"image_143.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}],"fondo_194":[],"fondo_194.x":[{"time":0,"value":595,"easing":"Linear.EaseNone"}],"fondo_194.y":[{"time":0,"value":437,"easing":"Linear.EaseNone"}],"fondo_194.width":[{"time":0,"value":120,"easing":"Linear.EaseNone"}],"fondo_194.height":[{"time":0,"value":30,"easing":"Linear.EaseNone"}],"fondo_194.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":13.003021978021987,"value":0,"easing":"Linear.EaseNone"},{"time":13.018021978021988,"value":1,"easing":"Linear.EaseNone"}],"texto_195":[],"texto_195.x":[{"time":0,"value":584,"easing":"Linear.EaseNone"}],"texto_195.y":[{"time":0,"value":425,"easing":"Linear.EaseNone"}],"texto_195.width":[{"time":0,"value":141,"easing":"Linear.EaseNone"}],"texto_195.height":[{"time":0,"value":75,"easing":"Linear.EaseNone"}],"texto_195.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":12.998021978021995,"value":0,"easing":"Linear.EaseNone"},{"time":13.008021978021988,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_199">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_26' x='6' y='20' width='938' height='137' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:23px"><span style="font-family:verdana,geneva,sans-serif">¿Cómo lo representamos?</span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_20' x='111' y='106' width='728' height='283' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/CS_06_09_REC140_IMG01.jpg' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_203">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_26' x='6' y='20' width='938' height='137' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:23px"><span style="font-family:verdana,geneva,sans-serif">¿Cómo lo representamos?</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_19' x='111' y='411' width='728' height='107' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Para representar el relieve terrestre utilizamos colores diferentes que sirven para indicar las distintas altitudes.</span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_20' x='111' y='106' width='728' height='283' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/CS_06_09_REC140_IMG01.jpg' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_207">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_20' x='111' y='101' width='728' height='388' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/CS_06_09_REC140_IMG02.jpg' />
+<component _type='_compImage' id='image_211' x='175' y='118' width='286' height='140' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/CS_06_09_REC140_IMG01.jpg' />
+<component _type='_compRichText' id='texto_213' x='6' y='20' width='938' height='137' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:23px"><span style="font-family:verdana,geneva,sans-serif">¿Cómo lo representamos?</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_20":[],"image_20.x":[{"time":0,"value":111,"easing":"Linear.EaseNone"}],"image_20.y":[{"time":0,"value":101,"easing":"Linear.EaseNone"}],"image_20.width":[{"time":0,"value":728,"easing":"Linear.EaseNone"}],"image_20.height":[{"time":0,"value":388,"easing":"Linear.EaseNone"}],"image_20.alpha":[{"time":0,"value":0,"easing":"Linear.EaseNone"},{"time":0.55,"value":1,"easing":"Linear.EaseNone"}],"image_211":[],"image_211.x":[{"time":0,"value":111,"easing":"Linear.EaseNone"},{"time":0.965,"value":177,"easing":"Linear.EaseNone"}],"image_211.y":[{"time":0,"value":106,"easing":"Linear.EaseNone"},{"time":0.965,"value":118,"easing":"Linear.EaseNone"}],"image_211.width":[{"time":0,"value":728,"easing":"Linear.EaseNone"},{"time":0.965,"value":288,"easing":"Linear.EaseNone"}],"image_211.height":[{"time":0,"value":308,"easing":"Linear.EaseNone"},{"time":0.965,"value":140,"easing":"Linear.EaseNone"}],"image_211.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_214">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_20' x='111' y='101' width='728' height='388' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/CS_06_09_REC140_IMG04.jpg' />
+<component _type='_compRichText' id='texto_213' x='6' y='20' width='938' height='137' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:23px"><span style="font-family:verdana,geneva,sans-serif">¿Cómo lo representamos?</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_218">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_26' x='111' y='18' width='767' height='68' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FF8C00"><strong><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">&iexcl;Recuerda!</span></span></strong></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_19' x='111' y='91' width='723' height='388' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Los <strong>mapas de relieve </strong>representan las diferentes alturas de los accidentes del terreno respecto al nivel del mar y las altitudes. Para esta representaci&oacute;n se utilizan diferentes colores.</span></span></p>
+
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Cuando adem&aacute;s del relieve tambi&eacute;n se representan r&iacute;os, embalses, lagos, etc. (hidrograf&iacute;a) hablamos de <strong>mapas f&iacute;sicos</strong>.</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</slider>
+</pantalla>
+</pantallas>
+<popups>
+<pantalla id="pantalla_25">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_19' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/plantilla_f2.jpg' />
+<component _type='_compIconButton' id='iconbutton_24' x='867' y='45' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_close()]]></event>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</popups>
+</engine>

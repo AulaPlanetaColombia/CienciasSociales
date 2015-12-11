@@ -2,7 +2,7 @@
  *
  * CEPDA Media Player - jQuery plugin basado en Acorn Media Player
  *
- * Versión 15.10.08.1
+ * Versión 14.10.27.1
  *
  * Autores Acorn Media Player: www.ghinda.net 
  *														(stephenoldham y leslash en github.com)
@@ -331,10 +331,9 @@
 			// Mirar: http://bugs.jquery.com/ticket/8015
 			// - BUG Chrome: Si se clona de vídeo/audio el nodo en vez de simplemente moverlo, ésto provoca que no se carguen
 			//   bien los metadatos y el vídeo se quede esperando indefinidamente.
-			// - BUG general Audios: Si recolocamos el audio, en vez de clonarlo, no recibimos evento de metadata...
 			// Debemos tener en cuenta estos temas:
-			// Si es iOS o es un audio, clonamos el nodo
-			if (is_ios_browser || cepda.$self.is('audio')) {
+			// Si es iOS, colnamos el nodo
+			if (is_ios_browser) {
 				$wrapper[0].appendChild( cepda.$self[0].cloneNode(true) );
 				// Quitamos la media real y nos quedamos con el nuevo media/video dentro del contenedor
 				cepda.$self.remove();
@@ -1030,20 +1029,16 @@
 				if (options.onToolbarChanged) {
 					options.onToolbarChanged(cepda, options);
 				}
-
-				// 8/10/2015 - en iOS 9, si usamos touchstart como evento de origen del playMedia(), el vídeo
-				// no arranca. En cambio si usamos click sí que lo hace.
-				// CAMBIAMOS 'touchstart' por 'click' siempre.
 				
 				// Click del botón play/pause
-				cepda.$playBtn.bind( (is_touch_device) ? 'click' /*'touchstart'*/ : 'click', playMedia);
+				cepda.$playBtn.bind( (is_touch_device) ? 'touchstart' : 'click', playMedia);
 				
 				// BIG Play button
 				if (options.bigBtnOn && !cant_show_big_play)
-					cepda.$bigBtn.bind( (is_touch_device) ? 'click' /*'touchstart'*/: 'click', playMedia);
+					cepda.$bigBtn.bind( (is_touch_device) ? 'touchstart' : 'click', playMedia);
 
 				if (document.createElement('video').canPlayType) {
-					cepda.$self.bind((is_touch_device) ? 'click' /*'touchstart'*/: 'click', playMedia);
+					cepda.$self.bind((is_touch_device) ? 'touchstart' : 'click', playMedia);
 				}
 
 				// Eventos del propio vídeo

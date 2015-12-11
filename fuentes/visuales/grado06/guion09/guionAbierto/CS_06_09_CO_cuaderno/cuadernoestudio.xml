@@ -2,20 +2,19 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_06_09_CO">
 <libroTitulo>La representación de la Tierra</libroTitulo>
 <seccion1 id="S1_CS_06_09_CO_6C41BE698F084F6387275B0C1E87885B">
 <seccion1Titulo>La localización de los puntos terrestres</seccion1Titulo>
 <seccion1Texto>
-<p>Para situar y localizar un punto concreto terrestre, se ha creado
-un sistema que llamamos <negrita>coordenadas geográficas</negrita
->. Este sistema sirve para ubicar un punto cualquiera en un mapa.
-Cada uno es el resultado de la intersección de dos líneas imaginarias,
-una vertical y otra horizontal. La línea horizontal se llama <negrita
->paralelo</negrita>, y la vertical, <negrita>meridiano</negrita>.</p>
-<p>Por otra parte, y para su estudio, dividimos la Tierra en una serie
-de líneas imaginarias.</p>
-<destacado><destacadoTitulo>Los ejes de la Tierra</destacadoTitulo>
+<p>Para localizar un punto de la Tierra, se ha creado el sistema de <negrita
+>coordenadas geográficas</negrita>. Este sistema sirve para ubicar
+un punto cualquiera en un mapa, mediante la intersección de dos líneas
+imaginarias, una vertical y otra horizontal. La línea horizontal se
+llama <negrita>paralelo</negrita>, y la vertical, <negrita>meridiano</negrita
+>.</p>
+<destacado><destacadoTitulo>El eje terrestre</destacadoTitulo>
 <destacadoTexto>
 <p>El eje de la Tierra es la <negrita>línea imaginaria</negrita> que
 la atraviesa desde ambos polos.</p>
@@ -32,12 +31,12 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso010&amp;IdRecurso=RES-147BF8
 id="S2_CS_06_09_CO_0ABCE3046E0D47C0AD4A55879074C0C4">
 <seccion2Titulo>Los paralelos y la latitud</seccion2Titulo>
 <seccion2Texto>
-<p>Los <negrita>paralelos</negrita> son líneas paralelas que recorren
-el planeta de oeste a este. El <negrita>Ecuador</negrita> o <negrita
->paralelo 0°</negrita> divide el planeta en dos <negrita>hemisferios</negrita
->: el <negrita>norte</negrita> y el <negrita>sur</negrita>. También
-son importantes el <negrita>trópico de Cáncer</negrita> y el <negrita
->de Capricornio</negrita>.</p>
+<p>Los <negrita>paralelos</negrita> son líneas paralelas al Ecuador
+terrestre que recorren el planeta de oeste a este. El <negrita>Ecuador</negrita
+> o <negrita>paralelo 0°</negrita> divide el planeta en dos <negrita
+>hemisferios</negrita>: el <negrita>norte</negrita> y el <negrita
+>sur</negrita>. También son importantes el <negrita>trópico de Cáncer</negrita
+> y el <negrita>de Capricornio</negrita>.</p>
 <p>Los paralelos indican la <negrita>latitud</negrita>, es decir,
 la distancia de cualquier punto del planeta al Ecuador. Se mide en
 grados (°), minutos (') y segundos ('').</p>
@@ -51,13 +50,12 @@ id="S2_CS_06_09_CO_BEB1C387D7794936A0A8D52D0D86278A">
 <seccion2Titulo>Los meridianos y la longitud</seccion2Titulo>
 <seccion2Texto>
 <p>Los <negrita>meridianos</negrita> son líneas imaginarias que recorren
-el planeta de norte a sur y lo rodean a través de los polos. Dividen
-la Tierra en dos <negrita>hemisferios</negrita>: el <negrita>este</negrita
-> y el <negrita>oeste</negrita>.</p>
+el planeta de norte a sur y lo rodean a través de los polos. El meridiano
+de Greenwich divide la Tierra en dos <negrita>hemisferios</negrita
+>: el <negrita>este</negrita> y el <negrita>oeste</negrita>.</p>
 <p>Los meridianos indican la <negrita>longitud</negrita>, es decir,
 la distancia de cualquier punto del planeta al <negrita>meridiano
-0°</negrita>, también conocido como <negrita>meridiano de Greenwich</negrita
->.</p>
+0°</negrita>, o<negrita> meridiano de Greenwich</negrita>.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso020&amp;IdRecurso=RES-9CDA6830354E474888D16BE74ED8B073"
@@ -96,7 +94,7 @@ id="S2_CS_06_09_CO_393821B54BE945598CDE20583B8A6500">
 <seccion2Texto>
 <p>La <negrita>cartografía</negrita> es la ciencia que se encarga
 de elaborar representaciones de la superficie de la Tierra mediante <negrita
->mapas</negrita> y planos.</p>
+>mapas</negrita> y <negrita>planos</negrita>.</p>
 <p>Para representar gráficamente la superficie de la Tierra sobre
 un mapa, se utilizan distintas técnicas de <negrita>proyección cartográfica</negrita
 >.</p>
@@ -147,14 +145,14 @@ llana o de montaña, corrientes de agua, etc.), la <negrita>vegetación</negrita
 > (desiertos, matorrales, bosques, prados, etc.), las <negrita>explotaciones
 económicas</negrita> (fábricas, cultivos, etc.) y los <negrita>elementos
 construidos por las personas</negrita> (núcleos de población, carreteras
-y vías de comunicación, casas aisladas, etc.).</p><?Pub Caret 364?>
+y vías de comunicación, casas aisladas, etc.).</p>
 <p>Actualmente, la representación de la Tierra se puede realizar de
 forma muy precisa gracias a la fotografía aérea, los satélites y los
 programas informáticos.</p>
 <imagen ampliable="no" src="CS_06_09_CO_IMG05_small.jpg">
 <p>Las imágenes tomadas por los <negrita>satélites</negrita> permiten
-elaborar mapas muy precisos, como esta que muestra parte de China
-y Corea, fotografiadas desde un satélite de la NASA.</p>
+elaborar mapas muy precisos, como esta que muestra a América Central
+y parte de Colombia, fotografiadas desde un satélite de la NASA.</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
 id="S2_CS_06_09_CO_38FE66C120254A0EA81303929C3E8676">
@@ -169,15 +167,19 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso080&amp;IdRecurso=RES-1AAE5B
 <seccion1 id="S1_CS_06_09_CO_D86D0C11579742EB8F8A50C86BA2CEEA">
 <seccion1Titulo>Los mapas</seccion1Titulo>
 <seccion1Texto>
-<p>Los mapas representan un espacio sobre una <negrita>superficie
+<p>Los mapas representan un territorio sobre una <negrita>superficie
 plana</negrita>, a un tamaño o <negrita>escala</negrita> concretos.
 Cuentan con <negrita>leyendas</negrita> que permiten identificar los
 distintos elementos que los componen: la escala, los sistemas de coordenadas,
 la representación del relieve, la simbología (ríos, carreteras, bosques,
 tipos de cultivo, etc.) y la toponimia (los nombres propios de un
 lugar).</p>
-<destacado><destacadoTitulo>Los principales elementos de un mapa</destacadoTitulo>
-<destacadoTexto>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso120&amp;IdRecurso=RES-2C9E06472C7749919D186BD9CCCA568F"
+>La representación de la Tierra: los mapas</enlace>
+</profundiza><destacado><destacadoTitulo>Los principales elementos
+de un mapa</destacadoTitulo><destacadoTexto>
 <listaSinNumerar>
 <listaElemento>La <negrita>escala</negrita>: indica la proporción
 que hay entre las distancias medidas y la realidad que representan.
@@ -189,9 +191,6 @@ de los símbolos del mapa.</listaElemento>
 orientación del mapa.</listaElemento>
 </listaSinNumerar>
 </destacadoTexto></destacado><profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso090&amp;IdRecurso=RES-15FC1A6435554947B30F782218C7F1B6"
->La topografía</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso100&amp;IdRecurso=RES-FF2FCA95AD7C4727AE83F37C2C49B82F"
 >El cálculo de distancias en un mapa</enlace>
@@ -213,18 +212,14 @@ de comunicación, actividades económicas, etc.).</p>
 <p>Según los datos que representan, los mapas pueden ser topográficos
 o temáticos:</p>
 <listaSinNumerar>
-<listaElemento>Los <negrita>mapas temáticos</negrita>: se utilizan
-para destacar algún aspecto concreto del territorio. Son variados:
-políticos, históricos, económicos, climáticos, de población, etc. </listaElemento>
 <listaElemento>Los <negrita>mapas topográficos</negrita>: representan
 superficies más reducidas. Son muy detallados y suelen utilizarse
 como mapas de referencia.</listaElemento>
+<listaElemento>Los <negrita>mapas temáticos</negrita>: se utilizan
+para destacar algún aspecto concreto del territorio. Son variados:
+políticos, históricos, económicos, climáticos, de población, etc. </listaElemento>
 </listaSinNumerar>
-</destacadoTexto></destacado><profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso120&amp;IdRecurso=RES-2C9E06472C7749919D186BD9CCCA568F"
->La representación de la Tierra: los mapas</enlace>
-</profundiza><practica>
+</destacadoTexto></destacado><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso130&amp;IdRecurso=RES-D3E964CEA9CD4ED58A8DAFACEA816EFC"
 >Identifica los distintos tipos de mapa</enlace>
@@ -232,11 +227,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso130&amp;IdRecurso=RES-D3E964
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso140&amp;IdRecurso=RES-A4F391AD1C214225874400EF065F0C29"
 >Los mapas físicos</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso150&amp;IdRecurso=RES-4730108105DF48E5952F4E8E5A7DA5B1"
->Organiza los elementos para elaborar un mapa físico</enlace>
-</practica><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso160&amp;IdRecurso=RES-1075AB4403904AB5BE0C5D6BB9F0C4F1"
 >Los mapas políticos</enlace>
@@ -268,9 +258,9 @@ horizontal, y buscar el lugar en el que se encuentran ambas.</listaElemento>
 y es una lista en la que figura el significado de cada símbolo utilizado.</listaElemento>
 </listaSinNumerar>
 <recuerda><recuerdaTexto>
-<p>Un topónimo es el nombre propio de un lugar, ya sea una ciudad,
-un pueblo, una región, un país, etc. También puede hacer referencia
-al nombre de ríos, mares, montañas, valles, etc.</p>
+<p>Un <negrita>topónimo</negrita> es el nombre propio de un lugar,
+ya sea una ciudad, un pueblo, una región, un país, etc. También puede
+hacer referencia al nombre de ríos, mares, montañas, valles, etc.</p>
 </recuerdaTexto></recuerda><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso180&amp;IdRecurso=RES-AF19C70AAA034E1DA89721CDACF46143"
@@ -306,10 +296,12 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_09_CO_Recurso240&amp;IdRecurso=RES-EEB3D8
 >Evalúa tus conocimientos sobre el tema La representación de la Tierra</enlace>
 </autoevaluate><enlacesreferencia>
 <enlace destino="http://www.sogeocol.edu.co/documentos/11car.pdf"
->Cartografía básica de Colombia</enlace>
+>Texto informativo sobre Cartografía básica de Colombia</enlace>
 <enlace
 destino="http://www2.igac.gov.co/ninos/contenidos/detalle_como_se_hacen_mapas.jsp?idMenu=10&amp;idDocumento=107&amp;subMenu=11"
->Instituto Geográfico Agustín Codazzi – IGAC</enlace>
-<enlace destino="http://www.viasatelital.com/mapas/">Vista satelital
-de la Tierra: mapas satelitales en vivo</enlace>
+>Página para niños del Instituto Geográfico Agustín Codazzi – IGAC</enlace>
+<enlace destino="http://www.banrepcultural.org/blaavirtual/cartografia"
+>Cartografía histórica compilada por la Biblioteca Luis Ángel Arango</enlace>
+<enlace destino="http://mapasamerica.dices.net/colombia/">Interactivo
+con mapa e imágenes satelitales de Colombia</enlace><?Pub Caret 23?>
 </enlacesreferencia></masinformacion></libro>
