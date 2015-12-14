@@ -2,7 +2,7 @@
 id=diaporama
 desc=Visor de diaporamas
 aprid=diaporama
-version=15.8.3.1
+version=15.11.26.1
 entrypoint=principal.html
 dependencies=principal.dep
 mainfolder=motor

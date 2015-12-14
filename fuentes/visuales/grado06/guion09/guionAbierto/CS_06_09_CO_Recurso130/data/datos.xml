@@ -1,4 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="a" aprid="M5a">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="5" clase="a" aprid="M5a">
   <plataforma>
     <grado><![CDATA[1]]></grado>
     <titulo>Identifica los distintos tipos de mapa</titulo>
@@ -10,105 +11,105 @@
     <lang>es</lang>
   </plataforma>
   <enunciado><![CDATA[Lee el enunciado, observa la imagen e indica cuál es la respuesta correcta.]]></enunciado>
-  <masinfo inicio="0"/>
+  <masinfo inicio="0" />
   <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
   <calc><![CDATA[0]]></calc>
   <respuestaunica><![CDATA[0]]></respuestaunica>
   <test cantidad="8">
     <cuestion>
       <enunciado><![CDATA[¿Qué tipo de mapa aparece en la imagen?]]></enunciado>
-      <explicacion/>
+      <explicacion />
       <imagen><![CDATA[000lzq01.jpg]]></imagen>
       <ampliacion><![CDATA[000lzq01.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="Topográfico." correcta="0"/>
-        <respuesta contestacion="Climático." correcta="0"/>
-        <respuesta contestacion="De recursos económicos." correcta="0"/>
-        <respuesta contestacion="De comunicaciones." correcta="1"/>
+        <respuesta contestacion="Topográfico." correcta="0" />
+        <respuesta contestacion="Climático." correcta="0" />
+        <respuesta contestacion="De recursos económicos." correcta="0" />
+        <respuesta contestacion="De comunicaciones." correcta="1" />
       </respuestas>
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Qué tipo de mapa aparece en la imagen?]]></enunciado>
-      <explicacion/>
+      <explicacion />
       <imagen><![CDATA[CS_06_09_REC130_IMG05n.png]]></imagen>
       <ampliacion><![CDATA[CS_06_09_REC130_IMG05a.png]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="De comunicaciones." correcta="0"/>
-        <respuesta contestacion="Topográfico." correcta="0"/>
-        <respuesta contestacion="De clima." correcta="0"/>
-        <respuesta contestacion="Del tiempo." correcta="1"/>
+        <respuesta contestacion="De comunicaciones." correcta="0" />
+        <respuesta contestacion="Topográfico." correcta="0" />
+        <respuesta contestacion="De clima." correcta="0" />
+        <respuesta contestacion="Del tiempo." correcta="1" />
       </respuestas>
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Qué tipo de mapa aparece en la imagen?]]></enunciado>
-      <explicacion/>
+      <explicacion />
       <imagen><![CDATA[CS_06_09_REC130_IMG02n.png]]></imagen>
       <ampliacion><![CDATA[CS_06_09_REC130_IMG02a.png]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="Plano urbano." correcta="1"/>
-        <respuesta contestacion="Político." correcta="0"/>
-        <respuesta contestacion="Físico." correcta="0"/>
-        <respuesta contestacion="Climático." correcta="0"/>
+        <respuesta contestacion="Plano urbano." correcta="1" />
+        <respuesta contestacion="Político." correcta="0" />
+        <respuesta contestacion="Físico." correcta="0" />
+        <respuesta contestacion="Climático." correcta="0" />
       </respuestas>
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Qué tipo de imagen aparece representada?]]></enunciado>
-      <explicacion/>
+      <explicacion />
       <imagen><![CDATA[CS_06_09_REC130_IMG03n.jpg]]></imagen>
       <ampliacion><![CDATA[CS_06_09_REC130_IMG03a.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="Imagen por satélite." correcta="1"/>
-        <respuesta contestacion="Imagen por ordenador." correcta="0"/>
-        <respuesta contestacion="Fotografía aérea." correcta="0"/>
-        <respuesta contestacion="Mapamundi." correcta="0"/>
+        <respuesta contestacion="Imagen por satélite." correcta="1" />
+        <respuesta contestacion="Imagen por ordenador." correcta="0" />
+        <respuesta contestacion="Fotografía aérea." correcta="0" />
+        <respuesta contestacion="Mapamundi." correcta="0" />
       </respuestas>
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Qué tipo de mapa aparece en la imagen?]]></enunciado>
-      <explicacion/>
+      <explicacion />
       <imagen><![CDATA[CS_06_09_REC130_IMG01n.png]]></imagen>
       <ampliacion><![CDATA[CS_06_09_REC130_IMG01a.png]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="Físico." correcta="0"/>
-        <respuesta contestacion="De recursos económicos." correcta="1"/>
-        <respuesta contestacion="De comunicaciones." correcta="0"/>
-        <respuesta contestacion="Vista desde un satélite." correcta="0"/>
+        <respuesta contestacion="Físico." correcta="0" />
+        <respuesta contestacion="De recursos económicos." correcta="1" />
+        <respuesta contestacion="De comunicaciones." correcta="0" />
+        <respuesta contestacion="Vista desde un satélite." correcta="0" />
       </respuestas>
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Qué tipo de mapa aparece en la imagen?]]></enunciado>
-      <explicacion/>
+      <explicacion />
       <imagen><![CDATA[CS_06_09_REC130_IMG04n.png]]></imagen>
       <ampliacion><![CDATA[CS_06_09_REC130_IMG04a.png]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="Histórico." correcta="1"/>
-        <respuesta contestacion="Físico." correcta="0"/>
-        <respuesta contestacion="Topográfico." correcta="0"/>
-        <respuesta contestacion="De población." correcta="0"/>
+        <respuesta contestacion="Histórico." correcta="1" />
+        <respuesta contestacion="Físico." correcta="0" />
+        <respuesta contestacion="Topográfico." correcta="0" />
+        <respuesta contestacion="De población." correcta="0" />
       </respuestas>
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Qué tipo de proyección cartográfica utiliza este mapa?]]></enunciado>
-      <explicacion/>
+      <explicacion />
       <imagen><![CDATA[00097m01_500.png]]></imagen>
-      <ampliacion/>
+      <ampliacion />
       <respuestas>
-        <respuesta contestacion="Esférica." correcta="0"/>
-        <respuesta contestacion="Cilíndrica." correcta="0"/>
-        <respuesta contestacion="Cónica." correcta="0"/>
-        <respuesta contestacion="Acimutal." correcta="1"/>
+        <respuesta contestacion="Esférica." correcta="0" />
+        <respuesta contestacion="Cilíndrica." correcta="0" />
+        <respuesta contestacion="Cónica." correcta="0" />
+        <respuesta contestacion="Acimutal." correcta="1" />
       </respuestas>
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Qué tipo de imagen aparece representada?]]></enunciado>
-      <explicacion/>
+      <explicacion />
       <imagen><![CDATA[rico_500x500.jpg]]></imagen>
-      <ampliacion/>
+      <ampliacion />
       <respuestas>
-        <respuesta contestacion="Fotografía aérea." correcta="1"/>
-        <respuesta contestacion="Imagen por satélite." correcta="0"/>
-        <respuesta contestacion="Callejero." correcta="0"/>
-        <respuesta contestacion="Reconstrucción 3D." correcta="0"/>
+        <respuesta contestacion="Fotografía aérea." correcta="1" />
+        <respuesta contestacion="Imagen por satélite." correcta="0" />
+        <respuesta contestacion="Callejero." correcta="0" />
+        <respuesta contestacion="Reconstrucción 3D." correcta="0" />
       </respuestas>
     </cuestion>
   </test>
