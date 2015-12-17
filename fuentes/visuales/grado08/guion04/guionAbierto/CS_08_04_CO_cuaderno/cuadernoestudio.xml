@@ -2,7 +2,6 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="CS_08_04_CO">
 <libroTitulo>La Restauración, el liberalismo y los nacionalismos</libroTitulo>
 <seccion1 id="S1_CS_08_04_CO_5DB8BCE536E943FA9DBC996778A62F81">
@@ -112,7 +111,8 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso050&amp;IdRecurso=RES-FC6DC8
 <seccion1Texto>
 <p>A pesar de la derrota francesa, las guerras napoleónicas contribuyeron
 a difundir las <negrita>ideas liberales</negrita>, derivadas del <negrita
->pensamiento ilustrado</negrita> del siglo XVIII. Estas reclamaban:</p>
+>pensamiento ilustrado</negrita> del siglo XVIII. Estas reclamaban:</p><?Pub
+Caret 77?>
 <listaSinNumerar>
 <listaElemento>La <negrita>soberanía</negrita> nacional.</listaElemento>
 <listaElemento>La <negrita>división</negrita> de poderes</listaElemento>
@@ -325,42 +325,111 @@ de la guerra, en 1859, lo llevó a ponerse al frente de la <negrita
 >. Tras desembarcar en <negrita>Marsala</negrita>, conquistó el <negrita
 >Reino de las Dos Sicilias</negrita> (1860). En los años siguientes
 continuó su lucha contra los austríacos, aunque sus ideas revolucionarias
-lo enfrentaron al <negrita>rey Víctor Manuel II</negrita>.</p><?Pub
-Caret 440?>
+lo enfrentaron al <negrita>rey Víctor Manuel II</negrita>.</p>
 </imagen>
+<p>Todos los territorios italianos se unieron entonces para crear
+el <negrita>Reino de Italia</negrita>, en cuyo trono se sentó <negrita
+>Víctor Manuel II de Saboya (1861)</negrita>, rey de Piamonte. Entre
+1866 y 1871, el Reino de Italia adicionó al de Véneto y a los Estados
+Pontificios.</p>
 </seccion2Texto></seccion2><seccion2
 id="S2_CS_08_04_CO_52BD072DEC7B4ACCB0163AF4B2E08485">
 <seccion2Titulo>La unificación alemana</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_04_CO_img_08_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>La unificación de Alemania se produjo durante el reinado de <negrita
+>Guillermo I de Prusia</negrita> (1861-1888) y corrió a cargo de su
+canciller, <negrita>Otto von Bismarck</negrita>. En dicho proceso
+fue fundamental el apoyo de la <negrita>burguesía industrial</negrita
+>.</p>
+<p>Tras las <negrita>victorias alemanas</negrita> sobre <negrita>Austria</negrita
+> y <negrita>Francia</negrita>, en 1871 se proclamó el <negrita>II
+Reich alemán</negrita> y <negrita>Guillermo I</negrita> se convirtió
+en <negrita>káiser</negrita> (emperador). Los distintos Estados que
+lo componían mantuvieron sus instituciones, aunque siempre bajo el
+control prusiano.</p>
+<imagen src="CS_08_04_CO_IMG08_small.jpg">
+<p>Tras la negativa prusiana a aceptar la renuncia de Leopoldo de
+Hohenzollern al trono español (impuesta por Francia), se produjo el
+estallido de la <negrita>guerra franco-prusiana</negrita> (1870-1871).
+París sufrió el asedio de las tropas prusianas (1870) y Francia tuvo
+que capitular. El país galo estuvo ocupado hasta 1873 y tuvo que ceder <negrita
+>Alsacia-Lorena</negrita> a Alemania. Al mismo tiempo, el canciller
+alemán <negrita>Otto von Bismarck</negrita> proclamó el <negrita>II
+Reich</negrita> en Versalles (1871) y <negrita>Guillermo I de Prusia</negrita
+> se convirtió en emperador de Alemania.</p>
 </imagen>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso110&amp;IdRecurso=RES-B4B70401FA1E493480EEAE3B353E9136"
 >Las unificaciones de Italia y de Alemania</enlace>
-</profundiza>
-<p>Aquí va un PÁRRAFO</p>
-<practica>
+</profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso120&amp;IdRecurso=RES-00C82C9E712246CAB34E3F10D58490C3"
 >Conoce los procesos de unificación nacional del siglo XIX</enlace>
 </practica>
-<p>Aquí va un PÁRRAFO</p>
+<table border="1"><caption>La Restauración, el liberalismo y los nacionalismos</caption>
+<colgroup><col width="17*"/><col width="82*"/></colgroup>
+<tbody>
+<tr>
+<td>CRONOLOGÍA</td>
+<td>PRINCIPALES HITOS</td>
+</tr>
+<tr>
+<td>1804</td>
+<td>La coronación de <negrita>Napoleón Bonaparte</negrita> como emperador
+de Francia.</td>
+</tr>
+<tr>
+<td>1806-1815</td>
+<td>Las <negrita>guerras napoleónicas</negrita>.</td>
+</tr>
+<tr>
+<td>1814-1815</td>
+<td>El <negrita>congreso de Viena</negrita>.</td>
+</tr>
+<tr>
+<td>1820</td>
+<td>Las <negrita>revoluciones</negrita> liberales de <negrita>1820</negrita
+>.</td>
+</tr>
+<tr>
+<td>1830</td>
+<td>Las <negrita>revoluciones</negrita> liberales de <negrita>1830</negrita
+>.</td>
+</tr>
+<tr>
+<td>1848</td>
+<td>Las <negrita>revoluciones</negrita> liberales de <negrita>1848</negrita
+> o la <negrita>primavera de los pueblos</negrita>.</td>
+</tr>
+<tr>
+<td>1859-1871</td>
+<td>La <negrita>unificación</negrita> de <negrita>Italia</negrita
+>.</td>
+</tr>
+<tr>
+<td>1866-1871</td>
+<td>La <negrita>unificación alemana</negrita>.</td>
+</tr>
+<tr>
+<td>1871</td>
+<td>La proclamación del <negrita>II Reich</negrita> alemán.</td>
+</tr>
+</tbody>
+</table>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso130&amp;IdRecurso=RES-4D37A366949A4D808D0CF653AB10E69C"
->Recurso M10A-01</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<profundiza>
+>Clasifica hechos y personajes de la unificación de Italia y de Alemania</enlace>
+</practica><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso140&amp;IdRecurso=RES-F22207E6018A40D79E7433F82060AE64"
 >Cronología: la Restauración, el liberalismo y los nacionalismos</enlace>
-</profundiza>
-<p>Aquí va un PÁRRAFO</p>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_04_CO_D849B806B3624036B9EDABAC757B2CCF">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso150&amp;IdRecurso=RES-CDE0A5D358AA4EADB3D0E20C0DF8440F"
@@ -369,13 +438,11 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso150&amp;IdRecurso=RES-CDE0A5
 <seccion1 id="S1_CS_08_04_CO_77962AEC0A684395A795FFE58940A001">
 <seccion1Titulo>Competencias</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso160&amp;IdRecurso=RES-A09E21DBAF204694ADD2FE083EE780A3"
 >Competencias: exposición oral sobre un episodio histórico</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso170&amp;IdRecurso=RES-181C91DCAE79491A8D6A9C25365B0DB5"
 >Proyecto: análisis de las guerras napoleónicas</enlace>
@@ -383,8 +450,18 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso170&amp;IdRecurso=RES-181C91
 id="MI_CS_08_04_CO_C7129526D10E4AB2A26D991B496BE87B"><mapaconceptual>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso190&amp;IdRecurso=RES-B369A884F1F14DDFB10BF39D53CFE14F"
->Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+>Mapa conceptual del tema La Restauración, el liberalismo y los nacionalismos</enlace>
+</mapaconceptual><autoevaluate><enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_04_CO_Recurso200&amp;IdRecurso=RES-1ABCBBE21BCC42AE93BE1F3FEAF5BAF4"
->Evaluación</enlace></autoevaluate><enlacesreferencia>
-<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+>Evalúa tus conocimientos sobre el tema La Restauración, el liberalismo
+y los nacionalismos</enlace></autoevaluate><enlacesreferencia>
+<enlace
+destino="http://iris.cnice.mec.es/kairos/ensenanzas/eso/contemporanea/antiguo_07_00.html"
+>Secuencia didáctica ofrecida por el Proyecto Kairós en la que se
+abordan cuestiones como el imperio napoleónico, las revoluciones liberales
+y las unificaciones de Italia y de Alemania.</enlace>
+<enlace
+destino="http://www.claseshistoria.com/revolucionesburguesas/textos.htm"
+>Material para abordar el estudio de la construcción de las naciones
+contemporáneas.</enlace>
 </enlacesreferencia></masinformacion></libro>

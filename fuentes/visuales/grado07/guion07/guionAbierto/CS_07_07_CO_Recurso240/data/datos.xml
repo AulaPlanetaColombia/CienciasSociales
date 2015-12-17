@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<mapa aprid="mapa">
+<?xml version='1.0' encoding='UTF-8'?><mapa aprid="mapa">
   <copyright>(c) Editorial Planeta</copyright>
   <version>1.0</version>
   <botonMapaConceptual>mostrar</botonMapaConceptual>
@@ -7,35 +6,711 @@
   <botonMudo>0</botonMudo>
   <objeto>
     <ref>00</ref>
-    <texto />
+    <texto>Geografía física y humana de Europa, Asia y África</texto>
     <hijos>10</hijos>
-    <padre />
+    <padre/>
     <siz>0</siz>
-    <negcur />
+    <negcur>00000000000000000000000000000000000000000000000000</negcur>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
   </objeto>
   <objeto>
     <ref>10</ref>
-    <texto />
-    <hijos>20</hijos>
+    <texto/>
+    <hijos>20,21,22</hijos>
     <padre>00</padre>
     <siz>14</siz>
-    <negcur />
+    <negcur/>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
   </objeto>
   <objeto>
     <ref>20</ref>
-    <texto />
-    <hijos />
+    <texto>Europa</texto>
+    <hijos>30,31</hijos>
     <padre>10</padre>
     <siz>0</siz>
-    <negcur />
+    <negcur>000000</negcur>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>21</ref>
+    <texto>Asia</texto>
+    <hijos>32</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>22</ref>
+    <texto>África</texto>
+    <hijos>33</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto/>
+    <hijos>40</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>aspecto
+físico</texto>
+    <hijos>50</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto/>
+    <hijos>41</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>aspecto
+humano</texto>
+    <hijos>51</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto/>
+    <hijos>60,61,62</hijos>
+    <padre>40</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>relieve
+y costas</texto>
+    <hijos>70</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto/>
+    <hijos>80</hijos>
+    <padre>60</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>- sistemas montañosos
+  (Alpes, Pirineos, 
+  Cárpatos, Urales,
+  Cáucaso)
+- penínsulas (Ibérica,
+  Itálica, Balcánica,
+  Escandinava)
+- islas (Británicas,
+  Baleares, Córcega,
+  Cerdeña, Sicilia)</texto>
+    <hijos/>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>climas</texto>
+    <hijos>71</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto>vertientes</texto>
+    <hijos>72</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto/>
+    <hijos>81</hijos>
+    <padre>61</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>- mediterráneo
+- oceánico
+- continental
+- polar y 
+  de montaña</texto>
+    <hijos/>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>72</ref>
+    <texto/>
+    <hijos>82</hijos>
+    <padre>62</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>- ártica
+- atlántica
+- mediterránea
+  del mar Negro
+- atlántica</texto>
+    <hijos/>
+    <padre>72</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto/>
+    <hijos>63</hijos>
+    <padre>41</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>generalidades</texto>
+    <hijos>73</hijos>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>73</ref>
+    <texto/>
+    <hijos>83</hijos>
+    <padre>63</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>83</ref>
+    <texto>- más de 700 millones
+  de habitantes
+- 55 Estados (28 son parte
+  de la Unión Europea)
+- la mayoría de Estados
+  son democráticos
+- la Unión Europea es 
+  la primera economía
+  del mundo</texto>
+    <hijos/>
+    <padre>73</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto/>
+    <hijos>42,43</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>aspecto
+físico</texto>
+    <hijos>52</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>43</ref>
+    <texto>aspecto
+humano</texto>
+    <hijos>53</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto/>
+    <hijos>64,65,66</hijos>
+    <padre>42</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>relieve 
+y costas</texto>
+    <hijos>74</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>climas</texto>
+    <hijos>75</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>vertientes</texto>
+    <hijos>76</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>74</ref>
+    <texto/>
+    <hijos>84</hijos>
+    <padre>64</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>84</ref>
+    <texto>- sistema montañoso
+  (Himalaya)
+- penínsulas (Corea,
+  Indochina, Arabia)
+- llanuras (Anatolia,
+  Irán, Mongolia,
+  Arabia, Tíbet)
+- desierto (Gobi)
+- islas y archipiélagos
+  (Borneo, Sumatra;
+  Filipinas, Japón)</texto>
+    <hijos/>
+    <padre>74</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>75</ref>
+    <texto/>
+    <hijos>85</hijos>
+    <padre>65</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>85</ref>
+    <texto>- cálidos
+- templados
+- fríos
+- de estepa
+- desérticos</texto>
+    <hijos/>
+    <padre>75</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>76</ref>
+    <texto/>
+    <hijos>86</hijos>
+    <padre>66</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>86</ref>
+    <texto>- Ártica
+- del Pacífico
+- del Índico
+- cuencas endorreicas
+  (Caspio y mar de Aral)</texto>
+    <hijos/>
+    <padre>76</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>53</ref>
+    <texto/>
+    <hijos>67</hijos>
+    <padre>43</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>67</ref>
+    <texto>generalidades</texto>
+    <hijos>7B</hijos>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>33</ref>
+    <texto/>
+    <hijos>44,45</hijos>
+    <padre>22</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>44</ref>
+    <texto>aspecto
+físico</texto>
+    <hijos>54</hijos>
+    <padre>33</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>45</ref>
+    <texto>aspecto
+humano</texto>
+    <hijos>55</hijos>
+    <padre>33</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>54</ref>
+    <texto/>
+    <hijos>68,69,6A</hijos>
+    <padre>44</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>68</ref>
+    <texto>relieve
+y costas</texto>
+    <hijos>77</hijos>
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>69</ref>
+    <texto>climas</texto>
+    <hijos>78</hijos>
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>6A</ref>
+    <texto>vertientes</texto>
+    <hijos>79</hijos>
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>77</ref>
+    <texto/>
+    <hijos>87</hijos>
+    <padre>68</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>87</ref>
+    <texto>- sistemas montañosos
+  (Atlas, Drakensberg,
+  montes Kilimanjaro)
+- mesetas (Sáhara,
+  región del Congo,
+  Kaláhari, de los Grandes
+  lagos, Etíope, Somali)
+- desiertos (Sáhara,
+  Kalahari, Namibia)
+- islas (Madagascar)</texto>
+    <hijos/>
+    <padre>77</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>78</ref>
+    <texto/>
+    <hijos>88</hijos>
+    <padre>69</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>88</ref>
+    <texto>- ecuatorial
+- tropical o
+  de sabana
+- mediterránea
+  o templado
+- seco</texto>
+    <hijos/>
+    <padre>78</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>79</ref>
+    <texto/>
+    <hijos>89</hijos>
+    <padre>6A</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>89</ref>
+    <texto>- Atlántica
+- Mediterránea
+- Índica</texto>
+    <hijos/>
+    <padre>79</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>55</ref>
+    <texto/>
+    <hijos>6B</hijos>
+    <padre>45</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>6B</ref>
+    <texto>generalidades</texto>
+    <hijos>7A</hijos>
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>7A</ref>
+    <texto/>
+    <hijos>8A</hijos>
+    <padre>6B</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>8A</ref>
+    <texto>- 1.100 millones de habitantes
+- 54 estados (53 hacen parte
+  de la Unión Africana)
+- la organización política
+  es diversa y casi todos 
+  los países son repúblicas
+- economías dependientes de
+  la agricultura y la minería;
+  sectores secundario y terciario
+  poco desarrollados</texto>
+    <hijos/>
+    <padre>7A</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>7B</ref>
+    <texto/>
+    <hijos>8B</hijos>
+    <padre>67</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>8B</ref>
+    <texto>- 4.427 millones de habitantes es el 
+  continente más poblado del planeta
+- 45 estados
+- la organización política es diversa
+- destacan las economías de 
+  los Cuatro tigres asiáticos</texto>
+    <hijos/>
+    <padre>7B</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
   </objeto>
 </mapa>

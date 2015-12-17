@@ -1,16 +1,15 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<meta name="viewport" id="viewport" content="initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" id="viewport" content="initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 		
 		<!--
 		 ************************************************************************
 		 * Visor Mapas Conceptuales
-		 * Versión: 15.29.9.1
+		 * Versión: 15.7.16.1
 		 * Autores: Javier Garcés i Jesús Gironés (Sinergia)
 		 * Histórico:
-		 *  - 15.29.9.1: pppPreloader añadido
 		 *  - 15.7.16.1:
 		 *	· Sonidos: hace stop/resume si esta reproduciendo/pausado.
 		 *	  Problemas varios Android 4.1, 4.2:
@@ -49,79 +48,21 @@
 		 ************************************************************************
 		-->
 		
-		<title>Mapa conceptual</title>
+		<title>Concept map</title>
 
-		<!--<link rel="stylesheet" href="motor/css/styles.css?v=14.6.16.1" type="text/css" />-->
+		<link rel="stylesheet" href="motor/css/styles.css?v=14.6.16.1" type="text/css" />
 	
-		<!-- Versió extesa per debugar 
-		<script type="text/javascript" src="extlib/jquery/1_11_1/jquery_1_11_1.js"></script>
-		<script type="text/javascript" src="extlib/createjs/2013_12_12/easeljs_0_7_1_combined.js"></script>
-		<script type="text/javascript" src="extlib/createjs/2013_12_12/preloadjs_0_4_1_min.js"></script>
-		<script type="text/javascript" src="motor/js_test/HTMLText.js"></script>
-		<script type="text/javascript" src="motor/js_test/touchcomp.js"></script>
-		<script type="text/javascript" src="motor/js_test/xdom.js"></script>
-		<script type="text/javascript" src="motor/js_test/xaudio.js"></script>
-		<script type="text/javascript" src="motor/js_test/extendedshape.js"></script>
-		<script type="text/javascript" src="motor/js_test/pppmapaconceptual.js"></script>
-		 -->
-	
-		<!-- versió min 
+		<!-- versió min -->
 		<script type="text/javascript" src="extlib/jquery/1_11_1/jquery_1_11_1_min.js"></script>
 		<script type="text/javascript" src="extlib/createjs/2013_12_12/easeljs_0_7_1_min.js"></script>
 		<script type="text/javascript" src="extlib/createjs/2013_12_12/preloadjs_0_4_1_min.js"></script>
-		<script type="text/javascript" src="motor/js/pppmcall_min.js?v=15.29.9.1"></script>
-		 -->
+		<script type="text/javascript" src="motor/js/pppmcall_min.js?v=15.3.2.1"></script>
+		<!-- -->
 		
-		<script type='text/javascript' src='lib/ppppreloader/1_0/ppppreloader_min.js'></script>
-
 		<script type="text/javascript">
-			
-			// Precarga
-			var manifest = {
-				// Bloques de elementos a descargar
-				blocks: [
-					{ type: "manifest", files: [ { from: "module", file:"motor/manifest.json"} ] }
-					//{ type: "manifest", files: [ { from: "module", file:"motor/manifest_debug.json"} ] }
-				],
-				spinner: "no",
-				waitForDocumentReady: true, 
-				onEndLoading: function (manifest) {
-					// Miramos si hay errores
-					if (manifest.errors.length > 0) {
-						var msg = "Ended with errors: \n\n";
-						for (var i=0;i<manifest.errors.length;i++) {
-							msg += "- " + manifest.errors[i].type + ": " + manifest.errors[i].file + " [" + manifest.errors[i].url + "]\n";
-						}
-						pppSpinner.hide();
-						alert(msg);
-					} else { // Todo Ok!!!
-						// AHORA PROCEDEMOS A INICIALIZAR EL DIAPORAMA...
-						
-						// Inicialització de la versió HTML5
-						// Escollim tema: per defecte fem servir el tema SVG
-						var theme = "aulaplanetasvg35";
-						// Si és IE fa servir la versió bitmaps (hi ha un bug a la implementació SVG)
-						if (/msie|trident/.test(navigator.userAgent.toLowerCase()))
-							theme = "aulaplaneta35";
-							//alert(theme +" "+ navigator.userAgent);
-						pppSpinner.hide();
-						// Inicialitzem el mapa conceptual
-						var mapac = new pppMapaConceptual("container", false);
-						mapac.initMapaConceptual(/*"."*/pppPreloader.from("data", ""));
-					}
-				}
-			};
-			
-			// Inicialización del sistema
-			pppPreloader.init( {
-				aliases: { "module": "CDN" },
-				remotePaths: { "module": "motors/mapa/" }
-			});
-			pppSpinner.show();
-
-			// Cargamos el manifiesto del motor
-			pppPreloader.loadManifest(manifest);
-			
+			// Inicialitzem el diaporama
+			var mapac = new pppMapaConceptual("container", false);
+			mapac.initMapaConceptual(".");
 		</script>
 		
 	</head>
@@ -129,7 +70,7 @@
 		<div id="topcontainer" style="width: 100%; height: 100%; border: 0; margin: 0;">
 			<div class="html_mc">
 				<div class="mc_container">
-					<canvas id="container" width="950" height="608" style="border: 1px solid black;"></canvas>
+					<canvas id="container" width="950" height="608"></canvas>
 				</div>
 			</div>
 		</div>
