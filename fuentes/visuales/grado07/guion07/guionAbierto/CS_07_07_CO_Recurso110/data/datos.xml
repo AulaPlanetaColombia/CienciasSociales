@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f4">
+  <main title="Los climas del continente asiático" path="CS_07_07_CO_IMG01.jpg" buttonsHeight="53">
+  </main>
+  <questions respCorrecta="Respuesta correcta." respIncorrecta="Respuesta incorrecta.">
+    <question title="El clima menos común en el continente asiático es" path="CS_07_07_CO_IMG02.jpg">
+      <answers>
+        <answer correct="1">
+          <text><![CDATA[clima polar]]></text>
+          <explanation width="394"><![CDATA[<p>Solo se encuentra en algunas islas muy peque&ntilde;as&nbsp;del Oceano &Aacute;rtico</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[clima continental húmedo]]></text>
+          <explanation width="394"><![CDATA[<p>Se encuentra en amplias extensiones de paises como China y Corea</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[clima mediterráneo]]></text>
+          <explanation width="394"><![CDATA[<p>Se presenta en varios pa&iacute;ses como Turqu&iacute;a, L&iacute;bano, Israel y Chipre.</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[clima ecuatorial seco.]]></text>
+          <explanation width="394"><![CDATA[<p>Se encuentra en toda Mongoloia, partes de China y Siberia.&nbsp;</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="">
+        <text><![CDATA[]]></text>
+      </info>
+    </question>
+    <question title="El clima de bosques boreales está presente en esta región:" path="CS_07_07_CO_IMG03.jpg">
+      <answers>
+        <answer correct="0">
+          <text><![CDATA[Sudeste asiático]]></text>
+          <explanation width="394"><![CDATA[<p>El clima tropical h&uacute;medo y seco es predominante en el sudeste as&iacute;atico</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Península Arábica]]></text>
+          <explanation width="394"><![CDATA[<p>El clima seco es predominante en la pen&iacute;nsula Ar&aacute;bica</p>
+]]></explanation>
+        </answer>
+        <answer correct="1">
+          <text><![CDATA[Siberia]]></text>
+          <explanation width="394"><![CDATA[<p>Una enorme franja de oeste a este en el norte de Siberia cruza casi todo el continente.&nbsp;</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[costa del mediterráneo]]></text>
+          <explanation width="394"><![CDATA[<p>El cllima mediterr&aacute;neo es el predominante en esta costa.</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="">
+        <text><![CDATA[]]></text>
+      </info>
+    </question>
+    <question title="El clima predominante en Indonesia y Nueva Guinea es" path="CS_07_07_CO_IMG04.jpg">
+      <answers>
+        <answer correct="0">
+          <text><![CDATA[clima mediterráneo]]></text>
+          <explanation width="394"><![CDATA[<p>Solo se encuentra en una franja de pa&iacute;ses como Israel. Turqu&iacute;a y Chipre</p>
+]]></explanation>
+        </answer>
+        <answer correct="1">
+          <text><![CDATA[clima ecuatorial lluvioso]]></text>
+          <explanation width="394"><![CDATA[<p>Grandes precipitaciones se presentan en estos territorios</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[clima tropical seco]]></text>
+          <explanation width="394"><![CDATA[<p>presente en Arabia e Ir&aacute;n</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[clima continental húmedo]]></text>
+          <explanation width="394"><![CDATA[<p>Aunque tienen clima h&uacute;meda indonesia y Nueva Gu&iacute;nea son islas. El continental h&uacute;medo aparece en el este, por ejemplo Jap&oacute;n y Corea.&nbsp;</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="">
+        <text><![CDATA[]]></text>
+      </info>
+    </question>
+    <question title="El clima monzónico se encuentra predominantemente en" path="CS_07_07_CO_IMG05.jpg">
+      <answers>
+        <answer correct="0">
+          <text><![CDATA[ China]]></text>
+          <explanation width="394"><![CDATA[<p>No presenta monzones.&nbsp;</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Japón]]></text>
+          <explanation width="394"><![CDATA[<p>No presenta monzones.&nbsp;</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Vietnam]]></text>
+          <explanation width="394"><![CDATA[<p>No presenta monzones.&nbsp;</p>
+]]></explanation>
+        </answer>
+        <answer correct="1">
+          <text><![CDATA[India]]></text>
+          <explanation width="394"><![CDATA[<p>Los monzones se presentan exclusivamente en algunas zonas de India.&nbsp;</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="">
+        <text><![CDATA[]]></text>
+      </info>
+    </question>
+    <question title="De norte a sur, el clima asiático puede describirse como" path="CS_07_07_CO_IMG06.jpg">
+      <answers>
+        <answer correct="1">
+          <text><![CDATA[De clima polar a  ecuatorial]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[De mediterráneo a desertico]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[De clima ecuatorial a polar]]></text>
+          <explanation width="394"><![CDATA[<p>Esta descripci&oacute;n aplica&nbsp;de sur a norte</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[De clima seco a clima de montaña]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="">
+        <text><![CDATA[]]></text>
+      </info>
+    </question>
+    <question title="Este país no presenta el clima desértico" path="CS_07_07_CO_IMG07.jpg">
+      <answers>
+        <answer correct="0">
+          <text><![CDATA[Afganistan]]></text>
+          <explanation width="394"><![CDATA[<p>Presenta zonas des&eacute;rticas.&nbsp;</p>
+]]></explanation>
+        </answer>
+        <answer correct="1">
+          <text><![CDATA[Indonesia]]></text>
+          <explanation width="394"><![CDATA[<p>Su clima tropical lluvioso y seco no permite la existencia de desiertos.</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Irán]]></text>
+          <explanation width="394"><![CDATA[<p>Presenta zonas des&eacute;rticas.&nbsp;</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Pakistán]]></text>
+          <explanation width="394"><![CDATA[<p>Presenta zonas des&eacute;rticas.&nbsp;</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="">
+        <text><![CDATA[]]></text>
+      </info>
+    </question>
+    <question title="El clima mediterráneo se encuentra en estos países, excepto:" path="CS_07_07_CO_IMG08.jpg">
+      <answers>
+        <answer correct="1">
+          <text><![CDATA[China]]></text>
+          <explanation width="394"><![CDATA[<p>No est&aacute; ubicado sobre el mediterr&aacute;neo</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Israel]]></text>
+          <explanation width="394"><![CDATA[<p>Este pa&iacute;s presenta el clima mediterr&aacute;neo</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Turquía]]></text>
+          <explanation width="394"><![CDATA[<p>Este pa&iacute;s presenta el clima mediterr&aacute;neo</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Líbano]]></text>
+          <explanation width="394"><![CDATA[<p>Este pa&iacute;s presenta el clima mediterr&aacute;neo</p>
+]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="">
+        <text><![CDATA[]]></text>
+      </info>
+    </question>
+    <question title="El clima más común en la península indochina es" path="CS_07_07_CO_IMG09.jpg">
+      <answers>
+        <answer correct="0">
+          <text><![CDATA[clima mediterráneo]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[subtropical seco]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="1">
+          <text><![CDATA[tropical húmedo]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[tropical seco]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="">
+        <text><![CDATA[]]></text>
+      </info>
+    </question>
+    <question title="Estos países presentan el clima subtropical húmedo, excepto:" path="CS_07_07_CO_IMG10.jpg">
+      <answers>
+        <answer correct="0">
+          <text><![CDATA[China]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Taiwan]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="1">
+          <text><![CDATA[Camboya]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Japón]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="">
+        <text><![CDATA[]]></text>
+      </info>
+    </question>
+    <question title="El clima continental húmedo se encuentra exclusivamente en esta zona de Asia" path="CS_07_07_CO_IMG11.jpg">
+      <answers>
+        <answer correct="0">
+          <text><![CDATA[Norte]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Sur]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[Oeste]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="1">
+          <text><![CDATA[Este]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+        <answer correct="0">
+          <text><![CDATA[]]></text>
+          <explanation width="394"><![CDATA[]]></explanation>
+        </answer>
+      </answers>
+      <info path="">
+        <text><![CDATA[]]></text>
+      </info>
+    </question>
+  </questions>
+</engine>

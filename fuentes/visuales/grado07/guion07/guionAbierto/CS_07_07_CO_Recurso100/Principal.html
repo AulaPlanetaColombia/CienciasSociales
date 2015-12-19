@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>El relieve de Asia</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+
+        <script src="extlib/createjs/2013_12_12/createjs-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/movieclip-0-7-1-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/zoom.js"></script>
+        <script src="js/principal.js"></script>
+
+          <script>
+            var canvas, stage, exportRoot, incremento,popupon;
+            window.onresize = function ()
+            {
+                onResize();
+            }
+                       
+             
+            function init() {
+
+                canvas = document.getElementById("canvas");
+                images = images || {};
+                if (navigator.userAgent.toLowerCase().indexOf("firefox") == -1)
+                    incremento = 0;
+                else
+                    incremento = 4;
+                var manifest = [
+                      {src: "images/test.jpg", id: "test"},
+                {src:"images/_00056K01.jpg", id:"_00056K01"},
+		{src:"images/_0006R901.jpg", id:"_0006R901"},
+		{src:"images/_000M4J01.jpg", id:"_000M4J01"},
+		{src:"images/_000RP101.jpg", id:"_000RP101"},
+		{src:"images/_000THR01.jpg", id:"_000THR01"},
+		{src:"images/_000TJY01.jpg", id:"_000TJY01"},
+		{src:"images/_00149C01.jpg", id:"_00149C01"},
+		{src:"images/Arabia.jpg", id:"Arabia"},
+		{src:"images/europa.jpg", id:"europa"},
+		{src:"images/europa_Llanuras.jpg", id:"europa_Llanuras"},
+		{src:"images/europa_Montanyas.jpg", id:"europa_Montanyas"},
+		{src:"images/europa_Peninsulas.jpg", id:"europa_Peninsulas"},
+		{src:"images/fujiyama.jpg", id:"fujiyama"},
+		{src:"images/himalaya.jpg", id:"himalaya"},
+		{src:"images/java.jpg", id:"java"},
+		{src:"images/java_1.png", id:"java_1"},
+		{src:"images/JAVA2.png", id:"JAVA2"},
+		{src:"images/llanuras_ok.png", id:"llanuras_ok"},
+		{src:"images/mapa_mudo_ok.png", id:"mapa_mudo_ok"},
+		{src:"images/mapa_mudo_okjpgcopia.jpg", id:"mapa_mudo_okjpgcopia"},
+		{src:"images/mongolia.jpg", id:"mongolia"},
+		{src:"images/montanas_ok.png", id:"montanas_ok"},
+		{src:"images/pautas950x608nuevosarreglos.png", id:"pautas950x608nuevosarreglos"},
+		{src:"images/peninsulas_ok.png", id:"peninsulas_ok"},
+		{src:"images/siberia.jpg", id:"siberia"},
+		{src:"images/tibet.jpg", id:"tibet"}
+                ];
+
+
+                var loader = new createjs.LoadQueue(false);
+                loader.addEventListener("fileload", handleFileLoad);
+                loader.addEventListener("complete", handleComplete);
+                loader.loadManifest(manifest);
+                loadXML();
+            }
+
+            function handleFileLoad(evt) {
+                if (evt.item.type == "image") {
+                    images[evt.item.id] = evt.result;
+                }
+            }
+            function putStage(myStage) {
+
+                if (exportRoot) {
+                    exportRoot.removeAllChildren();
+                }
+                exportRoot = myStage;
+                stage = new createjs.Stage(canvas);
+                stage.clear();
+                createjs.Ticker.removeAllEventListeners();
+                stage.autoClear = true; // This must be true to clear the stage.
+                stage.removeAllChildren();
+
+                stage.addChild(exportRoot);
+                stage.update();
+                stage.enableMouseOver();
+                onResize();
+                createjs.Ticker.setFPS(24);
+                createjs.Ticker.addEventListener("tick", stage);
+            }
+            function handleComplete() {
+                var child = document.getElementById("loading");
+                if (child != null)
+                    child.parentNode.removeChild(child);
+                putStage(new lib.frame1())
+
+            }
+            function loadXML() {
+                xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("GET", "data/datos.xml", false);
+                xmlhttp.send();
+                xmlDoc = xmlhttp.responseXML;
+                x = xmlDoc.getElementsByTagName("XMLDatos")[0].childNodes;
+                y = xmlDoc.getElementsByTagName("XMLDatos")[0].firstChild;
+                for (i = 0; i < x.length; i++)
+                {
+                    if (y.nodeType == 1)
+                    {//Process only element nodes (type 1)
+                        j = xmlDoc.getElementsByTagName(y.nodeName)[0].childNodes[0]
+                        textos[y.nodeName] = j.nodeValue;
+                    }
+                    y = y.nextSibling;
+                }
+            }
+        </script>
+    </head>
+
+    <body onload="init();" onorientationchange="onResize();" style="background-color:#FFFFFF" ><div id="loading" align="center" style="position: absolute;top:50%;left:50%;width:400px;margin-left:-200px;height:300px;margin-top:-150px;" ><img src="images/status.gif"/></div>
+        <canvas id="canvas" width="950" height="608" style="background-color:transparent"></canvas>
+    </body>
+</html>

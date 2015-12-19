@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>El relieve, costas y aguas de Europa</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+
+        <script src="extlib/createjs/2013_12_12/createjs-min.js"></script>
+         <script src="extlib/createjs/2013_12_12/movieclip-0-7-1-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/zoom.js"></script>
+        <script src="js/principal.js"></script>
+
+          <script>
+            var canvas, stage, exportRoot, incremento,popupon;
+            window.onresize = function ()
+            {
+                onResize();
+            }
+                       
+             
+
+
+            function init() {
+
+                canvas = document.getElementById("canvas");
+                images = images || {};
+                if (navigator.userAgent.toLowerCase().indexOf("firefox") == -1)
+                    incremento = 0;
+                else
+                    incremento = 4;
+                var manifest = [
+                     {src:"images/_00078J01.jpg", id:"_00078J01"},
+		{src:"images/_0007LY01.png", id:"_0007LY01"},
+		{src:"images/_000IRA01.png", id:"_000IRA01"},
+		{src:"images/_000S5201.jpg", id:"_000S5201"},
+		{src:"images/_001VZN01.jpg", id:"_001VZN01"},
+		{src:"images/_002DWF01.png", id:"_002DWF01"},
+		{src:"images/_1_100143753.png", id:"_1_100143753"},
+		{src:"images/_10_shutterstock_77575597.png", id:"_10_shutterstock_77575597"},
+		{src:"images/_11_shutterstock_82774045.png", id:"_11_shutterstock_82774045"},
+		{src:"images/_12_shutterstock_79465246.png", id:"_12_shutterstock_79465246"},
+		{src:"images/_13_shutterstock_32779318.png", id:"_13_shutterstock_32779318"},
+		{src:"images/_14_shutterstock_54486355.png", id:"_14_shutterstock_54486355"},
+		{src:"images/_15_shutterstock_84830866.png", id:"_15_shutterstock_84830866"},
+		{src:"images/_16_shutterstock_45328417.png", id:"_16_shutterstock_45328417"},
+		{src:"images/_17_92017012.png", id:"_17_92017012"},
+		{src:"images/_18_96698258.png", id:"_18_96698258"},
+		{src:"images/_19_131720342.png", id:"_19_131720342"},
+		{src:"images/_2_120904700.png", id:"_2_120904700"},
+		{src:"images/_20_99142043.png", id:"_20_99142043"},
+		{src:"images/_21_shutterstock_34938238.png", id:"_21_shutterstock_34938238"},
+		{src:"images/_22_shutterstock_73532797.jpg", id:"_22_shutterstock_73532797"},
+		{src:"images/_23_91567502.jpg", id:"_23_91567502"},
+		{src:"images/_3_121321568.png", id:"_3_121321568"},
+		{src:"images/_4_shutterstock_51939379.png", id:"_4_shutterstock_51939379"},
+		{src:"images/_5_shutterstock_84095437.png", id:"_5_shutterstock_84095437"},
+		{src:"images/_6_shutterstock_61768660.png", id:"_6_shutterstock_61768660"},
+		{src:"images/_7_shutterstock_28939924.png", id:"_7_shutterstock_28939924"},
+		{src:"images/_8_shutterstock_60080284.png", id:"_8_shutterstock_60080284"},
+		{src:"images/_9_shutterstock_81227809.png", id:"_9_shutterstock_81227809"},
+		{src:"images/artic.png", id:"artic"},
+		{src:"images/atlantic.png", id:"atlantic"},
+		{src:"images/Caspio.png", id:"Caspio"},
+		{src:"images/europa_ok.png", id:"europa_ok"},
+		{src:"images/mediterr.png", id:"mediterr"},
+		{src:"images/MS_3C_04_10_europa_vertientes.png", id:"MS_3C_04_10_europa_vertientes"},
+		{src:"images/negro.png", id:"negro"},
+		{src:"images/Mapadebits1.png", id:"Mapadebits1"},
+		{src:"images/Mapadebits2.png", id:"Mapadebits2"},
+		{src:"images/Mapadebits3.png", id:"Mapadebits3"},
+		{src:"images/rios_limpio.png", id:"rios_limpio"}
+                ];
+
+                var loader = new createjs.LoadQueue(false);
+                loader.addEventListener("fileload", handleFileLoad);
+                loader.addEventListener("complete", handleComplete);
+                loader.loadManifest(manifest);
+                loadXML();
+            }
+
+            function handleFileLoad(evt) {
+                if (evt.item.type == "image") {
+                    images[evt.item.id] = evt.result;
+                }
+            }
+            function putStage(myStage) {
+
+                if (exportRoot) {
+                    exportRoot.removeAllChildren();
+                }
+                exportRoot = myStage;
+                stage = new createjs.Stage(canvas);
+                stage.clear();
+                createjs.Ticker.removeAllEventListeners();
+                stage.autoClear = true; // This must be true to clear the stage.
+                stage.removeAllChildren();
+
+                stage.addChild(exportRoot);
+                stage.update();
+                stage.enableMouseOver();
+                onResize();
+                createjs.Ticker.setFPS(24);
+                createjs.Ticker.addEventListener("tick", stage);
+            }
+            function handleComplete() {
+                var child = document.getElementById("loading");
+                if (child != null)
+                    child.parentNode.removeChild(child);
+                putStage(new lib.frame1())
+
+            }
+            function loadXML() {
+                xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("GET", "data/datos.xml", false);
+                xmlhttp.send();
+                xmlDoc = xmlhttp.responseXML;
+                x = xmlDoc.getElementsByTagName("XMLDatos")[0].childNodes;
+                y = xmlDoc.getElementsByTagName("XMLDatos")[0].firstChild;
+                for (i = 0; i < x.length; i++)
+                {
+                    if (y.nodeType == 1)
+                    {//Process only element nodes (type 1)
+                        j = xmlDoc.getElementsByTagName(y.nodeName)[0].childNodes[0]
+                        textos[y.nodeName] = j.nodeValue;
+                    }
+                    y = y.nextSibling;
+                }
+            }
+        </script>
+    </head>
+
+    <body onload="init();"  onorientationchange="onResize();" style="background-color:#FFFFFF" ><div id="loading" align="center" style="position: absolute;top:50%;left:50%;width:400px;margin-left:-200px;height:300px;margin-top:-150px;" ><img src="images/status.gif"/></div>
+        <canvas id="canvas" width="950" height="608" style="background-color:#EEEEEE"></canvas>
+    </body>
+</html>

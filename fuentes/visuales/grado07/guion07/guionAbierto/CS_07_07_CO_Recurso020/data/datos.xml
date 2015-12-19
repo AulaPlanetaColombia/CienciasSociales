@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMLDatos aprid="F">
+  <titol><![CDATA[El relieve, las costas y las aguas de Europa]]></titol>
+  <txt_boto_01><![CDATA[Unidades de relieve]]></txt_boto_01>
+  <txt_boto_02><![CDATA[Mares, penínsulas e islas]]></txt_boto_02>
+  <txt_boto_03><![CDATA[Vertientes fluviales]]></txt_boto_03>
+  <!--RELIEVE-->
+  <relieve_01><![CDATA[Alpes]]></relieve_01>
+  <relieve_02><![CDATA[Alpes Dináricos]]></relieve_02>
+  <relieve_03><![CDATA[Alpes Escandinavos]]></relieve_03>
+  <relieve_04><![CDATA[Apeninos]]></relieve_04>
+  <relieve_05><![CDATA[Montes Balcanes]]></relieve_05>
+  <relieve_06><![CDATA[Cárpatos]]></relieve_06>
+  <relieve_07><![CDATA[Cáucaso]]></relieve_07>
+  <relieve_08><![CDATA[Gran Llanura Europea]]></relieve_08>
+  <relieve_09><![CDATA[Macizo Central]]></relieve_09>
+  <relieve_10><![CDATA[Urales]]></relieve_10>
+  <relieve_11><![CDATA[Montes Peninos]]></relieve_11>
+  <relieve_12><![CDATA[Pirineos]]></relieve_12>
+  <txt_popup_relieve_01><![CDATA[Los <span class="negrita">Alpes</span> son una cordillera situada en Europa occidental. A nivel geológico, se subdivide en tres grandes sectores: los <span class="negrita">Alpes Occidentales</span>, que incluyen los Alpes Marítimos y el macizo del <span class="negrita">Mont-Blanc</span> (4.810 m); los <span class="negrita">Alpes Centrales</span>, que encierran los macizos del Monte Rosa y el Oberland; y los <span class="negrita">Alpes Orientales</span>, donde sobresalen los relieves de la región del Tirol.]]></txt_popup_relieve_01>
+  <txt_popup_relieve_02><![CDATA[Los <span class="negrita">Alpes Dináricos</span> forman una cordillera que se extiende paralela a lo largo de la costa adriática. Este relieve se caracteriza por importantes áreas donde predomina el modelado de tipo kárstico. La cima más elevada es el <span class="negrita">Maja Jezercë</span> (2.694 m).]]></txt_popup_relieve_02>
+  <txt_popup_relieve_03><![CDATA[Los <span class="negrita">Alpes Escandinavos</span> son restos de la antigua cordillera que existió hace cuatrocientos millones de años. Se considera uno de los relieves más antiguos que existen en el mundo. Se extiende de noreste a sudoeste por el sector más occidental de la península Escandinava. Forma profundos fiordos en la costa noruega. Su pico más elevado es el <span class="negrita">Glittertind</span> (2.472 m).]]></txt_popup_relieve_03>
+  <txt_popup_relieve_04><![CDATA[Los <span class="negrita">Apeninos</span> son una cordillera que recorre de norte a sur la península Itálica, desde la costa ligur hasta la península de Calabria y Sicilia. La cordillera comprende tres sectores: los Apeninos septentrionales, los Apeninos centrales, donde destaca el <span class="negrita">Gran Sasso d'Italia</span> (2.912 m), y los Apeninos meridionales, que incluyen el <br><span class="negrita">Etna</span> (3.323 m), un volcán activo situado en Sicilia.]]></txt_popup_relieve_04>
+  <txt_popup_relieve_05><![CDATA[Los <span class="negrita">montes Balcanes</span> forman una cordillera que se extiende desde las estribaciones interiores de los Alpes Dináricos hasta el mar Negro. Destaca la cima del pico <span class="negrita">Botev</span> (2.376 m).]]></txt_popup_relieve_05>
+  <txt_popup_relieve_06><![CDATA[La cordillera de los <span class="negrita">Cárpatos</span> es un extenso sistema montañoso de la Europa central. Se extiende por tierras de Eslovaquia, Polonia, Ucrania y Rumania formando un gran arco delimitado por el curso del Danubio. La cumbre más elevada es el pico <span class="negrita">Gerlachovský</span> (2.655 m), situado en el macizo Tatras.]]></txt_popup_relieve_06>
+  <txt_popup_relieve_07><![CDATA[La cordillera del <span class="negrita">Cáucaso</span> se extiende entre el mar Negro y el mar Caspio y forma un istmo entre Europa y Asia. Este sistema montañoso está formado por las cordilleras del Pequeño Cáucaso y del Gran Cáucaso, donde se sitúa el <span class="negrita">Elbrús</span> (5.642 m), la cumbre más elevada del continente.]]></txt_popup_relieve_07>
+  <txt_popup_relieve_08><![CDATA[La <span class="negrita">Gran Llanura Europea</span> se extiende entre las estribaciones de los Urales y el océano Atlántico. Pequeños cerros rompen la monotonía de un paisaje por donde discurren los principales ríos europeos.]]></txt_popup_relieve_08>
+  <txt_popup_relieve_09><![CDATA[El <span class="negrita">macizo Central</span> configura una región elevada de Francia formada por montañas y mesetas. Alberga un gran número de conos volcánicos extintos. El macizo está separado de los Alpes por el valle del Ródano.]]></txt_popup_relieve_09>
+  <txt_popup_relieve_10><![CDATA[Los <span class="negrita">Urales</span> forman una cordillera que se extiende de norte a sur y separa las tierras de la Rusia europea de Siberia. Estos relieves se consideran uno de los más antiguos del planeta y albergan importantes yacimientos minerales. El punto más elevado es la cima del <span class="negrita">Naródnaia Gora</span> (1.894 m).]]></txt_popup_relieve_10>
+  <txt_popup_relieve_11><![CDATA[Los <span class="negrita">Peninos</span> son una cordillera de altitud media que recorre la parte central de la isla de Gran Bretaña. Al norte de esta unidad se localizan las <span class="negrita">Highlands</span>, un territorio montañoso y agreste.]]></txt_popup_relieve_11>
+  <txt_popup_relieve_12><![CDATA[Los <span class="negrita">Pirineos</span> son una cordillera alpina que une la península Ibérica con el continente europeo. Se extienden a lo largo de 
+400 km, entre el golfo de Vizcaya y el golfo de León. Alcanzan su máxima altitud en la zona central, donde se localiza el pico <span class="negrita">Aneto</span> (3.404 m).]]></txt_popup_relieve_12>
+  <!--MARES-->
+  <mares_01><![CDATA[Córcega y Cerdeña]]></mares_01>
+  <mares_02><![CDATA[Islandia]]></mares_02>
+  <mares_03><![CDATA[Islas Británicas]]></mares_03>
+  <mares_04><![CDATA[Mar Báltico]]></mares_04>
+  <mares_05><![CDATA[Mar del Norte]]></mares_05>
+  <mares_06><![CDATA[Mar Mediterráneo]]></mares_06>
+  <mares_07><![CDATA[Mar Negro]]></mares_07>
+  <mares_08><![CDATA[Península Balcánica ]]></mares_08>
+  <mares_09><![CDATA[Península Escandinava]]></mares_09>
+  <mares_10><![CDATA[Península Ibérica]]></mares_10>
+  <mares_11><![CDATA[Península Itálica]]></mares_11>
+  <mares_12><![CDATA[Sicilia]]></mares_12>
+  <txt_popup_mares_01><![CDATA[Las islas de <span class="negrita">Córcega</span> y <span class="negrita">Cerdeña</span> se localizan en el Mediterráneo occidental. La isla de Córcega pertenece a Francia, mientras que la de Cerdeña es italiana. Las costas de ambas son recortadas y con importantes acantilados y playas de arena.]]></txt_popup_mares_01>
+  <txt_popup_mares_02><![CDATA[<span class="negrita">Islandia</span> es una gran isla situada en aguas del océano Atlántico. Es una plataforma emergida de la dorsal medioatlántica, de ahí su intensa actividad sísmica y volcánica. La costa está, en general, recortada por profundos fiordos.]]></txt_popup_mares_02>
+  <txt_popup_mares_03><![CDATA[El archipiélago de las <span class="negrita">islas Británicas</span> está formado por dos islas mayores, Gran Bretaña e Irlanda. La isla de la Gran Bretaña está separada del continente por el canal de la Mancha. Las costas de ambas presentan numerosas zonas de acantilados.]]></txt_popup_mares_03>
+  <txt_popup_mares_04><![CDATA[El <span class="negrita">mar Báltico</span> es un mar interior del norte del continente y conectado con el mar del Norte por los estrechos de Skagerrak y Kattegat. Baña el litoral de Suecia, Finlandia, Rusia, las repúblicas bálticas, Polonia, Alemania y Dinamarca. Las costas son, en general, bajas y arenosas y destacan tres grandes golfos: Botnia, Finlandia y Riga.]]></txt_popup_mares_04>
+  <txt_popup_mares_05><![CDATA[El <span class="negrita">mar del Norte</span> es un sector del océano Atlántico que baña las costas de Noruega, Dinamarca, Alemania, Países Bajos, Bélgica y la isla de Gran Bretaña. Los estrechos de Skagerrak y Kattegat lo conectan con el mar Báltico, y el canal de la Mancha con el océano. Las costas continentales son, por lo general, bajas y arenosas.]]></txt_popup_mares_05>
+  <txt_popup_mares_06><![CDATA[El <span class="negrita">mar Mediterráneo</span> forma una extensa cuenca intercontinental situada al sur de Europa. Se comunica con el océano Atlántico a través del <span class="negrita">estrecho de Gibraltar</span> y con el mar Negro por el <span class="negrita">estrecho del Bósforo</span>. En su interior se distinguen distintos sectores: mar Tirreno, mar Jónico, mar Adriático o mar Egeo. Sus costas son recortadas, donde alternan playas y los acantilados.]]></txt_popup_mares_06>
+  <txt_popup_mares_07><![CDATA[El <span class="negrita">mar Negro</span> es un mar interior conectado con el mar Mediterráneo por el <span class="negrita">estrecho del Bósforo</span>. Constituye uno de los límites físicos entre Europa y Asia. Sus aguas bañan, entre otros territorios, la <span class="negrita">península Crimea</span>. En su interior se encuentra el <span class="negrita">mar de Azov</span>.]]></txt_popup_mares_07>
+  <txt_popup_mares_08><![CDATA[La <span class="negrita">península Balcánica</span> se sitúa en el extremo oriental de la cuenca mediterránea y está delimitada por las aguas del mar Egeo, el mar Jónico y el mar Adriático.]]></txt_popup_mares_08>
+  <txt_popup_mares_09><![CDATA[En el norte del continente destaca la <span class="negrita">península Escandinava</span>, delimitada por las aguas del océano Glacial Ártico, el mar de Noruega, el mar del Norte y el mar Báltico. Las costas noruegas son recortadas y se distinguen por sus profundos <span class="negrita">fiordos</span>. Las costas suecas son, por lo general, bajas y arenosas.]]></txt_popup_mares_09>
+  <txt_popup_mares_10><![CDATA[La <span class="negrita">península Ibérica</span> encierra la cuenca mediterránea por el sector occidental y está separada de África por el <span class="negrita">estrecho de Gibraltar</span>. Es la península mediterránea más extensa y se une al continente por el istmo de los Pirineos. Su costa es rectilínea, aunque accidentada.]]></txt_popup_mares_10>
+  <txt_popup_mares_11><![CDATA[La <span class="negrita">península Itálica</span> se localiza en el centro de la cuenca mediterránea. Separa el mar de Liguria y el mar Tirreno del mar Adriático. La península se une al continente por el istmo de los Alpes, al pie del cual se abre la <span class="negrita">depresión del Po</span>. El eje central de la península lo constituyen los <span class="negrita">Apeninos</span>. La costa presenta numerosas áreas 
+de acantilados.]]></txt_popup_mares_11>
+  <txt_popup_mares_12><![CDATA[<span class="negrita">Sicilia</span> está separada de la península de Italia por el estrecho de Messina. Las zonas más montañosas y elevadas de la isla se localizan en el sector septentrional. El punto culminante es el volcán <span class="negrita">Etna</span> (3.323 m).]]></txt_popup_mares_12>
+  <!--VERTIENTES-->
+  <vertiente_01><![CDATA[Vertiente ártica]]></vertiente_01>
+  <vertiente_02><![CDATA[Vertiente atlántica]]></vertiente_02>
+  <vertiente_03><![CDATA[Vertiente mediterránea]]></vertiente_03>
+  <vertiente_04><![CDATA[Vertiente del mar Negro]]></vertiente_04>
+  <vertiente_05><![CDATA[Vertiente del mar Caspio]]></vertiente_05>
+  <txt_popup_vertiente_01><![CDATA[La <span class="negrita">vertiente ártica</span> comprende los ríos que desembocan en el océano Glacial Ártico. Los ríos más importantes de esta vertiente son:
+<ul><li>
+Pechora (1.809 km)
+</li><li>Dviná Septentrional (744 km)</li></ul>]]></txt_popup_vertiente_01>
+  <txt_popup_vertiente_02><![CDATA[La <span class="negrita">vertiente atlántica</span> comprende todos los ríos que desembocan en el océano Atlántico, en el mar del Norte, en el mar de Noruega y en el mar Báltico. Los principales ríos de esta vertiente son:
+<ul class="estrecha"><li>
+Duero (895 km)
+</li><li>Dviná Occidental (1.020 km)
+</li><li>Elba (1.165 km)
+</li><li>Guadalquivir (560 km)
+</li><li>Loira (1.020 km)</li></ul>
+
+La característica principal de la mayoría de estos ríos es que son <span class="negrita">largos</span> y <span class="negrita">caudalosos</span>. Muchos de ellos son navegables en gran parte de su recorrido.]]></txt_popup_vertiente_02>
+  <txt_popup_vertiente_02_2><![CDATA[<ul class="estrecha"><li>Rin (1.326 km)
+</li><li>Sena (776 km)
+</li><li>Tajo (1.120 km)
+</li><li>Támesis (335 km)
+</li><li>Vístula (1.047 km)</li></ul>]]></txt_popup_vertiente_02_2>
+  <txt_popup_vertiente_03><![CDATA[La <span class="negrita">vertiente mediterránea</span> comprende los ríos que desembocan en el Mediterráneo. Los principales ríos de esta vertiente son:
+<ul class="estrecha"><li>
+Ebro (928 km)
+</li><li>Po (652 km)
+</li><li>Ródano (812 km)
+</li><li>Tíber (405 km)</li></ul>
+
+La característica principal de estos ríos es el <span class="negrita">fuerte estiaje</span> que sufren durante los meses de verano.]]></txt_popup_vertiente_03>
+  <txt_popup_vertiente_04><![CDATA[
+La vertiente del <span class="negrita">mar Negro</span> comprende:
+<ul><li>
+Danubio (2.860 km)
+</li><li>Dniéper (2.201 km)
+</li><li>Dniéster (1.352 km)
+</li><li>Don (1.870 km)</li></ul>
+
+La característica principal de estos ríos es que son largos y caudalosos.
+]]></txt_popup_vertiente_04>
+  <txt_popup_vertiente_05><![CDATA[La vertiente del <span class="negrita">mar Caspio</span> comprende las aguas del <span class="negrita">Volga</span> (3.531 km), el río más largo y caudaloso del continente europeo. Este río, del mismo modo que los cursos de la vertiente ártica, suele quedar helado durante el invierno.]]></txt_popup_vertiente_05>
+  <txt_popup_ampliar_01><![CDATA[Alpes austriacos.]]></txt_popup_ampliar_01>
+  <txt_popup_ampliar_02><![CDATA[Alpes Albaneses (Montenegro).]]></txt_popup_ampliar_02>
+  <txt_popup_ampliar_03><![CDATA[Valle glacial (Noruega).]]></txt_popup_ampliar_03>
+  <txt_popup_ampliar_04><![CDATA[Macizo del Gran Sasso, en los Apeninos (Italia).]]></txt_popup_ampliar_04>
+  <txt_popup_ampliar_05><![CDATA[Montes Balcanes (Bulgaria).]]></txt_popup_ampliar_05>
+  <txt_popup_ampliar_06><![CDATA[Gerlachovský štít (Eslovaquia).]]></txt_popup_ampliar_06>
+  <txt_popup_ampliar_07><![CDATA[Cordillera del Cáucaso (República Autónoma de Daguestán, Rusia).]]></txt_popup_ampliar_07>
+  <txt_popup_ampliar_08><![CDATA[Gran Llanura Europea (Alemania).]]></txt_popup_ampliar_08>
+  <txt_popup_ampliar_09><![CDATA[Puy-de-Dôme, en el macizo Central (Francia).]]></txt_popup_ampliar_09>
+  <txt_popup_ampliar_10><![CDATA[Urales (Rusia).]]></txt_popup_ampliar_10>
+  <txt_popup_ampliar_11><![CDATA[Isla de Skye, en la región de las Highlands (Reino Unido).]]></txt_popup_ampliar_11>
+  <txt_popup_ampliar_12><![CDATA[Valle de Pineta, en el Parque Nacional de Ordesa y Monte Perdido (Huesca, España).]]></txt_popup_ampliar_12>
+  <txt_popup_ampliar_mares_01><![CDATA[Bonifacio, en Córcega (Francia).]]></txt_popup_ampliar_mares_01>
+  <txt_popup_ampliar_mares_02><![CDATA[Djúpivogur (Islandia).]]></txt_popup_ampliar_mares_02>
+  <txt_popup_ampliar_mares_03><![CDATA[Parque Nacional Costero de Pembrokeshire (Reino Unido).]]></txt_popup_ampliar_mares_03>
+  <txt_popup_ampliar_mares_04><![CDATA[Costa del mar Báltico (Alemania).]]></txt_popup_ampliar_mares_04>
+  <txt_popup_ampliar_mares_05><![CDATA[Costa del mar del Norte (Países Bajos).]]></txt_popup_ampliar_mares_05>
+  <txt_popup_ampliar_mares_06><![CDATA[Cabo Formentor, en Mallorca (Islas Baleares, España).]]></txt_popup_ampliar_mares_06>
+  <txt_popup_ampliar_mares_07><![CDATA[Costa del mar Negro (Ucrania).]]></txt_popup_ampliar_mares_07>
+  <txt_popup_ampliar_mares_08><![CDATA[Cefalonia (Grecia).]]></txt_popup_ampliar_mares_08>
+  <txt_popup_ampliar_mares_09><![CDATA[Fiordo (Noruega).]]></txt_popup_ampliar_mares_09>
+  <txt_popup_ampliar_mares_10><![CDATA[Cabo de Creus (Girona, España).]]></txt_popup_ampliar_mares_10>
+  <txt_popup_ampliar_mares_11><![CDATA[Golfo de Nápoles (Italia).]]></txt_popup_ampliar_mares_11>
+  <txt_popup_ampliar_mares_12><![CDATA[Reserva Natural del Zingaro, en Sicilia (Italia).]]></txt_popup_ampliar_mares_12>
+  <txt_popup_ampliar_vertiente_01><![CDATA[El río Pechora a su paso por la República Autónoma de los Komi (Rusia).]]></txt_popup_ampliar_vertiente_01>
+  <txt_popup_ampliar_vertiente_02><![CDATA[El río Rin a su paso por la localidad de Oberwesel en el valle del Rin (Renania-Palatinado, Alemania).]]></txt_popup_ampliar_vertiente_02>
+  <txt_popup_ampliar_vertiente_03><![CDATA[El río Tíber a su paso por Roma (Italia).]]></txt_popup_ampliar_vertiente_03>
+  <txt_popup_ampliar_vertiente_04><![CDATA[Tramo del río Dniéper y el puente Paton, a su paso por Kiev (Ucrania).]]></txt_popup_ampliar_vertiente_04>
+  <txt_popup_ampliar_vertiente_05><![CDATA[Barcaza en el Volga (Rusia).]]></txt_popup_ampliar_vertiente_05>
+</XMLDatos>
