@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<mapa aprid="mapa">
+<?xml version='1.0' encoding='UTF-8'?><mapa aprid="mapa">
   <copyright>(c) Editorial Planeta</copyright>
   <version>1.0</version>
   <botonMapaConceptual>mostrar</botonMapaConceptual>
@@ -7,35 +6,694 @@
   <botonMudo>0</botonMudo>
   <objeto>
     <ref>00</ref>
-    <texto />
-    <hijos>10</hijos>
-    <padre />
+    <texto>La Tierra</texto>
+    <hijos>10,11,12,13</hijos>
+    <padre/>
     <siz>0</siz>
-    <negcur />
+    <negcur>000000000</negcur>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
   </objeto>
   <objeto>
     <ref>10</ref>
-    <texto />
-    <hijos>20</hijos>
+    <texto>está recubieto por</texto>
+    <hijos>20,24</hijos>
     <padre>00</padre>
     <siz>14</siz>
-    <negcur />
+    <negcur>000000000000000000</negcur>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
   </objeto>
   <objeto>
     <ref>20</ref>
-    <texto />
-    <hijos />
+    <texto>hidrosfera</texto>
+    <hijos>30</hijos>
     <padre>10</padre>
     <siz>0</siz>
-    <negcur />
+    <negcur>0000000000</negcur>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>11</ref>
+    <texto>formado por</texto>
+    <hijos>21</hijos>
+    <padre>00</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>21</ref>
+    <texto>geosfera</texto>
+    <hijos>32</hijos>
+    <padre>11</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>12</ref>
+    <texto>realiza movimientos de</texto>
+    <hijos>25,22</hijos>
+    <padre>00</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>22</ref>
+    <texto>traslación</texto>
+    <hijos>34,37</hijos>
+    <padre>12</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>13</ref>
+    <texto>tiene un</texto>
+    <hijos>23</hijos>
+    <padre>00</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>23</ref>
+    <texto>satélite</texto>
+    <hijos>35</hijos>
+    <padre>13</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>24</ref>
+    <texto>atmósfera</texto>
+    <hijos>31</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto>es la</texto>
+    <hijos>40</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>capa
+de agua</texto>
+    <hijos>50</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto>formada por</texto>
+    <hijos>60</hijos>
+    <padre>40</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>- aguas
+  marinas
+- aguas
+  continentales</texto>
+    <hijos/>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>es la</texto>
+    <hijos>41</hijos>
+    <padre>24</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>capa
+de aire</texto>
+    <hijos>51</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>formada por</texto>
+    <hijos>61</hijos>
+    <padre>41</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>gases</texto>
+    <hijos/>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>25</ref>
+    <texto>rotación</texto>
+    <hijos>33,36</hijos>
+    <padre>12</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto>es la</texto>
+    <hijos>42</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>esfera
+de roca</texto>
+    <hijos>52,53</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>formada por</texto>
+    <hijos>62,65,66</hijos>
+    <padre>42</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto>núcleo</texto>
+    <hijos>72</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>53</ref>
+    <texto>modificada por</texto>
+    <hijos>63,64</hijos>
+    <padre>42</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>procesos
+geológicos
+externos</texto>
+    <hijos>71</hijos>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>procesos
+geológicos
+internos</texto>
+    <hijos>70</hijos>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto>que pueden ser</texto>
+    <hijos>80</hijos>
+    <padre>64</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>- movimientos
+  de la corteza
+- terremotos
+- volcanes</texto>
+    <hijos/>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto>que pueden ser</texto>
+    <hijos>81</hijos>
+    <padre>63</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>- agua
+- heladas
+- aire</texto>
+    <hijos/>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>manto</texto>
+    <hijos>73</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>corteza</texto>
+    <hijos>74</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>72</ref>
+    <texto>formado por</texto>
+    <hijos>82</hijos>
+    <padre>62</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>metales
+(Fe y Ni)</texto>
+    <hijos/>
+    <padre>72</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>73</ref>
+    <texto>formado por</texto>
+    <hijos>83</hijos>
+    <padre>65</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>83</ref>
+    <texto>rocas
+semifundidas
+y sólidas</texto>
+    <hijos/>
+    <padre>73</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>74</ref>
+    <texto>formada por</texto>
+    <hijos>84</hijos>
+    <padre>66</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>84</ref>
+    <texto>rocas
+sólidas</texto>
+    <hijos/>
+    <padre>74</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>33</ref>
+    <texto>alrededor del</texto>
+    <hijos>43</hijos>
+    <padre>25</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>43</ref>
+    <texto>eje de
+rotación</texto>
+    <hijos/>
+    <padre>33</padre>
+    <siz>0</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>34</ref>
+    <texto>alrededor del</texto>
+    <hijos>44</hijos>
+    <padre>22</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>44</ref>
+    <texto>Sol</texto>
+    <hijos/>
+    <padre>34</padre>
+    <siz>0</siz>
+    <negcur>000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>35</ref>
+    <texto>que es la</texto>
+    <hijos>46</hijos>
+    <padre>23</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>46</ref>
+    <texto>Luna</texto>
+    <hijos>54,55</hijos>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>36</ref>
+    <texto>origina</texto>
+    <hijos>47,48</hijos>
+    <padre>25</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>47</ref>
+    <texto>día</texto>
+    <hijos/>
+    <padre>36</padre>
+    <siz>0</siz>
+    <negcur>000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>48</ref>
+    <texto>noche</texto>
+    <hijos/>
+    <padre>36</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>37</ref>
+    <texto>origina</texto>
+    <hijos>45</hijos>
+    <padre>22</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>45</ref>
+    <texto>estaciones
+del año</texto>
+    <hijos/>
+    <padre>37</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>54</ref>
+    <texto>tiene</texto>
+    <hijos>67</hijos>
+    <padre>46</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>67</ref>
+    <texto>Fases
+lunares</texto>
+    <hijos>75</hijos>
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>55</ref>
+    <texto>gira alrededor
+de la</texto>
+    <hijos>68</hijos>
+    <padre>46</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>68</ref>
+    <texto>Tierra</texto>
+    <hijos>76</hijos>
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>75</ref>
+    <texto>que son</texto>
+    <hijos>85</hijos>
+    <padre>67</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>85</ref>
+    <texto>- luna nueva
+- cuarto
+  creciente
+- luna llena
+- cuarto
+  menguante</texto>
+    <hijos/>
+    <padre>75</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>76</ref>
+    <texto>puede provocar</texto>
+    <hijos>86,87</hijos>
+    <padre>68</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>86</ref>
+    <texto>eclipses
+solares</texto>
+    <hijos>90</hijos>
+    <padre>76</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>87</ref>
+    <texto>mareas</texto>
+    <hijos/>
+    <padre>76</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>90</ref>
+    <texto>que
+pueden ser</texto>
+    <hijos>a0</hijos>
+    <padre>86</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a0</ref>
+    <texto>- parciales
+- torales
+- anulares</texto>
+    <hijos/>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
   </objeto>
 </mapa>

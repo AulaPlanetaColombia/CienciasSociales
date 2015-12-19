@@ -1,446 +1,466 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_06_08_CO">
-  <libroTitulo>La Tierra</libroTitulo>
-  <seccion1 id="S1_CS_06_08_CO_DC010BE66B3D443F88A6E07EC5C6F42F">
-    <seccion1Titulo>La Tierra, el planeta en el que vivimos</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_08_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso010&amp;IdRecurso=RES-C1EFD4950DDE444696B859F8994AD242">El planeta en que vivimos</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_08_CO_img_02_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso020&amp;IdRecurso=RES-AAAFE680B40B4F378420531DDD4ACA70">Las características de la Tierra</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_08_CO_img_03_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso030&amp;IdRecurso=RES-755FDF67F5774347934C048CE1C3B219">Responde preguntas sobre la Tierra</enlace>
-      </practica>
-      <seccion2 id="S2_CS_06_08_CO_5DABBF9A84B84077969AC1853722A5ED">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_08_CO_img_04_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso040&amp;IdRecurso=RES-88277EDF7D4A40489F302ED062396BC9">Refuerza tu aprendizaje: El planeta en que vivimos</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_08_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso050&amp;IdRecurso=RES-52DD5CEF0B6345C8B342C3649288F3A0">Refuerza tu aprendizaje: Las capas de la Tierra</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_08_CO_img_06_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso060&amp;IdRecurso=RES-8008E61B00864EB7A608749E28838403">Refuerza tu aprendizaje: Los procesos geológicos</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_08_CO_40AEE3554DC149989BC0D8F421C8E7D4">
-    <seccion1Titulo>Las capas de la Tierra</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_08_CO_5003E1222FA94D598B9198E8634A8CD5">
-    <seccion1Titulo>Los procesos geológicos</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_08_CO_E50AE40B8D79475E8B0C464D24850821">
-    <seccion1Titulo>Los movimientos de la Tierra</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_06_08_CO_6688E1951D274788B1CF09597A41D319">
-        <seccion2Titulo>Movimiento de rotación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_08_CO_img_07_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso070&amp;IdRecurso=RES-CDA2D02B48D04A2F83753B058BAC8FAD">El día y la noche</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_08_CO_DD370D597FCC43B996334626E269427A">
-        <seccion2Titulo>Movimiento de traslación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_06_08_CO_CBB7BCCE0FAA43B1A0E3D633C7D05D88">
-            <seccion3Titulo>Las estaciones</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_08_CO_img_08_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso080&amp;IdRecurso=RES-9BAC953A4E9E44008C1A9D5542C66501">Los movimientos de la Tierra</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_08_CO_img_09_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_08_CO_img_10_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso100&amp;IdRecurso=RES-9C1F646BE127402381B504CFAB9CCE21">Define conceptos relacionados con la Tierra</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_08_CO_img_11_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso110&amp;IdRecurso=RES-8C83B0446391452590A65709AD5497AC">Refuerza tu aprendizaje: Los movimientos de la Tierra</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_08_CO_74144906B7EA42CAB68ABB05DAF6965A">
-    <seccion1Titulo>La Luna</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_06_08_CO_C51BBB40737B46ACBAAFCAA0010F7196">
-        <seccion2Titulo>Movimientos de la Luna</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_08_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso120&amp;IdRecurso=RES-41F5FB0F47DB45A7A96809C694614FEF">La Luna: satélite natural de la Tierra</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_08_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso130&amp;IdRecurso=RES-67213D004B9742B4A4AC920170B4DA53">Responde cuestiones sobre la Luna</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_08_CO_img_14_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_08_CO_BE92D15901414A768C1B25BEFCDC911A">
-        <seccion2Titulo>Las fases lunares</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_08_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso150&amp;IdRecurso=RES-7CF06E7837E0457D8DB9DA0ADE8FA8D2">La Luna: fases e influencia sobre la Tierra</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_08_CO_img_16_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_08_CO_B347B231F4E04525B86C51C2E65AA603">
-        <seccion2Titulo>Los eclipses de Sol</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_08_CO_img_17_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso170&amp;IdRecurso=RES-A4C4958E216C4524991756493D047FBE">Demuestra lo que sabes sobre eclipses</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_08_CO_img_18_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso180&amp;IdRecurso=RES-AED4D231AE494E25B230DB6CE5A8C0F6">Refuerza tu aprendizaje: La Luna</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_08_CO_3911AF1E8D354B7E8CDEB1D2E8C80084">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_08_CO_img_19_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso190&amp;IdRecurso=RES-D1F4B8AAC7884B2CAAF1FCDCE2292703">Competencias: relación de la Tierra con los fenómenos terrestres</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_08_CO_img_20_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso200&amp;IdRecurso=RES-F8D11D70BC0B485DBCCF7863B74CA6CE">Proyecto: estudio sobre la vida en la Tierra</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_06_08_CO_A25683F8F83E4A44A6E5A7A885C8E41D">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso220&amp;IdRecurso=RES-AB67BA5F102C4FACB7E6E4390444F4A0">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso230&amp;IdRecurso=RES-97C18D4F20E74650B401CDAD312C4F0B">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>La Tierra</libroTitulo>
+<seccion1 id="S1_CS_06_08_CO_DC010BE66B3D443F88A6E07EC5C6F42F">
+<seccion1Titulo>La Tierra, el planeta en el que vivimos</seccion1Titulo>
+<seccion1Texto>
+<p>Nuestro planeta se encuentra en el sistema solar, junto con otros
+siete planetas, además de otros cuerpos celestes y una única estrella,
+el Sol. La distancia entre la Tierra y el Sol es de <negrita>150 millones
+de kilómetros</negrita>, pero aun estando tan lejos, la luz y el calor
+del Sol llegan a nuestro planeta con la intensidad suficiente para
+permitir la vida.</p>
+<p>La Tierra, como el resto de los planetas del sistema solar, gira
+alrededor del Sol. En esta órbita, que dura 365 días, la acompaña
+su único satélite, la Luna, que gira en torno a ella.</p>
+<recuerda><recuerdaTexto>
+<p>Los <negrita>planetas del sistema solar</negrita> son ocho: Mercurio,
+Venus, la Tierra, Marte, Júpiter, Saturno, Urano y Neptuno.</p>
+</recuerdaTexto></recuerda>
+<p>Alrededor de la Tierra hay una capa de gases llamada <negrita>atmósfera</negrita
+>. No todos los planetas la tienen ni todas las atmósferas son iguales.
+La estructura de la atmósfera terrestre permite que una parte del <negrita
+>calor del Sol</negrita> quede retenida y así la Tierra mantenga una
+temperatura media de unos <negrita>15 a 20 °C</negrita> que, aunque
+varía entre las épocas del año o la zona del planeta en la que nos
+encontremos, es ideal para los seres vivos. La atmósfera también nos
+protege de algunas <negrita>radiaciones solares</negrita> perjudiciales
+para la salud.</p>
+<p>Desde el espacio, la Tierra se ve de <negrita>color azul</negrita
+>, debido a que sus <negrita>dos terceras partes</negrita> están cubiertas
+de <negrita>agua</negrita>. También se observan unas manchas oscuras
+que corresponden a los continentes. Tiene forma de <negrita>geoide</negrita
+>, es casi esférica con un ligero achatamiento en los polos<enlace
+destino="http://www.tinglado.net/?id=la-Tierra"> [VER]</enlace>.</p>
+<p>La <negrita>Luna</negrita> es el satélite natural de la Tierra
+y gira a su alrededor. A la vez, la Tierra da vueltas sobre sí misma
+y alrededor del Sol.</p>
+<imagen src="CS_06_08_CO_IMG01_small.jpg">
+<p>Hasta el momento, la Tierra es el único planeta conocido que reúne
+las condiciones necesarias para albergar vida. Otro nombre que recibe
+es de <negrita>planeta azul</negrita>, por la cantidad de agua que
+cubre su superficie.</p>
+</imagen>
+<p>La Tierra se formó hace unos <negrita>4650 millones de años</negrita
+> y tiene la forma <negrita>geoide</negrita>, es decir, es una esfera
+un poco aplanada en las partes superior e inferior (los polos). Además,
+se calcula que tiene un diámetro de poco más de <negrita>12 700 km</negrita
+> y una superficie de unos <negrita>500 millones de km<superindice
+>2</superindice></negrita>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso010&amp;IdRecurso=RES-C1EFD4950DDE444696B859F8994AD242"
+>El planeta en que vivimos</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso020&amp;IdRecurso=RES-AAAFE680B40B4F378420531DDD4ACA70"
+>Las características de la Tierra</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso030&amp;IdRecurso=RES-755FDF67F5774347934C048CE1C3B219"
+>Responde preguntas sobre la Tierra</enlace>
+</practica><seccion2
+id="S2_CS_06_08_CO_5DABBF9A84B84077969AC1853722A5ED">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso040&amp;IdRecurso=RES-88277EDF7D4A40489F302ED062396BC9"
+>Refuerza tu aprendizaje: El planeta en que vivimos</enlace>
+</profundiza></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_08_CO_40AEE3554DC149989BC0D8F421C8E7D4">
+<seccion1Titulo>Las capas de la Tierra</seccion1Titulo>
+<seccion1Texto>
+<p>Si dividimos la Tierra según los diferentes materiales que la constituyen,
+encontramos tres capas distintas: la <negrita>atmósfera</negrita>,
+formada por aire; la <negrita>hidrosfera</negrita>, compuesta por
+agua, y la <negrita>geosfera</negrita>, constituida por rocas.</p>
+<destacado><destacadoTitulo>La biosfera</destacadoTitulo>
+<destacadoTexto>
+<p>Se puede considerar que hay una cuarta capa en nuestro planeta,
+llamada <negrita>biosfera</negrita>. Está formada por todos los seres
+vivos que pueden encontrarse en cualquiera de las tres capas: atmósfera,
+hidrosfera o geosfera.</p>
+</destacadoTexto></destacado><seccion2
+id="S2_CS_06_08_CO_5DABBF9A84B84077969AC1853722B6CA">
+<seccion2Titulo>La atmósfera</seccion2Titulo>
+<seccion2Texto>
+<p>La atmósfera es la capa de <negrita>gases</negrita> que envuelve
+la Tierra. Está compuesta principalmente por <negrita>nitrógeno</negrita
+> (78 %) y <negrita>oxígeno</negrita> (21 %), además de otros gases
+como el dióxido de carbono, el vapor de agua y el ozono. También se
+encuentran en ella partículas sólidas, como <negrita>polen</negrita
+> y <negrita>polvo</negrita>, que se levantan del suelo debido a la
+fuerza del viento.</p>
+<p>En la atmósfera se distinguen distintas capas:</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>troposfera</negrita>: empieza en la superficie
+del planeta y acaba a los 12 km de altura. La temperatura disminuye
+con la altura. Allí se dan los fenómenos meteorológicos, como la <negrita
+>lluvia</negrita> y el <negrita>viento</negrita>.</listaElemento>
+<listaElemento>La <negrita>estratosfera</negrita>: se extiende desde
+los 12 hasta los 50 km de altura. La temperatura es más alta que en
+la troposfera. Aquí se encuentra la capa de <negrita>ozono</negrita
+>.</listaElemento>
+<listaElemento>La <negrita>mesosfera</negrita>: llega hasta los 80
+km de altura. En ella la temperatura vuelve a bajar. </listaElemento>
+<listaElemento>La <negrita>termosfera</negrita>: llega hasta los 600
+km de altura. Su temperatura es muy elevada. </listaElemento>
+<listaElemento>La <negrita>exosfera</negrita>: es la capa más externa
+y llega hasta los 10 000 km de altura.</listaElemento>
+</listaSinNumerar>
+<imagen ampliable="no" src="CS_06_08_CO_IMG02_small.jpg">
+<p>Distribución de las capas de la atmósfera. No están representadas
+a escala: si la Tierra tuviera el tamaño de un balón de fútbol, todas
+las capas excepto la exosfera ocuparían menos de 1 cm de grosor.</p>
+</imagen>
+<p>A continuación resuelve este crucigrama sobre la atmósfera<enlace
+destino="http://www.educaplay.com/es/recursoseducativos/545068/crucigrama_de_la_atmosfera.htm"
+> [VER]</enlace>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_08_CO_5DABBF9A84B84077969AC1853722F9AC">
+<seccion2Titulo>La hidrosfera</seccion2Titulo>
+<seccion2Texto>
+<p>Es la parte del planeta compuesta por agua; comprende tanto los
+océanos como el agua subterránea, además del hielo de los polos y
+el vapor de agua de la atmósfera.</p>
+<imagen src="CS_06_08_CO_IMG03_small.jpg">
+<p>El <negrita>ciclo del agua</negrita> garantiza la circulación permanente
+de esta sustancia entre la hidrosfera y la atmósfera.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>El <negrita>ciclo del agua</negrita> se produce porque el Sol calienta
+el agua de los océanos, que se evapora y asciende a la atmósfera.
+Con el frío se condensa y forma las nubes. Las gotas de agua caen
+en forma de lluvia, nieve o granizo, según la temperatura.</p>
+</recuerdaTexto></recuerda>
+<p>El agua de la hidrosfera se clasifica en <negrita>aguas saladas</negrita
+> y <negrita>aguas dulces</negrita>:</p>
+<listaSinNumerar>
+<listaElemento>Las <negrita>aguas saladas u oceánicas</negrita>: son
+las de los mares y océanos y constituyen las más abundantes en nuestro
+planeta. Contienen altas concentraciones de <negrita>sal</negrita
+>, debido a la acumulación de <negrita>sales minerales</negrita>.</listaElemento>
+<listaElemento>Las <negrita>aguas dulces o continentales</negrita
+>: son las que se encuentran en los continentes. Pueden ser <negrita
+>superficiales</negrita>, como los <negrita>ríos</negrita>, <negrita
+>torrentes</negrita>, <negrita>lagos</negrita> y <negrita>lagunas</negrita
+>, o <negrita>subterráneas</negrita>, originadas cuando parte de las
+aguas superficiales se filtra por las rocas. Gran parte de las aguas
+dulces se encuentra como <negrita>hielo</negrita> en los polos o en
+las zonas de alta montaña.</listaElemento>
+</listaSinNumerar>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_08_CO_5DABBF9A84B84077969AC1853722E4BD">
+<seccion2Titulo>La geosfera</seccion2Titulo>
+<seccion2Texto>
+<p>La geosfera es la parte sólida del planeta. Está formada por <negrita
+>rocas</negrita>, <negrita>minerales</negrita> y <negrita>metales</negrita
+>. Podemos distinguir las siguientes capas:</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>corteza</negrita>: es la parte más superficial.
+Es sólida y está constituida por rocas y algunos metales. La <negrita
+>corteza continental</negrita> es la que forma los continentes. Por
+debajo de los mares y océanos está la <negrita>corteza oceánica</negrita
+>, mucho más delgada que la continental.</listaElemento>
+<listaElemento>El <negrita>manto</negrita>: se extiende más allá de
+los 2000 km de profundidad. Está formado por rocas y metales. La parte
+más próxima a la corteza se encuentra a una temperatura y presión
+muy elevadas, por lo que las rocas y los metales están semifundidos
+y fluyen como un líquido viscoso llamado <negrita>magma</negrita>.</listaElemento>
+<listaElemento>El <negrita>núcleo</negrita>: es la capa más interna
+y ocupa el centro de la Tierra. Está compuesto por metales como el
+hierro y el níquel. Su temperatura llega a los 6000 °C. La parte superior
+del núcleo se encuentra en estado líquido.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_08_CO_IMG04_small.jpg">
+<p>Esquema de las capas de la <negrita>geosfera</negrita>. Si no consideráramos
+la hidrosfera y la atmósfera, podríamos decir que la geosfera sería
+la tierra misma.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_08_CO_5DABBF9A84B84077969AC1853722D7CG">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso050&amp;IdRecurso=RES-52DD5CEF0B6345C8B342C3649288F3A0"
+>Refuerza tu aprendizaje: Las capas de la Tierra</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_08_CO_5003E1222FA94D598B9198E8634A8CD5">
+<seccion1Titulo>Los procesos geológicos</seccion1Titulo>
+<seccion1Texto>
+<p>Aunque pocas veces lo percibimos o sentimos, la Tierra presenta
+movimientos internos permanentes que dan origen a modificaciones en
+el relieve o en las formas de la superficie terrestre. Estas modificaciones
+reciben el nombre de <negrita>procesos geológicos</negrita>. Algunas
+ellas son muy lentas y transcurren a lo largo de miles de años, como
+el transporte de sedimentos por los ríos. Otras son violentas y rápidas,
+como los terremotos o las erupciones volcánicas.</p>
+<p>Dependiendo de si se producen en el interior o en la superficie
+de la Tierra, podemos diferenciar entre procesos geológicos internos
+o procesos geológicos externos.</p>
+<seccion2 id="S2_CS_06_08_CO_5DABBF9A84B84077969AC1853722F1EA">
+<seccion2Titulo>Procesos internos</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>procesos geológicos internos</negrita> ocurren en
+el interior de la Tierra. Pueden ser lentos, como la formación de
+las montañas, o bruscos, como los terremotos o los volcanes.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_08_CO_5DABBF9A84B84077969AC1853722B2DC">
+<seccion2Titulo>Procesos externos</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>procesos geológicos externos</negrita> se dan en la
+superficie de la Tierra. Se deben a la acción de agentes como el <negrita
+>agua</negrita>, el <negrita>viento</negrita>, el <negrita>hielo</negrita
+>, etc., que destruyen y modifican el relieve. Por ejemplo, cuando
+un río circula por una cordillera va desgastando las rocas y formando
+los valles.</p>
+<imagen src="CS_06_08_CO_IMG05_small.jpg">
+<p>Roca con forma de corazón debido al desgaste provocado por la acción
+del <negrita>viento</negrita> a lo largo de miles de años, en Yehliu,
+Taiwán.</p>
+</imagen>
+<destacado><destacadoTitulo>Los terremotos y los volcanes</destacadoTitulo>
+<destacadoTexto>
+<p>La enorme presión que existe en el interior de la geosfera puede
+originar la <negrita>ruptura</negrita> de la corteza y liberar gran
+cantidad de energía, que viaja en distintas direcciones y se percibe
+en forma de una <negrita>vibración</negrita> conocida como <negrita
+>terremoto</negrita> o <negrita>sismo</negrita>.</p>
+<p>Por otra parte, el material fundido del interior de la Tierra se
+llama <negrita>magma</negrita> y se encuentra en movimiento. Cuando
+sale al exterior a través de <negrita>volcanes</negrita>, produce <negrita
+>erupciones volcánicas</negrita>.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_08_CO_5DABBF9A84B84077969AC1853722C6FA">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso060&amp;IdRecurso=RES-8008E61B00864EB7A608749E28838403"
+>Refuerza tu aprendizaje: Los procesos geológicos</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_08_CO_E50AE40B8D79475E8B0C464D24850821">
+<seccion1Titulo>Los movimientos de la Tierra</seccion1Titulo>
+<seccion1Texto>
+<p>La Tierra, como los demás planetas, gira alrededor del Sol siguiendo
+una órbita en forma de elipse. A su vez, mientras se desplaza alrededor
+del Sol, la Tierra gira sobre sí misma. Estos dos movimientos se conocen
+con el nombre de <negrita>traslación</negrita> y <negrita>rotación</negrita
+>, respectivamente.</p>
+<seccion2 id="S2_CS_06_08_CO_6688E1951D274788B1CF09597A41D319">
+<seccion2Titulo>Movimiento de rotación</seccion2Titulo>
+<seccion2Texto>
+<p>Se llama <negrita>rotación</negrita> al movimiento que realiza
+la Tierra girando sobre sí misma alrededor de una línea imaginaria
+que va del Polo Norte al Polo Sur y se llama <negrita>eje terrestre</negrita
+>.</p>
+<p>La Tierra completa un giro en 24 horas; es decir, cada vuelta completa
+de la Tierra marca un día. La Tierra gira de oeste a este (en sentido
+contrario a las agujas del reloj si se ve desde el hemisferio norte),
+por eso vemos salir el Sol por el este y ponerse por el oeste. El
+movimiento de rotación produce la sucesión de los días y las noches.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso070&amp;IdRecurso=RES-CDA2D02B48D04A2F83753B058BAC8FAD"
+>El día y la noche</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_08_CO_DD370D597FCC43B996334626E269427A">
+<seccion2Titulo>Movimiento de traslación</seccion2Titulo>
+<seccion2Texto>
+<p>Se llama traslación al movimiento de la Tierra alrededor del Sol.
+Nuestro planeta tarda algo más de <negrita>365 días</negrita> en dar
+una vuelta completa. Por eso, cada cuatro años sumamos un día extra
+al año y lo llamamos año <negrita>bisiesto</negrita>.</p>
+<p>El eje terrestre se halla inclinado, por ello, la luz y el calor
+del Sol llegan con distinta intensidad en el hemisferio norte que
+en el hemisferio sur, según la época del año. Así, en el mes de julio,
+el norte recibe más luz, hace más calor y los días duran más; mientras
+que en el sur ocurre lo contrario<enlace
+destino="http://conteni2.educarex.es/mats/14393/contenido/"> [VER]</enlace
+>.</p>
+<seccion3 id="S3_CS_06_08_CO_CBB7BCCE0FAA43B1A0E3D633C7D05D88">
+<seccion3Titulo>Las estaciones</seccion3Titulo>
+<seccion3Texto>
+<p>Como consecuencia del movimiento de traslación de la Tierra, la
+inclinación del eje terrestre y su forma, la superficie terrestre
+recibe los rayos solares con diferente intensidad, lo que da origen
+a diversas temperaturas. A estos cambios se les conocen como estaciones
+térmicas.</p>
+<p>Los <negrita>equinoccios</negrita> son los momentos del año en
+que el Sol llega con la misma intensidad tanto al hemisferio norte
+como al hemisferio sur. Esto ocurre dos veces al año, el 21 de marzo
+y el 21 de septiembre, que coinciden con el inicio de la primavera
+y del otoño en el hemisferio norte. En estas fechas los días y las
+noches tienen la misma duración en todos los lugares de la Tierra.</p>
+<p>El <negrita>solsticio de verano (21 de junio)</negrita> es el momento
+del año en que el Sol se ve más alto en el cielo durante el mediodía
+en el hemisferio norte. La luz llega más directamente a este hemisferio,
+de manera que la temperatura es más elevada y hay más horas de luz
+que de oscuridad. Es el comienzo del verano.</p>
+<p>El <negrita>solsticio de invierno (21 de diciembre)</negrita> es
+el momento del año en que el Sol se ve más bajo en el hemisferio norte.
+Hay más horas de oscuridad que de luz y las temperaturas son bajas.
+Es el comienzo del invierno.</p>
+<imagen src="CS_06_08_CO_IMG06_small.jpg">
+<p>Posiciones de la Tierra respecto al Sol durante los <negrita>solsticios</negrita
+> y <negrita>equinoccios</negrita>.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso080&amp;IdRecurso=RES-9BAC953A4E9E44008C1A9D5542C66501"
+>Los movimientos de la Tierra</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso090&amp;IdRecurso=RES-D500219A799F423985A7579D6D2CF6D2"
+>Completa un texto sobre traslación y rotación</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso100&amp;IdRecurso=RES-9C1F646BE127402381B504CFAB9CCE21"
+>Define conceptos relacionados con la Tierra</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_08_CO_DD370D597FCC43B996334626E269538B">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso110&amp;IdRecurso=RES-8C83B0446391452590A65709AD5497AC"
+>Refuerza tu aprendizaje: Los movimientos de la Tierra</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_08_CO_74144906B7EA42CAB68ABB05DAF6965A">
+<seccion1Titulo>La Luna</seccion1Titulo>
+<seccion1Texto>
+<p>La Luna es el único <negrita>satélite natural</negrita> de la Tierra.
+No tiene luz propia, pero brilla porque refleja la luz del Sol. No
+tiene <negrita>atmósfera</negrita> y la fuerza de la <negrita>gravedad</negrita
+> es mucho menor que en la Tierra, por eso los astronautas que llegan
+a la Luna parece que floten.</p>
+<seccion2 id="S2_CS_06_08_CO_C51BBB40737B46ACBAAFCAA0010F7196">
+<seccion2Titulo>Movimientos de la Luna</seccion2Titulo>
+<seccion2Texto>
+<p>La Luna tarda unos <negrita>28 días</negrita> en dar una vuelta
+a la Tierra (traslación) y el mismo tiempo en dar una vuelta completa
+sobre sí misma (rotación), por eso desde la Tierra siempre vemos la <negrita
+>misma cara</negrita>. La parte que no se ve, se llama cara oculta.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso120&amp;IdRecurso=RES-41F5FB0F47DB45A7A96809C694614FEF"
+>La Luna: satélite natural de la Tierra</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso130&amp;IdRecurso=RES-67213D004B9742B4A4AC920170B4DA53"
+>Responde preguntas sobre la Luna</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso140&amp;IdRecurso=RES-47463FD8677749818759C8E8B810D2EB"
+>¿Qué sabes sobre la Luna?</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_08_CO_BE92D15901414A768C1B25BEFCDC911A">
+<seccion2Titulo>Las fases lunares</seccion2Titulo>
+<seccion2Texto>
+<p>Cuando vemos toda la mitad de la Luna iluminada por el Sol, desde
+la Tierra parece un círculo completo. A esa fase la llamamos <negrita
+>luna llena</negrita>.</p>
+<p>Cuando vemos solo medio círculo iluminado y este tiene <negrita
+>forma de “C”</negrita>, hablamos de <negrita>cuarto menguante</negrita
+>. A medida que pasan los días parece una “C” más delgada hasta que
+deja de verse.</p>
+<p>En el momento en que la Luna no se ve recibe el nombre de <negrita
+>luna nueva</negrita>.</p>
+<p>Cuando la zona iluminada parece una <negrita>“D”</negrita> muy
+delgada, empieza la fase de <negrita>cuarto creciente</negrita>. Al
+pasar los días se va haciendo más grande hasta llegar a la fase de
+luna llena.</p>
+<imagen src="CS_06_08_CO_IMG07_small.jpg">
+<p>La Luna en fase de cuarto creciente. Presenta aproximadamente un
+50 % de su superficie iluminada y dura un tiempo promedio de siete
+días y nueve horas.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso150&amp;IdRecurso=RES-7CF06E7837E0457D8DB9DA0ADE8FA8D2"
+>La Luna: fases e influencia sobre la Tierra</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso160&amp;IdRecurso=RES-8728B22624D848F9B42DF2167CECAB42"
+>Reconoce las fases de la Luna</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_08_CO_B347B231F4E04525B86C51C2E65AA603">
+<seccion2Titulo>Los eclipses de Sol</seccion2Titulo>
+<seccion2Texto>
+<p>Un <negrita>eclipse de Sol</negrita> ocurre cuando la Luna se sitúa
+justo entre la Tierra y el Sol. Este no puede verse desde la Tierra
+porque la Luna lo tapa. A su vez, como la Luna proyecta su sombra
+sobre una parte de la superficie terrestre, esa zona queda oscurecida.</p>
+<imagen src="CS_06_08_CO_IMG08_small.jpg">
+<p>Esquema de un eclipse de Sol. En la zona de la Tierra cubierta
+por el cono de sombra, el eclipse de Sol es total, mientras en la
+zona de penumbra, el eclipse es parcial.</p>
+</imagen>
+<p>Como la Luna es más pequeña que el Sol y que la Tierra, el eclipse
+solo se ve desde las zonas del planeta donde llega la <negrita>sombra
+de la Luna</negrita>.</p>
+<p>Cuando la Luna tapa completamente al Sol, el eclipse solar es total;
+si solo tapa una parte, el eclipse es parcial, y si se puede ver el
+Sol como si fuera un anillo alrededor de la Luna, estamos ante un
+eclipse anular<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=5&amp;idpil=AN010135&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_08_CO_IMG09_small.jpg">
+<p><negrita>Elipse solar</negrita> total. El observador puede ver
+cómo la Luna cubre totalmente el Sol. Su duración oscila entre 2 y
+7 minutos.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso170&amp;IdRecurso=RES-A4C4958E216C4524991756493D047FBE"
+>Demuestra lo que sabes sobre eclipses</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_08_CO_B347B231F4E04525B86C51C2E65AB714">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso180&amp;IdRecurso=RES-AED4D231AE494E25B230DB6CE5A8C0F6"
+>Refuerza tu aprendizaje: La Luna</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_08_CO_3911AF1E8D354B7E8CDEB1D2E8C80084">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso190&amp;IdRecurso=RES-D1F4B8AAC7884B2CAAF1FCDCE2292703"
+>Competencias: relación de la Tierra con los fenómenos terrestres</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso200&amp;IdRecurso=RES-F8D11D70BC0B485DBCCF7863B74CA6CE"
+>Proyecto: estudio sobre la vida en la Tierra</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_06_08_CO_A25683F8F83E4A44A6E5A7A885C8E41D"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso220&amp;IdRecurso=RES-AB67BA5F102C4FACB7E6E4390444F4A0"
+>Mapa conceptual del tema La Tierra</enlace></mapaconceptual>
+<autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso230&amp;IdRecurso=RES-97C18D4F20E74650B401CDAD312C4F0B"
+>Evalúa tus conocimientos sobre el tema La Tierra</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace destino="http://www.astromia.com/tierraluna/latierra.htm"
+>Página sobre la Tierra de la web AstroMía.</enlace>
+<enlace
+destino="http://cplosangeles.juntaextremadura.net/web/edilim/tercer_ciclo/cmedio/la_tierra/la_geosfera/la_geosfera.html"
+>Unidad interactiva <cursiva>La geosfera</cursiva> desarrollada por
+el CP Los Ángeles de Camino morisco, Cáceres (Extremadura).</enlace><?Pub
+Caret -2?>
+<enlace
+destino="http://www.skoool.es/content/los/physics/day_night/launch.html "
+>Interactivo <cursiva>El día y la noche</cursiva> de la web Skool.</enlace>
+<enlace destino="http://conteni2.educarex.es/mats/14392/contenido/ "
+>Interactivo <cursiva>Eclipses de Sol y de Luna</cursiva> de la web
+de la consejería de Educación de la Junta de Extremadura.</enlace>
+</enlacesreferencia></masinformacion></libro>
