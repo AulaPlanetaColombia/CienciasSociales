@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<mapa aprid="mapa">
+<?xml version='1.0' encoding='UTF-8'?><mapa aprid="mapa">
   <copyright>(c) Editorial Planeta</copyright>
   <version>1.0</version>
   <botonMapaConceptual>mostrar</botonMapaConceptual>
@@ -7,35 +6,913 @@
   <botonMudo>0</botonMudo>
   <objeto>
     <ref>00</ref>
-    <texto />
+    <texto>El mundo actual</texto>
     <hijos>10</hijos>
-    <padre />
+    <padre/>
     <siz>0</siz>
-    <negcur />
+    <negcur>000000000000000</negcur>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
   </objeto>
   <objeto>
     <ref>10</ref>
-    <texto />
-    <hijos>20</hijos>
+    <texto/>
+    <hijos>20,21,22</hijos>
     <padre>00</padre>
     <siz>14</siz>
-    <negcur />
+    <negcur/>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
   </objeto>
   <objeto>
     <ref>20</ref>
-    <texto />
-    <hijos />
+    <texto>Crisis del bloque comunista
+(1985-1991)</texto>
+    <hijos>31,30</hijos>
     <padre>10</padre>
     <siz>0</siz>
-    <negcur />
+    <negcur>000000000000000000000000000000000000000</negcur>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>21</ref>
+    <texto>Nuevo orden mundial
+(desde 1991)</texto>
+    <hijos>32,33</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>22</ref>
+    <texto>Globalización</texto>
+    <hijos>34</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto>en</texto>
+    <hijos>40,42</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>00</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>URSS</texto>
+    <hijos>51</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>lleva a</texto>
+    <hijos>41</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>Fin de la URSS</texto>
+    <hijos>50</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>Europa del Este</texto>
+    <hijos>52</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto>desaparecen</texto>
+    <hijos>60</hijos>
+    <padre>41</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>repúblicas
+soviéticas</texto>
+    <hijos>70</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto>representa
+fin de</texto>
+    <hijos>80</hijos>
+    <padre>60</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>mundo bipolar</texto>
+    <hijos/>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>gobernada por</texto>
+    <hijos>61</hijos>
+    <padre>40</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>Gorbachov</texto>
+    <hijos>71</hijos>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto>impulsa</texto>
+    <hijos>81</hijos>
+    <padre>61</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>- Perestroika
+- Glasnost</texto>
+    <hijos>90</hijos>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>90</ref>
+    <texto>en respuesta a</texto>
+    <hijos>a0</hijos>
+    <padre>81</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a0</ref>
+    <texto>- crisis
+  económica
+- oposición a 
+  las reformas
+- movimientos
+  separatistas</texto>
+    <hijos/>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>estallan</texto>
+    <hijos>62</hijos>
+    <padre>42</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto>propuestas
+populares</texto>
+    <hijos>72</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>72</ref>
+    <texto>llevan al fin de</texto>
+    <hijos>82</hijos>
+    <padre>62</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>democracias
+populares</texto>
+    <hijos>91</hijos>
+    <padre>72</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>91</ref>
+    <texto>culmina con la</texto>
+    <hijos>a1</hijos>
+    <padre>82</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a1</ref>
+    <texto>caída del muro
+de Berlín</texto>
+    <hijos>b0</hijos>
+    <padre>91</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>b0</ref>
+    <texto>permite</texto>
+    <hijos>c0</hijos>
+    <padre>a1</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>c0</ref>
+    <texto>reunificación
+alemana</texto>
+    <hijos/>
+    <padre>b0</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto>definido por</texto>
+    <hijos>43,45</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>43</ref>
+    <texto>Unión
+Europea</texto>
+    <hijos>53</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>33</ref>
+    <texto>se dan</texto>
+    <hijos>44</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur>000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>44</ref>
+    <texto>conflictos</texto>
+    <hijos>55</hijos>
+    <padre>33</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>45</ref>
+    <texto>hegemonía
+de EE.UU.</texto>
+    <hijos>54</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>53</ref>
+    <texto>persigue</texto>
+    <hijos>63</hijos>
+    <padre>43</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>- integración social
+- económica
+- militar</texto>
+    <hijos>73</hijos>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>73</ref>
+    <texto>a través de</texto>
+    <hijos>83</hijos>
+    <padre>63</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>83</ref>
+    <texto>- tratado de Maastrich
+- tratado de Lisboa</texto>
+    <hijos>92</hijos>
+    <padre>73</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>92</ref>
+    <texto>desarrolla</texto>
+    <hijos>a2</hijos>
+    <padre>83</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a2</ref>
+    <texto>políticas
+comunitarias</texto>
+    <hijos/>
+    <padre>92</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>54</ref>
+    <texto>a nivel</texto>
+    <hijos>64</hijos>
+    <padre>45</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>- económico
+- político
+- militar</texto>
+    <hijos>74</hijos>
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>74</ref>
+    <texto>cuestionada por</texto>
+    <hijos>84</hijos>
+    <padre>64</padre>
+    <siz>0</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>84</ref>
+    <texto>potencias
+emergentes</texto>
+    <hijos>93</hijos>
+    <padre>74</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>93</ref>
+    <texto>sobresalen</texto>
+    <hijos>a3</hijos>
+    <padre>84</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a3</ref>
+    <texto>- Brasil
+- Rusia
+- India
+- China</texto>
+    <hijos/>
+    <padre>93</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>55</ref>
+    <texto>motivados por</texto>
+    <hijos>65,66,67,68</hijos>
+    <padre>44</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>choques culturales,
+nacionales y étnicos</texto>
+    <hijos>75</hijos>
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>control de materias
+estratégicas</texto>
+    <hijos>76</hijos>
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>67</ref>
+    <texto>integrismo
+religioso</texto>
+    <hijos>77</hijos>
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>68</ref>
+    <texto>protesta
+populares</texto>
+    <hijos>78</hijos>
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>75</ref>
+    <texto>como</texto>
+    <hijos>85</hijos>
+    <padre>65</padre>
+    <siz>0</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>85</ref>
+    <texto>- guerra 
+  de Yugoslavia
+- conflicto árabe
+- israelí
+- guerras
+  en África
+- guerra del
+  Caucaso</texto>
+    <hijos>94</hijos>
+    <padre>75</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>94</ref>
+    <texto>desarrolla</texto>
+    <hijos>a4</hijos>
+    <padre>85</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a4</ref>
+    <texto>políticas
+comunitarias</texto>
+    <hijos/>
+    <padre>94</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>76</ref>
+    <texto>se localizan en</texto>
+    <hijos>86</hijos>
+    <padre>66</padre>
+    <siz>0</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>86</ref>
+    <texto>- África
+  subsahariana
+- Cáucaso
+- Próximo
+  Oriente
+- Asia Central</texto>
+    <hijos>96</hijos>
+    <padre>76</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>77</ref>
+    <texto>se manifiesta en</texto>
+    <hijos>87</hijos>
+    <padre>67</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>87</ref>
+    <texto>- terrorismo local
+- terrorismo global</texto>
+    <hijos>95</hijos>
+    <padre>77</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>95</ref>
+    <texto>destacan</texto>
+    <hijos>a5</hijos>
+    <padre>87</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a5</ref>
+    <texto>atentados del 11 S</texto>
+    <hijos>b1</hijos>
+    <padre>95</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>b1</ref>
+    <texto>desarrolla</texto>
+    <hijos>c1</hijos>
+    <padre>a5</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>c1</ref>
+    <texto>políticas
+comunitarias</texto>
+    <hijos/>
+    <padre>b1</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>96</ref>
+    <texto>desarrolla</texto>
+    <hijos>a6</hijos>
+    <padre>86</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a6</ref>
+    <texto>políticas
+comunitarias</texto>
+    <hijos/>
+    <padre>96</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>78</ref>
+    <texto>rechazan</texto>
+    <hijos>88</hijos>
+    <padre>68</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>88</ref>
+    <texto>regímenes
+dictatoriales</texto>
+    <hijos>97</hijos>
+    <padre>78</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>97</ref>
+    <texto>sobresale</texto>
+    <hijos>a7</hijos>
+    <padre>88</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a7</ref>
+    <texto>Primavera
+árabe</texto>
+    <hijos>b2</hijos>
+    <padre>97</padre>
+    <siz>0</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>b2</ref>
+    <texto>desarrolla</texto>
+    <hijos>c2</hijos>
+    <padre>a7</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>c2</ref>
+    <texto>políticas
+comunitarias</texto>
+    <hijos/>
+    <padre>b2</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>34</ref>
+    <texto>definida por</texto>
+    <hijos>46</hijos>
+    <padre>22</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>46</ref>
+    <texto>interdependencia
+económica</texto>
+    <hijos>56</hijos>
+    <padre>34</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>56</ref>
+    <texto>lleva a</texto>
+    <hijos>69</hijos>
+    <padre>46</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>69</ref>
+    <texto>subordinación de
+los Estados</texto>
+    <hijos>79</hijos>
+    <padre>56</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>79</ref>
+    <texto>al</texto>
+    <hijos>89</hijos>
+    <padre>69</padre>
+    <siz>0</siz>
+    <negcur>00</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>89</ref>
+    <texto>capitalismo
+especulativo</texto>
+    <hijos>98</hijos>
+    <padre>79</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>98</ref>
+    <texto>responsable de</texto>
+    <hijos>a8</hijos>
+    <padre>89</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a8</ref>
+    <texto>crisis económica
+mundial</texto>
+    <hijos/>
+    <padre>98</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
   </objeto>
 </mapa>
