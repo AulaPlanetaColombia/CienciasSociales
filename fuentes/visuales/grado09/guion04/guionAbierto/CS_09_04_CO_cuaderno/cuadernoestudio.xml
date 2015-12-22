@@ -1,653 +1,1139 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_09_04_CO">
-  <libroTitulo>Colombia en la primera mitad del siglo XX</libroTitulo>
-  <seccion1 id="S1_CS_09_04_CO_B9431A5AEB044148B84AD73DACD419E7">
-    <seccion1Titulo>La Hegemonía conservadora</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_04_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso010&amp;IdRecurso=RES-4B19A3EFA30B4B9388E9CE7144C9D350">Diaporama F1-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_09_04_CO_42E3F412D5884D66B6CACF86B96769E8">
-        <seccion2Titulo>La Regeneración</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_09_04_CO_830937D46F9F4DB2B060072BD61F079F">
-            <seccion3Titulo>La Constitución de 1886</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_04_CO_img_02_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso020&amp;IdRecurso=RES-A2F2E62E91464CB7AC66B4D62F4871D9">Recurso M4A-01</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_04_CO_img_03_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso030&amp;IdRecurso=RES-28261E024134477DBBC699B4B3CB9B6D">Recurso F12-01</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_04_CO_img_04_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_04_CO_img_05_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso050&amp;IdRecurso=RES-61440413A17C49409544E1754EE18872">Recurso M2A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_04_CO_A03C3A5564BC48AAA750A1DB8AB1F15A">
-        <seccion2Titulo>La Guerra de los Mil Días</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_04_CO_A6658F1B73C84D71B5ABB730581E6652">
-        <seccion2Titulo>El quinquenio de Rafael Reyes (1904-1909)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_04_CO_EFCBE96070524BFF996F051298400FA9">
-        <seccion2Titulo>La Unión Republicana</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_06_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_04_CO_E42911717EC4415994EC58CEFBB3DA03">
-        <seccion2Titulo>La Primera Guerra Mundial y la Hegemonía conservadora</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_07_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_04_CO_3555E8CB1497470894AB2CCD776BBC30">
-        <seccion2Titulo>La misión Kemmerer y el presidente Pedro Nel Ospina (1922-1926)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_08_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso060&amp;IdRecurso=RES-149D17466F2C4395B50DBB571AD795B9">Video como media principal - 01</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_04_CO_1B41EAFF35FB4C9785E7F0213649AD14">
-        <seccion2Titulo>La masacre de las bananeras y el gobierno de Miguel Abadía Méndez (1926-1930)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_09_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso070&amp;IdRecurso=RES-2E7315FF6FAB4FDC8700FFA90412B874">Recurso M1B-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_04_CO_BA82481407974795B6FAAE326EADD405">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_10_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso080&amp;IdRecurso=RES-646BF0EFC278482E85CE8ECCAF3C84CB">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_04_CO_462438B8D3DA4B59BBA4DB530D025B9A">
-    <seccion1Titulo>La República liberal</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_04_CO_img_11_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso090&amp;IdRecurso=RES-8E0E6CC56A4D40D2AB99614CBA1DDD98">Diaporama F1-02</enlace>
-      </practica>
-      <seccion2 id="S2_CS_09_04_CO_47E2B82DDED14B51A4EBE8B485F11C0C">
-        <seccion2Titulo>El primer presidente liberal del siglo XX: Enrique Olaya Herrera (1930-1934)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso050&amp;IdRecurso=RES-61440413A17C49409544E1754EE18872">Recurso M2A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_04_CO_A5424885061C46E8AAF0BB4930ABDF95">
-        <seccion2Titulo>La Revolución en Marcha de Alfonso López Pumarejo (1934-1938)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso110&amp;IdRecurso=RES-07F63D3FC0944D279590691EB8FA4D77">Recurso M1B-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_04_CO_D339840A06F34E16AF312B6FEA08ECBE">
-        <seccion2Titulo>La amistad con Estados Unidos y el gobierno de Eduardo Santos (1938-1942)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_14_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_04_CO_FB428C5F4EF943ED9FE852A467ABC282">
-        <seccion2Titulo>La reelección de Alfonso López (1942-1946)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso120&amp;IdRecurso=RES-E746370BAF414940B975843707A87E0E">Recurso M14A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_16_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso130&amp;IdRecurso=RES-1089337C64F54883A21BD1ACDF00D698">Recurso M10A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_17_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso140&amp;IdRecurso=RES-29F682AB04B948288540C900F6B88094">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_04_CO_0590EC1D278F4FC7A0DACD02195E31D6">
-    <seccion1Titulo>Los gobiernos conservadores (1946 -1953)</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_04_CO_img_18_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <seccion2 id="S2_CS_09_04_CO_E2BE5D1C1FEE40058DA9B0D13069EDBA">
-        <seccion2Titulo>Mariano Ospina Pérez (1946-1950)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_19_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_04_CO_B4C2B0B67FE940218D96B5567033CC45">
-        <seccion2Titulo>El Bogotazo</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_20_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso160&amp;IdRecurso=RES-10ACA1BE3C234BB5A751D8C5E1BDC9A9">Recurso F11-01</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_04_CO_3AA594B0B0134FA98BD379F67B6DAB8D">
-        <seccion2Titulo>Colombia participa en la Guerra de Corea</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_21_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_22_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso180&amp;IdRecurso=RES-B71D410D7CFB4E2693D4A53231F6BAF7">Recurso M101A-03</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_27_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso230&amp;IdRecurso=RES-0E54A132B3E04F9EBF9D8ACBDE7E5CEC">Recurso M101A-04</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_04_CO_A3402F9B66B0481FA4A7D6989735CE5E">
-    <seccion1Titulo>La dictadura militar de Gustavo Rojas Pinilla (1953-1957)</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_04_CO_img_23_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_04_CO_img_24_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso200&amp;IdRecurso=RES-D5609C22B2954D36BDD9A67B65F85BF1">Recurso M4A-02</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_04_CO_img_25_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso210&amp;IdRecurso=RES-9EB5239F6F624BE0B3A9E24C2565CD95">Recurso M1A-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_04_CO_img_26_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso220&amp;IdRecurso=RES-2F275CD1CC5542318B01F3C0A8B00653">Recurso M4A-03</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_04_CO_0B693CD151954EA5816951FB7E086FB6">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_09_04_CO_DFDAEECE508B41BABF1115125A6B4E32">
-        <seccion2Titulo>Competencia: actividad para evaluar tus conocimientos sobre Colombia en la primera mitad del siglo X</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_28_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso240&amp;IdRecurso=RES-5411D57C5D8F4E2C9A8776593FBB6403">Recurso M102AB-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_04_CO_3D2AF06E62E443D9BBCDB85C998C923D">
-        <seccion2Titulo>Competencia: actividad para fortalecer conceptos relacionados con Colombia en la primera mitad del s</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_04_CO_img_29_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso250&amp;IdRecurso=RES-C7C49617D70446E8987029995FEE1D16">Recurso F13-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_09_04_CO_CEFBA47744434FB290F0708C4A7164AD">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso270&amp;IdRecurso=RES-82D2D537CA6A4FAF8F59FA748EC256B1">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso280&amp;IdRecurso=RES-25DD0F76BB0E4F36A4F62053A77CBEA3">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Colombia en la primera mitad del siglo XX</libroTitulo>
+<seccion1 id="S1_CS_09_04_CO_B9431A5AEB044148B84AD73DACD419E7">
+<seccion1Titulo>La Hegemonía conservadora</seccion1Titulo>
+<seccion1Texto>
+<p>En Colombia, el periodo comprendido entre los años 1900 y 1930
+se conoce como la <negrita>Hegemonía conservadora</negrita>. Hegemonía
+en este caso significa la supremacía que tuvo la participación del <negrita
+>Partido Conservador</negrita> en la dirección del <negrita>Estado</negrita
+>.</p>
+<p>Aunque el periodo de esta hegemonía inicia en 1900, la <negrita
+>Guerra de los Mil Días</negrita> (1899-1903) así como la <negrita
+>Regeneración</negrita> son antecedentes que deben tenerse en cuenta
+para comprender por qué los conservadores estuvieron por tres décadas
+en el poder luego de que Colombia llegó al final del siglo XIX en
+medio del caos y la tragedia que implicó una guerra civil que dejó
+al país devastado, con miles de víctimas, epidemias y una situación
+económica deplorable.</p>
+<recuerda><recuerdaTexto>
+<p>La Hegemonía conservadora, que ocurrió entre 1900 y 1930, tiene
+su origen en la Regeneración y la Guerra de los Mil Días.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso010&amp;IdRecurso=RES-4B19A3EFA30B4B9388E9CE7144C9D350"
+>Hechos y personajes de la Hegemonía conservadora</enlace>
+</profundiza><seccion2
+id="S2_CS_09_04_CO_42E3F412D5884D66B6CACF86B96769E8">
+<seccion2Titulo>La Regeneración</seccion2Titulo>
+<seccion2Texto>
+<p>En la segunda mitad del siglo XIX Colombia vivió <negrita>guerras
+civiles</negrita> y confrontaciones entre los partidos, que a su vez
+tenían pugnas internas: había liberales radicales y liberales independientes,
+así como conservadores históricos y conservadores nacionalistas.</p>
+<p><negrita>Entre 1863 y 1886</negrita> el país estuvo bajo el mando
+de los <negrita>liberales radicales</negrita>. Aquello se conoció
+como el “<negrita>Olimpo radical</negrita>”. El país se rigió por
+la <negrita>Constitución de Rionegro</negrita> que se promulgó en
+1863.</p>
+<p>Durante esta etapa, la población tuvo más acceso a la educación,
+se crearon más periódicos y se fundó la Universidad Nacional. Sin
+embargo, algunos sectores de la sociedad, particularmente los más
+conservadores, veían con malos ojos que el Estado se apartara de la
+Iglesia. Igualmente, grandes propietarios de la costa Atlántica, el
+Cauca y Antioquia, de filiación conservadora, se resintieron al ser
+apartados de las decisiones del poder central, que tenía más empatía
+con liberales radicales del oriente del país.</p>
+<p>Fue una época que trajo <negrita>optimismo</negrita> a los <negrita
+>sectores populares</negrita> pero que a la vez le fue cerrando el
+paso a la participación de los conservadores lo que acarreó guerras
+civiles que se vivieron en distintos puntos del territorio. De nuevo,
+como al principio del siglo XIX, el país se vio en medio de la confrontación
+de enfoques sobre cómo dirigir el destino de la nación. Incluso al
+interior del Partido Liberal había tendencias distintas.</p>
+<p>La división entre <negrita>liberales independientes</negrita> y <negrita
+>radicales</negrita> fue aprovechada por los conservadores. <negrita
+>Rafael Núñez</negrita>, liberal <negrita>independiente</negrita> que
+recibió el apoyo de estos últimos, ganó las <negrita>elecciones de
+1880</negrita>. Desde entonces él y el conservador <negrita>Miguel
+Antonio Caro</negrita> tomaron las riendas del país, reformaron la
+Constitución y aplicaron una serie de medidas para poner en práctica
+un proyecto de nación basado en la cláusula “Libertad y Orden”. </p>
+<recuerda><recuerdaTexto>
+<p>La <negrita>Constitución de 1863</negrita> había abolido la pena
+de muerte, separado a la Iglesia del Estado, decretado la educación
+laica y el libre cambio. Así mismo, promovió la libertad de culto
+y de pensamiento. En el campo administrativo y político, la Constitución
+estableció una confederación de nueve Estados soberanos. <negrita
+>Llegó a su fin en 1886</negrita>, con la <negrita>Regeneración</negrita
+> y el gobierno de <negrita>Rafael Núñez</negrita>. </p>
+</recuerdaTexto></recuerda>
+<imagen src="CS_09_04_CO_IMG01_small.jpg">
+<p>Óleo de Epifanio Garay. Museo Nacional, Bogotá, Colombia. Rafael
+Núñez fue presidente en tres periodos (1880-1882) (1884-1886) (1887-1888).
+Fue la figura central de la Regeneración, etapa de la política colombiana
+que tumbó la Constitución de 1863 y con ello incorporó principios
+conservadores en una nueva Constitución que rigió tanto al Estado
+y la nación hasta 1991.</p>
+</imagen>
+<destacado><destacadoTitulo>La Regeneración</destacadoTitulo>
+<destacadoTexto>
+<p>Rafael Núñez y Miguel Antonio Caro dirigieron un proyecto de Regeneración
+que buscaba estabilidad a partir del fortalecimiento del poder ejecutivo
+y del gobierno central; del papel de la Iglesia en el control moral
+y educativo, y de la limitación a los poderes regionales.</p>
+</destacadoTexto></destacado><seccion3
+id="S3_CS_09_04_CO_830937D46F9F4DB2B060072BD61F079F">
+<seccion3Titulo>La Constitución de 1886</seccion3Titulo>
+<seccion3Texto>
+<p>El principal aspecto que caracterizó a la Regeneración fue la reforma
+constitucional. Con la Constitución promulgada en 1886 la vida política
+del país cambió. Los ejes de la transformación fueron los siguientes:</p>
+<listaSinNumerar>
+<listaElemento>De <negrita>federalista</negrita>, la república pasó
+a ser <negrita>centralista</negrita> (ya no hubo estados autónomos
+sino <negrita>departamentos</negrita>). Así mismo, el poder ejecutivo
+se fortaleció y se amplió el periodo presidencial; pasó de dos a seis
+años.</listaElemento>
+<listaElemento>El sufragio fue un derecho solamente para hombres,
+propietarios y que supieran leer.</listaElemento>
+<listaElemento>La <negrita>religión católica</negrita> se convirtió
+en el principal mecanismo de cohesión del orden social. La Iglesia
+pasó a tener un papel protagónico en la vida política, social y cultural
+del país. Entre otras cosas, decidió sobre los contenidos que se estudiaban
+en las escuelas, colegios y universidades. Con la intervención de
+la Iglesia en distintos campos de la vida cotidiana, se esperaba que
+los <negrita>ciudadanos</negrita> se caracterizaran por sus <negrita
+>buenos modales</negrita> y <negrita>fe cristiana</negrita>.</listaElemento>
+<listaElemento>Se firmó el <negrita>Concordato</negrita>, un acuerdo
+solemne establecido entre la Santa Sede y la autoridad suprema de
+un país para reglamentar las relaciones mutuas entre la Iglesia católica
+y el Estado y declarar los derechos y deberes recíprocos<enlace
+destino="http://www.banrepcultural.org/node/32783"> [VER]</enlace
+>. Este acuerdo facilitó la intervención de la Iglesia en varios asuntos
+del Estado y de la vida pública.</listaElemento>
+<listaElemento>Se estableció la <negrita>censura de prensa</negrita
+> y el control sobre publicaciones como libros o cartillas.</listaElemento>
+<listaElemento>Se creó la <negrita>Ley de los Caballos</negrita> que
+le dio libertad al presidente para desterrar y confinar a los opositores
+al gobierno sin que tuvieran la posibilidad de defenderse en un juicio.</listaElemento>
+</listaSinNumerar>
+<recuerda><recuerdaTexto>
+<p>Con la Constitución de 1886 dejamos de llamarnos Estados Unidos
+de Colombia y empezamos a llamarnos República de Colombia. Se eliminaron
+los estados federales y se crearon los departamentos.</p>
+</recuerdaTexto></recuerda>
+<p>Por más que se quiso, el periodo de la Regeneración liderado por
+Rafael Núñez y Miguel Antonio Caro no logró homogenizar a la sociedad
+e imponer el orden esperado. Para los liberales y grupos de librepensadores
+la injerencia de la Iglesia católica en todas las decisiones políticas
+iba en contravía de las ideas modernizadoras que habían tomado vuelo
+en países como Francia, Inglaterra e incluso en algunos de América
+Latina, en donde la idea según la cual el poder y el saber vienen
+de Dios, había sido derrumbada al separarse la Iglesia del Estado.</p>
+<p>Así mismo, el sistema electoral y la posibilidad de la <negrita
+>reelección</negrita> dejaron sin espacio político a los liberales
+que tampoco podían manifestar sus opiniones a través de la prensa. </p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso020&amp;IdRecurso=RES-A2F2E62E91464CB7AC66B4D62F4871D9"
+>El origen de la Hegemonía conservadora</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_09_04_CO_A03C3A5564BC48AAA750A1DB8AB1F15A">
+<seccion2Titulo>La Guerra de los Mil Días</seccion2Titulo>
+<seccion2Texto>
+<p>Rafael Núñez murió en 1894 quedando en el poder Miguel Antonio
+Caro hasta 1898, año en que fue elegido otro conservador: <negrita
+>Manuel Sanclemente</negrita>.</p>
+<p>Además del desalentador panorama político, en que los liberales
+habían sido completamente excluidos, el <negrita>panorama económico</negrita
+> empezó a empeorar con el <negrita>derrumbe de los precios</negrita
+> de los principales productos colombianos, como el <negrita>café</negrita
+>.</p>
+<p>Los <negrita>liberales radicales</negrita>, con <negrita>Rafael
+Uribe Uribe</negrita> y <negrita>Benjamín Herrera</negrita> a la cabeza,
+se levantaron en armas en todo el país, aunque el epicentro fue el
+departamento de <negrita>Santander</negrita>.</p>
+<p>Esta guerra duró desde el <negrita>17 de octubre de 1899</negrita
+> hasta el <negrita>21 de noviembre de 1902</negrita> e involucró
+a la totalidad de la población del país, incluyendo a los niños y
+a las mujeres. Para los liberales el acceso a las armas fue muy limitado,
+por ello en muchas ocasiones pelearon con piedras o machetes. Esto
+los puso en desventaja frente al Ejército nacional que justamente
+en 1886 había empezado a dotarse de armamento, a tecnificarse y a
+organizarse con ayuda internacional.</p>
+<recuerda><recuerdaTexto>
+<p>La República de Colombia vio terminar el siglo XIX y empezar el
+XX con una guerra que duró tres años, afectó a la totalidad del territorio
+e involucró a toda la población.</p>
+</recuerdaTexto></recuerda>
+<p>Las <negrita>batallas de Bucaramanga</negrita>, <negrita>Peralonso</negrita
+> y <negrita>Palonegro</negrita> fueron definitivas para el desarrollo
+de la guerra debido a que definieron la relación de fuerzas entre
+los bandos. En la de <negrita>Bucaramanga</negrita>, ocurrida entre
+el 11 y el 13 de noviembre, <negrita>Rafael Uribe Uribe</negrita> intentó
+tomarse la ciudad con su ejército de liberales mal armados y rápidamente
+fue <negrita>derrotado</negrita>. Por el contrario, en la de <negrita
+>Peralonso triunfaron</negrita> los liberales, asunto que les dio
+más fuerza moral para seguir. Pero en la de <negrita>Palonegro</negrita
+> fueron <negrita>derrotados</negrita> nuevamente. Estas guerras fueron
+tremendamente sangrientas. El número de bajas se contaba por centenas
+en cada batalla.</p>
+<p>Luego de estas contiendas, ocurridas en el departamento de Santander
+y que significaron graves derrotas para los liberales, estos se dispersaron
+a otros departamentos para seguir con el combate. Se organizaron <negrita
+>guerrillas</negrita> y el gobierno respondió con más fuerza. Esto <negrita
+>recrudeció la guerra</negrita> y terminó involucrando a la <negrita
+>población civil</negrita>. A pesar de que los liberales contaban
+con <negrita>apoyo internacional</negrita> (<negrita>Ecuador</negrita
+>, en los frentes del sur; <negrita>Venezuela</negrita> en los frentes
+santandereanos; <negrita>Nicaragua</negrita> y <negrita>El Salvador</negrita
+> en los frentes del norte y el Caribe), la fuerza del gobierno conservadora
+era muy superior.</p>
+<imagen src="CS_09_04_CO_IMG02_small.jpg">
+<p>En la Guerra de los Mil Días la población civil debió tomar parte.
+Ello recrudeció la violencia y convirtió la confrontación en una guerra
+entre hermanos. Niños combatientes de la Guerra de los Mil Días, fotografía
+publicada por <cursiva>L'Illustration</cursiva> de París, julio de
+1902.</p>
+</imagen>
+<p>En el departamento de <negrita>Panamá</negrita> se vivieron batallas
+de gran importancia. Sin embargo, allí el general liberal <negrita
+>Benjamín Herrera</negrita>, que había logrado dar golpes contundentes
+a las tropas gobiernistas, se vio cercado por las tropas de <negritacursiva
+>marines</negritacursiva>, integrantes del <negrita>cuerpo militar
+estadounidense</negrita> que defendían los intereses de ese país en
+la región.</p>
+<p>Aunque Panamá era territorio colombiano, el <negrita>Tratado Mallarino-Bidlack</negrita
+> que se había firmado en 1846, abrió la posibilidad de que los estadounidenses
+ingresaran con el fin de proteger sus intereses económicos, que consistían
+básicamente en ocupar la zona más estrecha de la región en donde luego
+se construyó el canal de Panamá<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=7410104&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>Al ver que en el resto del país los liberales estaban arrinconados
+y que un ataque de su ejército podía provocar una intervención de
+Estados Unidos, el general Benjamín Herrera debió aceptar la <negrita
+>firma de la paz el 21 de noviembre de 1902</negrita>. Esta firma
+se dio a bordo de un <negrita>buque</negrita> de la armada norteamericana,
+el <negrita>Wisconsin</negrita>. Pocos días antes, el 24 de octubre,
+después de sucesivas derrotas y del desgaste de las tropas liberales,
+el general Uribe Uribe había firmado el tratado de <negrita>paz</negrita
+> de <negrita>Neerlandia</negrita>.</p>
+<recuerda><recuerdaTexto>
+<p>Cerca a la ciudad de Ciénaga, en una hacienda llamada Neerlandia
+el general liberal Rafael Uribe Uribe firmó con el gobierno conservador
+de José Manuel Marroquín el <negrita>Tratado de Neerlandia</negrita
+> (24 de octubre de 1902). Así mismo en el <negrita>acorazado</negrita
+> norteamericano Wisconsin se firmó el tratado definitivo con el que
+se dio <negrita>fin a la Guerra de los Mil Días</negrita> (21 de noviembre
+de 1902).</p>
+</recuerdaTexto></recuerda>
+<p>Para algunos historiadores, además de la pérdida de vidas y de
+la devastación económica que implicó la Guerra de los Mil Días, una
+de las consecuencias fundamentales fue la <negrita>pérdida de Panamá</negrita
+>.</p>
+<p>Al disolverse la Gran Colombia, Panamá había seguido ligada a Colombia.
+En 1841 y 1853 se proclamó independiente por algunos meses, con el
+nombre de <negrita>Estado del Istmo de Panamá</negrita>. La importancia
+del istmo como puente de comunicación entre el Atlántico y el Pacífico
+se acrecentó con la colonización de la costa oeste estadounidense
+y el descubrimiento de oro en California. En 1846, el presidente de
+Colombia, <negrita>Tomás Cipriano Mosquera</negrita>, concedió a Estados
+Unidos los derechos de construcción de un ferrocarril en la zona.
+Francia y el Reino Unido se interesaron en la construcción de un canal
+interoceánico.</p>
+<p>Francia hizo un intento de construcción del canal pero en un momento
+los costos fueron insostenibles y el proyecto quebró, lo que facilitó
+que quedara en manos de Estados Unidos, que aliado con las élites
+panameñas propició la separación de Panamá en 1903. Colombia no reconoció
+la independencia panameña hasta 1914; en 1921, un tratado delimitó
+las fronteras entre ambos países.</p>
+<p>En 1903, el <negrita>gobierno panameño</negrita> firmó el tratado <negrita
+>Hay-Bunau-Varilla</negrita>, que <negrita>cedió</negrita> a Estados
+Unidos, <negrita>a perpetuidad</negrita>, la <negrita>zona del canal
+de Panamá</negrita>, a cambio de una cuota anual. Las condiciones
+estipuladas en el tratado significaban, de hecho, la plena soberanía
+estadounidense sobre la zona; la devolución de la soberanía a Panamá
+sería desde entonces la base del movimiento nacionalista panameño.</p>
+<imagen src="CS_09_04_CO_IMG03_small.jpg">
+<p>En 1903, la pérdida de Panamá trajo consecuencias económicas para
+la República de Colombia, que apenas lograba reponerse de la Guerra
+de los Mil Días. El desprendimiento de esa región implicó pérdidas
+económicas, asi como un sentimiento nacionalista profundo.</p>
+</imagen>
+<p>La política de Panamá giró desde un principio alrededor de Estados
+Unidos y de las negociaciones con este país sobre la cuota anual pagada
+por el canal. Las plantaciones tropicales, así como las pocas líneas
+férreas existentes fuera de la zona del Canal, fueron monopolizadas
+pronto por la <negrita>United Fruit</negrita>. El canal se inauguró
+en 1914, durante la primera presidencia de Belisario Porras (1912-1916).</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso030&amp;IdRecurso=RES-28261E024134477DBBC699B4B3CB9B6D"
+>La pérdida de Panamá</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso040&amp;IdRecurso=RES-C708FEBC1AA243F8AF8A07656C8FB044"
+>Las batallas de la Guerra de los Mil Días</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_04_CO_A6658F1B73C84D71B5ABB730581E6652">
+<seccion2Titulo>El quinquenio de Rafael Reyes (1904-1909)</seccion2Titulo>
+<seccion2Texto>
+<p>El país quedó devastado luego de la Guerra de los Mil Días y debía
+resurgir de las cenizas. Se dieron las elecciones y debido a que el
+sistema electoral impedía la participación real de los liberales,
+de nuevo ganó un conservador. Sin embargo, se trataba de Rafael Reyes,
+un político hábil que entendió que la participación de los liberales
+en la toma de decisiones le traería un poco de paz al país, luego
+de los mil días de guerra. Así mismo, Reyes era un <negrita>empresario</negrita
+> exportador de quina que supo entender la gravedad de la guerra en
+su dimensión económica: las exportaciones de los productos nacionales
+disminuyeron.</p>
+<recuerda><recuerdaTexto>
+<p>Aunque Rafael Reyes era conservador, se alió con algunos liberales
+para gobernar. Esto despertó molestia en sectores más radicales de
+su propio partido que finalmente se convirtieron en opositores y presionaron
+para que renunciara.</p>
+</recuerdaTexto></recuerda>
+<p>Bajo el lema “<negrita>Unión y concordia</negrita>” Reyes invitó
+a algunos liberales a hacer parte del gabinete de ministros, puntualmente
+a Lucas Caballero (que había combatido en el bando liberal durante
+la Guerra de los Mil Días) como ministro de Hacienda y a Enrique Cortés
+como ministro de Relaciones Exteriores.</p>
+<p>Reyes gobernó por cinco años, de allí que a su gobierno se le conoce
+como el “quinquenio de Reyes”. En aquel periodo la economía colombiana
+se concentró en la <negrita>exportación de café</negrita>, <negrita
+>banano</negrita>, <negrita>tabaco</negrita>, <negrita>caucho</negrita
+> y <negrita>quina</negrita>, pero debido a que la industria nacional
+era escasa fue necesario importar mercancías de diferente tipo. No
+obstante, el país vio cómo se fortalecieron algunos sectores de la
+industria, particularmente la cervecera y la cementera.</p>
+<imagen src="CS_09_04_CO_IMG04_small.jpg">
+<p>A pesar de que Colombia se había sacudido del yugo colonial español,
+la situación de los indígenas empeoró pues su capacidad de trabajo
+fue explotada para satisfacer los intereses de empresarios que buscaban
+enriquecerse explotando recursos naturales esclavizando a un número
+importante de comunidades aborígenes. El Putumayo y la selva amazónica
+fueron territorios de los que se extrajeron enormes cantidades de
+materias primas como caucho y quina.</p>
+</imagen>
+<p>Durante el quinquenio de Reyes, el Estado fortaleció su intervención
+en proyectos de obras civiles. Por ello, una de las creaciones importantes
+fue el <negrita>Ministerio de Obras Públicas</negrita> con el que
+se inició un gran plan de construcción de vías férreas y fluviales.
+Los principales centros de producción de materias primas empezaron
+a conectarse gracias al <negrita>tren</negrita> y a la <negrita>navegación</negrita
+> por el <negrita>río Magdalena</negrita>.</p>
+<p>Sin duda fue un panorama que generó optimismo. Sin embargo, durante
+el mandato de Reyes muchas <negrita>tierras</negrita> fueron entregadas
+a <negrita>empresas extranjeras</negrita> para la extracción de recursos
+como el petróleo y el banano, fundamentalmente. El presidente dio
+grandes facilidades para que multinacionales como la <negrita>United
+Fruit Company</negrita> explotaran recursos del país.</p>
+<p>El derrumbe del gobierno de Reyes fue fraguándose con la acción
+de la <negrita>oposición</negrita>, dirigida por el conservador <negrita
+>Miguel Antonio Caro</negrita>, quien a pesar de ser de su mismo partido
+miraba con malos ojos que Reyes congeniara con los liberales y logró
+poco a poco que el Congreso obstaculizara las decisiones del presidente.
+Esto llevó a que el presidente <negrita>cerrara el Congreso</negrita
+>, asunto que fue visto como un acto de <negrita>autoritarismo</negrita
+>.</p>
+<p>Finalmente, el presidente y su hija fueron víctimas de un <negrita
+>atentado</negrita> que terminó llevándolo a <negrita>renunciar</negrita
+> al cargo.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso050&amp;IdRecurso=RES-61440413A17C49409544E1754EE18872"
+>El Quinquenio de Reyes</enlace>
+</practica>
+<p>Luego de Rafael Reyes vinieron dos gobiernos que tuvieron corta
+duración, el de los generales <negrita>Jorge Holguín Mallarino</negrita
+><negrita> y Ramón González Valencia</negrita>. Finalmente una Asamblea
+Constituyente eligió a <negrita>Carlos E. Restrepo</negrita> un conservador
+moderado.</p>
+<destacado><destacadoTitulo>La reforma constitucional de 1910</destacadoTitulo>
+<destacadoTexto>
+<p>Durante el gobierno de <negrita>Ramón González Valencia</negrita
+> se convocó a una <negrita>Asamblea Constituyente</negrita> cuyo
+objetivo fue revisar y reformar la Constitución de 1886. Entre otras
+reformas se acordó: proteger el derecho a ejercer oposición, limitar
+el poder del presidente, reducir el periodo de mandato de seis a cuatro
+años y anular la reelección. Tras las discusiones de la Asamblea fue
+elegido <negrita>presidente</negrita> de la República el conservador <negrita
+>Carlos E. Restrepo</negrita>.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_04_CO_EFCBE96070524BFF996F051298400FA9">
+<seccion2Titulo>La Unión Republicana</seccion2Titulo>
+<seccion2Texto>
+<p>El presidente <negrita>Carlos E. Restrepo</negrita>, de origen
+antioqueño, logró convocar un grupo de liberales y conservadores que
+estuvieran en capacidad de pasar por encima de los odios de partido
+e interesados en modernizar el país. Esta <negrita>Unión Republicana</negrita
+> agrupó a personajes de la élite colombiana que luego gobernaron
+por el resto del periodo conocido como la Hegemonía conservadora (Pedro
+Nel Ospina, por ejemplo) y también algunos liberales que gobernaron
+décadas más tarde (Enrique Olaya Herrera y Eduardo Santos).</p>
+<imagen src="CS_09_04_CO_IMG05_small.jpg">
+<p>Carlos Eugenio Restrepo fue un presidente que intentó bajar la
+intensidad del dogma conservador y su influencia en la sociedad. Por
+ello buscó aplicar medidas que promovieran la tolerancia política.</p>
+</imagen>
+<p>El gobierno republicano de Carlos E. Restrepo promovió la tolerancia
+política y el impulso de la industria. Sin embargo su <negrita>orientación
+laica</negrita> (hacia la separación Iglesia y Estado) despertó desconfianza
+entre los conservadores más radicales que volvieron al poder una vez
+terminó la presidencia de Restrepo.</p>
+<destacado><destacadoTitulo></destacadoTitulo><destacadoTexto>
+<p>Durante el gobierno de <negrita>Carlos E. Restrepo</negrita>, el
+6 de abril 1914 se firmó el <negrita>Tratado Thompson-Urrutia</negrita
+> que reconoció la separación de Panamá<enlace
+destino="http://www.banrepcultural.org/node/86422"> [VER]</enlace
+>. Con el Tratado, Colombia dejó de reclamar la soberanía sobre el
+territorio panameño y Estados Unidos se comprometió a pagarle a Colombia <negrita
+>25 millones de dólares</negrita> como indemnización.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_04_CO_E42911717EC4415994EC58CEFBB3DA03">
+<seccion2Titulo>La Primera Guerra Mundial y la Hegemonía conservadora</seccion2Titulo>
+<seccion2Texto>
+<p>En 1914 inició la Primera Guerra Mundial, uno de los acontecimientos
+más devastadores para la humanidad. Aquello coincidió con el ascenso
+al poder del conservador <negrita>José Vicente Concha</negrita> (1914-1918)
+y luego de <negrita>Marco Fidel Suárez</negrita> (1918-1921), quienes
+a pesar de la cercanía ideológica de las élites de Colombia con Estados
+Unidos, lograron mantener la <negrita>neutralidad</negrita>, asunto
+crucial para un país con dos océanos.</p>
+<p>La Guerra trajo para Colombia consecuencias importantes. La <negrita
+>baja en la demanda</negrita> de <negrita>productos nacionales</negrita
+> así como el poco ingreso de mercancías provenientes de Europa exigió
+el fortalecimiento de industrias como las cerveceras y de textiles.</p>
+<p>Esto empezó a transformar la sociedad colombiana. Para las industrias
+se necesitaron trabajadores y con ello fue surgiendo la <negrita>clase
+obrera</negrita>. También hacían parte de esa clase quienes trabajaban
+para empresas extranjeras como la <negrita>United Fruit Company</negrita
+> (en Ciénaga, Magdalena) y la <negrita>Tropical Oil Company</negrita
+> (en Barrancabermeja, Santander). Poco a poco esos trabajadores fueron
+conociendo ideologías que llegaron al continente gracias a periódicos,
+a libros y a los inmigrantes provenientes de Europa. Se dieron a conocer
+el <negrita>socialismo</negrita><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=7511602&amp;ruta=Buscador"
+> [VER]</enlace>, el anarquismo y el comunismo, y la Revolución Rusa
+inspiró el surgimiento de agrupaciones que reivindicaban los derechos
+de los obreros.</p>
+<destacado><destacadoTitulo>Un nuevo partido</destacadoTitulo>
+<destacadoTexto>
+<p>En 1924 surgió el <negrita>Partido Socialista Revolucionario</negrita
+> (PSR). Debido a las condiciones difíciles en que vivían los obreros
+y a los bajos salarios, este partido impulsó protestas a nivel nacional.
+Pedían mejor trato por parte de empresas como la <negrita>United Fruit
+Company</negrita> y la <negrita>Tropical Oil Company</negrita>. También
+pedían servicios públicos. En muchas ocasiones este partido apoyó
+a los campesinos que trabajaban para los hacendados cafeteros y a
+los <negrita>indígenas</negrita> que luchaban por obtener tierra para
+cultivar.</p>
+</destacadoTexto></destacado>
+<p>Una vez terminó la Primera Guerra Mundial, Estados Unidos se convirtió
+en el principal socio de Colombia. Ello fortaleció la industria cafetera
+y la convirtió en el eje económico de la nación. Otras industrias
+como la textil y la cervecera despegaron con fuerza. La inversión
+extranjera tomó como propios recursos tales como el petróleo y el
+banano.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_04_CO_3555E8CB1497470894AB2CCD776BBC30">
+<seccion2Titulo>La misión Kemmerer y el presidente Pedro Nel Ospina
+(1922-1926)</seccion2Titulo>
+<seccion2Texto>
+<p>Para el año 1922 ascendió a la presidencia un ingeniero con amplios
+conocimientos en minería. Pedro Nel Ospina estudió en Estados Unidos
+y Alemania. Esto influyó para que pusiera en marcha medidas orientadas
+al desarrollo de una infraestructura que permitiera mover la economía.</p>
+<p>Con el apoyo del embajador de Colombia en Estados Unidos, Enrique
+Olaya Herrera, se contrató la <negrita>Misión Kemmerer</negrita>,
+que consistió en hacer un <negrita>diagnóstico</negrita> y formular
+propuestas para <negrita>mejorar la organización del Estado</negrita
+> y lograr que este fuera más eficiente. Se crearon <negrita>instituciones</negrita
+> y <negrita>ministerios</negrita>. Aquello coincidió con el momento
+en que Estados Unidos le pagaría a Colombia los <negrita>25 millones
+de dólares</negrita> de indemnización por la <negrita>pérdida de Panamá</negrita
+>.</p>
+<destacado><destacadoTitulo>Una misión estadounidense transforma al
+Estado colombiano</destacadoTitulo><destacadoTexto>
+<p><negrita>Edwin Walter Kemmerer</negrita><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=7301223&amp;ruta=Buscador"
+> [VER]</enlace>, experto en ciencias económicas, que ya había prestado
+sus servicios en otros países como Filipinas, México y Guatemala vino
+en 1923, acompañado de un grupo de expertos en bancos para organizar
+instituciones para el manejo del dinero público, en particular el
+que llegaría como indemnización por la pérdida de Panamá.</p>
+</destacadoTexto></destacado>
+<p>Fueron años de bonanza en varios sentidos. Se vivían los felices
+años veinte. Pasados los años de la posguerra la economía mundial
+había repuntado, lo que implicó que países como Colombia recibieran
+atractivas ofertas de préstamos y créditos. Esto creó buenas condiciones
+para que se llevaran a cabo los planes que tenía Pedro Nel Ospina
+de modernizar el país.</p>
+<p>El café, el banano y el petróleo pasaron por su mejor momento,
+lo que atrajo la atención de inversionistas y prestamistas extranjeros.</p>
+<imagen src="CS_09_04_CO_IMG06_small.jpg">
+<p>La misión Kemmerer fue una delegación de <negrita>economistas norteamericanos</negrita
+> que diseño un modelo de organización institucional con el que se
+pretendió lograr una mayor eficiencia en el funcionamiento del Estado
+colombiano. Como resultado de esta misión se crearon el <negrita>Banco
+de la República</negrita> y la <negrita>Contraloría General de la
+Nación</negrita>.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso060&amp;IdRecurso=RES-149D17466F2C4395B50DBB571AD795B9"
+>La Misión Kemmerer y la banca central</enlace>
+</profundiza><destacado><destacadoTitulo>El café colombiano despega</destacadoTitulo>
+<destacadoTexto>
+<p>En el mundo entero el café se convirtió en una bebida fundamental.
+Colombia quiso aprovechar este hecho y en los años veinte se dio gran
+impulso para que el producto pudiera ser exportado. En <negrita>1927</negrita
+>, durante el gobierno de Pedro Nel Ospina, que era ingeniero y también
+hacendado cafetero, se creó la <negrita>Federación Nacional de Cafeteros
+de Colombia</negrita>.</p>
+</destacadoTexto></destacado>
+<p>Colombia quería insertarse definitivamente en el mercado mundial
+y ofrecer sus productos. Ello requería mejorar las vías de entrada
+y salida a las regiones para poder sacar estos productos. La aparente
+abundancia de dinero generó una sensación de optimismo sobre el presente
+y el futuro, que se reflejó en la adquisición de deudas con créditos
+que sumados llegaron a superar lo que Estados Unidos pagaría por la
+indemnización prometida tras la pérdida de Panamá.</p>
+<p>Aquello se conoció más tarde como “la prosperidad al debe”<enlace
+destino="http://www.portafolio.co/archivo/documento/CMS-4609926"> [VER]</enlace
+>. El país creció en vías <negrita>férreas</negrita>, se inició la <negrita
+>aviación</negrita>, se construyeron importantes <negrita>oleoductos</negrita
+> y se inició la búsqueda de más <negrita>yacimientos petroleros</negrita
+>. Todo ello requirió de <negrita>grandes préstamos</negrita> y, naturalmente,
+fue un gran paso para acumular una creciente deuda externa<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=9&amp;idpil=000YO901&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_04_CO_1B41EAFF35FB4C9785E7F0213649AD14">
+<seccion2Titulo>La masacre de las bananeras y el gobierno de Miguel
+Abadía Méndez (1926-1930)</seccion2Titulo>
+<seccion2Texto>
+<p>El <negrita>optimismo</negrita> de los años veinte tuvo también
+su cara oscura; además de <negrita>endeudarse</negrita>, Colombia
+había ofrecido facilidades para que grandes empresas extranjeras explotaran
+recursos haciendo uso de la mano de obra nacional que era muy barata
+y por lo tanto reportaba grandes beneficios para aquellas empresas,
+que poco se preocupaban de la buena condición de sus trabajadores.
+Tenían además el apoyo del Ejército para cuidar sus instalaciones.</p>
+<imagen src="CS_09_04_CO_IMG07_small.jpg">
+<p>Miguel Abadía Méndez fue el último presidente de la Hegemonía Conservadora.
+Durante su mandato ocurrió la imborrable “masacre de las bananeras”.</p>
+</imagen>
+<p>Durante el gobierno del conservador <negrita>Miguel Abadía Méndez</negrita
+>, el <negrita>Partido Socialista Obrero</negrita> tomó la vocería
+de los trabajadores. El gobierno conservador, atemorizado ante el
+avance de la organización obrera expidió la “<negrita>Ley Heroica</negrita
+>” que <negrita>prohibió</negrita> el derecho de <negrita>huelga</negrita
+> y <negrita>promovió</negrita> la <negrita>persecución</negrita> y
+el <negrita>castigo</negrita> a cualquier organización o agrupación
+que atacara la <negrita>propiedad privada</negrita>.</p>
+<p>La <negrita>United Fruit Company</negrita>, que tenía su base en <negrita
+>Ciénaga</negrita>, Magdalena, tenía más de 20 000 trabajadores que
+laboraban en condiciones infrahumanas. Los trabajadores organizaron
+una huelga con la que buscaban pedir mejores condiciones como el acceso
+a salarios dignos y a seguridad social. Pero la respuesta del Estado
+y de la empresa fue inesperada. El número de víctimas de las balas,
+según el abogado <negrita>Jorge Eliécer Gaitán</negrita>, quien investigó
+el caso, llegó a ser de 300.</p>
+<p>Aquello se conoció como “<negrita>la masacre de las bananeras</negrita
+>” y desacreditó al Ejército, a la United Fruit Company y al gobierno
+conservador. Esto, sumado a los efectos de la crisis de 1929, que <negrita
+>paralizó los préstamos</negrita> y la inversión extranjera en Colombia,
+trajo el <negrita>fin</negrita> de la <negrita>Hegemonía conservadora</negrita
+>.</p>
+<destacado><destacadoTitulo>El fin de la Hegemonía conservadora</destacadoTitulo>
+<destacadoTexto>
+<p>La crisis de 1929, la masacre de las bananeras y la “<negrita>prosperidad
+al debe</negrita>” originada en los millonarios préstamos que hizo
+el país para lograr su sueño de modernización dejaron en entredicho
+a los gobiernos de origen conservador y le abrieron la puerta a otra
+orientación política. Surgió así la República liberal.</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso070&amp;IdRecurso=RES-2E7315FF6FAB4FDC8700FFA90412B874"
+>La Hegemonía conservadora</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_04_CO_BA82481407974795B6FAAE326EADD405">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso080&amp;IdRecurso=RES-646BF0EFC278482E85CE8ECCAF3C84CB"
+>Refuerza tu aprendizaje: La Hegemonía conservadora</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_04_CO_462438B8D3DA4B59BBA4DB530D025B9A">
+<seccion1Titulo>La República liberal</seccion1Titulo>
+<seccion1Texto>
+<p>El crecimiento de la clase obrera, debido al avance de la industria
+y a los procesos de urbanización fue un motivo para transformar la
+política y la manera de orientar el Estado. Así mismo, la crisis de
+1929 trajo desempleo y pobreza. Colombia vio como en la década de
+1930 se dio un giro político que implicó algunos cambios sociales
+y económicos. Con la presidencia de Enrique Olaya Herrera empezó la
+República liberal.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso090&amp;IdRecurso=RES-8E0E6CC56A4D40D2AB99614CBA1DDD98"
+>Hechos y personajes de la República liberal</enlace>
+</practica><seccion2
+id="S2_CS_09_04_CO_47E2B82DDED14B51A4EBE8B485F11C0C">
+<seccion2Titulo>El primer presidente liberal del siglo XX: Enrique
+Olaya Herrera (1930-1934)</seccion2Titulo>
+<seccion2Texto>
+<p>A partir del <negrita>1930</negrita> la política colombiana empezó
+a transformarse. Luego de 30 años de Hegemonía conservadora <negrita
+>nuevas figuras políticas</negrita> tomaron bajo su mando al Estado.
+Tenían el reto de enfrentar una realidad nacional marcada por la crisis
+y el empobrecimiento de las clases bajas y medias.</p>
+<p>El continente latinoamericano empezó a cambiar su orientación económica
+hacia la <negrita>industrialización por sustitución de importaciones</negrita
+>. Así mismo empezó a implementar el modelo de <negrita>Estado keynesiano</negrita
+> que promovió la <negrita>seguridad social</negrita> y la <negrita
+>intervención del Estado</negrita> en la economía para controlar la
+libre competencia.</p>
+<p>Los <negrita>nuevos mandatarios liberales</negrita> tenían claro
+que para poder gobernar era necesario tomar en cuenta los <negrita
+>intereses de los obreros</negrita>, por ello una de las características
+de la República liberal fue el acercamiento del Estado a las clases
+trabajadoras. Con esto se esperaba garantizar la paz pues se contenía
+la lucha de clases y además se aseguraba la obtención de más votos
+en las elecciones.</p>
+<p>La masacre de las bananeras había dejado una lección trágica de
+la que el Estado esperaba aprender, por ello intentó <negrita>mejorar
+las condiciones de los trabajadores</negrita>. No obstante, la deuda
+externa del país ya era bastante alta y ello hacía más difícil el
+camino.</p>
+<imagen src="CS_09_04_CO_IMG08_small.jpg">
+<p><cursiva>Multitud en torno a Enrique Olaya Herrera</cursiva>. La
+llegada del presidente liberal trajo un cambio al país, luego de un
+largo periodo en el que los conservadores habían permanecido en el
+poder.</p>
+</imagen>
+<p>El gobierno de Olaya Herrera procuró estabilizar la economía; para
+ello impuso <negrita>controles a las importaciones</negrita>, a las <negrita
+>tasas de interés</negrita> de los bancos y continuó con el <negrita
+>apoyo a los cafeteros</negrita>. En el campo laboral se establecieron
+condiciones que mejoraron las reglas de vida de los trabajadores: <negrita
+>jornadas de ocho horas</negrita> y <negrita>48 horas semanales</negrita
+>, <negrita>protección social</negrita> (acceso a <negrita>servicios
+de salud</negrita>). Así los liberales ganaron más seguidores, particularmente
+de las clases media y baja de las ciudades.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso100&amp;IdRecurso=RES-F61F9447258F4FF9BA3FF47F438E3947"
+>El gobierno de Enrique Olaya Herrera</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_04_CO_A5424885061C46E8AAF0BB4930ABEG86">
+<seccion2Titulo>La Guerra con el Perú: el único conflicto internacional
+en territorio colombiano (1932-1934)</seccion2Titulo>
+<seccion2Texto>
+<p>El <negrita>1 de septiembre de 1932</negrita> se inició un conflicto
+en la frontera colombo-peruana. Ese día un puñado de peruanos, originarios
+de la ciudad de Loreto, se tomó el puerto de Leticia, amarraron a
+los pocos soldados colombianos e izaron la bandera peruana.</p>
+<p>Para 1932, <negrita>Leticia</negrita> y en general la <negrita
+>Amazonia</negrita> no habían recibido atención del Estado colombiano.
+Su abandono fue aprovechado por los peruanos que desde tiempos de
+la Independencia se habían disputado con los colombianos el territorio.
+Así mismo, desde principios del siglo XX y hasta 1922 (cuando se firmó
+el tratado <negrita>Salomón-Lozano</negrita><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=7600039&amp;ruta=Buscador"
+> [VER]</enlace>) había sido predio de la Casa Arana una gran empresa
+peruano-británica que por muchos años extrajo <negrita>caucho</negrita
+> esclavizando indígenas y llegando a cometer un genocidio que llevó
+a la desaparición de comunidades enteras. De aquel caucho se beneficiaron
+empresas británicas y norteamericanas.</p>
+<imagen src="CS_09_04_CO_IMG09_small.jpg">
+<p>Aviso de promoción de la primera edición de <cursiva>La vorágine</cursiva
+>. En 1924, José Eustasio Rivera publicó <cursiva>La vorágine</cursiva
+> una novela excepcional que reconstruye, entre otras múltiples realidades,
+los excesos de la Casa Arana con la olvidada Amazonia colombiana de
+aquel entonces.</p>
+</imagen>
+<p>Al ataque de los peruanos, Colombia intentó responder rápidamente,
+sin embargo no contaba aun con fuerza aérea ni fluvial. Por ello el
+gobierno de Olaya Herrera debió hacer compras inmediatas de dotación
+y armamento. Solicitó préstamos y convocó a la <negrita>ciudadanía</negrita
+> a <negrita>donar dinero</negrita>. Para ello utilizó la <negrita
+>prensa escrita</negrita> y las <negrita>emisoras de radio públicas</negrita
+> y <negrita>privadas</negrita> que empezaron a surgir en los años
+treinta.</p>
+<p>Las tropas de combate fueron nutridas por gentes de todo el país.
+Sanandresanos, boyacenses santandereanos, antioqueños, tolimenses,
+pastusos, etc., fueron convocados y partieron al campo de batalla.
+Así mismo, los indígenas de la Amazonia, que un par de décadas antes
+habían sido sometidos por parte de caucheros peruanos, fueron reclutados
+por la fuerza para combatir o para servir a las tropas.</p>
+<p>La solución de la guerra llegó con el <negrita>Protocolo de Río
+de Janeiro</negrita> firmado el 24 de mayo de 1934.</p>
+<imagen src="CS_09_04_CO_IMG10_small.jpg">
+<p>La guerra no tuvo grandes proporciones. Dejó como resultado inmediato
+un total de <negrita>69 víctimas</negrita>. Muchas de ellas murieron
+más por enfermedades de transmisión sexual que por el propio combate.
+Sin embargo de las donaciones que hicieron los ciudadanos colombianos
+quedó una cantidad que fue utilizada por el gobierno de Olaya Herrera
+para crear el Instituto Nacional de Cancerología.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso110&amp;IdRecurso=RES-07F63D3FC0944D279590691EB8FA4D77"
+>La Revolución en marcha</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_04_CO_A5424885061C46E8AAF0BB4930ABDF95">
+<seccion2Titulo>La Revolución en Marcha de Alfonso López Pumarejo
+(1934-1938)</seccion2Titulo>
+<seccion2Texto>
+<p>En 1934 ascendió al poder Alfonso López Pumarejo, un liberal que
+durante el gobierno de Pedro Nel Ospina había criticado duramente
+el hecho de que el gobierno pidiera tantos préstamos. Al llegar al
+poder, López Pumarejo promovió con éxito la <negrita>Revolución en
+Marcha</negrita>, una <negrita>política social</negrita> que incluía
+mejoras en la educación, la salud y el trabajo, pero que además tuvo
+un proyecto central: la reforma agraria.</p>
+<imagen src="CS_09_04_CO_IMG11_small.jpg">
+<p>A partir de la República liberal la clase trabajadora tuvo una
+mayor participación política. Incluso, el mismo Estado se encargó
+de apoyar la creación de sindicatos.</p>
+</imagen>
+<p>La Revolución en Marcha tuvo como punto de partida la reforma de
+la Constitución que se hizo en 1936. Se establecieron tres grandes
+cambios:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Función social de la propiedad</negrita>.
+Se buscó que <negrita>latifundios ociosos</negrita> (grandes porciones
+de tierra sin cultivar que estaban en manos de terratenientes y no
+tenían en cuenta el interés común sino los intereses privados) fueran
+distribuidos entre los campesinos sin tierra. Para poner en marcha
+esta función se creó la Ley 200 de 1936, también llamada <negrita
+>Ley de Tierras</negrita>. Esto despertó un gran optimismo entre los
+campesinos que por años habían esperado a tener un pedazo de tierra
+cultivable.<br/><br/>Sin embargo, la distribución fue lenta y poca
+pues tuvo la oposición de grandes terratenientes y de los sectores
+conservadores. Como resultado lo que logró la Ley fue entregar algunos
+terrenos baldíos y ampliar así la frontera agrícola, es decir que
+los terrenos que recibieron algunos campesinos no fueron propiamente
+expropiados a los terratenientes sino más bien que se trató de tierras
+desocupadas alejadas de los centros urbanos y por lo tanto de difícil
+acceso.</listaElemento>
+</listaSinNumerar>
+<listaSinNumerar>
+<listaElemento><negrita>Intervención del Estado en la economía</negrita
+>. Se buscó que el Estado regulara la producción, distribución y consumo
+de riquezas pensando en el <negrita>bienestar de los trabajadores</negrita
+>.</listaElemento>
+<listaElemento><negrita>Ampliación de las funciones del Estado</negrita
+>. Se buscó solucionar carencias de la población en términos de <negrita
+>salud</negrita> y <negrita>educación</negrita>, así como frente a
+la protección del derecho al trabajo. Por lo tanto se ampliaron los
+derechos de los trabajadores y se vio con mejores ojos el sindicalismo;
+también se crearon más escuelas y hospitales.</listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>La Revolución en Marcha</destacadoTitulo>
+<destacadoTexto>
+<p>La pobreza y las malas condiciones de los trabajadores llevaron
+a que el Estado colombiano asumiera su responsabilidad como garante
+del bienestar. Por ello, durante el gobierno de Alfonso López Pumarejo,
+en el año 1936, se diseñó una política pública conocida como la Revolución
+en Marcha.</p>
+</destacadoTexto></destacado>
+<p>La oposición que encontró López Pumarejo por parte de los sectores
+más ricos de la sociedad fue muy fuerte. Por lo tanto al final de
+su mandato empezó a echar para abajo algunas medidas.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso120&amp;IdRecurso=RES-E746370BAF414940B975843707A87E0E"
+>Juega con los hechos y personajes de la República liberal</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_04_CO_D339840A06F34E16AF312B6FEA08ECBE">
+<seccion2Titulo>La amistad con Estados Unidos y el gobierno de Eduardo
+Santos (1938-1942)</seccion2Titulo>
+<seccion2Texto>
+<p>El periodo de Eduardo Santos, quien era empresario y periodista,
+se conoció como el gobierno de “<negrita>la gran pausa</negrita>”<enlace
+destino="http://www.banrepcultural.org/node/73607"> [VER]</enlace
+>, en particular porque las reformas que empezaron con el gobierno
+de López Pumarejo detuvieron su impulso, aunque se mantuvo el buen
+trato a los trabajadores (particularmente aquellos que compartían
+las ideas del Partido Liberal) y el estímulo a la creación de industrias
+nacionales. </p>
+<p>La gran pausa tuvo también una causa: la Segunda Guerra Mundial;
+esta obligó al gobierno a crear embajadas y a facilitar el ingreso
+de funcionarios de Estados Unidos para realizar actividades de espionaje
+contra los países del Eje (Alemania, Japón e Italia). La permisividad
+con el país del norte no fue bien vista por los sectores populares
+y de izquierda que tenían presente el recuerdo de la pérdida de Panamá
+y la masacre de las bananeras.</p>
+<imagen src="CS_09_04_CO_IMG12_small.jpg">
+<p>En 1940 se inauguró la Radiodifusora Nacional de Colombia, emisora
+pública del país. El presidente Eduardo Santos fue el primero en hablar
+antes los micrófonos.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_04_CO_FB428C5F4EF943ED9FE852A467ABC282">
+<seccion2Titulo>La reelección de Alfonso López (1942-1946)</seccion2Titulo>
+<seccion2Texto>
+<p>Alfonso López Pumarejo volvió a la política en 1942<enlace
+destino=" http://www.semana.com/especiales/articulo/alfonso-lopez-pumarejo-contra-corriente/107957-3"
+> [VER]</enlace>. Su segundo gobierno fue muy distinto al primero.
+Propuso muy pocas reformas pero además estuvo caracterizado porque
+la oposición conservadora ya empezaba a pedir más participación política.
+Así mismo, con la Segunda Guerra Mundial a Colombia habían llegado
+ideas de orientación fascista que atrajeron a algunos detractores.</p>
+<p>Un hecho marcó el segundo mandato de López: el <negrita>golpe militar
+de Pasto</negrita> ocurrido el <negrita>10 de julio de 1944</negrita
+><enlace
+destino="http://www.senalradiocolombia.gov.co/noticia/las-5-cosas-que-tal-vez-ya-no-recordaba-del-golpe-de-pasto"
+> [VER]</enlace>. Ese día, cuando el presidente visitaba la ciudad
+del sur, para asistir a unas maniobras de entrenamiento del Ejército,
+fue arrestado, amarrado y trasladado a la Hacienda Consacá por órdenes
+del coronel Diógenes Gil. El episodio tuvo una corta duración. Los
+militares golpistas, que en un principio manifestaron total seguridad
+y unión, pronto se rindieron y dejaron en libertad al presidente.
+Entre tanto, a pesar de lo difícil de las comunicaciones, en Bogotá
+se supo la noticia de inmediato y se declaró el <negrita>Estado de
+sitio</negrita>.</p>
+<p>Finalmente, López regresó a la capital y aunque salió bien librado,
+aquel intento de golpe dejó entrever que los sectores más conservadores
+de la sociedad querían que la República liberal llegara a su fin,
+en parte porque a esos sectores les resultaba intolerable el poder
+que había ido adquiriendo la <negrita>clase trabajadora</negrita> con
+las <negrita>reformas laborales</negrita> y <negrita>agrarias</negrita
+>.</p>
+<imagen src="CS_09_04_CO_IMG13_small.jpg">
+<p>En la ciudad de Pasto, el presidente López Pumarejo fue secuestrado
+por un puñado de militares de extrema derecha que no compartía el
+enfoque de sus reformas sociales.</p>
+</imagen>
+<p>El presidente López decidió renunciar y asumió como presidente
+designado el liberal Alberto Lleras Camargo quien ocupaba el cargo
+de Ministro de Gobierno. Alberto Lleras gobernó por un año. Así llegó
+a su fin la República Liberal.</p>
+<destacado><destacadoTitulo>El golpe de Pasto</destacadoTitulo>
+<destacadoTexto>
+<p>El <negrita>10 de julio de 1944</negrita> hubo un intento de golpe
+militar en la ciudad de Pasto<enlace
+destino="http://www.senalmemoria.gov.co/index.php/home/archivo-sonoro/item/1540-sesenta-años-del-golpe-de-pasto"
+> [VER]</enlace>. Ese golpe, que duró pocas horas, anunciaba el descontento
+de sectores de extrema derecha con las reformas sociales que había
+adelantado el liberalismo desde que tomó el poder.</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso130&amp;IdRecurso=RES-1089337C64F54883A21BD1ACDF00D698"
+>La República liberal</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_04_CO_FB428C5F4EF943ED9FE852A467ABF693">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso140&amp;IdRecurso=RES-29F682AB04B948288540C900F6B88094"
+>Refuerza tu aprendizaje: La República liberal</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_04_CO_0590EC1D278F4FC7A0DACD02195E31D6">
+<seccion1Titulo>Los gobiernos conservadores (1946 -1953)</seccion1Titulo>
+<seccion1Texto>
+<p>Desde el gobierno de López, el Partido Liberal había empezado a
+dividirse. Por una parte estaban los seguidores del abogado Jorge
+Eliécer Gaitán, cuyo discurso era de oposición popular a las oligarquías
+conservadoras y liberales; y Gabriel Turbay, de ideas más tradicionales.</p>
+<p>La división de los liberales impidió que ganaran de nuevo las elecciones
+y facilitó el regreso de los conservadores.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso150&amp;IdRecurso=RES-1F19D3690D0A435C95F8B4A9A6654AF2"
+>Los gobiernos conservadores</enlace>
+</profundiza><seccion2
+id="S2_CS_09_04_CO_E2BE5D1C1FEE40058DA9B0D13069EDBA">
+<seccion2Titulo>Mariano Ospina Pérez (1946-1950)</seccion2Titulo>
+<seccion2Texto>
+<p>Mariano Ospina Pérez era nieto de Mariano Ospina Rodríguez, presidente
+entre 1857 y 1861 y sobrino de Pedro Nel Ospina, quien había sido
+presidente durante la Hegemonía conservadora. Al igual que su tío
+era gran empresario cafetero.</p>
+<p>Entre 1930 y 1934, Mariano Ospina Pérez fue gerente de la Federación
+Nacional de Cafeteros. Su vínculo con este sector y su posición de
+empresario lo hacían objeto de desconfianza por parte de las clases
+sociales que seguían a <negrita>Jorge Eliécer Gaitán</negrita>. A
+pesar de ello, Ospina Pérez tuvo en cuenta que el paso de un país
+rural a un país de ciudades, con cada vez más trabajadores urbanos,
+así como la presencia de epidemias y malas condiciones de higiene
+por el hacinamiento, hacían de la salud un asunto de decisión política.
+Por ello durante su mandato se creó el <negrita>Ministerio de Higiene</negrita
+> y el <negrita>Instituto de los Seguros Sociales</negrita>.</p>
+<imagen src="CS_09_04_CO_IMG14_small.jpg">
+<p>Mariano Ospina Pérez fue el presidente conservador que gobernó
+una vez terminó la República liberal.</p>
+</imagen>
+<p>Aunque estas acciones fueron de gran importancia, el ambiente político
+era desfavorable. Los odios entre partidos llegaban a un punto límite.
+Desde distintos lados se atizaba el fuego: el gran orador conservador
+Laureano Gómez y el carismático liberal Jorge Eliécer Gaitán hacían
+enardecer a sectores opuestos de la sociedad colombiana. Tras la victoria
+de Ospina Pérez corrió el rumor de que las elecciones habían sido
+fraudulentas. Aquello propició confrontaciones y múltiples muertes
+en distintos lugares del país.</p>
+<destacado><destacadoTitulo>El ascenso de Jorge Eliécer Gaitán</destacadoTitulo>
+<destacadoTexto>
+<p>Durante el gobierno de Mariano Ospina Pérez, la figura del liberal
+Jorge Eliécer Gaitán tuvo gran acogida entre los sectores populares
+pues se presentó como un líder capaz de entender las necesidades más
+urgentes de los excluidos.</p>
+</destacadoTexto></destacado>
+<p><negrita>Gaitán</negrita>, que se caracterizaba por ser gran orador,
+se apoderó de las <negrita>plazas públicas</negrita> y de las calles
+en donde tenía gran acogida entre los sectores más humildes de la
+sociedad colombiana que sentían que el poder era de unos pocos y que
+las reformas sociales tomaban demasiado tiempo en cumplirse. De otra
+parte, empezaron a ocurrir asesinatos de los que se culpó al <negrita
+>Estado</negrita>.</p>
+<p>En medio de ese ambiente tan enrarecido, Jorge Eliécer Gaitán convocó
+a la “<negrita>Marcha del silencio</negrita>” el 7 de febrero de 1948.
+Además, renunciaron los liberales que ocupaban cargos en la rama ejecutiva.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_04_CO_B4C2B0B67FE940218D96B5567033CC45">
+<seccion2Titulo>El Bogotazo</seccion2Titulo>
+<seccion2Texto>
+<p>El 8 de abril de 1948 Jorge Eliécer Gaitán, que era abogado, había
+salido victorioso de uno de sus pleitos. El <negrita>9 de abril</negrita
+> sería un día de celebración. Pasado el mediodía salió de su oficina
+en el centro de Bogotá, lo acompañaban varios amigos, entre ellos
+el médico Pedro Eliseo Cruz quien había sido ministro de Higiene y
+uno de los liberales que acaba de renunciar. La algarabía callejera
+fue interrumpida con algunos disparos. Gaitán cayó al suelo y murió
+instantáneamente. Con su muerte se fue la ilusión de las clases más
+pobres. De inmediato empezó lo que poco después se conoció como “<negrita
+>el Bogotazo</negrita>”.</p>
+<imagen src="CS_09_04_CO_IMG15_small.jpg">
+<p>Jorge Eliécer Gaitán se presentó como el líder de los sectores
+excluidos. Su discurso contra las oligarquías fue bien recibido por
+amplios sectores populares que depositaron en él la esperanza de lograr
+una mayor igualdad.</p>
+</imagen>
+<p>Ese día, y por 48 horas, los odios partidistas se salieron de toda
+proporción: <negrita>saqueos e incendios</negrita>, <negrita>apagones</negrita
+>; los llamados de las emisoras a tumbar el gobierno de Ospina Pérez
+y a tomar las armas fueron el reflejo de lo poco que el Estado había
+logrado en construir un orden social que tuviera en cuenta las necesidades
+de todos. Luego del Bogotazo la violencia se recrudeció por muchos
+años; la muerte de colombianos llegó a cifras formidables.</p>
+<imagen src="CS_09_04_CO_IMG16_small.jpg">
+<p>Los desastres provocados tras el asesinato de Jorge Eliécer Gaitán
+fueron el reflejo de una incontenible furia popular que vio en la
+muerte del líder el fin de una esperanza.</p>
+</imagen>
+<p>A pesar de los hechos del 9 de abril, <negrita>Mariano Ospina Pérez</negrita
+> continuó en el poder hasta terminar su mandato, no sin haber decretado
+el <negrita>Estado de sitio</negrita>, cerrado el <negrita>Congreso</negrita
+> y decretado la <negrita>censura de prensa</negrita> y restringido
+otras libertades civiles como el derecho de reunión.</p>
+<p>Las elecciones de 1949 se llevaron a cabo en un ambiente lúgubre
+y poco democrático. La vida cotidiana en las distintas poblaciones
+era de zozobra. Pocas horas antes de las elecciones había ocurrido
+una masacre en la sede del Partido Liberal, lo que atemorizó más a
+los votantes. Los liberales se retiraron de la competencia. La victoria
+fue para el conservador <negrita>Laureano Gómez Castro</negrita>,
+un opositor radical y gran crítico de las medidas sociales del Partido
+Liberal<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=6891807&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>Gómez Castro era un hombre católico que abogaba por un orden social
+en el que se <negrita>respetara</negrita> la <negrita>propiedad privada</negrita
+> y las necesidades de los <negrita>pobres</negrita> fueran atendidas
+por medio de la <negrita>caridad</negrita>. Al mismo tiempo, era ingeniero,
+lo que impulsaba su interés por modernizar a la nación con vías y
+aeropuertos.</p>
+<p>Laureano Gómez no logró culminar su mandato pues cayó enfermo y
+debió retirarse para ser reemplazado por su ministro de Gobierno Roberto
+Urdaneta.</p>
+<p>Durante su gobierno, la <negrita>violencia</negrita> alcanzó proporciones
+importantes. Luego del asesinato de Gaitán muchos liberales que sintieron
+su vida en peligro y que además vieron irse sus esperanzas huyeron
+a zonas apartadas para conformar <negrita>guerrillas</negrita>. Por
+ejemplo, en los Llanos orientales, en el Tolima, en el Cauca o en
+zonas como Sumapaz, Cundinamarca, grupos de campesinos iniciaron una
+lucha armada que confrontó al gobierno conservador y dio cuenta de
+la exclusión a que se había llegado en el país. La respuesta a esas
+guerrillas fueron los <negrita>bombardeos</negrita> y persecución
+por un ejército cada vez más robusto.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso160&amp;IdRecurso=RES-10ACA1BE3C234BB5A751D8C5E1BDC9A9"
+>Jorge Eliécer Gaitán y El Bogotazo</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_04_CO_3AA594B0B0134FA98BD379F67B6DAB8D">
+<seccion2Titulo>Colombia participa en la Guerra de Corea</seccion2Titulo>
+<seccion2Texto>
+<p>Entre 1951 y 1953 ocurrió un episodio internacional: la <negrita
+>Guerra de Corea</negrita>, uno de los conflictos más sangrientos
+del siglo XX, después de las dos guerras mundiales<enlace
+destino="http://www.senalmemoria.gov.co/index.php/home/las-joyas-de-la-corona/item/970-joyas-de-la-corona-al-aire"
+> [VER]</enlace>. Colombia fue el único país suramericano que participó,
+con la creación y envío del Batallón Colombia. La guerra llegó a su
+fin en 1953, con la firma de un armisticio en el que no hubo vencedores
+ni vencidos.</p>
+<imagen src="CS_09_04_CO_IMG17_small.jpg">
+<p>Colombia participó en la Guerra de Corea, que ocurrió entre 1951
+y 1953. Más de mil soldados fueron enviados al frente de batalla.
+Tuvieron que entrenarse y combatir en una tierra desconocida. Aun
+muchos de ellos espera la recompensa y el reconocimiento social por
+semejante hazaña.</p>
+</imagen>
+<p>Para las élites liberales e incluso para un sector del conservatismo,
+el gobierno de Laureano Gómez resultaba despótico. El recrudecimiento
+de la violencia motivó un pacto entre un sector cercano al conservador
+Mariano Ospina Pérez, la Iglesia, las Fuerzas Armadas y un sector
+de las élites liberales. De ese pacto surgió la figura del general
+Gustavo Rojas Pinilla, que ascendió al gobierno mediante un golpe
+militar que depuso a Laureano Gómez, quien debió exiliarse en Nueva
+York.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso170&amp;IdRecurso=RES-C9221D21454D44528AB296CB2F258A19"
+>Los gobiernos conservadores de 1947 a 1953</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_04_CO_3AA594B0B0134FA98BD379F67B6DBC9E">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso180&amp;IdRecurso=RES-B71D410D7CFB4E2693D4A53231F6BAF7"
+>Refuerza tu aprendizaje: Los gobiernos conservadores (1946 -1953)</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_04_CO_A3402F9B66B0481FA4A7D6989735CE5E">
+<seccion1Titulo>La dictadura militar de Gustavo Rojas Pinilla (1953-1957)</seccion1Titulo>
+<seccion1Texto>
+<p>El <negrita>13 de junio de 1953</negrita> ocurrió el <negrita>golpe
+militar</negrita> que permitió el ascenso del general Gustavo Rojas
+Pinilla. Amplias capas de la población recibieron con beneplácito
+la llegada del general pues esperaban que con ello se acabara la violencia.</p>
+<p>Al estilo de los generales populistas que en ese periodo gobernaban
+en otros países, como <negrita>Juan Domingo Perón</negrita> en Argentina
+o <negrita>Getulio Vargas</negrita> en Brasil, Rojas Pinilla puso
+en marcha una serie de <negrita>políticas sociales</negrita> que le
+valieron la <negrita>gratitud del pueblo</negrita>. Apoyado en su
+hija María Eugenia y a través de la Secretaría de Asistencia Social, <negrita
+>Sendas</negrita>, se acercó a la población más pobre llevando mercados,
+algunos servicios públicos y creando escuelas. Así mismo, durante
+su gobierno se amplió la infraestructura vial y de aeropuertos y además
+se fortaleció la red de comunicaciones.</p>
+<imagen src="CS_09_04_CO_IMG18_small.jpg">
+<p>Gustavo Rojas Pinilla llegó al poder tras duros años de violencia.
+Su paso por el poder se destacó por el desarrollo de políticas sociales
+dirigidas a ayudar a los sectores pobres. Sin embargo, hechos como
+los del 8 y 9 de junio de 1954 en los que murieron varios estudiantes,
+así como el cierre delos periódicos más importantes del país, precipitaron
+su caída.</p>
+</imagen>
+<p>El 13 de junio de 1954, al cumplirse el primer año de su mandato,
+inauguró el servicio de <negrita>televisión</negrita> que por primera
+vez llegó a hogares colombianos. Rojas y su gabinete celebrarían con
+júbilo ese día; sin embargo un hecho opacó la celebración: el asesinato
+de estudiantes universitarios ocurrido los días 8 y 9 de junio anteriores.
+En confusos hechos, el estudiante de medicina de la Universidad Nacional, <negrita
+>Uriel Gutiérrez</negrita>, cayó muerto. Se acusó a la policía. Al
+día siguiente en una marcha de protesta, se presentaron hechos violentos
+en los que cayeron otros tantos estudiantes de universidades públicas
+y privadas.</p>
+<imagen src="CS_09_04_CO_IMG19_small.jpg">
+<p>Hechos como los del 8 y 9 de junio de 1954 en los que murieron
+varios estudiantes, así como el cierre de los periódicos más importantes
+del país, precipitaron la caída del general Gustavo Rojas Pinilla
+y la llegada de una junta militar de transición que le abrió paso
+al Frente Nacional.</p>
+</imagen>
+<p>Desde aquel momento, la popularidad de Rojas en algunos sectores
+de la sociedad empezó a verse afectada. No obstante, su política social
+seguía teniendo muchos seguidores. Además, el mismo 13 de junio de
+1954 decretó el <negrita>perdón a los guerrilleros</negrita> y la
+posterior firma de la paz. Muchos guerrilleros liberales entregaron
+sus armas y con ello la situación de violencia disminuyó.</p>
+<p>A pesar de esos esfuerzos, al asesinato de los estudiantes, le
+siguió el <negrita>cierre de periódicos</negrita> de circulación nacional
+como <negritacursiva>El Tiempo</negritacursiva> y <negritacursiva
+>El Espectador</negritacursiva>, así como la <negrita>masacre</negrita
+> en la <negrita>Plaza de Toros de Bogotá</negrita>. Aquellos actos
+fueron interpretados por las élites conservadoras y liberales como
+autoritarios y dictatoriales. Aunque Rojas llegó al poder con el beneplácito
+de aquellas élites, estas mismas se encargaron de ponerle fin a su
+gobierno el 10 de mayo de 1957. Ese día se hizo efectivo el <negrita
+>Pacto de Benidorm</negrita>, acordado por los expresidentes <negrita
+>Alberto Lleras</negrita> y <negrita>Laureano Gómez</negrita>.</p>
+<p>Se nombró una junta militar encabezada por el <negrita>general
+Gabriel París</negrita>. Esta junta estuvo en el gobierno hasta el <negrita
+>7 de agosto de 1958</negrita>, año en que se celebraron elecciones
+para darle paso al primer presidente de una coalición política entre
+liberales y conservadores, que se llamó el <negrita>Frente Nacional</negrita
+><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=6782335&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso190&amp;IdRecurso=RES-D5609C22B2954D36BDD9A67B65F86CG2"
+>La amnistía del general Rojas Pinilla</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso200&amp;IdRecurso=RES-D5609C22B2954D36BDD9A67B65F85BF1"
+>Los gobiernos militares</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso220&amp;IdRecurso=RES-2F275CD1CC5542318B01F3C0A8B00653"
+>Colombia en la primera mitad del siglo XX</enlace>
+</practica><seccion2
+id="S2_CS_09_04_CO_DFDAEECE508B41BABF1115125A6B5D45">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso230&amp;IdRecurso=RES-0E54A132B3E04F9EBF9D8ACBDE7E5CEC"
+>Refuerza tu aprendizaje: La dictadura militar de Gustavo Rojas Pinilla
+(1953-1957)</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_04_CO_0B693CD151954EA5816951FB7E086FB6">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso240&amp;IdRecurso=RES-5411D57C5D8F4E2C9A8776593FBB6403"
+>Competencia: Colombia en la primera mitad del siglo XX</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso250&amp;IdRecurso=RES-C7C49617D70446E8987029995FEE1D16"
+>Proyecto: El bipartidismo en Colombia</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_09_04_CO_CEFBA47744434FB290F0708C4A7164AD"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso270&amp;IdRecurso=RES-82D2D537CA6A4FAF8F59FA748EC256B1"
+>Mapa Conceptual del tema Colombia en la primera mitad del siglo XX</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso280&amp;IdRecurso=RES-25DD0F76BB0E4F36A4F62053A77CBEA3"
+>Evalúa tus conocimientos sobre el tema Colombia en la primera mitad
+del siglo XX</enlace></autoevaluate><enlacesreferencia>
+<enlace
+destino="http://www.elespectador.com/noticias/nacional/60-anos-de-una-tragedia-estudiantil-articulo-497368"
+>El periódico <cursiva>El Espectador</cursiva> explica los sucesos
+del 8 y 9 de junio de 1954, durante el gobierno del general Rojas
+Pinilla.</enlace>
+<enlace
+destino="http://centromemoria.gov.co/guadalupe-salcedo-unda-sin-olvido/"
+>Sitio del Centro de Memoria, paz y reconciliación hace un recuento
+sobre Guadalupe Salcedo y la firma de amnistía con guerrilleros durante
+el gobierno del general Rojas Pinilla.</enlace>
+<enlace
+destino="http://www.banrepcultural.org/blaavirtual/revistas/credencial/octubre2005/masacre.htm"
+>Sitio web que presenta los pormenores de la masacre de las bananeras.</enlace>
+</enlacesreferencia></masinformacion></libro>
