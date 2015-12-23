@@ -2,7 +2,6 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub EntList lt?>
 <libro id="CS_07_03_CO">
 <libroTitulo>Los inicios de la Edad Moderna</libroTitulo>
 <seccion1 id="S1_CS_07_03_CO_CB565E67354A4D1F9AB2F5B2469FD1F8">
@@ -31,13 +30,13 @@ una fiscalidad más perfecta y ejércitos permanentes.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso010&amp;IdRecurso=RES-F78C68069D1F4B95B538A532F0BB5DDB"
 >El nacimiento de los Estados modernos</enlace>
-</profundiza><seccion2
-id="S2_CS_07_03_CO_109004696D074513A18B1EE6D18C66EA">
+</profundiza>
+<seccion2 id="S2_CS_07_03_CO_109004696D074513A18B1EE6D18C66EA">
 <seccion2Titulo>La unificación de Francia</seccion2Titulo>
 <seccion2Texto>
 <p><negrita>Luis VII (1137-1180)</negrita> a través de un proceso
 de <negrita>conquistas</negrita> y de matrimonios arreglados comenzó
- a buscar la <negrita>unificación</negrita> y la <negrita>centralización</negrita
+a buscar la <negrita>unificación</negrita> y la <negrita>centralización</negrita
 > de las ciudades del territorio francés. Una de sus primeras acciones
 fue casar a uno de los suyos con un noble de la casa real inglesa
 de los Plantagenet, con el fin de recuperar las tierras que los ingleses
@@ -54,7 +53,7 @@ en la que se enfrentaron ingleses y franceses, aunque también se vieron
 involucrados otros territorios. Uno de los episodios más destacados
 de este conflicto fue la batalla de Crécy (1346), en la que <negrita
 >Eduardo III de Inglaterra</negrita> se impuso a las tropas de <negrita
->Felipe VI de Francia</negrita>. </p>
+>Felipe VI de Francia</negrita>.</p>
 </imagen>
 <p>En el siglo XII aún había tierras en el sureste francés que estaban
 bajo el dominio de gobernantes ingleses, de tal modo que los franceses
@@ -75,9 +74,9 @@ sur y, de ese modo, tomarse todo el territorio francés, una campesina
 de 19 años, <negrita>Juana de Arco</negrita>, dirigió al ejército
 francés y logró liberar Orleans, lo cual hizo que el pueblo recuperara
 la confianza en su rey <negrita>Carlos VII</negrita>; no obstante,
-aún quedaban muchos años de guerra<enlace
-destino="http://www.nationalgeographic.com.es/articulo/historia/actualidad/8318/juana_arco_fue_cond enada_hoguera.html"
-> [VER]</enlace>.</p>
+aún quedaban muchos años de guerra <enlace
+destino="http://www.nationalgeographic.com.es/articulo/historia/actualidad/8318/juana_arco_fue_condenada_hoguera.html"
+>[VER]</enlace>.</p>
 <p>Solo hasta <negrita>1453</negrita> los franceses recuperaron todos
 sus territorios. Esta victoria hizo que se fortaleciera la monarquía
 y que Francia se consolidara como Estado.</p>
@@ -95,8 +94,8 @@ d’Arc, Orleans, Francia).</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso030&amp;IdRecurso=RES-AE6958CFBCD04AEFB67F9793D44A1182"
 >La guerra de los Cien Años</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
-id="S2_CS_07_03_CO_EC27929CC7684D65AD62EE08C4453ABD">
+</profundiza></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_03_CO_EC27929CC7684D65AD62EE08C4453ABD">
 <seccion2Titulo>La unificación de Inglaterra</seccion2Titulo>
 <seccion2Texto>
 <p>En <negrita>1066</negrita> los <negrita>normandos</negrita>, dirigidos
@@ -119,16 +118,16 @@ Bayeux, Francia).</p>
 de la Corona, y el rey <negrita>Juan sin Tierra</negrita>, fue obligado
 a aceptar la <cursiva>Magna Charta Libertatum</cursiva> (Gran carta
 de la libertad), que garantiza la seguridad jurídica para que ninguna
-persona sea enjuiciada solo por voluntad de la monarquía<enlace
+persona sea enjuiciada solo por voluntad de la monarquía <enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=120460&amp;ruta=Buscador"
-> [VER]</enlace>.</p>
+>[VER]</enlace>.</p>
 <p>Este documento reducía, de manera precisa, los poderes del rey;
 por ejemplo, el monarca debía evitar aumentar los impuestos o crear
 más impuestos, a menos que tuviese la autorización del <negrita>Consejo
 General del Reino</negrita>, que era una especie de <negrita>parlamento</negrita
 > formado por los nobles, los clérigos y por los representantes de
-los condados y ciudades<enlace
-destino="http://biblio.juridicas.unam.mx/libros/6/2698/17.pdf"> [VER]</enlace
+los condados y ciudades <enlace
+destino="http://biblio.juridicas.unam.mx/libros/6/2698/17.pdf">[VER]</enlace
 >.</p>
 <p>Después del siglo XIII este parlamento se dividió en dos cámaras:
 la <negrita>Cámara de los Lores</negrita>, formada por la alta nobleza
@@ -151,9 +150,7 @@ llevó a Inglaterra a una <negrita>nueva guerra interna</negrita> por
 el poder: la <negrita>guerra de las Dos Rosas (1455-1485)</negrita
 >, que enfrentó a dos familias nobles: la <negrita>dinastía de los
 Lancaster</negrita>, cuyo símbolo era una rosa roja, y la <negrita
->dinastía de los York</negrita>, cuyo símbolo era una rosa blanca <enlace
-destino="https://www.youtube.com/embed/XMcXJZj7Ykk">[VER]</enlace
->.</p>
+>dinastía de los York</negrita>, cuyo símbolo era una rosa blanca <enlace destino="https://www.youtube.com/embed/XMcXJZj7Ykk">[VER]</enlace>.</p>
 <p>La guerra causó la muerte de muchos nobles, lo que con el tiempo
 favoreció a la monarquía. Esta confrontación terminó cuando se coronó
 rey a <negrita>Enrique VII Tudor</negrita>, quien no solo era un descendiente
@@ -168,8 +165,8 @@ para evitar que Francia se inmiscuyera en los asuntos de su reino;
 además estableció vínculos con otras monarquías fuertes, al promover
 arreglos matrimoniales para sus hijos. Un ejemplo de ello fue el matrimonio
 de Enrique VIII con Catalina de Aragón.</p>
-</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
-id="S2_CS_07_03_CO_9154C56079884EA5B03CC51C7C250AAF">
+</recuerdaTexto></recuerda></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_03_CO_9154C56079884EA5B03CC51C7C250AAF">
 <seccion2Titulo>La unificación de España</seccion2Titulo>
 <seccion2Texto>
 <p>La consolidación de la monarquía española estuvo estrechamente
@@ -202,8 +199,8 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso050&amp;IdRecurso=RES-A6772A
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso060&amp;IdRecurso=RES-F4A8BC1CF3F54626BE3AA09DD648F258"
 >¿Cómo llegan Isabel y Fernando al trono de Castilla?</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
-id="S2_CS_07_03_CO_5D718A493DB041538AA971286CA8B787">
+</profundiza></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_03_CO_5D718A493DB041538AA971286CA8B787">
 <seccion2Titulo>Italia, un caso particular</seccion2Titulo>
 <seccion2Texto>
 <p>Mientras en Inglaterra, Francia y España se daba un proceso de
@@ -252,8 +249,8 @@ la práctica los señores fueron transformándose en pequeños reyes y
 los ciudadanos en sus <negrita>súbditos</negrita>. Para la mitad del
 siglo XV la Península Itálica estaba dividida en diferentes <negrita
 >Estados regionales</negrita>.</p>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_07_03_CO_5D718A493DB041538AA971286CA8C268">
+</seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_03_CO_5D718A493DB041538AA971286CA8C268">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
@@ -271,7 +268,7 @@ en crisis tanto en el ámbito económico y político como en el demográfico.</p
 para alimentar a una población cada vez más numeros que crecía. Por
 mucho tiempo sus técnicas de cultivo no se habían modificado y le
 era imposible afrontar los cambios climáticos que por varios años
- habían golpeado al continente, lo que acabó con grandes extensiones
+habían golpeado al continente, lo que acabó con grandes extensiones
 de cultivos.</p>
 <p>La significativa disminución de cosechas, durante varios años continuos,
 hizo que los pocos productos que se hallaban en los mercados fuesen
@@ -292,7 +289,7 @@ abriéndose paso hacia una <negrita>economía moderna</negrita>, es
 decir, a una economía en la que el comercio dejó de estar limitado
 por las fronteras europeas para salir en busca de productos no europeos,
 como las <negrita>especias</negrita>, que en este momento eran indispensables <enlace
-destino="http://www.artehistoria.com/v2/contextos/1668.htm"> [VER]</enlace
+destino="http://www.artehistoria.com/v2/contextos/1668.htm">[VER]</enlace
 >.</p>
 <p>Pero también una economía que tendía hacia un <negrita>capitalismo
 comercial</negrita>, esto es, acumular <negrita>capitales</negrita
@@ -314,10 +311,9 @@ llevaban las mercancías hasta los puertos del <negrita>mar Mediterráneo</negri
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso080&amp;IdRecurso=RES-E00B2EBD7FA24EC89E8E98DC5C268BDE"
->Cambios sociales, económicos y políticos en el inicio de la historia
-moderna: siglo XIV y XV</enlace>
-</profundiza><seccion2
-id="S2_CS_07_03_CO_FA472ABD92F842469C0D580A6CE01D62">
+>Cambios sociales, económicos y políticos en el inicio de la historia moderna: siglo XIV y XV</enlace>
+</profundiza>
+<seccion2 id="S2_CS_07_03_CO_FA472ABD92F842469C0D580A6CE01D62">
 <seccion2Titulo>Portugal, en busca de nuevas rutas comerciales</seccion2Titulo>
 <seccion2Texto>
 <p>Entre el siglo <negrita>XIV</negrita> y el siglo <negrita>XV</negrita
@@ -359,9 +355,8 @@ Europa hacia áfrica noroccidental.</p>
 ruta pasaba por el <negrita>estrecho de Gibraltar</negrita> y seguía
 hasta <negrita>Brujas</negrita> (Bélgica) y <negrita>Londres</negrita
 >, haciendo paradas en <negrita>Lisboa</negrita> (Portugal), <negrita
->Vigo</negrita> (España) y en la costa <negrita>atlántica francesa</negrita
-><enlace destino="http://www.artehistoria.com/v2/contextos/1151.htm"
-> [VER]</enlace>.</p>
+>Vigo</negrita> (España) y en la costa <negrita>atlántica francesa</negrita> <enlace destino="http://www.artehistoria.com/v2/contextos/1151.htm"
+>[VER]</enlace>.</p>
 <p>Gran parte de esta <negrita>ruta</negrita> se hacía a <negrita
 >mar abierto</negrita>, lo que hizo que los <negrita>navegantes</negrita
 > de los barcos comerciales fueran <negrita>conociendo</negrita> y
@@ -370,8 +365,8 @@ en dirección hacia Bélgica y Londres, pero también hacia <negrita
 >áfrica noroccidental</negrita>. Esta ruta fue abandonada por los
 comerciantes y marinos, al punto que hacia la mitad del siglo XIV
 se la consideraba peligrosa.</p>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_07_03_CO_5D718A493DB041538AA971286CA8A159">
+</seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_03_CO_5D718A493DB041538AA971286CA8A159">
 <seccion2Titulo>Portugal, en búsqueda de nuevas rutas comerciales</seccion2Titulo>
 <seccion2Texto>
 <p>A finales del <negrita>siglo XIV</negrita> Portugal era uno de
@@ -394,9 +389,9 @@ el poder del modelo feudal, la <negrita>burguesía mercantil</negrita
 Norte, organizó un levantamiento antifeudal (1383-1385). <negrita
 >Juan I de Portugal</negrita>, con la ayuda de esa burguesía, creó
 una nueva casa de gobierno (dinastía de Avís) que excluyó a los poderes
-políticos feudales (1385-1433)<enlace
+políticos feudales (1385-1433) <enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=50898&amp;ruta=Buscador"
-> [VER]</enlace>.</p>
+>[VER]</enlace>.</p>
 <p>Una de las primeras medidas que tomó Juan I ‘el Grande’ fue entrar
 en <negrita>guerra</negrita> contra <negrita>Marruecos</negrita>.
 El propósito de esta no era abrirse paso en la exploración del Atlántico,
@@ -412,8 +407,8 @@ segundo hijo de Juan I, el príncipe Enrique, conocido por los historiadores
 como Enrique <negrita>‘el Navegante’</negrita> , fue quien <negrita
 >organizó</negrita> las <negrita>expediciones</negrita> a las <negrita
 >costas occidentales de áfrica</negrita>, cuya motivación era esencialmente
-económica<enlace destino="https://www.youtube.com/embed/69DjhMhQm6M"
-> [VER]</enlace>.</p>
+económica <enlace destino="https://www.youtube.com/embed/69DjhMhQm6M"
+>[VER]</enlace>.</p>
 <imagen ampliable="no" src="CS_07_03_CO_IMG12_small.jpg">
 <p>(Político de San Vicente. Detalle con Enrique ‘el Navegante’ y
 el príncipe Juan.Museo Nacional de Arte Antiguo, Lisboa, Portugal).
@@ -447,8 +442,8 @@ de caña de azúcar en Madeira (cultivo que los portugueses habían introducido
 en el archipiélago y que llegó a producir 80 toneladas de azúcar a
 mediados del siglo XV, cantidad que con el tiempo aumentó); la mano
 de obra de esta naciente economía de plantaciones dependía del trabajo
-de esclavos negros<enlace destino="http://www.mgar.net/var/por_escl.htm"
-> [VER]</enlace>.</p>
+de esclavos negros <enlace destino="http://www.mgar.net/var/por_escl.htm"
+>[VER]</enlace>.</p>
 <p>Considerando los riesgos que suponían estos viajes, pero también
 las ganancias que dejaban a la Corona portuguesa, uno de los principios
 básicos de estas exploraciones por las costas africanas era la de
@@ -478,9 +473,9 @@ del Níger</negrita> y en 1475 van más allá de la línea del ecuador.</p>
 que en cierto momento las flotas portuguesas se toparon con el <negrita
 >océano Índico</negrita>, y a partir de esa fecha su mayor objetivo
 fue llegar a los <negrita>mercados de especias</negrita> en Asia,
-para quitarle el control a los venecianos<enlace
+para quitarle el control a los venecianos <enlace
 destino="http://olmo.pntic.mec.es/jtac0001/historia/exploradores/india.htm"
-> [VER]</enlace>.</p>
+>[VER]</enlace>.</p>
 <imagen ampliable="no" src="CS_07_03_CO_IMG15_small.jpg">
 <p>Navegación transoceánica</p>
 </imagen>
@@ -498,8 +493,8 @@ circunnavegado hacia 1458 por el explorador portugués Bartolomé Díaz.
 El nombre de este cabo se debe a la esperanza que sentían los exploradores
 de poder continuar su viaje, una vez habían llegado allí.</p>
 </imagen>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_07_03_CO_E6FF555838CE429B81F1301683F77FDD">
+</seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_03_CO_E6FF555838CE429B81F1301683F77FDD">
 <seccion2Titulo>Los cambios en España</seccion2Titulo>
 <seccion2Texto>
 <p>Mientras Portugal en el siglo XV se había fundado bajo un poder
@@ -538,8 +533,8 @@ se dio en 1492, cuando aquellas prioridades fueron resueltas.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso110&amp;IdRecurso=RES-5229B26E65CE4E24A024452CE1A80B46"
 >El contexto español hacia 1492</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
-id="S2_CS_07_03_CO_5D718A493DB041538AA971286CA8G864">
+</profundiza></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_03_CO_5D718A493DB041538AA971286CA8G864">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
@@ -557,9 +552,9 @@ y los incentivos para comenzar su expansión más allá de sus <negrita
 >contar</negrita> o <negrita>perfeccionar</negrita> algunas herramientas
 del <negrita>capitalismo comercial</negrita> que los genoveses habían
 creado, así como ciertos <negrita>instrumentos</negrita> y medios
-de <negrita>navegación</negrita> que le permitieran hacer largos viajes<enlace
+de <negrita>navegación</negrita> que le permitieran hacer largos viajes <enlace
 destino="http://www.cervantesvirtual.com/obra-visor-din/la-ciencia-y-la-tecnica-en-el-descubrimiento-de-america--0/html/ff8cdf10-82b1-11df-acc7-002185ce6064_4.html"
-> [VER]</enlace>.</p>
+>[VER]</enlace>.</p>
 <seccion2 id="S2_CS_07_03_CO_E63B20F917494101A38F286B6B065B68">
 <seccion2Titulo>Las herramientas del capitalismo comercial</seccion2Titulo>
 <seccion2Texto>
@@ -569,8 +564,8 @@ consigo grandes sumas de dinero para hacer sus transacciones, lo cual
 no era seguro.</p>
 <p>Los italianos inventaron formas para no llevar el dinero en físico,
 solo viajan los comerciantes con algún documento de uno de los bancos
-de Génova o Florencia<enlace
-destino="https://www.youtube.com/embed/KWOaP17JFEQ "> [VER]</enlace
+de Génova o Florencia <enlace
+destino="https://www.youtube.com/embed/KWOaP17JFEQ">[VER]</enlace
 >.</p>
 <imagen src="CS_07_03_CO_IMG18_small.jpg">
 <p>La importancia política de los Médicis tuvo su origen en el poder
@@ -598,8 +593,8 @@ invertido. Este tipo de sociedad fue la que se <negrita>empleó</negrita
 > de las <negrita>expediciones</negrita>, así que una vez <negrita
 >volvían</negrita> los <negrita>barcos</negrita> al puerto de donde
 había partido, la sociedad se <negrita>deshacía</negrita>.</p>
-</seccion3Texto></seccion3><seccion3
-id="S3_CS_07_03_CO_A499C05C48864800B146F87ACEE7CB26">
+</seccion3Texto></seccion3>
+<seccion3 id="S3_CS_07_03_CO_A499C05C48864800B146F87ACEE7CB26">
 <seccion3Titulo>Los préstamos a riesgo de mar</seccion3Titulo>
 <seccion3Texto>
 <p>Los responsables de las <negrita>expediciones</negrita> podían
@@ -617,8 +612,8 @@ plata).</p>
 <p>Ahora bien, el término “papel moneda” no hace referencia únicamente
 a los billetes, sino a todo documento que tenga un valor fiduciario
 reconocido, y ese era el caso de las letras de cambio.</p>
-</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
-id="S3_CS_07_03_CO_A499C05C48864800B146F87ACEE7DF23">
+</recuerdaTexto></recuerda></seccion3Texto></seccion3>
+<seccion3 id="S3_CS_07_03_CO_A499C05C48864800B146F87ACEE7DF23">
 <seccion3Titulo>Las letras de cambio</seccion3Titulo>
 <seccion3Texto>
 <p>Las letras de cambio también fueron indispensables en el proceso
@@ -698,8 +693,8 @@ tres mástiles (uno en popa, otro en el centro y uno más en proa) con
 velas cuadradas en el centro y en la proa, y una vela latina en la
 popa, con la que podían desarrollar una <negrita>velocidad media</negrita
 >.</p>
-</seccion3Texto></seccion3><seccion3
-id="S3_CS_07_03_CO_A499C05C48864800B146F87ACEE7AE45">
+</seccion3Texto></seccion3>
+<seccion3 id="S3_CS_07_03_CO_A499C05C48864800B146F87ACEE7AE45">
 <seccion3Titulo>Los instrumentos de navegación</seccion3Titulo>
 <seccion3Texto>
 <p>En el siglo XV los únicos puntos de referencia para navegar en
@@ -707,9 +702,9 @@ alta mar eran el sol y las estrellas, lo que llevó a <negrita>perfeccionar
 algunos instrumentos para la navegación</negrita>, como el <negrita
 >astrolabio</negrita>, el <negrita>cuadrante</negrita> y la <negrita
 >brújula</negrita>. Estos avances tecnológicos permitieron que las
-cartas náuticas se elaboraran con mayor precisión<enlace
+cartas náuticas se elaboraran con mayor precisión <enlace
 destino="http://www.librosmaravillosos.com/historiadelanavegacion/capitulo03.html"
-> [VER]</enlace>.</p>
+>[VER]</enlace>.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso140&amp;IdRecurso=RES-9742739E358C4869A2A9C5F574D4E2CF"
@@ -720,16 +715,15 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso140&amp;IdRecurso=RES-974273
 de las estrellas en el cielo, lo cual era muy importante para aquellos
 marinos del siglo XV que se arriesgaban a navegar mar adentro.</p>
 </imagen>
-</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
-id="S2_CS_07_03_CO_5D718A493DB041538AA971286CA8D217">
+</seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_03_CO_5D718A493DB041538AA971286CA8D217">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso150&amp;IdRecurso=RES-997FC28279FF47B3969FD929F492408B"
->Refuerza tu aprendizaje: Los avances en la economía y en las técnicas
-de navegación</enlace>
+>Refuerza tu aprendizaje: Los avances en la economía y en las técnicas de navegación</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_07_03_CO_1C39D9903D864637A95D085387680603">
 <seccion1Titulo>El Descubrimiento de América</seccion1Titulo>
@@ -745,16 +739,16 @@ que se había vuelto importante para los <negrita>comerciantes</negrita
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso160&amp;IdRecurso=RES-1DAAC3BD56FC4A1784B6336C486B3226"
 >La importancia del Descubrimiento de América</enlace>
-</profundiza><seccion2
-id="S2_CS_07_03_CO_D04DB19A2369465A849474DA89672731">
+</profundiza>
+<seccion2 id="S2_CS_07_03_CO_D04DB19A2369465A849474DA89672731">
 <seccion2Titulo>La expedición de Colón</seccion2Titulo>
 <seccion2Texto>
 <p>Los portugueses llegaron a India después de llevar más y más lejos
 su circunnavegación de las costas africanas, hasta encontrarse con
 el  oceáno Índico, con lo cual su objetivo se amplió: alcanzar los
-mercados de especias de la India<enlace
+mercados de especias de la India <enlace
 destino="http://olmo.pntic.mec.es/jtac0001/historia/exploradores/portugaluno.htm"
-> [VER]</enlace>. </p>
+>[VER]</enlace>. </p>
 <imagen ampliable="no" src="CS_07_03_CO_IMG22_small.jpg">
 <p>Cristóbal Colón (1451-1506) vivió durante diez años en Portugal.
 Allí se convirtió en un experto marino y amplió sus conocimientos
@@ -784,12 +778,11 @@ puerto de Palos, tenían un especial interés en la navegación marítima.</p>
 tuvo que esperar una década hasta cuando la reina Isabel de Castilla
 accedió apoyarlo <enlace
 destino="http://www.nationalgeographic.com.es/articulo/historia/actualidad/8162/los_reyes_catolicos_reciben_cristobal_colon.html"
-> [VER]</enlace>.</p>
+>[VER]</enlace>.</p>
 <p>Después de una negociación larga, Cristóbal Colón firmó con la
 Corona las <negrita>Capitulaciones de Santa Fe</negrita>, que eran
-un tipo de contrato entre la Corona y Cristóbal Colón<enlace
-destino="http://www.banrepcultural.org/node/32724"> [VER]</enlace
->.</p>
+un tipo de contrato entre la Corona y Cristóbal Colón <enlace
+destino="http://www.banrepcultural.org/node/32724">[VER]</enlace>.</p>
 <p>El contenido de las Capitulaciones se desarrolló en la <negrita
 >Carta de Privilegios</negrita>, en ella se estipuló que Cristóbal
 Colón a partir de ese momento era <negrita>Almirante de la mar Oceána</negrita
@@ -833,14 +826,13 @@ primer viaje de Colón.</p>
 tercer barco, concretamente una nao, <negrita>La Santa María</negrita
 >, la embarcación que capitaneó Cristóbal Colón. Para 1486 Isabel
 de Castilla y Fernando de Aragón se casaron; con ello sus reinos se
-unieron y el <negrita>cristianismo</negrita> se consolidó en la Península<enlace
+unieron y el <negrita>cristianismo</negrita> se consolidó en la Península <enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=10&amp;ruta=Buscador"
-> [VER]</enlace>.</p>
+>[VER]</enlace>.</p>
 <p>Igualmente los <negrita>pequeños reinos</negrita>, que impidieron
 la unificación de la Península, dejaron de existir, lo que contribuyó
 al dominio de los <negrita>musulmanes</negrita> en la región. En esas
-fechas se desarrolló la guerra contra los musulmanes en <negrita>Granada</negrita
->.  </p>
+fechas se desarrolló la guerra contra los musulmanes en <negrita>Granada</negrita>.</p>
 <p>La <negrita>Reconquista</negrita> había hecho que las arcas de
 la Corona estuviesen muy mermadas, por lo que a los reyes les era
 imposible financiar los costos de la expedición de Cristóbal Colón,
@@ -878,7 +870,7 @@ América</negrita>.</p>
 <p>La Pinta y La Niña comenzaron su regreso a España el 6 de enero
 de 1493 <enlace
 destino="http://www.banrepcultural.org/blaavirtual/literatura/hicon/hicon6.htm"
-> [VER]</enlace>.</p>
+>[VER]</enlace>.</p>
 <p><negrita>Segundo viaje (25 de septiembre de 1493 - 11 de junio
 de 1496)</negrita></p>
 <p>El segundo viaje tenía dos objetivos: <negrita>descubrir</negrita
@@ -967,7 +959,7 @@ estaban en La Española. La razón, la ambición por hacerse ricos y
 no lograrlo con la rapidez que esperaban ni en las cantidades que
 imaginaban; la disciplina inflexible que había impuesto <negrita>Bartolomé
 Colón</negrita> (hermano de Cristóbal Colón) en la isla <enlace
-destino="http://www.cervantesvirtual.com/bib/portal/exploradores/pcuartonivel2309.html?conten=expl oradores&amp;pagina=viajeros2_bartolomecolon.jsp&amp;tit3=1494,+Bartolom%E9+Col%F3n"
+destino="http://www.cervantesvirtual.com/bib/portal/exploradores/pcuartonivel2309.html?conten=exploradores&amp;pagina=viajeros2_bartolomecolon.jsp&amp;tit3=1494,+Bartolom%E9+Col%F3n"
 >[VER]</enlace>; y la dificultad que les suponía vivir en un clima
 tropical. La respuesta de Colón fue ahorcar a los líderes, hecho que
 en lugar de apaciguar los ánimos, exaltó aún más a los insubordinados.</p>
@@ -991,8 +983,8 @@ envió a <negrita>Francisco Bobadilla</negrita> para <negrita>remover</negrita
 de <negrita>gobernador</negrita>. Remoción a la que el <negrita>genovés</negrita
 > se opuso y fue entonces <negrita>apresado</negrita> y enviado a
 España <enlace
-destino="http://www.cervantesvirtual.com/bib/portal/exploradores/pcuartonivel81dd.html?conten=expl oradores&amp;pagina=viajeros2_bobadilla.jsp&amp;tit3=1500¬1502,+Francisco+de+Bobadilla"
-> [VER]</enlace>. </p>
+destino="http://www.cervantesvirtual.com/bib/portal/exploradores/pcuartonivel81dd.html?conten=exploradores&amp;pagina=viajeros2_bobadilla.jsp&amp;tit3=1500¬1502,+Francisco+de+Bobadilla"
+>[VER]</enlace>. </p>
 <p><negrita>Cuarto viaje (11 de mayo de 1502 - 7 de noviembre de 1504)</negrita
 ></p>
 <p>La Corona, en consideración a los <negrita>servicios prestados</negrita
@@ -1042,23 +1034,23 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso200&amp;IdRecurso=RES-5A5CEC
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-</seccion2Texto></seccion2></seccion1Texto></seccion1><seccion1
-id="S1_CS_07_03_CO_598F632E01CE4941AF7285A79CFBE7BE">
+</seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_03_CO_598F632E01CE4941AF7285A79CFBE7BE">
 <seccion1Titulo>La Conquista de América</seccion1Titulo>
 <seccion1Texto>
 <p>Cuando se habla de Conquista el término hace referencia a la posesión
 de los territorios descubiertos de manera violenta. Un proceso histórico
 que cambió para siempre al continente americano, pero también al europeo,
 respecto a como eran antes de que Cristóbal Colón arribara al mar
-Caribe<enlace
+Caribe <enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=559911&amp;ruta=Buscador"
-> [VER]</enlace>.</p>
+>[VER]</enlace>.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso210&amp;IdRecurso=RES-9A06AE9476EB4E1087D2A9EF9F8248BF"
 >Los conquistadores del altiplano muisca</enlace>
-</practica><seccion2
-id="S2_CS_07_03_CO_10688AAF058346968FB6CC42543412FA">
+</practica>
+<seccion2 id="S2_CS_07_03_CO_10688AAF058346968FB6CC42543412FA">
 <seccion2Titulo>La Conquista española</seccion2Titulo>
 <seccion2Texto>
 <p>La Conquista española tiene dos momentos.</p>
@@ -1238,17 +1230,17 @@ de la Nueva España (Biblioteca Nacional, Madrid, España).</p>
 varias oportunidades se habían aliado a Cortés contra el Imperio–
 y del apoyo que recibieron desde las <negrita>Antillas</negrita>,
 los españoles sitiaron a <negrita>Tenochitlan</negrita>, entrando
-a la ciudad por el lago<enlace
+a la ciudad por el lago <enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=8733&amp;ruta=Buscador"
-> [VER]</enlace>. Con el paso de los días y de las semanas,  Cortés
+>[VER]</enlace>. Con el paso de los días y de las semanas,  Cortés
 fue ocupando sin hallar resistencia todo el Imperio, que desde ese
 momento pasó a llamarse <negrita>Nueva España</negrita>.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso260&amp;IdRecurso=RES-64BC714316364C86881A4D8F662A6996"
 >Hernán Cortés y la Noche Triste</enlace>
-</profundiza></seccion3Texto></seccion3><seccion3
-id="S3_CS_07_03_CO_932F6D3884304DF9818BF099E864729B">
+</profundiza></seccion3Texto></seccion3>
+<seccion3 id="S3_CS_07_03_CO_932F6D3884304DF9818BF099E864729B">
 <seccion3Titulo>La Conquista de Perú</seccion3Titulo>
 <seccion3Texto>
 <p>El contexto político de los <negrita>incas</negrita> no era fácil
@@ -1258,7 +1250,7 @@ lucha por el poder, lo que llevó al Imperio a entrar en una <negrita
 >guerra interna</negrita> que lo debilitó. En 1532 <negrita>Atahualpa</negrita
 > derrotó a <negrita>Huascar</negrita> y mandó a ejecutarlo <enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=8363&amp;ruta=Buscador"
-> [VER]</enlace>.</p>
+>[VER]</enlace>.</p>
 <p>Mientras esta era la situación política del Imperio, <negrita>Gonzalo
 Pizarro</negrita> en 1529 obtuvo una capitulación para emprender la
 Conquista del Imperio del que había tenido noticia años antes. En <negrita
@@ -1295,36 +1287,35 @@ momento, <negrita>Tupac Amarú</negrita>, llegando a su fin el Imperio.</p>
 <p>Atahualpa junto a Pizarro en un grabado de la Nueva Crónica y Buen
 Gobierno, de Felipe Huamán Poma de Ayala.</p>
 </imagen>
-</seccion3Texto></seccion3><seccion3
-id="S3_CS_07_03_CO_18B9A061184F487289DA4DAF801D2B03">
+</seccion3Texto></seccion3>
+<seccion3 id="S3_CS_07_03_CO_18B9A061184F487289DA4DAF801D2B03">
 <seccion3Titulo>La Conquista de Colombia</seccion3Titulo>
 <seccion3Texto>
 <p>Los historiadores cuando presentan el proceso de Conquista del
 actual territorio de <negrita>Colombia</negrita>, suelen hablar de
 las <negrita>exploraciones</negrita> de la costa norte, del occidente,
-del oriente y del centro del territorio<enlace
+del oriente y del centro del territorio <enlace
 destino="http://www.banrepcultural.org/blaavirtual/revistas/credencial/agosto1993/agosto1.htm"
-> [VER]</enlace>. Exploraciones que, obviamente, comenzaron en las
+>[VER]</enlace>. Exploraciones que, obviamente, comenzaron en las
 costas del <negrita>Caribe</negrita> y a las cuales se les denomina <negrita
 >“cabalgas”</negrita>, porque su único cometido era hallar <negrita
 >metales preciosos</negrita> y hacerse de <negrita>esclavos indígenas</negrita
 >. No hubo viajes al interior del territorio porque no les interesaba <enlace
 destino="http://www.banrepcultural.org/blaavirtual/revistas/credencial/marzo1992/marzo3.htm "
-> [VER]</enlace>. </p>
+>[VER]</enlace>. </p>
 <p>Estas primeras <negrita>campañas</negrita> ocurren entre <negrita
 >1498</negrita> y <negrita>1524</negrita>, y los exploradores fueron: <negrita
 >Rodrigo de Bastidas</negrita> (1501), quien recorrió la costa desde
 el <negrita>cabo de la Vela</negrita> hasta el golfo de <negrita>Urabá</negrita
-> y descubrió la desembocadura del río <negrita>Magdalena</negrita
-> <enlace
+> y descubrió la desembocadura del río <negrita>Magdalena</negrita> <enlace
 destino="http://www.banrepcultural.org/blaavirtual/revistas/credencial/julio-2013/primeras-incursiones-rio-magdalena"
-> [VER]</enlace>; <negrita>Alonso de Ojeda</negrita> (1509), quien
+>[VER]</enlace>; <negrita>Alonso de Ojeda</negrita> (1509), quien
 llegó a <negrita>Urabá</negrita> y fundó el primer poblado en tierra
 firme, <negrita>San Sebastián de Uraba</negrita>́; y <negrita>Vasco
 Núñez de Balboa</negrita> (1510), quien fundó Santa María la Antigua
 del Darién y descubrió el <negrita>océano Pacífico</negrita> (1513) <enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=100488&amp;ruta=Buscador"
-> [VER]</enlace>.</p>
+>[VER]</enlace>.</p>
 <imagen src="CS_07_03_CO_IMG37_small.jpg">
 <p>Martín Fernández de Enciso y Vasco Núñez de Balboa en 1510 fundaron
 el primer poblado en la América continental y le dieron el nombre
@@ -1338,7 +1329,7 @@ interior de la costa Caribe y <negrita>fundar</negrita> ciudades.
 Fueron fundadas Santa Marta (Rodrigo de Bastidas 1525) y Cartagena
 (Pedro de Heredia 1532) <enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=95857&amp;ruta=Buscador"
-> [VER]</enlace>.</p>
+>[VER]</enlace>.</p>
 <p>Los viajes hacia el occidente tuvieron que ver, en realidad, con
 la búsqueda del camino que los llevara hacia el <negrita>Imperio inca</negrita
 >, pero también con la fascinación por la <negrita>leyenda del dorado</negrita
@@ -1365,7 +1356,7 @@ de explorar el interior del territorio que formaba la <negrita>gobernación</neg
 > de <negrita>Santa Marta</negrita>, viaje que lo llevó hasta los
 territorios de los <negrita>muiscas</negrita> en la actual región <negrita
 >cundiboyasense</negrita>, y funda<negrita> Santafé de Bogotá </negrita
->́(6 de agosto de 1538).</p><?Pub Caret 379?>
+>́(6 de agosto de 1538).</p>
 <imagen ampliable="no" src="CS_07_03_CO_IMG39_small.jpg">
 <p>Gonzalo Jiménez de Quesada.</p>
 </imagen>
@@ -1408,8 +1399,7 @@ las riquezas que buscaba, no obstante, hizo un segundo viaje en <negrita
 >1498</negrita>. Durante este parece que llegó hasta la actual <negrita
 >Nueva Inglaterra</negrita> (región al noroeste de Estados Unidos),
 donde encontró magníficos bosques, pero nada de lo que le hubiese
-gustado hallar, y no pudo intentar otro viaje porque murió ese año.
- </p>
+gustado hallar, y no pudo intentar otro viaje porque murió ese año.</p>
 <p>Ante la falta de resultados el rey Enrique VII dejó de interesarse
 en la idea de una <negrita>ruta hacia el oriente</negrita>, y aquel
 proyecto quedó absolutamente en el olvido para los ingleses.</p>
@@ -1425,7 +1415,7 @@ plata, cacao, tabaco, azúcar, entre otros. Al punto que a varios de
 los piratas los nombró caballeros; estos compartían con <negrita>Isabel
 I</negrita> el producto de sus saqueos <enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=109209&amp;ruta=Buscador"
-> [VER]</enlace>.</p>
+>[VER]</enlace>.</p>
 <imagen ampliable="no" src="CS_07_03_CO_IMG41_small.jpg">
 <p>Isabel I, reina de Inglaterra, escuela inglesa, s. XVI (Galería
 Palatina, Palacio Pitti, Florencia, Italia).</p>
@@ -1588,21 +1578,18 @@ de Norteamérica, desde Carolina del Norte hasta Maine. Comienza el
 19 de diciembre de 1606 el flujo migratorio inglés hacia el continente
 americano. </p>
 <practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso280&amp;IdRecurso=RES-FC86E02D74124CB593E6922E35CCD648"
->Las exploraciones y descubrimientos de los franceses y de los españoles
-en Norteamérica</enlace>
-</practica></seccion2Texto></seccion2><seccion2
-id="S2_CS_07_03_CO_7071144C4ACF40039C422CB7D9C35E85">
+<enlace destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso280&amp;IdRecurso=RES-FC86E02D74124CB593E6922E35CCD648"
+>Las exploraciones y descubrimientos de los franceses y de los españoles en Norteamérica</enlace>
+</practica></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_03_CO_7071144C4ACF40039C422CB7D9C35E85">
 <seccion2Titulo>La Conquista portuguesa</seccion2Titulo>
 <seccion2Texto>
 <p>Si bien Cristóbal Colón había recurrido a la <negrita>Corona portuguesa</negrita
 > para emprender su proyecto de búsqueda de una nueva ruta que lo
 llevase hacia la India, Juan I de Portugal tenía puestos todos sus
 intereses en la circunnavegación por las costas africanas, y despidió
-al genovés <enlace
-destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=120479&amp;ruta=Buscador"
-> [VER]</enlace>. Sin embargo, cuando Colón regresó “exitosamente”
+al genovés <enlace destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=120479&amp;ruta=Buscador"
+>[VER]</enlace>. Sin embargo, cuando Colón regresó “exitosamente”
 de su primer viaje, el rey Juan quiso ponerse al tanto de lo que había
 descubierto.</p>
 <imagen src="CS_07_03_CO_IMG46_small.jpg">
@@ -1656,12 +1643,11 @@ se repartieron el Nuevo Mundo por el tratado de Tordesillas, que fijaba
 los límites de la expansión portuguesa 370 leguas al oeste de Cabo
 Verde, lo que permitió la penetración en América del Sur.</p>
 </imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso250&amp;IdRecurso=RES-EE2202A75EB04A299817FAF7AF0FDB73"
+<practica>
+<enlace destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso250&amp;IdRecurso=RES-EE2202A75EB04A299817FAF7AF0FDB73"
 >La relevancia del Tratado de Tordesillas</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
-id="S2_CS_07_03_CO_7071144C4ACF40039C422CB7D9C31F19">
+</practica></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_03_CO_7071144C4ACF40039C422CB7D9C31F19">
 <seccion2Titulo>Las consecuencias de la Conquista</seccion2Titulo>
 <seccion2Texto>
 <p>Según desde dónde se la mire, la Conquista tuvo consecuencias fatales
@@ -1674,10 +1660,9 @@ Se dio un sincretismo cultural en gran parte de América que provocó
 una transformación en las costumbres, en las creencias religiosas,
 en el modo de comer, en la manera de vestir, entre otros; sincretismo
 que estuvo determinado por una occidentalización del nuevo continente <enlace
-destino="http://www.banrepcultural.org/node/32658"> [VER]</enlace
->.</p>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_07_03_CO_7071144C4ACF40039C422CB7D9C32A24">
+destino="http://www.banrepcultural.org/node/32658">[VER]</enlace>.</p>
+</seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_03_CO_7071144C4ACF40039C422CB7D9C32A24">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
@@ -1698,8 +1683,9 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso300&amp;IdRecurso=RES-B7804A
 destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso310&amp;IdRecurso=RES-9C59A798E94B4AA284AEBF304988B9FB"
 >Proyecto: ¿por qué fue Europa y no otra sociedad o imperio quien
 conquistó América?</enlace>
-</practica></seccion1Texto></seccion1><masinformacion
-id="MI_CS_07_03_CO_3C34A740196745558339A557129CC7C7"><mapaconceptual>
+</practica></seccion1Texto></seccion1>
+<masinformacion id="MI_CS_07_03_CO_3C34A740196745558339A557129CC7C7">
+<mapaconceptual>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso330&amp;IdRecurso=RES-B5448E2856694FD7B9F66C33ADF08809"
 >Mapa conceptual del tema Los inicios de la Edad Moderna</enlace>
@@ -1708,25 +1694,22 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_03_CO_Recurso340&amp;IdRecurso=RES-778AE3
 >Evalúa tus conocimientos sobre el tema Los inicios de la Edad Moderna</enlace>
 </autoevaluate><enlacesreferencia>
 <enlace
-destino="http://www.bbc.co.uk/history/british/middle_ages/hundred_years_war_ 01.shtml"
-><cursiva>The Hundred Years War</cursiva>. Información en inglés</enlace>
+destino="http://www.bbc.co.uk/history/british/middle_ages/hundred_years_war_01.shtml"
+>The Hundred Years War. Información en inglés</enlace>
 <enlace
-destino="http://recursostic.educacion.es/kairos/web/ensenanzas/eso/moderna/em oderno_00.html"
+destino="http://recursostic.educacion.es/kairos/web/ensenanzas/eso/moderna/emoderno_00.html"
 >El nacimiento del Estado moderno</enlace>
 <enlace
 destino="http://historiacritica.uniandes.edu.co/view.php/107/index.php?id=107"
 >Motivaciones económicas en la búsqueda de nuevas rutas de comercio</enlace>
 <enlace
-destino="http://portalacademico.cch.unam.mx/materiales/prof/matdidac/sitpro/hi st/univ/univ1/HUMCI/Exploraciones.htm"
->Las expediciones, las nuevas rutas comerciales y la expansión colonial
-europea en el mundo</enlace>
+destino="http://portalacademico.cch.unam.mx/materiales/prof/matdidac/sitpro/hist/univ/univ1/HUMCI/Exploraciones.htm"
+>Las expediciones, las nuevas rutas comerciales y la expansión colonial europea en el mundo</enlace>
 <enlace
 destino="http://www.academia.edu/4216328/Estrategias_de_la_banca_y_las_casas_comerciales_italianas_en_la_baja_Edad_Media_La_letra_de_cambio_y_el_cr%C3%A9dito"
->Estrategias de la banca y las casas comerciales italianas en la Baja
-Edad Media: la letra de cambio y el crédito</enlace>
+>Estrategias de la banca y las casas comerciales italianas en la Baja Edad Media: la letra de cambio y el crédito</enlace>
 <enlace
-destino="https://books.google.es/books?hl=es&amp;lr=&amp;id=_KNXHj3r¬ pIC&amp;oi=fnd&amp;pg=PA1&amp;dq=colonizaci%C3%B3n+de+John+White&amp;ot s=d2qtXAhakB&amp;sig=saxXwgHsFPimAk99CgTjOW2odSQ#v=onepag e&amp;q=colonizaci%C3%B3n%20de%20John%20White&amp;f=false"
+destino="https://books.google.es/books?id=_KNXHj3r-pIC&amp;lpg=PP1&amp;dq=Cat%C3%B3licos%20y%20puritanos%20en%20la%20colonizaci%C3%B3n%20de%20Am%C3%A9rica&amp;hl=es&amp;pg=PA5#v=onepage&amp;q=Cat%C3%B3licos%20y%20puritanos%20en%20la%20colonizaci%C3%B3n%20de%20Am%C3%A9rica&amp;f=false"
 >Católicos y puritanos en la colonización de América</enlace>
-<enlace destino="https://www.youtube.com/embed/afeCEI9M3Ns">Documental.
-Historia de América (la conquista y sus consecuencias)</enlace>
+<enlace destino="https://www.youtube.com/embed/afeCEI9M3Ns">Documental. Historia de América (la conquista y sus consecuencias)</enlace>
 </enlacesreferencia></masinformacion></libro>

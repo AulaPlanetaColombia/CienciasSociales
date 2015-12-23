@@ -320,9 +320,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso080&amp;IdRecurso=RES-9BAC95
 >Los movimientos de la Tierra</enlace>
 </profundiza><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso090&amp;IdRecurso=RES-D500219A799F423985A7579D6D2CF6D2"
->Completa un texto sobre traslación y rotación</enlace>
-<enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso100&amp;IdRecurso=RES-9C1F646BE127402381B504CFAB9CCE21"
 >Define conceptos relacionados con la Tierra</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
@@ -358,9 +355,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso120&amp;IdRecurso=RES-41F5FB
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso130&amp;IdRecurso=RES-67213D004B9742B4A4AC920170B4DA53"
 >Responde preguntas sobre la Luna</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso140&amp;IdRecurso=RES-47463FD8677749818759C8E8B810D2EB"
->¿Qué sabes sobre la Luna?</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_06_08_CO_BE92D15901414A768C1B25BEFCDC911A">
 <seccion2Titulo>Las fases lunares</seccion2Titulo>
@@ -387,18 +381,15 @@ días y nueve horas.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso150&amp;IdRecurso=RES-7CF06E7837E0457D8DB9DA0ADE8FA8D2"
 >La Luna: fases e influencia sobre la Tierra</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_08_CO_Recurso160&amp;IdRecurso=RES-8728B22624D848F9B42DF2167CECAB42"
->Reconoce las fases de la Luna</enlace>
-</practica></seccion2Texto></seccion2><seccion2
+</profundiza></seccion2Texto></seccion2><seccion2
 id="S2_CS_06_08_CO_B347B231F4E04525B86C51C2E65AA603">
 <seccion2Titulo>Los eclipses de Sol</seccion2Titulo>
 <seccion2Texto>
 <p>Un <negrita>eclipse de Sol</negrita> ocurre cuando la Luna se sitúa
 justo entre la Tierra y el Sol. Este no puede verse desde la Tierra
 porque la Luna lo tapa. A su vez, como la Luna proyecta su sombra
-sobre una parte de la superficie terrestre, esa zona queda oscurecida.</p>
+sobre una parte de la superficie terrestre, esa zona queda oscurecida.</p><?Pub
+Caret 184?>
 <imagen src="CS_06_08_CO_IMG08_small.jpg">
 <p>Esquema de un eclipse de Sol. En la zona de la Tierra cubierta
 por el cono de sombra, el eclipse de Sol es total, mientras en la
