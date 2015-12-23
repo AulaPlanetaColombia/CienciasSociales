@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Cronología: la Restauración, el liberalismo y los nacionalismos</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+
+        <script src="extlib/createjs/2013_12_12/createjs-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/movieclip-0-7-1-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/zoom.js"></script>
+        <script src="js/principal.js"></script>
+
+        <script>
+            var canvas, stage, exportRoot, incremento,popupon;
+            window.onresize = function ()
+            {
+                onResize();
+            }
+            
+
+            function init() {
+
+                canvas = document.getElementById("canvas");
+                images = images || {};
+                if (navigator.userAgent.toLowerCase().indexOf("firefox") == -1)
+                    incremento = 0;
+                else
+                    incremento = 4;
+                var manifest = [
+                   	{src:"images/_0000NV01.png", id:"_0000NV01"},
+		{src:"images/_0000NV01_1.png", id:"_0000NV01_1"},
+		{src:"images/_0000S501.png", id:"_0000S501"},
+		{src:"images/_0007W901.png", id:"_0007W901"},
+		{src:"images/_0007W901_1.png", id:"_0007W901_1"},
+		{src:"images/_00088T01.png", id:"_00088T01"},
+		{src:"images/_0008P701.png", id:"_0008P701"},
+		{src:"images/_0008P701_1.png", id:"_0008P701_1"},
+		{src:"images/_00093T01.png", id:"_00093T01"},
+		{src:"images/_00096001.png", id:"_00096001"},
+		{src:"images/_00096A01_OPT.jpg", id:"_00096A01_OPT"},
+		{src:"images/_00098R01_OPT.jpg", id:"_00098R01_OPT"},
+		{src:"images/_0009FB01.png", id:"_0009FB01"},
+		{src:"images/_0009HK01_OPT.jpg", id:"_0009HK01_OPT"},
+		{src:"images/_0009VS01_Cara.png", id:"_0009VS01_Cara"},
+		{src:"images/_0009VS01_OPT.png", id:"_0009VS01_OPT"},
+		{src:"images/_0009VS01_OPT_MIN_05.jpg", id:"_0009VS01_OPT_MIN_05"},
+		{src:"images/_000A0S01_OPT.jpg", id:"_000A0S01_OPT"},
+		{src:"images/_000A0T01.png", id:"_000A0T01"},
+		{src:"images/_000AGI01_OPT.jpg", id:"_000AGI01_OPT"},
+		{src:"images/_000AGI01_OPT_MIN_01.jpg", id:"_000AGI01_OPT_MIN_01"},
+		{src:"images/_000ESP01.png", id:"_000ESP01"},
+		{src:"images/_000ESP01_1.png", id:"_000ESP01_1"},
+		{src:"images/_000S3201_OPT.jpg", id:"_000S3201_OPT"},
+		{src:"images/_000S3201_OPT_MIN_04.jpg", id:"_000S3201_OPT_MIN_04"},
+		{src:"images/_000S3V01_OPT.jpg", id:"_000S3V01_OPT"},
+		{src:"images/_000S3V01_OPT_MIN_03.jpg", id:"_000S3V01_OPT_MIN_03"},
+		{src:"images/_000U2E01_OPT.jpg", id:"_000U2E01_OPT"},
+		{src:"images/_001AEX01.png", id:"_001AEX01"},
+		{src:"images/_001ELN01.png", id:"_001ELN01"},
+		{src:"images/_001OWQ01.png", id:"_001OWQ01"},
+		{src:"images/_00221P01.png", id:"_00221P01"},
+		{src:"images/_00221P01_OPT.png", id:"_00221P01_OPT"},
+		{src:"images/_00221P01_OPT_MIN_02.png", id:"_00221P01_OPT_MIN_02"},
+		{src:"images/_002F4U01.png", id:"_002F4U01"},
+		{src:"images/_2_shutterstock_86443309_OPT.jpg", id:"_2_shutterstock_86443309_OPT"},
+		{src:"images/_3_120660288_OPT.jpg", id:"_3_120660288_OPT"},
+		{src:"images/_4_92837012_OPT.jpg", id:"_4_92837012_OPT"},
+		{src:"images/_5_shutterstock_11894839_OPT.jpg", id:"_5_shutterstock_11894839_OPT"},
+		{src:"images/CS_10_10_084.png", id:"CS_10_10_084"},
+		{src:"images/CS_10_10_084_1.png", id:"CS_10_10_084_1"},
+		{src:"images/Mapadebits1.png", id:"Mapadebits1"},
+		{src:"images/Mapadebits10.png", id:"Mapadebits10"},
+		{src:"images/Mapadebits11.png", id:"Mapadebits11"},
+		{src:"images/Mapadebits12.png", id:"Mapadebits12"},
+		{src:"images/Mapadebits13.png", id:"Mapadebits13"},
+		{src:"images/Mapadebits14.png", id:"Mapadebits14"},
+		{src:"images/Mapadebits15.png", id:"Mapadebits15"},
+		{src:"images/Mapadebits16.png", id:"Mapadebits16"},
+		{src:"images/Mapadebits17.png", id:"Mapadebits17"},
+		{src:"images/Mapadebits18.png", id:"Mapadebits18"},
+		{src:"images/Mapadebits19.png", id:"Mapadebits19"},
+		{src:"images/Mapadebits2.png", id:"Mapadebits2"},
+		{src:"images/Mapadebits20.png", id:"Mapadebits20"},
+		{src:"images/Mapadebits21.png", id:"Mapadebits21"},
+		{src:"images/Mapadebits22.png", id:"Mapadebits22"},
+		{src:"images/Mapadebits23.png", id:"Mapadebits23"},
+		{src:"images/Mapadebits3.png", id:"Mapadebits3"},
+		{src:"images/Mapadebits4.png", id:"Mapadebits4"},
+		{src:"images/Mapadebits5.png", id:"Mapadebits5"},
+		{src:"images/Mapadebits6.png", id:"Mapadebits6"},
+		{src:"images/Mapadebits7.png", id:"Mapadebits7"},
+		{src:"images/Mapadebits8.png", id:"Mapadebits8"},
+		{src:"images/Mapadebits9.png", id:"Mapadebits9"},
+		{src:"images/PUENTE_BROOKLYN.png", id:"PUENTE_BROOKLYN"},
+		{src:"images/shutterstock_72493108_OPT.jpg", id:"shutterstock_72493108_OPT"},
+		{src:"images/Verdi.png", id:"Verdi"}
+                ];
+
+                var loader = new createjs.LoadQueue(false);
+                loader.addEventListener("fileload", handleFileLoad);
+                loader.addEventListener("complete", handleComplete);
+                loader.loadManifest(manifest);
+                loadXML();
+            }
+
+            function handleFileLoad(evt) {
+                if (evt.item.type == "image") {
+                    images[evt.item.id] = evt.result;
+                }
+            }
+            function putStage(myStage) {
+
+                if (exportRoot) {
+                    exportRoot.removeAllChildren();
+                }
+                exportRoot = myStage;
+                stage = new createjs.Stage(canvas);
+                stage.clear();
+                createjs.Ticker.removeAllEventListeners();
+                stage.autoClear = true; // This must be true to clear the stage.
+                stage.removeAllChildren();
+
+                stage.addChild(exportRoot);
+                stage.update();
+                stage.enableMouseOver();
+                onResize();
+                createjs.Ticker.setFPS(24);
+                createjs.Ticker.addEventListener("tick", stage);
+            }
+            function handleComplete() {
+                var child = document.getElementById("loading");
+                if (child != null)
+                    child.parentNode.removeChild(child);
+                putStage(new lib.frame1())
+
+            }
+            function loadXML() {
+                xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("GET", "data/datos.xml", false);
+                xmlhttp.send();
+                xmlDoc = xmlhttp.responseXML;
+                x = xmlDoc.getElementsByTagName("XMLDatos")[0].childNodes;
+                y = xmlDoc.getElementsByTagName("XMLDatos")[0].firstChild;
+                for (i = 0; i < x.length; i++)
+                {
+                    if (y.nodeType == 1)
+                    {//Process only element nodes (type 1)
+                        j = xmlDoc.getElementsByTagName(y.nodeName)[0].childNodes[0]
+                        textos[y.nodeName] = j.nodeValue;
+                    }
+                    y = y.nextSibling;
+                }
+            }
+        </script>
+    </head>
+
+    <body onload="init();" onorientationchange="onResize();" style="background-color:#FFFFFF" ><div id="loading" align="center" style="position: absolute;top:50%;left:50%;width:400px;margin-left:-200px;height:300px;margin-top:-150px;" ><img src="images/status.gif"/></div>
+        <canvas id="canvas" width="950" height="608" style="background-color:transparent"></canvas>
+    </body>
+</html>
