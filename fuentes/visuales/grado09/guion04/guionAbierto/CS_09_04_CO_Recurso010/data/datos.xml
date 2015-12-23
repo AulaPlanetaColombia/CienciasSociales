@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<diaporama autoplay="false" diapoDefaultTimeOut="false" effectDefaultTimeOut="1500" textDefaultTimeOut="1000" toolbarAlign="LeftBottom" toolbarColor="Black" toolbarCounter="false" toolbarCounterColor="White" toolbarMargin="40,40,40,40" fotoMargin="0,0,0,0" textMargin="40,40,40,80" aprid="diaporama">
+  <diapo foto="Visperas_batalla_palonegro.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightBottom" effectTimeOut="1500"> Hegemonía conservadora</texto>
+  </diapo>
+  <diapo foto="Manuel_Antonio_Sanclemente.jpg">
+    <texto type="Arial" size="48" style="Normal" color="Black" align="RightTop">Manuel Antonio San Clemente 1898-1900</texto>
+  </diapo>
+  <diapo foto="200px-Jose_Manuel_Marroquin.jpg">
+    <texto type="Arial" size="48" style="Normal" color="Black" align="RightTop">José Manuel Marroquín 1900-1904</texto>
+  </diapo>
+  <diapo foto="Rafael-reyes.jpg">
+    <texto type="Arial" size="48" style="Normal" color="Black" align="RightTop">Rafael Reyes 1904-1909</texto>
+  </diapo>
+  <diapo foto="Carlos_Restrepo.jpg">
+    <texto type="Arial" size="48" style="Normal" color="Black" align="RightBottom">Carlos Restrepo 1910-1914</texto>
+  </diapo>
+  <diapo foto="Jose_Vicente_Concha_I.jpg">
+    <texto type="Arial" size="48" style="Normal" color="Black" align="RightTop">José Vicente Concha 1914-1918</texto>
+  </diapo>
+  <diapo foto="Marco_Fidel_S.jpg">
+    <texto type="Arial" size="48" style="Normal" color="Black" align="RightBottom">Marco Fidel Suarez 1918-1921</texto>
+  </diapo>
+  <diapo foto="Pedro_Nel_Ospina.jpg">
+    <texto type="Arial" size="48" style="Normal" color="Black" align="RightBottom">Pedro Nel Ospina 1922-1926</texto>
+  </diapo>
+  <diapo foto="Miguel_Abadia_Mendez.jpg">
+    <texto type="Arial" size="48" style="Normal" color="Black" align="RightBottom">Miguel Abadía Méndez 1926-1930</texto>
+  </diapo>
+</diaporama>

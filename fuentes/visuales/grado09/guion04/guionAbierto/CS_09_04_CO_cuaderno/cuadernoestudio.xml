@@ -2,6 +2,7 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_09_04_CO">
 <libroTitulo>Colombia en la primera mitad del siglo XX</libroTitulo>
 <seccion1 id="S1_CS_09_04_CO_B9431A5AEB044148B84AD73DACD419E7">
@@ -1083,12 +1084,12 @@ destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=6782335&
 > [VER]</enlace>.</p>
 <profundiza>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso190&amp;IdRecurso=RES-D5609C22B2954D36BDD9A67B65F86CG2"
+destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso190&amp;IdRecurso=RES-F96E98C1D4C34E9F8967BCBF2A9B7073"
 >La amnistía del general Rojas Pinilla</enlace>
 </profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso200&amp;IdRecurso=RES-D5609C22B2954D36BDD9A67B65F85BF1"
->Los gobiernos militares</enlace>
+>Los gobiernos militares</enlace><?Pub Caret -2?>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_04_CO_Recurso220&amp;IdRecurso=RES-2F275CD1CC5542318B01F3C0A8B00653"
 >Colombia en la primera mitad del siglo XX</enlace>
