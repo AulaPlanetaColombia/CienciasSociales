@@ -2,6 +2,7 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_07_07_CO">
 <libroTitulo>Geografía física y humana de Europa, Asia y África</libroTitulo>
 <seccion1 id="S1_CS_07_07_CO_B5912D33F5E840F6894BBECB457DCC37">
@@ -11,7 +12,9 @@
 tierras emergidas entre el océano Atlántico oriental y los montes
 Urales y el Cáucaso. Tiene una superficie de 22 969 900 km<superindice
 >2</superindice>, por lo que se constituye en el segundo continente
-de menor extensión luego de Oceanía.</p>
+de menor extensión luego de Oceanía. Para conocer más sobre la Antártida
+te invitamos a ver este documental:<enlace
+destino="https://vimeo.com/10210428"> [VER]</enlace>.</p>
 <recuerda><recuerdaTexto>
 <p><negrita>Los continentes de la Tierra</negrita></p>
 <p>Existen diferentes <negrita>modelos de continentes</negrita>, de
@@ -30,8 +33,6 @@ carece de vegetación arbórea y arbustiva, pero tiene una abundante
 fauna, principalmente marina, que incluye especies como ballenas,
 peces y pingüinos.</listaElemento>
 </listaSinNumerar>
-<p>Para conocer más sobre la Antártida te invitamos a ver este documental:<enlace
-destino="https://vimeo.com/10210428"> [VER]</enlace>.</p>
 </recuerdaTexto></recuerda><seccion2
 id="S2_CS_07_07_CO_AA23EC77C4D74CBBA4D92098AFF74A27">
 <seccion2Titulo>El aspecto físico de Europa</seccion2Titulo>
@@ -44,11 +45,10 @@ al sudeste. A continuación podrás conocer sus principales <negrita
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso010&amp;IdRecurso=RES-9BC2B77E4CEF4200A297337885B992AE"
 >Geografía física y humana de Europa, Asia y África</enlace>
-</profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso020&amp;IdRecurso=RES-7295F489D7B44B12BCE5C0F91D6DFB71"
 >El relieve, costas y aguas de Europa</enlace>
-</practica><seccion3
+</profundiza><seccion3
 id="S3_CS_07_07_CO_B84C5441F5F541AF960596F19CD60913">
 <seccion3Titulo>La posición geográfica y astronómica</seccion3Titulo>
 <seccion3Texto>
@@ -97,6 +97,11 @@ a Asia por los montes Urales y el Cáucaso. Las cumbres más altas del
 continente son el <negrita>Elbrús</negrita> (5642 m) en el Cáucaso,
 y el <negritacursiva>Mont Blanc</negritacursiva> (4808 m) en los Alpes.</p>
 </imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso040&amp;IdRecurso=RES-32E0A9DCF21241B1A4885B795508BF5B"
+>Identifica el relieve de Europa</enlace>
+</profundiza>
 <p>La posición geográfica y astronómica de Europa determina su <negrita
 >clima</negrita>. Predominan cuatro climas en este continente: el <negrita
 >mediterráneo</negrita>, el <negrita>oceánico</negrita>, el <negrita
@@ -181,13 +186,9 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso030&amp;IdRecurso=RES-D16177
 >Los medios templados: el paisaje mediterráneo</enlace>
 </profundiza><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso040&amp;IdRecurso=RES-32E0A9DCF21241B1A4885B795508BF5B"
->Identifica el relieve de Europa</enlace>
-</practica><profundiza>
-<enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso050&amp;IdRecurso=RES-2EBF2462DC764402888AB7B4EE5E2EA3"
 >Los climas del continente europeo</enlace>
-</profundiza></seccion3Texto></seccion3><seccion3
+</practica></seccion3Texto></seccion3><seccion3
 id="S3_CS_07_07_CO_CB380AED2E6145CF874459EC6D57643E">
 <seccion3Titulo>La hidrografía</seccion3Titulo>
 <seccion3Texto>
@@ -300,7 +301,8 @@ Los principales grupos étnicos que conforman Europa son: <negrita
 <p>Actualmente, los ciudadanos europeos comparten una serie de derechos
 comunes, que se recogen en la <negrita>Carta de Derechos Fundamentales
 de la Unión Europea</negrita>. En ella se reconocen los derechos,
-libertades y principios de todos los ciudadanos de la Unión Europea.</p>
+libertades y principios de todos los ciudadanos de los países de la
+Unión Europea.</p>
 <recuerda><recuerdaTexto>
 <p>En la Carta de Derechos Fundamentales se reconocen los siguientes
 derechos, libertades y principios a todos los ciudadanos de la Unión
@@ -411,13 +413,10 @@ de las leyes europeas.</listaElemento>
 id="S3_CS_07_07_CO_C6D581A27C894364A7B5A172C9B5AF21">
 <seccion3Titulo>Los aspectos económicos</seccion3Titulo>
 <seccion3Texto>
-<p>A continuación conocerás los principales aspectos económicos de
-Europa; para ello, se presentarán las acciones que desarrolla la <negrita
->Unión Europea (UE)</negrita> en este campo y algunas características
-centrales de cada uno de los tres sectores económicos. El mercado
-único, conformado por los diferentes países de la Unión Europea, reconoce
-la libre circulación de <negrita>personas</negrita>, <negrita>bienes</negrita
->, <negrita>servicios</negrita> y <negrita>capitales</negrita> (dinero).</p>
+<p>La economía de Europa se caracteriza por el mercado único, conformado
+por los diferentes países de la Unión Europea, reconoce la libre circulación
+de <negrita>personas</negrita>, <negrita>bienes</negrita>, <negrita
+>servicios</negrita> y <negrita>capitales</negrita> (dinero).</p>
 <recuerda><recuerdaTexto>
 <p>La firma del Acuerdo de Schengen (1985) hizo posible la libre circulación
 de personas y mercancías en la UE. En la actualidad, el espacio Schengen
@@ -427,9 +426,12 @@ como Suiza, Islandia, Noruega y Liechtenstein.</p>
 </recuerdaTexto></recuerda>
 <p>La <negrita>Unión Europea</negrita> tiene su propia moneda, el <negrita
 >euro</negrita>, desde el 1º de enero de 2002. Sin embargo, no todos
-sus Estados miembros la utilizan. En algunos países siguen en curso
-las antiguas monedas nacionales, como sucede con la libra esterlina
-en el Reino Unido.</p>
+sus Estados miembros la utilizan<enlace
+destino="http://www.juntadeandalucia.es/averroes/recursos_informaticos/andared01/monedero/paises.htm"
+> [VER]</enlace>. En algunos países siguen en curso las antiguas monedas
+nacionales, como sucede con la libra esterlina en el Reino Unido<enlace
+destino="http://www.ecb.int/euro/play/html/index.es.html"> [VER]</enlace
+>.</p>
 <imagen src="CS_07_07_CO_IMG06_small.jpg">
 <p>Los Estados que utilizan el euro se agrupan en la llamada Eurozona.
 Para pertenecer a la zona euro no es necesario ser miembro de la Unión
@@ -437,13 +439,6 @@ Europea, tal como sucede con Andorra, Mónaco, Montenegro, San Marino
 y la Ciudad del Vaticano. En la actualidad, la Eurozona está formada
 por 18 países europeos.</p>
 </imagen>
-<p>Aprende más sobre el euro en el siguiente juego que propone el
-portal educativo Averroes<enlace
-destino="http://www.juntadeandalucia.es/averroes/recursos_informaticos/andared01/monedero/paises.htm"
-> [VER]</enlace>. También puedes ampliar tus conocimientos con la
-propuesta del portal de la Unión Europea<enlace
-destino="http://www.ecb.int/euro/play/html/index.es.html"> [VER]</enlace
->.</p>
 <p>La economía de la Unión Europea es considerada como una de las
 más importantes del mundo. Concentra aproximadamente el 20 % de las <negrita
 >importaciones y exportaciones</negrita>. Es la primera <negrita>economía
@@ -513,8 +508,8 @@ aproximadamente el 8,65 % del total de la superficie terrestre.</p>
 el <negrita>océano Pacífico</negrita>. Al norte limita con el <negrita
 >océano Glacial Ártico</negrita>, y al sur, con el <negrita>océano
 Índico</negrita>.</p>
-<p>El continente asiático se ubica sobre la mitad del hemisferio norte
-y se encuentra en su mayor parte al este del meridiano de Greenwich.
+<p>El continente asiático ocupa gran parte del hemisferio norte y
+se encuentra en su mayor parte al este del meridiano de Greenwich.
 Una pequeña porción insular de este continente se ubica en el hemisferio
 sur.</p>
 <p>Por su <negrita>posición astronómica</negrita>, los siguientes
@@ -565,7 +560,8 @@ alturas de sus tierras. Su principal característica son los <negrita
 >monzones</negrita>, vientos que hacen que en el verano se incremente
 la humedad y se generen densas precipitaciones, y que durante el invierno
 se originen vientos secos y fríos, que van del centro de Asia hasta
-el océano.</p>
+el océano<enlace destino="http://youtu.be/rCQjE80iIMc"> [VER]</enlace
+>.</p>
 <table border="1"><caption>Climas del continente asiático</caption>
 <colgroup><col width="13*"/><col width="84*"/></colgroup>
 <tbody>
@@ -577,7 +573,7 @@ el océano.</p>
 <td><negrita>Climas cálidos</negrita></td>
 <td>Entre estos climas se encuentran los siguientes: el ecuatorial,
 el desértico, el tropical húmedo y el tropical seco.<br/>Son propios
-de las costas de la India, Vietnam, Filipinas, Bangladesh, Myanmar,
+de las costas de la India, Vietnam, Filipinas, Bangladesh, Birmania,
 Malasia e Indonesia. En general, se encuentran al sur de Asia, incluida
 Sri Lanka, gran parte de la India, Laos y Camboya.<br/><br/><negrita
 >Características del clima</negrita><br/>Según la región, se puede
@@ -634,11 +630,15 @@ donde predomina la palma datilera.</td>
 </tr>
 </tbody>
 </table>
-<p>Puedes ampliar la información sobre los monzones y su relación
-con el entorno natural viendo el documental sobre <negrita>Sri Lanka,
-la isla de los monzones</negrita><enlace
-destino="http://youtu.be/rCQjE80iIMc"> [VER]</enlace>.</p>
-</seccion3Texto></seccion3><seccion3
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso110&amp;IdRecurso=RES-060B232A380E4FCBA496BE64AB11AE9B"
+>Los climas del continente asiático</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso120&amp;IdRecurso=RES-9CA1AEBE915343ED91495D4941C2548C"
+>Conoce la tundra</enlace>
+</practica></seccion3Texto></seccion3><seccion3
 id="S3_CS_07_07_CO_C6D581A27C894364A7B5A172C9B5DA46">
 <seccion3Titulo>La hidrografía</seccion3Titulo>
 <seccion3Texto>
@@ -674,9 +674,7 @@ km), el Huang He (4845), el Mekong (4500 km) y el Amur (4416 km).</p>
 <p>El continente asiático tiene varios <negrita>lagos</negrita>, entre
 los que se destaca el <negrita>Baikal</negrita>. Además, existen tres
 grandes mares interiores: el <negrita>mar de Aral</negrita>, el <negrita
->mar Muerto</negrita> y el <negrita>mar Caspio</negrita>.</p>
-<p>Si quieres saber más sobre el mar de Aral te sugerimos consultar
-la Gran Enciclopedia Planeta<enlace
+>mar Muerto</negrita> y el <negrita>mar Caspio</negrita><enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=7&amp;idpil=IN000328&amp;ruta=Buscador"
 > [VER]</enlace>.</p>
 <p>Por otro lado, las costas asiáticas están bañadas por distintos <negrita
@@ -703,15 +701,7 @@ tsunami de diciembre de 2004, producido por el terremoto submarino
 que tuvo lugar frente a la costa de Sumatra, y que causó más de 225
 000 víctimas.</p>
 </imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso110&amp;IdRecurso=RES-060B232A380E4FCBA496BE64AB11AE9B"
->Los climas del continente asiático</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso120&amp;IdRecurso=RES-9CA1AEBE915343ED91495D4941C2548C"
->Conoce la tundra</enlace>
-</practica><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso130&amp;IdRecurso=RES-6C0B49D6BBD244E0B6A642FC3B768B3C"
 >Identifica los recursos hídricos y la problemática del agua en Asia</enlace>
@@ -750,10 +740,7 @@ el <negrita>judaísmo</negrita> y el <negrita>cristianismo</negrita
 histórica y que hoy siguen vivas en las prácticas religiosas de muchas
 personas: el <negrita>budismo</negrita>, el <negrita>hinduismo</negrita
 >, el <negrita>confucianismo</negrita> y el <negrita>sintoísmo</negrita
->.</p>
-<p>Te invitamos a ampliar la información viendo el siguiente video
-sobre el Tíbet<enlace
-destino="https://www.youtube.com/watch?v=RkpIaEYUIUE"> [VER]</enlace
+><enlace destino="https://www.youtube.com/watch?v=RkpIaEYUIUE"> [VER]</enlace
 >.</p>
 </destacadoTexto></destacado><seccion3
 id="S3_CS_07_07_CO_C6D581A27C894364A7B5A172C9B5FA29">
@@ -782,10 +769,10 @@ También en zonas como Shanghái, Macao, Tianjin, Sichuán y Hong Kong.</p>
 Ganges y en la zona costera de este país. También existe una gran
 población en la isla de Java en Indonesia.</p>
 <p>En Pakistán, Bangladesh e Indonesia se ubica población predominantemente
-musulmana. Países como Arabia, Afganistán y Pakistán se caracterizan
-por el fuerte integrismo cultural, político y económico. Estos países,
-al igual que Iraq y Palestina, son zonas que presentan permanentes
-conflictos bélicos.</p>
+musulmana. Países como Arabia Saudita, Afganistán y Pakistán se caracterizan
+por el fuerte integrismo cultural, político y económico. Estos últimos
+dos países, al igual que Iraq y Palestina, son zonas que presentan
+permanentes conflictos bélicos.</p>
 </recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
 id="S3_CS_07_07_CO_C6D581A27C894364A7B5A172C9B5BF79">
 <seccion3Titulo>Las características políticas</seccion3Titulo>
@@ -862,9 +849,7 @@ Israel y Palestina han sido afectadas. Así mismo, se han producido
 nuevas ocupaciones de territorios reclamados por Palestina con la
 expulsión de la población allí residente. Diversos esfuerzos internacionales
 y diplomáticos se realizan para lograr una solución que permita la
-coexistencia de dos Estados, con tal de poner fin a la confrontación.</p>
-<p>Para ampliar esta información te invitamos a ver un corto video
-sobre el conflicto palestino Israelí<enlace
+coexistencia de dos Estados, con tal de poner fin a la confrontación<enlace
 destino="http://youtu.be/KrMqUeHz_-Q"> [VER]</enlace>.</p>
 </destacadoTexto></destacado>
 <p>En cuanto a las formas de gobierno en esta región, los siguientes
@@ -878,10 +863,10 @@ y Kuwait.</p>
 sur de China y al oriente de la India. Es una región a la que pertenecen
 países ubicados en el archipiélago malayo y en la parte continental
 en Indochina. Algunos de ellos son: Singapur, Laos, Papúa Nueva Guinea,
-Myanmar, Tailandia, Camboya, Brunei, Indonesia, Timor Oriental, Malasia,
+Birmania, Tailandia, Camboya, Brunéi, Indonesia, Timor Oriental, Malasia,
 Filipinas y Vietnam. En estos países se ha instaurado una gran diversidad
 de formas de gobierno. Algunos de ellos son monarquías (Tailandia,
-Brunei, Camboya y Malasia); los demás, cuentan con diferentes modalidades
+Brunéi, Camboya y Malasia); los demás, cuentan con diferentes modalidades
 de repúblicas.<p></p>Los países que conforman esta región se organizan
 en la Asociación de Naciones del Sudeste Asiático, <negrita>ASEAN</negrita
 >, en la que se agruparon con el fin de avanzar en su desarrollo económico.</listaElemento>
@@ -920,18 +905,14 @@ esta región trabajen conjuntamente para mejorar la calidad de vida
 de sus habitantes, por el crecimiento económico y el desarrollo cultural.</p>
 <p>La Asociación de Naciones del Sudeste Asiático (<negrita>ASEAN</negrita
 >, sigla por su nombre en inglés) está conformada por Filipinas, Tailandia,
-Vietnam, Brunei Darussalam, Malasia, Singapur, Camboya, Laos y Myanmar.
+Vietnam, Brunéi Darussalam, Malasia, Singapur, Camboya, Laos y Birmania.
 Busca el crecimiento económico de los países asociados y su integración
 política y social.</p>
 </destacadoTexto></destacado><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso140&amp;IdRecurso=RES-5496E92F179D47509D00F8A3CB9B65B3"
 >Sitúa en el mapa algunos Estados de Asia</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso150&amp;IdRecurso=RES-C79126F3DF3843BD996EBD0868A563D1"
->Actividades económicas del continente asiático</enlace>
-</practica></seccion3Texto></seccion3><seccion3
+</profundiza></seccion3Texto></seccion3><seccion3
 id="S3_CS_07_07_CO_C6D581A27C894364A7B5A172C9B5ET14">
 <seccion3Titulo>Los aspectos económicos</seccion3Titulo>
 <seccion3Texto>
@@ -939,7 +920,8 @@ id="S3_CS_07_07_CO_C6D581A27C894364A7B5A172C9B5ET14">
 los contrastes económicos. Por una parte presenta un crecimiento económico
 muy importante en las últimas décadas, gracias a al desempeño de países
 como <negrita>China y Japón</negrita>. De otro lado, en este continente
-existen países y zonas que presentan niveles elevados de pobreza.</p>
+existen países y zonas que presentan niveles elevados de pobreza<enlace
+destino="http://youtu.be/SITB67n8G60"> [VER]</enlace>.</p>
 <p>En general, los países de Asia desarrollan actividades del <negrita
 >sector primario</negrita>, especialmente: <negrita>agricultura</negrita
 >, <negrita>explotación forestal</negrita>, <negrita>ganadería</negrita
@@ -962,7 +944,7 @@ y de telecomunicaciones.</p>
 <p><negrita>Japón</negrita> es la mayor potencia económica del mundo,
 después de Estados Unidos, China y la Unión Europea. Es el país más
 industrializado de Asia, posee un gran desarrollo tecnológico y progreso
-industrial. Te invitamos a profundizar sobre Japón en el siguiente<enlace
+industrial<enlace
 destino="http://web-japan.org/kidsweb/explore/spanish/index.html"
 > [VER]</enlace>.</p>
 <p>En la economía de Asia también es importante tener en cuenta a
@@ -978,11 +960,12 @@ sus cultivos de maíz, caña de azúcar, patata y algodón; trigo, mijo,
 arroz y té. Es el tercer productor de carbón en el mundo y actualmente
 avanza en la consolidación de su sector terciario, en particular los
 servicios de software.</p>
-<p>Profundiza sobre las diferentes características económicas del
-continente asiático en el video, Asia: Características económicas<enlace
-destino="http://youtu.be/SITB67n8G60"> [VER]</enlace>.</p>
-</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
-id="S2_CS_07_07_CO_6F156C0F36C049F08BC3385E61D4EC4E">
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso150&amp;IdRecurso=RES-C79126F3DF3843BD996EBD0868A563D1"
+>Actividades económicas del continente asiático</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_07_CO_6F156C0F36C049F08BC3385E61D4EC4E">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
@@ -1003,8 +986,7 @@ más grande de la Tierra.</p>
 <destacadoTexto>
 <p>Gondwana fue un supercontinente derivado de la Pangea que se formó
 en la era Paleozoica. De este gran territorio se originaron África,
-América del Sur, la Antártida, el Indostán y Australia. Para ampliar
-esta información te invitamos a ver el siguiente video<enlace
+América del Sur, la Antártida, el Indostán y Australia<enlace
 destino="http://youtu.be/a_olP0pVzAU"> [VER]</enlace>.</p>
 </destacadoTexto></destacado><seccion2
 id="S2_CS_07_07_CO_64080091C7C4482C8DCF0F731FD64883">
@@ -1079,19 +1061,19 @@ width="13*"/><col width="84*"/></colgroup>
 <td>El clima ecuatorial es propio de las zonas del Congo, Zaire, Camerún,
 Gabón y  Guinea Ecuatorial. <br/><br/><negrita>Características del
 clima ecuatorial</negrita><br/>Temperaturas: altas durante todo el
-año.<br/>Precipitaciones: abundantes.<br/><negrita>Paisaje, vegetación
-y fauna</negrita><br/><br/>Cuenta con vegetación de selva ecuatorial,
-caracterizada por su densidad y gran altura. Predominan, además, los
-matorrales que impiden el fácil acceso a los territorios.<br/>Su fauna
-es diversa. Entre otros,  se destacan los felinos, los gorilas, los
-chimpancés, los elefantes y los hipopótamos.</td>
+año.<br/>Precipitaciones: abundantes.<br/><br/><negrita>Paisaje, vegetación
+y fauna</negrita><br/>Cuenta con vegetación de selva ecuatorial, caracterizada
+por su densidad y gran altura. Predominan, además, los matorrales
+que impiden el fácil acceso a los territorios.<br/>Su fauna es diversa.
+Entre otros,  se destacan los felinos, los gorilas, los chimpancés,
+los elefantes y los hipopótamos.</td>
 </tr>
 <tr>
 <td><negrita>El clima tropical o de sabana</negrita></td>
 <td>El <negrita>clima tropical</negrita> o de sabana domina en los
 territorios de Kenia, Tanzania, Nigeria, Sudán del Sur, Zambia y Angola.<br
 /><br/><negrita>Características del clima tropical o de sabana</negrita
-><br/>Temperaturas: presenta altas a lo largo de todo el año.<br/>Precipitaciones,
+><br/>Temperaturas: presenta altas a lo largo de todo el año.<br/>Precipitaciones:
 hay diferencias entre un período de mayor pluviosidad que dura alrededor
 de  siete meses al año, y una fase de lluvias escasas en la estación
 seca que dura cerca de  cinco meses al año. <br/><br/><negrita>Paisaje,
@@ -1107,8 +1089,8 @@ leopardos, leones y hienas, entre otros. </td>
 <td><negrita>El clima mediterráneo o templado</negrita></td>
 <td>El <negrita>clima mediterráneo</negrita> se ubica en el norte
 de África y en la región del Cabo en Sudáfrica. <br/><br/><negrita
->Características del clima mediterráneo</negrita><br/>Temperaturas
-se caracterizan por inviernos suaves y veranos calurosos.<br/>Precipitaciones
+>Características del clima mediterráneo</negrita><br/>Temperaturas:
+se caracterizan por inviernos suaves y veranos calurosos.<br/>Precipitaciones:
 son escasas.<br/><br/><negrita>Paisaje, vegetación y fauna</negrita
 ><br/>El paisaje se caracteriza por una vegetación de coníferas, como
 enebros, pinos, cipreses y sabinas. En las zonas más áridas se encuentran
@@ -1120,11 +1102,11 @@ agua) como los cactus.</td>
 <td><negrita>El clima seco en África</negrita> se localiza en los
 desiertos del Sahara, Nubia, Libia y Kalahari, ubicados principalmente
 en los trópicos y en algunas regiones de latitudes templadas.<br/><br
-/><negrita>Características del clima árido o seco</negrita><br/>Temperaturas
+/><negrita>Características del clima árido o seco</negrita><br/>Temperaturas:
 son muy bajas en las noches y muy altas en el día. En el mes de julio,
 durante el verano, la temperatura supera los 32,2 °C. En los inviernos,
 la temperatura de las noches se ubica por debajo de los cero grados
-centígrados.<br/>Precipitaciones son escasas. En las zonas de mayores
+centígrados.<br/>Precipitaciones: son escasas. En las zonas de mayores
 alturas suelen ser comunes las heladas.<br/><br/><negrita>Paisaje
 y vegetación</negrita><br/>El paisaje es eminentemente árido y desértico,
 en muchas regiones rocoso o cubierto de dunas de arena. La vegetación
@@ -1269,10 +1251,9 @@ el Tratado de Berlín de 1885 (<cursiva>General Act of the Berlin Conference</cu
 (1884 - 1885) sobre el tema.</p>
 <p>Entre 1885 y 1914 el Reino Unido tuvo cerca del 30% de la población
 de África bajo su control, 15% fue de Francia, 9% de Alemania, 7%
-de Bélgica y 1% para Italia.</p>
-<p>Texto recuperado de La Unión Africana (UA). 2010.<enlace
+de Bélgica y 1% para Italia<enlace
 destino="http://www.diputados.gob.mx/sedia/sia/spe/SPE-ISS-08-10.pdf"
-> [VER]</enlace></p>
+> [VER]</enlace>.</p>
 </destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
 id="S3_CS_07_07_CO_C6D581A27C894364A7B5A172C9B5RD49">
 <seccion3Titulo>Las características políticas</seccion3Titulo>
@@ -1283,7 +1264,9 @@ africano es su organización en la denominada <negrita>Unión Africana
 que conforman el continente, 53 pertenecen a esta Unión. La excepción
 es Marruecos, que se apartó de las instituciones continentales como
 represalia por el reconocimiento a la independencia de Sahara Occidental
-por parte de la comunidad internacional.</p>
+por parte de la comunidad internacional<enlace
+destino="http://go.hrw.com/atlas/span_htm/africa.htm"> [VER]</enlace
+>.</p>
 <p>La Unión Africana surgió a finales de 1999 a través de la <negrita
 >Declaración de Sirte</negrita> y entró en funciones a partir de 2002.
 Su principal objetivo es el proceso de <negrita>integración de los
@@ -1298,7 +1281,7 @@ de África. </listaElemento>
 colonización y el <cursiva>apartheid</cursiva>, y promover la paz
 y la estabilidad política.</listaElemento>
 <listaElemento>Desarrollar procesos de cooperación para el desarrollo
-económico y social.</listaElemento>
+económico y social.</listaElemento><?Pub Caret 3?>
 <listaElemento>Proteger la soberanía y la integridad territorial.</listaElemento>
 <listaElemento>Promover la cooperación internacional en el marco de
 los criterios establecidos por la Carta de las Naciones Unidas y la
@@ -1332,9 +1315,7 @@ el Acta Constitutiva de la Unión.</listaElemento>
 la hoja de ruta para la implementación de la UA.</listaElemento>
 <listaElemento>La <negrita>Cumbre de Durban</negrita> (2002) puso
 en marcha la UA y convocó el primer período de sesiones de la Asamblea
-de la Unión. Texto recuperado<enlace destino="http://www.au.int/"
-> [VER]</enlace>.</listaElemento>
-<listaElemento></listaElemento>
+de la Unión<enlace destino="http://www.au.int/"> [VER]</enlace>.</listaElemento>
 </listaSinNumerar>
 </destacadoTexto></destacado>
 <p>Con el fin de cumplir sus propósitos, la <negrita>Unión Africana</negrita
@@ -1418,9 +1399,7 @@ de África. Concentra <negrita>el 75%</negrita> del <negrita>sector
 industrial</negrita> de este continente.</p>
 </imagen>
 <p>Te invitamos a profundizar en las características poblacionales,
-políticas y económicas de los diferentes países de África<enlace
-destino="http://go.hrw.com/atlas/span_htm/africa.htm"> [VER]</enlace
->.</p><?Pub Caret 31?>
+políticas y económicas de los diferentes países de África.</p>
 </seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
 id="S2_CS_07_07_CO_64080091C7C4482C8DCF0F731FD61115">
 <seccion2Titulo>Consolidación</seccion2Titulo>

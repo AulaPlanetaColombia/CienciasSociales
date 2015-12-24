@@ -1029,7 +1029,7 @@ p.nominalBounds = new cjs.Rectangle(-115.2,-29.1,144,28.5);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Capa 1
-	this.text = new cjs.Text("Níger", "bold 16px Verdana");
+	this.text = new cjs.Text("Río Níger", "bold 16px Verdana");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 18;
 	this.text.lineWidth = 98;

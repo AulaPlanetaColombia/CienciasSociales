@@ -919,7 +919,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,130,50);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Capa 1
-	this.text = new cjs.Text("Tibet", "bold 16px Verdana");
+	this.text = new cjs.Text("Tíbet", "bold 16px Verdana");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 18;
 	this.text.lineWidth = 126;
@@ -995,7 +995,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,501,768);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Capa 1
-	this.text = new cjs.Text("Llanura de\nSiberia\nOccidental", "bold 16px Verdana");
+	this.text = new cjs.Text("Llanura de\nSiberia\noccidental", "bold 16px Verdana");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 18;
 	this.text.lineWidth = 126;
