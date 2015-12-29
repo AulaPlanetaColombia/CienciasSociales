@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="a" aprid="m5a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Actividades económicas del continente asiático</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde las siguientes de preguntas sobre la economía asiática y algunos de sus países.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado><![CDATA[La mayoría de los países asiáticos centran sus actividades económicas en uno de estos sectores de la economía]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_07_REC140_IMG01n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_07_REC140_IMG01a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Secundario." correcta="0"/>
+        <respuesta contestacion="Industrial." correcta="0"/>
+        <respuesta contestacion="Primario." correcta="1"/>
+        <respuesta contestacion="Minero." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El sector secundario de la economía de algunos países asiáticos se caracteriza por reconocidas industrias ]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_07_REC140_IMG02n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_07_REC140_IMG02a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Automotriz y nuevas tecnologías. " correcta="1"/>
+        <respuesta contestacion="Textil e investigación." correcta="0"/>
+        <respuesta contestacion="Automotriz y financiera." correcta="0"/>
+        <respuesta contestacion="Financiera e investigación." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Se puede considerar a China como una de las economías más importantes del mundo. teniendo en cuenta factores como]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_07_REC140_IMG03n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_07_REC140_IMG03a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="La riqueza y sus fuerzas armadas." correcta="0"/>
+        <respuesta contestacion="Producto nacional bruto y población." correcta="0"/>
+        <respuesta contestacion="La producción y producto interno bruto. " correcta="1"/>
+        <respuesta contestacion="Tamaño de la población y su distribución." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Japón es considerada la cuarta economía del mundo, gracias a su protagonismo en el campo del]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_07_REC140_IMG04n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_07_REC140_IMG04a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Comercio de bienes." correcta="0"/>
+        <respuesta contestacion="Ingreso de divisas." correcta="0"/>
+        <respuesta contestacion="Desarrollo estatal." correcta="0"/>
+        <respuesta contestacion="Desarrollo tecnológico ." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La economía de la India posee una particular conformación en su estructura económica, ya que combina una fuerte actividad]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_07_REC140_IMG05n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_07_REC140_IMG05a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Industrial y desarrollo aeronáutico." correcta="0"/>
+        <respuesta contestacion="Agrícola y desarrollo de software. " correcta="1"/>
+        <respuesta contestacion="Financiera y agrícola." correcta="0"/>
+        <respuesta contestacion="Agrícola y desarrollo de maquinaria." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El continente asiático cuenta con una población numerosa, lo que en términos económicos le permite contar con abundante]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_07_REC140_IMG06n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_07_REC140_IMG06a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Mano de obra y financiamiento." correcta="0"/>
+        <respuesta contestacion="Tecnología y recursos naturales." correcta="0"/>
+        <respuesta contestacion="Mano de obra y consumidores. " correcta="1"/>
+        <respuesta contestacion="Producción y recursos naturales." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[India y China forman parte del grupo denominado BRICS, que tienen en común un importante crecimiento del PIB y]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_07_REC140_IMG07n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_07_REC140_IMG07a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Extensas costas y puertos." correcta="0"/>
+        <respuesta contestacion="Extenso territorio y ríos." correcta="0"/>
+        <respuesta contestacion="Gran Estado y ejército." correcta="0"/>
+        <respuesta contestacion="Gran territorio y población. " correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Los países que conforman el grupo BRICS han experimentado un importante crecimiento industrial gracias a que disponen de grandes]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_07_REC140_IMG08n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_07_REC140_IMG08a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Centros urbanos." correcta="0"/>
+        <respuesta contestacion="Recursos naturales. " correcta="1"/>
+        <respuesta contestacion="Desiertos y bosques." correcta="0"/>
+        <respuesta contestacion="Recursos financieros." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>
