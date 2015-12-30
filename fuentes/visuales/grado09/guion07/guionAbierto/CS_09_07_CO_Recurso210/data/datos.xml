@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<motor tipo="101" clase="a" aprid="m101a">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Refuerza tu aprendizaje: Asia oriental en el siglo XX</titulo>
+    <volumen />
+    <nivel><![CDATA[1]]></nivel>
+    <referencia />
+    <motor />
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad y cuando termines haces clik en Enviar. También la puedes enviar por email al profesor.]]></enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="3">
+    <pregunta>
+      <enunciado><![CDATA[Cuatro pequeños territorios del sur de Asia oriental: Corea del Sur, Taiwán, Hong Kong y Singapur, llevaron a cabo casi simultáneamente un proceso impresionante de crecimiento industrial y desarrollo económico desde los años sesenta. Usualmente se les pone como ejemplo de "milagro económico". Indaga de qué manera estos países lo lograron.]]></enunciado>
+      <explicacion><![CDATA[La explicación debe tratar aspectos como: los incentivos estatales a la industria, las inversiones de capital extranjero, la sobreexplotación de la mano de obra barata, abundante y sin sindicatos, la escasez de recursos naturales que pudieran utilizarse como materias primas y el fácil acceso a las vías marítimas para la exportación de sus productos.]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen><![CDATA[72264883.jpg]]></imagen>
+      <ampliacion><![CDATA[72264883.jpg]]></ampliacion>
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Al finalizar la Segunda Guerra Mundial en 1945, Japón sufrió dos ataques nucleares en su territorio por parte de EE. UU., con lo cual se completó una devastación casi total. Unas décadas después Japón se convirtió en potencia industrial de primer orden. Indaga cómo lo logró.]]></enunciado>
+      <explicacion><![CDATA[La respuesta debe incluir aspectos como: la gran cantidad de mano calificada de obra existente, la tradición industrial que data de finales del siglo XIX, la transferencia tecnológica de EE. UU., las reformas sociales y el desarrollo de sindicatos que favorecieron la distribución de las ganancias y la disminución de la pobreza, ampliando el mercado interno, la protección estatal frente a la competencia extranjera y la cultura del trabajo y el esfuerzo, entre otros aspectos.]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen><![CDATA[93656836.jpg]]></imagen>
+      <ampliacion><![CDATA[93656836.jpg]]></ampliacion>
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Se dice que China ha logrado el “milagro económico” al pasar de ser una nación rural y atrasada tecnológica e industrialmente, a tener un crecimiento económico del 10% anual en los ultimos 30 años. Hoy es el primer exportador e importador del planeta, posee grandes reservas de recursos y va a sobrepasar a Estados Unidos como el mayor mercado interno global. Indaga cómo lo logró y a qué costos.]]></enunciado>
+      <explicacion><![CDATA[El milagro chino se basa en la sobreexplotación de su inmensa mano de obra barata, en la introducción de métodos capitalistas para facilitar la acumulación de capital, en la flexibilización del control estatal de la economía, la exclusión del campesinado de las políticas de incentivos, una cultura afín con la ética del trabajo y la productividad, el incentivo a la inversión extranjera que transfiere tecnología en altos niveles y el férreo control social por parte del Estado, entre otros.]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen><![CDATA[168310118.jpg]]></imagen>
+      <ampliacion><![CDATA[168310118.jpg]]></ampliacion>
+      <texto />
+    </pregunta>
+  </preguntas>
+</motor>

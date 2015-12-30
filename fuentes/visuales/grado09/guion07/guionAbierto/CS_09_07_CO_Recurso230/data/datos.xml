@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<motor tipo="102" clase="ab" aprid="M102ab">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Proyecto: análisis de la actualidad de nuestro territorio</titulo>
+    <volumen />
+    <nivel>2</nivel>
+    <referencia />
+    <motor />
+    <lang>es</lang>
+  </plataforma>
+  <calc>0</calc>
+  <enunciado><![CDATA[Desarrolla este proyecto siguiendo las indicaciones del docente.]]></enunciado>
+  <masinfo inicio="0" />
+  <textoupload />
+  <adjunto><![CDATA[Principal.html]]></adjunto>
+  <url />
+  <amano><![CDATA[0]]></amano>
+</motor>

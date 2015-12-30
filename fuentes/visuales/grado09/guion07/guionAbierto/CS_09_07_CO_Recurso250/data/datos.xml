@@ -30,7 +30,7 @@
     <ref>20</ref>
     <texto>Crisis del bloque comunista
 (1985-1991)</texto>
-    <hijos>31,30</hijos>
+    <hijos>30,31</hijos>
     <padre>10</padre>
     <siz>0</siz>
     <negcur>000000000000000000000000000000000000000</negcur>
@@ -96,7 +96,8 @@
   </objeto>
   <objeto>
     <ref>41</ref>
-    <texto>Fin de la URSS</texto>
+    <texto>Fin de
+la URSS</texto>
     <hijos>50</hijos>
     <padre>31</padre>
     <siz>0</siz>
@@ -107,7 +108,8 @@
   </objeto>
   <objeto>
     <ref>42</ref>
-    <texto>Europa del Este</texto>
+    <texto>Europa
+del Este</texto>
     <hijos>52</hijos>
     <padre>30</padre>
     <siz>0</siz>
@@ -604,7 +606,7 @@ populares</texto>
 - guerras
   en África
 - guerra del
-  Caucaso</texto>
+  Cáucaso</texto>
     <hijos/>
     <padre>75</padre>
     <siz>0</siz>
