@@ -574,12 +574,12 @@ religioso</texto>
   </objeto>
   <objeto>
     <ref>68</ref>
-    <texto>protesta
+    <texto>protestas
 populares</texto>
     <hijos>78</hijos>
     <padre>55</padre>
     <siz>0</siz>
-    <negcur>000000000000000000</negcur>
+    <negcur>0000000000000000000</negcur>
     <cen>1</cen>
     <img/>
     <audio/>
@@ -605,34 +605,11 @@ populares</texto>
   en África
 - guerra del
   Caucaso</texto>
-    <hijos>94</hijos>
+    <hijos/>
     <padre>75</padre>
     <siz>0</siz>
     <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
     <cen>0</cen>
-    <img/>
-    <audio/>
-  </objeto>
-  <objeto>
-    <ref>94</ref>
-    <texto>desarrolla</texto>
-    <hijos>a4</hijos>
-    <padre>85</padre>
-    <siz>0</siz>
-    <negcur>0000000000</negcur>
-    <cen>1</cen>
-    <img/>
-    <audio/>
-  </objeto>
-  <objeto>
-    <ref>a4</ref>
-    <texto>políticas
-comunitarias</texto>
-    <hijos/>
-    <padre>94</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000000</negcur>
-    <cen>1</cen>
     <img/>
     <audio/>
   </objeto>
@@ -655,7 +632,7 @@ comunitarias</texto>
 - Próximo
   Oriente
 - Asia Central</texto>
-    <hijos>96</hijos>
+    <hijos/>
     <padre>76</padre>
     <siz>0</siz>
     <negcur>00000000000000000000000000000000000000000000000000000000000000000000</negcur>
@@ -700,56 +677,10 @@ comunitarias</texto>
   <objeto>
     <ref>a5</ref>
     <texto>atentados del 11 S</texto>
-    <hijos>b1</hijos>
+    <hijos/>
     <padre>95</padre>
     <siz>0</siz>
     <negcur>000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-    <audio/>
-  </objeto>
-  <objeto>
-    <ref>b1</ref>
-    <texto>desarrolla</texto>
-    <hijos>c1</hijos>
-    <padre>a5</padre>
-    <siz>0</siz>
-    <negcur>0000000000</negcur>
-    <cen>1</cen>
-    <img/>
-    <audio/>
-  </objeto>
-  <objeto>
-    <ref>c1</ref>
-    <texto>políticas
-comunitarias</texto>
-    <hijos/>
-    <padre>b1</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-    <audio/>
-  </objeto>
-  <objeto>
-    <ref>96</ref>
-    <texto>desarrolla</texto>
-    <hijos>a6</hijos>
-    <padre>86</padre>
-    <siz>0</siz>
-    <negcur>0000000000</negcur>
-    <cen>1</cen>
-    <img/>
-    <audio/>
-  </objeto>
-  <objeto>
-    <ref>a6</ref>
-    <texto>políticas
-comunitarias</texto>
-    <hijos/>
-    <padre>96</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
     <audio/>
@@ -792,33 +723,10 @@ dictatoriales</texto>
     <ref>a7</ref>
     <texto>Primavera
 árabe</texto>
-    <hijos>b2</hijos>
+    <hijos/>
     <padre>97</padre>
     <siz>0</siz>
     <negcur>000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-    <audio/>
-  </objeto>
-  <objeto>
-    <ref>b2</ref>
-    <texto>desarrolla</texto>
-    <hijos>c2</hijos>
-    <padre>a7</padre>
-    <siz>0</siz>
-    <negcur>0000000000</negcur>
-    <cen>1</cen>
-    <img/>
-    <audio/>
-  </objeto>
-  <objeto>
-    <ref>c2</ref>
-    <texto>políticas
-comunitarias</texto>
-    <hijos/>
-    <padre>b2</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
     <audio/>

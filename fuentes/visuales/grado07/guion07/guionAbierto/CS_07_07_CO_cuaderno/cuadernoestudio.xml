@@ -492,8 +492,9 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso090&amp;IdRecurso=RES-A28D96
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_07_07_CO_A96FAA58550C4C20A5CBA46CA36EC6B3">
 <seccion1Titulo>Geografía física y humana de Asia</seccion1Titulo>
-<seccion1Texto><seccion2
-id="S2_CS_07_07_CO_D3D96A4D89364E629B73EC9C4B50F92A">
+<seccion1Texto>
+<p>Falta párrafo</p>
+<seccion2 id="S2_CS_07_07_CO_D3D96A4D89364E629B73EC9C4B50F92A">
 <seccion2Titulo>El aspecto físico de Asia</seccion2Titulo>
 <seccion2Texto>
 <p><negrita>Asia</negrita> es el continente más grande del planeta,
@@ -544,7 +545,7 @@ desierto es el de Gobi.</p>
 las de Corea, Arabia e Indochina. También sobresalen islas y <negrita
 >archipiélagos</negrita>, como las islas de Borneo y Sumatra, y los
 archipiélagos de Filipinas y Japón.</p>
-<imagen src="CS_07_07_CO_IMG07_small.jpg">
+<imagen ampliable="no" src="CS_07_07_CO_IMG07_small.jpg">
 <p>Entre las principales unidades del <negrita>relieve asiático</negrita
 > se cuentan la cordillera del <negrita>Himalaya</negrita>, la meseta
 del <negrita>Tíbet</negrita>, el desierto del <negrita>Gobi</negrita
@@ -667,7 +668,7 @@ mares y lagos interiores. Los ríos asiáticos que desembocan en el
 mar de Aral son el <negrita>Amú Daryá</negrita> y el <negrita>Syr
 Daryá</negrita>.</listaElemento>
 </listaSinNumerar>
-<imagen src="CS_07_07_CO_IMG08_small.jpg">
+<imagen ampliable="no" src="CS_07_07_CO_IMG08_small.jpg">
 <p>Algunos de los ríos más largos de Asia son el Jangzi Jiang (5800
 km), el Huang He (4845), el Mekong (4500 km) y el Amur (4416 km).</p>
 </imagen>
@@ -716,12 +717,12 @@ En Asia se encuentran algunas de las ciudades más grandes del mundo: <negrita
 >, <negrita>Yakarta</negrita>, <negrita>Hong Kong</negrita>, <negrita
 >Bombay</negrita>, <negrita>Osaka</negrita>, <negrita>Shanghái</negrita
 > y <negrita>Calcuta</negrita>, entre otras.</p>
-<imagen src="CS_07_07_CO_IMG10_small.jpg">
+<imagen ampliable="no" src="CS_07_07_CO_IMG10_small.jpg">
 <p>Asia es el continente de mayor extensión de la Tierra. Su territorio
 se reparte entre 45 Estados de extensión muy desigual. La mayor parte
 de Rusia se encuentra en este continente y los Estados llegan a 46
 si se incluye este país. China, India y algunos Estados insulares,
-como Filipinas, Japón e Indonesia, forman parte de Asia.</p>
+como Filipinas, Japón e Indonesia, forman parte de Asia.</p><?Pub Caret -2?>
 </imagen>
 <p>Es un continente con diversos contrastes socioculturales, políticos
 y económicos, que tendrás la oportunidad de conocer a continuación.</p>
@@ -1418,7 +1419,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso210&amp;IdRecurso=RES-CCD9DF
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso220&amp;IdRecurso=RES-87760053F89D47439140190C0C124BCB"
 >Competencias: diseño de un cuadro comparativo del flujo migratorio
-reciente en Europa, Asia y África</enlace><?Pub Caret -2?>
+reciente en Europa, Asia y África</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso260&amp;IdRecurso=RES-91DC686532A144A8AD6BBFA130027F8C"
 >Proyecto: estudio de las religiones en el Antiguo continente</enlace>
