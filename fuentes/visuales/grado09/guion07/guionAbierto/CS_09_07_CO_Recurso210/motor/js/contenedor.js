@@ -862,7 +862,7 @@ Contenedor = new function()
 	}
 	this.masInfoHandler = function(evt){
 		//alert("mas info");
-		if( evt.primary ){
+		if( evt ==null ||  evt.primary ){
 			if( Contenedor.moreinfopanel == "" )
 			{
 				Contenedor.moreinfopanel = new moreInfoPanell( Contenedor.datosXML.masinfo.text );

@@ -1,17 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<motor tipo="5" clase="a" aprid="m5a">
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="a" aprid="m5a">
   <plataforma>
     <grado><![CDATA[2]]></grado>
     <titulo>Características de la Unión Europea</titulo>
     <area>0</area>
     <nivel>3</nivel>
-    <referencia />
+    <referencia/>
     <idreg><![CDATA[0]]></idreg>
     <motor><![CDATA[M5A]]></motor>
     <lang>es</lang>
   </plataforma>
   <enunciado><![CDATA[Responde las siguientes preguntas sobre las características de la Unión Europea.]]></enunciado>
-  <masinfo inicio="0" />
+  <masinfo inicio="0"/>
   <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
   <calc><![CDATA[0]]></calc>
   <respuestaunica><![CDATA[0]]></respuestaunica>
@@ -19,61 +18,61 @@
     <cuestion>
       <enunciado><![CDATA[¿Cómo se denominó la organización antecesora de la Unión Europea?]]></enunciado>
       <explicacion><![CDATA[La CEE fue creada por el Tratado de Roma en 1957 por algunos países europeos para constituir un mercado común y precedió a la Unión Europea.]]></explicacion>
-      <imagen><![CDATA[270886703.jpg]]></imagen>
-      <ampliacion><![CDATA[270886703.jpg]]></ampliacion>
+      <imagen><![CDATA[CS_09_07_REC70_IMG02n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_09_07_REC70_IMG02a.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="Pacto de Varsovia." correcta="0" />
-        <respuesta contestacion="Organización del Tratado del Atlántico Norte." correcta="0" />
-        <respuesta contestacion="Comunidad de Estados Independientes." correcta="0" />
-        <respuesta contestacion="Comunidad Económica Europea." correcta="1" />
+        <respuesta contestacion="Pacto de Varsovia." correcta="0"/>
+        <respuesta contestacion="Organización del Tratado del Atlántico Norte." correcta="0"/>
+        <respuesta contestacion="Comunidad de Estados Independientes." correcta="0"/>
+        <respuesta contestacion="Comunidad Económica Europea." correcta="1"/>
       </respuestas>
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Qué significado tiene la libre circulación de personas en la Unión Europea?]]></enunciado>
       <explicacion><![CDATA[Esta libre circulación se formalizó con el tratado de Schengen, que establece el control migratorio con países externos a este. ]]></explicacion>
-      <imagen><![CDATA[118571677.jpg]]></imagen>
-      <ampliacion><![CDATA[118571677.jpg]]></ampliacion>
+      <imagen><![CDATA[CS_09_07_REC70_IMG04n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_09_07_REC70_IMG04a.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="El paso de personas por las fronteras de la Unión es libre." correcta="1" />
-        <respuesta contestacion="Solo los extranjeros tienen limitado el paso fronterizo." correcta="0" />
-        <respuesta contestacion="Las personas solo pueden transitar libremente en su país." correcta="0" />
-        <respuesta contestacion="Los países europeos tienen políticas de puertas abiertas." correcta="0" />
+        <respuesta contestacion="El paso de personas por las fronteras de la Unión es libre." correcta="1"/>
+        <respuesta contestacion="Solo los extranjeros tienen limitado el paso fronterizo." correcta="0"/>
+        <respuesta contestacion="Las personas solo pueden transitar libremente en su país." correcta="0"/>
+        <respuesta contestacion="Los países europeos tienen políticas de puertas abiertas." correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Qué implica el principio de libre circulación de mercancías en la Unión Europea? ]]></enunciado>
       <explicacion><![CDATA[La libre circulación de mercancías está permitida en la Unión Europea como una Unión Aduanera, que además establece un arancel común con respecto a terceros países.]]></explicacion>
-      <imagen><![CDATA[001WDF01.jpg]]></imagen>
-      <ampliacion><![CDATA[001WDF01.jpg]]></ampliacion>
+      <imagen><![CDATA[CS_09_07_REC70_IMG01n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_09_07_REC70_IMG01a.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="La economía europea es regulada por los bancos centrales. " correcta="0" />
-        <respuesta contestacion="Las mercancías extranjeras no pagan impuestos." correcta="0" />
-        <respuesta contestacion="El comercio entre países de la Unión no tiene aranceles." correcta="1" />
-        <respuesta contestacion="El comercio mundial es impulsado por la economía europea." correcta="0" />
+        <respuesta contestacion="La economía europea es regulada por los bancos centrales. " correcta="0"/>
+        <respuesta contestacion="Las mercancías extranjeras no pagan impuestos." correcta="0"/>
+        <respuesta contestacion="El comercio entre países de la Unión no tiene aranceles." correcta="1"/>
+        <respuesta contestacion="El comercio mundial es impulsado por la economía europea." correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Qué cambio importante crees que introdujo el euro cuando entró en circulación como moneda de la Unión Europea? ]]></enunciado>
       <explicacion><![CDATA[El euro es la moneda oficial de la eurozona y reemplazó, en 2002, a las monedas nacionales. Hoy es adoptada por 18 de los 29 países de la Unión Europea. ]]></explicacion>
-      <imagen><![CDATA[261265559.jpg]]></imagen>
-      <ampliacion><![CDATA[261265559.jpg]]></ampliacion>
+      <imagen><![CDATA[CS_09_07_REC70_IMG05n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_09_07_REC70_IMG05a.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="Circuló junto con las monedas nacionales de cada país. " correcta="0" />
-        <respuesta contestacion="Reemplazó a las monedas nacionales de cada país miembro. " correcta="1" />
-        <respuesta contestacion="Se convirtió en la preferida del comercio internacional." correcta="0" />
-        <respuesta contestacion="Se negoció al mismo valor del dólar estadounidense." correcta="0" />
+        <respuesta contestacion="Circuló junto con las monedas nacionales de cada país. " correcta="0"/>
+        <respuesta contestacion="Reemplazó a las monedas nacionales de cada país miembro. " correcta="1"/>
+        <respuesta contestacion="Se convirtió en la preferida del comercio internacional." correcta="0"/>
+        <respuesta contestacion="Se negoció al mismo valor del dólar estadounidense." correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Qué cambio importante crees que introdujo el acuerdo Schengen, al que se acogieron la mayoría de países de la Unión Europea?]]></enunciado>
       <explicacion><![CDATA[Delimitó un espacio común en Europa por el que pueden circular libremente los residentes o quienes hayan entrado legalmente. Gran Bretaña y Suiza no están incluidos.]]></explicacion>
-      <imagen><![CDATA[173257178.jpg]]></imagen>
-      <ampliacion><![CDATA[173257178.jpg]]></ampliacion>
+      <imagen><![CDATA[CS_09_07_REC70_IMG03n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_09_07_REC70_IMG03a.jpg]]></ampliacion>
       <respuestas>
-        <respuesta contestacion="Supresión de controles migratorios entre países miembros." correcta="1" />
-        <respuesta contestacion="Afianzamiento de lazos de unión con Gran Bretaña y Suiza. " correcta="0" />
-        <respuesta contestacion="Garantía de permisos de trabajo para migrantes externos." correcta="0" />
-        <respuesta contestacion="Establecimiento de políticas de subsidio comunes entre sus miembros." correcta="0" />
+        <respuesta contestacion="Supresión de controles migratorios entre países miembros." correcta="1"/>
+        <respuesta contestacion="Afianzamiento de lazos de unión con Gran Bretaña y Suiza. " correcta="0"/>
+        <respuesta contestacion="Garantía de permisos de trabajo para migrantes externos." correcta="0"/>
+        <respuesta contestacion="Establecimiento de políticas de subsidio comunes entre sus miembros." correcta="0"/>
       </respuestas>
     </cuestion>
   </test>

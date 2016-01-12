@@ -24,11 +24,11 @@ function Pagina(pregunta, _numpagina) {
 		this.enunciat.fontSize = 19;
 		
 		//setejem color segons si es link o no
-		if(enunciats[index].tipo == 0) this.enunciat.color = "#0D3158";
+		if(enunciats[index].tipo == 0 || enunciats[index].tipo == 2 ) this.enunciat.color = "#0D3158";
 		if(enunciats[index].tipo == 1) this.enunciat.color = "#5555FF";
 		
 		// Setegem un text inicial per colocar el fons del link
-		if(enunciats[index].tipo == 0) this.enunciat.text = enunciats[index].text;
+		if(enunciats[index].tipo == 0 || enunciats[index].tipo == 2 ) this.enunciat.text = enunciats[index].text;
 		if(enunciats[index].tipo == 1) this.enunciat.text = "{{u}}"+enunciats[index].text+"{{normal}}";
 		
 		auxAcumW = (this.enunciat.getBounds() != null)? AcumW + this.enunciat.getBounds().width : AcumW;
@@ -45,13 +45,13 @@ function Pagina(pregunta, _numpagina) {
 		//coloquem el fons del link amb els events
 		if(enunciats[index].tipo == 1) { 	
         	var fons = new createjs.Shape();
-        	fons.graphics.beginFill("#fff").drawRect(this.enunciat.x,this.enunciat.y, this.enunciat.getBounds().width, this.enunciat.getBounds().height);
+        	fons.graphics.beginFill("#fff").drawRect(this.enunciat.x, this.enunciat.y, this.enunciat.getBounds().width, this.enunciat.getBounds().height);
         	fons.alpha = 0.01;
         	this.contenedor.addChild(fons);
         	
         	fons.on("mouseover", function(evt){ document.body.style.cursor='pointer'; });
         	fons.on("mouseout", function(evt){ document.body.style.cursor='default'; });
-        	fons.on("click",function(evt, data){ location.href = data.href;}, null, false, {href: enunciats[index].href});
+        	fons.on("click",function(evt, data){ window.open(data.href); }, null, false, {href: enunciats[index].href});
         	
 			//this.contenedor.addChild(this.enunciat);
 		}
@@ -221,28 +221,70 @@ function Texto(pregunta, gran){
 
     this.fons = new createjs.Shape();
     this.fons.graphics.beginFill("#fff").drawRoundRect(0, 0, 325, 300, 10);
-
+	this.contenedor.addChild(this.fons);
+	
     this.texte = new createjs.RichText();
-    this.texte.text = pregunta.texto;
-    this.texte.font = (Contenedor.datosXML.plataforma.grado == 1)? "17px Arial" : "15px Arial" ;
-    this.texte.fontSize = (Contenedor.datosXML.plataforma.grado == 1)? 17 : 15 ;
-    this.texte.color = "#0D3158";
-    this.texte.x = 10;
-    this.texte.y = 10;
-    this.texte.lineWidth = 300;
-    this.texte.lineHeight = 22;
-    this.texte.mouseEnabled = false;
+    var texts = Utils.getEnunciats(pregunta.texto);
+    var listTextes = new Array();
 
-    this.texte.mask = new createjs.Shape();
-    this.texte.mask.graphics.beginFill("#fff").drawRoundRect(0, 0, 305, 263, 0);
-    this.texte.mask.x = 10;
-    this.texte.mask.y = 10;
+	var totalW = 300;
+	var AcumW = 10;
+	var AcumH = 11;
+	for( var index in texts){
+		//console.log(enunciats[index].text);
+		this.texte = new createjs.RichText();
+    	this.texte.font = (Contenedor.datosXML.plataforma.grado == 1)? "17px Arial" : "15px Arial" ;
+    	this.texte.fontSize = (Contenedor.datosXML.plataforma.grado == 1)? 17 : 15 ;
+		
+		//setejem color segons si es link o no
+		if(texts[index].tipo == 0 || texts[index].tipo == 2) this.texte.color = "#0D3158";
+		if(texts[index].tipo == 1) this.texte.color = "#5555FF";
+		
+		// Setegem un text inicial per colocar el fons del link
+		if(texts[index].tipo == 0 || texts[index].tipo == 2) this.texte.text = texts[index].text;
+		if(texts[index].tipo == 1) this.texte.text = "{{u}}"+texts[index].text+"{{normal}}";
+		
+		auxAcumW = (this.texte.getBounds() != null)? AcumW + this.texte.getBounds().width : AcumW;
+		if( (auxAcumW >= 305 || texts[index].tipo == 2 ) && texts.length > 1 ){
+			AcumW = 10;
+			AcumH += 20;
+		}
+		
+		this.texte.x = AcumW ;
+		this.texte.y = AcumH ;
+		
+		AcumW += (this.texte.getBounds() != null)? this.texte.getBounds().width + 6 : 0;
 
-    this.contenedor.addChild(this.fons);
-    this.contenedor.addChild(this.texte);
+		//coloquem el fons del link amb els events
+		if(texts[index].tipo == 1) { 	
+        	var fons = new createjs.Shape();
+        	fons.graphics.beginFill("#fff").drawRect(this.texte.x, this.texte.y, this.texte.getBounds().width, this.texte.getBounds().height);
+        	fons.alpha = 0.01;
+        	this.contenedor.addChild(fons);
+        	
+        	fons.on("mouseover", function(evt){ document.body.style.cursor='pointer'; });
+        	fons.on("mouseout", function(evt){ document.body.style.cursor='default'; });
+        	fons.on("click",function(evt, data){ window.open(data.href); }, null, false, {href: texts[index].href});
+        	
+			//this.contenedor.addChild(this.enunciat);
+		}
+		
+		// posem les variables definitives
+		this.texte.lineWidth = 300;
+    	this.texte.lineHeight = 20;
+		this.texte.mask = new createjs.Shape();
+   	 	this.texte.mask.graphics.beginFill("#fff").drawRoundRect(0, 0, 305, 263, 0);
+    	this.texte.mask.x = 10;
+   		this.texte.mask.y = 10;
+		this.texte.mouseEnabled = false;
+
+		this.contenedor.addChild(this.texte);
+		listTextes.push(this.texte);
+	}
+    
+
     // texto completo ampliado
- 
-    if( pregunta.texto.length > 450){
+    if( AcumH > 450 || pregunta.texto.length > 450){
         this.ampliacion = new AmpliacionTexto(pregunta);
         this.ampliacion.contenedor.x = 0;
         this.ampliacion.contenedor.y = 0;
@@ -269,7 +311,7 @@ function Texto(pregunta, gran){
 }
 
 Texto.prototype.zooming = function(evt){
-    if( evt.primary ){
+    if( evt == null || evt.primary ){
         Main.stage.setChildIndex(this.ampliacion.contenedor, Main.stage.getNumChildren() - 1);
         this.ampliacion.contenedor.visible = true;
         createjs.Tween.get(this.ampliacion.contenedor).to({
@@ -358,7 +400,7 @@ function Imagen(pregunta, gran) {
 }
 
 Imagen.prototype.zooming = function(evt){
-	if( evt.primary ){
+	if( evt == null || evt.primary ){
 		Main.stage.setChildIndex(this.ampliacion.contenedor, Main.stage.getNumChildren() - 1);
 		this.ampliacion.contenedor.visible = true;
 		Motor.hideDomObjects();
@@ -394,7 +436,11 @@ function AmpliacionTexto(pregunta) {
     this.texteHead.x = 115;
     this.texteHead.y = 108;
 
-    this.texte = new createjs.RichText();
+	this.contenedor.addChild(this.fons);
+    this.contenedor.addChild(this.fonsHead);
+    this.contenedor.addChild(this.texteHead);
+    
+    /*this.texte = new createjs.RichText();
     this.texte.text = pregunta.texto;
     this.texte.font = "17px Arial";
     this.texte.fontSize = 17;
@@ -410,15 +456,73 @@ function AmpliacionTexto(pregunta) {
     this.texte.mask.x = 115;
     this.texte.mask.y = 140;
     
+    */
+   
+    this.texte = new createjs.RichText();
+    var texts = Utils.getEnunciats(pregunta.texto);
+    var listTextes = new Array();
+
+	var totalW = 800;
+	var AcumW = 115;
+	var AcumH = 140;
+	for( var index in texts){
+		//console.log(enunciats[index].text);
+		this.texte = new createjs.RichText();
+    	this.texte.font =  "17px Arial" ;
+    	this.texte.fontSize = 17  ;
+		
+		//setejem color segons si es link o no
+		if(texts[index].tipo == 0 || texts[index].tipo == 2) this.texte.color = "#0D3158";
+		if(texts[index].tipo == 1) this.texte.color = "#5555FF";
+		
+		// Setegem un text inicial per colocar el fons del link
+		if(texts[index].tipo == 0 || texts[index].tipo == 2) this.texte.text = texts[index].text;
+		if(texts[index].tipo == 1) this.texte.text = "{{u}}"+texts[index].text+"{{normal}}";
+		
+		auxAcumW = (this.texte.getBounds() != null)? AcumW + this.texte.getBounds().width : AcumW;
+		if( (auxAcumW >= 805 || texts[index].tipo == 2 ) && texts.length > 1 ){
+			AcumW = 115;
+			AcumH += 20;
+		}
+		
+		this.texte.x = AcumW ;
+		this.texte.y = AcumH ;
+		
+		AcumW += (this.texte.getBounds() != null)? this.texte.getBounds().width + 6 : 0;
+
+		//coloquem el fons del link amb els events
+		if(texts[index].tipo == 1) { 	
+        	var fons = new createjs.Shape();
+        	fons.graphics.beginFill("#fff").drawRect(this.texte.x, this.texte.y, this.texte.getBounds().width, this.texte.getBounds().height);
+        	fons.alpha = 0.01;
+        	this.contenedor.addChild(fons);
+        	
+        	fons.on("mouseover", function(evt){ document.body.style.cursor='pointer'; });
+        	fons.on("mouseout", function(evt){ document.body.style.cursor='default'; });
+        	fons.on("click",function(evt, data){ window.open(data.href); }, null, false, {href: texts[index].href});
+        	
+			//this.contenedor.addChild(this.enunciat);
+		}
+		
+		// posem les variables definitives
+		this.texte.lineWidth = 720;
+    	this.texte.lineHeight = 22;
+		this.texte.mask = new createjs.Shape();
+   	 	this.texte.mask.graphics.beginFill("#fff").drawRoundRect(0, 0, 800, 493, 0);
+    	this.texte.mask.x = 10;
+   		this.texte.mask.y = 10;
+		this.texte.mouseEnabled = false;
+
+		this.contenedor.addChild(this.texte);
+		listTextes.push(this.texte);
+	}
+
     this.fonsFoot = new createjs.Shape();
     this.fonsFoot.graphics.beginFill("#0D3158").drawRoundRectComplex(0, 0, 750, 15, 0, 0, 0, 0);
     this.fonsFoot.x = 100;
     this.fonsFoot.y = 535;
-
-    this.contenedor.addChild(this.fons);
-    this.contenedor.addChild(this.fonsHead);
-    this.contenedor.addChild(this.texteHead);
-    this.contenedor.addChild(this.texte);
+    
+    //this.contenedor.addChild(this.texte);
     this.contenedor.addChild(this.fonsFoot);
 
     this.contenedor.on("click", this.tancar);
@@ -463,7 +567,7 @@ function Ampliacion(pregunta) {
 }
 
 Ampliacion.prototype.tancar = function(evt){
-	if( evt.primary ){
+	if( evt == null || evt.primary ){
 		Motor.showDomObjects();
 		createjs.Tween.get(this).to({
 			alpha : 0
@@ -472,7 +576,7 @@ Ampliacion.prototype.tancar = function(evt){
 }
 
 AmpliacionTexto.prototype.tancar = function(evt){
-    if( evt.primary ){
+    if( evt == null || evt.primary ){
         createjs.Tween.get(this).to({
             alpha : 0
         }, 500, createjs.Ease.circOut);

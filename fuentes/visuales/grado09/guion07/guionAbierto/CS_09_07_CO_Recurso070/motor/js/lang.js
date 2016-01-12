@@ -48,6 +48,10 @@ LangRes = new function()
 			this.lang = this.lang_val;
 		} else if (langId == "gal") {
 			this.lang = this.lang_gal;
+		} else if (langId == "cat") {
+			this.lang = this.lang_cat;
+		} else if (langId == "eus") {
+			this.lang = this.lang_eus;
 		} else { // Si no es ningún idioma reconocido, entonces forzamos español
 			this.curLang = "es";
 			this.lang = this.lang_es;
@@ -114,6 +118,36 @@ LangRes = new function()
 		"Hi ha preguntes sense contestar. Si continues, s'emmagatzemarà la nota de l'exercici. Si vols fer alguna modificació, fes clic en Cancel·la."
 	];
 	
+	// CATALA
+	this.lang_cat = [
+		"Reintenta",
+		"Solució",
+		"Corregeix",
+		"Següent",
+
+		"TEMPS RESTANT",
+
+		"Més informació",
+
+		"Resultat",
+		"Respostes correctes:",
+		"de",
+		"Puntuació:",
+		"Temps emprat:",
+
+		"Continua",
+		"Reinicia",
+		"D'acord",
+		"Cancel·la",
+
+		"Exercici xxxx versió xxxx",
+		"Has esgotat el temps. Si continues, s'emmagatzemarà la nota de l'exercici. Si reinicies, tornaràs a començar l'exercici.",
+		"Atenció! Si reintentes, tornaràs a començar l'exercici.",
+		"Aquesta activitat ja s'ha lliurat. Ara pots practicar tantes vegades com vulguis.",
+		"Si continues, s'emmagatzemarà la nota de l'exercici. Si vols fer alguna modificació, fes clic a Cancel·la.",
+		"Hi ha preguntes sense contestar. Si continues, s'emmagatzemarà la nota de l'exercici. Si vols fer alguna modificació, fes clic a Cancel·la."
+	];
+	
 	// GALLEGO
 	this.lang_gal = [
 		"Tentar de novo",
@@ -174,4 +208,34 @@ LangRes = new function()
 		"Some questions have not been answered. If you continue, your exercise score will be saved. In case you want to make any changes, click Cancel."
 	];
 	
-}
+	// EUSKARA
+	this.lang_eus = [
+		"Saiatu berriro",
+		"Erantzuna",
+		"Zuzendu ariketa",
+		"Hurrengoa",
+
+		"GELDITZEN DEN DENBORA",
+
+		"Informazio gehiago",
+
+		"Emaitza",
+		"Erantzun zuzenak:",
+		"/",
+		"Puntuazioa:",
+		"Erabilitako denbora:",
+
+		"Jarraitu",
+		"Berrabiarazi",
+		"Ados",
+		"Utzi",
+
+		"xxxx ariketa, xxxx bertsioa",
+		"Denbora agortu zaizu. Jarraituz gero, puntuazioa gordeko da. Berrabiaraziz gero, berriro hasiko duzu ariketa.",
+		"Kontuz! Berrabiaraziz gero, berriro hasiko duzu ariketa.",
+		"Ariketa entregatu duzu jada. Orain, nahi bezainbeste aldiz egin dezakezu.",
+		"Ariketa entregatu duzu jada. Orain, nahi bezainbeste aldiz egin dezakezu.",
+		"Ez zaie galdera batzuei erantzun. Jarraituz gero, ariketaren puntuazioa gordeko da. Aldaketarik egin nahi izanez gero, sakatu Utzi."
+	];
+	
+};

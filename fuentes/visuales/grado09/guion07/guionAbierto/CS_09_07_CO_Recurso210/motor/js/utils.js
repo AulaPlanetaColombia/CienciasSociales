@@ -155,22 +155,51 @@ Utils = new function()
 						//console.log(textos[index]);
 		    			//primers texts
 		    			var text ="";
-		    			if(index == 0) text = textos[index].substring( 0, textos[index].indexOf("{{"));
-		    			else text = textos[index].substring( textos[index].indexOf("}}")+2, textos[index].indexOf("{{"));
+		    			if(index == 0) text = textos[index].substring( 0, textos[index].lastIndexOf("{{"));
+		    			else text = textos[index].substring( textos[index].indexOf("}}")+2, textos[index].lastIndexOf("{{"));
 		    			var texts = text.split(" ");
 		    			
+		    			var tag ="";
+		    			var txt ="";
 		    			for( var ind in texts){
 		    				var t1 = new Object();
-		    				t1.text = texts[ind];
-			    			t1.tipo = 0;
-			    			result.push(t1);
+		    				if( texts[ind].indexOf("{{") >= 0 && texts[ind].indexOf("{{normal}}") < 0){
+		    					tag =  texts[ind].substring( texts[ind].indexOf("{{"), texts[ind].indexOf("}}")+2 );
+		    					txt =  texts[ind].substring( texts[ind].indexOf("}}") + 2 , texts[ind].length);
+		    				}else{
+		    					txt =  texts[ind];
+		    				}
+		    				
+		    				if(txt.indexOf("\n") >= 0){
+		    					var txtarray = txt.split("\n");
+		    					for( var i in txtarray){
+		    						if( i == txtarray.length -1 ){
+		    							t1 = new Object();
+		    							t1.text = txtarray[i];
+			    						t1.tipo = (i == 0)? 0 : 2;
+			    						result.push(t1);
+		    						}else{
+		    							t1 = new Object();
+		    							t1.text = tag+txtarray[i];
+			    						t1.tipo = (i == 0)? 0 : 2;
+			    						result.push(t1);
+		    						}
+		    					}
+		    				}else{
+		    					//console.log("salt de linea:"+txt);
+		    					t1.text = tag+txt;
+			    				t1.tipo = 0;
+			    				result.push(t1);
+		    				}
+
+			    			if( texts[ind].indexOf("{{normal}}") >= 0 ) tag = "";
 		    			}
 		    			
 		    			//link
 		    			var link = new Object();
 		    			link.text = textos[parseInt(index)+1].substring( 0, textos[parseInt(index) + 1].indexOf("}}"));
 		    			link.tipo = 1;
-		    			link.href = textos[index].substring(textos[index].indexOf("{{") + 2, textos[index].length ).split("link:").join("");
+		    			link.href = textos[index].substring(textos[index].lastIndexOf("{{") + 2, textos[index].length ).split("link:").join("");
 		    			result.push(link);
 		    			
 	    			}else{
@@ -178,11 +207,40 @@ Utils = new function()
 	    				var text = textos[index].substring( textos[index].indexOf("}}") + 2, textos[index].length);
 	    				var texts = text.split(" ");
 		    			
+		    			var tag ="";
+		    			var txt ="";
 		    			for( var ind in texts){
-		    				var t2 = new Object();
-			    			t2.text = texts[ind]; 
-			    			t2.tipo = 0;
-			    			result.push(t2);
+		    				var t1 = new Object();
+		    				if( texts[ind].indexOf("{{") >= 0 && texts[ind].indexOf("{{normal}}") < 0){
+		    					tag =  texts[ind].substring( texts[ind].indexOf("{{"), texts[ind].indexOf("}}")+2 );
+		    					txt =  texts[ind].substring( texts[ind].indexOf("}}") + 2 , texts[ind].length);
+		    				}else{
+		    					txt =  texts[ind];
+		    				}
+		    				
+		    				if(txt.indexOf("\n") >= 0){
+		    					var txtarray = txt.split("\n");
+		    					for( var i in txtarray){
+		    						if( i == txtarray.length -1 ){
+		    							t1 = new Object();
+		    							t1.text = txtarray[i];
+			    						t1.tipo = (i == 0)? 0 : 2;
+			    						result.push(t1);
+		    						}else{
+		    							t1 = new Object();
+		    							t1.text = tag+txtarray[i];
+			    						t1.tipo = (i == 0)? 0 : 2;
+			    						result.push(t1);
+		    						}
+		    					}
+		    				}else{
+		    					//console.log("salt de linea:"+txt);
+		    					t1.text = tag+txt;
+			    				t1.tipo = 0;
+			    				result.push(t1);
+		    				}
+			    			
+			    			if( texts[ind].indexOf("{{normal}}") >= 0 ) tag = "";
 		    			}
 		    			
 	    			}

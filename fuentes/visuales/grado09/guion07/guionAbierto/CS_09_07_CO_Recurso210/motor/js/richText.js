@@ -394,6 +394,7 @@ var p = RichText.prototype = new createjs.DisplayObject();
 			//debugger;
 			if (this.lineWidth != null && (wC = ctx.measureText(strC).width) > this.lineWidth) {
 				// text wrapping:
+				var amplifica = ( str.indexOf('neg') >= 0) ? 1.05 : 1 ;
 				var words = str.split(/(\s)/);
 				str = words[0];
 				//w = ctx.measureText(str).width;
@@ -419,7 +420,7 @@ var p = RichText.prototype = new createjs.DisplayObject();
 				
 				for (var j=1, jl=wordsC.length; j<jl; j+=2) {
 					// Line needs to wrap:
-					var wordWC = ctx.measureText(wordsC[j] + wordsC[j+1]).width;
+					var wordWC = ctx.measureText(wordsC[j] + wordsC[j+1]).width*amplifica ;
 					if (wC + wordWC > this.lineWidth) {
 						if (paint) { this._drawTextLine(ctx, str, count*lineHeight); }
 						if (wC > maxW) { maxW = wC; }
@@ -544,7 +545,7 @@ var p = RichText.prototype = new createjs.DisplayObject();
 							this.current_Y = base_y + Math.ceil(this.fontSize/3) + 3;
 				 		break;
 				case "sup": this.current_font=  Math.ceil(this.fontSize/1.5)+"px Arial";
-							this.current_Y = base_y - 4;
+							this.current_Y = base_y -2/*- 4*/;
 				 		break;
 				case "cur": this.current_font= "italic "+this.base_font;
 							this.current_Y = base_y ;
