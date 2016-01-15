@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><engine copy="Editorial Planeta" version="1" aprid="f8"><main title="El mapa del tiempo" bkColor="#FFFFFF" titleColor="#000000" theme="black" buttonsWidth="230" buttonsHeight="52" trans="fade"><default><img path="1.jpg" x="300" y="100" width="" height="490" /></default><buttons><button title="Isobaras"><img path="2.jpg" x="" y="" width="" height="490" anim="" /></button><button title="Anticiclones y borrascas"><img path="3.jpg" x="" y="" width="" height="490" anim="" /></button><button title="Frentes"><img path="4.jpg" x="" y="" width="" height="490" anim="" /></button><button title="Mapa del tiempo"><img path="5.jpg" x="" y="" width="" height="490" anim="" /></button><button title="Previsión Meteorológica"><img path="anb.gif" x="" y="" width="" height="490" anim="an.gif" /></button></buttons></main><masinfo><pantalla1><![CDATA[<p><strong>Isobaras</strong></p>
+
+<p>L&iacute;neas que unen puntos de igual presi&oacute;n atmosf&eacute;rica sobre una superficie determinada en un tiempo espec&iacute;fico.&nbsp;</p>
+
+<p>La <strong>isobara 1010</strong> (hPa) marca el l&iacute;mite entre las zonas de altas y bajas presiones.</p>
+
+<p><br />
+<strong>Anticiclones&nbsp;y borrascas</strong></p>
+
+<p><span style="color:#D91729"><strong><img alt="" src="data/imagenes/image_21.jpg" style="float:right; height:376px; width:250px" />Anticicl&oacute;n</strong></span><br />
+&Aacute;rea de alta presi&oacute;n atmosf&eacute;rica (<span style="color:#D91729"><strong>A</strong></span>).&nbsp;<br />
+Propicia un <strong>tiempo estable</strong> y sin lluvias.</p>
+
+<p><span style="color:#1F8AB2"><strong>Borrasca</strong></span><br />
+&Aacute;rea de baja presi&oacute;n atmosf&eacute;rica (<span style="color:#1F8AB2"><strong>B</strong></span>).&nbsp;<br />
+Propicia un <strong>tiempo inestable</strong> y lluvioso.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><br />
+<strong>Frentes</strong></p>
+
+<p><span style="color:#1F8AB2"><strong>Frente fr&iacute;o</strong></span><br />
+<img alt="" src="data/imagenes/image_17_copy.jpg" style="float:left; height:39px; margin-left:10px; margin-right:10px; width:116px" />Provoca un descenso de las temperaturas. Surge cuando una masa de aire fr&iacute;o desplaza una masa de aire caliente.</p>
+
+<p><span style="color:#D91729"><strong>Frente c&aacute;lido</strong></span><br />
+<img alt="" src="data/imagenes/image_16_copy.jpg" style="float:left; height:31px; margin-left:10px; margin-right:10px; width:116px" />Provoca un aumento de las temperaturas. Surge cuando una masa de aire c&aacute;lido desplaza una masa de aire fr&iacute;o.</p>
+
+<p><br />
+<strong>Mapa del&nbsp;tiempo</strong></p>
+
+<p><strong><img alt="" src="data/imagenes/image_1_copy.jpg" style="height:130px; width:700px" /></strong></p>
+
+<p>&nbsp;</p>
+]]></pantalla1></masinfo></engine>
