@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="1" clase="b" aprid="m1b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>La Hegemonía conservadora</titulo>
+    <area>0</area>
+    <nivel>2</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M1B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Relaciona los nombres de los presidentes con las obras o hechos ocurridos durante su gobierno.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="5">
+    <cuestion>
+      <pregunta><![CDATA[Pedro Nel Ospina]]></pregunta>
+      <respuesta><![CDATA[Misión Kemmerer y Banco Central.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[General Rafael Reyes]]></pregunta>
+      <respuesta><![CDATA[Ministerio de Obras Públicas.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Carlos E. Restrepo]]></pregunta>
+      <respuesta><![CDATA[Tratado Thompson-Urrutia.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Rafael Núñez]]></pregunta>
+      <respuesta><![CDATA[Constitución de 1886.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Miguel Abadía Méndez.]]></pregunta>
+      <respuesta><![CDATA[Masacre de las bananeras.]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0"/>
+</motor>

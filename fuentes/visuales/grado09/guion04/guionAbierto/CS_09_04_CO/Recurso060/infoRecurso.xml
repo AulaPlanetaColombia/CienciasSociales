@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-149D17466F2C4395B50DBB571AD795B9</identificador>
+  <loid>CS_09_04_CO_Recurso060</loid>
+  <titulo>La Misión Kemmerer y la banca central</titulo>
+  <descripcion>Actividad con video que permite conocer los propósitos de la Misión Kemmener y la banca central</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>45</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia social y ciudadana</competencia>
+  <competencias>
+    <descriptor>5_1_2</descriptor>
+  </competencias>
+  <tipomedia pesado="true" matricula="DI000510_CO">Vídeo</tipomedia>
+  <conceptos>
+    <concepto>banco central</concepto>
+    <concepto>Hegemonía conservadora</concepto>
+    <concepto>inflacion</concepto>
+    <concepto>Misión Kemmerer</concepto>
+    <concepto>Pedro Nel Ospina</concepto>
+  </conceptos>
+</metadata>

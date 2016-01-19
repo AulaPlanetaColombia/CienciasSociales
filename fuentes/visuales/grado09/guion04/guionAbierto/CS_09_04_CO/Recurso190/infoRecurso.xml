@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-F96E98C1D4C34E9F8967BCBF2A9B7073</identificador>
+  <loid>CS_09_04_CO_Recurso190</loid>
+  <titulo>La amnistía del general Rojas Pinilla</titulo>
+  <descripcion>Actividad con audio para conocer detalles de la amnistía para los guerrilleros liberales que otorga el general Gustavo Rojas Pinilla</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>60</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia social y ciudadana</competencia>
+  <competencias>
+    <descriptor>5_1_2</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Audio</tipomedia>
+  <conceptos>
+    <concepto>amnistía</concepto>
+    <concepto>conservadores</concepto>
+    <concepto>guerrillas</concepto>
+    <concepto>lliberales</concepto>
+    <concepto>Rojas Pinilla</concepto>
+    <concepto>violencia</concepto>
+  </conceptos>
+</metadata>

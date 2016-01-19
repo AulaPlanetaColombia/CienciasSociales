@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="15" clase="a" aprid="m15a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Los gobiernos conservadores de 1947 a 1953</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M15A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Encuentra ocho palabras relacionadas con los gobiernos conservadores de 1947 a 1953.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <tamano><![CDATA[12]]></tamano>
+  <mostrarpalabras><![CDATA[0]]></mostrarpalabras>
+  <correctas>
+    <palabra palabra="BOGOTAZO" fila="1" columna="1" direccion="90"/>
+    <palabra palabra="HIGIENE" fila="3" columna="2" direccion="90"/>
+    <palabra palabra="BOMBARDEO" fila="8" columna="2" direccion="90"/>
+    <palabra palabra="GUERRILLA" fila="9" columna="1" direccion="90"/>
+    <palabra palabra="CENSURA" fila="10" columna="1" direccion="90"/>
+    <palabra palabra="GAITAN" fila="1" columna="3" direccion="180"/>
+    <palabra palabra="INCENDIOS" fila="1" columna="10" direccion="180"/>
+    <palabra palabra="SAQUEOS" fila="8" columna="11" direccion="0"/>
+  </correctas>
+  <falsas/>
+</motor>

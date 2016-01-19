@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-25DD0F76BB0E4F36A4F62053A77CBEA3</identificador>
+  <loid>CS_09_04_CO_Recurso280</loid>
+  <titulo>Evaluación</titulo>
+  <descripcion>Actividad para evaluar los conocimientos del estudiante sobre el tema Colombia primera mitad del siglo</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>30</tiempoestimado>
+  <acciondidactica>Evaluación</acciondidactica>
+  <competencia>Competencia social y ciudadana</competencia>
+  <competencias>
+    <descriptor>5_1_1</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>Bogotazo</concepto>
+    <concepto>Colombia</concepto>
+    <concepto>Gustavo Rojas Pinilla</concepto>
+    <concepto>Hegemonía conservadora</concepto>
+    <concepto>República liberal</concepto>
+    <concepto>Siglo XX</concepto>
+  </conceptos>
+</metadata>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>El origen de la Hegemonía conservadora</titulo>
+    <area>0</area>
+    <nivel>2</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Evalúa tus conocimientos sobre la Constitución de 1886. Elige la respuesta correcta.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál Constitución llegó a su fin una vez se puso en marcha la Constitución de 1886?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La Constitución de 1819." correcta="0"/>
+        <respuesta contestacion="La Constitución de 1853." correcta="0"/>
+        <respuesta contestacion="La Constitución de Rionegro (1863)." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Con la Constitución de 1886 dejamos de llamarnos República de la Nueva Granada. ¿Cómo pasamos a llamarnos?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Estados Unidos de Colombia." correcta="0"/>
+        <respuesta contestacion="República de Colombia." correcta="1"/>
+        <respuesta contestacion="La Gran Colombia." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Completa la frase: A partir de la Constitución de 1886, el Estado tuvo una organización:]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="centralista." correcta="1"/>
+        <respuesta contestacion="federalista." correcta="0"/>
+        <respuesta contestacion="combinada: federalista y centralista." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Con la Constitución de 1886, ¿quiénes podían ejercer el derecho al sufragio?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Hombres y mujeres de 21 años." correcta="0"/>
+        <respuesta contestacion="Hombres y mujeres mayores de 18 años." correcta="0"/>
+        <respuesta contestacion="Hombres, propietarios y que supieran leer." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Con la Constitución de 1886 se buscó el orden social. ¿Cuál fue la institución que garantizó este nuevo orden?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La Iglesia católica." correcta="1"/>
+        <respuesta contestacion="La libertad de expresión." correcta="0"/>
+        <respuesta contestacion="La abolición de la pena de muerte." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

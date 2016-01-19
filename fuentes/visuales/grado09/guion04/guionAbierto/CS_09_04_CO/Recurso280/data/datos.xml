@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Evaluación</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Evalúa tus conocimientos sobre Colombia en la primera mitad del siglo XX.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[La República liberal comprende el periodo entre:]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="1930 y 1946." correcta="1"/>
+        <respuesta contestacion="1900 y 1930." correcta="0"/>
+        <respuesta contestacion="1880 y 1886." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El 9 de abril de 1948 se produjo un hecho que recrudeció la violencia entre partidos: ]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="El Bogotazo." correcta="1"/>
+        <respuesta contestacion="La guerra del Perú." correcta="0"/>
+        <respuesta contestacion="El ascenso al poder de Gustavo Rojas Pinilla." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El general Gustavo Rojas Pinilla llegó al poder mediante:]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Un golpe militar." correcta="1"/>
+        <respuesta contestacion="Elecciones." correcta="0"/>
+        <respuesta contestacion="Una consulta popular." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La guerra con Perú ocurrió durante el gobierno de:]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Enrique Olaya Herrera." correcta="1"/>
+        <respuesta contestacion="Mariano Ospina Pérez." correcta="0"/>
+        <respuesta contestacion="Gustavo Rojas Pinilla." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Durante su gobierno se cerraron periódicos como El Tiempo:]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Gustavo Rojas Pinilla." correcta="1"/>
+        <respuesta contestacion="Alfonso López Pumarejo" correcta="0"/>
+        <respuesta contestacion="Enrique Olaya Herrera." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

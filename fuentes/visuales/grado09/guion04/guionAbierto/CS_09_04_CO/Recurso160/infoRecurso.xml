@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-10ACA1BE3C234BB5A751D8C5E1BDC9A9</identificador>
+  <loid>CS_09_04_CO_Recurso160</loid>
+  <titulo>Jorge Eliécer Gaitán y El Bogotazo</titulo>
+  <descripcion>Actividad con audio que se aproxima al pensamiento de Jorge Eliécer Gaitán</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>45</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia social y ciudadana</competencia>
+  <competencias>
+    <descriptor>5_1_2</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Audio</tipomedia>
+  <conceptos>
+    <concepto>El Bogotazo</concepto>
+    <concepto>Jorge Eliécer Gaitán</concepto>
+    <concepto>violencia</concepto>
+  </conceptos>
+</metadata>

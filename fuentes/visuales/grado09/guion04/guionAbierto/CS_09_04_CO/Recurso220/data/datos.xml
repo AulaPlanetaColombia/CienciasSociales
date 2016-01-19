@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Colombia en la primera mitad del siglo XX</titulo>
+    <area>0</area>
+    <nivel>2</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Elige la respuesta correcta para cada una de las siguientes preguntas:]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[La Hegemonía conservadora abarca el periodo comprendido entre estos años:]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="1853 y 1886." correcta="0"/>
+        <respuesta contestacion="1900 y 1930." correcta="1"/>
+        <respuesta contestacion="1880 y 1886." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Entre 1899 y 1903 ocurrió una de estas guerras: ]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La guerra entre Manuel Marroquín y Miguel Antonio Caro. " correcta="0"/>
+        <respuesta contestacion="La guerra con el Perú." correcta="0"/>
+        <respuesta contestacion="La guerra de los Mil Días." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[A partir de la Constitución de 1886, el Estado tuvo este tipo de organización:]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Centralista." correcta="1"/>
+        <respuesta contestacion="Federalista." correcta="0"/>
+        <respuesta contestacion="Combinada: federalista y centralista." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Con la Constitución de 1886, el sufragio fue un derecho que solo podía ser ejercido por: ]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Hombres y mujeres mayores de 18 años." correcta="0"/>
+        <respuesta contestacion="Hombres y mujeres de 21 años." correcta="0"/>
+        <respuesta contestacion="Hombres, propietarios y que supieran leer." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Durante la guerra de los Mil Días, Rafael Uribe Uribe y Benjamín Herrera fueron los líderes de uno de estos bandos:]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Liberal" correcta="1"/>
+        <respuesta contestacion="Conservador" correcta="0"/>
+        <respuesta contestacion="Peruano" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Durante la guerra de los Mil Días, en la batalla de Peralonso los triunfadores fueron:]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Los conservadores." correcta="0"/>
+        <respuesta contestacion="Los liberales." correcta="0"/>
+        <respuesta contestacion="No hubo vencedores." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Así se llamó el barco en el que se firmó la paz después de la guerra de los Mil Días:]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Neerlandia" correcta="0"/>
+        <respuesta contestacion="Wisconsin" correcta="1"/>
+        <respuesta contestacion="Marroquín" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La pérdida de Panamá es consecuencia de uno de los siguientes acontecimientos históricos:]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La Segunda Guerra Mundial." correcta="0"/>
+        <respuesta contestacion="La guerra con el Perú." correcta="0"/>
+        <respuesta contestacion="La guerra de los Mil Días." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Se conoce como el "Quinquenio" de Rafael Reyes al periodo ocurrido después de uno de los siguientes acontecimientos históricos:]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La Segunda Guerra Mundial." correcta="0"/>
+        <respuesta contestacion="La guerra de los Mil Días." correcta="1"/>
+        <respuesta contestacion="La guerra con el Perú." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El Ministerio de Obras se creó durante uno de los siguientes momentos de la historia colombiana: ]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="&quot;El Quinquenio&quot; de Rafael Reyes." correcta="1"/>
+        <respuesta contestacion="La Revolución en marcha." correcta="0"/>
+        <respuesta contestacion="El Bogotazo." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>
