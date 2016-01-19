@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<engine path="medias/image.jpg" mode="2" color="204" copy="Editorial Planeta" version="1" aprid="geografia_donde_esta">
+  <main layout="0" pointsVisible="true" replayText="Volver a jugar" noreplayText="Final de partida">
+    <title>Identifica el relieve de Europa</title>
+    <correct>Correcto</correct>
+    <wrong>Incorrecto</wrong>
+    <final />
+    <blockTitle>Localiza...</blockTitle>
+    <pointsText>Puntuación</pointsText>
+  </main>
+  <sections>
+    <question points="5" isFilled="true" show_description="false" map="3;211,306;203,304;187,298;180,295;187,304;195,308;206,309;" mark="199.15,314.1">
+      <text />
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Pirineos</span></p></TextFlow>]]></answer>
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+      </answers>
+    </question>
+    <question points="5" isFilled="true" show_description="false" map="3;228,293;214,299;205,295;204,287;204,275;209,271;217,267;226,269;230,281;" mark="199,265">
+      <text />
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Macizo Central</span></p></TextFlow>]]></answer>
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+      </answers>
+    </question>
+    <question points="5" isFilled="true" show_description="false" map="3;234,297;234,288;238,278;247,273;258,264;271,267;277,263;286,263;292,264;299,261;308,264;315,266;322,272;314,278;309,282;304,287;296,282;289,287;285,290;276,288;265,286;257,286;249,291;246,295;244,297;238,301;" mark="268.5,274.85">
+      <text />
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Alpes</span></p></TextFlow>]]></answer>
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+      </answers>
+    </question>
+    <question points="5" isFilled="true" show_description="false" map="3;274,299;290,305;296,314;300,325;308,335;318,341;326,344;318,349;314,354;307,344;296,335;288,327;279,318;276,309;263,295;" mark="303.3,333.55">
+      <text />
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Apeninos</span></p></TextFlow>]]></answer>
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+      </answers>
+    </question>
+    <question points="5" isFilled="true" show_description="false" map="3;345,248;371,252;389,264;401,276;401,287;399,294;379,303;372,305;361,297;368,289;378,288;380,283;381,275;368,264;359,260;350,265;338,262;335,255;" mark="390,275">
+      <text />
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Cárpatos</span></p></TextFlow>]]></answer>
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+      </answers>
+    </question>
+    <question points="5" isFilled="true" show_description="false" map="3;374,26;370,42;356,61;338,71;321,96;318,109;320,121;301,119;293,135;277,147;272,141;275,128;284,114;279,109;306,97;315,82;325,66;340,49;343,43;349,36;358,31;366,27;" mark="320,69">
+      <text />
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Alpes Escandinavos</span></p></TextFlow>]]></answer>
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+      </answers>
+    </question>
+    <question points="5" isFilled="true" show_description="false" map="3;402,311;391,317;373,314;361,307;361,316;374,322;384,324;394,324;404,318;410,310;" mark="388.35,319.4">
+      <text />
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Montes Balcanes</span></p></TextFlow>]]></answer>
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+      </answers>
+    </question>
+    <question points="5" isFilled="true" show_description="false" map="3;493,285;508,280;523,273;538,285;552,285;561,283;577,293;582,300;569,300;555,300;544,302;532,300;517,296;506,294;501,291;" mark="540.65,291.1">
+      <text />
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Cáucaso</span></p></TextFlow>]]></answer>
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+      </answers>
+    </question>
+    <question points="5" isFilled="false" show_description="false" map="3;526,1;522,20;510,34;521,44;533,70;551,96;560,112;567,131;572,150;574,170;577,184;617,207;618,188;620,182;621,170;623,161;622,144;621,131;592,118;576,96;564,90;552,75;544,60;535,51;528,37;530,14;" mark="588,137">
+      <text />
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Urales</span></p></TextFlow>]]></answer>
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+      </answers>
+    </question>
+    <question points="5" isFilled="true" show_description="false" map="3;244,212;253,227;286,230;316,234;335,240;372,234;399,235;462,268;496,247;508,227;563,204;581,187;567,151;560,126;540,91;527,64;515,34;517,16;520,10;523,0;497,1;486,3;464,37;449,53;445,67;444,73;432,112;408,131;382,138;375,155;373,170;362,162;356,180;354,192;343,199;336,192;311,201;304,193;293,200;283,190;275,199;264,200;252,200;" mark="460,166">
+      <text />
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Gran Llanura Europea</span></p></TextFlow>]]></answer>
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+        <answer correct="false" />
+      </answers>
+    </question>
+  </sections>
+</engine>

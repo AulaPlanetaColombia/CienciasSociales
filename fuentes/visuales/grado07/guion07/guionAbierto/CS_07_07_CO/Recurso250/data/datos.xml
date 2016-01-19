@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Evaluación</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Evalúa tus conocimientos sobre geografía física y humana de Europa, Asia y África.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado><![CDATA[El origen de la Unión Europea se puede datar a partir de 1951 cuando se firmó ]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="el Tratado de la Comunidad Europea del Carbón y del Acero." correcta="1"/>
+        <respuesta contestacion="el Tratado de Paz de Versalles, que determinó la II Guerra Mundial." correcta="0"/>
+        <respuesta contestacion="el Tratado de Breton Woods; así inició un nuevo orden económico." correcta="0"/>
+        <respuesta contestacion="el Tratado de Paz de Versalles, con el que se  terminó  la Guerra Fría." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El clima europeo, desde las costas del Mediterráneo hasta la Península Escandinava, presenta un invierno cada vez más frío debido a la influencia de ]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="los mares." correcta="0"/>
+        <respuesta contestacion="las montañas." correcta="0"/>
+        <respuesta contestacion="la longitud." correcta="0"/>
+        <respuesta contestacion="la latitud. " correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La mayor oferta de la economía del continente europeo se concentra en el sector ]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="primario." correcta="0"/>
+        <respuesta contestacion="secundario." correcta="0"/>
+        <respuesta contestacion="terciario." correcta="1"/>
+        <respuesta contestacion="agrícola." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El clima del continente asiático se define, principalmente, por dos factores]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="posición latitudinal y la altura de sus tierras." correcta="1"/>
+        <respuesta contestacion="posición longitudinal y la extensión de los ríos." correcta="0"/>
+        <respuesta contestacion="posición astronómica y la posición de las montañas." correcta="0"/>
+        <respuesta contestacion="posición longitudinal y la extensión de los lagos." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La población del continente asiático está distribuida de modo irregular debido principalmente a]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="la situación política y económica." correcta="0"/>
+        <respuesta contestacion="la política inestable y los monzones." correcta="0"/>
+        <respuesta contestacion="la hidrografía y la ubicación urbana." correcta="0"/>
+        <respuesta contestacion="la distribución del clima y el paisaje. " correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En términos generales, el continente asiático presenta grandes contrastes en desarrollo económico. Se pueden encontrar dos extremos del desarrollo como lo son]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="China y Laos." correcta="1"/>
+        <respuesta contestacion="China y Japón." correcta="0"/>
+        <respuesta contestacion="Laos y Vietnam." correcta="0"/>
+        <respuesta contestacion="India y Pakistán." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Los numerosos conflictos armados en el continente africano se pueden explicar por las divisiones políticas artificiales impuestas durante]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="las guerras napoleónicas." correcta="0"/>
+        <respuesta contestacion="la colonización europea. " correcta="1"/>
+        <respuesta contestacion="la expansión del islam. " correcta="0"/>
+        <respuesta contestacion="la fragmentación del Imperio turco." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Los dos sectores económicos que caracterizan la economía africana son, en orden de importancia]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="el sector secundario y primario." correcta="0"/>
+        <respuesta contestacion="el sector terciario e industrial." correcta="0"/>
+        <respuesta contestacion="el sector primario y terciario. " correcta="1"/>
+        <respuesta contestacion="el sector financiero y primario." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

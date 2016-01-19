@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="1" clase="b" aprid="M1b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Reconoce los ríos y lagos de África</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[cs_07_03_09]]></referencia>
+    <id_reg><![CDATA[271]]></id_reg>
+    <motor><![CDATA[M1b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Relaciona cada río o lago africano con su descripción.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="5">
+    <cuestion>
+      <pregunta><![CDATA[Nilo]]></pregunta>
+      <respuesta><![CDATA[Río situado en el nordeste de África. Con sus 6671 km, es el más largo del mundo. Desemboca en el Mediterráneo.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Níger]]></pregunta>
+      <respuesta><![CDATA[Río del oeste de África. A lo largo de sus 4160 km pasa por ciudades como  Tombuctú.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Chad]]></pregunta>
+      <respuesta><![CDATA[Lago de agua dulce y salada del centro de África. Situado entre Nigeria, Níger, Chad y Camerún.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Victoria]]></pregunta>
+      <respuesta><![CDATA[Lago del este de África. Sus 68 100 km cuadrados, lo convierten en el segundo lago más grande del mundo.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Congo]]></pregunta>
+      <respuesta><![CDATA[Río de África ecuatorial. Sus 4200 km lo convierten en uno de los más largos del mundo. Es el segundo más caudaloso.]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0"/>
+</motor>

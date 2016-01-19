@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-80EF602669044A2280C8FA68E0BF8BFF</identificador>
+  <loid>CS_07_07_CO_Recurso100</loid>
+  <titulo>El relieve de Asia</titulo>
+  <descripcion>Interactivo para conocer el relieve asiático</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>25</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Interactivo</tipomedia>
+  <conceptos>
+    <concepto>arrozal</concepto>
+    <concepto>Asia</concepto>
+    <concepto>cordillera</concepto>
+    <concepto>cuenca</concepto>
+    <concepto>desierto</concepto>
+    <concepto>isla</concepto>
+    <concepto>lago</concepto>
+    <concepto>llanura</concepto>
+    <concepto>mar</concepto>
+    <concepto>meseta</concepto>
+    <concepto>montaña</concepto>
+    <concepto>monte</concepto>
+    <concepto>monzón</concepto>
+    <concepto>océano</concepto>
+    <concepto>península</concepto>
+    <concepto>relieve</concepto>
+    <concepto>relieve asiático</concepto>
+    <concepto>río</concepto>
+    <concepto>septentrional</concepto>
+    <concepto>sudoriental</concepto>
+  </conceptos>
+  <pdfs>
+    <pdf>
+      <titulo>El relieve de Asia</titulo>
+      <fichero>CS_07_07_CO_REC100.pdf</fichero>
+      <alumno>1</alumno>
+      <profesor>1</profesor>
+    </pdf>
+    <pdf>
+      <titulo>El relieve de Asia (mudo)</titulo>
+      <fichero>CS_07_07_CO_REC100_mudo.pdf</fichero>
+      <alumno>1</alumno>
+      <profesor>1</profesor>
+    </pdf>
+  </pdfs>
+</metadata>

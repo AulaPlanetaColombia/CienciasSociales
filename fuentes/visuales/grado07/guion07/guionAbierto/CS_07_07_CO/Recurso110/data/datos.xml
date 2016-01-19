@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f4">
+<main title="Los climas del continente asiático" path="CS_07_07_REC100_IMG01.jpg" buttonsHeight="73">
+</main>
+<questions respCorrecta="Respuesta correcta." respIncorrecta="Respuesta incorrecta.">
+<question title="Climas de bosques boreales" path="CS_07_07_REC100_IMG02.jpg">
+<answers>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="Clima continental húmedo" path="CS_07_07_REC100_IMG03.jpg">
+<answers>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="1">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[<div>&nbsp;</div>
+
+<p>&nbsp;</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="Clima mediterráneo" path="CS_07_07_REC100_IMG04.jpg">
+<answers>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="Clima subtropical húmedo" path="CS_07_07_REC100_IMG05.jpg">
+<answers>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="Clima tropical seco" path="CS_07_07_REC100_IMG06.jpg">
+<answers>
+<answer correct="1">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="Clima tropical húmedo" path="CS_07_07_REC100_IMG07.jpg">
+<answers>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="Clima tropical seco" path="CS_07_07_REC100_IMG08.jpg">
+<answers>
+<answer correct="1">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="Clima monzónico" path="CS_07_07_REC100_IMG09.jpg">
+<answers>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="1">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="Clima desértico" path="CS_07_07_REC100_IMG10.jpg">
+<answers>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="1">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="Clima polar" path="CS_07_07_REC100_IMG11.jpg">
+<answers>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+</questions>
+</engine>

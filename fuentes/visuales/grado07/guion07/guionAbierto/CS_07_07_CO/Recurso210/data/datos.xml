@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="101" clase="a" aprid="m101a">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Refuerza tu aprendizaje: Aspecto físico y humano de África</titulo>
+    <volumen/>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia/>
+    <motor/>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde las siguientes preguntas sobre la geografía física y humana de África.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="8">
+    <pregunta>
+      <enunciado><![CDATA[Investiga la importancia de África en la evolución del hombre en la prehistoria.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Investiga por qué y hacia dónde se impulsó una fuerte migración forzada africana alrededor del siglo XV.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[1]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Investiga cuáles son las culturas y razas que son mayoría en el continente africano.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo><![CDATA[L]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Investiga los siguientes datos sobre África: población total, población por sexo, índices de pobreza y lenguas predominantes.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Investiga cuáles son los límites del continente africano en los cuatro puntos cardinales y las dos regiones internas que el Sahara crea.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[1]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Investiga cuáles son los principales ríos y relieves del continente africano. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[1]]></nivel>
+      <tipo><![CDATA[L]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Averigua los distintos tipos de climas y pisos térmicos que componen la geografía africana.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Investiga la extensión y población del continente africano en relación con los otros cuatro continentes.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo><![CDATA[L]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+  </preguntas>
+</motor>

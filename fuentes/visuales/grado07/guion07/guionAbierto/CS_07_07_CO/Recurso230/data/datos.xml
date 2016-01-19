@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="101" clase="ap" aprid="m101ap">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Banco de actividades: Geografía física y humana de Europa, Asia y África</titulo>
+    <volumen/>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia/>
+    <motor/>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termine has clic en Enviar. Si es necesario, entrega las respuestas en mano o envíalas por email para que tu profesor pueda validarlas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="9">
+    <pregunta>
+      <enunciado><![CDATA[El clima del continente africano, así como su repercusión en la configuración de la vegetación y la fauna son muy variados. ¿Qué implicaciones tiene para la vida de las personas esta gran diversidad climática y ecológica?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿La distribución de los lagos y ríos más importantes de África tiene alguna correlación con los climas?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Cuál podría ser el impacto de la distribución climática africana en relación con el poblamiento del territorio?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Expón si existe alguna correlación entre los conflictos armados y el control del espacio en África.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Cuáles son los argumentos que se esgrimen para explicar las condiciones económicas y sociales de los países de África? ¿Cuáles son fundamentales y por qué?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[El continente asiático es el que cuenta con mayor superficie y mayor población. ¿Qué elementos determinan la desigual distribución en su superficie?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Crees que existe alguna correlación entre espacio geográfico y desarrollo económico? Analiza los casos de Asia y Europa y presenta tus conclusiones.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Teniendo en cuenta las condiciones física y humanas de los continentes de África, Asia y Europa, ¿podrías establecer conclusiones sobre su desarrollo económico y su manejo del espacio geográfico? ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Describe las principales diferencias del paisaje en Europa, África y Asia.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[1]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+  </preguntas>
+</motor>

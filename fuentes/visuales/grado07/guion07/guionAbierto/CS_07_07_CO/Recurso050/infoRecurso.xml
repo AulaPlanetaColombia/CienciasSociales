@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-2EBF2462DC764402888AB7B4EE5E2EA3</identificador>
+  <loid>CS_07_07_CO_Recurso050</loid>
+  <titulo>Los climas del continente europeo</titulo>
+  <descripcion>El recurso permite vincular las características de los tipos climáticos predominantes en el continente europeo</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>10</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>clasificación</concepto>
+    <concepto>Europa</concepto>
+    <concepto>invierno</concepto>
+    <concepto>lluvia</concepto>
+    <concepto>temperatura</concepto>
+    <concepto>verano</concepto>
+  </conceptos>
+</metadata>

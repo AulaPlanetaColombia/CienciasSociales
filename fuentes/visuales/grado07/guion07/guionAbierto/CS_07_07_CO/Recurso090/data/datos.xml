@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="101" clase="a" aprid="m101a">
+  <plataforma>
+    <grado>3</grado>
+    <titulo>Refuerza tu aprendizaje: Aspectos físicos y humanos de Europa</titulo>
+    <volumen/>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia/>
+    <motor/>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[El presente recurso será útil para recapitular y afianzar información importante sobre la geografía física y humana del continente europeo.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="10">
+    <pregunta>
+      <enunciado><![CDATA[El mapa de Europa muestra que podría interpretarse como una gran península del continente asiático. ¿Por qué se considera un continente? ¿Qué elementos crees que explican esta decisión?]]></enunciado>
+      <explicacion><![CDATA[La geografía obedece no solo a las evidencias físicas del terreno, también es una forma de establecer el poder político y económico. En el caso particular de Europa, es una decisión política y económica que se ha convertido en una evidencia geográfica en la cartografía. ]]></explicacion>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Según su posición geográfica y astronómica, Europa cuenta con unos climas predominantes. Cítalos y establece elementos comunes y diferencias.]]></enunciado>
+      <explicacion><![CDATA[La posición geográfica y astrómica es uno de los elementos iniciales para la determinación de clima y propiedades ecológicas. ]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo><![CDATA[S]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Crees que el clima de montaña en Europa posee elementos comunes con el clima que se presenta en las zonas montañosas de Colombia. Explica tu posición.]]></enunciado>
+      <explicacion><![CDATA[La variación de la altura sobre el nivel de mar es una característica generalizada en los climas de montaña, tanto en Europa como en América. Sin embargo, factores como la ubicación, vientos y temperatura marcan tendencias dentro del esquema general de relación entre temperatura y altitud.]]></explicacion>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Establece las características de cada una de las vertientes fluviales de Europa.]]></enunciado>
+      <explicacion><![CDATA[Descripción de las vertientes fluviales para luego generar otro tipo de análisis en relación con las características físicas o la utilidad económica.]]></explicacion>
+      <nivel><![CDATA[1]]></nivel>
+      <tipo><![CDATA[S]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Revisa los datos de esperanza de vida para la población europea y establece una comparación con los datos de esperanza de vida de Colombia. Redacta conclusiones en relación con la edad y el género de la población. http://www.datosmacro.com/demografia/esperanza-vida/colombia]]></enunciado>
+      <explicacion><![CDATA[Los datos demográficos son valiosos en la medida que se vinculan con otro tipo de análisis, como la prosperidad, el bienestar, los sistemas de salud y los fenómenos ambientales.]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Recapitula los temas estratégicos de la Unión Europea, destaca dos que te parezcan más importantes y establece las razones de tu elección.]]></enunciado>
+      <explicacion><![CDATA[La Unión Europea es un fenómeno que ha marcado un tendencia en la integración supranacional, el analizar esta experiencia permite ampliar las fronteras de la geografía basada en las fronteras nacionales.]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Redacta un párrafo que expliques la importancia del Acuerdo Schengen (1985) para la prosperidad económica de Europa.]]></enunciado>
+      <explicacion><![CDATA[La movilidad de las personas es un factor clave de las economías globalizadas. Sin embargo, fenómenos como las crisis económicas, los conflictos armados o las pandemias, pueden dificultar esta posibilidad. ]]></explicacion>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[A partir de la descripción de los sectores de la economía europea, escoge uno de ellos y destaca su importancia.]]></enunciado>
+      <explicacion><![CDATA[Es importante el poder identificar cada uno de los sectores constitutivos de la economía para luego establecer ejercicios de segmentación y facilitar posteriores ejercicios de relación y comparación.]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Dentro de los países europeos, destacados por su producción industrial, elige dos y establece un balance entre fortalezas y debilidades de cada uno y la posibilidad de cooperación económica entre ellos. ]]></enunciado>
+      <explicacion><![CDATA[La comparación de fortalezas y desventajas económicas permite un ejercicio de inventario. Sin embargo, el trabajo potente surge cuando se buscan las complementariedades y la cooperación.]]></explicacion>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo><![CDATA[L]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica las ventajas y desventajas de establecer una moneda única como el euro. ¿Crees que se podría aplicar un concepto igual en América Latina? Argumenta tu respuesta.]]></enunciado>
+      <explicacion><![CDATA[El ejercicio económico del euro ha demostrado las falencias de una unión dispar en términos de producción, riqueza y capacidad fiscal. A la par, la moneda única ha sido un baluarte de la economía europea y la posibilidad de su inserción en la economía global.]]></explicacion>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo><![CDATA[L]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+  </preguntas>
+</motor>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="8" clase="a" aprid="M8a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Identifica los recursos hídricos y la problemática del agua en Asia</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[3]]></nivel>
+    <referencia><![CDATA[cs_07_03_07]]></referencia>
+    <id_reg><![CDATA[54]]></id_reg>
+    <motor><![CDATA[M8a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Lee con atención el enunciado y responde las siguientes preguntas sobre los recursos hídricos de Asia.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[¿En qué mar desembocan los ríos Ural y Volga?]]></enunciado>
+      <imagen><![CDATA[000k0z01.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[El mar Caspio es un lago salobre situado entre Europa y Asia. Está considerado el lago más grande del mundo. Las actividades comerciales más importantes que se desarrollan allí son la pesca y la extracción de petróleo.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="En el mar Rojo." correcta="0"/>
+        <respuesta contestacion="En el mar  Negro." correcta="0"/>
+        <respuesta contestacion="En el mar Caspio." correcta="on"/>
+        <respuesta contestacion="En el mar de Aral." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Por qué se flota de una manera especial en el mar Muerto?]]></enunciado>
+      <imagen><![CDATA[001d4b01.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[El mar Muerto es el punto más bajo de la Tierra, ya que está a 400 m por debajo del nivel del mar. Su elevada salinidad hace imposible hundirse en él. Su composición ofrece a la industria, la agricultura y la medicina importantes materias primas.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="Por la escasa salinidad del agua." correcta="0"/>
+        <respuesta contestacion="Por la elevada salinidad del agua. " correcta="on"/>
+        <respuesta contestacion="Porque es agua dulce." correcta="0"/>
+        <respuesta contestacion="Porque es agua salobre." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué país se encuentra el río Ganges y qué religión lo considera un río sagrado?]]></enunciado>
+      <imagen><![CDATA[000a6c01.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[El río Ganges nace en el norte de la India, en el Himalaya, y desemboca en Bangladesh, formando un delta en el golfo de Bengala. Es un río sagrado para los hindúes: en sus aguas purificadoras se bañan los peregrinos y se dispersan las cenizas de los difuntos.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="India y el cristianismo." correcta="0"/>
+        <respuesta contestacion="Pakistán y el islam." correcta="0"/>
+        <respuesta contestacion="India y el hinduismo." correcta="on"/>
+        <respuesta contestacion="Laos y el budismo." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué cultivan estos campesinos de la isla de Java?]]></enunciado>
+      <imagen><![CDATA[0067x01_baja.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[El cultivo de arroz es una de las mejores muestras de la relación del ser humano con la naturaleza. Gracias al lluvioso verano producido por los monzones, toda Asia sudoriental basa su dieta en el arroz.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="Trigo" correcta="0"/>
+        <respuesta contestacion="Centeno" correcta="0"/>
+        <respuesta contestacion="Arroz" correcta="on"/>
+        <respuesta contestacion="Maíz" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Dónde se encuentra la presa de las Tres Gargantas y qué función tiene?]]></enunciado>
+      <imagen><![CDATA[001qup01.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[La presa de las Tres Gargantas se encuentra en el río Yangzi Jiang, en China. Es la planta hidroeléctrica más grande del mundo. Provee del 3 % de la energía consumida. Para su construcción se inundaron ciudades y pueblos, lo que obligó a dos millones de personas a cambiar de residencia.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="En Japón, y es un dique para ganar terreno al mar." correcta="0"/>
+        <respuesta contestacion="En China, y tiene una central hidroeléctrica." correcta="on"/>
+        <respuesta contestacion="En Vietnam, y tiene una central hidroeléctrica." correcta="0"/>
+        <respuesta contestacion="En Corea del Sur, y tiene una central hidroeléctrica." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-99833B30881847AC96D64C7D026AFA2C</identificador>
+  <loid>CS_07_07_CO_Recurso170</loid>
+  <titulo>El relieve de África</titulo>
+  <descripcion>Interactivo para conocer el relieve africano</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Interactivo</tipomedia>
+  <conceptos>
+    <concepto>África</concepto>
+    <concepto>altiplano</concepto>
+    <concepto>cordillera</concepto>
+    <concepto>cubeta</concepto>
+    <concepto>cuenca</concepto>
+    <concepto>desierto</concepto>
+    <concepto>fosa tectónica</concepto>
+    <concepto>isla</concepto>
+    <concepto>lago</concepto>
+    <concepto>llanura</concepto>
+    <concepto>mar</concepto>
+    <concepto>meseta</concepto>
+    <concepto>montaña</concepto>
+    <concepto>monte</concepto>
+    <concepto>océano</concepto>
+    <concepto>península</concepto>
+    <concepto>relieve</concepto>
+    <concepto>relieve africano</concepto>
+    <concepto>río</concepto>
+    <concepto>sabana</concepto>
+    <concepto>septentrional</concepto>
+    <concepto>sudoriental</concepto>
+  </conceptos>
+  <pdfs>
+    <pdf>
+      <titulo>El relieve de África</titulo>
+      <fichero>CS_07_07_CO_REC170.pdf</fichero>
+      <alumno>1</alumno>
+      <profesor>1</profesor>
+    </pdf>
+    <pdf>
+      <titulo>El relieve de África (mudo)</titulo>
+      <fichero>CS_07_07_CO_REC170_mudo.pdf</fichero>
+      <alumno>1</alumno>
+      <profesor>1</profesor>
+    </pdf>
+  </pdfs>
+</metadata>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="14" clase="a" aprid="m14a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Conoce los ríos y mares de Europa</titulo>
+    <area>0</area>
+    <nivel>2</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M14A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Lee los siguientes enunciados y responde cada una de las preguntas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <estilo><![CDATA[1]]></estilo>
+  <intentos><![CDATA[10]]></intentos>
+  <numpreguntas><![CDATA[9]]></numpreguntas>
+  <preguntas>
+    <pregunta enunciado="Los tres mares que bañan a Italia son:" palabra="Tirreno, Adriático y Jónico" visibles=""/>
+    <pregunta enunciado="Este río nace en Suiza, pasa por Francia, Alemania y desemboca en el mar del Norte en Holanda:" palabra="Rin" visibles=""/>
+    <pregunta enunciado="Los tres principales ríos franceses son:" palabra="Sena, Loira y Garona" visibles=""/>
+    <pregunta enunciado="Los países limítrofes del mar de Azov son: " palabra="Rusia y Ucrania" visibles=""/>
+    <pregunta enunciado="Este mar baña las tierras de España, Francia, Italia, Malta, Grecia, Turquía y Chipre:" palabra="Mar Mediterráneo" visibles=""/>
+    <pregunta enunciado="El río más largo de la Península Itálica es:" palabra="Río Po" visibles=""/>
+    <pregunta enunciado="El río más importante del Reino Unido es: " palabra="Río Támesis" visibles=""/>
+    <pregunta enunciado="El río Dniepper atraviesa los países de" palabra="Ucrania, Bielorrusia y Rusia" visibles=""/>
+    <pregunta enunciado="Suecia y Finlandia son bañados por el" palabra="Mar Báltico" visibles=""/>
+    <pregunta enunciado="Los ríos Duero y Tajo recorren y atraviesan los territorios de" palabra="Portugal y España" visibles=""/>
+    <pregunta enunciado="El río Danubio nace en Alemania y desemboca en el" palabra="Mar Negro" visibles=""/>
+    <pregunta enunciado="Tres de los ríos más importantes de Rusia son el:" palabra="Don, Lena y Volga" visibles=""/>
+  </preguntas>
+</motor>

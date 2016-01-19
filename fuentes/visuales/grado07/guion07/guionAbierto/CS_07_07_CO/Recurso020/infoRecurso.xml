@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-7295F489D7B44B12BCE5C0F91D6DFB71</identificador>
+  <loid>CS_07_07_CO_Recurso020</loid>
+  <titulo>El relieve, costas y aguas de Europa</titulo>
+  <descripcion>Interactivo que facilita conocer las principales unidades de relieve de Europa, los mares interiores, las penínsulas e islas más importantes y sus ríos más destacados</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>30</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Interactivo</tipomedia>
+  <conceptos>
+    <concepto>Alpes</concepto>
+    <concepto>Alpes Dináricos</concepto>
+    <concepto>Alpes Escandinavos</concepto>
+    <concepto>Apeninos</concepto>
+    <concepto>Cárpatos</concepto>
+    <concepto>Cáucaso</concepto>
+    <concepto>Cerdeña</concepto>
+    <concepto>Córcega</concepto>
+    <concepto>costa</concepto>
+    <concepto>Danubio</concepto>
+    <concepto>Dniéper</concepto>
+    <concepto>Dniéster</concepto>
+    <concepto>Don</concepto>
+    <concepto>Duero</concepto>
+    <concepto>Dviná Occidental</concepto>
+    <concepto>Dviná Septentrional</concepto>
+    <concepto>Ebro</concepto>
+    <concepto>Elba</concepto>
+    <concepto>Gran Llanura Europea</concepto>
+    <concepto>Guadalquivir</concepto>
+    <concepto>Islandia</concepto>
+    <concepto>Islas Británicas</concepto>
+    <concepto>Loira</concepto>
+    <concepto>Macizo Central</concepto>
+    <concepto>Mar Báltico</concepto>
+    <concepto>Mar del Norte</concepto>
+    <concepto>Mar Mediterráneo</concepto>
+    <concepto>Mar Negro</concepto>
+    <concepto>montes Balcanes</concepto>
+    <concepto>Pechora</concepto>
+    <concepto>península Balcánica</concepto>
+    <concepto>península Escandinava</concepto>
+    <concepto>península Ibérica</concepto>
+    <concepto>península Itálica</concepto>
+    <concepto>Pirineos</concepto>
+    <concepto>Po</concepto>
+    <concepto>relieve</concepto>
+    <concepto>Rin</concepto>
+    <concepto>río</concepto>
+    <concepto>Ródano</concepto>
+    <concepto>Sena</concepto>
+    <concepto>Sicilia</concepto>
+    <concepto>Tajo</concepto>
+    <concepto>Támesis</concepto>
+    <concepto>Tíber</concepto>
+    <concepto>Urales</concepto>
+    <concepto>vertiente hidrográfica</concepto>
+    <concepto>Vístula</concepto>
+    <concepto>Volga</concepto>
+  </conceptos>
+  <pdfs>
+    <pdf>
+      <titulo>El relieve, ríos, mares y costas de Europa</titulo>
+      <fichero>CS_07_07_CO_REC0120.pdf</fichero>
+      <alumno>1</alumno>
+      <profesor>1</profesor>
+    </pdf>
+    <pdf>
+      <titulo>El relieve, ríos, mares y costas de Europa (mudo)</titulo>
+      <fichero>CS_07_07_CO_REC0120_mudo.pdf</fichero>
+      <alumno>1</alumno>
+      <profesor>1</profesor>
+    </pdf>
+  </pdfs>
+</metadata>

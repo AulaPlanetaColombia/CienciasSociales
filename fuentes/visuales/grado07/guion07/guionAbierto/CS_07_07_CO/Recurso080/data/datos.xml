@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Los principales aspectos económicos de la comunidad europea</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde las siguientes preguntas que te señalarán algunos aspectos económicos centrales de la Unión Europea.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="6">
+    <cuestion>
+      <enunciado><![CDATA[Originalmente, la Comunidad Económica Europea (CEE) fue creada en el año de]]></enunciado>
+      <explicacion><![CDATA[Fue creada en 1957 para establecer una unidad arancelaria y facilidades de comercio entre europeos, pero política y monetariamente los países europeos eran independientes.]]></explicacion>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="1993" correcta="0"/>
+        <respuesta contestacion="1945" correcta="0"/>
+        <respuesta contestacion="1957" correcta="1"/>
+        <respuesta contestacion="2001" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El sector primaria de la economía de la Unión Europea se caracteriza por]]></enunciado>
+      <explicacion><![CDATA[El sector primario de la economía europea posee una alta intervención de tecnología. La pesca se desarrolla a niveles industriales lo cual implica inversiones técnicas.]]></explicacion>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="El cultivo de cereales" correcta="0"/>
+        <respuesta contestacion="La producción tecnificada " correcta="1"/>
+        <respuesta contestacion="El limitado espacio de cultivo" correcta="0"/>
+        <respuesta contestacion="La variedad de productos" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La Unión Europea es una de las grandes potencias económicas. Para ello han flexibilizado la circulación de bienes, servicios, capital y]]></enunciado>
+      <explicacion><![CDATA[La libre circulación de bienes de capital y mano de obra permite aprovechar oportunidades de inversión, intercambio y colocación de mano de obra calificada cesante.]]></explicacion>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Turistas" correcta="0"/>
+        <respuesta contestacion="Mercancías" correcta="0"/>
+        <respuesta contestacion="Personas " correcta="1"/>
+        <respuesta contestacion="Trenes" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La moneda única de la Unión Europea se denomina Euro. Sin embargo existen miembros que no la utilizan, como el caso de Inglaterrra, lo cual se podría explicar por]]></enunciado>
+      <explicacion><![CDATA[Inglaterra ha permanecido al margen del Euro debido a las políticas internas del país, enfocadas en mantener cierta autonomía en relación con su economía interna. ]]></explicacion>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Políticas internas del país " correcta="1"/>
+        <respuesta contestacion="Censura al ideal integracionista" correcta="0"/>
+        <respuesta contestacion="Baja aceptación internacional" correcta="0"/>
+        <respuesta contestacion="Temor a la bancarrota del Euro" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La crisis de 2010 de la Unión Europea implicó la activación de alternativas para la reactivación económica, como la generación de empleo, para ello el se debería apoyar ]]></enunciado>
+      <explicacion><![CDATA[El sector terciario posee una gran proyección en la Unión Europea, dado su potencial turístico y la ubicación estratégica del continente]]></explicacion>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="El sector primario" correcta="0"/>
+        <respuesta contestacion="La industria pesquera" correcta="0"/>
+        <respuesta contestacion="El sector terciario " correcta="1"/>
+        <respuesta contestacion="La industria militar" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Rusia podría ser un socio comercial estratégico para la Unión Europea ya que]]></enunciado>
+      <explicacion><![CDATA[La Unión Europea no cuenta con grandes reservas de combustibles fósiles, por tal razón Rusia está en una situación ventajos por la demanda energética europea]]></explicacion>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Posee una gran extensión de tierras" correcta="0"/>
+        <respuesta contestacion="Posee reservas de gas y petróleo " correcta="1"/>
+        <respuesta contestacion="Está ansiosa por entrar en la Unión" correcta="0"/>
+        <respuesta contestacion="Necesita los préstamos de la UE" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>
