@@ -78,7 +78,15 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso040&amp;IdRecurso=RES-32E0A9
 >continental</negrita>, y el <negrita>polar</negrita> y <negrita>de
 montaña</negrita>.</p>
 <profundiza>
-<enlace></enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso290&amp;IdRecurso=RES-7106AC415E2449C7B01EE068F3D08524"
+>Los climas y paisajes de la Europa atlántica</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso270&amp;IdRecurso=RES-C6D9CC715FC24FDC8D8952E69EC2E81B"
+>Los climas y paisajes de la Europa continental</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso280&amp;IdRecurso=RES-C964E6123782461F8547EA2DC74DBD5B"
+>Los climas y paisajes de la Europa mediterránea</enlace><?Pub Caret -3?>
 </profundiza>
 <table border="1"><caption>Climas del continente europeo</caption>
 <colgroup><col width="13*"/><col width="84*"/></colgroup>
@@ -1277,7 +1285,7 @@ de los Estados miembros.</listaElemento>
 <listaElemento><negrita>Los comités técnicos especializados</negrita
 >: analizan temas agrícolas, monetarios, financieros, de comercio,
 de inmigración, de industria, de ciencia y tecnología, y de recursos
-naturales y medio ambiente, entre otros.</listaElemento><?Pub Caret 163?>
+naturales y medio ambiente, entre otros.</listaElemento>
 <listaElemento><negrita>La Comisión de la Unión Africana</negrita
 >: es una comisión encargada de representar la organización, defender
 sus intereses y desarrollar los programas y políticas a favor de los
