@@ -84,14 +84,10 @@
 
 	// M102
 	function loadXMLM102( onDocumentLoaded ) {
-		// Miramos en in_url o en datos_xml
 		var xmlUrl = getQueryParamMotor('in_url');
-		if (xmlUrl == null || xmlUrl == "")
-			xmlUrl = getQueryParamMotor('datos_xml');
 		// Per defecte es data/datos.xml
 		if (xmlUrl == null || xmlUrl == "")
 			xmlUrl = "data/datos.xml?time=" + new Date().getTime();
-		xmlUrl = pppPreloader.from("data", xmlUrl);
 		// Cargamos el fichero XML de datos con la librería XDOM
 		XDOM.newXMLFromURL(xmlUrl, /*onSuccess*/function (xmlDoc) {
 			//alert(XDOM.XMLToString(xmlDoc));
@@ -202,10 +198,10 @@
 		}
 		var downloadHTMLContent = 
 					'<div class="caja_desc">' + 
-						'<form method="get" action="' + pppPreloader.from('data', 'data/adjuntos/'+adjunto) + '" target="_blank">' + 
+						'<form method="get" action="data/adjuntos/'+adjunto+'" target="_blank">' + 
 						'<ul>' + 
 							'<li class="tit"><h2>'+LangRes.curLang[LangRes.DESCARGAR_ARCH_TIT]+'</h2></li>' + 
-							'<li><div class="adjunto_descarga" '+((jQuery.browser.msie==true)?'style="padding-top:0px;"':'')+'><img src="' + pppPreloader.from('module', 'motor/images/' + fileName) + '" /></div><div class="nom_archivo" '+((jQuery.browser.msie==true)?'style="padding-top:0px;"':'')+'><strong>'+adjunto+'</strong><span id="fileSize"></span> </div><div class="bt_descarg" style="margin: 0;'+((jQuery.browser.msie==true)?' padding-top:0px;':'')+'"><input type="button" name="pdf_desc" value="'+((jQuery.browser.msie==true)?'   ':'')+LangRes.curLang[LangRes.DESCARGAR_ARCH]+'" onClick="javascript: this.target=\'_blank\'; onClickDownload(this); return false;" /></div><div class="clearfix"></div></li>' + 
+							'<li><div class="adjunto_descarga" '+((jQuery.browser.msie==true)?'style="padding-top:0px;"':'')+'><img src="motor/images/' + fileName + '" /></div><div class="nom_archivo" '+((jQuery.browser.msie==true)?'style="padding-top:0px;"':'')+'><strong>'+adjunto+'</strong><span id="fileSize"></span> </div><div class="bt_descarg" style="margin: 0;'+((jQuery.browser.msie==true)?' padding-top:0px;':'')+'"><input type="button" name="pdf_desc" value="'+((jQuery.browser.msie==true)?'   ':'')+LangRes.curLang[LangRes.DESCARGAR_ARCH]+'" onClick="javascript: this.target=\'_blank\'; onClickDownload(this); return false;" /></div><div class="clearfix"></div></li>' + 
 						'</ul>' + 
 						'</form>' + 
 					'</div>';
@@ -235,11 +231,11 @@
 		//alert("content size: " + content.offsetWidth + " x " + content.offsetHeight);
 		var params = new Array();
 		params.wmode = "window"; 
-			swfobject.embedSWF(pppPreloader.from('data', "data/adjuntos/" + adjunto), contentFlash, contentFlash.offsetWidth-(39*2), contentFlash.offsetHeight, 10, "expressInstall.swf", {}, params);
+			swfobject.embedSWF("data/adjuntos/" + adjunto, contentFlash, contentFlash.offsetWidth-(39*2), contentFlash.offsetHeight, 10, "expressInstall.swf", {}, params);
 		$(content).html($(content).html()+"<div id='expand_content'></div>");
 		$('#expand_content').css('visibility', 'visible');
 		$('#expand_content').click(function() {
-			window.open(pppPreloader.from('data', "data/adjuntos/" + adjunto), 'Adjunto', 'height='+window.screen.height+',width='+window.screen.width+',top=0,left=0,resizable,scrollbars=1')
+			window.open("data/adjuntos/" + adjunto, 'Adjunto', 'height='+window.screen.height+',width='+window.screen.width+',top=0,left=0,resizable,scrollbars=1')
 		});
 		}, 0);
 	}
@@ -259,12 +255,12 @@
 		var attributes = {
 			id: "flvPlayer"
 		};
-		swfobject.embedSWF(pppPreloader.from('module', "motor/pppVideoPlayer.swf"), content, content.offsetWidth, content.offsetHeight, 10, "expressInstall.swf", flashvars, params, attributes);
+		swfobject.embedSWF("motor/pppVideoPlayer.swf", content, content.offsetWidth, content.offsetHeight, 10, "expressInstall.swf", flashvars, params, attributes);
 	}
 	function renderMP4Content(contentId, adjunto) {
 		var content = document.getElementById(contentId);
 		var tagContent = '<video id="mivideo" controls="controls" width="' + content.offsetWidth + 'px" height="' + content.offsetHeight + 'px" preload="metadata" style="_visibility: hidden;">' +
-							'<source type="video/mp4" src="' + pppPreloader.from('data', 'data/adjuntos/' + adjunto) + ' " />' +
+							'<source type="video/mp4" src="data/adjuntos/' + adjunto + '" />' +
 							'</video>';
 		$(content).html(tagContent);
 		initMediaPlayer();
@@ -272,7 +268,7 @@
 
 	function renderImageContent(contentId, adjunto) {
 		var content = document.getElementById(contentId);
-		content.innerHTML = "<img id=\"img_to_show\" style=\"visibility: hidden; position: absolute;\" src=\"" + pppPreloader.from('data', "data/adjuntos/" + adjunto) + "\" onload=\"adjustImageContent('" + contentId + "', 'img_to_show');\"><div id='expand_content'></div>";
+		content.innerHTML = "<img id=\"img_to_show\" style=\"visibility: hidden; position: absolute;\" src=\"data/adjuntos/" + adjunto + "\" onload=\"adjustImageContent('" + contentId + "', 'img_to_show');\"><div id='expand_content'></div>";
 	}
 
 	function adjustImageContent(contentId, imageId) {
@@ -435,7 +431,7 @@
 		/* IFRAME INTEGRAT
 		content.innerHTML = "<iframe id=\"iframeUrl\" frameborder=\"0\" height=\"445px\" width=\"100%\"></iframe><div id='expand_content'></div>";
 		adjustHTMLContent("data/adjuntos/" + adjunto, "iframeUrl");
-		document.getElementById("iframeUrl").src = pppPreloader.from('data', "data/adjuntos/" + adjunto);
+		document.getElementById("iframeUrl").src = "data/adjuntos/" + adjunto;
 		*/
 		// IFRAME EXTERN
 		if (resiz._isIOS)
@@ -444,14 +440,14 @@
 			$(document.body).append('<iframe id="iframeUrlExt" style="position: absolute; visibility: hidden; top: 0; left: 0; width: 1px; height: 1px;" frameborder="0" src="about:blank"></iframe><div id="expand_contentExt"></div>');
 		var extiframe = document.getElementById("iframeUrlExt");
 		setGlobalFramePos(contentId, "iframeUrlExt", true);
-		adjustExtHTMLContent(pppPreloader.from('data', "data/adjuntos/" + adjunto), "iframeUrlExt");
+		adjustExtHTMLContent("data/adjuntos/" + adjunto, "iframeUrlExt");
 		$('#iframeUrlExt').css('visibility', 'visible');
-		extiframe.src = pppPreloader.from('module', pppPreloader.from('data', "data/adjuntos/" + adjunto));
+		extiframe.src = "data/adjuntos/" + adjunto;
 		// Afegim callback
 		resiz.resizeCallbacks.push(function () {
 			var extiframe = document.getElementById("iframeUrlExt");
 			setGlobalFramePos(contentId, "iframeUrlExt", true);
-			adjustExtHTMLContent(pppPreloader.from('data', "data/adjuntos/" + adjunto), "iframeUrlExt", true);
+			adjustExtHTMLContent("data/adjuntos/" + adjunto, "iframeUrlExt", true);
 			var $exp_but = $('#expand_contentExt');
 			/* Sistema de escalado antiguo por CSS que el resultado en pantalla es borroso */
 			$exp_but.css("-ms-transform-origin", "0 0");
@@ -720,9 +716,8 @@
 	};
 
 	// Creamos todo lo necesario...
-	function waitDocumentReady() {
-		// Podemos suponer que despues de la carga del manifest el documento ya esta ready pero nos aseguramos
-		$(document).ready(function() { // asegurarnos que el documento esta disponible
+	$(document).ready(function() {
+	
 		scormConfig = aulaPlaneta.SCORM.initialize();
 
 		// Es fa aquí perquè SCORM s'encarrega d'ajustar el domini per evitar cross-domain
@@ -754,8 +749,6 @@
 		else
 			$("#adj").after('<input type="file" name="uploadField" class="upl" unselectable="on" onchange="javascript:sendStorePetition(this);" />');
 		
-			// Cargamos las imágenes del html con javascript
-			$('#ac_01 .top .logo img').attr("src", pppPreloader.from('module', 'motor/images/aula-planeta-logo.jpg'));
 		$('#subir_pro').prop('action', URL);
 		
 		resiz.initXResize();
@@ -765,7 +758,6 @@
 		// Carreguem el document XML
 		loadXMLM102(function() { readyMain(); });
 	});
-	}
 
 	function endAction() {
 		// Cuando se pincha el botón de enviar se supone que ya se ha subido un fichero
@@ -989,7 +981,7 @@
 			//scormConfig.mode = aulaPlaneta.SCORM.MODO_BROWSE;
 			//scormConfig.suspend_data = "visto";
 			//alert('MODO: ' + scormConfig.mode +" SUSP: " + scormConfig.suspend_data);
-			
+
 			if (scormConfig.mode == aulaPlaneta.SCORM.MODO_REVIEW) {
 				addContent(xmlDocu);
 				$('#buttonEndAction').html('');
@@ -1009,7 +1001,7 @@
 				$('#cajaSubir').toggleClass('form_adj');
 				$('#cajaSubir').toggleClass('form_adj_no_upload');
 				$('#cajaSubir').html(msg);
-			} else if (scormConfig.mode == aulaPlaneta.SCORM.MODO_EXAM || scormConfig.mode == aulaPlaneta.SCORM.MODO_NORMAL || scormConfig.mode == aulaPlaneta.SCORM.MODO_AREVIEW) {
+			} else if (scormConfig.mode == aulaPlaneta.SCORM.MODO_EXAM || scormConfig.mode == aulaPlaneta.SCORM.MODO_NORMAL) {
 				// Si la actividad es abierta por el alumno, por cada documento que "abra" o vea
 				// se pone un "visto" en el suspend_data para indicar al professor que ha sido abierto
 				addContent(xmlDocu, function() {
@@ -1024,14 +1016,11 @@
 				$('#cajaSubir').toggleClass('form_adj');
 				$('#cajaSubir').toggleClass('form_adj_no_upload');
 				$('#cajaSubir').html(msg);
-				// Si no estem revisant, notifiquem que l'hem vist
-				if (scormConfig.mode != aulaPlaneta.SCORM.MODO_AREVIEW) {
-					setTimeout(function() { 
-						if (scormConfig.suspend_data != 'visto') {
-							aulaPlaneta.SCORM.ejercicio_evaluar('visto', ''); 
-						}
-					}, 1000);
-				}
+				setTimeout(function() { 
+					if (scormConfig.suspend_data != 'visto') {
+						aulaPlaneta.SCORM.ejercicio_evaluar('visto', ''); 
+					}
+				}, 1000);
 			} else {
 				// Si no se reconoce el modo, la barra inferior se muestra vacía
 				$('#buttonEndAction').html('');
