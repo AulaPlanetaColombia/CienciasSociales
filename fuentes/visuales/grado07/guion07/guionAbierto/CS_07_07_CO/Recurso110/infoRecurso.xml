@@ -3,22 +3,22 @@
   <identificador>RES-060B232A380E4FCBA496BE64AB11AE9B</identificador>
   <loid>CS_07_07_CO_Recurso110</loid>
   <titulo>Los climas del continente asiático</titulo>
-  <descripcion>Interactivo para conocer características del clima en Asia</descripcion>
+  <descripcion>Interactivo para conocer los diversos climas de Asia</descripcion>
   <relacionado>0</relacionado>
   <tiporecurso>Recurso con ficha</tiporecurso>
   <tiempoestimado>40</tiempoestimado>
   <acciondidactica>Exposición</acciondidactica>
   <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
-  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <tipomedia pesado="false" matricula="">Interactivo</tipomedia>
   <conceptos>
     <concepto>Asia</concepto>
     <concepto>clima</concepto>
     <concepto>clima ecuatorial</concepto>
     <concepto>clima ecuatorial lluvioso</concepto>
     <concepto>Continentes</concepto>
+    <concepto>desierto</concepto>
     <concepto>monzones</concepto>
     <concepto>polar</concepto>
     <concepto>Siberia</concepto>
-    <concepto>desierto</concepto>
   </conceptos>
 </metadata>

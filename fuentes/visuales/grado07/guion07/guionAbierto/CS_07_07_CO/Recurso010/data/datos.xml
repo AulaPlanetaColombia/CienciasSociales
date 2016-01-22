@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f10b">
 <main mode="f10b" title="Geografía física y humana de Europa, Asia y África">
-<tf><![CDATA[<p>Estos tres continentes componen junto a Australia el hemisferio oriental&nbsp;de nuestro planeta. Navega por este interactivo para aprender m&aacute;s sobre el tema.</p>]]></tf>
+<tf><![CDATA[<p>Estos tres continentes&nbsp;junto con Australia se encuentran en el hemisferio oriental&nbsp;de nuestro planeta. Navega por este interactivo para aprender m&aacute;s sobre el tema.</p>]]></tf>
 </main>
 <selection title="Geografía física de Europa" title2="Europa física" bkclass="slideLexico">
 	<definition>
@@ -13,7 +13,8 @@
 
 <p>Las formaciones m&aacute;s reconocidas son los Apeninos, los Alpes, los Balcanes, los C&aacute;rpatos y los Pirineos.</p>
 
-<p>El pico m&aacute;s elevado de Europa es el Elbrus (5.642 metros) y el segundo, el Mont Blanc (4.808 metros).</p>]]></def>
+<p>El pico m&aacute;s elevado de Europa es el Elbrus (5.642 metros) y el segundo, el Mont Blanc (4.808 metros).</p>
+]]></def>
 	</definition>
 	<definition>
 		<title>Hidrografía</title>
@@ -25,7 +26,8 @@
 
 <p>Europa no tiene grandes lagos de agua dulce pero los dos m&aacute;s destacados son el Ladoga y el Onega.</p>
 
-<p>El Mar Caspio, que adem&aacute;s de ser el cuerpo de agua m&aacute;s grande dentro del continente, es el lago de mayor extensi&oacute;n en el mundo,</p>]]></def>
+<p>El Mar Caspio, que adem&aacute;s de ser el cuerpo de agua m&aacute;s grande dentro del continente, es el lago de mayor extensi&oacute;n en el mundo.</p>
+]]></def>
 	</definition>
 	<definition>
 		<title>Extensión</title>
@@ -41,8 +43,7 @@
 
 <p>Europa est&aacute; dividida en 4 subregiones: Europa N&oacute;rdica, Atl&aacute;ntica, Central y Oriental.</p>
 
-<p>En cada una de estas regiones se presentan distintos tipos de geograf&iacute;a y clima.</p>
-]]></def>
+<p>En cada una de estas regiones se presentan distintos tipos de geograf&iacute;a y clima.</p>]]></def>
 	</definition>
 	<definition>
 		<title>Clima</title>
@@ -67,6 +68,69 @@
 <p>&nbsp;</p>]]></def>
 	</definition>
 </presentation>
+<selection title="Geografía física de Asia" title2="Asia física" bkclass="slideLexico">
+	<definition>
+		<title>Relieve</title>
+		<def><![CDATA[<p>Por su extensi&oacute;n, el relieve asi&aacute;tico va desde las nieves perpetuas hasta zonas des&eacute;rticas.&nbsp;</p>
+
+<p>En Asia se encuentra&nbsp;el&nbsp;pico&nbsp;m&aacute;s alto&nbsp;del mundo en la cordillera del Himalaya: el monte Everest (8.848 metros).&nbsp;</p>
+
+<p>Las franjas des&eacute;rticas del continente incluyen el desierto de Arabia, el de Persia y el de Turquest&aacute;n.</p>
+
+<p>&nbsp;</p>]]></def>
+	</definition>
+	<definition>
+		<title>Hidrografía</title>
+		<def><![CDATA[<p>En Asia se encuentran grandes cuencas hidrogr&aacute;ficas, en las cuales se hallan algunas de las tierras m&aacute;s f&eacute;rtiles del planeta. Algunas de estas cuencas son las de los r&iacute;os Tigris y &Eacute;ufrates (ubicada en Siria e Irak); la de los r&iacute;os Indo, Ganges y Brahmaputra (ubicadas en India y Pakist&aacute;n); y la de los r&iacute;os Huang He y Yangts&eacute; (ubicadas en China).</p>
+
+<p>Los r&iacute;os m&aacute;s largos son el Yenisei (4.750 km) el Lena (4.270 km) y el Mekong (4.200 km).</p>
+
+<p>Entre los lagos m&aacute;s importantes se encuentran el Mar de Aral, el Caspio (ambos de agua salada) y el Baikal.</p>
+]]></def>
+	</definition>
+	<definition>
+		<title>Extensión</title>
+		<def><![CDATA[<p>Asia es el continente m&aacute;s extenso y poblado del mundo.</p>
+
+<p>Representa cerca al 9% de la superficie total de la Tierra con aproximadamente 44 milones de km<sup>2</sup>.</p>
+
+<p>Limita al norte con el oc&eacute;ano Glacial &Aacute;rtico y&nbsp;al sur con el oc&eacute;ano &Iacute;ndico.&nbsp;</p>
+
+<p>Al oeste limita con los montes Urales y al Este con el oc&eacute;ano Pac&iacute;fico.&nbsp;</p>]]></def>
+	</definition>
+	<definition>
+		<title>Clima</title>
+		<def><![CDATA[<p>Su territorio abarca desde el Polo Norte hasta el paralelo del Ecuador, por eso presenta todos los tipos de clima.</p>
+
+<p>Hacia el Ecuador las precipitaciones pueden ser abundantes por los monzones anuales en la India.</p>
+
+<p>En la zona occidental y el centro predominan los climas &aacute;ridos y secos con escasas precipitaciones.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>]]></def>
+	</definition>
+</selection>
+<presentation title="Geografía humana de Asia" title2="Asia humana" buttons="false" bkclass="">
+	<definition>
+		<title></title>
+		<def><![CDATA[<p>En Asia habita el 55% de la poblaci&oacute;n mundial. Tan solo en dos pa&iacute;ses habitan m&aacute;s&nbsp;de 2600 millones de personas: China (1.370 millones) e India (1.300 millones)</p>
+
+<p>Predominan los descendientes de la etnia mongol cuyo mestizaje con negros y cauc&aacute;sicos ha creado pueblos con rasgos f&iacute;sicos y culturales muy diversos.</p>
+
+<p>Las tres lenguas m&aacute;s habladas son el chino mandar&iacute;n, el hindi y el &aacute;rabe; sin embargo, en toda Asia pueden encontrarse varios dialectos, lenguas nacionales y, a raiz del colonialismo europeo, el ingl&eacute;s o el franc&eacute;s, utilizados principalmente en &aacute;mbitos comerciales y pol&iacute;ticos.</p>
+
+<p>Por haber sido territorio colonial europeo, el ingl&eacute;s y el franc&eacute;s&nbsp;son ampliamente utilizados todav&iacute;a, sobre todo en &aacute;mbitos comerciales y pol&iacute;ticos.&nbsp;</p>
+
+<p>La tres religiones m&aacute;s practicadas son, en su orden, el budismo, el islamismo y el hindu&iacute;smo. Sin embargo, tambi&eacute;n practican&nbsp;el tao&iacute;smo, el juda&iacute;smo o el catolicismo.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>]]></def>
+	</definition>
+</presentation>
 <selection title="Geografía física de África" title2="África física" bkclass="slideLexico">
 	<definition>
 		<title>Relieve</title>
@@ -80,11 +144,12 @@
 		<title>Extensión</title>
 		<def><![CDATA[<p>Al Norte, &Aacute;frica limita con el Mar Mediterr&aacute;neo y el oc&eacute;ano Atl&aacute;ntico.</p>
 
-<p>Al oeste limita con el oc&eacute;ano Atl&aacute;ntico,al este con Israel,&nbsp;el oc&eacute;ano &Iacute;ndico y el mar Rojo.</p>
+<p>Al oeste limita con el oc&eacute;ano Atl&aacute;ntico, al este con Israel,&nbsp;el oc&eacute;ano &Iacute;ndico y el mar Rojo.</p>
 
 <p>Al sur limita con el oce&aacute;no &Iacute;ndico y Atl&aacute;ntico.</p>
 
-<p>Su superficie total es de 30.272.922 Km2&nbsp;que representa 20% de la Tierra, albergando m&aacute;s de 1.000 millones de personas.</p>]]></def>
+<p>Su superficie total es de 30.272.922 Km<sup>2</sup>&nbsp;que representa 20% de la Tierra, albergando m&aacute;s de 1.000 millones de personas.</p>
+]]></def>
 	</definition>
 	<definition>
 		<title>Hidrografía</title>
@@ -119,70 +184,6 @@
 <p>Existe una gran diversidad religiosa pero predominan el Islam y el Cristianismo.&nbsp;</p>
 
 <p>Debido a la colonizaci&oacute;n europea, en &Aacute;frica se hablan tanto dialectos locales como lenguas como el franc&eacute;s, el ingl&eacute;s y el portugu&eacute;s.</p>]]></def>
-	</definition>
-</presentation>
-<selection title="Geografía física de Asia" title2="Asia física" bkclass="slideLexico">
-	<definition>
-		<title>Relieve</title>
-		<def><![CDATA[<p>Por su extensi&oacute;n, el relieve asi&aacute;tico va desde las nieves perpetuas hasta zonas des&eacute;rticas.&nbsp;</p>
-
-<p>En Asia se encuentra&nbsp;el&nbsp;pico&nbsp;m&aacute;s alto&nbsp;del mundo en la cordillera del Himalaya: el monte Everest (8.848 metros).&nbsp;</p>
-
-<p>Las franjas des&eacute;rticas del continente incluyen el desierto de Arabia, el de Persia y el de Turquest&aacute;n.</p>
-
-<p>&nbsp;</p>]]></def>
-	</definition>
-	<definition>
-		<title>Hidrografía</title>
-		<def><![CDATA[<p>En Asia se encuentran grandes cuencas hidrogr&aacute;ficas, en las cuales se hallan algunas de las tierras m&aacute;s f&eacute;rtiles del planeta. Algunas de estas cuencas son las de los r&iacute;os Tigris y &Eacute;ufrates (ubicada en Siria e Irak); la de los r&iacute;os Indo, Ganges y Brahmaputra (ubicadas en India y Pakist&aacute;n); y la de los r&iacute;os Huang He y Yangts&eacute; (ubicadas en China).</p>
-
-<p>Los r&iacute;os m&aacute;s largos son el Yenisei (4750 km) el Lena (4270 km) y el Mekong (4200 km).</p>
-
-<p>Entre los lagos m&aacute;s importantes se encuentran el Mar de Aral, el Caspio (ambos de agua salada) y el Baikal.</p>]]></def>
-	</definition>
-	<definition>
-		<title>Extensión</title>
-		<def><![CDATA[<p>Asia es el continente m&aacute;s extenso y poblado del mundo.</p>
-
-<p>Representa cerca al 9% de la superficie total de la Tierra con aproximadamente 44 milones de km<sup>2</sup>.</p>
-
-<p>Limita al norte con el oc&eacute;ano Glacial &Aacute;rtico y&nbsp;al sur con el oc&eacute;ano &Iacute;ndico.&nbsp;</p>
-
-<p>Al oeste limita con los montes Urales y al Este con el oc&eacute;ano Pac&iacute;fico.&nbsp;</p>]]></def>
-	</definition>
-	<definition>
-		<title>Clima</title>
-		<def><![CDATA[<p>Su territorio abarca desde el Polo Norte hasta el paralelo del Ecuador, por eso presenta todos los tipos de clima.</p>
-
-<p>Hacia el Ecuador las precipitaciones pueden ser abundantes, como, por ejemplo, en los monzones anuales en la India.</p>
-
-<p>En la zona occidental y el centro predominan los climas &aacute;ridos y secos con bajas precipitaciones.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>]]></def>
-	</definition>
-</selection>
-<presentation title="Geografía humana de Asia" title2="Asia humana" buttons="false" bkclass="">
-	<definition>
-		<title></title>
-		<def><![CDATA[<p>En Asia habita el 55% de la poblaci&oacute;n mundial. Tan solo en dos pa&iacute;ses habitan m&aacute;s&nbsp;de 2600 millones de personas: China (1.370 millones) e India (1.300 millones)</p>
-
-<p>Predominan los descendientes de la etnia mongol cuyo mestizaje con negros y cauc&aacute;sicos ha creado pueblos con rasgos f&iacute;sicos y culturales muy diversos.</p>
-
-<p>Las tres lenguas m&aacute;s habladas son el chino mandar&iacute;n, el hindi y el &aacute;rabe; sin embargo, en toda Asia pueden encontrarse varios dialectos, lenguas nacionales y, a raiz del colonialismo europeo, el ingl&eacute;s o el franc&eacute;s, utilizados principalmente en &aacute;mbitos comerciales y pol&iacute;ticos.</p>
-
-<p>Por haber sido territorio colonial europeo, el ingl&eacute;s y el franc&eacute;s&nbsp;son ampliamente utilizados todav&iacute;a, sobre todo en &aacute;mbitos comerciales y pol&iacute;ticos.&nbsp;</p>
-
-<p>La tres religiones m&aacute;s practicadas son, en su orden, el budismo, el islamismo y el hindu&iacute;smo.&nbsp;</p>
-
-<p>Tambi&eacute;n se encuentran otras religiones como el tao&iacute;smo, el juda&iacute;smo o el catolicismo.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>]]></def>
 	</definition>
 </presentation>
 </engine>

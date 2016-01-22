@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="10" clase="a" aprid="m10a">
   <plataforma>
     <grado><![CDATA[1]]></grado>
-    <titulo>Los climas del continente africano</titulo>
+    <titulo>Conoce los climas del continente africano</titulo>
     <area>0</area>
     <nivel>1</nivel>
     <referencia/>
@@ -9,7 +9,7 @@
     <motor><![CDATA[M10A]]></motor>
     <lang>es</lang>
   </plataforma>
-  <enunciado><![CDATA[Incluye cada una de las características del clima del continente africano, según corresponda con cada tipo enunciado.]]></enunciado>
+  <enunciado><![CDATA[Clasifica las características del clima del continente africano, según correspondan a cada tipo climático.]]></enunciado>
   <masinfo inicio="0"/>
   <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
   <calc><![CDATA[0]]></calc>
@@ -17,9 +17,9 @@
     <cuestion>
       <categoria><![CDATA[Ecuatorial]]></categoria>
       <respuestas>
-        <respuesta id="2"><![CDATA[Lluvias abundantes]]></respuesta>
-        <respuesta id="3"><![CDATA[Densa vegetación]]></respuesta>
-        <respuesta id="4"><![CDATA[Fauna diversa]]></respuesta>
+        <respuesta id="1"><![CDATA[Lluvias abundantes]]></respuesta>
+        <respuesta id="2"><![CDATA[Densa vegetación]]></respuesta>
+        <respuesta id="3"><![CDATA[Fauna diversa]]></respuesta>
       </respuestas>
       <sonido/>
     </cuestion>
@@ -37,7 +37,7 @@
       <respuestas>
         <respuesta id="1"><![CDATA[Inviernos suaves]]></respuesta>
         <respuesta id="2"><![CDATA[Veranos calurosos]]></respuesta>
-        <respuesta id="4"><![CDATA[Coníferas y arbustos]]></respuesta>
+        <respuesta id="3"><![CDATA[Coníferas y arbustos]]></respuesta>
       </respuestas>
       <sonido/>
     </cuestion>
@@ -46,7 +46,7 @@
       <respuestas>
         <respuesta id="1"><![CDATA[Desiertos]]></respuesta>
         <respuesta id="2"><![CDATA[Variabilidad térmica]]></respuesta>
-        <respuesta id="4"><![CDATA[Oasis]]></respuesta>
+        <respuesta id="3"><![CDATA[Oasis]]></respuesta>
       </respuestas>
       <sonido/>
     </cuestion>

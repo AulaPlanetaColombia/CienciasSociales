@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="101" clase="a" aprid="m101a">
   <plataforma>
     <grado>3</grado>
-    <titulo>Refuerza tu aprendizaje: Aspectos físicos y humanos de Europa</titulo>
+    <titulo>Refuerza tu aprendizaje: Aspecto físico y humano de Europa</titulo>
     <volumen/>
     <nivel><![CDATA[1]]></nivel>
     <referencia/>
@@ -49,9 +49,9 @@
       <texto/>
     </pregunta>
     <pregunta>
-      <enunciado><![CDATA[Revisa los datos de esperanza de vida para la población europea y establece una comparación con los datos de esperanza de vida de Colombia. Redacta conclusiones en relación con la edad y el género de la población. http://www.datosmacro.com/demografia/esperanza-vida/colombia]]></enunciado>
+      <enunciado><![CDATA[Revisa los datos de esperanza de vida para la población europea y establece una comparación con los datos de esperanza de vida de Colombia. Redacta conclusiones en relación con la edad y el género de la población. ]]></enunciado>
       <explicacion><![CDATA[Los datos demográficos son valiosos en la medida que se vinculan con otro tipo de análisis, como la prosperidad, el bienestar, los sistemas de salud y los fenómenos ambientales.]]></explicacion>
-      <nivel><![CDATA[2]]></nivel>
+      <nivel><![CDATA[3]]></nivel>
       <tipo><![CDATA[M]]></tipo>
       <imagen/>
       <ampliacion/>

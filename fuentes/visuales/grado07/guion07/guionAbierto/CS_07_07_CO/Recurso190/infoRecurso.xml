@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <metadata xmlns="urn:InfoRecurso">
-  <identificador>RES-A1A84344A7794616AD260FC934784D05</identificador>
-  <loid>CS_07_07_CO_Recurso190</loid>
-  <titulo>Los medios cálidos: el paisaje desértico y la sabana</titulo>
-  <descripcion>Secuencia de imágenes que presenta dos ejemplos de los paisajes propios de la zona cálida de la Tierra: el desierto y la sabana</descripcion>
-  <relacionado>0</relacionado>
-  <tiporecurso>Recurso con ficha</tiporecurso>
-  <tiempoestimado>20</tiempoestimado>
-  <acciondidactica>Exposición</acciondidactica>
-  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
-  <tipomedia pesado="false" matricula="">Secuencia de imágenes</tipomedia>
+  <identificador></identificador>
+  <loid></loid>
+  <titulo></titulo>
+  <descripcion></descripcion>
+  <relacionado></relacionado>
+  <tiporecurso></tiporecurso>
+  <tiempoestimado></tiempoestimado>
+  <acciondidactica></acciondidactica>
+  <competencia></competencia>
+  <competencias>
+  </competencias>
+  <tipomedia pesado="False" matricula=""></tipomedia>
   <conceptos>
-    <concepto>desierto</concepto>
-    <concepto>estación húmeda</concepto>
-    <concepto>estación seca</concepto>
-    <concepto>grandes depredadores</concepto>
-    <concepto>grandes herbívoros</concepto>
-    <concepto>nómada</concepto>
-    <concepto>nomadismo</concepto>
-    <concepto>oasis</concepto>
-    <concepto>oscilación térmica</concepto>
-    <concepto>paisaje desértico</concepto>
-    <concepto>sabana</concepto>
   </conceptos>
 </metadata>

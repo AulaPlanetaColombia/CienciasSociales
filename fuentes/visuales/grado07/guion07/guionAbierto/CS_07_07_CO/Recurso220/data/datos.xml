@@ -1,19 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<motor tipo="102" clase="ab" aprid="M102ab">
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="102" clase="ab" aprid="M102ab">
   <plataforma>
     <grado>2</grado>
     <titulo>Competencias: diseño de un cuadro comparativo del flujo migratorio reciente en Europa, Asia y África</titulo>
-    <volumen />
+    <volumen/>
     <nivel>2</nivel>
-    <referencia />
-    <motor />
+    <referencia/>
+    <motor/>
     <lang>es</lang>
   </plataforma>
   <calc>0</calc>
   <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines, envíala para que pueda ser validada.]]></enunciado>
-  <masinfo inicio="0" />
-  <textoupload />
+  <masinfo inicio="0"/>
+  <textoupload/>
   <adjunto><![CDATA[Principal.html]]></adjunto>
-  <url />
+  <url/>
   <amano><![CDATA[0]]></amano>
 </motor>
