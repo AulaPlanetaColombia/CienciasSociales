@@ -66,9 +66,6 @@ y el <negritacursiva>Mont Blanc</negritacursiva> (4808 m) en los Alpes.</p>
 </imagen>
 <profundiza>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso020&amp;IdRecurso=RES-7295F489D7B44B12BCE5C0F91D6DFB71"
->El relieve, costas y aguas de Europa</enlace>
-<enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso040&amp;IdRecurso=RES-32E0A9DCF21241B1A4885B795508BF5B"
 >Identifica el relieve de Europa</enlace>
 </profundiza>
@@ -81,9 +78,6 @@ montaña</negrita>.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso290&amp;IdRecurso=RES-7106AC415E2449C7B01EE068F3D08524"
 >Los climas y paisajes de la Europa atlántica</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso270&amp;IdRecurso=RES-C6D9CC715FC24FDC8D8952E69EC2E81B"
->Los climas y paisajes de la Europa continental</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso280&amp;IdRecurso=RES-C964E6123782461F8547EA2DC74DBD5B"
 >Los climas y paisajes de la Europa mediterránea</enlace>
@@ -611,11 +605,7 @@ donde predomina la palma datilera.</td>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso110&amp;IdRecurso=RES-060B232A380E4FCBA496BE64AB11AE9B"
 >Los climas del continente asiático</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso120&amp;IdRecurso=RES-9CA1AEBE915343ED91495D4941C2548C"
->Conoce la tundra</enlace>
-</practica></seccion3Texto></seccion3><seccion3
+</profundiza></seccion3Texto></seccion3><seccion3
 id="S3_CS_07_07_CO_C6D581A27C894364A7B5A172C9B5DA46">
 <seccion3Titulo>La hidrografía</seccion3Titulo>
 <seccion3Texto>
@@ -919,7 +909,7 @@ servicios de software.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso150&amp;IdRecurso=RES-C79126F3DF3843BD996EBD0868A563D1"
 >Identifica características de las actividades económicas del continente
-asiático</enlace><?Pub Caret 70?>
+asiático</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_CS_07_07_CO_6F156C0F36C049F08BC3385E61D4EC4E">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -963,7 +953,7 @@ se ubica en la isla de Santo Antão en Cabo Verde a los 17° 33’ 22”
 de longitud oeste; y al oriente el punto más extremo es el cabo Ras
 Hafun en Somalia, ubicado a los 51° 27’ 52” de longitud este.</listaElemento>
 </listaSinNumerar>
-<seccion2 id="S2_CS_07_07_CO_64080091C7C4482C8DCF0F731FD64883">
+<seccion2 id="S2_CS_07_07_CO_D3D96A4D89364E629B73EC9C4B50G13B">
 <seccion2Titulo>El aspecto físico de África</seccion2Titulo>
 <seccion2Texto>
 <p>El <negrita>continente africano</negrita> se ubica al sur de Europa
@@ -1134,7 +1124,7 @@ C.</p>
 destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso200&amp;IdRecurso=RES-129197B00E014250B504B836E20A878C"
 >Reconoce los ríos y lagos de África</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
-<seccion2 id="S2_CS_07_07_CO_64080091C7C4482C8DCF0F731FD65712">
+<seccion2 id="S2_CS_07_07_CO_AA23EC77C4D74CBBA4D92098AFF75B38">
 <seccion2Titulo>El aspecto humano de África</seccion2Titulo>
 <seccion2Texto>
 <p><negrita>África</negrita> se ha definido como la <negrita>cuna
@@ -1352,7 +1342,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso010&amp;IdRecurso=RES-9BC2B7
 >Identifica aspectos de la geografía física y humana de Europa, Asia
 y África</enlace>
 </profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
-<seccion2 id="S2_CS_07_07_CO_64080091C7C4482C8DCF0F731FD61115">
+<seccion2 id="S2_CS_07_07_CO_5F05513DCC354CDA96A28CEE8BEC721D">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
@@ -1361,7 +1351,7 @@ y África</enlace>
 destino="/LoIdRedirect.aspx?LoId=CS_07_07_CO_Recurso210&amp;IdRecurso=RES-CCD9DF6186E54003BDB4C471B7111671"
 >Refuerza tu aprendizaje: Aspecto físico y humano de África</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_07_07_CO_B5912D33F5E840F6894BBECB457DED56">
+<seccion1 id="S1_CS_07_07_CO_A96FAA58550C4C20A5CBA46CA36EF1A5">
 <seccion1Titulo>Competencias</seccion1Titulo>
 <seccion1Texto>
 <p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
