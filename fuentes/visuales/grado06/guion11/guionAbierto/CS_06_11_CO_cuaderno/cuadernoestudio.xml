@@ -87,7 +87,7 @@ o granizo. La <negrita>presión atmosférica</negrita>: peso o fuerza
 que hace el aire sobre la superficie terrestre.</listaElemento>
 <listaElemento>El <negrita>viento</negrita>: aire en movimiento.</listaElemento>
 </listaSinNumerar>
-<imagen src="CS_06_11_CO_IMG03_small.jpg">
+<imagen ampliable="no" src="CS_06_11_CO_IMG03_small.jpg">
 <p>En desiertos como el Sahara se registran temperaturas muy altas
 durante el día y muy bajas durante la noche.</p>
 </imagen>
@@ -156,27 +156,37 @@ y recursos.</p>
 <seccion2 id="S2_CS_06_11_CO_71E3D94B8970449D9BC4EFF993DEDD04">
 <seccion2Titulo>Los instrumentos para el estudio metereológico</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p><?Pub Caret -2?>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_05_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Existen distintos instrumentos para medir los elementos que intervienen
+en el clima:</p>
+<listaSinNumerar>
+<listaElemento>El <negrita>barómetro</negrita>: instrumento que mide
+la presión atmosférica. Es decir, el peso que una columna de aire
+ejerce sobre una superficie. Es uno de los instrumentos de medida
+fundamentales en meteorología.</listaElemento>
+<listaElemento>El <negrita>anemómetro</negrita>: instrumento que mide
+la velocidad del viento.</listaElemento>
+<listaElemento>El <negrita>higrómetro</negrita>: instrumento que mide
+la humedad del aire.</listaElemento>
+<listaElemento>El <negrita>pluviómetro</negrita>: instrumento que
+mide la cantidad de la lluvia caída.</listaElemento>
+<listaElemento>El <negrita>termómetro</negrita>: instrumento que mide
+la temperatura.</listaElemento>
+</listaSinNumerar>
+<imagen ampliable="no" src="CS_06_11_CO_IMG05_small.jpg">
+<p>El <negrita>barómetro</negrita> es el instrumento que sirve para
+medir la <negrita>presión atmosférica</negrita>, es decir, el peso
+del aire. Para ello, utiliza una unidad de medida concreta: el <negrita
+>pascal (Pa)</negrita>.</p>
 </imagen>
-<imagen src="CS_06_11_CO_img_06_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<imagen src="CS_06_11_CO_img_07_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+<p>Comprueba si sabes cómo son estos instrumentos y los datos que
+proporcionan. Realiza la actividad que propone la Agencia Estatal
+de Meteorología de España (AEMET) <enlace
+destino="http://www.aemet.es/documentos_d/conocermas/recursos_educativos/juegos/n1/instrumentos/instrumentos_espanol.html"
+> [VER]</enlace>.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso070&amp;IdRecurso=RES-1675EAE988D746F1B8A4303EA04EA5AD"
 >El barómetro</enlace>
-</profundiza>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_08_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso080&amp;IdRecurso=RES-928284EBF72845BCA6992792971CC75D"
 >El anemómetro</enlace>
@@ -184,11 +194,22 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso080&amp;IdRecurso=RES-928284
 id="S2_CS_06_11_CO_56F68E19359D4A688DF61750ACAD22E6">
 <seccion2Titulo>Los mapas metereológicos</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_09_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Los mapas del tiempo que vemos a diario en televisión o en el periódico
+ayudan a comprender los pronósticos que hacen los meteorólogos.</p>
+<p>El <negrita>mapa de isobaras</negrita> representa la presión atmosférica
+en una región específica. Se muestran <negrita>anticiclones</negrita
+> (altas presiones), <negrita>borrascas</negrita> (bajas presiones)
+y <negrita>frentes</negrita> (fríos y cálidos).</p>
+<imagen ampliable="no" src="CS_06_11_CO_IMG06_small.jpg">
+<p>Los mapas de <negrita>isobaras</negrita> muestran la presión atmosférica.
+Cuando esta se sitúa por encima de 1010 (hPa) hablamos de altas presiones
+o anticiclón, lo que favorece un tiempo estable y sin lluvias. En
+cambio, cuando se sitúa por debajo, hablamos de <negrita>bajas presiones</negrita
+> o <negrita>borrascas</negrita>, las cuales provocan un tiempo inestable
+y lluvioso.</p><?Pub Caret -2?>
 </imagen>
+<p>El <negrita>mapa del tiempo</negrita> representa las condiciones
+meteorológicas en una región concreta (sol, lluvia, viento, etc.).</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso090&amp;IdRecurso=RES-AA8E1D24F93549D0A1593B4808850303"
@@ -197,20 +218,42 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso090&amp;IdRecurso=RES-AA8E1D
 id="S2_CS_06_11_CO_7CB24C3242FF4F5DA315ABB6D9B3DE0E">
 <seccion2Titulo>Las gráficas climáticas</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_10_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Una de las herramientas más útiles para conocer las características
+climáticas de cualquier lugar de la superficie terrestre, o para compararlas
+con las de otros, es el <negrita>climograma</negrita>. Se trata de
+la representación gráfica de las precipitaciones y temperaturas de
+un lugar concreto en un periodo determinado.</p>
+<p> El climograma permite identificar a qué clima pertenecen los datos
+representados, pues cada clima tiene unas características específicas
+de precipitación y temperatura.</p>
+<imagen src="CS_06_11_CO_IMG07_small.jpg">
+<p>Los <negrita>climogramas</negrita> nos permiten analizar de forma
+rápida la evolución de las <negrita>temperaturas</negrita> y las <negrita
+>precipitaciones</negrita> de un periodo y lugar determinados.</p>
 </imagen>
+<p>Los climogramas tienen una doble escala; esto quiere decir que
+hay <negrita>dos ejes verticales</negrita> y en cada uno se representan
+unos valores. En el de la izquierda se representa la temperatura,
+y en el de la derecha, las precipitaciones. De forma generalizada,
+la temperatura se representa como un gráfico de líneas, y las precipitaciones,
+en forma de barras.</p>
+<p>A partir de los datos de un climograma, podemos deducir a qué <negrita
+>zona climática</negrita> pertenece un lugar concreto (zona fría,
+cálida o templada) y qué <negrita>tipo de clima</negrita> se produce
+en él.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso100&amp;IdRecurso=RES-534835669B164972992FBBF6EBF7B609"
 >Los climogramas</enlace>
 </profundiza>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_11_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+<p>Conoce cómo se analiza un climograma en el portal educativo Educarex <enlace
+destino="http://contenidos.educarex.es/mci/2004/35/Diccionario/climogramas.html"
+> [VER]</enlace>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_11_CO_7CB24C3242FF4F5DA315ABB6D9B3BA1D">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso110&amp;IdRecurso=RES-C77FD9298F3E493686AD0634BA71D9AD"
@@ -219,118 +262,289 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso110&amp;IdRecurso=RES-C77FD9
 <seccion1 id="S1_CS_06_11_CO_6A55B92A0A6546D4AEC1962172637DFD">
 <seccion1Titulo>Los climas de la Tierra</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
+<p>Si nos centramos en la temperatura, la Tierra se divide en tres
+zonas climáticas: <negrita>cálida</negrita>, <negrita>templada</negrita
+> y <negrita>fría</negrita>. Las condiciones climáticas repercuten
+en el desarrollo humano de cada una de estas zonas.</p>
+<imagen src="CS_06_11_CO_IMG08_small.jpg">
+<p>En la <negrita>Tierra</negrita> hay dos zonas climáticas correspondientes
+a las regiones polares, dos zonas templadas y una zona cálida intermedia.</p>
+</imagen>
 <seccion2 id="S2_CS_06_11_CO_36FC9F43E4704C40B532C957995EC99A">
 <seccion2Titulo>Los climas cálidos</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_12_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>En la zona comprendida entre el trópico de Cáncer y el trópico
+de Capricornio (entre 0 y 30° de latitud norte y sur), se localizan
+los climas cálidos de la Tierra. Distinguimos tres climas cálidos: <negrita
+>ecuatorial</negrita>, <negrita>tropical</negrita> y <negrita>desértico</negrita
+>.</p>
+<imagen src="CS_06_11_CO_IMG09_small.jpg">
+<p>Los <negrita>climas cálidos</negrita> dominan en las zonas comprendidas
+entre el trópico de Cáncer y el de Capricornio. En Pernambuco (Brasil)
+se da un <negrita>clima ecuatorial</negrita>, en Puerto Rico se presenta
+un <negrita>clima tropical</negrita> y en el Sahara (África del Norte)
+encontramos un <negrita>clima desértico</negrita>.</p>
 </imagen>
-</seccion2Texto></seccion2><seccion2
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso120&amp;IdRecurso=RES-0921077049154B18AEB70AABC6ECBB9B"
+>Los climas cálidos en la Tierra</enlace>
+</profundiza>
+<imagen src="CS_06_11_CO_IMG10_small.jpg">
+<p>Los <negrita>climas cálidos</negrita> dominan el espacio comprendido
+entre el trópico de Cáncer y el de Capricornio (entre 0 y 30° de latitud
+norte y sur).</p>
+</imagen>
+<seccion3 id="S3_CS_06_11_CO_F3EB8BF73238473A9E1D58CD9EC38E24">
+<seccion3Titulo>El clima ecuatorial</seccion3Titulo>
+<seccion3Texto>
+<p>El clima ecuatorial está presente en la Amazonia, África ecuatorial,
+Indonesia y Papúa y Nueva Guinea. Estas zonas se encuentran cerca
+de la línea del Ecuador.</p>
+<destacado><destacadoTitulo>El clima ecuatorial</destacadoTitulo>
+<destacadoTexto>
+<p>Se define por:</p>
+<listaSinNumerar>
+<listaElemento>Temperaturas cálidas, entre los 25 y los 30 °C. Existen
+pocas diferencias entre el invierno y el verano.</listaElemento>
+<listaElemento>Precipitaciones abundantes y repartidas a lo largo
+de todo el año. La media es de 2500 mm anuales.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_11_CO_F3EB8BF73238473A9E1D58CD9EC32A75">
+<seccion3Titulo>El clima tropical</seccion3Titulo>
+<seccion3Texto>
+<p>El clima tropical está presente en América Central y América del
+Sur, centro y sur de África, sudeste asiático y norte y este de Australia.
+Las selvas tropicales de América del Sur son un ejemplo de zona con
+este tipo de clima.</p>
+<destacado><destacadoTitulo>El clima tropical</destacadoTitulo>
+<destacadoTexto>
+<p>Se define por:</p>
+<p>Temperaturas cálidas, entre los 25 y los 30 °C todo el año.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_11_CO_F3EB8BF73238473A9E1D58CD9EC31F96">
+<seccion3Titulo>El clima desértico</seccion3Titulo>
+<seccion3Texto>
+<p>El clima desértico está presente en las zonas tropicales, junto
+con las corrientes marinas de aire frío y en las zonas interiores
+alejadas de la influencia marina. Por ejemplo, el desierto del Sahara.</p>
+<destacado><destacadoTitulo>El clima desértico</destacadoTitulo>
+<destacadoTexto>
+<p>Se define por:</p>
+<listaSinNumerar>
+<listaElemento>Temperaturas: grandes oscilaciones térmicas entre el
+día (muy caluroso) y la noche (fría). La media se sitúa en torno a
+los 30 °C.</listaElemento>
+<listaElemento>Precipitaciones: muy escasas (por debajo de los 400
+mm anuales).</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado></seccion3Texto></seccion3></seccion2Texto>
+</seccion2><seccion2
 id="S2_CS_06_11_CO_9D88E295AD5645DB82CD8B093AB9E4C0">
 <seccion2Titulo>Los climas templados</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_13_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Los climas templados están presentes entre los 30 y 60° de latitud
+norte y sur, entre las zonas tropicales y polares. Distinguimos tres
+tipos: <negrita>mediterráneo</negrita>, <negrita>oceánico</negrita
+> y <negrita>continental</negrita>.</p>
+<imagen src="CS_06_11_CO_IMG11_small.jpg">
+<p>Los <negrita>climas templados</negrita> dominan el espacio comprendido
+entre los trópicos y los polos. En Montferri (Tarragona) encontramos
+un <negrita>clima mediterráneo</negrita>; en Nueva Zelanda se da un <negrita
+>clima oceánico</negrita>, y en Innsbruck (Austria) se da un <negrita
+>clima continental</negrita>.</p>
+</imagen>
+<imagen src="CS_06_11_CO_IMG12_small.jpg">
+<p>Los <negrita>climas templados</negrita> dominan el espacio comprendido
+entre las áreas tropicales y polares (entre los 30 y 60° de latitud
+norte y sur).</p>
 </imagen>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso130&amp;IdRecurso=RES-1E7C6F07092D4DC8B73FC1E63029E5E5"
 >Los climas templados en la Tierra</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
+</profundiza><seccion3
+id="S3_CS_06_11_CO_F3EB8BF73238473A9E1D58CD9EC35D37">
+<seccion3Titulo>El clima mediterráneo</seccion3Titulo>
+<seccion3Texto>
+<p>El clima mediterráneo está presente en la cuenca mediterránea y
+las costas de California, el centro de Chile, la República de Sudáfrica
+y el sur y sudoeste de Australia.</p>
+<destacado><destacadoTitulo>El clima mediterráneo</destacadoTitulo>
+<destacadoTexto>
+<p>Se define por:</p>
+<listaSinNumerar>
+<listaElemento>Temperaturas suaves en invierno y calurosas en verano.
+La temperatura media en los meses fríos se sitúa en torno a los 10
+°C, mientras que en los meses cálidos se pueden superar los 25 °C.</listaElemento>
+<listaElemento>Precipitaciones escasas y con grandes variaciones (periodos
+de sequía). Se concentran en la primavera y el otoño. La media anual
+se sitúa entre los 400 y los 1000 mm, aunque existen variaciones de
+un año a otro.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_11_CO_F3EB8BF73238473A9E1D58CD9EC33G25">
+<seccion3Titulo>El clima oceánico</seccion3Titulo>
+<seccion3Texto>
+<p>El clima oceánico está presente en la costa atlántica de Europa,
+las islas británicas, la costa oeste de Canadá y Alaska, el sur de
+Chile y Argentina, la costa sudeste de Australia, Tasmania y Nueva
+Zelanda.</p>
+<imagen src="CS_06_11_CO_IMG13_small.jpg">
+<p>En la bahía de Brest, en Bretaña (Francia), como en el resto de
+la costa atlántica europea, desde Gibraltar hasta Noruega, prevalece
+el <negrita>clima oceánico</negrita>. Debido a que el océano Atlántico
+baña esta larga franja litoral, también se puede hablar de <negrita
+>clima atlántico</negrita>.</p>
+</imagen>
+<destacado><destacadoTitulo>El clima oceánico</destacadoTitulo>
+<destacadoTexto>
+<listaSinNumerar>
+<listaElemento>Las temperaturas: templadas durante todo el año. En
+invierno la media se sitúa en los 5 °C, mientras que en verano ascienden
+hasta los 15-20 °C.</listaElemento>
+<listaElemento>Precipitaciones: abundantes, alrededor de los 1000
+mm anuales.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado></seccion3Texto></seccion3></seccion2Texto>
+</seccion2><seccion2
 id="S2_CS_06_11_CO_939EB08B82C84D23AA6835161ED15A6A">
 <seccion2Titulo>Los climas fríos</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_14_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Los climas fríos están presentes entre los 60 y 90° de latitud
+norte y sur, y en las zonas de alta montaña (por encima de los 2500
+m). Distinguimos entre el <negrita>clima polar</negrita> y el <negrita
+>clima de alta montaña</negrita>.</p>
+<listaSinNumerar>
+<listaElemento>El <negrita>clima de alta montaña</negrita> se encuentra
+en las zonas situadas por encima de los 2500 m de altitud. Este clima
+se define por temperaturas bajas todo el año y precipitaciones abundantes
+(nieve en las cimas).</listaElemento>
+<listaElemento>El <negrita>clima polar</negrita> está presente en
+zonas próximas al Círculo Polar Ártico y al Círculo Polar Antártico,
+en el norte de Canadá, el norte de Alaska y la Siberia septentrional.
+Este clima se define por temperaturas muy bajas y precipitaciones
+escasas (mucha presencia de nieve).</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_11_CO_IMG14_small.jpg">
+<p>Los <negrita>climas fríos</negrita> dominan las zonas situadas
+por encima de los 2500 metros de altitud y en aquellas latitudes próximas
+o superiores a los círculos polares. Las islas Lofoten, en el norte
+de Noruega, por ejemplo, están dominadas por el <negrita>clima polar</negrita
+>, mientras que en los Alpes neozelandeses domina un <negrita>clima
+de alta montaña</negrita>.</p>
+</imagen>
+<imagen src="CS_06_11_CO_IMG15_small.jpg">
+<p>Los <negrita>climas fríos</negrita> se sitúan en las <negrita>zonas
+polares</negrita> (entre los 60 y 90° de latitud norte y sur) y de <negrita
+>alta montaña</negrita> (por encima de los 2.500 m).</p>
 </imagen>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso140&amp;IdRecurso=RES-7EDE5C5AD6354D66BC3B5040B12567B3"
 >Los climas fríos en la Tierra</enlace>
 </profundiza><seccion3
-id="S3_CS_06_11_CO_F3EB8BF73238473A9E1D58CD9EC37D13">
-<seccion3Titulo>El clima de la alta montaña</seccion3Titulo>
+id="S3_CS_06_11_CO_F3EB8BF73238473A9E1D58CD9EC36C67">
+<seccion3Titulo>El clima polar</seccion3Titulo>
 <seccion3Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_15_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<practica>
+<p>El clima polar está presente en latitudes próximas y superiores
+a los círculos polares.</p>
+<destacado><destacadoTitulo>El clima polar</destacadoTitulo>
+<destacadoTexto>
+<p>Se define por:</p>
+<listaSinNumerar>
+<listaElemento>Temperaturas muy bajas. La temperatura media en verano
+es inferior a los 10 °C, mientras que en invierno, dependiendo de
+la latitud, se pueden alcanzar temperaturas en torno a los −70 °C
+(Antártida y Groenlandia).</listaElemento>
+<listaElemento>Precipitaciones escasas (nieve).</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_11_CO_F3EB8BF73238473A9E1D58CD9EC37D13">
+<seccion3Titulo>El clima de alta montaña</seccion3Titulo>
+<seccion3Texto>
+<p>El clima de alta montaña está presente en las zonas situadas por
+encima de los 2500 m de altitud.</p>
+<destacado><destacadoTitulo>El clima de alta montaña</destacadoTitulo>
+<destacadoTexto>
+<p>Se define por:</p>
+<listaSinNumerar>
+<listaElemento>Temperaturas bajas durante todo el año. Los inviernos
+son largos y fríos, y los veranos, cortos. En las cumbres más elevadas
+del planeta se dan temperaturas similares a las del clima polar.</listaElemento>
+<listaElemento>Precipitaciones abundantes (nieve en las cimas). En
+las latitudes medias, entre 1000 y 1500 mm.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso150&amp;IdRecurso=RES-9113C050F14647F5BB23F7D3DF3AE260"
 >Identifica los climas del mundo</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_16_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso160&amp;IdRecurso=RES-CC38FD2DDB2841DA9F1BD1EC483F4E36"
 >Reconoce los climas del mundo a partir de un climograma</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_17_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_11_CO_939EB08B82C84D23AA6835161ED17C7B">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso170&amp;IdRecurso=RES-ACF80F6B4B3B4654A4B44D8FB5856350"
 >Refuerza tu aprendizaje: Los climas de la Tierra</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_19_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso190&amp;IdRecurso=RES-C8522F0B98CC4DEB8FA47AFD6ABA86E9"
->Refuerza tu aprendizaje: El cambio climático</enlace>
-</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
-</seccion1Texto></seccion1><seccion1
-id="S1_CS_06_11_CO_EBF9D6ED1BE74A68B52E844DBA4489BF">
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_11_CO_EBF9D6ED1BE74A68B52E844DBA4489BF">
 <seccion1Titulo>El cambio climático</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_18_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Numerosos estudios demuestran que la actividad humana está alterando
+las condiciones climáticas de la Tierra, lo que se conoce como <negrita
+>cambio climático</negrita>. Este es un proceso natural que se ha
+acelerado por las <negrita>acciones humanas</negrita> contaminantes,
+como el uso de combustibles fósiles en vehículos e industrias, o la
+deforestación.</p>
+<p>Esto ha provocado un aumento de la emisión de gases que causan
+el <negrita>efecto invernadero</negrita>, lo que, de entrada, no es
+malo. De hecho, si no existiese, podrían darse oscilaciones térmicas
+entre el día y la noche de hasta 200 °C. Sin embargo, el aumento de
+las emisiones de gases de efecto invernadero (sobre todo el dióxido
+de carbono) hizo que la temperatura media de la Tierra (11 °C) aumentase
+medio grado durante el siglo XX. Puede parecer poco, pero ha sido
+suficiente para que ya se noten los efectos del <negrita>cambio climático</negrita
+>.</p>
+<imagen src="CS_06_11_CO_IMG16_small.jpg">
+<p>El aumento de la temperatura media del planeta afecta, sobre todo,
+las zonas polares. El <negrita>deshielo de los casquetes</negrita
+> polares aumenta el nivel del mar y destruye el hábitat de especies
+como el <negrita>oso polar</negrita>.</p>
 </imagen>
+<p>Entre los fenómenos que se atribuyen al cambio climático están
+el <negrita>calentamiento global</negrita>, el aumento del nivel del
+mar, así como el de los fenómenos meteorológicos extremos.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso180&amp;IdRecurso=RES-6B78B6F9E9C74251915DE7E9988B727F"
 >Conoce los efectos del cambio climático</enlace>
-</practica></seccion1Texto></seccion1><seccion1
-id="S1_CS_06_11_CO_9B7270F5352C4EF4A8605733DCB949D5">
+</practica><seccion2
+id="S2_CS_06_11_CO_939EB08B82C84D23AA6835161ED11A8C">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso190&amp;IdRecurso=RES-C8522F0B98CC4DEB8FA47AFD6ABA86E9"
+>Refuerza tu aprendizaje: El cambio climático</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_11_CO_9B7270F5352C4EF4A8605733DCB949D5">
 <seccion1Titulo>Competencias</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_20_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso200&amp;IdRecurso=RES-749CF073524741DA8CC5F5DA085965A0"
 >Competencias: elaboración de un climograma</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_21_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_06_11_CO_img_22_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso210&amp;IdRecurso=RES-749CF073524741DA8CC5F5DA085976B2"
+>Competencias: interpretación de un mapa del tiempo</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso220&amp;IdRecurso=RES-588CC3DD439E4EEF91B0AF45F7899E19"
 >Proyecto: análisis del clima</enlace>
@@ -338,8 +552,24 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso220&amp;IdRecurso=RES-588CC3
 id="MI_CS_06_11_CO_EBB9FDC43BAD4E818B922F080466C3BB"><mapaconceptual>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso240&amp;IdRecurso=RES-428B3A929EFC44A3A80DCCDFEAC1BC2D"
->Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+>Mapa conceptual del tema El clima</enlace></mapaconceptual>
+<autoevaluate><enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso250&amp;IdRecurso=RES-42DDE43C75FD4B79B514342D8E97D2D4"
->Evaluación</enlace></autoevaluate><enlacesreferencia>
-<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+>Evalúa tus conocimientos sobre el tema El clima</enlace></autoevaluate>
+<enlacesreferencia>
+<enlace
+destino="http://contenidos.educarex.es/mci/2004/35/Diccionario/clima.html"
+>Diccionario visual de Geografía Física. Recurso útil para saber más
+del clima y de otros elementos del medio físico ofrecido por Educarex.</enlace>
+<enlace destino="http://www.educaplus.org/climatic/index.html">El
+clima y el tiempo, recurso que permite conocer mejor distintos aspectos
+relacionados con el estudio del clima ofrecido por Educaplus.</enlace>
+<enlace
+destino="http://www.elmundo.es/especiales/2007/02/ciencia/cambioclimatico/"
+>SOS Cambio climático, especial que aporta información acerca de las
+consecuencias que el cambio climático tiene sobre el medio ambiente
+y nuestras vidas, publicado por El Mundo.</enlace>
+<enlace destino="http://www.ideam.gov.co/web/tiempo-y-clima">Página
+del Instituto de Hidrología, Meteorología y Estudios Ambientales de
+Colombia. Ofrece seguimiento sobre el tiempo y clima de nuestro país.</enlace>
 </enlacesreferencia></masinformacion></libro>
