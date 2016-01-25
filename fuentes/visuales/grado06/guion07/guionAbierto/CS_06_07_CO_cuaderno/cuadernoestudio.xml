@@ -1,441 +1,686 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_06_07_CO">
-  <libroTitulo>El universo</libroTitulo>
-  <seccion1 id="S1_CS_06_07_CO_97E5E12B865546408853717C7C5ADB4E">
-    <seccion1Titulo>
-    </seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_06_07_CO_5C4CC05BDD9740BEBB8D7F581B4967B9">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_07_CO_img_01_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso010&amp;IdRecurso=RES-BADF53A7A1AE4710BE13818313AB779E">Refuerza tu aprendizaje: El origen del universo</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_07_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso030&amp;IdRecurso=RES-19604E67DB1D4B2DB4BC78A9532E49BE">Refuerza tu aprendizaje: La observación del universo</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_07_CO_104F76B618274124A2014C7C8F426AF7">
-    <seccion1Titulo>La observación del universo</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_07_CO_img_02_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso020&amp;IdRecurso=RES-F84B233AE4174B36A0413115438D03BE">El universo</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_07_CO_558D48ED82F049AFBF6CD7E7279AFCCD">
-    <seccion1Titulo>Los componentes del universo</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_07_CO_img_04_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso040&amp;IdRecurso=RES-840ED4B982D54679B24FB75028E5EDD6">El universo: conceptos esenciales</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_06_07_CO_25BA15A2E1AE4862B974F447EC25A418">
-        <seccion2Titulo>Las estrellas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_06_07_CO_63A2CE03330F45D9A60EF6BFF78C360F">
-            <seccion3Titulo>El Sol</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_07_CO_img_05_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso050&amp;IdRecurso=RES-996FB1CFFDD34917B896FE708FDED3E1">El Sol</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_07_CO_35354034985E442E80DFBFD8FE253325">
-        <seccion2Titulo>Los planetas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_06_07_CO_9E52E99582E943D7A8255664D7C4BA94">
-            <seccion3Titulo>El origen de los planetas</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_07_CO_img_06_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso060&amp;IdRecurso=RES-46F47633C9F84C6C906F3CEDFB3654DB">La formación de los planetas</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_06_07_CO_0074BD3D58DF44AF97673482335EE078">
-            <seccion3Titulo>Los planetas enanos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_07_CO_img_07_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso070&amp;IdRecurso=RES-0144242C465C42819CF8842DD32CB72A">Responde las preguntas sobre el sistema solar</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_07_CO_img_08_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso080&amp;IdRecurso=RES-215B6D109720454BAA363286837481A9">Demuestra lo que sabes del sistema solar</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_07_CO_155A074B4D9D40E58F27BD2BA6D1BA1F">
-        <seccion2Titulo>Los otros cuerpos celestes</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_06_07_CO_490C862819314C23B19B50168CD2E46A">
-            <seccion3Titulo>Los meteoritos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_07_CO_img_09_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso090&amp;IdRecurso=RES-C8C33AE238094F8295EE969AFEEAC8ED">Completa un texto sobre el universo</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_07_CO_img_10_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso100&amp;IdRecurso=RES-1B43CCF9B2474822ABBAD9E4B5ADCCA2">Refuerza tu aprendizaje: Los componentes del universo</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_07_CO_7F1E5140F7B44700A429A15E61044660">
-    <seccion1Titulo>Los programas espaciales</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_06_07_CO_63842B77DA7C4FC2AA276C46C3ADE200">
-        <seccion2Titulo>Los programas espaciales soviéticos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_07_CO_img_11_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso110&amp;IdRecurso=RES-2ADE47ECD21042298F29DDA247A87F8E">La conquista del espacio</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_07_CO_04D49B26D01C4D398B48C1C7F0409AA8">
-        <seccion2Titulo>Los programas espaciales estadounidenses</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_07_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso120&amp;IdRecurso=RES-3F62EBF486B94AA9A7567260C7289843">Responde sobre la conquista de la Luna</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_07_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso130&amp;IdRecurso=RES-4781C58665DE4F74844B2D64C3D77196">Repasa la historia de la exploración del espacio</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_07_CO_img_14_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso140&amp;IdRecurso=RES-236E3FA67F4D414BAAC90A80F263332F">Refuerza tu aprendizaje: Los programas espaciales</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_07_CO_AC170CFE39D542458B31F5163CD82D02">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_07_CO_img_15_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso150&amp;IdRecurso=RES-358FA946566C4BAAB8EF84E35A9C4176">Competencias: identificación de las estrellas observables</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_07_CO_img_16_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_07_CO_img_17_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_07_CO_img_18_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_07_CO_img_19_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso190&amp;IdRecurso=RES-0AC541EBBBA54945A5FAC8796405F079">Recurso F13-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_06_07_CO_7BF3E6263B564D509D1E590F9EFABDB7">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso210&amp;IdRecurso=RES-77639319CA0B4A75833E69646BC316B7">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso220&amp;IdRecurso=RES-C04B282F503B4E9E95C17E6F5F7825E6">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>El universo</libroTitulo>
+<seccion1 id="S1_CS_06_07_CO_97E5E12B865546408853717C7C5ADB4E">
+<seccion1Titulo>Origen del universo</seccion1Titulo>
+<seccion1Texto>
+<p>El <negrita>universo</negrita> es todo lo que existe: materia,
+energía, espacio y tiempo. Está formado por el conjunto de los <negrita
+>cuerpos celestes</negrita> y el espacio extenso en el que se encuentran.
+Los cuerpos celestes más reconocidos en la ciencia astronómica son
+las estrellas y los planetas, que junto con otros elementos, como
+satélites o meteoritos, se agrupan formando las galaxias, cúmulos
+de galaxias y estructuras de mayor tamaño denominadas supercúmulos.</p>
+<imagen src="CS_06_07_CO_IMG01_small.jpg">
+<p>El <negrita>universo</negrita> está formado por millones de estrellas,
+planetas y otros cuerpos celestes que se agrupan en galaxias. Nuestra
+galaxia, donde se encuentra la Tierra, es la <negrita>Vía Láctea</negrita
+>.</p>
+</imagen>
+<p>En el universo existen centenares de miles de millones de galaxias.
+En la que se encuentra la Tierra, es la <negrita>Vía Láctea</negrita
+>. En ella está el Sol, la única estrella del sistema solar.</p>
+<p>La teoría más aceptada acerca del origen del universo es la <negrita
+>teoría del big bang</negrita> o gran explosión, que postula que el
+universo se formó hace unos 15 000 millones de años debido a una explosión.</p>
+<p>Según esta teoría, antes del big bang la materia del universo se
+hallaba concentrada en un punto. La explosión hizo que la materia
+se separara y se dispersara en todas las direcciones. De este modo
+se formaron las estrellas y los demás cuerpos celestes.</p>
+<recuerda><recuerdaTexto>
+<p>El universo sigue en <negrita>expansión</negrita> hoy en día y
+todavía no se sabe si continuará indefinidamente, si algún día parará
+o si toda la materia volverá a concentrarse en un punto, como al principio. </p>
+</recuerdaTexto></recuerda>
+<imagen src="CS_06_07_CO_IMG02_small.jpg">
+<p>A pesar del gran desarrollo del avance tecnológico, aún hoy día
+no se sabe con exactitud la <negrita>magnitud</negrita> del universo.</p>
+</imagen>
+<seccion2 id="S2_CS_06_07_CO_5C4CC05BDD9740BEBB8D7F581B4967B9">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso010&amp;IdRecurso=RES-BADF53A7A1AE4710BE13818313AB779E"
+>Refuerza tu aprendizaje: El origen del universo</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_07_CO_104F76B618274124A2014C7C8F426AF7">
+<seccion1Titulo>La observación del universo</seccion1Titulo>
+<seccion1Texto>
+<p>El ser humano siempre ha sentido una gran fascinación por el universo
+y ha observado las estrellas y la Luna preguntándose qué son y si
+tienen algún significado.</p>
+<p>Esa observación de los astros nos llevó, desde la Antigüedad Clásica,
+a agruparlas en constelaciones según sus formas (imaginarias). Así
+nació la <negrita>astronomía</negrita>, que es el estudio de los cuerpos
+celestes del universo.</p>
+<imagen ampliable="no" src="CS_06_07_CO_IMG03_small.jpg">
+<p>El <negrita>zodiaco</negrita> es un sistema astronómico de coordenadas
+basado en la división de doce partes iguales de la bóveda celeste.
+Cada sector contiene la <negrita>constelación</negrita> correspondiente
+a los <negrita>signos zodiacales</negrita>.</p>
+</imagen>
+<p>Las estrellas y constelaciones también fueron una herramienta eficaz
+para <negrita>orientarse</negrita> de noche, así como el Sol servía
+de guía durante el día. Por ejemplo, la <negrita>estrella Polar</negrita
+>, o <negrita>Polaris</negrita>, señalaba el norte a los navegantes.</p>
+<p>La observación de los cuerpos celestes, como la Luna, sirvió para
+ordenar la sucesión de los días y los meses. Así se elaboró un <negrita
+>calendario lunar</negrita>, en el que cada mes empezaba con la luna
+nueva y duraba unos 29 días, hasta que llegaba la siguiente luna nueva.</p>
+<p>Más tarde se elaboró el <negrita>calendario solar</negrita> que
+usamos en la actualidad, basado en el movimiento de la Tierra alrededor
+del Sol. Este calendario divide el año en 365 días.</p>
+<imagen ampliable="no" src="CS_06_07_CO_IMG04_small.jpg">
+<p>Los <negrita>mayas</negrita> fueron grandes astrónomos. Crearon
+su propio calendario en el que registraban la cuenta del tiempo a
+partir de la <negrita>observación</negrita> de los astros.</p>
+</imagen>
+<destacado><destacadoTitulo>Invención del telescopio</destacadoTitulo>
+<destacadoTexto>
+<p>La invención del <negrita>telescopio</negrita>, a principios del
+siglo XVII, significó un gran avance porque los astrónomos pudieron
+dejar de observar el cielo a simple vista para hacerlo con este instrumento.
+El más famoso es el <negrita>telescopio espacial Hubble</negrita>,
+que tarda unos 97 minutos en dar la vuelta a nuestro planeta.</p>
+</destacadoTexto></destacado>
+<imagen src="CS_06_07_CO_IMG05_small.jpg">
+<p>Los <negrita>telescopios</negrita> más importantes de la actualidad
+se encuentran en el espacio. El más famoso es el <negrita>Hubble</negrita
+>, que orbita alrededor de la Tierra.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>La <negrita>atmósfera</negrita> es una capa de gases que rodea
+algunos planetas como la Tierra. Las nubes y otros fenómenos atmosféricos
+dificultan la observación del cielo.</p>
+</recuerdaTexto></recuerda>
+<p>Otra manera de observar el universo, además de los telescopios,
+es con las <negrita>sondas espaciales</negrita>, que envían información
+a la Tierra, o con <negrita>naves espaciales</negrita> tripuladas,
+que permiten al ser humano viajar al espacio y estudiarlo.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso020&amp;IdRecurso=RES-F84B233AE4174B36A0413115438D03BE"
+>El universo</enlace>
+</profundiza><seccion2
+id="S2_CS_06_07_CO_25BA15A2E1AE4862B974F447EC25B529">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso030&amp;IdRecurso=RES-19604E67DB1D4B2DB4BC78A9532E49BE"
+>Refuerza tu aprendizaje: La observación del universo</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_07_CO_558D48ED82F049AFBF6CD7E7279AFCCD">
+<seccion1Titulo>Los componentes del universo</seccion1Titulo>
+<seccion1Texto>
+<p>El universo está formado por un espacio inmenso y por <negrita
+>cuerpos celestes</negrita>, como las estrellas, los planetas, los
+satélites, los cometas, los asteroides y los meteoritos. Todos ellos
+se agrupan en galaxias.</p>
+<p>Las <negrita>galaxias</negrita> están formadas por millones de
+estrellas y <negrita>nebulosas</negrita>, que son nubes de gas y de
+polvo. Algunas tienen forma de espiral, otras de elipse y otras presentan
+formas irregulares. Las galaxias espirales, como la <negrita>Vía Láctea</negrita
+>, tienen unos extremos, llamados <negrita>brazos</negrita>, que salen
+de un punto central, mientras que las elípticas parecen círculos achatados.</p>
+<imagen src="CS_06_07_CO_IMG06_small.jpg">
+<p>Las estrellas, planetas, satélites, meteoritos, cometas y asteroides
+se agrupan y forman <negrita>galaxias</negrita>. La galaxia de la
+imagen tiene forma de <negrita>espiral</negrita>.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>La <negrita>Vía Láctea</negrita> es la galaxia en la que nos encontramos
+y está formada por unos 200 000 millones de estrellas. En un brazo
+de la Vía Láctea se encuentra el <negrita>sistema solar</negrita> (nuestro
+sistema planetario) <enlace
+destino="http://www.astromia.com/universo/index.htm"> [VER]</enlace
+>.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso040&amp;IdRecurso=RES-840ED4B982D54679B24FB75028E5EDD6"
+>El universo: conceptos esenciales</enlace>
+</profundiza><seccion2
+id="S2_CS_06_07_CO_25BA15A2E1AE4862B974F447EC25A418">
+<seccion2Titulo>Las estrellas</seccion2Titulo>
+<seccion2Texto>
+<p>Las estrellas son <negrita>grandes acumulaciones de gas</negrita
+>, que producen energía en forma de luz y calor, y <negrita>brillan
+por sí mismas</negrita>.</p>
+<p>Las estrellas se agrupan en <negrita>constelaciones</negrita>,
+que son figuras imaginarias que se construyen agrupando mentalmente
+varias estrellas. Tienen formas de animales o de dioses. Las más famosas
+son la Osa Mayor y la Osa Menor, ambas con forma de carro. La Osa
+Menor consta de siete estrellas, una de ellas, la más brillante, es
+la <negrita>estrella Polar</negrita>, que se ubica justo encima del <negrita
+>Polo Norte</negrita>.</p>
+<imagen src="CS_06_07_CO_IMG07_small.jpg">
+<p>Constelación de la <negrita>Osa Menor</negrita>. Las cuatro estrellas
+de la izquierda forman la caja del carro y las otras tres la lanza.
+La última estrella de la derecha (Polar) apunta al Polo Norte de la
+Tierra.</p>
+</imagen>
+<seccion3 id="S3_CS_06_07_CO_63A2CE03330F45D9A60EF6BFF78C360F">
+<seccion3Titulo>El Sol</seccion3Titulo>
+<seccion3Texto>
+<p>El Sol es la <negrita>única estrella del sistema solar</negrita
+>. Es la principal fuente de energía de nuestro planeta; su luz y
+calor permiten el mantenimiento de la vida. Por ser la estrella más
+cercana, es la que mejor se ha podido observar y estudiar. Su estructura
+se divide en tres partes:</p>
+<listaSinNumerar>
+<listaElemento>El <negrita>núcleo</negrita>: es el centro de la estrella,
+donde se genera la energía.</listaElemento>
+<listaElemento>El <negrita>manto</negrita>: por encima del núcleo,
+es la zona donde se realiza el transporte de la energía hacia la superficie.</listaElemento>
+<listaElemento>La <negrita>atmósfera</negrita>: es la parte más superficial
+de la estrella. Se divide en cromosfera, fotosfera y corona solar,
+ordenadas de dentro hacia afuera. </listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_07_CO_IMG08_small.jpg">
+<p><negrita>Protuberancias</negrita> sobre la superficie del Sol formadas
+por <negrita>gas electrificado</negrita>.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso050&amp;IdRecurso=RES-996FB1CFFDD34917B896FE708FDED3E1"
+>El Sol</enlace>
+</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_07_CO_35354034985E442E80DFBFD8FE253325">
+<seccion2Titulo>Los planetas</seccion2Titulo>
+<seccion2Texto>
+<p>Un planeta es un cuerpo celeste de gran tamaño con forma esférica,
+que gira alrededor de una estrella. Los planetas <negrita>no tienen
+luz propia</negrita>, pero reflejan la luz del Sol, por eso se ven
+brillantes.</p>
+<imagen src="CS_06_07_CO_IMG09_small.jpg">
+<p>El planeta <negrita>Tierra</negrita>, por sus <negrita>características
+atmosféricas</negrita>, ha permitido el desarrollo de la <negrita
+>vida</negrita>.</p>
+</imagen>
+<seccion3 id="S3_CS_06_07_CO_9E52E99582E943D7A8255664D7C4BA94">
+<seccion3Titulo>El origen de los planetas</seccion3Titulo>
+<seccion3Texto>
+<p>El origen de los planetas del sistema solar se remonta a hace <negrita
+>4600 millones de años</negrita>, cuando la explosión de una estrella
+cercana hizo que la nube de gas y polvo que entonces ocupaba el espacio
+del sistema solar empezara a girar a gran velocidad. El <negrita>gas
+y el polvo</negrita> comenzaron a unirse y dieron lugar al Sol y al
+resto de los planetas. A medida que los cuerpos celestes crecían,
+iban atrayendo el polvo y el gas de su alrededor, en un proceso llamado <negrita
+>acreción</negrita>.</p>
+<recuerda><recuerdaTexto>
+<p><negrita>Acreción</negrita> es el proceso por el cual un cuerpo
+celeste va creciendo por agregación de cuerpos menores.</p>
+<p><negrita>Sistema planetario</negrita> es un conjunto de planetas
+y otros cuerpos celestes menores que giran alrededor de una estrella.</p>
+</recuerdaTexto></recuerda>
+<p>El <negrita>Sol</negrita>, al ser la estrella más grande de nuestro
+sistema planetario, se constituyó en el centro, y el resto de los
+cuerpos celestes comenzaron a girar alrededor de él <enlace
+destino="http://www.astromia.com/astronomia/manchasolar.htm"> [VER]</enlace
+>.</p>
+<imagen src="CS_06_07_CO_IMG10_small.jpg">
+<p>Imagen hipotética de la <negrita>formación</negrita> de un planeta
+o <negrita>protoplaneta</negrita>, que es un pequeño cuerpo celeste
+del tamaño aproximado de la Luna.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso060&amp;IdRecurso=RES-46F47633C9F84C6C906F3CEDFB3654DB"
+>La formación de los planetas</enlace>
+</profundiza></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_07_CO_0074BD3D58DF44AF97673482335EE078">
+<seccion3Titulo>El sistema solar</seccion3Titulo>
+<seccion3Texto>
+<p>Nuestro sistema planetario se encuentra en un extremo de la galaxia
+llamada <negrita>Vía Láctea</negrita>. Está formado por una estrella,
+el Sol, y por planetas, satélites, cometas, asteroides y meteoritos.
+Se cree que hay unos 162 <negrita>satélites</negrita>, entre ellos
+la Luna, pero el número de cometas, asteroides y meteoritos es incontable.</p>
+<p>Hay <negrita>ocho planetas</negrita> que se mueven en torno al
+Sol describiendo trayectorias en forma de elipse, llamadas <negrita
+>órbitas</negrita>. Ordenados del más cercano al más alejado del Sol
+son: <negrita>Mercurio</negrita>, <negrita>Venus</negrita>, <negrita
+>Tierra</negrita>, <negrita>Marte</negrita>, <negrita>Júpiter</negrita
+>, <negrita>Saturno</negrita>, <negrita>Urano</negrita> y <negrita
+>Neptuno</negrita>. Además hay planetas enanos, como Plutón, que son
+cuerpos celestes cuyo tamaño no es suficiente como para ser considerados
+verdaderos planetas <enlace
+destino="http://www.astromia.com/astronomia/sedna.htm"> [VER]</enlace
+>.</p>
+<p>Los planetas se clasifican como interiores o rocosos, y exteriores
+o gaseosos, según su estructura y su distancia al Sol <enlace
+destino="http://www.astromia.com/astronomia/planetasolar.htm"> [VER]</enlace
+>.</p>
+<imagen ampliable="no" src="CS_06_07_CO_IMG11_small.jpg">
+<p>Los <negrita>planetas</negrita> que orbitan alrededor del Sol son
+ocho. Ordenados del más cercano al más alejado del Sol son: <negrita
+>Mercurio</negrita>, <negrita>Venus</negrita>, <negrita>Tierra</negrita
+>, <negrita>Marte</negrita>, <negrita>Júpiter</negrita>, <negrita
+>Saturno</negrita>, <negrita>Urano</negrita> y <negrita>Neptuno</negrita
+>.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_07_CO_0074BD3D58DF44AF97673482335EA159">
+<seccion3Titulo>Los planetas interiores</seccion3Titulo>
+<seccion3Texto>
+<p>Son Mercurio, Venus, Tierra y Marte. Todos ellos son <negrita>sólidos</negrita
+> y están formados por una corteza constituida por rocas y un núcleo
+de hierro:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Mercurio</negrita> es el más <negrita>cercano
+al Sol</negrita> y también el más pequeño. <negrita>No tiene atmósfera</negrita
+>, por eso los meteoritos impactan contra su superficie con mucha
+fuerza y dejan marcas llamadas <negrita>cráteres</negrita>, parecidos
+a los de la Luna. Se cree que su corteza es bastante delgada, mientras
+que el núcleo es muy grande.</listaElemento>
+<listaElemento><negrita>Venus</negrita> es el siguiente más cercano
+al Sol y el tercero más pequeño. Su tamaño es parecido al de la Tierra.
+De noche, es el segundo objeto más brillante en el cielo, después
+de la Luna. Su atmósfera contiene muchos gases de efecto invernadero
+que retienen gran parte del calor que le llega del Sol. Debido a esto,
+su <negrita>temperatura es más elevada</negrita> que la de Mercurio,
+aunque este último se encuentre más próximo al Sol. Su corteza es
+más gruesa y el núcleo más pequeño. </listaElemento>
+<listaElemento>La <negrita>Tierra</negrita> es el quinto planeta más
+grande. Su atmósfera contiene <negrita>oxígeno</negrita> y <negrita
+>nitrógeno</negrita>, gases muy importantes para los seres vivos.
+Posee <negrita>un satélite</negrita>, la Luna. </listaElemento>
+<listaElemento><negrita>Marte</negrita> es el planeta interior más
+alejado del Sol. Es bastante más pequeño que la Tierra. Tiene <negrita
+>atmósfera</negrita>, pero es muy ligera y casi no retiene el calor
+recibido del Sol. En su superficie hay <negrita>cráteres</negrita
+>, aunque muchos menos que en la Luna.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_07_CO_IMG12_small.jpg">
+<p><negrita>Mercurio</negrita> es el primer planeta del sistema solar,
+que al estar tan cercano al Sol, registra durante el día una temperatura
+promedio de 350 °C. Debido a la <negrita>ausencia de capa atmosférica</negrita
+>, el calor se pierde rápidamente en las noches, llegando a tener
+una temperatura de hasta -170 °C.</p>
+</imagen>
+<table border="1"><caption>Los planetas interiores o rocosos</caption>
+<colgroup><col/><col/><col/><col/><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td><negrita>NOMBRE</negrita></td>
+<td><negrita>DIÁMETRO</negrita></td>
+<td><negrita>MATERIALES</negrita></td>
+<td><negrita>ATMÓSFERA</negrita></td>
+<td><negrita>TEMPERATURA</negrita> </td>
+<td><negrita>SATÉLITES</negrita></td>
+<td><negrita>CRÁTERES</negrita></td>
+</tr>
+<tr>
+<td>Mercurio</td>
+<td>4877 km</td>
+<td>Hierro y rocas</td>
+<td>No</td>
+<td>Alta (166 °C)</td>
+<td>No</td>
+<td>Muchos</td>
+</tr>
+<tr>
+<td>Venus</td>
+<td>12 100 km </td>
+<td>Hierro y rocas</td>
+<td>Muy espesa</td>
+<td>Muy alta (463 °C)</td>
+<td>No</td>
+<td>Sí</td>
+</tr>
+<tr>
+<td>Tierra</td>
+<td>12 756 km</td>
+<td>Hierro y rocas</td>
+<td>Con oxígeno</td>
+<td>Intermedia (14 °C)</td>
+<td>Uno</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Marte</td>
+<td>6794 km </td>
+<td>Hierro y rocas</td>
+<td>Sí</td>
+<td>Baja (–46 °C)</td>
+<td>Dos</td>
+<td>Algunos</td>
+</tr>
+</tbody>
+</table>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_07_CO_0074BD3D58DF44AF97673482335EH263">
+<seccion3Titulo>Los planetas exteriores</seccion3Titulo>
+<seccion3Texto>
+<p>Son Júpiter, Saturno, Urano y Neptuno. Aunque tienen un núcleo
+rocoso o metálico, están constituidos sobre todo por <negrita>gases</negrita
+>, por eso no tienen una superficie bien definida:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Júpiter</negrita> es el primero de los planetas
+exteriores. <negrita>Es mucho más grande que los demás</negrita>.
+Desde la Tierra se distinguen diferentes <negrita>bandas</negrita
+>. Tiene 67 satélites; los cuatro principales son: Ío, Europa, Ganímedes
+y Calisto. </listaElemento>
+<listaElemento><negrita>Saturno</negrita> es el <negrita>segundo más
+grande</negrita>. También presenta bandas como Júpiter, pero no se
+distinguen bien unas de otras. Se caracteriza por sus anillos, <negrita
+>visibles desde la Tierra</negrita>. Tiene varios satélites, el más
+importante es <negrita>Titán</negrita>, con <negrita>atmósfera propia</negrita
+>. </listaElemento>
+<listaElemento><negrita>Urano</negrita> es el tercero más grande y
+el <negrita>más frío</negrita> de todos. Se ve de <negrita>color azulado</negrita
+>. Posee varios satélites. Está rodeado de <negrita>anillos</negrita
+> no visibles desde la Tierra. </listaElemento>
+<listaElemento><negrita>Neptuno</negrita> es el <negrita>más alejado
+del Sol</negrita>, aunque no es tan frío como Urano debido a que tiene
+una <negrita>fuente de calor</negrita> en su interior. Presenta un
+color <negrita>azul</negrita> más intenso que el de Urano. Sus <negrita
+>anillos</negrita> no se ven desde la Tierra. El más conocido de sus
+satélites es <negrita>Tritón</negrita>.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_07_CO_IMG13_small.jpg">
+<p>Los <negrita>anillos de Saturno</negrita> fueron observados por
+primera vez en 1610 por <negrita>Galileo Galilei</negrita>. Los anillos
+están compuestos de partículas de hielo, polvo y rocas, que giran
+a gran velocidad alrededor del planeta.</p>
+</imagen>
+<table border="1"><caption>Los planetas exteriores o gaseosos</caption>
+<colgroup><col/><col/><col/><col/><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td><negrita>NOMBRE</negrita></td>
+<td><negrita>DIÁMETRO</negrita></td>
+<td><negrita>MATERIALES</negrita></td>
+<td><negrita>ATMÓSFERA</negrita></td>
+<td><negrita>TEMPERATURA</negrita> </td>
+<td><negrita>SATÉLITES</negrita></td>
+<td><negrita>ANILLOS</negrita></td>
+</tr>
+<tr>
+<td>Júpiter</td>
+<td>142 796 km </td>
+<td>Gases</td>
+<td>Sí</td>
+<td>–121 °C</td>
+<td>67</td>
+<td>Invisibles</td>
+</tr>
+<tr>
+<td>Saturno</td>
+<td>120 500 km  </td>
+<td>Gases</td>
+<td>Sí</td>
+<td>–130 °C</td>
+<td>61</td>
+<td>Sí</td>
+</tr>
+<tr>
+<td>Urano</td>
+<td>51 120 km </td>
+<td>Gases</td>
+<td>Sí</td>
+<td>–205 °C</td>
+<td>27</td>
+<td>Invisibles</td>
+</tr>
+<tr>
+<td>Neptuno</td>
+<td>49 500 km </td>
+<td>Gases</td>
+<td>Sí</td>
+<td>–220 °C</td>
+<td>13</td>
+<td>Invisibles</td>
+</tr>
+</tbody>
+</table>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_07_CO_0074BD3D58DF44AF97673482335ED641">
+<seccion3Titulo>Los planetas enanos</seccion3Titulo>
+<seccion3Texto>
+<p>Se cree que el origen de estos cuerpos celestes es diferente al
+de los planetas verdaderos:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Plutón</negrita> fue considerado durante años
+un satélite de Neptuno escapado de su órbita; su atmósfera es muy
+tenue y posee cinco satélites conocidos. </listaElemento>
+<listaElemento><negrita>Ceres</negrita> es el más pequeño; antes era
+considerado el asteroide más grande de todos.</listaElemento>
+<listaElemento><negrita>Eris</negrita> o <negrita>Éride</negrita> fue
+descubierto en 2005; actualmente se encuentra en el punto de su órbita
+más alejado del Sol y tarda 557 años en recorrerla. </listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_07_CO_IMG14_small.jpg">
+<p>El 24 de agosto de 2006, la Asamblea General de la <negrita>Unión
+Astronómica Internacional (UAI)</negrita> creó una nueva definición
+del concepto <cursiva>planeta</cursiva>. Plutón, al tener una <negrita
+>órbita excéntrica</negrita> y no elíptica, y al no tener limpio el
+campo de su trayectoria alrededor del Sol, dejó de ser reconocido
+como un planeta verdadero para considerarse un <negrita>planeta enano</negrita
+>.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso070&amp;IdRecurso=RES-0144242C465C42819CF8842DD32CB72A"
+>Responde las preguntas sobre el sistema solar</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso080&amp;IdRecurso=RES-215B6D109720454BAA363286837481A9"
+>Demuestra lo que sabes del sistema solar</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_07_CO_155A074B4D9D40E58F27BD2BA6D1BA1F">
+<seccion2Titulo>Los otros cuerpos celestes</seccion2Titulo>
+<seccion2Texto>
+<p>Además de las estrellas y los planetas, existen los denominados <negrita
+>cuerpos celestes menores</negrita>, que son los satélites, los cometas,
+los asteroides y los meteoritos.</p>
+<seccion3 id="S3_CS_06_07_CO_490C862819314C23B19B50168CD2E46A">
+<seccion3Titulo>Los satélites</seccion3Titulo>
+<seccion3Texto>
+<p>Son mucho <negrita>más pequeños</negrita> que el planeta al que
+acompañan y pueden <negrita>influir</negrita> sobre él. Por ejemplo,
+la Luna provoca las mareas (alteraciones periódicas del nivel del
+mar). También existen satélites <negrita>artificiales</negrita>, construidos
+por el ser humano para observar el universo. <negrita>La mayoría de
+los planetas tienen satélites</negrita>, excepto Mercurio y Venus <enlace
+destino="https://youtu.be/_zIlyVpogu0"> [VER]</enlace>.</p>
+<p>La Luna es el quinto satélite más grande del sistema solar. La
+vemos brillante porque refleja la luz del Sol. Presenta unas zonas
+más claras, con un <negrita>gran número de cráteres</negrita>, y otras
+oscuras, llanas y sin cráteres, a las que llamamos <negrita>mares</negrita
+>.</p>
+<imagen src="CS_06_07_CO_IMG15_small.jpg">
+<p>Las manchas oscuras que se observan en la superficie de la Luna
+corresponden a los <negrita>mares</negrita>, y las zonas claras, a
+los <negrita>cráteres</negrita>.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_07_CO_490C862819314C23B19B50168CD2A27B">
+<seccion3Titulo>Los cometas</seccion3Titulo>
+<seccion3Texto>
+<p>Son grandes trozos de <negrita>hielo</negrita> y <negrita>roca</negrita
+> rodeados por una atmósfera de gas y polvo llamada <negrita>cabellera</negrita
+>. Cuando se acercan al Sol, el efecto del viento solar hace que la
+cabellera adopte una forma alargada llamada cola. El más famoso es
+el <negrita>cometa Halley</negrita>, que se puede ver cada 76 años <enlace
+destino="http://www.astromia.com/astronomia/cometascielo.htm"> [VER]</enlace
+>.</p>
+<imagen src="CS_06_07_CO_IMG16_small.jpg">
+<p>El <negrita>cometa Halley</negrita> es uno de los más conocidos,
+ya que desde la Tierra puede verse cada 76 años.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_07_CO_490C862819314C23B19B50168CD2D58C">
+<seccion3Titulo>Los asteroides</seccion3Titulo>
+<seccion3Texto>
+<p>Son cuerpos celestes sólidos, parecidos a las estrellas, formados
+por <negrita>rocas</negrita> y <negrita>metales</negrita>. Los más
+grandes tienen forma esférica y los pequeños, forma irregular. La
+mayoría de los asteroides del sistema solar se encuentran agrupados
+en el <negrita>cinturón de asteroides</negrita>, <negrita>situado
+entre Marte</negrita> y <negrita>Júpiter</negrita>, pero algunos se
+desvían hacia otros planetas.</p>
+<imagen src="CS_06_07_CO_IMG17_small.jpg">
+<p>En el <negrita>cinturón de asteroides</negrita> se encuentra uno
+de los planetas enanos llamado <negrita>Ceres</negrita>.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_07_CO_490C862819314C23B19B50168CD2C17F">
+<seccion3Titulo>Los meteoritos</seccion3Titulo>
+<seccion3Texto>
+<p>Son trozos de roca <negrita>muy pequeños para ser considerados
+un asteroide</negrita> o <negrita>un cometa</negrita>. Pueden chocar
+contra otros cuerpos celestes. Por ejemplo, la Luna tiene muchos cráteres,
+causados por la colisión de meteoritos. También pueden impactar contra
+la Tierra. Sin embargo, esta se encuentra protegida de ellos por la
+atmósfera.</p>
+<imagen src="CS_06_07_CO_IMG18_small.jpg">
+<p>Una de las <negrita>teorías sobre el origen del agua en la Tierra</negrita
+> plantea que llegó en forma de <negrita>hielo</negrita> en el interior
+de <negrita>meteoritos</negrita> que impactaron el planeta.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso090&amp;IdRecurso=RES-C8C33AE238094F8295EE969AFEEAC8ED"
+>Completa un texto sobre el universo</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_07_CO_63842B77DA7C4FC2AA276C46C3ADC411">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso100&amp;IdRecurso=RES-1B43CCF9B2474822ABBAD9E4B5ADCCA2"
+>Refuerza tu aprendizaje: Los componentes del universo</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_07_CO_7F1E5140F7B44700A429A15E61044660">
+<seccion1Titulo>Los programas espaciales</seccion1Titulo>
+<seccion1Texto>
+<p>Después de la Segunda Guerra Mundial, Estados Unidos y la antigua
+Unión Soviética comenzaron a desarrollar programas espaciales con
+el objetivo de comprobar si el ser humano podría sobrevivir en el
+espacio. Las <negrita>naves espaciales</negrita> se fueron perfeccionando
+y en la actualidad los astronautas pueden pasar largas temporadas
+en la Estación Espacial Internacional haciendo investigaciones. Además,
+las misiones espaciales incluyen el lanzamiento de <negrita>satélites
+no tripulados</negrita>.</p>
+<imagen src="CS_06_07_CO_IMG19_small.jpg">
+<p>El <negrita>proyecto Mars One</negrita> busca para el 2024 instalar
+una <negrita>colonia humana</negrita> permanente en <negrita>Marte</negrita
+>.</p>
+</imagen>
+<seccion2 id="S2_CS_06_07_CO_63842B77DA7C4FC2AA276C46C3ADE200">
+<seccion2Titulo>Los programas espaciales soviéticos</seccion2Titulo>
+<seccion2Texto>
+<p>Los soviéticos fueron los <negrita>primeros</negrita> en enviar
+misiones al espacio. El 4 de octubre de 1957, pusieron en órbita alrededor
+de la Tierra el primer satélite artificial: <negritacursiva>Sputnik
+1</negritacursiva>. El 3 de noviembre del mismo año lanzaron el <negritacursiva
+>Sputnik 2</negritacursiva> con la <negrita>perra Laika</negrita> a
+bordo, el primer ser vivo que viajó al espacio.</p>
+<p>El 12 de abril de 1961, <negrita>Yuri Gagarin</negrita> se convirtió
+en el primer ser humano que tripuló una nave espacial, <negritacursiva
+>Vostok 1</negritacursiva>, controlada desde la Tierra. El vuelo duró
+108 minutos y regresó sano y salvo. El objetivo era conocer los efectos
+de la ausencia de gravedad en el ser humano.</p>
+<imagen ampliable="no" src="CS_06_07_CO_IMG20_small.jpg">
+<p><negrita>Yuri Gagarin</negrita>, primer ser humano que viajó al
+espacio exterior. Con esta gesta, la Unión Soviética logró un importante
+éxito en la astronomía.</p><?Pub Caret -2?>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso110&amp;IdRecurso=RES-2ADE47ECD21042298F29DDA247A87F8E"
+>La conquista del espacio</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_07_CO_04D49B26D01C4D398B48C1C7F0409AA8">
+<seccion2Titulo>Los programas espaciales estadounidenses</seccion2Titulo>
+<seccion2Texto>
+<p>Después del lanzamiento del <cursiva>Sputnik 1</cursiva> soviético,
+los estadounidenses fundaron la <negrita>NASA</negrita> con la intención
+de llevar a cabo sus propios programas espaciales en competencia con
+la Unión Soviética.</p>
+<destacado><destacadoTitulo>La carrera espacial</destacadoTitulo>
+<destacadoTexto>
+<p>A la competencia desarrollada entre Estados Unidos y la Unión Soviética
+por ser los primeros en explorar el espacio, se le llamó <negrita
+>carrera espacial</negrita>. Empezó en 1957, con el lanzamiento de
+la misión soviética <cursiva>Sputnik 1</cursiva>, y terminó en 1975
+cuando ambas naciones decidieron trabajar juntas en el proyecto <negritacursiva
+>Apolo-Soyuz</negritacursiva>.</p>
+</destacadoTexto></destacado>
+<p>La NASA ha realizado diferentes misiones, entre las que cabe destacar
+el programa <cursiva>Mercury</cursiva>, por llevar a los primeros
+estadounidenses al espacio, y el <cursiva>Apolo 11</cursiva>, que
+consiguió llevar el hombre a la Luna por primera vez.</p>
+<p>El <negrita>20 de julio de 1969</negrita>, los astronautas del <cursiva
+>Apolo 11</cursiva>, <negrita>Michael Collins</negrita>, <negrita
+>Neil Armstrong</negrita> y <negrita>Edwin E. Aldrin</negrita>, tocaron
+la superficie lunar. Apolo 11 fue impulsado por el cohete Saturno
+V y lanzado desde <negrita>cabo Cañaveral</negrita>, Florida (Estados
+Unidos). Volvieron a la Tierra el 24 del mismo mes.</p>
+<imagen ampliable="no" src="CS_06_07_CO_IMG21_small.jpg">
+<p><negrita>Neil Armstrong</negrita>, primer ser humano en pisar la
+superficie de la Luna. Murió en 2012 por complicaciones coronarias.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso120&amp;IdRecurso=RES-3F62EBF486B94AA9A7567260C7289843"
+>Responde sobre la conquista de la Luna</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso130&amp;IdRecurso=RES-4781C58665DE4F74844B2D64C3D77196"
+>Repasa la historia de la exploración del espacio</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_07_CO_04D49B26D01C4D398B48C1C7F0401BB9">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso140&amp;IdRecurso=RES-236E3FA67F4D414BAAC90A80F263332F"
+>Refuerza tu aprendizaje: Los programas espaciales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_07_CO_AC170CFE39D542458B31F5163CD82D02">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso150&amp;IdRecurso=RES-358FA946566C4BAAB8EF84E35A9C4176"
+>Competencias: identificación de las estrellas observables</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso160&amp;IdRecurso=RES-C62D72D63B4544BA952E252A843715F9"
+>Competencias: comprensión del sistema solar a través de un modelo</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso170&amp;IdRecurso=RES-79950B9ED8214D599950DADBAC7D20B6"
+>Competencias: diferenciación de los cuerpos celestes</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso180&amp;IdRecurso=RES-6070BED1C38046FA82B785896720223E"
+>Competencias: visión de la Estación Espacial Internacional</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso190&amp;IdRecurso=RES-0AC541EBBBA54945A5FAC8796405F079"
+>Proyecto: estudio de las recientes exploraciones del espacio</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_06_07_CO_7BF3E6263B564D509D1E590F9EFABDB7"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso210&amp;IdRecurso=RES-77639319CA0B4A75833E69646BC316B7"
+>Mapa conceptual del tema El universo</enlace></mapaconceptual>
+<autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso220&amp;IdRecurso=RES-C04B282F503B4E9E95C17E6F5F7825E6"
+>Evalúa tus conocimientos sobre el tema El universo</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://www.juntadeandalucia.es/averroes/averroes/html/adjuntos/2007/09/12/0076/indexflash.htm"
+>El sistema solar, recurso didáctico para comprender las características
+del sistema solar.</enlace>
+<enlace destino="http://www.astromia.com/universo/eluniverso.htm"
+>¿Qué es el universo? Recurso que permite ampliar y complementar la
+información.</enlace>
+</enlacesreferencia></masinformacion></libro>

@@ -1,488 +1,345 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_06_11_CO">
-  <libroTitulo>El clima</libroTitulo>
-  <seccion1 id="S1_CS_06_11_CO_39EE580141B046589AA11DB5307B9590">
-    <seccion1Titulo>Clima y tiempo atmosférico</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_11_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso010&amp;IdRecurso=RES-A78938C762B54433931E2955FE3D0835">El clima en nuestras vidas</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_06_11_CO_8FC93AA3C61E45FF9170AEC8A3B94DBA">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_11_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso020&amp;IdRecurso=RES-C0054D4A1BA14553A220F9C94CD29427">Refuerza tu aprendizaje: El clima en nuestras vidas</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_11_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso050&amp;IdRecurso=RES-FCFE772DFCFE463A900ED466BB3BDB10">Refuerza tu aprendizaje: Los factores y elementos del clima</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_11_CO_16975F0B4CFD4CBF8BBE8792FA681EE6">
-    <seccion1Titulo>Elementos y factores del clima</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_11_CO_img_03_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso030&amp;IdRecurso=RES-EAD5A46A9343484AB4BBCFA737BD9E0F">Los factores que determinan el clima</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_11_CO_img_04_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso040&amp;IdRecurso=RES-7B03071579FE49C888E2B2443B530194">Reconoce factores y elementos del clima</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_11_CO_D6B5A25A746F41B5BE31C6248407F868">
-    <seccion1Titulo>Estudio del clima y del tiempo metereológico</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_11_CO_img_06_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <seccion2 id="S2_CS_06_11_CO_71E3D94B8970449D9BC4EFF993DEDD04">
-        <seccion2Titulo>Los instrumentos para el estudio metereológico</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_11_CO_img_07_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso070&amp;IdRecurso=RES-1675EAE988D746F1B8A4303EA04EA5AD">El barómetro</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_11_CO_img_08_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso080&amp;IdRecurso=RES-928284EBF72845BCA6992792971CC75D">El anemómetro</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_11_CO_56F68E19359D4A688DF61750ACAD22E6">
-        <seccion2Titulo>Los mapas metereológicos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_11_CO_img_09_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso090&amp;IdRecurso=RES-AA8E1D24F93549D0A1593B4808850303">El mapa del tiempo</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_11_CO_7CB24C3242FF4F5DA315ABB6D9B3DE0E">
-        <seccion2Titulo>Las gráficas climáticas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_11_CO_img_10_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso100&amp;IdRecurso=RES-534835669B164972992FBBF6EBF7B609">Los climogramas</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_11_CO_img_11_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso110&amp;IdRecurso=RES-C77FD9298F3E493686AD0634BA71D9AD">Refuerza tu aprendizaje: El estudio del clima y del tiempo</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_11_CO_6A55B92A0A6546D4AEC1962172637DFD">
-    <seccion1Titulo>Los climas de la Tierra</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_06_11_CO_36FC9F43E4704C40B532C957995EC99A">
-        <seccion2Titulo>Los climas cálidos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_11_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_11_CO_9D88E295AD5645DB82CD8B093AB9E4C0">
-        <seccion2Titulo>Los climas templados</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_11_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso130&amp;IdRecurso=RES-1E7C6F07092D4DC8B73FC1E63029E5E5">Los climas templados en la Tierra</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_11_CO_939EB08B82C84D23AA6835161ED15A6A">
-        <seccion2Titulo>Los climas fríos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_11_CO_img_14_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso140&amp;IdRecurso=RES-7EDE5C5AD6354D66BC3B5040B12567B3">Los climas fríos en la Tierra</enlace>
-          </profundiza>
-          <seccion3 id="S3_CS_06_11_CO_F3EB8BF73238473A9E1D58CD9EC37D13">
-            <seccion3Titulo>El clima de la alta montaña</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_11_CO_img_15_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso150&amp;IdRecurso=RES-9113C050F14647F5BB23F7D3DF3AE260">Identifica los climas del mundo</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_11_CO_img_16_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso160&amp;IdRecurso=RES-CC38FD2DDB2841DA9F1BD1EC483F4E36">Reconoce los climas del mundo a partir de un climograma</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_11_CO_img_17_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso170&amp;IdRecurso=RES-ACF80F6B4B3B4654A4B44D8FB5856350">Refuerza tu aprendizaje: Los climas de la Tierra</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_11_CO_img_19_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso190&amp;IdRecurso=RES-C8522F0B98CC4DEB8FA47AFD6ABA86E9">Refuerza tu aprendizaje: El cambio climático</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_11_CO_EBF9D6ED1BE74A68B52E844DBA4489BF">
-    <seccion1Titulo>El cambio climático</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_11_CO_img_18_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso180&amp;IdRecurso=RES-6B78B6F9E9C74251915DE7E9988B727F">Conoce los efectos del cambio climático</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_11_CO_9B7270F5352C4EF4A8605733DCB949D5">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_11_CO_img_20_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso200&amp;IdRecurso=RES-749CF073524741DA8CC5F5DA085965A0">Competencias: elaboración de un climograma</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_11_CO_img_21_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_11_CO_img_22_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso220&amp;IdRecurso=RES-588CC3DD439E4EEF91B0AF45F7899E19">Proyecto: análisis del clima</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_06_11_CO_EBB9FDC43BAD4E818B922F080466C3BB">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso240&amp;IdRecurso=RES-428B3A929EFC44A3A80DCCDFEAC1BC2D">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso250&amp;IdRecurso=RES-42DDE43C75FD4B79B514342D8E97D2D4">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>El clima</libroTitulo>
+<seccion1 id="S1_CS_06_11_CO_39EE580141B046589AA11DB5307B9590">
+<seccion1Titulo>Clima y tiempo atmosférico</seccion1Titulo>
+<seccion1Texto>
+<p>La <negrita>lluvia</negrita>, el <negrita>viento</negrita> o la <negrita
+>temperatura</negrita> son factores que determinan el clima de una
+zona. Descubrir cómo actúan estos factores sobre el entorno te ayudará
+a comprender la importancia que tiene el clima en nuestras vidas.</p>
+<imagen src="CS_06_11_CO_IMG01_small.jpg">
+<p>El <negrita>clima</negrita> tiene una gran influencia en nuestras
+vidas, ya que afecta tanto al <negrita>paisaje</negrita> que nos rodea
+como nuestra forma de <negrita>vestir</negrita>, la manera de <negrita
+>alimentarnos</negrita>, la <negrita>economía</negrita> de nuestra
+zona o, incluso, nuestra <negrita>cultura</negrita>.</p>
+</imagen>
+<p>El <negrita>clima</negrita> es el resultado del comportamiento
+de distintos fenómenos meteorológicos como las precipitaciones, la
+temperatura o el viento, en una determinada zona a lo largo de muchos
+años.</p>
+<p>Es decir, si observamos durante mucho tiempo la cantidad de precipitaciones
+o las temperaturas registradas a lo largo del año en la zona donde
+vivimos, podremos identificar el tipo de clima que tiene.</p>
+<destacado><destacadoTitulo>La diferencia entre clima y tiempo</destacadoTitulo>
+<destacadoTexto>
+<p>El <negrita>clima</negrita> es el conjunto de fenómenos meteorológicos
+(precipitaciones, temperaturas, presión atmosférica, vientos y humedad)
+que se dan en una superficie terrestre muy extensa durante un periodo
+largo de tiempo (años).</p>
+<p>En cambio, el <negrita>tiempo atmosférico</negrita> se refiere
+a la situación de la atmósfera durante un periodo corto (un día o
+menos) en un espacio reducido de la superficie terrestre. El tiempo
+hace referencia a cómo está el aire que nos rodea, si hace calor o
+viento, etc., y puede cambiar rápidamente.</p>
+<p>En definitiva, el <negrita>tiempo</negrita> es <negrita>momentáneo</negrita
+> y <negrita>cambiante</negrita>, mientras que el <negrita>clima</negrita
+> es <negrita>permanente</negrita> y <negrita>estable</negrita>, aunque
+ambos se refieren a los mismos fenómenos atmosféricos.</p>
+</destacadoTexto></destacado>
+<p>Nuestra <negrita>vida diaria</negrita> está <negrita>condicionada</negrita
+> por el <negrita>tiempo</negrita> que hace en ese momento en el lugar
+donde vivimos: si llueve o hace frío, nos protegemos con un paraguas
+o nos abrigamos; si disfrutamos de un día caluroso y soleado, podremos
+ir a la playa o a la piscina. Cada vez que salimos a la calle podemos
+apreciar si el cielo está nublado, si hace viento o si está lloviendo.</p>
+<p>El <negrita>clima</negrita> es esencial para determinar el <negrita
+>modo de vida</negrita> en un lugar específico del planeta. Las condiciones
+climáticas hacen que la forma de vivir sea diferente en un desierto,
+en los polos o en un lugar cálido.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso010&amp;IdRecurso=RES-A78938C762B54433931E2955FE3D0835"
+>El clima en nuestras vidas</enlace>
+</profundiza>
+<imagen src="CS_06_11_CO_IMG02_small.jpg">
+<p>Las <negrita>nuevas tecnologías</negrita> son muy útiles para predecir
+el tiempo y para seguir la evolución de fenómenos como los huracanes.</p>
+</imagen>
+<seccion2 id="S2_CS_06_11_CO_8FC93AA3C61E45FF9170AEC8A3B94DBA">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso020&amp;IdRecurso=RES-C0054D4A1BA14553A220F9C94CD29427"
+>Refuerza tu aprendizaje: Clima y tiempo atmosférico</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_11_CO_16975F0B4CFD4CBF8BBE8792FA681EE6">
+<seccion1Titulo>Elementos y factores del clima</seccion1Titulo>
+<seccion1Texto>
+<p>El clima está condicionado por una serie de <negrita>elementos</negrita
+> y <negrita>factores</negrita>. Los <negrita>elementos</negrita> del
+clima son las variables que utilizamos para describir las características
+principales que lo definen:</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>temperatura</negrita>: intensidad de calor
+del aire.</listaElemento>
+<listaElemento>La <negrita>humedad</negrita>: cantidad de vapor de
+agua que hay en el aire.</listaElemento>
+<listaElemento>Las <negrita>precipitaciones</negrita>: cantidad de
+agua que cae en una zona determinada, ya sea en forma de nieve, agua
+o granizo. La <negrita>presión atmosférica</negrita>: peso o fuerza
+que hace el aire sobre la superficie terrestre.</listaElemento>
+<listaElemento>El <negrita>viento</negrita>: aire en movimiento.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_11_CO_IMG03_small.jpg">
+<p>En desiertos como el Sahara se registran temperaturas muy altas
+durante el día y muy bajas durante la noche.</p>
+</imagen>
+<p>Cualquier cambio en alguno de estos elementos puede hacer variar
+el clima de una región.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso030&amp;IdRecurso=RES-EAD5A46A9343484AB4BBCFA737BD9E0F"
+>Los factores que determinan el clima</enlace>
+</profundiza>
+<p>Los factores que determinan el clima son:</p>
+<listaSinNumerar>
+<listaElemento>El <negrita>relieve</negrita> y la <negrita>altitud</negrita
+>: las formas del relieve determinan la altitud del terreno y esta
+afecta tanto a las precipitaciones como a la temperatura de una zona.
+En las zonas montañosas más altas, las temperaturas disminuyen y las
+precipitaciones son más frecuentes, ya que las nubes chocan contra
+los picos y provocan lluvias. Por el contrario, en las llanuras el
+aire es más cálido y las precipitaciones menos frecuentes.</listaElemento>
+<listaElemento>La <negrita>latitud</negrita>: es la distancia desde
+un punto determinado del planeta al <negrita>Ecuador</negrita>. La
+latitud también influye en la <negrita>temperatura</negrita>, ya que
+a mayor proximidad al Ecuador, más altas son las temperaturas; asimismo,
+conforme nos alejamos del Ecuador hacia los polos, las temperaturas
+bajan. Esto se debe a que los rayos solares no calientan la Tierra
+por igual: las zonas del Ecuador son las que más calor reciben. Colombia
+se encuentra sobre la línea ecuatorial, en plena zona tórrida.</listaElemento>
+<listaElemento>La <negrita>distancia respecto al mar</negrita>: influye
+en el clima porque el mar hace que las <negrita>temperaturas</negrita
+> sean más suaves en la costa que en el interior. Además, la temperatura
+varía menos entre el día y la noche. Esto se debe a que el agua se
+enfría y se calienta más lentamente que la tierra, lo que influye
+en la atmósfera cercana y hace que se maticen las temperaturas.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_11_CO_IMG04_small.jpg">
+<p>La <negrita>zona latitudinal</negrita> de la Tierra en la que está
+situado un determinado territorio influye en las temperaturas que
+se registran en él. En el <negrita>Ecuador</negrita>, los rayos del
+Sol inciden de forma más directa sobre la superficie terrestre; por
+lo tanto, la <negrita>temperatura</negrita> es <negrita>superior</negrita
+>. A medida que nos alejamos del Ecuador y nos acercamos a las regiones
+polares, la temperatura disminuye.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso040&amp;IdRecurso=RES-7B03071579FE49C888E2B2443B530194"
+>Reconoce factores y elementos del clima</enlace>
+</practica><seccion2
+id="S2_CS_06_11_CO_8FC93AA3C61E45FF9170AEC8A3B91ECB">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso050&amp;IdRecurso=RES-FCFE772DFCFE463A900ED466BB3BDB10"
+>Refuerza tu aprendizaje: Los factores y elementos del clima</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_11_CO_D6B5A25A746F41B5BE31C6248407F868">
+<seccion1Titulo>Estudio del clima y del tiempo metereológico</seccion1Titulo>
+<seccion1Texto>
+<p>Dada la importancia de la influencia del clima y del tiempo en
+la vida del ser humano, este lo estudia con el fin de hacer pronósticos
+sobre las condiciones climáticas. Para conocer y estudiar el clima
+y los fenómenos meteorológicos, se utilizan distintos instrumentos
+y recursos.</p>
+<seccion2 id="S2_CS_06_11_CO_71E3D94B8970449D9BC4EFF993DEDD04">
+<seccion2Titulo>Los instrumentos para el estudio metereológico</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p><?Pub Caret -2?>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_05_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<imagen src="CS_06_11_CO_img_06_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<imagen src="CS_06_11_CO_img_07_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso070&amp;IdRecurso=RES-1675EAE988D746F1B8A4303EA04EA5AD"
+>El barómetro</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_08_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso080&amp;IdRecurso=RES-928284EBF72845BCA6992792971CC75D"
+>El anemómetro</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_11_CO_56F68E19359D4A688DF61750ACAD22E6">
+<seccion2Titulo>Los mapas metereológicos</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_09_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso090&amp;IdRecurso=RES-AA8E1D24F93549D0A1593B4808850303"
+>El mapa del tiempo</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_11_CO_7CB24C3242FF4F5DA315ABB6D9B3DE0E">
+<seccion2Titulo>Las gráficas climáticas</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_10_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso100&amp;IdRecurso=RES-534835669B164972992FBBF6EBF7B609"
+>Los climogramas</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_11_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso110&amp;IdRecurso=RES-C77FD9298F3E493686AD0634BA71D9AD"
+>Refuerza tu aprendizaje: El estudio del clima y del tiempo</enlace>
+</profundiza></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_11_CO_6A55B92A0A6546D4AEC1962172637DFD">
+<seccion1Titulo>Los climas de la Tierra</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<seccion2 id="S2_CS_06_11_CO_36FC9F43E4704C40B532C957995EC99A">
+<seccion2Titulo>Los climas cálidos</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_12_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_11_CO_9D88E295AD5645DB82CD8B093AB9E4C0">
+<seccion2Titulo>Los climas templados</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_13_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso130&amp;IdRecurso=RES-1E7C6F07092D4DC8B73FC1E63029E5E5"
+>Los climas templados en la Tierra</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_11_CO_939EB08B82C84D23AA6835161ED15A6A">
+<seccion2Titulo>Los climas fríos</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_14_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso140&amp;IdRecurso=RES-7EDE5C5AD6354D66BC3B5040B12567B3"
+>Los climas fríos en la Tierra</enlace>
+</profundiza><seccion3
+id="S3_CS_06_11_CO_F3EB8BF73238473A9E1D58CD9EC37D13">
+<seccion3Titulo>El clima de la alta montaña</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_15_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso150&amp;IdRecurso=RES-9113C050F14647F5BB23F7D3DF3AE260"
+>Identifica los climas del mundo</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_16_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso160&amp;IdRecurso=RES-CC38FD2DDB2841DA9F1BD1EC483F4E36"
+>Reconoce los climas del mundo a partir de un climograma</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_17_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso170&amp;IdRecurso=RES-ACF80F6B4B3B4654A4B44D8FB5856350"
+>Refuerza tu aprendizaje: Los climas de la Tierra</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_19_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso190&amp;IdRecurso=RES-C8522F0B98CC4DEB8FA47AFD6ABA86E9"
+>Refuerza tu aprendizaje: El cambio climático</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+</seccion1Texto></seccion1><seccion1
+id="S1_CS_06_11_CO_EBF9D6ED1BE74A68B52E844DBA4489BF">
+<seccion1Titulo>El cambio climático</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_18_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso180&amp;IdRecurso=RES-6B78B6F9E9C74251915DE7E9988B727F"
+>Conoce los efectos del cambio climático</enlace>
+</practica></seccion1Texto></seccion1><seccion1
+id="S1_CS_06_11_CO_9B7270F5352C4EF4A8605733DCB949D5">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_20_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso200&amp;IdRecurso=RES-749CF073524741DA8CC5F5DA085965A0"
+>Competencias: elaboración de un climograma</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_21_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_06_11_CO_img_22_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso220&amp;IdRecurso=RES-588CC3DD439E4EEF91B0AF45F7899E19"
+>Proyecto: análisis del clima</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_06_11_CO_EBB9FDC43BAD4E818B922F080466C3BB"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso240&amp;IdRecurso=RES-428B3A929EFC44A3A80DCCDFEAC1BC2D"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso250&amp;IdRecurso=RES-42DDE43C75FD4B79B514342D8E97D2D4"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+</enlacesreferencia></masinformacion></libro>
