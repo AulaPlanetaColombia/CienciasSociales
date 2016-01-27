@@ -1,50 +1,98 @@
-<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f10b">
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f10b">
 <main mode="f10b" title="Hernán Cortés y la Noche triste">
-<tf><![CDATA[<p><img alt="" src="data/imagenes/000H1201.jpg" style="height:277px; width:400px" /></p>
+<tf><![CDATA[<p><img alt="" src="http://static0.planetasaber.com/encyclopedia/Data/Imagenes/FOTOS/000H1O01.jpg" style="height:277px; width:400px" /></p>
 ]]></tf>
 </main>
-<selection title="Los personajes de la conquista" title2="Los personajes" bkclass="slideInvestiga">
+<selection title="Los personajes de la Conquista" title2="Los personajes" bkclass="slideInvestiga">
 	<definition>
 		<title>Hernán Cortés</title>
-		<def><![CDATA[]]></def>
+		<def><![CDATA[<p style="text-align:justify">Despu&eacute;s de desarrollar estudios en la Universidad de Salamanca,&nbsp;<strong>Hern&aacute;n Cort&eacute;s</strong>&nbsp;viaj&oacute; en&nbsp;1504&nbsp;a las Indias&nbsp;para establecerse&nbsp;como escribano y terrateniente en <strong>Santo Domingo</strong>,&nbsp;en isla de La Espa&ntilde;ola.</p>
+
+<p style="text-align:justify">En 1519, despu&eacute;s de pasar por <strong>Cuba</strong>, y de ser acusado de conspiraci&oacute;n en su expedici&oacute;n en la pen&iacute;nsula de <strong>Yucat&aacute;n</strong> decidi&oacute;&nbsp;emprender la marcha&nbsp;hacia las costas mayas&nbsp;con una gran embarcaci&oacute;n. Tras lograr derrotar a las poblaciones mayas, fund&oacute; sobre la costa del Golfo de M&eacute;xico la ciudad de&nbsp;<strong>Villa Rica de la Veracruz</strong>. En esta expedici&oacute;n recibi&oacute; como regalo a la india do&ntilde;a Marina, conocida como <strong>Malinche</strong>, quien ser&iacute;a su consejera e int&eacute;rprete durante toda su campa&ntilde;a por el territorio mexicano.</p>
+
+<p style="text-align:justify">&nbsp;</p>]]></def>
 	</definition>
 	<definition>
-		<title>Moctezuma</title>
-		<def><![CDATA[]]></def>
+		<title>Moctezuma II</title>
+		<def><![CDATA[<p><strong>Moctezuma II</strong>&nbsp;naci&oacute; en&nbsp;<strong>Tenochtitl&aacute;n</strong>&nbsp;la capital del <strong>Imperio Azteca</strong>. Sus logros como emperador eran muy reconocidos entre los aztecas, puesto que hab&iacute;a logrado organizar el imperio en diversas provincias, centraliz&oacute; la administraci&oacute;n y los impuestos, y contin&uacute;o la&nbsp;expansi&oacute;n militar del territorio.</p>
+
+<p style="text-align:justify">Cuando Moctezuma se enter&oacute; de la llegada de los espa&ntilde;oles a las costas de Yucat&aacute;n, env&iacute;o a sus&nbsp;emisarios con regalos en muestra de buena voluntad, ya que se cre&iacute;a que los extranjeros eran enviados por&nbsp;<strong>Quetzacoatl</strong> para anunciar su retorno.</p>
+
+<p style="text-align:justify">&nbsp;</p>]]></def>
 	</definition>
 	<definition>
 		<title>Alvarado</title>
-		<def><![CDATA[]]></def>
+		<def><![CDATA[<p style="text-align:justify">En <strong>1519</strong>, y tras participar en la&nbsp;expedici&oacute;n y ocupaci&oacute;n de Cuba,&nbsp;<strong>Pedro de Alvarado</strong> se uni&oacute; a la empresa de <strong>Hern&aacute;n Cort&eacute;s</strong> en la pen&iacute;nsula de <strong>Yucat&aacute;n</strong> y emprendi&oacute; el viaje a la meseta de <strong>Tenochtitl&aacute;n.</strong></p>
+
+<p style="text-align:justify">En <strong>1523</strong>, Alvarado fue enviado por Cort&eacute;s&nbsp;a conquistar los <strong>territorios mayas</strong> en las zonas del sur de Centroam&eacute;rica, donde obtuvo importantes logros militares.</p>]]></def>
 	</definition>
 	<definition>
 		<title>Malinche</title>
-		<def><![CDATA[]]></def>
+		<def><![CDATA[<p style="text-align:justify"><strong>Malinche o Malintzin</strong>, recibi&oacute; este nombre en&nbsp;honor de&nbsp;la &quot;diosa de la hierba&quot;, y <strong>Tenepal</strong>&nbsp;por hablar con vitalidad. Sin embargo,&nbsp;fue rebautizada por los espa&ntilde;oles con el nombre de <strong>Marina</strong>, y entre ellos como era llamada &quot;do&ntilde;a Marina&quot;.&nbsp;</p>
+
+<p style="text-align:justify">Tras la <strong>batalla de Centla</strong> en Tabasco, Malinche fue entregada a <strong>Cort&eacute;s</strong>, a quien le sirvi&oacute; de consejera e int&eacute;rprete. Este apoyo brindado a los conquistadores&nbsp;ha sido interpretado por los pueblos ind&iacute;genas mexicanos&nbsp;como una <strong>traici&oacute;n</strong>, puesto que permiti&oacute; que la conquista del pueblo azteca se desarrollara con mayor rapidez. A ella se le atribuye la adopci&oacute;n del <strong>catolicismo</strong>.</p>
+
+<p style="text-align:justify">Hoy en d&iacute;a la palabra <strong>malinchismo</strong> tiene un sentido peyorativo y se refiere a quien adopta otra cultura por encima de la propia.</p>
+
+<p>&nbsp;</p>]]></def>
 	</definition>
 	<definition>
-		<title>de Las Casas</title>
-		<def><![CDATA[]]></def>
+		<title>Díaz del Castillo</title>
+		<def><![CDATA[<p style="text-align:justify"><strong>Bernal D&iacute;az del Castillo</strong> ha sido reconocido como el <strong>cronista</strong> de la Conquista de M&eacute;xico. A &eacute;l se le atribuye la escritura de la <strong>&quot;Historia verdadera de la Conquista de Nueva Espa&ntilde;a&quot;</strong>, texto que recoge cronol&oacute;gicamente&nbsp;los acontecimientos ocurridos en la expedici&oacute;n desarrollada por <strong>Hern&aacute;n Cort&eacute;s</strong> y los conquistadores espa&ntilde;oles.</p>
+
+<p style="text-align:justify">Este texto ha sido la m&aacute;s importante narraci&oacute;n hist&oacute;rica sobre la Conquista en Am&eacute;rica;&nbsp;sin embargo, existen numerosas pol&eacute;micas sobre su autor&iacute;a y sobre la misma existencia de <strong>D&iacute;az del Castillo</strong>, puesto que el texto se redacta 30 a&ntilde;os despu&eacute;s de los eventos, y pr&aacute;cticamente no se conocen menciones suyas por parte de otros cronistas en<strong>&nbsp;Nueva Espa&ntilde;a</strong>.&nbsp;</p>]]></def>
 	</definition>
 </selection>
-<selection title="El acontecimiento de la &quot;Noche triste&quot;" title2="El acontecimiento" bkclass="slideInvestiga">
+<selection title="El acontecimiento de la &quot;Noche Triste&quot;" title2="El acontecimiento" bkclass="slideInvestiga">
 	<definition>
 		<title>Antecedentes</title>
-		<def><![CDATA[]]></def>
+		<def><![CDATA[<p style="text-align:justify">El <strong>8 de noviembre de 1519</strong>, <strong>Hern&aacute;n Cort&eacute;s</strong> y los conquistadores espa&ntilde;oles que lo acompa&ntilde;aban entraron a la ciudad de <strong>Tenochtitl&aacute;n</strong>, capital de <strong>Imperio azteca</strong>, siendo fastuosamente recibidos por <strong>Moctezuma II</strong> y su corte.&nbsp;</p>
+
+<p style="text-align:justify">A pesar de las buenas relaciones que se hab&iacute;an entablado con los <strong>aztecas</strong>, Cort&eacute;s&nbsp;toma prisionero a Moctezuma, previniendo futuros estallidos de rebeld&iacute;a.&nbsp;Sin embargo, este acto, contrario a lo pensado por Cort&eacute;s, gener&oacute; en los aztecas un gran descontento que los llev&oacute; a elegir un nuevo emperador para&nbsp;reemplazar&nbsp;a Moctezuma, a qui&eacute;n cre&iacute;an aliado de los espa&ntilde;oles.</p>
+
+<p style="text-align:justify">Cort&eacute;s sali&oacute; de la ciudad a&nbsp;enfrentar a la expedici&oacute;n de&nbsp;<strong>P&aacute;nfilo de Narv&aacute;ez</strong>, mientras&nbsp;<strong>Pedro de Alvarado</strong>, qued&oacute;&nbsp;a cargo del orden en la ciudad. El <strong>22 de mayo</strong> se reunieron en la Plaza Mayor los nobles aztecas para celebrar la fiesta de <strong>Toxcatl</strong>, con permiso de los espa&ntilde;oles;&nbsp;sin embargo, en medio de la reuni&oacute;n&nbsp;Alvarado&nbsp;decidi&oacute; asediarlos y&nbsp;asesinarlos.&nbsp;Este acontecimiento&nbsp;se ha conocido como la&nbsp;<strong>masacre de la Plaza Mayor</strong>.</p>
+
+<p style="text-align:justify">En respuesta los aztecas se rebelaron&nbsp;contra&nbsp;los espa&ntilde;oles y&nbsp;los amenazaron con expulsarlos de la ciudad.</p>]]></def>
 	</definition>
 	<definition>
 		<title>La noche</title>
-		<def><![CDATA[]]></def>
+		<def><![CDATA[<p style="text-align:justify">Al volver Cort&eacute;s a Tenochtitl&aacute;n, tuvo que hacer frente a la cr&iacute;tica situaci&oacute;n. Los <em>mexicas</em> hab&iacute;an rodeado el palacio de <strong>Axay&aacute;calt</strong>, donde se encontraba <strong>Moctezuma</strong>, quien tras la insistencia de Cort&eacute;s, sali&oacute; a&nbsp;calmar los &aacute;nimos del pueblo.&nbsp;Seg&uacute;n la cr&oacute;nica de <strong>Bernal D&iacute;az del Castillo</strong>, los ind&iacute;genas, que enardecidos&nbsp;lanzaban piedras hacia el palacio, lo&nbsp;hirieron causando su muerte d&iacute;as m&aacute;s tarde. Ya sin esperanzas, Cort&eacute;s plane&oacute;&nbsp;la huida para esa misma noche.</p>
+
+<p style="text-align:justify">De esta manera, en la noche del <strong>30 de junio</strong>, aproximadamente <strong>mil quinientos soldados espa&ntilde;oles</strong>, acompa&ntilde;ados <strong>de diez mil aliados tlaxcaltecas</strong>, salieron por las puertas de la ciudad, llevando todas sus riquezas obtenidas en las diferentes expediciones. Cort&eacute;s crey&oacute; que iba a ser f&aacute;cil huir&nbsp;en la noche mientras todos dorm&iacute;an;&nbsp;sin embargo, los ind&iacute;genas fueron advertidos&nbsp;y en instantes el <strong>lago de Texcoco</strong>&nbsp;que rodeaba Tenochtitl&aacute;n se vio lleno&nbsp;de canoas <em>mexicas</em> con guerreros dispuestos a impedir que los espa&ntilde;oles llegaran vivos a <strong>Tacuba</strong>, al otro lado de la orilla, como era su objetivo.</p>
+
+<p style="text-align:justify">Los que sobrevivieron, entre ellos Cort&eacute;s y Alvarado, lo consideraron un milagro, por lo que no intentaron regresar a socorrer a los heridos.&nbsp;</p>]]></def>
 	</definition>
 	<definition>
 		<title>El amanecer</title>
-		<def><![CDATA[]]></def>
+		<def><![CDATA[<p style="text-align:justify">Las <strong>cr&oacute;nicas de indias</strong>&nbsp;han coincidido en relatar la tristeza con la que Cort&eacute;s vivi&oacute;&nbsp;este acontecimiento.</p>
+
+<p style="text-align:justify">A la ma&ntilde;ana siguiente, al&nbsp;ver la p&eacute;rdida sin precendentes de la magn&iacute;fica capital del vasto Imperio azteca, que crey&oacute; haber dominado, Cort&eacute;s llor&oacute;, tambi&eacute;n lo hizo por los hombres perdidos, pero no se lament&oacute;, sobre todo,&nbsp;por la dif&iacute;cil tarea que les esperaba, pues se hab&iacute;a propuesto recuperar la ciudad a toda costa.</p>]]></def>
 	</definition>
 	<definition>
 		<title>Consecuencias</title>
-		<def><![CDATA[]]></def>
+		<def><![CDATA[<p style="text-align:justify">Los espa&ntilde;oles que sobrevivieron emprendieron un largo viaje hacia el territorio aliado de <strong>Tlaxcala. </strong>En su camino, masacraron a la poblaci&oacute;n de <strong>Calacoayan</strong>, se enfrentaron nuevamente con los aztecas en la <strong>batalla de Otumba</strong>,&nbsp;en&nbsp;la que resultaron victoriosos tras la huida de los ind&iacute;genas.</p>
+
+<p style="text-align:justify">Una vez en Tlaxcala, Cort&eacute;s se tom&oacute; un a&ntilde;o para reorganizar a su ej&eacute;rcito, sus armas y fuerzas y volver a conquistar Tenochtitl&aacute;n, esta vez sin ning&uacute;n asomo de piedad por su habitantes.</p>]]></def>
 	</definition>
 </selection>
 <selection title="Léxico" title2="Léxico" bkclass="slideLexico">
+	<definition>
+		<title>Tenochtitlán</title>
+		<def><![CDATA[<p style="text-align:justify">Capital del <strong>Imperio azteca</strong>, aproximadamente, desde el a&ntilde;o 1325. La ciudad fue centro del territorio mesoamericano, cruce de caminos de comunicaci&oacute;n y comercio. Debido al gran poder que en ella se concentr&oacute;, fue beneficioso que hubiese sido contruida&nbsp;en el centro del <strong>lago de Texcoco</strong>, que sirvi&oacute;&nbsp;como fortaleza natural contra los&nbsp;pueblos enemigos y contra los espa&ntilde;oles.</p>
+
+<p style="text-align:justify">La ciudad encabez&oacute; la <strong>resistencia</strong> contra la Conquista&nbsp;hasta el 13 de agosto de 1521, cuando sometida por la dominaci&oacute;n espa&ntilde;ola.</p>]]></def>
+	</definition>
+	<definition>
+		<title>Conquista</title>
+		<def><![CDATA[<p style="text-align: justify;">Proceso de <strong>exploraci&oacute;n&nbsp;y dominaci&oacute;n</strong> de un territorio y de sus habitantes.</p>
+
+<p>&nbsp;</p>]]></def>
+	</definition>
+	<definition>
+		<title>Crónicas</title>
+		<def><![CDATA[<p style="text-align:justify">A <strong>Am&eacute;rica</strong> viajaron, durante el siglo XVI, innumerables cronistas formando parte de las campa&ntilde;as conquistadoras. Eran hombres <strong>letrados</strong>, muchos de ellos <strong>sacerdotes</strong>, que se dieron a la tarea de testimoniar, en orden cronol&oacute;gico, todo cuanto acontec&iacute;a en los territorios conquistados.</p>
+
+<p style="text-align:justify">En sus relatos se daba cuenta tambi&eacute;n de las <strong>tradiciones y costumbres sociales, culturales y religiosas de los pueblos nativos</strong>. Estas cr&oacute;nicas recogen tambi&eacute;n las reacciones de admiraci&oacute;n y asombro de los espa&ntilde;oles en el <strong>Nuevo Mundo</strong>. Una de las m&aacute;s importantes cr&oacute;nicas es la atribuida a <strong>Bernal D&iacute;az del Castillo</strong>, &quot;<strong>Historia verdadera de la Conquista de la Nueva Espa&ntilde;a&quot;</strong>.&nbsp;</p>]]></def>
+	</definition>
 </selection>
-<presentation title="Comprensión" title2="Comprensión" buttons="false" bkclass="slideComprension">
-</presentation>
 </engine>
