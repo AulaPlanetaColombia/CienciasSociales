@@ -87,11 +87,11 @@ militares</texto>
   </objeto>
   <objeto>
     <ref>40</ref>
-    <texto>origen</texto>
+    <texto>antecedentes</texto>
     <hijos>50</hijos>
     <padre>30</padre>
     <siz>0</siz>
-    <negcur>000000</negcur>
+    <negcur>000000000000</negcur>
     <cen>1</cen>
     <img/>
     <audio/>
@@ -131,7 +131,7 @@ militares</texto>
   </objeto>
   <objeto>
     <ref>61</ref>
-    <texto>guerra de
+    <texto>Guerra de
 los Mil días</texto>
     <hijos>71,72</hijos>
     <padre>50</padre>
@@ -263,7 +263,7 @@ de territorios</texto>
   </objeto>
   <objeto>
     <ref>62</ref>
-    <texto>- misión kemmerer
+    <texto>- misión Kemmerer
 - pérdida
   de Panamá
 - masacre de
@@ -454,11 +454,13 @@ para controlar
   guerrilleros que
   firmaron la paz
 - exceso de 
-  fuerza pública</texto>
+  fuerza pública
+- censura
+  de prensa</texto>
     <hijos/>
     <padre>54</padre>
     <siz>0</siz>
-    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
     <cen>0</cen>
     <img/>
     <audio/>
@@ -585,7 +587,7 @@ de 1929</texto>
   el Perú
 - movimiento
   obrero
-- revolución
+- Revolución
   en marcha
 - golpe militar
   de Pasto</texto>

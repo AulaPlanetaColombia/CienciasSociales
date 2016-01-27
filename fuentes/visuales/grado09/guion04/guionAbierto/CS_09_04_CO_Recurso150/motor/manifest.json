@@ -9,7 +9,7 @@
 			{ "from" : "CDN", "file" : "extlib/jquery/1_11_1/jquery_1_11_1_min.js" },
 			{ "from" : "CDN", "file" : "extlib/createjs/2013_12_12/preloadjs_0_4_1_min.js" },
 
-			{ "from" : "module", "file" : "motor/js/pppdiapoall_min.js?v=15.29.9.1" }
+			{ "from" : "module", "file" : "motor/js/pppdiapoall_min.js?v=15.12.21.1" }
 		]},
 		{ "type" : "img", "files": [
 			{ "from" : "module", "file" : "motor/images/nobk.png"}

@@ -8,7 +8,7 @@
 			{ "from" : "CDN", "file" : "extlib/createjs/2013_12_12/easeljs_0_7_1_min.js" },
 			{ "from" : "CDN", "file" : "extlib/createjs/2013_12_12/preloadjs_0_4_1_min.js" },
 
-			{ "from" : "module", "file" : "motor/js/pppmcall_min.js?v=15.29.9.1" }
+			{ "from" : "module", "file" : "motor/js/pppmcall_min.js?v=15.12.21.1" }
 
 		]},
 		{ "type" : "img", "files": [

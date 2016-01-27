@@ -1,24 +1,11 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<diaporama autoplay="false" diapoDefaultTimeOut="false" effectDefaultTimeOut="1500" textDefaultTimeOut="1000" toolbarAlign="LeftBottom" toolbarColor="Black" toolbarCounter="false" toolbarCounterColor="White" toolbarMargin="40,40,40,40" fotoMargin="0,0,0,0" textMargin="40,40,40,80" aprid="diaporama">
-  <diapo foto="Bogota_1946.jpg">
-    <texto type="Verdana" size="48" style="Normal" color="Black" align="CenterTop" effectTimeOut="1500">Los gobiernos conservadores. Hechos y personajes</texto>
-  </diapo>
-  <diapo foto="Mariano_Ospina_Perez.jpg">
-    <texto type="Arial" size="48" style="Normal" color="Black" align="RightBottom">Mariana Ospina P�rez. Periodo presidencial: 1946 - 1950.</texto>
-  </diapo>
-  <diapo foto="6303251564_f15044c1e6_b.jpg">
-    <texto type="Arial" size="48" style="Normal" color="Black" align="RightTop">Jorge Eli�cer Gait�n. Asesinato el 9 de de abril de 1948.</texto>
-  </diapo>
-  <diapo foto="Bogotazo.jpg">
-    <texto type="Arial" size="48" style="Normal" color="Black" align="LeftBottom">Bogotazo, 9 de abril 1948.</texto>
-  </diapo>
-  <diapo foto="Laureano_Gomez_c_1925-1926.jpg">
-    <texto type="Arial" size="48" style="Normal" color="Black" align="RightBottom">Laureano G�mez. Periodo presidencial: 1950 - 1951.</texto>
-  </diapo>
-  <diapo foto="Guerrillas_llano.JPG">
-    <texto type="Arial" size="48" style="Normal" color="Black" align="RightTop">Guerrillas de los Llanos orientales.</texto>
-  </diapo>
-  <diapo foto="Guadalupe_Salcedo.jpg">
-    <texto type="Arial" size="48" style="Normal" color="Black" align="RightBottom">Guerrillero liberal Guadalupe Salcedo 1924-1957.�</texto>
-  </diapo>
-</diaporama>
+<?xml version='1.0' encoding='UTF-8'?><diaporama autoplay="false" diapoDefaultTimeOut="false" effectDefaultTimeOut="1500" textDefaultTimeOut="1000" toolbarAlign="LeftBottom" toolbarColor="Black" toolbarCounter="false" toolbarCounterColor="White" toolbarMargin="40,40,40,40" fotoMargin="0,0,0,0" textMargin="40,40,40,80" aprid="diaporama"><diapo foto="Bogota_1946.jpg" ><texto type="Verdana" size="48" style="Normal" color="Black" align="CenterTop" effect="normal" effectTimeOut="1500" >Los gobiernos conservadores. Hechos y personajes.</texto></diapo><diapo foto="Mariano_Ospina_Perez.jpg" ><texto type="Verdana" size="34" style="Normal" color="Black" align="RightTop" effect="normal" >Mariano Ospina Pérez#(1946 - 1950)</texto><texto type="Verdana" size="26" style="Normal" color="Black" align="RightTop" effect="normal" >###Durante su gobierno se crearon#dos instituciones con las que#se esperó 
+mejorar la calidad#de vida de los colombianos:#el Ministerio de higiene y el#instituto de los seguros sociales.#Su mandato se vio opacado#por la 
+violencia bipartidista y,#particularmente, por el asesinato#de Jorge 
+Eliécer Gaitán. </texto></diapo><diapo foto="6303251564_f15044c1e6_b.jpg" ><texto type="Verdana" size="32" style="Normal" color="White" align="LeftTop" effect="normal" >Jorge Eliécer Gaitán </texto><texto type="Verdana" size="24" style="Normal" color="White" align="LeftTop" effect="normal" >##Asesinado el 9 de de abril#de 1948. El líder liberal, que#había sido 
+ministro de trabajo#y alcalde de Bogotá murió a#manos de un asesino que le#disparó a la salida de su oficina.#Desde aquel día, y hasta finales#de los años cincuenta, se agudizó#la violencia bipartidista. Gaitán#fue la esperanza de un amplio#sector de la sociedad que lo creyó#capaz de 
+cambiar el orden social#a favor de los más pobres.</texto></diapo><diapo foto="Laureano_Gomez_c_1925-1926.jpg" ><texto type="Verdana" size="34" style="Normal" color="Black" align="RightTop" effect="normal" >Laureano Gómez#(1950 - 1951)</texto><texto type="Verdana" size="26" style="Normal" color="Black" align="RightTop" effect="normal" >###Fue un conservador doctrinario#que se opuso de manera radical#al 
+pensamiento liberal. Durante#su gobierno se planearon y#ejecutaron obras de ingeniería#de gran importancia para #la nación. Sin embargo, ello se#vio opacado porque también fue#un periodo en el que la violencia#alcanzó grandes proporciones.</texto></diapo><diapo foto="Guerrillas_llano.JPG" ><texto type="Verdana" size="32" style="Normal" color="White" align="LeftTop" effect="normal" >Guerrillas de los#Llanos orientales</texto><texto type="Verdana" size="24" style="Normal" color="White" align="LeftTop" effect="normal" >###Luego del asesinato de Jorge#Eliécer Gaitán, miles de liberales#vieron 
+sus esperanzas diluirse y,#además, sintieron que su vida#estaba en 
+peligro. Esto los llevó#a organizar grupos guerrilleros#con los que 
+pretendían recuperar#tierras y transformar el orden#social. Estos grupos
+ fueron#contrarrestados por las Fuerzas#Armadas y por grupos de#bandoleros apoyados por el Estado.</texto></diapo></diaporama>
