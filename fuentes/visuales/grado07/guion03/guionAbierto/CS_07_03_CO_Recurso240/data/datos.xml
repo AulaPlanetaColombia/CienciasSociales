@@ -1,121 +1,112 @@
-﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f12">
-<main mode="f12" title="La expedición de Cristóbal Colón">
-<video>videoDummy.mp4</video>
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f10">
+<main mode="f10" title="La expedición de Cristóbal Colón">
+<tf><![CDATA[<img alt="" src="data/imagenes/cs_07_03_rec240_img01.jpg" style="width: 501px; height: 380px;" />]]></tf>
 </main>
 <understanding title="Los viajes de exploración de Cristobal Colón" title2="Viajes de exploración" buttons="false" visible="true" >
 	<definition>
 		<title></title>
-		<def><![CDATA[<p>Preguntas previas</p>
+		<def><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">Preguntas previas:</span></span></p>
 
-<p>&iquest;Cu&aacute;les son los retos de los viajes ultramarinos?</p>
-
-<p>&iquest;Qu&eacute; caracter&iacute;sticas deber&iacute;an tener los tripulantes de estas campa&ntilde;as de exploraci&oacute;n?</p>
-
-<p>&iquest;Qu&eacute; sentir&iacute;as si tuvieras que efectuar un viaje en el cual no tienes un rumbo claro, ni un tiempo definido de duraci&oacute;n?</p>
-
-<p>&iquest;Ta habr&iacute;as enrolado en la tripulaci&oacute;n de Cristobla Col&oacute;n? &iquest;En cu&aacute;l de sus cuatro viajes lo habr&iacute;as hecho?</p>
+<ul>
+	<li><span style="font-size:23px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;les son los retos de los viajes ultramarinos?</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:23px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Qu&eacute; caracter&iacute;sticas deber&iacute;an tener los tripulantes de estas campa&ntilde;as de exploraci&oacute;n?</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:23px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Qu&eacute; sentir&iacute;as si tuvieras que efectuar un viaje en el cual no tienes un rumbo claro, ni un tiempo definido de duraci&oacute;n?</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:23px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Ta habr&iacute;as enrolado en la tripulaci&oacute;n de Cristobla Col&oacute;n? &iquest;En cu&aacute;l de sus cuatro viajes lo habr&iacute;as hecho?</span></span></li>
+</ul>
 
 <p></p>
 ]]></def>
-	</definition>
-	<definition>
-		<title></title>
-		<def><![CDATA[<p></p>
-
-<p></p>]]></def>
 	</definition>
 </understanding>
 <definitions title="La exploración del Atlántico" title2="Instrumentos y navíos " visible="true" >
 	<definition>
 		<title>Portulanos</title>
-		<def><![CDATA[Colecci&oacute;n de planos de varios puertos, encuadernada en forma de atlas. Prove&iacute;a informaci&oacute;n n&aacute;utica que facilitaba los viajes de exploraci&oacute;n.]]></def>
+		<def><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Portulanos:</strong><br />
+colecci&oacute;n de planos de varios puertos, encuadernada en forma de atlas. Prove&iacute;a informaci&oacute;n n&aacute;utica que facilitaba los viajes de exploraci&oacute;n</span></span>]]></def>
 	</definition>
 	<definition>
 		<title>Nao</title>
-		<def><![CDATA[Embarcaci&oacute;n grande de vela, en especial las antiguas con castillo de proa.]]></def>
+		<def><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Nao:</strong><br />
+embarcaci&oacute;n grande de vela, en especial las antiguas con castillo de proa.</span></span>]]></def>
 	</definition>
 	<definition>
 		<title>Especia</title>
-		<def><![CDATA[Sustancia o extracto vegetal que se a&ntilde;ade en poca cantidad a un alimento para darle m&aacute;s sabor o hacerlo m&aacute;s gustoso.]]></def>
+		<def><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Especia:</strong><br />
+sustancia o extracto vegetal que se a&ntilde;ade en poca cantidad a un alimento para darle m&aacute;s sabor o hacerlo m&aacute;s gustoso.</span></span>]]></def>
 	</definition>
 	<definition>
 		<title>Astrolabio</title>
-		<def><![CDATA[Instrumento de navegaci&oacute;n usado para orientarse que permite determinar la altura de un astro y deducir seg&uacute;n esta, la hora y la latitud.]]></def>
+		<def><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Astrolabio:</strong><br />
+instrumento de navegaci&oacute;n usado para orientarse que permite determinar la altura de un astro y deducir seg&uacute;n esta, la hora y la latitud.</span></span>]]></def>
 	</definition>
 	<definition>
 		<title>Recalar</title>
-		<def><![CDATA[Llegar a un puerto que es su destino o a un punto de la costa que se propone reconocer.]]></def>
+		<def><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Recalar:</strong><br />
+llegar a un puerto que es su destino o a un punto de la costa que se propone reconocer.</span></span>]]></def>
 	</definition>
 	<definition>
 		<title>Carabela</title>
-		<def><![CDATA[Embarcaci&oacute;n larga, angosta, muy ligera y manejable, con una sola cubierta, espol&oacute;n a proa, tres palos con velas latinas. Se utilizaba para la pesca, comercio y en expediciones de exploraci&oacute;n.]]></def>
+		<def><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Carabela:</strong><br />
+embarcaci&oacute;n larga, angosta, muy ligera y manejable, con una sola cubierta, espol&oacute;n a proa, tres palos con velas latinas. Se utilizaba para la pesca, comercio y en expediciones de exploraci&oacute;n.</span></span>]]></def>
 	</definition>
 </definitions>
-<reaserch title="Antecedentes y Motivaciones" title2="Viajes de Colón" buttons="true" visible="true" >
+<reaserch title="Antecedentes y motivaciones" title2="Viajes de Colón" buttons="true" visible="true" >
 	<definition>
 		<title>Lo desconocido</title>
-		<def><![CDATA[<p>&iquest;Cu&aacute;l fue la importancia de Enrique &quot;El Navegante&quot; en la exploraci&oacute;n portuguesa de la costa occidental de &Aacute;frica?</p>
-
-<p>Determina en qu&eacute; consisti&oacute; el sincretismo del origen de la nao portuguesa y su versatilidad en la navegaci&oacute;n en altamar.</p>
-
-<p>Indaga las caracter&iacute;sticas de las especias en relaci&oacute;n con sus usos diversos y su origen geogr&aacute;fico.</p>
-
-<p></p>
+		<def><![CDATA[<ul>
+	<li><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue la importancia de Enrique &quot;El Navegante&quot; en la exploraci&oacute;n portuguesa de la costa occidental de &Aacute;frica?</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">Determina en qu&eacute; consisti&oacute; el sincretismo del origen de la nao portuguesa y su versatilidad en la navegaci&oacute;n en altamar.</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">Indaga las caracter&iacute;sticas de las especias en relaci&oacute;n con sus usos diversos y su origen geogr&aacute;fico. </span></span></li>
+</ul>
 ]]></def>
 	</definition>
 	<definition>
 		<title>Primer viaje</title>
-		<def><![CDATA[<p>&iquest;Cu&aacute;l es la funci&oacute;n de las islas Canarias en la ejecuci&oacute;n del primer viaje de Cristobal Col&oacute;n?</p>
-
-<p></p>
-
-<p>&iquest;Cu&aacute;l fue la zona inicial de exploraci&oacute;n durante el primer viaje?</p>
-
-<p></p>
-
-<p></p>
-
-<p>&iquest;Cu&aacute;les ser&iacute;an los retos que tuvo enfrentar el primer viaje de exploraci&oacute;n de Cristobal Col&oacute;n?</p>
-
-<p></p>]]></def>
+		<def><![CDATA[<ul>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 25px;">&iquest;Cu&aacute;l es la funci&oacute;n de las islas Canarias en la ejecuci&oacute;n del primer viaje de Cristobal Col&oacute;n?</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 25px;">&iquest;Cu&aacute;l fue la zona inicial de exploraci&oacute;n durante el primer viaje?</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 25px;">&iquest;Cu&aacute;les ser&iacute;an los retos que tuvo enfrentar el primer viaje de exploraci&oacute;n de Cristobal Col&oacute;n?</span></span></li>
+</ul>
+]]></def>
 	</definition>
 	<definition>
 		<title>Segundo viaje</title>
-		<def><![CDATA[<p>&iquest;Qu&eacute; es una factor&iacute;a?</p>
-
-<p></p>
-
-<p>&iquest;Por qu&eacute; se designa como &ldquo;descubrimiento&rdquo; la supuesta llegada de Col&oacute;n a las costas de Asia?</p>
-
-<p></p>
-
-<p>&iquest;C&oacute;mo establece Cristobal Col&oacute;n, al servicio de la corona de Castilla, el dominio de los nuevos territorios? &iquest;Por qu&eacute; insiste Col&oacute;n en la exploraci&oacute;n de las islas Antilas?</p>
-
-<p></p>]]></def>
+		<def><![CDATA[<ul>
+	<li><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Qu&eacute; es una factor&iacute;a?</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; se designa como &ldquo;descubrimiento&rdquo; la supuesta llegada de Col&oacute;n a las costas de Asia?</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;C&oacute;mo establece Cristobal Col&oacute;n, al servicio de la corona de Castilla, el dominio de los nuevos territorios? &iquest;Por qu&eacute; insiste Col&oacute;n en la exploraci&oacute;n de las islas Antilas?</span></span></li>
+</ul>
+]]></def>
 	</definition>
 	<definition>
 		<title>Tercer viaje</title>
-		<def><![CDATA[<p>&iquest;Cu&aacute;les son las diferencias entre los objetivos del primer y segundo viaje respecto al tercero?</p>
-
-<p></p>
-
-<p>&iquest;Por qu&eacute; se presenta un levantamiento contra Cristobal Col&oacute;n? &iquest;Cu&aacute;les crees que hayan sido las causas de dicho levantamiento?</p>
-
-<p>&iquest;Qu&eacute; dificultades revest&iacute;a el establecimiento de un poblamiento europeo en las islas del Caribe?</p>]]></def>
+		<def><![CDATA[<ul>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 25px;">&iquest;Cu&aacute;les son las diferencias entre los objetivos del primer y segundo viaje respecto al tercero?</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 25px;">&iquest;Por qu&eacute; se presenta un levantamiento contra Cristobal Col&oacute;n? &iquest;Cu&aacute;les crees que hayan sido las causas de dicho levantamiento?</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 25px;">&iquest;Qu&eacute; dificultades revest&iacute;a el establecimiento de un poblamiento europeo en las islas del Caribe?</span></span></li>
+</ul>
+]]></def>
 	</definition>
 	<definition>
 		<title>Cuarto viaje</title>
-		<def><![CDATA[<p>&iquest;Cu&aacute;les son las razones que motivan a Cristobal Col&oacute;n a explorar insistentemente la zona del Caribe y las costas de la actual Am&eacute;rica Central?</p>
-
-<p></p>
-
-<p></p>
-
-<p>&iquest;Cu&aacute;l es la impresi&oacute;n que te deja la figura de Cristobal Col&oacute;n?</p>
-
-<p>&iquest;Crees que Col&oacute;n sab&iacute;a que no hab&iacute;a llegado a la China y Jap&oacute;n? Argumenta tu respuesta.</p>
-
-<p></p>
+		<def><![CDATA[<ul>
+	<li><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;les son las razones que motivan a Cristobal Col&oacute;n a explorar insistentemente la zona del Caribe y las costas de la actual Am&eacute;rica Central?</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l es la impresi&oacute;n que te deja la figura de Cristobal Col&oacute;n?</span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Crees que Col&oacute;n sab&iacute;a que no hab&iacute;a llegado a la China y Jap&oacute;n? Argumenta tu respuesta.</span></span></li>
+</ul>
 ]]></def>
 	</definition>
 </reaserch>
