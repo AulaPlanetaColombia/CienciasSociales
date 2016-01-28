@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<mapa aprid="mapa">
+<?xml version='1.0' encoding='UTF-8'?><mapa aprid="mapa">
   <copyright>(c) Editorial Planeta</copyright>
   <version>1.0</version>
   <botonMapaConceptual>mostrar</botonMapaConceptual>
@@ -7,35 +6,744 @@
   <botonMudo>0</botonMudo>
   <objeto>
     <ref>00</ref>
-    <texto />
+    <texto>El clima</texto>
     <hijos>10</hijos>
-    <padre />
+    <padre/>
     <siz>0</siz>
-    <negcur />
+    <negcur>00000000</negcur>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
   </objeto>
   <objeto>
     <ref>10</ref>
-    <texto />
-    <hijos>20</hijos>
+    <texto/>
+    <hijos>20,21</hijos>
     <padre>00</padre>
     <siz>14</siz>
-    <negcur />
+    <negcur/>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
   </objeto>
   <objeto>
     <ref>20</ref>
-    <texto />
-    <hijos />
+    <texto>Agentes del Clima</texto>
+    <hijos>31</hijos>
     <padre>10</padre>
     <siz>0</siz>
-    <negcur />
+    <negcur>00000000000000000</negcur>
     <cen>1</cen>
-    <img />
-    <audio />
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>21</ref>
+    <texto>Tipos de clima</texto>
+    <hijos>30</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto/>
+    <hijos>40,41,42</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>cálidos</texto>
+    <hijos>50</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>templados</texto>
+    <hijos>53</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>fríos</texto>
+    <hijos>54</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto>se distinguen</texto>
+    <hijos>60,61,62</hijos>
+    <padre>40</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>ecuatorial</texto>
+    <hijos>70</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>tropical</texto>
+    <hijos>71</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto>desértico</texto>
+    <hijos>72</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto/>
+    <hijos>80</hijos>
+    <padre>60</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>- altas
+  temperaturas
+- lluvias
+  abundantes
+  todo el año</texto>
+    <hijos>90</hijos>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>90</ref>
+    <texto>favorece</texto>
+    <hijos>a0</hijos>
+    <padre>80</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a0</ref>
+    <texto>- agricultura de
+  subsistencia
+- explotación
+  maderera</texto>
+    <hijos/>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto/>
+    <hijos>81</hijos>
+    <padre>61</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>- altas
+  temperaturas
+- lluvias
+  abundantes
+- estación
+  húmeda</texto>
+    <hijos>91</hijos>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>91</ref>
+    <texto>favorece</texto>
+    <hijos>a1</hijos>
+    <padre>81</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a1</ref>
+    <texto>- bosques
+  tropicales
+  y sabana
+- ganadería
+  extensiva
+- grandes
+  plantaciones</texto>
+    <hijos/>
+    <padre>91</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>72</ref>
+    <texto/>
+    <hijos>82</hijos>
+    <padre>62</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>- temperaturas
+  extremas
+- ausencia
+  de lluvias</texto>
+    <hijos>92</hijos>
+    <padre>72</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>92</ref>
+    <texto>favorece</texto>
+    <hijos>a2</hijos>
+    <padre>82</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a2</ref>
+    <texto>- ganadería
+  nómada
+- cultivo
+  en oasis</texto>
+    <hijos/>
+    <padre>92</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto/>
+    <hijos>43,44</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>43</ref>
+    <texto>factores</texto>
+    <hijos>51</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>44</ref>
+    <texto>elementos</texto>
+    <hijos>52</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>comprenden</texto>
+    <hijos>63</hijos>
+    <padre>43</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>- latitud
+- altitud
+- proximidad
+  al mar</texto>
+    <hijos/>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>comprenden</texto>
+    <hijos>64</hijos>
+    <padre>44</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>- precipitaciones
+- temperatura
+- viento
+- humedad
+- presión
+  atmosférica</texto>
+    <hijos>73</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>73</ref>
+    <texto>se miden con</texto>
+    <hijos>83</hijos>
+    <padre>64</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>83</ref>
+    <texto>- pluviómetro
+- termómetro
+- anemómetro
+- higrómetro
+- barómetro</texto>
+    <hijos/>
+    <padre>73</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>53</ref>
+    <texto>se distinguen</texto>
+    <hijos>65,66,67</hijos>
+    <padre>41</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>mediterráneo</texto>
+    <hijos>74</hijos>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>continental</texto>
+    <hijos>75</hijos>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>67</ref>
+    <texto>atlántico</texto>
+    <hijos>76</hijos>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>74</ref>
+    <texto/>
+    <hijos>84</hijos>
+    <padre>65</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>84</ref>
+    <texto>- inviernos
+  suaves
+- veranos
+  calurosos
+- escasas
+  lluvias</texto>
+    <hijos>93</hijos>
+    <padre>74</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>93</ref>
+    <texto>favorece</texto>
+    <hijos>a3</hijos>
+    <padre>84</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a3</ref>
+    <texto>- agricultura
+  secano y
+  regadío
+- bosque hoja
+  perenne</texto>
+    <hijos/>
+    <padre>93</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>75</ref>
+    <texto/>
+    <hijos>85</hijos>
+    <padre>66</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>85</ref>
+    <texto>- inviernos
+  fríos
+- veranos
+  calurosos
+- lluvias
+  escasas</texto>
+    <hijos>94</hijos>
+    <padre>75</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>94</ref>
+    <texto>favorece</texto>
+    <hijos>a4</hijos>
+    <padre>85</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a4</ref>
+    <texto>- ganadería 
+  extensiva
+- agricultura
+  extensiva
+- explotación
+  forestal</texto>
+    <hijos/>
+    <padre>94</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>76</ref>
+    <texto/>
+    <hijos>86</hijos>
+    <padre>67</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>86</ref>
+    <texto>- temperaturas
+  suaves
+- lluvias
+  abundantes</texto>
+    <hijos>95</hijos>
+    <padre>76</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>95</ref>
+    <texto>favorece</texto>
+    <hijos>a5</hijos>
+    <padre>86</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a5</ref>
+    <texto>- agricultura
+  intensiva
+- ganadería 
+  bovina
+  y ovina
+- explotación
+  forestal</texto>
+    <hijos/>
+    <padre>95</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>54</ref>
+    <texto>se distinguen</texto>
+    <hijos>68,69</hijos>
+    <padre>42</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>68</ref>
+    <texto>polar</texto>
+    <hijos>77</hijos>
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>69</ref>
+    <texto>alta montaña</texto>
+    <hijos>78</hijos>
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>77</ref>
+    <texto/>
+    <hijos>87</hijos>
+    <padre>68</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>87</ref>
+    <texto>- temperaturas
+  muy bajas
+- ausencia de
+  lluvias (nieve)</texto>
+    <hijos>96</hijos>
+    <padre>77</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>96</ref>
+    <texto>favorece</texto>
+    <hijos>a6</hijos>
+    <padre>87</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a6</ref>
+    <texto>- caza
+- pesca
+- recursos
+  minerales
+  (oro, estaño,
+  níquel, plomo)
+- pastoreo
+  nómada</texto>
+    <hijos/>
+    <padre>96</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>78</ref>
+    <texto/>
+    <hijos>88</hijos>
+    <padre>69</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>88</ref>
+    <texto>- inviernos
+  fríos
+- lluvias
+  abundantes</texto>
+    <hijos>97</hijos>
+    <padre>78</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>97</ref>
+    <texto>favorece</texto>
+    <hijos>a7</hijos>
+    <padre>88</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+    <audio/>
+  </objeto>
+  <objeto>
+    <ref>a7</ref>
+    <texto>- ganadería
+- explotación
+  forestal
+- energía
+  hidroeléctrica
+- agricultura</texto>
+    <hijos/>
+    <padre>97</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+    <audio/>
   </objeto>
 </mapa>
