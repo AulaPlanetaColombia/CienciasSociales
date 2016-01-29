@@ -2,6 +2,7 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_06_11_CO">
 <libroTitulo>El clima</libroTitulo>
 <seccion1 id="S1_CS_06_11_CO_39EE580141B046589AA11DB5307B9590">
@@ -153,7 +154,13 @@ la vida del ser humano, este lo estudia con el fin de hacer pronósticos
 sobre las condiciones climáticas. Para conocer y estudiar el clima
 y los fenómenos meteorológicos, se utilizan distintos instrumentos
 y recursos.</p>
-<seccion2 id="S2_CS_06_11_CO_71E3D94B8970449D9BC4EFF993DEDD04">
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso060&amp;IdRecurso=RES-A65714E484E34B7AB29D682952F9330A"
+>Conoce los instrumentos para estudiar el tiempo atmosférico</enlace><?Pub
+Caret 0?>
+</practica><seccion2
+id="S2_CS_06_11_CO_71E3D94B8970449D9BC4EFF993DEDD04">
 <seccion2Titulo>Los instrumentos para el estudio metereológico</seccion2Titulo>
 <seccion2Texto>
 <p>Existen distintos instrumentos para medir los elementos que intervienen
@@ -544,7 +551,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso200&amp;IdRecurso=RES-749CF0
 >Competencias: elaboración de un climograma</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso210&amp;IdRecurso=RES-0F5DF00A30194B209962AED5630043DD"
->Competencias: interpretación de un mapa del tiempo</enlace><?Pub Caret 0?>
+>Competencias: interpretación de un mapa del tiempo</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso220&amp;IdRecurso=RES-588CC3DD439E4EEF91B0AF45F7899E19"
 >Proyecto: análisis del clima</enlace>

@@ -1,378 +1,718 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_08_08_CO">
-  <libroTitulo>Colombia en la segunda mitad del siglo XIX</libroTitulo>
-  <seccion1 id="S1_CS_08_08_CO_B715B684F6474C09A12D29A49A37EDEA">
-    <seccion1Titulo>Las reformas liberales de mitad de siglo</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_08_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso010&amp;IdRecurso=RES-E2B1FCA953F340A2B4191F26D98A7A5C">Recurso F4-01</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_08_CO_6F02F8485F1C4368ABAC128B8CC619C3">
-    <seccion1Titulo>
-    </seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_08_CO_img_02_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso020&amp;IdRecurso=RES-E13E39B69F6A41149845F8AEF551FEC6">Recurso M10A-01</enlace>
-      </practica>
-      <seccion2 id="S2_CS_08_08_CO_E94AB6414CDD4EB1AB19A8F864B990D3">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_08_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso030&amp;IdRecurso=RES-C32F47CCC5A74D33B2B55DE08974228B">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_08_CO_13FDD6E59423476BAE709B10D8EFEE43">
-    <seccion1Titulo>La hegemonía liberal</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_08_CO_img_04_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso040&amp;IdRecurso=RES-9F3D5F63A0224F7487DA518CCB2BBB21">Diaporama F1-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_08_08_CO_26C2DD950C66486A95DB5B9CBF28A4D8">
-        <seccion2Titulo>El Olimpo radical</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_08_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso050&amp;IdRecurso=RES-6B177C0AAC1B49FFA649556796784266">Recurso M1C-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_08_CO_img_08_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso080&amp;IdRecurso=RES-A28D7A26A75C4E5EA48FB7160A8D5C1E">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_08_CO_img_06_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso060&amp;IdRecurso=RES-4A8F38B1166648C8AED514D20E3247AD">Recurso M6A-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_08_CO_img_07_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso070&amp;IdRecurso=RES-04F424221FFC407AA374815859A6E891">Recurso M3A-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_08_CO_6CBF62ADB59948C5B573EDDCEFD74773">
-    <seccion1Titulo>La Regeneración</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_08_CO_img_09_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso090&amp;IdRecurso=RES-37DA13FAC97345D191343197516C7F26">Recurso F10-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_08_CO_img_10_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso100&amp;IdRecurso=RES-ED97CB43F22647B2808145CB3B05A235">Recurso M5D-01</enlace>
-      </practica>
-      <seccion2 id="S2_CS_08_08_CO_642B8ED59DC64BE681EC37B79FEB69A5">
-        <seccion2Titulo>La Guerra de los Mil Días</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_08_CO_img_11_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso110&amp;IdRecurso=RES-FE57061B33444303A62777A1595ACE76">Recurso M2A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_08_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso120&amp;IdRecurso=RES-E6FDC59EE11E4DE78A89604557D4CDA5">Recurso M101A-03</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_08_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso150&amp;IdRecurso=RES-15146AF4D55D47FBBD00D66BDB11C9B3">Recurso M101A-04</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_08_CO_5B60B7E1987345548FDF6B216086B80B">
-    <seccion1Titulo>Urbanismo y vida cotidiana</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_08_CO_img_13_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso130&amp;IdRecurso=RES-5380791101DC49B8B55B7549D553B7E4">Recurso F6B-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_08_CO_img_14_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso140&amp;IdRecurso=RES-180C3104FC234354985A4DEAB831F287">Recurso M5D-02</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_08_CO_12CB079330854AB7A54594C1797D0606">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_08_CO_img_16_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso160&amp;IdRecurso=RES-EED855B06D564858AA243D8B096B0B68">Recurso F13-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_08_CO_img_17_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso170&amp;IdRecurso=RES-F069CC5248C24619A1E4D1D578C5CAAF">Recurso M102AB-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_08_08_CO_B74CF7C52D6D41CCB010BA274C2118BB">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso190&amp;IdRecurso=RES-55EADE74B2B24103A327CF35F3238B5C">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso200&amp;IdRecurso=RES-1CC33A97746C4AABB2F505931D88FDB0">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Colombia en la segunda mitad del siglo XIX</libroTitulo>
+<seccion1 id="S1_CS_08_08_CO_B715B684F6474C09A12D29A49A37EDEA">
+<seccion1Titulo>Las reformas liberales de mitad de siglo</seccion1Titulo>
+<seccion1Texto>
+<p>En la mitad del siglo XIX, gran parte del continente americano
+dio un vuelco hacia las <negrita>ideas liberales</negrita>. A la <negrita
+>República de la Nueva Granada</negrita>, como se llamó Colombia entre
+1831 y 1858, le siguieron la <negrita>Confederación Granadina</negrita
+>, que llegó hasta 1863 y, más tarde, los <negrita>Estados Unidos
+de Colombia</negrita>, hasta 1886.</p>
+<p>Durante el periodo de los Estados Unidos de Colombia ocurrieron
+importantes reformas, impulsadas inicialmente por figuras como el
+presidente <negrita>Tomás Cipriano de Mosquera</negrita>, quien promovió
+un conjunto de cambios orientados a insertar al país en la economía
+internacional. Esta dinámica se prolongó hasta el final del siglo
+XIX, durante una época en la que los liberales mantuvieron la hegemonía
+en el poder.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso010&amp;IdRecurso=RES-E2B1FCA953F340A2B4191F26D98A7A5C"
+>El primer proyecto modernizador de la sociedad colombiana a mediados
+del siglo XIX</enlace>
+</profundiza>
+<p>Un antecedente de estas reformas fue el resentimiento que despertó
+el presidente conservador <negrita>Mariano Ospina Rodríguez</negrita
+>, pues durante su mandato (1857-1861) excluyó a los liberales de
+los cargos públicos e insistió en darle más poder al estado de Antioquia
+(de mayoría conservadora) que a los demás.</p>
+<imagen src="CS_08_08_CO_IMG01_small.jpg">
+<p><negrita>Mariano Ospina Rodríguez (1857-1861)</negrita>, de filiación
+conservadora,  excluyó a los liberales del poder. Al finalizar su
+mandato, los liberales realizaron un conjunto de reformas que pretendió
+cambiar de manera radical a la sociedad.</p>
+</imagen>
+<p>En <negrita>1858</negrita>, Ospina Rodríguez promovió una <negrita
+>reforma constitucional</negrita> con la que se creó la <negrita>Confederación
+Granadina</negrita>, conformada por gran parte del actual territorio
+de Colombia y Panamá. La república se convirtió en <negrita>federativa</negrita
+>, constituida por <negrita>ocho estados</negrita> soberanos confederados.
+Los liberales veían cómo iban perdiendo su poder.</p>
+<imagen src="CS_08_08_CO_IMG02_small.jpg">
+<p>Los <negrita>ocho estados</negrita> que conformaban la <negrita
+>Confederación Granadina</negrita> eran Antioquia, Bolívar, Boyacá,
+Cauca, Cundinamarca, Magdalena, Panamá y Santander.</p>
+</imagen>
+<p>En <negrita>1859</negrita>, se desató una nueva <negrita>guerra
+civil</negrita>. En el estado del <negrita>Cauca</negrita>, con el
+expresidente <negrita>Tomás Cipriano de Mosquera</negrita> a la cabeza,
+los liberales tomaron las armas y fueron apoyados por <negrita>Juan
+José Nieto</negrita>, afrodescendiente nacido en Sibarco, corregimiento
+del municipio de Baranoa, Atlántico. Juntos firmaron el <negrita>Tratado
+de Unión y Confederación de los estados del Cauca y Bolívar</negrita
+> y organizaron un gobierno provisional de lo que, desde entonces,
+llamaron los <negrita>Estados Unidos de Colombia</negrita>. Juan José
+Nieto fue presidente de la Confederación Granadina en 1861.</p>
+<p>La guerra se prolongó hasta finales de 1862. Concluyó definitivamente
+con el <negrita>triunfo de los liberales</negrita> y con la ocupación
+de la <negrita>presidencia</negrita> por <negrita>Tomás Cipriano de
+Mosquera</negrita>. El 8 de mayo de <negrita>1863</negrita> se creó
+la <negrita>Constitución de Rionegro</negrita> y desde entonces el
+país se denominó <negrita>Estados Unidos de Colombia</negrita>. Además,
+el territorio se dividió en <negrita>nueve estados</negrita>.</p>
+<imagen src="CS_08_08_CO_IMG03_small.jpg">
+<p>Los <negrita>nueve estados</negrita> que formaron parte de los <negrita
+>Estados Unidos de Colombia</negrita> fueron Antioquia, Bolívar, Boyacá,
+Cauca, Cundinamarca, Magdalena, Panamá, Santander y Tolima.</p>
+</imagen>
+<p>La <negrita>Constitución de Rionegro o de 1863</negrita> se consolidó
+a partir de <negrita>principios liberales</negrita>, con los que intentó
+cambiar el orden social:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Librecambio y desarrollo agrícola y minero</negrita
+>, pues se quiso facilitar el ingreso del país a la <negrita>economía
+internacional</negrita> mediante la <negrita>exportación de bienes
+primarios</negrita>.</listaElemento>
+<listaElemento><negrita>Estado laico</negrita>, es decir, <negrita
+>sin la intervención de la Iglesia</negrita>. Los jesuitas fueron
+expulsados y se les confiscaron tierras a comunidades religiosas,
+con el objetivo de liberar la <negrita>propiedad raíz</negrita> para
+facilitar su compra y venta.</listaElemento>
+<listaElemento><negrita>Federalismo</negrita>, con el establecimiento
+de una <negrita>confederación de nueve estados</negrita> con <negrita
+>autonomía económica y administrativa</negrita>. Cada estado era responsable
+de su orden interno, lo que impedía que el Estado central interviniera
+en ellos así el orden público se viera afectado. Sin embargo, el Gobierno
+central controlaba el Ejército Nacional, las relaciones exteriores,
+el sistema monetario y el crédito público.</listaElemento>
+<listaElemento><negrita>Más fuerza al poder legislativo que al ejecutivo</negrita
+>, para evitar fenómenos como el caudillismo.</listaElemento>
+<listaElemento><negrita>Abolición de la pena de muerte</negrita>.</listaElemento>
+<listaElemento><negrita>Garantías para las libertades</negrita> de
+expresión, de prensa y de culto.</listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso020&amp;IdRecurso=RES-E13E39B69F6A41149845F8AEF551FEC6"
+>Comprende la trascendencia de la Constitución de Rionegro</enlace>
+</practica>
+<p>Al defender las libertades individuales, promover el libre comercio
+y abogar por un Estado laico, la Constitución de 1863 quiso introducir
+al país en la <negrita>modernidad</negrita>.</p>
+<p>En un país donde las guerras civiles eran muy frecuentes, resultaba
+difícil que los estados federados mantuvieran la paz. La Constitución
+de 1863 quiso que esa paz se lograra gracias a la <negrita>capacidad
+de los ciudadanos de educarse y de aplicar normas mínimas de convivencia.</negrita
+></p>
+<destacado><destacadoTitulo>La Constitucion de Rionegro (1863)</destacadoTitulo>
+<destacadoTexto>
+<p>Con la <negrita>Constitución de Rionegro</negrita>, los <negrita
+>Estados Unidos de Colombia</negrita> intentaron modernizarse. Esto
+se reflejaba en la idea de que el Estado central debía facilitar al
+máximo la <negrita>libertad de competencia</negrita>. Aquello era
+difícil en un país que acababa de vivir una guerra civil y cuya población,
+por lo tanto, necesitaba mayores estímulos y protección por parte
+del Estado para reponerse económicamente.</p>
+</destacadoTexto></destacado><seccion2
+id="S2_CS_08_08_CO_E94AB6414CDD4EB1AB19A8F864B990D3">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso030&amp;IdRecurso=RES-C32F47CCC5A74D33B2B55DE08974228B"
+>Refuerza tu aprendizaje: Las reformas liberales de mitad de siglo</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_08_CO_13FDD6E59423476BAE709B10D8EFEE43">
+<seccion1Titulo>La hegemonía liberal</seccion1Titulo>
+<seccion1Texto>
+<p>Apenas se promulgó la Constitución de 1863, los liberales ocuparon
+el poder. Lo hicieron hasta 1878.</p>
+<imagen src="CS_08_08_CO_IMG04_small.jpg">
+<p><negrita>Tomás Cipriano de Mosquera</negrita> fue el líder de la
+Asamblea que diseñó la Constitución de 1863. Estaba a la cabeza de <negrita
+>los liberales radicales</negrita>, la mayoría de ellos con la ambición
+de crear industrias para la exportación.</p>
+</imagen>
+<p>El primer presidente del periodo hegemónico liberal fue <negrita
+>Tomás Cipriano de Mosquera (1862-1864)</negrita>. Conoce más sobre
+este líder<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=149135&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>Sin embargo, su comportamiento, a veces <negrita>autoritario</negrita
+> y de tipo <negrita>caudillista</negrita>, le restó seguidores en
+el propio partido liberal.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso040&amp;IdRecurso=RES-9F3D5F63A0224F7487DA518CCB2BBB21"
+>La forma de gobierno federalista durante la hegemonía liberal</enlace>
+</profundiza><seccion2
+id="S2_CS_08_08_CO_26C2DD950C66486A95DB5B9CBF28A4D8">
+<seccion2Titulo>El Olimpo Radical</seccion2Titulo>
+<seccion2Texto>
+<p>Una vez Tomás Cipriano de Mosquera se retiró del poder, ascendió
+el primer presidente del periodo que se conoció como el <negrita>Olimpo
+Radical</negrita>. Tomó este nombre por ser una etapa en la que el
+país estuvo dirigido por <negrita>intelectuales</negrita>, <negrita
+>industriales</negrita> y <negrita>comerciantes liberales</negrita
+>, que quisieron construir una <negrita>república laica</negrita> y
+respetuosa de los <negrita>derechos individuales</negrita>.</p>
+<p>La figura central del Olimpo Radical fue <negrita>Manuel Murillo
+Toro</negrita>, quien gobernó entre <negrita>1864 y 1866</negrita
+>, y luego de <negrita>1872 a 1874</negrita>. Durante su gobierno,
+quiso controlar las pasiones políticas que llevaban a enfrentamientos
+entre liberales y conservadores, trabajando por profundizar en la <negrita
+>tolerancia</negrita>.</p>
+<imagen src="CS_08_08_CO_IMG05_small.jpg">
+<p><negrita>Manuel Murillo Toro (presidente dos veces: 1864-1866 y
+1872-1874)</negrita> se caracterizó por diseñar políticas de reconstrucción
+nacional, con las que buscó reducir la deuda externa.</p>
+</imagen>
+<p>Sin embargo, en <negrita>1866</negrita>, el retorno a la presidencia
+de <negrita>Tomás Cipriano de Mosquera</negrita> representó el regreso
+de una política que buscaba apartar del poder a los conservadores
+y consolidar un Estado laico. El <negrita>cierre del Congreso de la
+república</negrita> por parte de Mosquera y los cuestionamientos por
+sus actuaciones en el campo de las relaciones internacionales, le
+valieron el <negrita>destierro</negrita> y el <negrita>desprecio de
+sus copartidarios</negrita>.</p>
+<p>Del Olimpo Radical también formaron parte los presidentes <negrita
+>Manuel María de los Santos Acosta (1867-1868)</negrita>, <negrita
+>José Santos Gutiérrez (1868-1870)</negrita>, <negrita>Eustorgio Salgar
+(1870-1872)</negrita>, <negrita>Santiago Pérez (1874-1876)</negrita
+> y <negrita>Aquileo Parra (1876-1878)</negrita>. Todos ellos, de
+pensamiento liberal, promovieron el Estado laico, el libre cambio,
+el desarrollo del comercio, la ciencia y la tecnología, y el respeto
+por las libertades individuales.</p>
+<imagen src="CS_08_08_CO_IMG06_small.jpg">
+<p>Durante el primer gobierno de <negrita>Manuel Murillo Toro</negrita
+>, los Estados Unidos de Colombia conocieron por primera vez <negrita
+>el telégrafo</negrita>, un dispositivo óptico, mecánico o electromecánico,
+empleado para el intercambio de mensajes mediante la transmisión y
+la recepción de señales en código. (Electrotecnia El telégrafo de
+Morse de 1837. Museo Histórico de Correos y Telecomunicaciones, Roma,
+Italia).</p>
+</imagen>
+<p>Debido a que muchos sectores sociales del país, principalmente
+conservadores, eran practicantes convencidos de la <negrita>religión
+católica</negrita>, durante el Olimpo Radical hubo profundas confrontaciones
+entre <negrita>los liberales en el poder y los conservadores</negrita
+>, muy cercanos a la Iglesia católica.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso050&amp;IdRecurso=RES-6B177C0AAC1B49FFA649556796784266"
+>Conoce acerca de la introducción de los medios de comunicación modernos
+en Colombia</enlace>
+</practica><seccion3
+id="S3_CS_08_08_CO_354BD4B065FD46F19DB1255093DF812G">
+<seccion3Titulo>La economía y los primeros ferrocarriles</seccion3Titulo>
+<seccion3Texto>
+<p>El país empezó a transformar su <negrita>infraestructura</negrita
+> en la segunda mitad del siglo XIX. A pesar de las guerras civiles,
+la pobreza y los bajos índices de desarrollo, el Estado impulsó la
+construcción de los primeros <negrita>ferrocarriles</negrita>. Con
+ello quería seguir el ejemplo de los países industrializados, como
+Francia e Inglaterra. Conoce el papel determinante que desempeñó el
+ferrocarril hacia finales del siglo XIX, como dinamizador de la economía,
+instrumento de colonización y medio de transporte de lujo <enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=10&amp;idpil=VI002078&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>Desde que triunfó el movimiento de Independencia, comenzó a pensarse
+en la importancia de unir los dos océanos que bañan el país. Por su
+posición geográfica, <negrita>Panamá</negrita> fue el lugar elegido
+para adelantar las primeras construcciones de las ferrovías que unirían
+el Pacífico con el Atlántico.</p>
+<imagen src="CS_08_08_CO_IMG07_small.jpg">
+<p>Entre 1850 y 1855 se construyó, con dineros estadounidenses, la
+vía del <negrita>Ferrocarril de Panamá</negrita>, que llegó a tener
+casi 80 kilómetros de extensión. Fue inaugurada oficialmente el 28
+de enero de <negrita>1855</negrita>.</p>
+</imagen>
+<p>Esta fue una obra de la hegemonía liberal con la que se quiso estimular
+el desarrollo del país. Los <negrita>Estados Unidos de América</negrita
+> tenían gran interés en esta zona, pues era clave en la comunicación
+del Atlántico con el Pacífico. Sin embargo, la <negrita>lejanía de
+Panamá</negrita> respecto a los lugares más centrales y su <negrita
+>pérdida en 1903</negrita> hicieron de esta obra un asunto poco rentable
+para la nación.</p>
+<p>Como a mediados de siglo el país se regía por un <negrita>sistema
+federal</negrita>, los distintos estados que lo conformaban tenían
+autonomía para decidir sobre su infraestructura. Luego del Ferrocarril
+de Panamá, el <negrita>estado de Bolívar</negrita> inició la construcción
+del suyo en <negrita>1869</negrita>.</p>
+<table border="1"><caption>Cronología del tren en Colombia</caption>
+<colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Fecha de construcción</negrita></td>
+<td align="center"><negrita>Lugar de construcción</negrita></td>
+</tr>
+<tr>
+<td align="center">1850-1855</td>
+<td>Ferrocarril de Panamá</td>
+</tr>
+<tr>
+<td align="center">1869-1873</td>
+<td>Ferrocarril de Bolívar, en Barranquilla</td>
+</tr>
+<tr>
+<td align="center">1874-1914</td>
+<td>Ferrocarril de Antioquia</td>
+</tr>
+<tr>
+<td align="center">1878-1888</td>
+<td>Ferrocarril de Cúcuta</td>
+</tr>
+<tr>
+<td align="center">1878-1927</td>
+<td>Ferrocarril del Pacífico</td>
+</tr>
+<tr>
+<td align="center">1881-1907</td>
+<td>Ferrocarril de La Dorada</td>
+</tr>
+<tr>
+<td align="center">1881-1909</td>
+<td>Ferrocarril de Girardot</td>
+</tr>
+<tr>
+<td align="center">1881-1936</td>
+<td>Ferrocarril de la Sabana y Cundinamarca </td>
+</tr>
+<tr>
+<td align="center">1881-1943</td>
+<td>Ferrocarril de Puerto Wilches</td>
+</tr>
+<tr>
+<td align="center">1882-1906</td>
+<td>Ferrocarril de Santa Marta</td>
+</tr>
+<tr>
+<td align="center">1889-1894</td>
+<td>Ferrocarril de Cartagena </td>
+</tr>
+<tr>
+<td align="center">1889-1935</td>
+<td>Ferrocarril del Norte (Bogotá-Zipaquirá)</td>
+</tr>
+</tbody>
+</table>
+<p>Durante el Olimpo Radical, y particularmente en el periodo presidencial
+de Manuel Murillo Toro, el <negrita>tren</negrita> tomó gran impulso,
+se importó el primer <negrita>telégrafo</negrita> y se inició la <negrita
+>navegación a vapor</negrita> por el río Magdalena.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso060&amp;IdRecurso=RES-4A8F38B1166648C8AED514D20E3247AD"
+>Identifica el papel económico de los ferrocarriles y de la navegación
+a vapor durante la hegemonía liberal</enlace>
+</practica></seccion3Texto></seccion3><seccion3>
+<seccion3Titulo>La educación, ¿laica o católica?</seccion3Titulo>
+<seccion3Texto>
+<p>La <negrita>educación</negrita> fue otro frente de conflicto durante
+la segunda mitad del siglo XIX. Desde la Colonia, la mayoría de <negrita
+>establecimientos educativos</negrita> estaba en manos de <negrita
+>comunidades religiosas</negrita>. Pero una vez se puso en marcha
+la <negrita>Constitución de Rionegro</negrita>, los <negrita>sacerdotes</negrita
+> debieron limitarse al <negrita>culto religioso</negrita> y se intentó
+que los establecimientos educativos pasaran a manos <negrita>civiles</negrita
+>.</p>
+<p>Para los liberales, el <negrita>modelo de ciudadano</negrita> ya
+no era aquel que actuaba bajo la moral católica, sino el de una <negrita
+>persona educada</negrita>, <negrita>crítica</negrita>, inspirada
+en los <negrita>intelectuales</negrita> y <negrita>maestros</negrita
+>, capaz de formar su nación. Por ello, fue una época de gran impulso
+a las <negrita>universidades</negrita> y <negrita>escuelas</negrita
+>, y también a la <negrita>prensa</negrita>.</p>
+<imagen src="CS_08_08_CO_IMG08_small.jpg">
+<p>Durante la hegemonía liberal surgieron periódicos como <cursiva
+>El Radical</cursiva>, <cursiva>El Republicano</cursiva>, <cursiva
+>La Defensa</cursiva> y <cursiva>El Relator</cursiva>. <negrita>La
+libertad de prensa y de expresión</negrita> eran ideales opuestos
+a los que profesaban los conservadores, por lo cual durante los gobiernos
+del Olimpo Radical hubo una fuerte confrontación entre liberales y
+conservadores alrededor de estos aspectos.</p>
+</imagen>
+<p>En los estados de <negrita>Antioquia</negrita> y <negrita>Cauca</negrita
+>, sacerdores y obispos que apelaban al derecho de expresión que los
+mismos liberales stablecieron en la Constitución, promovieron la <negrita
+>lectura de textos religiosos y censuraron la lectura de periódicos
+y libros de ideas liberales</negrita>. La confrontación llegó incluso
+a la <negrita>excomunión</negrita> de quienes fueran soprendidos en
+la lectura de libros prohibidos por la Iglesia católica, la mayor
+aliada de los conservadores.</p>
+<p>Precisamente, el ideal de república liberal contemplaba la <negrita
+>separación de Estado e Iglesia</negrita> y, además, la aplicación
+de la <negrita>ciencia</negrita> y la <negrita>tecnología</negrita
+> con miras al <negrita>progreso</negrita> de la nación. Estas ideas
+estimularon la creación de la <negrita>Universidad Nacional</negrita
+>, en 1867, y de la <negrita>Dirección Nacional de Instrucción Pública</negrita
+>, en 1870, antecesora del Ministerio de Educación Nacional. Esta
+última se creó a partir de una ley que establecía como <negrita>obligatoria</negrita
+> la <negrita>educación básica</negrita> (o educación elemental) y
+llamaba la atención sobre la importancia de la <negrita>neutralidad
+religiosa</negrita>.</p>
+<destacado><destacadoTitulo>Escuela de Ingeniería en la Universidad
+de Antioquia</destacadoTitulo><destacadoTexto>
+<p>A pesar de las pugnas ideológicas con los conservadores, el Olimpo
+Radical fue un periodo en el que se estimuló la educación en diversas
+disciplinas. Ejemplo de ello fue la creación de la <negrita>Escuela
+de Ingeniería en la Universidad de Antioquia</negrita>, con la que
+se buscó promover la investigación y práctica científicas para la
+explotación de oro <enlace
+destino="http://docencia.udea.edu.co/regionalizacion/irs-406/contenido/laescuela"
+> [VER]</enlace>.</p>
+</destacadoTexto></destacado>
+<p>La molestia de los conservadores también tenía que ver con que
+el Partido Liberal era considerado el centro de operaciones de la <negrita
+>logia masónica</negrita>, que en aquel entonces era secreta y se
+caracterizaba por:</p>
+<listaSinNumerar>
+<listaElemento>Defender la ciencia y la tecnología, como estrategias
+para el progreso.</listaElemento>
+<listaElemento>Tener un espíritu de comunión entre personas de la
+misma ideología.</listaElemento>
+<listaElemento>Manifestar interés y afecto por los ideales de la Revolución
+francesa, que promovían el ascenso social a través del trabajo.</listaElemento>
+</listaSinNumerar>
+<p>Aquello iba en contravía de un orden conservador, basado en la
+idea de que el <negrita>poder</negrita> y la <negrita>servidumbre</negrita
+> se <negrita>heredan</negrita> según el origen social.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso070&amp;IdRecurso=RES-04F424221FFC407AA374815859A6E891"
+>Analiza los dos proyectos educativos en conflicto durante el siglo
+XIX: científico y religioso</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_08_08_CO_E94AB6414CDD4EB1AB19A8F864B963E4">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso080&amp;IdRecurso=RES-A28D7A26A75C4E5EA48FB7160A8D5C1E"
+>Refuerza tu aprendizaje: La hegemonía liberal</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_08_CO_6CBF62ADB59948C5B573EDDCEFD74773">
+<seccion1Titulo>La Regeneración</seccion1Titulo>
+<seccion1Texto>
+<p>Durante la segunda mitad del siglo XIX, Colombia vivió guerras
+civiles y confrontaciones entre los partidos políticos, que a su vez
+tenían pugnas internas:</p>
+<listaSinNumerar>
+<listaElemento>En el Partido Liberal, entre liberales radicales y
+liberales independientes.</listaElemento>
+<listaElemento>En el Partido Conservador, entre conservadores históricos
+y conservadores nacionalistas.</listaElemento>
+</listaSinNumerar>
+<p>El orden político, al mando de los liberales, había excluido del
+poder a los conservadores, quienes veían con malos ojos que el Estado
+se apartara de la Iglesia. Igualmente, grandes propietarios de la <negrita
+>costa Caribe</negrita>, el <negrita>Cauca</negrita> y <negrita>Antioquia</negrita
+>, de <negrita>filiación conservadora</negrita>, se resintieron al
+ser apartados de las decisiones del poder central, que tenía más empatía
+con <negrita>liberales radicales</negrita> del <negrita>oriente</negrita
+> del país. De nuevo, como al principio del siglo XIX, se presentó
+la confrontación de enfoques sobre cómo dirigir el destino de la nación.</p>
+<p>La división entre <negrita>liberales independientes</negrita> y <negrita
+>radicales</negrita> fue aprovechada por los <negrita>conservadores.
+Rafael Núñez</negrita>, <negrita>liberal independiente</negrita>,
+recibió el apoyo de los conservadores y ganó las <negrita>elecciones
+de 1880</negrita>. Desde entonces, él y el conservador <negrita>Miguel
+Antonio Caro</negrita> tomaron las riendas del país, <negrita>reformaron
+la Constitución</negrita> y aplicaron una serie de medidas para poner
+en práctica un proyecto de nación basado en la cláusula “<negrita
+>Libertad y Orden</negrita>”.</p>
+<destacado><destacadoTitulo>La Regeneración y la Constitución de 1886</destacadoTitulo>
+<destacadoTexto>
+<p><negrita>Rafael Núñez</negrita> y <negrita>Miguel Antonio Caro</negrita
+> dirigieron un <negrita>proyecto de Regeneración</negrita> que buscaba
+acabar con la hegemonía liberal, que había separado a la Iglesia del
+Estado. Juntos crearon la <negrita>Constitución de 1886</negrita>,
+con la que se fortaleció el poder ejecutivo y papel de la Iglesia
+en el control moral y educativo.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso090&amp;IdRecurso=RES-37DA13FAC97345D191343197516C7F26"
+>La Constitución de 1886 y la restitución del orden conservador</enlace>
+</profundiza>
+<p>El principal aspecto que caracterizó al periodo de la Regeneración
+fue la reforma constitucional. Con la <negrita>Constitución promulgada
+en 1886</negrita> la vida política del país cambió. Los ejes de la
+transformación fueron los siguientes:</p>
+<listaSinNumerar>
+<listaElemento>La república dejó de ser federalista y pasó a ser <negrita
+>centralista</negrita>.</listaElemento>
+<listaElemento>Los estados autónomos se convirtieron en <negrita>departamentos
+dependientes</negrita> del poder central.</listaElemento>
+<listaElemento>El <negrita>poder ejecutivo</negrita> se fortaleció,
+al punto que el periodo presidencial se amplió de dos a seis años.</listaElemento>
+<listaElemento>El <negrita>sufragio</negrita> fue solamente un derecho
+para <negrita>hombres propietarios que supieran leer</negrita>.</listaElemento>
+<listaElemento>Se estableció la <negrita>censura de prensa</negrita
+> y el <negrita>control sobre publicaciones</negrita>, como libros
+o cartillas.</listaElemento>
+<listaElemento>Se creó la <negrita>Ley de los Caballos</negrita>,
+que le dio libertad al presidente para desterrar y confinar a los
+opositores al gobierno, sin que estos tuvieran la posibilidad de defenderse
+en un juicio.</listaElemento>
+<listaElemento>La <negrita>religión católica</negrita> retomó su papel
+protagónico en la vida política, social y cultural del país.</listaElemento>
+</listaSinNumerar>
+<listaSinNumerar>
+<listaElemento>Se firmó el <negrita>Concordato de 1887</negrita>,
+acuerdo solemne establecido entre la Santa Sede y la autoridad suprema
+del país, para reglamentar las relaciones mutuas entre la Iglesia
+católica y el Estado, y declarar los derechos y deberes recíprocos <enlace
+destino="http://www.banrepcultural.org/node/32783"> [VER]</enlace
+>.</listaElemento>
+</listaSinNumerar>
+<p>Precisamente, este acuerdo facilitó la <negrita>intervención de
+la Iglesia católica en varios asuntos del Estado y de la vida pública</negrita
+>. De ahí que la <negrita>religión católica</negrita> se convirtió
+en el <negrita>principal mecanismo de cohesión</negrita> del orden
+social. La Iglesia, por ejemplo, tuvo la potestad para decidir sobre
+los contenidos que se estudiaban en escuelas, colegios y universidades.
+Con la intervención de la Iglesia en los distintos campos de la vida
+cotidiana, se esperaba que los ciudadanos se caracterizaran por sus <negrita
+>buenos modales</negrita> y <negrita>fe cristiana</negrita>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso100&amp;IdRecurso=RES-ED97CB43F22647B2808145CB3B05A235"
+>Explora los manuales de comportamiento y urbanidad durante la Regeneración</enlace>
+</practica>
+<imagen src="CS_08_08_CO_IMG09_small.jpg">
+<p>En periódicos como <cursiva>El Zancudo</cursiva>, el <negrita>caricacaturista
+Alfredo Greñas</negrita>, reconocido opositor de Núñez, afinó su pluma
+para atacar los principios y propósitos de la Regeneración.</p>
+</imagen>
+<p>Una de las justificaciones de los regeneracionistas para crear
+una nueva Constitución (de 1886) fue que la <negrita>Constitución
+de Rionegro (de 1863) daba libertades excesivas</negrita> a los ciudadanos,
+lo cual propició la guerra civil. Por eso fue llamada una <negrita
+>“Constitución para ángeles”</negrita>.</p>
+<p>No obstante, a pesar de las medidas tomadas por Rafael Núñez y
+Miguel Antonio Caro en cuanto al replanteamiento de las libertades
+ciudadanas y la intervención eclesial en la vida estatal, <negrita
+>no se logró homogenizar a la sociedad ni imponer el orden esperado</negrita
+>.</p>
+<seccion2 id="S2_CS_08_08_CO_642B8ED59DC64BE681EC37B79FEB69A5">
+<seccion2Titulo>La guerra de los Mil Días</seccion2Titulo>
+<seccion2Texto>
+<p>Rafael Núñez murió en 1894 y Miguel Antonio Caro asumió el poder
+hasta <negrita>1898</negrita>, año en que fue elegido otro <negrita
+>conservador</negrita>: <negrita>Manuel Sanclemente (presidente hasta
+1900)</negrita>.</p>
+<p>El <negrita>sistema electoral</negrita> y la posibilidad de <negrita
+>reelección</negrita> dejaron sin espacio político a los liberales.
+Además, se les prohibió manifestar sus opiniones a través de la prensa.
+Sin embargo, los grupos de librepensadores insistían en que la <negrita
+>injerencia de la Iglesia católica</negrita> en las decisiones políticas
+iba en <negrita>contravía de las ideas modernizadoras</negrita> que
+tomaron vuelo en países como Francia e Inglaterra. Allí, la idea según
+la cual el poder y el saber vienen de Dios se derrumbó y se mantenía
+la separación de la Iglesia y el Estado.</p>
+<p>Adicionalmente, el panorama económico empezó a empeorar con el <negrita
+>derrumbe de los precios</negrita> de los <negrita>principales productos
+colombianos</negrita>, como el <negrita>café</negrita>. Los <negrita
+>liberales radicales</negrita>, guiados por su inconformismo y aprovechando
+esta situación, se <negrita>levantaron en armas</negrita> en todo
+el país, aunque el epicentro fue el departamento de <negrita>Santander</negrita
+>.</p>
+<recuerda><recuerdaTexto>
+<p>Durante la guerra de los Mil días fueron presidentes los conservadores
+Manuel Antonio <negrita>Sanclemente</negrita> (1898-1900) y <negrita
+>José Manuel Marroquín</negrita> (1900 a 1904). </p>
+</recuerdaTexto></recuerda>
+<p>Esta <negrita>guerra</negrita>, en cabeza de <negrita>Rafael Uribe
+Uribe</negrita> y <negrita>Benjamín Herrera</negrita>, duró desde
+el <negrita>17 de octubre de 1899</negrita> hasta el <negrita>21 de
+noviembre de 1902</negrita>, por lo cual se le conoció como <negrita
+>“de los Mil Días”</negrita>, e involucró a todas las poblaciones
+del país.</p>
+<p>Las batallas de <negrita>Bucaramanga</negrita>, <negrita>Peralonso</negrita
+> y <negrita>Palonegro</negrita> fueron definitivas para el desarrollo
+de la guerra, debido a que definieron la relación de fuerzas entre
+los bandos. En la primera vencieron los conservadores; en la segunda,
+los liberales; y en la última salieron victoriosos nuevamente los
+conservadores.</p>
+<imagen src="CS_08_08_CO_IMG10_small.jpg">
+<p>La <negrita>batalla de Palonegro</negrita> se libró entre el 11
+y el 25 de mayo de 1900. Representó una terrible derrota para los
+liberales, quienes en adelante perdieron cualquier posibilidad de
+maniobra. (Ejército liberal del Norte en vísperas de la batalla de
+Palonegro. Mayo, 1900. Foto Quintiliano Gavassa. Museo de Arte Moderno
+de Bogotá, Mambo).</p>
+</imagen>
+<p>Para los <negrita>liberales</negrita>, el <negrita>acceso a las
+armas fue muy limitado</negrita>. De ahí que en muchas ocasiones pelearan
+con piedras o machetes. Esto los puso en desventaja frente al <negrita
+>Ejército Nacional</negrita> que, justamente en 1886, había empezado
+a dotarse de armas, a tecnificarse y a organizarse con ayuda internacional.</p>
+<p>Finalmente, cerca de la ciudad de Ciénaga, en una hacienda llamada <negrita
+>Neerlandia</negrita>, el general liberal <negrita>Rafael Uribe Uribe</negrita
+> firmó con el gobierno conservador de <negrita>José Manuel Marroquín</negrita
+> el <negrita>Tratado de Neerlandia (24 de octubre de 1902)</negrita
+>. Igualmente, en el acorazado norteamericano <negrita>Wisconsin</negrita
+> se firmó el 21 de noviembre de <negrita>1902</negrita> el tratado
+definitivo con el que se dio <negrita>fin a la guerra de los Mil Días</negrita
+>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso110&amp;IdRecurso=RES-FE57061B33444303A62777A1595ACE76"
+>Reconoce aspectos de la economía cafetera y la Guerra de los Mil
+Días</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso150&amp;IdRecurso=RES-15146AF4D55D47FBBD00D66BDB11C9B3"
+>Recurso M101A-04</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_08_CO_E94AB6414CDD4EB1AB19A8F864B963E4">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso120&amp;IdRecurso=RES-E6FDC59EE11E4DE78A89604557D4CDA5"
+>Refuerza tu aprendizaje: La Regeneración</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_08_CO_5B60B7E1987345548FDF6B216086B80B">
+<seccion1Titulo>Urbanismo y vida cotidiana</seccion1Titulo>
+<seccion1Texto>
+<p>Las <negrita>guerras</negrita> fueron, sin duda, una de las maneras
+como se expresaron las pugnas partidistas durante la segunda mitad
+del siglo XIX y pricipios del XX. Sin embargo, en momentos de paz,
+los campos de batalla eran las <negrita>aulas escolares</negrita> y
+la <negrita>prensa</negrita>. Ambas resultaron ser el producto de
+una tensión que reflejaba las diferencias entre tendencias políticas,
+ideas sobre la orientación del Estado y formas de sobrellevar la vida
+cotidiana.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso130&amp;IdRecurso=RES-5380791101DC49B8B55B7549D553B7E4"
+>El rol de la prensa y los periodistas colombianos durante la segunda
+mitad del siglo XIX</enlace>
+</profundiza>
+<p>Las posiciones <negrita>tradicionalistas</negrita>:</p>
+<listaSinNumerar>
+<listaElemento>Defendían el papel de la <negrita>Iglesia</negrita
+> como institución que garantizaba la <negrita>unidad moral</negrita
+>.</listaElemento>
+<listaElemento>Rechazaban los ideales de libertad, igualdad y fraternidad,
+propios de la <negrita>Revolución francesa</negrita>, pues según ellos
+causaron <negrita>desorden y confrontaciones</negrita> entre clases
+sociales.</listaElemento>
+<listaElemento>Tenían cierta <negrita>nostalgia</negrita> por la pérdida
+del <negrita>vínculo con España</negrita>, pues creían que en la Colonia
+se había vivido en paz gracias al acatamiento de los mandatos de la
+Corona, mientras que después de la <negrita>Independencia</negrita
+> se había producido <negrita>anarquía</negrita>, porque criollos,
+mestizos, negros e indios asumieron que podían ser <negrita>sujetos
+políticos</negrita>.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_08_08_CO_IMG11_small.jpg">
+<p>A finales del siglo XIX se publicaron <negrita>manuales de urbanidad</negrita
+>, que asociaban la ciudadanía con las buenas maneras. Estos textos
+enseñaban a los ciudadanos el buen comportamiento que debían tener
+en público, incluso si no tenían acceso a educación, trabajo o vivienda
+digna. Un ejemplo es <cursiva>Breves nociones de urbanidad</cursiva
+>, de Rufino Cuervo (Bogotá, Nicolás Gómez, 1866. Bliblioteca Luis
+Ángel Arango).</p>
+</imagen>
+<p>Por su parte, las posiciones <negrita>liberales</negrita>:</p>
+<listaSinNumerar>
+<listaElemento>Defendían los principios burgueses del <negrita>librecambio</negrita
+>.</listaElemento>
+<listaElemento>Creían en las posibilidades que ofrecían <negrita>la
+ciencia y la tecnología</negrita> para el <negrita>progreso</negrita
+>.</listaElemento>
+<listaElemento>Consideraban <negrita>el capitalismo y el trabajo</negrita
+> como medios de <negrita>ascenso social</negrita>. </listaElemento>
+<listaElemento>Promovían las <negrita>libertades del ciudadano</negrita
+>, como la de prensa y de expresión, así como en el <negrita>derecho
+a la educación</negrita> y la <negrita>tolerancia religiosa</negrita
+>.</listaElemento>
+</listaSinNumerar>
+<p>En esta época surgen también <negrita>revistas y colecciones de
+novelas</negrita> que describen la vida de las regiones y los hábitos
+de los distintos grupos sociales, sus creencias y comportamientos.
+Algunos ejemplos son las novelas <cursiva>Manuela</cursiva>, de Eugenio
+Díaz, y <cursiva>María</cursiva>, de Jorge Isaacs; también, el texto
+costumbrista Las <cursiva>tres tazas</cursiva>, de José María Vergara
+y Vergara<enlace
+destino="http://www.banrepcultural.org/blaavirtual/literatura/cosiv/cosiv23a.htm"
+> [VER]</enlace>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso140&amp;IdRecurso=RES-180C3104FC234354985A4DEAB831F287"
+>Comprende la literatura colombiana del siglo XIX como fuente histórica</enlace>
+</practica>
+<p>Pero la literatura y la prensa no estaban al alcance de toda la
+población. A pesar de que durante el Olimpo Radical aumentó el número
+de escuelas, aún existían altas tasas de <negrita>analfabetismo</negrita
+>; los <negrita>indígenas</negrita> habían <negrita>perdido sus tierras</negrita
+> cuando los resguardos se abolieron; y las ciudades carecían de una
+buena <negrita>cobertura de servicios públicos</negrita>. La democratización
+era un asunto que avanzaba <negrita>lentamente</negrita>.</p>
+<p>Con la llegada de la Regeneración, la situación de los sectores
+populares empeoró, especialmente porque se instauró un <negrita>sistema
+represivo</negrita> en el que la <negrita>Policía</negrita> tuvo gran
+protagonismo en el control de la población y en el propósito de que
+esta se mantuviera dentro del modelo católico de comportamiento.</p>
+<imagen src="CS_08_08_CO_IMG12_small.jpg">
+<p>En nuestro país, la <negrita>Policía Nacional</negrita> se creó
+en <negrita>1891</negrita>. El primer director de esta institución
+fue un comisario francés: <negrita>Juan María Marcelino Gilibert</negrita
+>. En su misión, inicialmente lo acompañaron 450 agentes seleccionados
+por tener buen estado físico, gozar de buena reputación y saber leer,
+escribir y contar.</p>
+</imagen>
+<p>Una de las funciones de la Polícia fue <negrita>vigilar</negrita
+> el cumplimiento del <negrita>Código de Policía</negrita>, que señalaba
+un gran número de <negrita>infracciones</negrita>; por ejemplo, se
+prohibía decir en público palabras obscenas, cantar canciones “torpes”,
+escupir o tener relación con personas de “malas costumbres”. En una
+sociedad de medio social variado y lleno de privaciones materiales,
+no era difícil encontrar quien “cometiera” alguno de estos delitos.</p>
+</seccion1Texto></seccion1><seccion1
+id="S1_CS_08_08_CO_12CB079330854AB7A54594C1797D0606">
+<seccion1Titulo>Competencias</seccion1Titulo><?Pub Caret -2?>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso160&amp;IdRecurso=RES-EED855B06D564858AA243D8B096B0B68"
+>Competencias: comparación de las ideas e implicaciones de las Constituciones
+de 1863 y 1886</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso170&amp;IdRecurso=RES-F069CC5248C24619A1E4D1D578C5CAAF"
+>Proyecto: las mujeres colombianas durante la segunda mitad del siglo
+XIX</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_08_08_CO_B74CF7C52D6D41CCB010BA274C2118BB"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso190&amp;IdRecurso=RES-55EADE74B2B24103A327CF35F3238B5C"
+>Mapa conceptual del tema Colombia en la segunda mitad del siglo XIX</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso200&amp;IdRecurso=RES-1CC33A97746C4AABB2F505931D88FDB0"
+>Evalúa tus conocimientos sobre Colombia en la segunda mitad del siglo
+XIX</enlace></autoevaluate><enlacesreferencia>
+<enlace
+destino="http://www.banrepcultural.org/blaavirtual/historia/viaand/viaand42.htm"
+>Libro de Alfred Hettner sobre los Viajes por los Andes colombianos,
+capítulo sobre los Estados Unidos de Colombia</enlace>
+<enlace
+destino="http://www.jorgeorlandomelo.com/bajar/constitucion1886.pdf"
+>Texto de Jorge Orlando Melo sobre la Constitución de 1886</enlace>
+<enlace
+destino="http://www.banrepcultural.org/blaavirtual/exhibiciones/ferrocarriles/secciones/historia_general.htm"
+>Recuento sobre la historia de los ferrocarriles a nivel mundial y
+nacional</enlace>
+</enlacesreferencia></masinformacion></libro>
