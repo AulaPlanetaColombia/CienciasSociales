@@ -1,462 +1,1067 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_07_05_CO">
-  <libroTitulo>El colonialismo en América</libroTitulo>
-  <seccion1 id="S1_CS_07_05_CO_B6125336601F4F29BFB6CE6B50C7B8F4">
-    <seccion1Titulo>
-    </seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_05_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso010&amp;IdRecurso=RES-3AD331BDFC4C4FAFA9921FFA8545AD8A">Recurso F10-01</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_05_CO_F3414B12780E41C18C1B16AE7D19DA7C">
-    <seccion1Titulo>Las colonias de España</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_07_05_CO_9BAFBE8D6E6640E59617D41AEEDFE7BD">
-        <seccion2Titulo>Organización social</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_05_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso020&amp;IdRecurso=RES-17105D32724E43CFBA90B970E5DCD2C4">Recurso F7-01</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_05_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso030&amp;IdRecurso=RES-FC76A397384E457B9B8C127C2B328DC4">Recurso M1B-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_05_CO_522CB39A35FD400096550F9F128F30B0">
-        <seccion2Titulo>Organización económica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_05_CO_img_04_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso040&amp;IdRecurso=RES-717E9599BE524F59B35507B9C21522E9">Recurso M2C-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_05_CO_732AB16BE87B4E13BBEFB1A943CB3797">
-        <seccion2Titulo>Organización político-administrativa</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_05_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso050&amp;IdRecurso=RES-BE75926E0E424EF6B25FDA1886293772">Recurso M5B-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_05_CO_img_06_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso060&amp;IdRecurso=RES-D873502211EA485B9BBFE74E9E7FDAFC">Recurso M12A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_05_CO_24B86D7AC64D402F876C99A5E3424EEF">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_05_CO_img_07_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso070&amp;IdRecurso=RES-86FB47E8CED1458A8E500FB4D30C5016">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_05_CO_C8FEA926AF984201B1651AE8719CCD14">
-    <seccion1Titulo>El colonialismo de otras potencias europeas</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_07_05_CO_66A1901F43D34BB1B5529339334EE813">
-        <seccion2Titulo>Las colonias portuguesas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_05_CO_img_08_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso080&amp;IdRecurso=RES-CEDE1932080C4089AACD639E834531D9">Recurso F4-01</enlace>
-          </profundiza>
-          <seccion3 id="S3_CS_07_05_CO_0B93F82B6CED44CC8E2DB0EA76F18379">
-            <seccion3Titulo>Organización político-administrativa</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_05_CO_img_09_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso090&amp;IdRecurso=RES-B79D275275E84667AE6BB8431754C5D9">Recurso M15A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_05_CO_18E38E72B14A45FCBF4822C11C22878B">
-            <seccion3Titulo>Organización económica</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_05_CO_img_10_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso100&amp;IdRecurso=RES-102E3EF090184507861E8FA9B39372DC">Recurso M1C-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_05_CO_03000A84F956414D98091022989CD5E0">
-            <seccion3Titulo>Organización social</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_05_CO_img_11_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso110&amp;IdRecurso=RES-5AD39C16FE1D44A6B9A35CD08B104986">Recurso M10A-01</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_05_CO_img_13_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso130&amp;IdRecurso=RES-A866C99A88014A2C854957E94875D762">Recurso M4A-01</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_05_CO_img_14_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso140&amp;IdRecurso=RES-8647778248FB44F0AB3AB6E1DB99947D">Recurso M2A-01</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_05_CO_img_16_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso160&amp;IdRecurso=RES-932533B60DEB48A2B24D9ED93E6C910F">Recurso M12A-02</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_05_CO_img_17_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso170&amp;IdRecurso=RES-B32C11B416D84B4CB604C663A21FA575">Recurso M5D-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_05_CO_31C4CD426B0145E3B197DD3B47808C14">
-        <seccion2Titulo>Las colonias inglesas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_05_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso120&amp;IdRecurso=RES-99924D8BBB8C4F16AEB6C79D8417520C">Diaporama F1-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_05_CO_A2177A283B4248CF8F60A3F6C134E1F3">
-        <seccion2Titulo>Las colonias francesas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_05_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso150&amp;IdRecurso=RES-9767203CE7DC4FFA87D51C1C5D6C8F1D">Recurso F10-02</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_05_CO_img_18_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso180&amp;IdRecurso=RES-3E430BA61AE24F6E97A78CE7F9238187">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_05_CO_77ED3D4000FB4C8FA15196756D0FF1C9">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_05_CO_img_19_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso190&amp;IdRecurso=RES-35C6D19CE88F4FB581C398A55B65D225">Recurso M102AB-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_05_CO_img_20_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso200&amp;IdRecurso=RES-860A006B3A0441CFA749D90990A264F4">Recurso F13-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_07_05_CO_7FEBFB4237234CE2A0C27944AF38F8C0">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso220&amp;IdRecurso=RES-13D6442DB47E47A08C6CD7986CDB44F9">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso230&amp;IdRecurso=RES-C3C470A10FF943A19A5B0133C3CE95E2">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>El colonialismo en América</libroTitulo>
+<seccion1 id="S1_CS_07_05_CO_B6125336601F4F29BFB6CE6B50C7B8F4">
+<seccion1Titulo>Falta Título</seccion1Titulo>
+<seccion1Texto>
+<p>Al emplear la palabra <negrita>“colonia”</negrita>, se suele hablar
+de dos tipos de asentamientos de colonos europeos en territorios por
+fuera de su continente. Así, pues, hasta la primera mitad del siglo
+XVII la forma de colonia más usada fue la <negrita>comercial</negrita
+>. Esta se caracterizaba porque un grupo de colonos se instalaba por
+un tiempo en la costa y toda su actividad se concentraba en las relaciones
+comerciales de compra y venta con el interior de la región. Este era
+el caso de las colonias portuguesas, holandesas, inglesas y francesas
+en <negrita>Asia</negrita>, cuyos comerciantes debían tratar con autoridades
+político-administrativas locales muy poderosas.</p>
+<p>Por su parte, en <negrita>África</negrita> también se establecieron
+este tipo de colonias, pero la razón, en este caso, no era la incapacidad
+ni el poco interés de enfrentar a los poderes locales, sino el temor
+a contraer enfermedades tropicales, que podían ser mortales para los
+foráneos.</p>
+<imagen src="CS_07_05_CO_IMG01_small.jpg">
+<p>Entre los siglos XVI y XVII España y Portugal fueron los grandes
+exploradores de la época y, en esa medida, los que abrieron nuevas
+rutas comerciales a través de los océanos.</p>
+</imagen>
+<p>Ahora bien, en el norte del continente americano el control ya
+no era solo por el comercio, sino por la obtención de ciertos productos
+agrícolas, como el algodón, el tabaco y el azúcar, y para esto las
+compañías inglesas establecieron colonias de plantaciones en aquellos
+lugares en los que vieron que era posible que los europeos se iban
+a poder adaptar, y en los que era viable el comercio, es decir, lugares
+que tuviesen un fácil acceso a las rutas comerciales del Atlántico.
+Esto mismo se dio en algunas islas del Caribe, colonizadas por España,
+Francia o Inglaterra, y en la costa septentrional del Brasil, colonizada
+por los portugueses.</p>
+<p>El segundo tipo de colonia fue la de <negrita>poblamiento</negrita
+>, que se dio en la parte septentrional de Norteamérica (Pensilvania,
+Nueva York, Massachusetts), a donde llegaron familias inglesas con
+el proyecto de afincarse y hacer una vida. Allí construyeron una sociedad
+articulada en la que convivían agricultores, comerciantes y profesionales.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso010&amp;IdRecurso=RES-3AD331BDFC4C4FAFA9921FFA8545AD8A"
+>Un paralelo entre colonias</enlace>
+</profundiza>
+<p>Si bien el primer interés de los conquistadores españoles al llegar
+a los territorios (las islas del Caribe, centro y sur de América)
+fue la <negrita>explotación económica</negrita>  –agrícola y minera–
+de las regiones, con el tiempo la <negrita>colonización comercial</negrita
+> dio paso a la <negrita>colonización de poblamiento</negrita>.</p>
+<p>Durante el transcurso del siglo XVI, las <negrita>metrópolis</negrita
+> que habían conquistado y colonizado América, Asia y África tuvieron
+que establecer estructuras político-administrativas para tener un
+cierto control de aquellos territorios que les proporcionaban tantas
+ganancias.</p>
+<p>Se configuran, pues, diferentes órdenes coloniales, lo cual significa
+distintas formas de organización económica, política, social y cultural,
+según el tipo de colonia y la relación que tenían con la metrópoli.</p>
+<seccion2 id="S2_CS_07_05_CO_24B86D7AC64D402F876C99A5E3423BBG">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+</seccion2Texto></seccion2></seccion1Texto></seccion1><seccion1
+id="S1_CS_07_05_CO_F3414B12780E41C18C1B16AE7D19DA7C">
+<seccion1Titulo>Las colonias de España</seccion1Titulo>
+<seccion1Texto>
+<p>A medida que se fue dando la Conquista, la reina Isabel de Castilla
+y Fernando de Aragón se enfrentaron a la tarea de cómo incorporar
+el <negrita>Nuevo Mundo</negrita> a la civilización ibérica y europea,
+dado que tenía características particulares: una población indígena,
+grandes recursos económicos y una gran extensión territorial.</p>
+<imagen src="CS_07_05_CO_IMG02_small.jpg">
+<p>Rutas comerciales de la América española. La comunicación con las
+Indias españolas se mantuvo, durante el siglo XVI, a través de rutas
+marítimas y terrestres.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso020&amp;IdRecurso=RES-17105D32724E43CFBA90B970E5DCD2C4"
+>El contexto español en los años de la Conquista de América</enlace>
+</profundiza>
+<p>España denominó a sus territorios en América <negrita>“Reinos de
+Indias”</negrita>. Al emplear el sustantivo ‘reino’ la Corona ponía
+a América al mismo nivel de los <negrita>reinos de España</negrita
+>, lo cual significaba, primero, que no se la penaba como un territorio
+extranjero y, en esa medida, sus pobladores eran súbditos de la Corona.
+Segundo, tanto el territorio como sus habitantes estaban bajo el gobierno
+de los reyes de España.</p>
+<p>No obstante lo anterior, en el <negrita>Nuevo Mundo</negrita> los
+españoles establecieron un dominio político y cultural, se apropiaron
+de la economía y de los territorios, fijaron un sinnúmero de impuestos,
+monopolizaron el comercio e implantaron formas de trabajo obligatorio.
+De este modo, la Corona española en los “Reinos de Indias” instituyó
+un régimen colonial.</p>
+<seccion2 id="S2_CS_07_05_CO_9BAFBE8D6E6640E59617D41AEEDFE7BD">
+<seccion2Titulo>Organización social</seccion2Titulo>
+<seccion2Texto>
+<p>La sociedad colonial era una <negrita>sociedad jerarquizada</negrita
+> basada en la idea de la <negrita>limpieza de sangre</negrita>, es
+decir, la cantidad de sangre blanca que tenía un individuo, esto es,
+cuántos ancestros blancos, indígenas, negros, mestizos, zambos, entre
+otros, hubiese en su árbol genealógico, ese sujeto pertenecería a
+una “casta” u a otra <enlace
+destino="http://www.revistas.unal.edu.co/index.php/achsc/article/view/18299/19215"
+> [VER]</enlace>. </p>
+<imagen src="CS_07_05_CO_IMG03_small.jpg">
+<p>(<cursiva>Las castas. De español y mulata: morisca</cursiva>. Óleo
+anónimo del siglo XVIII. Museo Nacional de Historia, Ciudad de México,
+México). Este cuadro forma parte de una colección creada en el virreinato
+de Nueva España, en la cual se identificaban el color de piel, el
+tipo de vestimenta e inclusive la ocupación de cada uno de los grupos
+raciales creados a partir de los procesos de mestizaje.</p>
+</imagen>
+<p>El orden social estaba determinado por una <negrita>idea de blancura</negrita
+>, y a partir de esta se elaboran <negrita>taxonomías</negrita> de
+la población americana, para clasificarla por el color de la piel
+y por sus características étnicas. La pertenencia a una <negrita>“casta”</negrita
+> determinaba en el individuo su valoración social y el tipo de actividad
+o de labor que podía llevar a cabo.</p>
+<listaSinNumerar>
+<listaElemento><negrita>Los españoles</negrita> pertenecían a la población
+blanca originaria de España y, por ende, tenían todos los privilegios
+económicos y políticos, y, en esa medida, podían acceder a los altos
+cargos en la administración colonial.</listaElemento>
+<listaElemento><negrita>Los criollos</negrita> eran los hijos de españoles
+nacidos en América. No tenían los privilegios políticos de los españoles,
+es decir que no podían ocupar altos cargos en la administración colonial.
+Podían tener una muy buena educación y generalmente iban a la universidad,
+lo cual les permitía desempeñarse como abogados o médicos después
+de sus estudios.</listaElemento>
+<listaElemento><negrita>Los mestizos</negrita> eran los hijos de un
+padre o una madre españoles y una madre o un padre indígenas. Este
+grupo fue en aumento por la relación permanente entre españoles e
+indígenas y porque no estaba prohibida la unión ni los matrimonios
+interétnicos. Esta población no tenía ningún tipo de poder político
+y su vida laboral se podía desarrollar en el comercio y la artesanía,
+o en la agricultura y la minería como jornaleros.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_07_05_CO_IMG04_small.jpg">
+<p>(<cursiva>De español y de india, mestiza</cursiva>, Miguel Cabrera.
+Museo de América, Madrid). En este cuadro se puede observar que casi
+siempre los mestizos eran hijos de hombres españoles y mujeres indígenas.</p>
+</imagen>
+<listaSinNumerar>
+<listaElemento><negrita>Los indígenas</negrita> constituían la población
+nativa que había sobrevivido y que había sido forzada a adaptarse
+al nuevo orden, que se traducía en una nueva lengua, una nueva religión,
+nuevas costumbres, nuevas leyes. Entre otras cosas, estaban obligados
+a pagar tributo, a cumplir con el trabajo obligatorio de la mita y
+a formar parte de una encomienda si así lo disponía la Corona. Fueron
+la  Eprincipal mano de obra agrícola y minera entre los siglos XVI
+y XVII.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_07_05_CO_IMG05_small.jpg">
+<p>(<cursiva>Las castas: de indio y tornatrás, lobo</cursiva> (s.
+XVIII), autor anónimo. Museo Nacional de Historia, México D.F.). Durante
+la época colonial, la población indígena perdió la mayor parte de
+sus derechos y pasó a ocupar el lugar más bajo de la escala social. </p>
+</imagen>
+<listaSinNumerar>
+<listaElemento><negrita>Los negros</negrita> formaban la población
+esclava originaria de África, quienes comenzaron a ser traídos a las
+colonias españolas a principios del siglo XVII para trabajar en la
+extracción minera y en las plantaciones e ingenios azucareros <enlace
+destino="http://www.artehistoria.com/v2/contextos/6697.htm"> [VER]</enlace
+>.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_07_05_CO_IMG06_small.jpg">
+<p><cursiva>Recolección de la caña de azúcar en una plantación de
+las Antillas</cursiva> (1823), grabado coloreado de W. Clark. En la
+América colonial, los trabajos agrícolas más duros pasaron a ser realizados
+por esclavos procedentes del continente africano, debido a que la
+mano de obra indígena fue diezmada.</p>
+</imagen>
+<listaSinNumerar>
+<listaElemento><negrita>Los mulatos</negrita> eran los hijos de un
+padre o una madre españoles y una madre o un padre negros. Fueron
+generalmente esclavos y estuvieron segregados, al punto que no podían
+casarse sino entre ellos.</listaElemento>
+<listaElemento><negrita>Morisco</negrita> era el hijo de un padre
+o madre mulatos y un padre o una madre españoles. El color de su piel
+era muy claro y esto hizo que a los españoles les pareciera similar
+al de los moros, por ello el nombre de esta casta.</listaElemento>
+<listaElemento><negrita>Los zambos</negrita> eran los hijos de un
+padre o una madre indígenas y una madre o un padre negros; nacían
+libres, pero eran marginados de la sociedad. Sin embargo, gracias
+a su libertad en las zonas bajas de Ecuador y en la Depresión Momposina,
+en Colombia, los zambos crearon comunidades que se relacionaron con
+otros grupos marginados como ellos: indígenas, negros, mulatos, entre
+otros.</listaElemento>
+</listaSinNumerar>
+<p>La lista de clasificación taxonómica se extiende mucho más, pero
+más importante que esta lista de nombres y particularidades, es conocer
+que la nueva sociedad de la América hispánica surge de un complejo
+proceso de mestizaje<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=10&amp;idpil=VI002114&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<recuerda><recuerdaTexto>
+<p>La idea de la <negrita>limpieza de sangre</negrita> atravesó todas
+las relaciones sociales de la Colonia. Este concepto hace referencia
+a los orígenes de una persona, a quiénes eran sus antepasados, a qué
+“raza” pertenecían. Fue desde este concepto que se reguló la posibilidad
+de acceder a ciertos privilegios. </p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso030&amp;IdRecurso=RES-FC76A397384E457B9B8C127C2B328DC4"
+>La división social en las colonias españolas</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_05_CO_522CB39A35FD400096550F9F128F30B0">
+<seccion2Titulo>Organización económica</seccion2Titulo>
+<seccion2Texto>
+<p>La economía colonial se caracterizó por ser una economía <negrita
+>extractiva de materias primas</negrita>, especialmente mineras, de
+oro y de plata. Paralela a esta se desarrolló la agricultura, la ganadería
+y el comercio. Una economía en la que la Corona tenía el monopolio
+comercial de la producción del tabaco y del azúcar, y prohibió la
+producción de vino y aceite de oliva en las colonias. Una economía
+en la que se estableció un sistema de explotación de la mano de obra
+indígena, a través de la <negrita>encomienda</negrita>, el <negrita
+>repartimiento</negrita> y la <negrita>mita</negrita>, y de la mano
+de <negrita>obra negra esclava</negrita><enlace
+destino="https://sites.google.com/site/260americacolonial/la-economia-colonial/sistemas-de-trabajo-indigena/la-mita"
+> [VER]</enlace>.</p>
+<imagen src="CS_07_05_CO_IMG07_small.jpg">
+<p>Zonas de conquista y explotación en la América colonial. Rutas
+marítimas de las distintas expediciones colonizadoras a lo largo del
+continente americano.</p>
+</imagen>
+<p>Entre los siglos XVI y XVII, la <negrita>encomienda</negrita> reguló
+la fuerza de trabajo y la distribución de la mano de obra indígena.
+En concreto, la encomienda era una institución a través de la cual
+la Corona, a pesar de considerar a los indígenas como sus súbditos
+y, por lo tanto, personas libres, le entregaba a un español cierto
+número de nativos para que aquel se aprovechara de su trabajo y de
+los tributos que debían pagarle. A cambio, el español tenía la obligación
+de garantizar su evangelización.</p>
+<p>Es importante anotar que la encomienda no implicaba la propiedad
+del encomendero sobre los indígenas, así que cuando este moría la
+encomienda regresaba a la Corona, que podía entregarla a un nuevo
+encomendero<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=559903&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_07_05_CO_img_08_small.jpg">
+<p>(<cursiva>La primera misa en América</cursiva> (1805), Ph. Blanchard.
+Museo de Bellas Artes, Dijon, Francia). Tras las campañas de exploración
+y conquista militar, la tarea de evangelización recayó sobre las órdenes
+religiosas.</p>
+</imagen>
+<p>Paralelamente a la encomienda funcionó el sistema del repartimiento,
+cuya finalidad era proveer de mano de obra a las explotaciones agrícolas
+y mineras, pero también para el trabajo en obras públicas. La Corona
+asignaba a cierto número de indígenas, quienes por una paga ínfima
+debían trabajar para un español por una temporada, y después de esta
+regresaban a sus resguardos.</p>
+<p>La <negrita>mita</negrita> fue una institución que los españoles
+adoptaron, puesto que era un sistema que utilizaban ya las comunidades
+indígenas desde antes de su llegada. Esta facilitó que hubiese mano
+de obra que trabajara en las minas. Cada comunidad indígena tenía
+la obligación de asignar a un número de nativos para trabajar durante
+cierto tiempo en aquellas minas que se les asignaran<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=163769&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>A través de estas tres formas de organización y reparto de la mano
+de obra indígena, la <negrita>población nativa</negrita> fue sometida
+a largas y agotadoras jornadas de trabajo, en condiciones inhumanas,
+lo que contribuyó a su mortandad, que ya era elevada por las enfermedades
+traídas por los españoles. Varias regiones comenzaron a verse despobladas
+y carentes de trabajadores agrícolas y mineros.</p>
+<destacado><destacadoTitulo>La mita en la época precolombina</destacadoTitulo>
+<destacadoTexto>
+<p>La palabra <cursiva>mit’a</cursiva> en quechua significa turno,
+semana de trabajo.</p>
+<p>Durante el Imperio inca la construcción de caminos, puentes, templos,
+edificios, entre otros, exigía del trabajo de muchos hombres. La forma
+de contar con la mano de obra necesaria para esas labores fue estableciendo
+turnos de trabajo, a los que estaban obligados todos los varones aptos.</p>
+<p>Los turnos podían durar días o semanas, y en ese tiempo el Imperio
+velaba por el bienestar de aquellos hombres, quienes no recibían ningún
+pago por su trabajo, pues este era su tributo al Imperio.</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso040&amp;IdRecurso=RES-717E9599BE524F59B35507B9C21522E9"
+>Las actividades económicas en la América española</enlace>
+</practica>
+<p>Ante la necesidad de suplir, en parte, la mano de obra indígena
+por otra, la Corona española permitió, a comienzos del siglo XVI,
+la migración de esclavos africanos. El primer gran número de esclavos
+que arribó a América llegó a Santo Domingo para trabajar en la industria
+azucarera, justo en el momento en el que los dominicos, concretamente
+fray Bartolomé de las Casas, denunciaban la explotación de los indígenas<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=61312&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>Además, en el imaginario de los europeos, existía la idea de que
+un hombre negro era capaz de hacer el trabajo de cinco nativos, lo
+cual que con la traída de algunos miles de ellos, la economía en las
+colonias mejoraría sustancialmente, así que nadie se opuso a que se
+trajeran esclavos al Nuevo Mundo.</p>
+<imagen src="CS_07_05_CO_IMG09_small.jpg">
+<p>(<cursiva>Fray Bartolomé de las Casas</cursiva>, Félix Parra. Museo
+Nacional de Arte, México D.F.) Bartolomé de las Casas, junto al también
+dominico Antón de Montesinos, desde sus escritos y su labor pastoral
+defendieron a la población indígena de la explotación y los abusos
+cometidos por los conquistadores. De Las Casas también participó en
+1512 en un debate con el filósofo Ginés de Sepúlveda, en el cual sostuvo
+que los nativos eran seres humanos con la misma dignidad y derechos
+que los europeos, por lo que era ilegítimo someterlos a esclavitud
+y malos tratos.</p>
+</imagen>
+<p>La trata de esclavos llegó a ser un negocio que dejaba tantas ganancias,
+que muchos quisieron participar en él; así que en el siglo XVI portugueses,
+españoles e ingleses dominaron este comercio. Entre 1595 y 1600 los
+barcos esclavistas trajeron a América, de manera legal, cerca de 25
+338 esclavos, y la Corona española durante el siglo XVI concedió 120
+000 licencias más.</p>
+<p>A los esclavos se los destinó como mano de obra para las plantaciones
+de azúcar y algodón, y para el trabajo en las minas. En ambas tareas,
+hombres y mujeres fueron sometidos a largas jornadas de trabajo y
+a castigos severos si no cumplían con su labor y con todo aquello
+que se les mandara.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_07_05_CO_732AB16BE87B4E13BBEFB1A943CB3797">
+<seccion2Titulo>Organización político-administrativa</seccion2Titulo>
+<seccion2Texto>
+<p>La Corona española, al no considerar a las Indias como colonias
+sino como reinos (Reino de Nueva España, Reino del Perú o de Nueva
+Castilla, Nuevo Reino de Granada), reprodujo en el Nuevo Mundo la
+organización político-administrativa de la Península: un conjunto
+de reinos gobernados por un único rey.</p>
+<p>Por otra parte, el papa Alejandro VI firmó en 1493 una bula con
+la que otorgaba a Castilla el gobierno y la jurisdicción de las tierras
+descubiertas, de tal modo que las Indias se convirtieron en propiedad
+personal del rey. Por ello, en la administración territorial del Nuevo
+Mundo, no intervinieron las instituciones o los organismos que ya
+existían en la Península, sino que se hizo a partir de instituciones
+creadas y controladas por el rey. El régimen de gobierno estaba, pues,
+centralizado, y los territorios eran dirigidos y administrados desde
+Castilla.</p>
+<imagen src="CS_07_05_CO_IMG10_small.jpg">
+<p>(Alejandro VI. Detalle de <cursiva>La Virgen de los encomendados</cursiva
+>, Giovanni Antonio de Roma. Museo Diocesano de Arte Sacro, Orte,
+Lacio, Italia). Rodrigo de Borja era el verdadero nombre del Papa
+Alejandro VI. Nacido en la población española de Valencia, apoyó desde
+su cargo la pretensión de los Reyes Católicos para dominar la mayor
+parte del territorio americano.</p>
+</imagen>
+<p>La Corona estableció un <negrita>sistema colonial</negrita> que
+se basaba en el derecho y no en la fuerza, por esta razón se expidieron,
+en diferentes momentos y para casi todo, leyes que legislaron sobre
+cualquier cosa.</p>
+<p>Pese al sinnúmero de normas y de leyes formuladas de manera exclusiva
+para el Nuevo Mundo, estas en muchas oportunidades fueron inoperantes,
+porque los conquistadores tenían prácticamente un único interés: enriquecerse
+rápido, y esto chocaba por completo con los propósitos de la Corona,
+o bien porque los juristas que pensaban y escribían dichas normas
+desconocían absolutamente la realidad de las <negrita>Indias</negrita
+>.</p>
+<p>A causa de esta brecha entre las intenciones de la Corona y la
+realidad que se vivía en los territorios americanos, surgió –y con
+los años creció– la desconfianza, lo cual hizo que progresivamente
+se fueran estableciendo <negrita>organismos político-administrativos</negrita
+> complejos y más centralizados, con el fin de garantizar una administración
+eficiente.</p>
+<seccion3 id="S3_CS_07_05_CO_0B93F82B6CED44CC8E2DB0EA76F16157">
+<seccion3Titulo>Instituciones administrativas con sede en España</seccion3Titulo>
+<seccion3Texto>
+<p><negrita>La Casa de Contratación</negrita></p>
+<p>El 20 de enero de 1503 una real disposición creó la Casa de Contratación
+con sede en Sevilla, con el fin de ocuparse de todos los asuntos comerciales
+del Nuevo Mundo. En 1790 dejó de existir, porque por varios años comenzó
+a actuar a favor de los intereses particulares de los comerciantes
+y no de la Corona<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=553157&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_07_05_CO_IMG11_small.jpg">
+<p>Origen y características de la Casa de Contratación (1503-1790).</p>
+</imagen>
+<p>Sus funciones eran las de organizar, administrar y controlar el
+comercio marítimo y la navegación entre América y España. Esto se
+traducía en:</p>
+<listaSinNumerar>
+<listaElemento>Controlar la migración hacia el Nuevo Mundo.</listaElemento>
+<listaElemento>Tener a su cargo las flotas que se desplazaban entre
+la Península Ibérica y América.</listaElemento>
+<listaElemento>Tener control sobre los tesoros (oro y plata) que llegaban
+de América y descontar el quinto real que le correspondía al rey.</listaElemento>
+<listaElemento>Mantener una escuela náutica con el fin de desarrollar
+una cartografía.</listaElemento>
+</listaSinNumerar>
+<p><negrita>El Consejo de Indias</negrita></p>
+<p>Durante el reinado de Carlos I de España, Carlos V de Alemania
+(1516-1556), se hizo necesaria la creación (1524) de un consejo que
+se ocupara exclusivamente de los asuntos americanos<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=553255&amp;ruta=Buscador"
+> [VER]</enlace>. </p>
+<imagen src="CS_07_05_CO_IMG12_small.jpg">
+<p>Origen y características de la Casa de Contratación (1503-1790).</p>
+</imagen>
+<p>El Consejo de Indias era el principal órgano jurídico, político
+y administrativo de las colonias. Sus funciones eran legislativas,
+administrativas y judiciales, las cuales se concretaban en:</p>
+<listaSinNumerar>
+<listaElemento>Organizar la formación de las audiencias.</listaElemento>
+<listaElemento>Administrar de manera general y particular las colonias.</listaElemento>
+<listaElemento>Ocuparse de la administración eclesiástica, de la defensa
+militar y de la recaudación de impuestos, de la que estaba a cargo
+la Real Hacienda.</listaElemento>
+<listaElemento>Legalizar y autorizar los nombramientos de las autoridades
+en América.</listaElemento>
+<listaElemento>Conceder encomiendas.</listaElemento>
+<listaElemento>Promulgar leyes administrativas.</listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso050&amp;IdRecurso=RES-BE75926E0E424EF6B25FDA1886293772"
+>Las instituciones administrativas en América</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_07_05_CO_0B93F82B6CED44CC8E2DB0EA76F12078">
+<seccion3Titulo>Instituciones administrativas en América</seccion3Titulo>
+<seccion3Texto>
+<p><negrita>De control regional</negrita></p>
+<listaSinNumerar>
+<listaElemento>El <negrita>virreinato</negrita> era una división político-administrativa,
+máxima autoridad en la América hispánica. La cabeza del virreinato
+era el virrey, quien era un hombre de la nobleza española, cercano
+a la Corona y nombrado por el rey. Al comienzo de la Colonia el periodo
+de gobierno de un virrey era hasta el fin de su vida, pero luego este
+mandato se limitó a tres años y más tarde se amplió a cinco. El virrey
+tenía poder sobre los asuntos políticos y administrativos de la región
+que gobernaba. Sus tareas más importantes eran:<listaSinNumerar>
+<listaElemento>Gobernar las provincias donde vivía.</listaElemento>
+<listaElemento>Ser presidente de la audiencia de su distrito y capitán
+general.</listaElemento>
+<listaElemento>Actuar como intermediario entre la Iglesia y la Corona</listaElemento>
+<listaElemento>El virrey no impartía justicia.</listaElemento>
+</listaSinNumerar></listaElemento>
+</listaSinNumerar>
+<imagen src="CS_07_05_CO_IMG13_small.jpg">
+<p>Suramérica inicialmente era un único virreinato, pero con el tiempo
+la Corona española quiso tener más control sobre sus colonias y decidió
+dividir el Virreinato del Perú en tres virreinatos.</p>
+</imagen>
+<p>Entre los siglos XVI y XVII el Nuevo Mundo estuvo dividido en dos
+virreinatos: el <negrita>Virreinato de Nueva España (1535)</negrita
+>, que estaba constituido por toda Centroamérica, excepto Panamá,
+las Antillas, la costa de Venezuela, y las audiencias de Santo Domingo,
+México, Guadalajara y Guatemala; y el <negrita>Virreinato del Perú
+(1543)</negrita>, que abarcaba toda Suramérica, Panamá y las audiencias
+de Buenos Aires, Charcas (Alto Perú), Lima, Santa Fe de Bogotá y Chile.</p>
+<p>En el siglo XVIII el Virreinato del Perú fue dividido en tres:
+el <negrita>Virreinato de Nueva Granada (1717)</negrita>, disuelto
+en 1724 y nuevamente creado en 1738. Estaba formado por las audiencias
+de Santa Fe de Bogotá, Venezuela, Quito y Panamá. El <negrita>Virreinato
+del Río de la Plata (1776)</negrita>, que reunió las audiencias de
+Charcas (Alto Perú) y Buenos Aires. El <negrita>Virreinato del Perú</negrita
+>, constituido por las audiencias de Lima y Chile<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=10&amp;idpil=VI002106&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>Real Audiencia</negrita> era un órgano
+judicial, el máximo tribunal encargado de legislar, administrar y
+aplicar justicia. La formaba un presidente y cierto número de oidores,
+según la importancia del territorio. Sus funciones eran:<listaSinNumerar>
+<listaElemento>Ejercer como organismo consultor y fiscalizador de
+los gobernadores y virreyes.</listaElemento>
+<listaElemento>Procesar y juzgar disputas.</listaElemento>
+<listaElemento>Examinar atentamente el presupuesto y la gestión de
+los funcionarios de las ciudades.</listaElemento>
+<listaElemento>Velar porque se aplicaran las leyes que protegían a
+la población indígena.</listaElemento>
+</listaSinNumerar>En el siglo XVI se crearon las Reales Audiencias
+de Santo Domingo (1526), México (1527), Panamá (1538), Guatemala (1543),
+Lima (1543), Guadalajara (1548), Santa Fe de Bogotá (1548), Charcas
+(1559), Quito (1563) y la de Concepción (1565 hasta 1575). En el siglo
+XVII las de Santiago (1605) y Buenos Aires (1661 hasta 1671). En el
+siglo XVIII se reinstaló la Real Audiencia de Buenos Aires (1783)
+y se formaron las audiencias de Caracas (1786) y de Cuzco (1787).<listaSinNumerar>
+<listaElemento>Las <negrita>visitas</negrita> y los <negrita>juicios
+de residencia</negrita> fueron mecanismos impuestos por la Corona
+para controlar, juzgar y castigar, si era necesario, el desempeño
+administrativo de los funcionarios reales en las colonias. Gracias
+a estos mecanismos disminuyeron los abusos de autoridad y el incumplimiento
+de las normas.</listaElemento>
+</listaSinNumerar></listaElemento>
+</listaSinNumerar>
+<p><negrita>De control local</negrita></p>
+<listaSinNumerar>
+<listaElemento>Las <negrita>gobernaciones</negrita> eran instituciones
+político-administrativas que dependían de las Audiencias. Estaban
+a cargo de un gobernador nombrado por el rey por un periodo que iba
+entre los 3 y los 8 años. Un gobernador tenía poderes administrativos,
+judiciales y militares, y su labor era administrar una provincia.</listaElemento>
+<listaElemento>El <negrita>cabildo</negrita> era la unidad básica
+del gobierno local; gobernaba una ciudad. Estaba formado por un grupo
+de corregidores, que eran funcionarios con atribuciones administrativas
+y judiciales, y por dos alcaldes, quienes eran personas que residían
+en la ciudad y se las elegía para un periodo de un año. Las funciones
+del cabildo eran:<listaSinNumerar>
+<listaElemento>Administrar la ciudad.</listaElemento>
+<listaElemento>Dictar ordenanzas para el buen funcionamiento de la
+ciudad.</listaElemento>
+<listaElemento>Listar los precios fijos de los alimentos y de los
+productos básicos.</listaElemento>
+<listaElemento>Controlar el comercio.</listaElemento>
+<listaElemento>Velar por el aseo y la salubridad de la ciudad.</listaElemento>
+</listaSinNumerar></listaElemento>
+<listaElemento>Los <negrita>corregidores</negrita> estaban encargados
+de administrar las zonas rurales, de velar por el bienestar de la
+población indígena y de evitar los abusos de los encomenderos.</listaElemento>
+<listaElemento>Las <negrita>intendencias</negrita> eran jurisdicciones
+territoriales creadas en el siglo XVIII con el fin de centralizar
+aún más las facultades gubernativas en las colonias. Con esa medida
+complementaron las funciones de los virreyes.</listaElemento>
+<listaElemento>Las <negrita>capitanías generales</negrita> eran territorios
+gobernados por un capitán general, que era nombrado directamente por
+el rey, pero dependía del virrey más inmediato. Estos territorios
+necesitaban del gobierno de un militar, porque eran regiones en donde
+había sido muy difícil someter a la población indígena por su beligerancia
+(Chile), o porque eran territorios víctimas de constantes ataques
+de piratas, como lo fueron La Habana, Venezuela y Guatemala.</listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso060&amp;IdRecurso=RES-D873502211EA485B9BBFE74E9E7FDAFC"
+>La progresiva organización política en América</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_05_CO_24B86D7AC64D402F876C99A5E3424EEF">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso070&amp;IdRecurso=RES-86FB47E8CED1458A8E500FB4D30C5016"
+>Refuerza tu aprendizaje: Las colonias de España</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_05_CO_C8FEA926AF984201B1651AE8719CCD14">
+<seccion1Titulo>El colonialismo de otras potencias europeas</seccion1Titulo>
+<seccion1Texto>
+<p>Si bien hasta el siglo XVI España tuvo el dominio de gran parte
+del continente americano, durante el siglo XVII la derrota de la Armada
+Invencible a manos de los ingleses (1588) y el modo como se resolvió
+la guerra de los Treinta Años (1618-1648, que en el caso de Francia
+y España se prolongó hasta 1659) para la Corona española, fueron causas
+para que otros reinos europeos comenzaran a tener dominio sobre algunas
+regiones del Nuevo Mundo<enlace
+destino="http://www.nationalgeographic.com.es/articulo/historia/grandes_reportajes/7643/armada_invencible.html"
+> [VER]</enlace>.</p>
+<imagen src="CS_07_05_CO_IMG14_small.jpg">
+<p>Página del tratado de paz de Westfalia, que puso fin a la guerra
+de los Treinta Años, 1648.</p>
+</imagen>
+<seccion2 id="S2_CS_07_05_CO_66A1901F43D34BB1B5529339334EE813">
+<seccion2Titulo>Las colonias portuguesas</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<imagen src="CS_07_05_CO_IMG15_small.jpg">
+<p>Carta del Atlas (1563) de Lázaro Luis (Academia de las Ciencias,
+Lisboa, Portugal), que identifica el territorio brasileño con el árbol
+que daba un tinte rojizo (palo brasil), objeto de la incipiente explotación
+colonial y que daría nombre al país.</p>
+</imagen>
+<p>El 7 de junio de 1494 representantes de los reyes de España, <negrita
+>Isabel y Fernando</negrita>, y del rey de Portugal, <negrita>Juan
+II</negrita>, firmaron un compromiso en la localidad de <negrita>Tordesillas</negrita
+>, en el que se estableció el reparto de las zonas de navegación y
+de conquista del océano Atlántico y del Nuevo Mundo. Sin saberlo aún,
+esa línea le iba permitir a Portugal poseer tierras en una parte de
+Suramérica. </p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso080&amp;IdRecurso=RES-CEDE1932080C4089AACD639E834531D9"
+>El Imperio Portugués en el siglo XVI</enlace>
+</profundiza>
+<p>Una vez los viajes fueron dando más información sobre las tierras
+descubiertas, en 1500 Juan II envió al navegante <negrita>Álvarez
+de Cabral</negrita> a tomar posesión de las costas brasileñas en nombre
+de la Corona. No obstante, durante cinco años estas tierras solo representaron
+una reserva maderera para Portugal.</p>
+<p>El desinterés y la ausencia de asentamientos portugueses dejaron
+la puerta abierta para que <negrita>expediciones francesas</negrita
+>, <negrita>españolas</negrita> y <negrita>holandesas</negrita> llegaran
+a las costas brasileñas en busca de cargamentos de madera; incluso
+instalaron pequeñas factorías con ese propósito. Dichas incursiones
+llevaron finalmente a que la Corona portuguesa tomara posesión de
+aquellas tierras, para tener el control del comercio que de sus recursos
+se hiciera<enlace
+destino="http://www.artehistoria.com/v2/contextos/6214.htm"> [VER]</enlace
+>.</p>
+<imagen src="CS_07_05_CO_IMG16_small.jpg">
+<p>Las conquistas portuguesas en América. Españoles y portugueses
+se repartieron el Nuevo Mundo por medio del tratado de Tordesillas,
+que fijaba los límites de la expansión portuguesa 370 leguas al oeste
+de Cabo Verde, lo que permitió la penetración lusa en América del
+Sur.</p>
+</imagen>
+<seccion3 id="S3_CS_07_05_CO_0B93F82B6CED44CC8E2DB0EA76F18379">
+<seccion3Titulo>Organización político-administrativa</seccion3Titulo>
+<seccion3Texto>
+<p>En 1530, la Corona portuguesa promovió que hombres solventes fueran
+a colonizar las tierras de Brasil. Con tal fin, el rey Juan II concedió
+fragmentos del territorio a los interesados (<negrita>capitán o donatario</negrita
+>). De esta manera surgieron las <negrita>capitanías</negrita>, la
+primera forma de organización político-administrativa de la colonia
+portuguesa en América.</p>
+<imagen src="CS_07_05_CO_IMG17_small.jpg">
+<p>Asentamientos coloniales portugueses en el siglo XVI. El dominio
+de las rutas comerciales mediante establecimientos fortificados y
+factorías costeras hizo de Portugal una de las grandes potencias coloniales
+a lo largo del siglo XVI y buena parte del siglo XVII.</p>
+</imagen>
+<p>El capitán recibía la capitanía como propiedad personal y hereditaria
+con varias condiciones: primero, todos los costos y los riesgos de
+fundar una capitanía los debía asumir él mismo; segundo, tenía que
+entregarle a la Corona un porcentaje de la producción de la capitanía,
+y tercero, se comprometía a que la capitanía se poblara con colonos
+cristianos.</p>
+<p>Diez años después, en 1548, el rey decidió limitar la autoridad
+de los capitanes y para ello centralizó el poder, dándole forma a
+un gobierno común a cargo de un <negrita>gobernador general</negrita
+>, quien no gobernaba solo, le apoyaban un <negrita>oidor general</negrita
+>, que tenía funciones judiciales; un <negrita>capitán mayor</negrita
+>, quien se ocupaba de los asuntos militares, y un <negrita>proveedor
+mayor</negrita>, quien tenía las tareas de organizar el comercio,
+instalar aduanas en los puertos y recaudar los impuestos que iban
+directamente a la Corona.</p>
+<p>El gobernador general fue la máxima autoridad en la Colonia y,
+por tanto, limitó los poderes judiciales, políticos y militares de
+los capitanes, pero no así sus derechos económicos. En 1640, copiando
+el modelo político administrativo de España, el rey portugués creó
+el cargo de <negrita>virrey</negrita>, quien estuvo por encima del
+gobernador general.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso090&amp;IdRecurso=RES-B79D275275E84667AE6BB8431754C5D9"
+>Descifra los conceptos sobre las prácticas colonizadoras de España
+y Portugal</enlace>
+</practica>
+<imagen src="CS_07_05_CO_IMG18_small.jpg">
+<p>Mapa de América del Sur, detalle de la zona de Brasil y Amazonia
+(siglo XVII), de Willem Janszoon Blaeu (Museo Naval, Rotterdam, Países
+Bajos). Los exploradores europeos levantaron diferentes mapas del
+continente americano, gracias a los cuales obtuvieron conocimientos
+privilegiados de las costas americanas. Cada país poseía sus propios
+mapas y mantenía sus conocimientos geográficos en secreto.</p>
+</imagen>
+<p>A mediados del siglo XVIII, las capitanías adoptaron el nombre
+de provincias y el máximo poder en ellas lo ejercía un gobernador.
+Las provincias se dividieron en localidades y su gobierno estuvo bajo
+la responsabilidad de una <negrita>cámara municipal</negrita>, formada
+por dos jueces y varios <negrita>vereadores</negrita>, quienes eran
+elegidos por los hombres importantes de la localidad.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_05_CO_18E38E72B14A45FCBF4822C11C22878B">
+<seccion3Titulo>Organización económica</seccion3Titulo>
+<seccion3Texto>
+<p>La vida económica de Brasil durante la Colonia pasó por tres momentos.</p>
+<listaSinNumerar>
+<listaElemento>Desde 1500 hasta 1530, la actividad económica se reducía
+a la explotación maderera.</listaElemento>
+<listaElemento>En 1532, los portugueses introdujeron en Brasil el
+cultivo de la <negrita>caña de azúcar</negrita>, una planta originaria
+de la India, pero que ellos traían de Nueva Guinea, que se adaptó
+fácil en los lugares donde fue cultivada. La mano de obra que trabajaba
+en la <negrita>zafra</negrita> (cosecha de la caña y fabricación del
+azúcar) era la población indígena, a la cual se esclavizaba.</listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>Origen de la caña de azúcar</destacadoTitulo>
+<destacadoTexto>
+<p>La caña de azúcar es originaria de la India, concretamente de Bengala,
+y la primera noticia que tuvo Occidente sobre ella fue a través de
+uno de los hombres de <negrita>Alejandro Magno</negrita>, quien en
+el 340 a. C. la conoció en uno de sus viajes. Así que cuando los portugueses
+llevaron la planta a Brasil, esta ya se cultivaba en África y en las
+islas Canarias (España) y Azores (Portugal).</p>
+</destacadoTexto></destacado>
+<imagen src="CS_07_05_CO_IMG19_small.jpg">
+<p>Plantación de caña de azúcar cerca de Assis (Sao Paulo, Brasil).</p>
+</imagen>
+<p>A finales del siglo XVI la demanda de <negrita>azúcar</negrita
+> creció en Europa y en América, por lo que Brasil entre 1570 y 1680
+se convirtió en el mayor productor de azúcar del mundo. En este tiempo
+la mano de obra indígena se fue mermando y fue reemplazada por <negrita
+>esclavos africanos</negrita>.</p>
+<p>La Corona portuguesa no monopolizó el comercio del azúcar, por
+el contrario, era libre; pero sí aplicó el <negrita>quinto real</negrita
+> sobre la producción, es decir, que el dueño de un ingenio debía
+entregar a la Corona la quinta parte de su producción de azúcar.</p>
+<p>Después de 1680 se desplomó el precio del azúcar a causa de la
+sobreproducción, puesto que en las <negrita>Antillas</negrita> se
+habían ampliado los cultivos y había más y más ingenios para  transformar
+la caña de azúcar<enlace
+destino="http://www.revistacritica.com.ar/38/38historia.html"> [VER]</enlace
+>.</p>
+<listaSinNumerar>
+<listaElemento>Una vez terminó la bonanza azucarera en Brasil, los
+portugueses impulsaron la <negrita>explotación minera</negrita>, concretamente
+del <negrita>oro</negrita> y más tarde de <negrita>diamantes</negrita
+>. La actividad minera contribuyó a que los colonos buscaran nuevas
+regiones dónde hallar nuevos yacimientos, y a que aumentara la importación
+de población negra esclava proveniente de África.</listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso100&amp;IdRecurso=RES-102E3EF090184507861E8FA9B39372DC"
+>Las potencias coloniales en América</enlace>
+</practica>
+<imagen src="CS_07_05_CO_IMG20_small.jpg">
+<p>Obtención de diamantes, grabado del siglo XIX (Biblioteca Nacional
+Marciana, Venecia, Italia). Grandes cuadrillas, formadas por decenas
+o cientos de esclavos, explotaban las vetas o los depósitos aluviales
+de diamantes en Brasil. Las duras condiciones de trabajo producían
+frecuentes muertes en estas cuadrillas, contribuyendo al aumento la
+importación de esclavos.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_05_CO_03000A84F956414D98091022989CD5E0">
+<seccion3Titulo>Organización social</seccion3Titulo>
+<seccion3Texto>
+<listaSinNumerar>
+<listaElemento>El número de <negrita>población blanca portuguesa</negrita
+> residente en Brasil era significativamente mayor a la población
+indígena y negra. Ocupaban los cargos políticos y militares, eran
+los dueños de las grandes plantaciones azucareras y al mismo tiempo
+los grandes comerciantes (importadores y exportadores).<br/>Ahora
+bien, en un número inferior, había blancos que tan solo eran pequeños
+agricultores o artesanos.</listaElemento>
+<listaElemento>Los <negrita>mamelucos o mestizos</negrita> estaban
+protegidos por las leyes, y al no ser despreciados por la sociedad
+pudieron ascender social y económicamente.</listaElemento>
+<listaElemento>La legislación portuguesa, propiamente, no consideraba
+esclavos a la <negrita>población indígena</negrita>, salvo si esta,
+en cualquier circunstancia, oponía resistencia al dominio portugués.
+Esto lo aprovecharon las bandas de colonos para capturar indígenas
+y esclavizarlos. Los indígenas trabajaban en las plantaciones, en
+las minas y en el servicio doméstico.</listaElemento>
+<listaElemento>La <negrita>población negra</negrita> era en su gran
+mayoría esclava y trabajaba en las plantaciones y en las minas de
+oro. En el siglo XVII fue tal la cantidad de esclavos que fueron llevados
+al Brasil, que este grupo superó a la población indígena.</listaElemento>
+<listaElemento>La Corona prohibió las uniones entre blancos y negros,
+sin embargo, estas se dieron y de ellas surgieron los <negrita>mulatos</negrita
+>, quienes eran libres, pero les era imposible ascender en la escala
+social.</listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso110&amp;IdRecurso=RES-5AD39C16FE1D44A6B9A35CD08B104986"
+>Las clases sociales en Brasil </enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_05_CO_31C4CD426B0145E3B197DD3B47808C14">
+<seccion2Titulo>Las colonias inglesas</seccion2Titulo>
+<seccion2Texto>
+<p>Entre 1607 y 1732 se establecieron, en la costa atlántica de Norteamérica,
+trece colonias. Las razones por las que llegaron colonos ingleses
+allí fueron varias: encontrar un lugar donde fueran libres para profesar
+su religión, hallar un territorio donde pudiesen, con el tiempo, tener
+mejores condiciones socioeconómicas, o simplemente con el interés
+de abrir nuevos espacios comerciales.</p>
+<p>La Corona inglesa entregó la tarea de la colonización a compañías
+comerciales (la London and Virginia Company y la Plymouth), las que
+a través de folletos difundieron los beneficios económicos que obtendrían
+todos los que migraran a América<enlace
+destino="https://elnacimientodeclio.wordpress.com/2013/04/27/sociedad-y-economia-en-las-13-colonias-inglesas-de-norteamerica/"
+> [VER]</enlace>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso120&amp;IdRecurso=RES-99924D8BBB8C4F16AEB6C79D8417520C"
+>Inglaterra en el siglo XVI</enlace>
+</practica>
+<p>Hacia la mitad del siglo XVII los primeros asentamientos ingleses
+en el nuevo continente estaban allí gracias a grupos de accionistas,
+quienes se ocupaban de proporcionar el dinero y los colonos que iban
+a ocupar las nuevas tierras. En esa medida esas compañías designaban
+al gobernador y decidían la forma de organización de la nueva colonia.</p>
+<imagen src="CS_07_05_CO_IMG21_small.jpg">
+<p>Evolución de la conquista de América del Norte y América Central.
+Los virreinatos eran unidades político-administrativas creadas por
+la Corona española para asegurar el control de las colonias americanas.</p>
+</imagen>
+<p>En ese proceso de colonización también hubo propietarios individuales,
+quienes tuvieron control sobre Maryland, Pennsylvania, Carolina del
+Norte, Carolina del Sur y Georgia.</p>
+<destacado><destacadoTitulo>Las compañías comerciales inglesas</destacadoTitulo>
+<destacadoTexto>
+<p>Cuando los ingleses se plantearon la posibilidad de colonizar el
+norte de América, lo primero que hicieron fue crear compañías que
+se dedicaran a ello, es decir, que promovieran la emigración y se
+ocuparan de llevar al Nuevo Mundo a aquellas familias o individuos
+que querían escapar de la persecución religiosa o del hambre.</p>
+<p>Estas compañías (London and Virginia Company, Plymouth, entre otras
+muchas) no dependían de la Corona inglesa y eran libres de llevar
+a todo aquel que se aventurara a llegar a América. La Corona les otorgaba
+el monopolio de la colonización de regiones delimitadas previamente
+y el derecho de organizar a los colonos y a las regiones como consideran.</p>
+</destacadoTexto></destacado><seccion3
+id="S3_CS_07_05_CO_03000A84F956414D98091022989CE6D1">
+<seccion3Titulo>Organización político-administrativa</seccion3Titulo>
+<seccion3Texto>
+<p>Desde la fundación de las Trece Colonias hasta el fin de la época
+colonial, cada una de ellas tuvo su propio gobierno, el cual variaba
+de una colonia a otra. A pesar de sus diferencias, en ellas prevalecieron
+ciertas características comunes:</p>
+<listaSinNumerar>
+<listaElemento>No tenían enlaces políticos formales entre una colonia
+y otra.</listaElemento>
+<listaElemento>Cada una tenía un vínculo jurídico directamente con
+el gobierno británico en Londres.</listaElemento>
+<listaElemento>Las colonias eran libres para crear sus propias leyes,
+siempre y cuando no estuvieran en contra de las leyes inglesas.</listaElemento>
+<listaElemento>No obstante lo anterior, en cada colonia el gobierno
+local y los asuntos cotidianos de la colonia estaban en manos de sus
+propios habitantes. Esto es, que si bien las colonias dependían de
+manera formal de Gran Bretaña, prácticamente disfrutaban de un grado
+importante de independencia.</listaElemento>
+<listaElemento>La autonomía y la participación cívica fueron elementos
+básicos de la vida colonial de las Trece Colonias inglesas.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_07_05_CO_IMG22_small.jpg">
+<p>Los primeros migrantes ingleses que llegaron al norte de América
+se establecieron en la costa Atlántica, porque allí no había colonias
+españolas.</p>
+</imagen>
+<p>El control político de la Corona inglesa sobre las colonias fue
+siempre muy débil, porque nunca hubo una única estructura de gobierno.
+El gobierno particular de cada colonia estaba a cargo de un <negrita
+>gobernador</negrita>, una <negrita>asamblea local</negrita> y un <negrita
+>consejo</negrita>. </p>
+<p>El gobernador era la base legal de la autoridad en la colonia y
+constituyó el poder ejecutivo de esta. En él descansaba el poder absoluto
+de veto sobre la función legislativa de las asambleas.</p>
+<p>Muchos de los gobernadores eran nombrados por la Corona británica,
+pero ellos, como los demás gobernadores, debían administrar con una
+asamblea formada por los hombres más notables de la colonia, quienes
+eran <negrita>elegidos</negrita> por los colonos a través de un sufragio
+restringido a los hombres que fuesen terratenientes, quienes no eran
+pocos.</p>
+<p>El gobernador contaba con la asistencia de un consejo, que tenía
+las tareas de una corte de justicia.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso130&amp;IdRecurso=RES-A866C99A88014A2C854957E94875D762"
+>La administración inglesa</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_07_05_CO_03000A84F956414D98091022989CC8A4">
+<seccion3Titulo>Organización económica</seccion3Titulo>
+<seccion3Texto>
+<p>El desarrollo económico de las colonias fue desigual, pues dependió
+de las posibilidades que cada región brindaba. Algunas colonias, como
+Nueva Inglaterra, se dedicaron al <negrita>comercio de pieles</negrita
+>, <negrita>pescado</negrita> y <negrita>madera</negrita>, mientras
+otras, como Virginia, Maryland y Carolina del Norte promovieron el <negrita
+>cultivo y comercialización del tabaco</negrita>, y Carolina del Sur,
+además de tabaco, el cultivo de arroz.</p>
+<p>Por otra parte, los colonos llevaron consigo vegetales que tradicionalmente
+cultivaban en su terruño: trigo, cebada, centeno, avena, frutas y
+hortalizas. Al conocer el maíz también comenzaron a incluirlo en su
+dieta y a cultivarlo. La producción agrícola se hacía, en general,
+en pequeñas o medianas propiedades, y quienes se ocupaban de todo
+el proceso agrícola eran las mismas familias dueñas de las tierras,
+aunque a veces su trabajo lo apoyaban algunos jornaleros blancos.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_05_CO_03000A84F956414D98091022989CF5B7">
+<seccion3Titulo>Organización social</seccion3Titulo><?Pub Caret 0?>
+<seccion3Texto>
+<p>Los primeros grupos que migraron hacia la costa Atlántica de Norteamérica
+eran familias completas que buscaban oportunidades de vida en el Nuevo
+Mundo (libertad y bienestar económico). Muchos de ellos eran <negrita
+>protestantes</negrita> o estaban influenciados por los valores de
+esta religión, así que concebían al trabajo y al esfuerzo como formas
+para obtener la salvación de Dios. Por esto los colonos ingleses no
+buscaron esclavizar a los indígenas para convertirlos en mano de obra,
+y tampoco les interesaba que estos les pagaran tributos, puesto que
+ellos, los colonos, debían vivir de su propio esfuerzo y no de otros.</p>
+<p>Los <negrita>puritanos</negrita>, por ejemplo, se establecieron
+en su mayoría en las costas de Massachusetts, y ellos pensaban que
+fueron elegidos por Dios para llegar allí y crear una sociedad modelo
+para refundar el mundo. Algo que solo se podía hacer practicando una
+vida de trabajo, honesta y próspera.</p>
+<p>Los colonos tampoco estuvieron interesados en formar parejas con
+los indígenas, por ello no hubo mestizaje en esa época. Los inmigrantes
+ingleses rechazaban a la población nativa y por esto no hubo ningún
+intento por asimilarlos a su cultura, ni de convertirlos a su religión.
+A medida que fueron despojados de sus tierras y de sus medios de subsistencia,
+se les negó poderse integrar a la fuerza laboral blanca<enlace
+destino="http://www.artehistoria.com/v2/contextos/1585.htm"> [VER]</enlace
+>.</p>
+<imagen src="CS_07_05_CO_IMG23_small.jpg">
+<p>La colonización inglesa tenía poco en común con la española. Mientras
+los ingleses querían comenzar una vida en las nuevas tierras, para
+los españoles el propósito fundamental era enriquecerse en la empresa.</p>
+</imagen>
+<p>La sociedad blanca no estaba constituida únicamente por los colonos
+de origen inglés, también los había de <negrita>Holanda</negrita>, <negrita
+>Suecia</negrita>, <negrita>Alemania</negrita> y <negrita>Francia</negrita
+>, entre otros países europeos. La razón de esto es que en 1685 hubo
+una masiva inmigración hacia América, concretamente a Pensilvania;
+su fundador, William Penn, permitió la acogida de <negrita>protestantes
+franceses</negrita>, de menonitas</p>
+<p>, <negrita>anabaptistas</negrita> y <negrita>moravos</negrita>,
+procedentes de Suiza, Alemania y Holanda. Para esa misma época también
+migraron familias desde <negrita>Escocia e Irlanda</negrita>.</p>
+<p>Los <negrita>esclavos negros</negrita> también se convirtieron,
+a la fuerza, en un grupo grande de inmigrantes en Norteamérica. Estos
+buscaban trabajar en las plantaciones coloniales.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso140&amp;IdRecurso=RES-8647778248FB44F0AB3AB6E1DB99947D"
+>Conoce algunoz rasgos de la sociedad inglesa en América</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_05_CO_A2177A283B4248CF8F60A3F6C134E1F3">
+<seccion2Titulo>Las colonias francesas</seccion2Titulo>
+<seccion2Texto>
+<p>La colonización francesa no se destacó por ser una migración fuerte
+como la inglesa. Las tierras de las que había tomado posesión en nombre
+de la Corona francesa eran tierras frías y escarpadas, y en ellas
+vivían tribus indígenas que tuvieron que enfrentar. Por otra parte,
+quienes posiblemente hubiesen estado interesados en migrar eran los
+protestantes franceses (hugonotes), pero explícitamente la Corona
+francesa prohibió su migración, porque se quería que en aquellas tierras
+predominaran los católicos<enlace
+destino="http://www.iglesiapueblonuevo.es/index.php?codigo=historiap158"
+> [VER]</enlace>.</p>
+<recuerda><recuerdaTexto>
+<p>Hugonote es el nombre con el que los católicos denominaron a los
+franceses que siguieron las doctrinas protestantes calvinistas<enlace
+destino="http://co.tuhistory.com/hoy-en-la-historia/ocurrio-matanza-de-la-noche-de-san-bartolome"
+> [VER]</enlace>.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso150&amp;IdRecurso=RES-9767203CE7DC4FFA87D51C1C5D6C8F1D"
+>La Francia hugonota</enlace>
+</practica><seccion3
+id="S3_CS_07_05_CO_03000A84F956414D98091022989CH4F7">
+<seccion3Titulo>Organización político-administrativa</seccion3Titulo>
+<seccion3Texto>
+<p>La organización política de las colonias francesas al comienzo
+fue muy similar a las inglesas, es decir, autónoma. Pero durante el
+reinado de Luis XIV, su ministro de hacienda, Jean-Baptiste Colbert,
+no aceptó reconocer prerrogativas a favor de las colonias en América,
+una de ellas, la creación de asambleas populares<enlace
+destino="http://www.biografiasyvidas.com/biografia/c/colbert.htm"
+> [VER]</enlace>.</p>
+<p>Colbert trabajó por darle a las colonias normas permanentes para
+organizarlas político-administrativamente; al poco tiempo Canadá fue
+convertida en una provincia de Francia bajo el mandato de un gobernador
+general, quien estaba subordinado al rey y representaba el poder ejecutivo.</p>
+<imagen src="CS_07_05_CO_IMG24_small.jpg">
+<p>Jean-Baptiste Colbert, retrato de la escuela de Philippe de Champaigne,
+s. XVII (Museo de Saint Denis, Reims, Francia).</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso160&amp;IdRecurso=RES-932533B60DEB48A2B24D9ED93E6C910F"
+>La colonización francesa en América</enlace>
+</practica>
+<p>Una vez centralizado el gobierno, el territorio fue dividido en <negrita
+>distritos judiciales</negrita> y en <negrita>señoríos</negrita> o
+estados, pequeños territorios que se entregaban en concesión a nobles
+franceses (concesionarios). A su vez, los señoríos se dividieron en <negrita
+>parroquias</negrita>, cuyas autoridades eran o un <negrita>cura</negrita
+> o un <negrita>capitán de milicias</negrita>. Estas autoridades se
+encargaron de reducir al mínimo la libertad y la “democracia” en las
+colonias francesas.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_05_CO_0B93F82B6CED44CC8E2DB0EA76F13245">
+<seccion3Titulo>Organización económica</seccion3Titulo>
+<seccion3Texto>
+<p>En 1588, la Corona francesa concedió el primer <negrita>monopolio
+comercial</negrita> de las pieles en las colonias para así despertar
+el interés de los comerciantes. Comenzó de este modo la lucha por
+el control del comercio de este producto.</p>
+<p>La <negrita>explotación de maderas y de pieles valiosas</negrita
+> contribuyó con el mercantilismo francés del siglo XVII.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso170&amp;IdRecurso=RES-B32C11B416D84B4CB604C663A21FA575"
+>Los recursos económicos en las colonias francesas</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_07_05_CO_0B93F82B6CED44CC8E2DB0EA76F17406">
+<seccion3Titulo>Organización social</seccion3Titulo>
+<seccion3Texto>
+<p>Pese a los esfuerzos de la Corona porque las compañías impulsaran
+la <negrita>migración de colonos</negrita> a Norteamérica, esta fue
+muy escasa. Una de las razones era que el interés de las compañías
+se centraba en el <negrita>comercio de pieles</negrita>, algo que
+para los campesinos y artesanos franceses era ajeno y no les interesaba
+como para aventurarse y marchar a Canadá.</p>
+<p>Por otra parte, a los <negrita>protestantes</negrita>, quienes
+sí estaban interesados en dejar Francia para vivir en un lugar donde
+fuese posible la tolerancia religiosa, la Corona se los había prohibido.</p>
+<p>No obstante, cuando la <negrita>Nueva Francia</negrita> pasó a
+depender directamente de la Corona, convirtiéndose en una provincia
+de Francia (1663), la población comenzó a crecer, así que a principios
+de la década de los setenta del siglo XVII ya había unos tres mil
+quinientos habitantes blancos en Canadá.</p>
+<p>Este crecimiento se dio gracias a que hubo un cambio en la economía,
+a la cual se buscó diversificar con el fin de que fuera atractiva
+para un número mayor de franceses, entre ellos los <negrita>agricultores</negrita
+>. De tal modo que se planteó la <negrita>entrega de tierras</negrita
+> a soldados que se hubiesen pensionado, y con ellas la donación de
+semillas, herramientas y suministros para tal labor. La Corona también
+buscó motivar a mujeres jóvenes francesas que quisieran casarse con
+franceses radicados en Canadá, para esto se les ofrecía viajar gratuitamente
+y cierta cantidad de dinero a manera de una subvención.</p>
+<imagen src="CS_07_05_CO_IMG25_small.jpg">
+<p>Los hugonotes se interesaron en establecer colonias en el Nuevo
+Mundo porque en Francia eran perseguidos por sus creencias religiosas,
+así que vieron en América un espacio ideal para vivir con tranquilidad.</p>
+</imagen>
+<p>Ahora bien, la organización de esta pequeña sociedad era igualmente
+piramidal, como lo era en la América hispánica.</p>
+<p>La Corona francesa concedió tierras, monopolios comerciales y privilegios
+a nobles y a compañías comerciales vinculadas a ella. En cuanto a
+la población indígena, esta no era importante para los franceses como
+no lo era para los ingleses, así que no fueron evangelizados porque
+no tenían ningún interés en que adoptaran la cultura francesa.</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_05_CO_24B86D7AC64D402F876C99A5E3426FCA">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso180&amp;IdRecurso=RES-3E430BA61AE24F6E97A78CE7F9238187"
+>Refuerza tu aprendizaje: El colonialismo de otras potencias europeas</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_05_CO_77ED3D4000FB4C8FA15196756D0FF1C9">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso190&amp;IdRecurso=RES-35C6D19CE88F4FB581C398A55B65D225"
+>Competencias: escribe un texto argumentativo acerca del colonialismo
+en América</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso200&amp;IdRecurso=RES-860A006B3A0441CFA749D90990A264F4"
+>Proyecto: Fray Bartolomé de las Casas y la esclavitud</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_07_05_CO_7FEBFB4237234CE2A0C27944AF38F8C0"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso220&amp;IdRecurso=RES-13D6442DB47E47A08C6CD7986CDB44F9"
+>Mapa conceptual de tema El colonialismo en América</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso230&amp;IdRecurso=RES-C3C470A10FF943A19A5B0133C3CE95E2"
+>Evalúa tus conocimientos sobre el tema El colonialismo en América</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://www.rtve.es/alacarta/videos/historia-de-america-latina/historia-america-latina-colonizacion-nueva-sociedad/1804551/"
+>Web 01</enlace>
+<enlace destino="http://adhilac.com.ar/?p=2138">Web 02</enlace>
+<enlace destino="http://www.artehistoria.com/v2/contextos/1586.htm"
+>Web 03</enlace>
+<enlace
+destino="http://www.panoramas.pitt.edu/content/sobre-la-historia-de-la-ca%C3%B1a-de-az%C3%BAcar-la-esclavitud-y-la-pobreza-del-trabajador-agr%C3%ADcola-la"
+>Web 04</enlace>
+<enlace destino="http://www.artehistoria.com/v2/contextos/1637.htm"
+>Web 05</enlace>
+<enlace destino="http://www.um.es/acehum/reflex_1.htm">Web 06</enlace>
+<enlace
+destino="http://www.researchgate.net/publication/265550781_Las_Trece_Colonias_de_Norteamrica_Una_Aproximacin_Histrica_al_Proceso_de_Desarrollo_Econmico_(The_XIII_American_Colonies__A_Historical_Approach_to_the_Process_of_Economic_Development)"
+>Web 07</enlace>
+</enlacesreferencia></masinformacion></libro>
