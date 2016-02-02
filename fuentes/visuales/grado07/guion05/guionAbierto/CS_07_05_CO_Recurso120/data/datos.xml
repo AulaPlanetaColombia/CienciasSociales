@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f7"><main layout="8">
+<title>Inglaterra en el siglo XVI</title>
+<footer>    </footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="true">
+<menuImage path="00090S01.jpg" border="1">
+<title><![CDATA[Enrique VIII]]></title>
+</menuImage>
+<submenu>
+<main layout="0">
+<title>          Consolidación del poder monárquico</title>
+<footer>          Parlamento, nobleza e iglesia en consonancia con el monarca</footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="true">
+<menuImage path="0007QZ01.jpg" border="1">
+<title><![CDATA[Castillo de Windsor y Capilla de San Jorge]]></title>
+</menuImage>
+<submenu>
+<main layout="0">
+<title></title>
+<footer></footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[]]></title>
+</menuImage>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="" border="0">
+<title><![CDATA[]]></title>
+</menuImage>
+</section></sections>
+</submenu>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="00083H01.jpg" border="1">
+<title><![CDATA[Sir Walter Raleigh]]></title>
+</menuImage>
+</section></sections>
+</submenu>
+</section><section i="0" star="false" hasSubsections="true">
+<menuImage path="0005VV01.jpg" border="1">
+<title><![CDATA[Isabel I ]]></title>
+</menuImage>
+<submenu>
+<main layout="0">
+<title>          Afianza el poder real por medio de la pirateria</title>
+<footer>          Apoya las artes, como la literatura y el teatro</footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="false">
+<menuImage path="000I1B01.jpg" border="0">
+<title><![CDATA[Sir Francis Drake]]></title>
+</menuImage>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="0007JK01.jpg" border="0">
+<title><![CDATA[William Shakespeare]]></title>
+</menuImage>
+</section></sections>
+</submenu>
+</section><section i="0" star="false" hasSubsections="true">
+<menuImage path="00074K01.jpg" border="1">
+<title><![CDATA[William Penn]]></title>
+</menuImage>
+<submenu>
+<main layout="0">
+<title>          Colonización de la costa oriental de Norteamérica</title>
+<footer>          Tierra de promisión para los exiliados religiosos</footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="false">
+<menuImage path="000A8701.jpg" border="0">
+<title><![CDATA[]]></title>
+</menuImage>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="000L5T01.jpg" border="0">
+<title><![CDATA[]]></title>
+</menuImage>
+</section></sections>
+</submenu>
+</section></sections>
+</engine>

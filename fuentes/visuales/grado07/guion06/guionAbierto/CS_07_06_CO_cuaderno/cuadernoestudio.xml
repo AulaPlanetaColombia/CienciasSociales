@@ -2,7 +2,6 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="CS_07_06_CO">
 <libroTitulo>La Colonia en la Nueva Granada</libroTitulo>
 <seccion1 id="S1_CS_07_06_CO_B054BBABC28C4E24A5BBFDC75D39E62A">
@@ -1310,7 +1309,7 @@ destino="http://www.banrepcultural.org/blaavirtual/todaslasartes/ext/ext9.htm"
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_06_CO_Recurso150&amp;IdRecurso=RES-EEFC393D39AE4F33915B5CEA64CF4FF8"
->Recurso F4-01</enlace>
+>El arte en la Nueva Granada</enlace>
 </profundiza><seccion2
 id="S2_CS_07_06_CO_76915F054C864388BD5A77FBE4A7F782">
 <seccion2Titulo>Arquitectura</seccion2Titulo>
@@ -1582,6 +1581,7 @@ en el Nuevo Mundo esas influenciencias llegan a las nuevas edificaciones
 conventuales […]”. Vallín,  Rodolfo. (2001). <cursiva>Los retablos
 de la Nueva Granada</cursiva>. Actas III Congreso Internacional del
 Barroco Americano: territorio, arte, espacio y sociedad.</p>
+</destacadoTexto></destacado>
 <imagen src="CS_07_06_CO_IMG41_small.jpg">
 <p>La Iglesia y el convento de las monjas clarisas se construyeron
 en 1647. En 1983 se convirtió un museo de arte colonial que conserva
@@ -1591,45 +1591,98 @@ del siglo XVII y XVIII.</p>
 <imagen src="CS_07_06_CO_IMG42_small.jpg">
 <p>Retablo triptico de la Inmaculada, Museo de Arte Colonial de Bogotá</p>
 </imagen>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_06_CO_Recurso160&amp;IdRecurso=RES-3FFCC2181C1A464E8E8A95DCB8669566"
 >Conoce la pintura, la escultura y la arquitectura en el Nuevo Reino
 de Granada</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_07_06_CO_img_17_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-</seccion3Texto></seccion3></seccion2Texto></seccion2></seccion1Texto>
-</seccion1><seccion1
-id="S1_CS_07_06_CO_066A435F312B4344AA7C87E5E4E9A7A5">
-<seccion1Titulo>     </seccion1Titulo>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_06_CO_76915F054C864388BD5A77FBE4A7C893">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_06_CO_Recurso170&amp;IdRecurso=RES-195048F512EC47D19DAA8D2806888F5A"
+>Refuerza tu aprendizaje: El arte colonial</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_06_CO_066A435F312B4344AA7C87E5E4E9A7A5">
+<seccion1Titulo>Competencias</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_07_06_CO_img_18_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_06_CO_Recurso180&amp;IdRecurso=RES-429F5DCFCFEC44FCBEF833179F877477"
->Recurso M102AB-01</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_07_06_CO_img_19_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<practica>
+>Competencias: análisis del arte barroco neogranadino</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_06_CO_Recurso190&amp;IdRecurso=RES-9FF78D1453D34653AB4439CC42CD4444"
->Recurso F13-01</enlace>
+>Proyecto: estudio de la condición de la mujer en el Nuevo Reino de
+Granada</enlace>
 </practica></seccion1Texto></seccion1><masinformacion
 id="MI_CS_07_06_CO_5E94963AFB9248019C0C1759A374FA70"><mapaconceptual>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_06_CO_Recurso210&amp;IdRecurso=RES-134CFFE3E9F2441A9888E8F67BB936FC"
->Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+>Mapa conceptual del tema</enlace></mapaconceptual><autoevaluate>
+<enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_06_CO_Recurso220&amp;IdRecurso=RES-59E209CF49434A37BE6C001ADFF7D62A"
->Evaluación</enlace></autoevaluate><enlacesreferencia>
-<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+>Evalúa tus conocimientos sobre el tema La Colonia en la Nueva Granada</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://dialnet.unirioja.es/servlet/articulo?codigo=2180581"
+>Las divisiones político administrativas del virreinato de la Nueva
+Granada a finales del periodo colonial.</enlace>
+<enlace
+destino="http://www.bdigital.unal.edu.co/23367/1/20243-68212-1-PB.pdf"
+>Castas y conflictos en la provincia de cartagena del Nuevo Reino
+de Granada a finales del siglo XVII.</enlace>
+<enlace
+destino="http://www.bdigital.unal.edu.co/30733/1/29622-106389-1-PB.pdf"
+>Las comunidades de indigenas y la legislacion segregacionista en
+el Nuevo Reino de Granada.</enlace>
+<enlace
+destino="http://historiacritica.uniandes.edu.co/view.php/706/index.php?id=706"
+>Encomienda, mujeres y patriarcalismo difuso: las encomenderas de
+Santafé y Tunja (1564-1636).</enlace>
+<enlace
+destino="http://www.javeriana.edu.co/Facultades/C_Sociales/memoria/MEMORIA20/LOPEZ.pdf"
+>Las conyugicidas de la Nueva Granada: trasgresión de un viejo ideal
+de mujer.</enlace>
+<enlace
+destino="http://dialnet.unirioja.es/servlet/articulo?codigo=2186459"
+>Castigo y orden social en la América Latina colonial. El Nuevo Reino
+de Granada: un esbozo preliminar.</enlace>
+<enlace
+destino="http://revistas.uptc.edu.co/revistas/index.php/historia_educacion_latinamerican/article/view/2538/2434"
+>La educación colonial en la Nueva Granada, entre lo doméstico y lo
+público.</enlace>
+<enlace
+destino="http://www.bdigital.unal.edu.co/30741/1/29631-106424-1-PB.pdf"
+>Hacia una valoracion de la arquitectura Colonial colombiana.</enlace>
+<enlace
+destino="http://www.scielo.org.co/scielo.php?pid=S0121-16172004000100015&amp;script=sci_arttext"
+>Los pueblos de indios vinculados con las políticas de separación
+residencial en el Nuevo Reino de Granada.</enlace>
+<enlace
+destino="http://www.banrepcultural.org/blaavirtual/todaslasartes/ext/ext13.htm"
+>El espíritu barroco en el arte colonial.</enlace>
+<enlace destino="https://www.youtube.com/watch?v=lPLG7kjcmVA">Mestizo,
+barroco americano. Documental.</enlace>
+<enlace
+destino="http://www.ugr.es/~histarte/investigacion/grupo/proyecto/TEXTO/lupe1.pdf"
+>La presencia del mudéjar en las iglesias doctrineras del Nuevo Reino
+de Granada.</enlace>
+<enlace
+destino="http://www.banrepcultural.org/coleccion-de-arte-banco-de-la-republica/artista/gregorio-v%C3%A1zquez-de-arce-y-ceballos"
+>Gregorio Vázquez de Arce y Ceballos. Colección de Arte, Banco de
+la República.</enlace>
+<enlace
+destino="https://www.academia.edu/8753115/El_retablo_escult%C3%B3rico_del_siglo_XVII_en_la_Nueva_Granada_Colombia_._Aproximaci%C3%B3n_a_las_obras_modelos_y_art%C3%ADfices"
+>El retablo escultórico del siglo XVII en la Nueva Granada (Colombia).
+Aproximación a las obras, modelos y artífices. En,<cursiva> La consolidación
+del barroco en la escultura andaluza e hispanoamericana</cursiva>.</enlace><?Pub
+Caret 55?>
+<enlace
+destino="http://www.banrepcultural.org/blaavirtual/revistas/credencial-historia-no-309/entre-tiendas-y-conciertos"
+>Entre tiendas y conciertos. Las artes y los oficios en la cultura
+colonial.</enlace>
 </enlacesreferencia></masinformacion></libro>
