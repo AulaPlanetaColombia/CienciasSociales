@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f4">
+<main title="El proyecto modernizador de la sociedad colombiana " path="" buttonsHeight="86">
+<info path="">
+<text><![CDATA[<p style="text-align:center"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong><span style="color:#FFA500">Colombia en la segunda mitad del siglo XIX</span></strong></span></span></p>
+
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">En el territorio que actualmente es Colombia, hacia la <strong>segunda mitad del siglo XIX</strong> los habitantes apenas comenzaban a organizarse como una sociedad independiente. Despu&eacute;s de liberarse del dominio espa&ntilde;ol, surgieron disputas entre las diferentes &eacute;lites regionales en torno a cu&aacute;l ser&iacute;a el mejor proyecto para organizar la naciente rep&uacute;blica.</span></span></p>
+
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&iquest;C&oacute;mo deb&iacute;a ser la econom&iacute;a para que satisfaciera las necesidades materiales de la poblaci&oacute;n? &iquest;Cu&aacute;l ser&iacute;a el mejor sistema de gobierno para asegurar la construcci&oacute;n de leyes que mantuvieran la paz? &iquest;Cu&aacute;les ser&iacute;an los conocimientos para educar a las nuevas generaciones? En s&iacute;ntesis, &iquest;cu&aacute;l era el proyecto de sociedad colombiana y el tipo de gobierno que se requer&iacute;a?</span></span></p>
+
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Sin duda, ten&iacute;a que ser un <strong>proyecto modernizador</strong>.</span></span></p>
+]]></text>
+</info>
+</main>
+<questions respCorrecta="Respuesta correcta." respIncorrecta="Respuesta incorrecta.">
+<question title="¿Cuál fue el núcleo del proyecto económico liberal?" path="">
+<answers>
+<answer correct="1">
+<text><![CDATA[El libre comercio ]]></text>
+<explanation width="394"><![CDATA[<p>El liberalismo elimin&oacute; barreras comerciales (aranceles e impuestos). Adem&aacute;s, construy&oacute; infraestructura para el traslado de las mercanc&iacute;as (puertos y ferrocarriles).&nbsp;</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[El proteccionismo]]></text>
+<explanation width="394"><![CDATA[<p>Por el contrario, para los liberales el proteccionismo era un obst&aacute;culo que imped&iacute;a que el pa&iacute;s se articulara con la econom&iacute;a mundial.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[La industria]]></text>
+<explanation width="394"><![CDATA[<p>Los intereses de industriales y artesanos&nbsp;se perjudicaron con la f&aacute;cil importaci&oacute;n de productos a un menor precio.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[<p>Hacia 1850, se evidenciaron las dificultades econ&oacute;micas heredadas del r&eacute;gimen colonial. A esto se sum&oacute; el inter&eacute;s de los comerciantes y los terratenientes de articularse con la econom&iacute;a mundial.Tambi&eacute;n, se hizo fuerte la influencia de las ideas liberales europeas, en un momento en que los liberales fueron exclu&iacute;dos del gobierno por parte de los conservadores.</p>
+
+<p>Esto llev&oacute; a que, durante la segunda mitad del siglo XIX, diferentes grupos sociales presionaran por un <strong>cambio radical en la estructura social</strong>.</p>
+
+<p>Las reformas estuvieron a cargo del <strong>Partido Liberal</strong>. Este asumi&oacute; la defensa una serie de <strong>libertades individuales</strong> que entonces no exist&iacute;an:</p>
+
+<ul>
+	<li>Libertad de propiedad.</li>
+	<li>Libertad de comercio.</li>
+	<li>Libertad de pensamiento y de expresi&oacute;n pol&iacute;tica.</li>
+	<li>Libertad de cultos. &nbsp;</li>
+</ul>
+
+<p>Esto implic&oacute; cambios en cuanto a la propiedad de la tierra y a las relaciones entre la Iglesia y el Estado.</p>
+]]></text>
+</info>
+</question>
+<question title="¿Cuáles sectores sociales se beneficiaron con las reformas económicas liberales?" path="">
+<answers>
+<answer correct="1">
+<text><![CDATA[Comerciantes y terratenientes]]></text>
+<explanation width="394"><![CDATA[<p>El libre&nbsp;comercio abri&oacute;&nbsp;posibilidades de enriquecimiento para quienes pod&iacute;an producir y exportar materias primas.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Campesinos e indígenas]]></text>
+<explanation width="394"><![CDATA[<p>Los ind&iacute;genas perdieron la propiedad comunal de sus tierras y la ley les prohibi&oacute; a los campesinos producir con autonom&iacute;a. &nbsp;</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Mujeres y niños]]></text>
+<explanation width="394"><![CDATA[<p>Las mujeres continuaron ocupando un lugar secundario. No se contemplaron derechos para los ni&ntilde;os.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[<p>El estado cr&iacute;tico de la econom&iacute;a llev&oacute; a pensar que el desarrollo econ&oacute;mico del pa&iacute;s deb&iacute;a ligarse al <strong>comercio internacional</strong>.</p>
+
+<p>Dado que el punto fuerte del pa&iacute;s estaba en <strong>la producci&oacute;n y exportaci&oacute;n de bienes agr&iacute;colas y mineros</strong>, se fortalecieron las capacidades de los propietarios de territorios que pod&iacute;an cumplir con esta demanda.&nbsp;</p>
+
+<p>Asimismo, se desmontaron los impuestos al monopolio del tabaco y del aguardiente, y se impuls&oacute; su privatizaci&oacute;n para orientarlos hacia el mercado externo.</p>
+]]></text>
+</info>
+</question>
+<question title="¿Cómo afectaron las reformas liberales a los grupos indígenas?" path="">
+<answers>
+<answer correct="0">
+<text><![CDATA[Democratizaron la propiedad sobre la tierra]]></text>
+<explanation width="394"><![CDATA[<p>Por el contrario, las reformas liberales impulsaron un&nbsp;grado mayor de desigualdad social para los grupos ind&iacute;genas.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Mantuvieron las condiciones de la Colonia]]></text>
+<explanation width="394"><![CDATA[<p>No fue as&iacute;, pero se desmejoraron las condiciones de vida de los grupos ind&iacute;genas y se perjudicaron sus intereses.</p>
+]]></explanation>
+</answer>
+<answer correct="1">
+<text><![CDATA[Sus tierras pasaron a otras pocas manos]]></text>
+<explanation width="394"><![CDATA[<p>La eliminaci&oacute;n de los resguardos signific&oacute; la p&eacute;rdida de la propiedad colectiva sobre las tierras; estas pasaron al libre mercado y fueron compradas por terratenientes.&nbsp;</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[<p>Los <strong>ind&iacute;genas</strong> fueron considerados formalmente <strong>ciudadanos&nbsp;con igualdad de derechos</strong>. Por ello, se pretendi&oacute; desintegrar&nbsp;progresivamente&nbsp;las comunidades ind&iacute;genas para&nbsp;incorporar a sus miembros en el proyecto de naci&oacute;n.</p>
+
+<p>Si bien la <strong>Constituci&oacute;n de C&uacute;cuta de 1821</strong> aboli&oacute; el pago del tributo personal y el servicio personal obligatorio por parte de los ind&iacute;genas, mediante las leyes y reformas se&nbsp;<strong>dividieron los resguardos</strong>, que eran las&nbsp;tierras ind&iacute;genas de propiedad colectiva. Esto con la idea de que los resguardos eran rezagos de las instituciones coloniales.</p>
+
+<p>La parcelaci&oacute;n de estas tierras y la extinci&oacute;n de los cabildos que las administraban favoreci&oacute; el inter&eacute;s de los <strong>hacendados y pol&iacute;ticos</strong>. Estos, mediante la promulgaci&oacute;n de leyes, se apropiaron&nbsp;de ellas.</p>
+
+<p>No obstante, varias comunidades se resistieron y llegaron a amenazar&nbsp;la estabilidad de la fr&aacute;gil institucionalidad republicana. Tal fue el caso de Riohacha, Cartagena, Choc&oacute;, Pasto, T&uacute;querres y Neiva, en donde se suspendi&oacute; el reparto de resguardos.</p>
+]]></text>
+</info>
+</question>
+<question title="¿Cuál fue el propósito económico de abolir la forma de trabajo esclava?" path="">
+<answers>
+<answer correct="0">
+<text><![CDATA[Cumplir el principio liberal de la igualdad  ]]></text>
+<explanation width="394"><![CDATA[<p>La igualdad no hace parte de los intereses econ&oacute;micos.</p>
+]]></explanation>
+</answer>
+<answer correct="1">
+<text><![CDATA[El crecimiento de producción agrícola con mano de obra libre]]></text>
+<explanation width="394"><![CDATA[<p>Al convertir a los esclavizados en hombres de libre contrataci&oacute;n, se favorecieron las actividades comerciales y los ingresos de los terratenientes.&nbsp;</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Mejorar las condiciones de vida de los esclavos]]></text>
+<explanation width="394"><![CDATA[<p>Con su liberaci&oacute;n, las personas esclavizadas tuvieron que incorporarse a&nbsp;las haciendas como peones agr&iacute;colas, para sobrevivir. Muchas veces, tuvieron peores condiciones que durante la esclavitud.&nbsp;</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[<p>Desde el fin del r&eacute;gimen colonial, en 1819, los miembros del proyecto independentista liberal incumplieron permanentemente la promesa hecha a las <strong>comunidades negras</strong> de decretar su <strong>libertad</strong>, a cambio de su apoyo.</p>
+
+<p>La respuesta de las comunidades negras fue el &ldquo;<strong>cimarronaje</strong>&rdquo;, o escape hacia territorios alejados, en donde fundaron pueblos libres. Este fen&oacute;meno prolifer&oacute; a mediados del siglo XIX. Adem&aacute;s, el naciente <strong>imperio ingl&eacute;s</strong> presion&oacute; constantemente a los pa&iacute;ses latinoamericanos para que abolieran la <strong>esclavitud</strong>, lo cual favorec&iacute;a sus intereses econ&oacute;micos.</p>
+
+<p>Con el ascenso del liberalismo al poder, influenciado por las ideas pol&iacute;ticas de la Revoluci&oacute;n francesa, los sectores populares le reclamaron a la &eacute;lite la <strong>abolici&oacute;n</strong> de la esclavitud.</p>
+
+<p>Durante las fiestas nacionales y regionales, los liberales organizaron algunas liberaciones. Con la llegada a la presidencia de Jos&eacute; Hilario L&oacute;pez (1850), y la presi&oacute;n de las comunidades esclavizadas, del Congreso y de la prensa, finalmente se decret&oacute; la <strong>abolici&oacute;n absoluta</strong> mediante la <strong>Ley de Manumisi&oacute;n, el 21 de julio de 1851</strong>.</p>
+
+<p>Se trabaj&oacute; la f&oacute;rmula de &ldquo;ser justo con los esclavizados, sin dejar de serlo con los esclavistas&rdquo;. Esto signific&oacute; la abolici&oacute;n con <strong>indemnizaci&oacute;n</strong>, pues el Estado les garantiz&oacute; a los esclavistas el pago de los 16 000 esclavizados que ser&iacute;an liberados.</p>
+]]></text>
+</info>
+</question>
+<question title="¿Cuál fue la tendencia política que impuso el liberalismo de mediados del siglo XIX?" path="">
+<answers>
+<answer correct="0">
+<text><![CDATA[Centralismo]]></text>
+<explanation width="394"><![CDATA[<p>El Partido Liberal desconfiaba de un poder centralizado debido al riesgo de que las regiones perdieran autonom&iacute;a.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Monarquía]]></text>
+<explanation width="394"><![CDATA[<p>Las ideas pol&iacute;ticas liberales negaban la autoridad hereditaria de&nbsp;un rey.&nbsp;</p>
+]]></explanation>
+</answer>
+<answer correct="1">
+<text><![CDATA[Federalismo]]></text>
+<explanation width="394"><![CDATA[<p>Para los liberales, una organizaci&oacute;n descentralizada favorec&iacute;a la autonom&iacute;a de las regiones y evitaba la concentraci&oacute;n del poder.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[<p><strong>Francisco de Paula Santander</strong> puede considerarse el fundador de la tradici&oacute;n federalista en Colombia. El <strong>santanderismo</strong> fue&nbsp;la&nbsp;base sobre la cual se edific&oacute;&nbsp;el&nbsp;<strong>Partido Liberal</strong> durante el siglo XIX.</p>
+
+<p>El <strong>federalismo</strong> es una&nbsp;tendencia pol&iacute;tica orientada a organizar el Estado sobre la base de los principios del <strong>autogobierno</strong>, la <strong>autonom&iacute;a</strong> y una amplia <strong>descentralizaci&oacute;n administrativa</strong>, en oposici&oacute;n al Estado unitario centralizador.</p>
+
+<p>A pesar de que se encuentran ejemplos de federalismo en el mundo antiguo, el federalismo pol&iacute;tico moderno naci&oacute; en el siglo XVIII, con la teor&iacute;a del desarrollo de cuerpos intermedios entre el individuo y el Estado. No obstante, se consolid&oacute; sobre todo en el siglo XIX, durante el proceso hist&oacute;rico de la <strong>formaci&oacute;n de las nuevas unidades pol&iacute;ticas</strong>, de m&aacute;s amplio espectro, en las cuales era necesario mantener e integrar las particularidades de los distintos grupos humanos que decid&iacute;an pactar una <strong>federaci&oacute;n</strong>.&nbsp;</p>
+]]></text>
+</info>
+</question>
+<question title="¿Cuál rama del poder político se fortaleció gracias a las reformas liberales?" path="">
+<answers>
+<answer correct="1">
+<text><![CDATA[Legislativa]]></text>
+<explanation width="394"><![CDATA[<p>Un Congreso fuerte era la garant&iacute;a de que todas las regiones tuvieran voz y voto en las decisiones pol&iacute;ticas del Estado federativo.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Ejecutiva]]></text>
+<explanation width="394"><![CDATA[<p>Con un presidente demasiado fuerte se corr&iacute;an los riesgos de que surgieran caudillos y se impusieran decisiones negativas para algunas regiones.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Judicial]]></text>
+<explanation width="394"><![CDATA[<p>El fortalecimiento del sistema de administraci&oacute;n de justicia no fue preocupaci&oacute;n ni inter&eacute;s de liberales o conservadores.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[<p>El proceso hacia el <strong>federalismo</strong>, basado esencialmente en un <strong>sistema de pactos</strong> (<em>foedus</em>) entre diferentes naciones, estados o regiones, sigui&oacute; dos caminos opuestos pero convergentes:</p>
+
+<ul>
+	<li>Uno <strong>centr&iacute;peto y unificador</strong> de las entidades pol&iacute;ticas ya existentes. Este tender&iacute;a a alcanzar una federaci&oacute;n universal, basada en el libre pacto entre los pueblos, que conservar&iacute;an su propia identidad.</li>
+	<li>Otro <strong>centr&iacute;fugo o descentralizador</strong> de una unidad pol&iacute;tica unitaria, que se transformar&iacute;a en una federaci&oacute;n de entidades pol&iacute;ticas menores. Este intentar&iacute;a restablecer la identidad perdida de algunos grupos humanos por la imposici&oacute;n de un Estado no democr&aacute;tico.</li>
+</ul>
+
+<p>Precisamente, el papel del <strong>Congreso de la Rep&uacute;blica</strong> era fundamental en el logro descentralizador dentro del modelo federalista para garantizar la <strong>participaci&oacute;n</strong> de todas las regiones, sin que se perdiera la <strong>identidad nacional</strong>.</p>
+]]></text>
+</info>
+</question>
+<question title="¿Cuál fue el tipo de conocimiento promovido por las reformas liberales?" path="">
+<answers>
+<answer correct="0">
+<text><![CDATA[La religión ]]></text>
+<explanation width="394"><![CDATA[<p>Por el contrario, los liberales desconfiaban de la fe; privilegiaron el conocimiento racional.</p>
+]]></explanation>
+</answer>
+<answer correct="1">
+<text><![CDATA[La ciencia]]></text>
+<explanation width="394"><![CDATA[<p>Los saberes cient&iacute;ficos desarrollados en Europa y Estados Unidos fueron el modelo para las reformas liberales.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[El mito]]></text>
+<explanation width="394"><![CDATA[<p>Las formas de saber m&iacute;ticas, propias de las comunidades ancestrales americanas, fueron asumidas por los liberales como conocimientos supersticiosos y carentes de validez.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[<p>La <strong>idea social modernizadora</strong> a nivel <strong>cultural</strong> de los liberales a mitad del siglo XIX, se fundament&oacute; en una educaci&oacute;n basada en la <strong>ciencia</strong>.</p>
+
+<p>Esto implic&oacute; la <strong>desvalorizaci&oacute;n de otras formas de conocimiento</strong>, como las de la religi&oacute;n y las de las comunidades ancestrales que habitaban desde antes el territorio.</p>
+
+<p>As&iacute; las cosas, los conocimientos sobre la naturaleza, la&nbsp;medicina, el arte y la espiritualidad, que hab&iacute;an sido transmitidos oralmente durante milenios, fueron vistos como anecd&oacute;ticos, superficiales, folcl&oacute;ricos, mitol&oacute;gicos y&nbsp;precient&iacute;ficos. En s&iacute;ntesis, <strong>pertenecientes al pasado</strong> y, por consiguiente, irreconciliables con un proyecto moderno de sociedad.</p>
+
+<p>Para los liberales, solo era v&aacute;lido el tipo de conocimiento que se ajustaba a la forma de pensar impuesta desde <strong>Europa</strong> como el camino hacia el <strong>progreso</strong>: la ciencia.</p>
+
+<p>No obstante, con el tiempo las transformaciones producidas por la ciencia han&nbsp;dejado ver sus consecuencias negativas, especialmente en el &aacute;mbito ambiental. De ah&iacute; que hoy en d&iacute;a, en pleno siglo XXI, se est&eacute;n retomando las formas de pensar ancestrales como fuente de inspiraci&oacute;n para la ciencia.&nbsp;</p>
+]]></text>
+</info>
+</question>
+<question title="¿Cuál institución cultural fue estimulada y protegida por los gobiernos liberales?" path="">
+<answers>
+<answer correct="1">
+<text><![CDATA[La prensa ]]></text>
+<explanation width="394"><![CDATA[<p>Mediante la difusi&oacute;n de peri&oacute;dicos y revistas, los liberales promovieron sus ideas y&nbsp;fortalecieron&nbsp;su proyecto modernizador.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[La religión ]]></text>
+<explanation width="394"><![CDATA[<p>Por el contrario, los liberales apoyaron la separaci&oacute;n entre la Iglesia y el Estado.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[El deporte ]]></text>
+<explanation width="394"><![CDATA[<p>El deporte se consolid&oacute; como instituci&oacute;n cultural en Colombia hasta llegado el siglo XX.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[<p>El inicio del rol de la <strong>prensa </strong>en Colombia como principal <strong>medio de comunicaci&oacute;n</strong>&nbsp;est&aacute; relacionado&nbsp;estrechamente con la pol&iacute;tica.</p>
+
+<p>Los <strong>primeros peri&oacute;dicos</strong> fueron fundados por pol&iacute;ticos de mediados del siglo XIX, que vieron en este medio una forma m&aacute;s segura de <strong>expresar masivamente</strong> sus opiniones pol&iacute;ticas.</p>
+
+<p>En 1848, el pol&iacute;tico liberal&nbsp;<strong>Manuel Anc&iacute;zar </strong>abri&oacute; una&nbsp;<strong>imprenta </strong>que llam&oacute; &quot;El neogranadino&quot;. Esta contaba con&nbsp;m&aacute;quinas modernas y un equipo de impresores, dibujantes, pintores y lit&oacute;grafos, lo cual revolucion&oacute; el periodismo y la literatura en Colombia.</p>
+
+<p>As&iacute;, los personajes determinantes de la vida nacional buscaron en la prensa un medio de expresi&oacute;n para la organizaci&oacute;n del nuevo Estado.</p>
+
+<p>Cada personaje publicaba sus ideas en el peri&oacute;dico m&aacute;s cercano a su pensamiento pol&iacute;tico. De esta forma, la <strong>libertad de prensa</strong>&nbsp;empez&oacute; a ser&nbsp;respetada y la <strong>libertad de expresi&oacute;n</strong> fue considerada un valor de la vida nacional.</p>
+]]></text>
+</info>
+</question>
+<question title="¿Qué técnicas modernas de comunicación y transporte fueron introducidas por los gobiernos liberales?" path="">
+<answers>
+<answer correct="0">
+<text><![CDATA[Radio, flota mercante y ciclorrutas]]></text>
+<explanation width="394"><![CDATA[<p>La radio, la flota mercante y las ciclorrutas fueron desarrolladas en Colombia durante el siglo XX.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Teléfono, servicio postal  y tren]]></text>
+<explanation width="394"><![CDATA[<p>Solo hasta 1885 se activ&oacute; el servicio de tel&eacute;fono en Bogot&aacute;. Por su parte, el correo ya exist&iacute;a desde la &eacute;poca de la Colonia.</p>
+]]></explanation>
+</answer>
+<answer correct="1">
+<text><![CDATA[Telégrafo, navegación y ferrocarril]]></text>
+<explanation width="394"><![CDATA[<p>Los barcos de vapor del r&iacute;o Magdalena, los ferrocarriles que un&iacute;an las haciendas con los puertos y el cable del tel&eacute;grafo fueron cruciales&nbsp;para el desarrollo del proyecto liberal durante la segunda mitad del siglo XIX.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[<p>Durante los 260 a&ntilde;os del r&eacute;gimen&nbsp;colonial y a lo largo de 55 a&ntilde;os de r&eacute;gimen republicano, <strong>enviar un mensaje</strong> desde Bogot&aacute; hasta Cartagena demoraba, en promedio, 15 d&iacute;as; desde Colombia hasta&nbsp;Estados Unidos, 8&nbsp;d&iacute;as; y desde Colombia hasta Europa, 15 d&iacute;as.</p>
+
+<p>En <strong>1865</strong>, despu&eacute;s de 20 a&ntilde;os de la primera transmisi&oacute;n de Samuel Morse, el 1 de noviembre se transmiti&oacute; por primera vez en Colombia un <strong>telegrama</strong>.</p>
+
+<p>Los obst&aacute;culos no fueron solo <strong>t&eacute;cnicos</strong>, sino tambi&eacute;n de <strong>orden cultural</strong>. El <strong>tel&eacute;grafo </strong>fue visto con desconfianza por varios miembros de la poblaci&oacute;n, quienes v&iacute;ctimas del aislamiento mundial no estaban al tanto de las <strong>tecnolog&iacute;as modernas</strong>. Muchos pensaban que los <strong>env&iacute;os instant&aacute;neos&nbsp;de mensajes a grandes distancias</strong> ocurr&iacute;an por intervenci&oacute;n diab&oacute;lica.</p>
+
+<p>Por ello, el gobierno y la Iglesia emprendieron <strong>campa&ntilde;as para educar</strong> a la poblaci&oacute;n sobre las ventajas que obtendr&iacute;an del tel&eacute;grafo.&nbsp;Poco a poco, la poblaci&oacute;n apreci&oacute; su valor en la industria y el comercio, la comunicaci&oacute;n, la guerra, y diversas necesidades familiares y personales.&nbsp;</p>
+]]></text>
+</info>
+</question>
+<question title="¿Qué pretendieron los liberales con las reformas religiosas?  " path="">
+<answers>
+<answer correct="1">
+<text><![CDATA[Quitarle poder a la Iglesia ]]></text>
+<explanation width="394"><![CDATA[<p>Al no permitirle intervenir en los asuntos del Estado, la Iglesia perdi&oacute; sus tierras y&nbsp;la potestad&nbsp;para cobrar impuestos y para manejar&nbsp;la educaci&oacute;n.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Proteger los intereses de la Iglesia]]></text>
+<explanation width="394"><![CDATA[<p>Al decretar la libertad de cultos, los liberales le quitaron a la Iglesia los privilegios que pose&iacute;a desde la Colonia sobre el territorio y sus habitantes.&nbsp;</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Promover los intereses del protestantismo]]></text>
+<explanation width="394"><![CDATA[<p>En Colombia, a pesar de las reformas liberales, en el siglo XIX se consolid&oacute; el Catolicismo como principal religi&oacute;n y caracter&iacute;stica cultural&nbsp;de la sociedad.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[<p>El cambio radical en la estructura social que propiciaron los liberales para su proyecto modernizador de mediados del siglo XIX, incluy&oacute; una <strong>nueva forma de pensamiento y conducta</strong>, que era exitosa en Europa como f&oacute;mula del progreso.</p>
+
+<p>Al asumir la <strong>ciencia </strong>como camino y darle prevalencia a una <strong>serie de libertades individuales</strong> (entre las que se encontraban las libertades de pensamiento, expresi&oacute;n y cultos), la religi&oacute;n Cat&oacute;lica dej&oacute; de ser crucial en las decisiones personales, sociales y pol&iacute;ticas.</p>
+
+<p>Inevitablemente, esto le <strong>rest&oacute; poder a la Iglesia</strong>, a la cual <strong>no se le permiti&oacute; incidir en la educaci&oacute;n ni en el gobierno</strong>. Los liberales defendieron la idea de que estos temas deb&iacute;an guiarse por la raz&oacute;n y no por la fe.</p>
+
+<p>De la misma forma, la Iglesia <strong>perdi&oacute; territorios y la potestad de cobrar impuestos</strong>, lo cual se ajustaba al nuevo modelo econ&oacute;mico productivo y exportador en el cual se buscaba encajar al pa&iacute;s.</p>
+]]></text>
+</info>
+</question>
+</questions>
+</engine>

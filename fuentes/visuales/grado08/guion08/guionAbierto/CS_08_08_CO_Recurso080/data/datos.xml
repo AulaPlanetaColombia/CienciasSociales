@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="101" clase="a" aprid="m101a">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Refuerza tu aprendizaje: La hegemonía liberal</titulo>
+    <volumen/>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia/>
+    <motor/>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde las preguntas sobre la hegemonía liberal durante el siglo XIX]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="6">
+    <pregunta>
+      <enunciado><![CDATA[¿Qué motivaciones tuvieron los intelectuales, industriales y comerciantes liberales para propiciar la consolidación del Olimpo Radical?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Qué intereses tuvo la Iglesia para enfrentarse con los gobiernos liberales, por el control y la dirección de la educación? ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Qué repercusiones socioeconómicas produjo la introducción durante la Hegemonía Liberal, de sistemas modernos de comunicación y de transporte como el ferrocarril y el telégrafo?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿En qué principios se apoyaron los gobiernos liberales para apoyar e implementar la educación laica?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Por qué durante la Hegemonía Liberal se agudizan los enfrentamientos civiles y aumenta su frecuencia e intensidad?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Qué factores propiciaron la crisis de los gobiernos de la Hegemonía Liberal y la recuperación del poder político por parte de los conservadores?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+  </preguntas>
+  <temps>45</temps>
+</motor>

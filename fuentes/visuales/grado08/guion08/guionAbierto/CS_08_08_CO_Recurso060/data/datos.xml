@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="6" clase="a" aprid="m6a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Identifica el papel económico de los ferrocarriles y la navegación a vapor en la hegemonía liberal</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M6A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Lee las oraciones sobre la importancia económica de los ferrocarriles y la navegación a vapor durante la hegemonía liberal. Escribe en el recuadro la palabra que las completa correctamente.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <test cantidad="10">
+    <cuestion correccionSinMayusculas="0" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0">
+      <enunciado><![CDATA[Los primeros ferrocarriles se trazaron y construyeron en las zonas costeras colombianas, con el fin de llevar los productos hasta los ___________ y vincularse al mercado mundial por medio marítimo.]]></enunciado>
+      <explicacion/>
+      <unidades/>
+      <imagen><![CDATA[ferrocarril del magdalena.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="puertos" mostrar="0"/>
+        <respuesta contestacion="PUERTOS" mostrar="0"/>
+        <respuesta contestacion="Puertos" mostrar="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion correccionSinMayusculas="0" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0">
+      <enunciado><![CDATA[Casi todas la líneas férreas iniciaron su construcción durante los gobiernos liberales de la segunda mitad del siglo XIX, porque estos apoyaron el desarrollo de la infraestructura de ______________ como medio de modernización y de complemento al proceso comercial.]]></enunciado>
+      <explicacion/>
+      <unidades/>
+      <imagen><![CDATA[presidentes_periodo_liberal_2.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="transporte" mostrar="0"/>
+        <respuesta contestacion="TRANSPORTE" mostrar="0"/>
+        <respuesta contestacion="Transporte" mostrar="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion correccionSinMayusculas="0" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0">
+      <enunciado><![CDATA[El desarrollo del transporte ferroviario fue vital para la _____________ nacional porque conectó las regiones productivas del interior con los puertos. ]]></enunciado>
+      <explicacion/>
+      <unidades/>
+      <imagen><![CDATA[aviso_publicitario.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="economía" mostrar="0"/>
+        <respuesta contestacion="ECONOMÍA" mostrar="0"/>
+        <respuesta contestacion="Economía" mostrar="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion correccionSinMayusculas="1" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0">
+      <enunciado><![CDATA[Los _____________ favorecieron la inserción de la economía colombiana en el comercio mundial porque facilitaron el transporte de materias primas y su exportación.]]></enunciado>
+      <explicacion/>
+      <unidades/>
+      <imagen><![CDATA[M101-med.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="ferrocarriles" mostrar="0"/>
+        <respuesta contestacion="FERROCARRILES" mostrar="0"/>
+        <respuesta contestacion="Ferrocarriles" mostrar="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion correccionSinMayusculas="0" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0">
+      <enunciado><![CDATA[El primer ferrocarril que se proyectó y se empezó a construir durante la hegemonía liberal fue el de ___________ porque era necesario unir las salidas comerciales a los océanos Atlántico y Pacífico. ]]></enunciado>
+      <explicacion/>
+      <unidades/>
+      <imagen><![CDATA[ferrocarril_de_panama.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="Panamá" mostrar="0"/>
+        <respuesta contestacion="PANAMÁ" mostrar="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion correccionSinMayusculas="0" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0">
+      <enunciado><![CDATA[El desarrollo del transporte ferroviario y de la ____________ a vapor por el río Magdalena están íntimamente relacionados porque aumentaron la eficiencia del transporte de mercancías desde el interior del país hacia los puertos.]]></enunciado>
+      <explicacion/>
+      <unidades/>
+      <imagen><![CDATA[ferrocarril_y_navegacion.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="navegación" mostrar="0"/>
+        <respuesta contestacion="NAVEGACIÓN" mostrar="0"/>
+        <respuesta contestacion="Navegación" mostrar="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion correccionSinMayusculas="0" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0">
+      <enunciado><![CDATA[El río _____________ fue la vía de transporte fluvial más importante durante el siglo XIX en Colombia, porque su cauce conecta gran parte del país, de sur a norte.]]></enunciado>
+      <explicacion/>
+      <unidades/>
+      <imagen><![CDATA[barco_por_el_magdalena.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="Magdalena" mostrar="0"/>
+        <respuesta contestacion="MAGDALENA" mostrar="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion correccionSinMayusculas="0" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0">
+      <enunciado><![CDATA[El desarrollo del transporte ferroviario durante la hegemonía liberal tuvo muchas dificultades a pesar del interés de los gobiernos, porque los costos de ______________ y mantenimiento eran altos.]]></enunciado>
+      <explicacion/>
+      <unidades/>
+      <imagen><![CDATA[dificultad_construccion_ferrocarril.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="construcción" mostrar="0"/>
+        <respuesta contestacion="CONSTRUCCIÓN" mostrar="0"/>
+        <respuesta contestacion="Construcción" mostrar="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion correccionSinMayusculas="0" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0">
+      <enunciado><![CDATA[El transporte por el río Magdalena requería de los ferrocarriles como medio complementario para ser más eficiente porque algunos de sus tramos no eran _____________.]]></enunciado>
+      <explicacion/>
+      <unidades/>
+      <imagen><![CDATA[champan_con_gente_por_rio_magdalena.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="navegables" mostrar="0"/>
+        <respuesta contestacion="NAVEGABLES" mostrar="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion correccionSinMayusculas="0" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0">
+      <enunciado><![CDATA[La navegación a vapor y los ferrocarriles tuvieron un fuerte impacto sobre las poblaciones de los estados federales porque convirtieron poblados productores  aislados en importantes centros _____________.]]></enunciado>
+      <explicacion/>
+      <unidades/>
+      <imagen><![CDATA[impacto_de_navegacion_en_poblacion.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="económicos" mostrar="0"/>
+        <respuesta contestacion="ECONÓMICOS" mostrar="0"/>
+        <respuesta contestacion="Económicos" mostrar="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

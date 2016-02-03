@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="3" clase="a" aprid="m3a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Analiza los dos proyectos educativos en conflicto durante el siglo XIX: científico y religioso</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M3A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Observa las imágenes y establece las relaciones correspondientes con las características de la educación religiosa y la educación científica durante el siglo XIX.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <sonidoaimagen cantidad="6">
+    <cuestion>
+      <imagen etiqueta="1"><![CDATA[estudiantes_colegio_religioso.jpg]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Acatar moral católica."/>
+        <respuesta etiqueta="Respetar los ritos."/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta="2"><![CDATA[libro_quemado.jpg]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Censura de libros."/>
+        <respuesta etiqueta="Excomulgar por leer."/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta="3"><![CDATA[sacerdote_instruyendo.jpg]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Pensamiento conservador."/>
+        <respuesta etiqueta="Sacerdotes maestros."/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta="4"><![CDATA[periodico_el_educacionista.jpg]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Libertad de expresión."/>
+        <respuesta etiqueta="Pensamiento científico."/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta="5"><![CDATA[libro_la_instruccion_del_pueblo.jpg]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Educación obligatoria."/>
+        <respuesta etiqueta="Neutralidad religiosa."/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta="6"><![CDATA[educacion_del_siglo_XIX.jpg]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Maestros científicos."/>
+        <respuesta etiqueta="Pensamiento crítico."/>
+      </respuestas>
+    </cuestion>
+  </sonidoaimagen>
+  <temps>20</temps>
+</motor>
