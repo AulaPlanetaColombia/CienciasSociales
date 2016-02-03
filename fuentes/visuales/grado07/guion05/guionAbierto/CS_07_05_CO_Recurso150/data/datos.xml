@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f4">
+<main title="La Francia hugonota" path="Juan_Calvino.jpg" buttonsHeight="53">
+<text><![CDATA[<p>Juan Calvino.</p>
+]]></text><info path="Juan_Calvino_texto.jpg">
+<text><![CDATA[<p>Juan Calvino, te&oacute;logo y&nbsp;reformador franc&eacute;s, influenciado por Mart&iacute;n&nbsp;Lutero, quien impuls&oacute; la Reforma en Alemania.</p>
+
+<p>Su principal texto &quot;La instituci&oacute;n de la Religi&oacute;n Cristiana&quot; es un estudio sobre&nbsp;la Carta a los romanos.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></text>
+</info>
+</main>
+<questions respCorrecta="Respuesta correcta." respIncorrecta="Respuesta incorrecta.">
+<question title="¿Quiénes fueron los hugonotes?" path="">
+<answers>
+<answer correct="1">
+<text><![CDATA[Fueron los católicos opositores al plan reformista de Calvino, que intentaron apresarlo y llevarlo ante la corte.]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Fueron los seguidores de Calvino, quienes lograron expresar sus ideas durante la Reforma católica.]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Seguidores del rey Hugo, quienes se reunían en la noche a practicar rituales paganos.]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="1">
+<text><![CDATA[Fueron los seguidores de Calvino, quienes querían una reforma al cristianismo, inicialmente apoyados por la reina Margarita de Navarra, pero posteriormente perseguidos por la Corona y obligados al exilio.]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="¿Cuáles fueron los principales motivos para perseguir a los hugonotes?" path="">
+<answers>
+<answer correct="0">
+<text><![CDATA[Los perseguían para evitar que difundieran ideas paganas en el territorio francés]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="1">
+<text><![CDATA[Los perseguían puesto que su doctrina ponía en cuestionamiento el orden y la autoridad de la Iglesia católica y del papa.]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Los perseguían puesto que los católicos querían que todo el pueblo comulgara.]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Los perseguían pues Calvino buscaba que la autoridad del rey fuera depuesta.]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="¿Qué ocurrió con los hugonotes a lo largo del siglo XVII?" path="">
+<answers>
+<answer correct="0">
+<text><![CDATA[Fueron convertidos al catolicismo y no se volvió a hablar de ellos.]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Fueron exterminados a través de la conversión, la tortura y la hoguera.]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="1">
+<text><![CDATA[Se marcharon a países donde la mayoría de la población era protestante.]]></text>
+<explanation width="394"><![CDATA[<p>Aunque muchos de los protestantes fueron asesinados, los que sobrevivieron se exiliaron en regiones protestantes de los&nbsp;Pa&iacute;ses Bajos, Suiza, Inglaterra y en algunas ciudades&nbsp;alemanas convertigas al luteranismo. Otros muchos se fueron a&nbsp;las colonias brit&aacute;nicas del Cabo y de Am&eacute;rica del Norte donde desarrollaron proyectos coloniales.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Muchos protestantes optaron por el exilio en las islas del Mar Caribe]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+</questions>
+</engine>
