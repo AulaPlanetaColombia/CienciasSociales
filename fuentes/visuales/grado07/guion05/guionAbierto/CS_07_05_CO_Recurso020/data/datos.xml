@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f7"><main layout="2">
+<title>El contexto español en los años de la Conquista de América</title>
+<footer></footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="false">
+<menuImage path="" border="0">
+<title><![CDATA[Unificación del Reino de Castilla y Aragón]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Unificación del Reino de Castilla y Aragón</title>
+<description><![CDATA[<p style="text-align: justify;">En el a&ntilde;o de&nbsp;<strong>1469</strong>, contrajeron matrimonio la&nbsp;<strong>reina Isabel de Castilla</strong>&nbsp;y el&nbsp;<strong>pr&iacute;ncipe Fernando de Arag&oacute;n</strong>, con lo cual se sent&oacute; la base de la&nbsp;<strong>unificaci&oacute;n de la corona espa&ntilde;ola</strong>. Los reinos de Castilla y Arag&oacute;n eran reductos cristianos que hab&iacute;an logrado conservar su independencia&nbsp;desde la invasi&oacute;n de los&nbsp;<strong>&aacute;rabes</strong>&nbsp;a la Pen&iacute;nsula Ib&eacute;rica en el a&ntilde;o&nbsp;<strong>756</strong>.</p>
+
+<p style="text-align: justify;">Esta unificaci&oacute;n aument&oacute; la <strong>fuerza pol&iacute;tica, econ&oacute;mica y militar</strong> espa&ntilde;ola que sirvi&oacute; de instrumento para dominar la pen&iacute;nsula y m&aacute;s tarde el orden en las <strong>colonias</strong> de Espa&ntilde;a en Am&eacute;rica.</p>
+]]></description>
+<images>
+<image path="reyes_catolicos.jpg" border = "0" pathbig="reyes_catolicos.jpg">
+<title><![CDATA[Los Reyes Católicos y el tributo de los Reyes Árabes, s. XVIII, por Antonio Rodríguez.]]></title>
+</image>
+<image path="" border = "0" pathbig="">
+<title><![CDATA[Mapa de la unificación de España en tiempo de los reyes católicos.]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="" border="0">
+<title><![CDATA[Expulsión de los musulmanes]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Expulsión de los musulmanes</title>
+<description><![CDATA[<p style="text-align: justify;">Tras la unificaci&oacute;n de los&nbsp;<strong>reinos de Castilla y Arag&oacute;n</strong>, la nueva corona busc&oacute; reestablecer el control territorial y la fe cat&oacute;lica expulsando a los musulmanes. Luego de varios enfrentamientos los moros fueron finalmente expulsados de&nbsp;<strong>Granada</strong>, &uacute;ltimo basti&oacute;n musulm&aacute;n en la pen&iacute;nsula, en lo que se conoci&oacute; como la&nbsp;<strong>guerra de reconquista</strong>.</p>
+
+<p style="text-align: justify;">Con lo cual la <strong>religi&oacute;n cat&oacute;lica</strong> se extendi&oacute; por toda la pen&iacute;nsula y en consecuencia hacia las <strong>colonias espa&ntilde;olas</strong> en Am&eacute;rica.</p>
+]]></description>
+<images>
+<image path="abandono_de_granada_Boabdil.jpg" border = "0" pathbig="abandono_de_granada_Boabdil.jpg">
+<title><![CDATA[Representación a Boabdil abandonando Granada, por Felipe de Borgoña, ca. 1521.]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="" border="0">
+<title><![CDATA[Comercio marítimo]]></title>
+</menuImage>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="" border="0">
+<title><![CDATA[Acumulación de riquezas]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Acumulación de riquezas</title>
+<description><![CDATA[<p style="text-align: justify;">A partir de&nbsp;la anexi&oacute;n de los territorios americanos el reino de Espa&ntilde;a se convirti&oacute; en un enorme <strong>imperio</strong> cuya fuerza radicaba especialmente en las riquezas obtenidas de las colonias. Durante el gobierno de <strong>Carlos I</strong> de Espa&ntilde;a, heredero de los reyes cat&oacute;licos, se pod&iacute;a afirmar que en este imperio &quot;jam&aacute;s se pon&iacute;a el sol&quot;.</p>
+
+<p style="text-align: justify;">Las riquezas de Am&eacute;rica fueron distribuidas comercialmente por todo el mediterr&aacute;neo en&nbsp;&eacute;pocas de <strong>Felipe II</strong> y le permitieron a Espa&ntilde;a sostener enfrentamientos b&eacute;licos con varias&nbsp;potencias europeas y malgastar la fortuna con suntuosidades, lo que, sin embargo, degener&oacute; en la crisis econ&oacute;mica que conducir&iacute;a a la decadencia del imperio.</p>
+]]></description>
+<images>
+<image path="" border = "0" pathbig="">
+<title><![CDATA[Carlos I de España]]></title>
+</image>
+<image path="" border = "0" pathbig="">
+<title><![CDATA[Felipe II de España]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section></sections>
+</engine>
