@@ -1,4 +1,27 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><engine copy="Editorial Planeta" version="1" aprid="f8"><main title="El mapa del tiempo" bkColor="#FFFFFF" titleColor="#000000" theme="black" buttonsWidth="230" buttonsHeight="52" trans="fade"><default><img path="1.jpg" x="300" y="100" width="" height="490" /></default><buttons><button title="Isobaras"><img path="2.jpg" x="" y="" width="" height="490" anim="" /></button><button title="Anticiclones y borrascas"><img path="3.jpg" x="" y="" width="" height="490" anim="" /></button><button title="Frentes"><img path="4.jpg" x="" y="" width="" height="490" anim="" /></button><button title="Mapa del tiempo"><img path="5.jpg" x="" y="" width="" height="490" anim="" /></button><button title="Previsión Meteorológica"><img path="anb.gif" x="" y="" width="" height="490" anim="an.gif" /></button></buttons></main><masinfo><pantalla1><![CDATA[<p><strong>Isobaras</strong></p>
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f8">
+<main title="El mapa del tiempo" bkColor="#FFFFFF" titleColor="#000000" theme="black" buttonsWidth="230" buttonsHeight="52" trans="fade">
+<default>
+<img path="1.jpg" x="300" y="100" width="" height="490"/>
+</default><buttons>
+<button title="Isobaras">
+<img path="2.jpg" x="" y="" width="" height="490" anim=""/>
+</button>
+<button title="Anticiclones y borrascas">
+<img path="3.jpg" x="" y="" width="" height="490" anim=""/>
+</button>
+<button title="Frentes">
+<img path="4.jpg" x="" y="" width="" height="490" anim=""/>
+</button>
+<button title="Mapa del tiempo">
+<img path="5.jpg" x="" y="" width="" height="490" anim=""/>
+</button>
+<button title="Previsión Meteorológica">
+<img path="anb.gif" x="" y="" width="" height="490" anim="an.gif"/>
+</button>
+</buttons>
+</main>
+<masinfo>
+<pantalla1><![CDATA[<p><strong>Isobaras</strong></p>
 
 <p>L&iacute;neas que unen puntos de igual presi&oacute;n atmosf&eacute;rica sobre una superficie determinada en un tiempo espec&iacute;fico.&nbsp;</p>
 
@@ -42,4 +65,6 @@ Propicia un <strong>tiempo inestable</strong> y lluvioso.</p>
 <p><strong><img alt="" src="data/imagenes/image_1_copy.jpg" style="height:130px; width:700px" /></strong></p>
 
 <p>&nbsp;</p>
-]]></pantalla1></masinfo></engine>
+]]></pantalla1>
+</masinfo>
+</engine>

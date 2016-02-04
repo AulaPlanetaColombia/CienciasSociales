@@ -2,7 +2,6 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="CS_08_08_CO">
 <libroTitulo>Colombia en la segunda mitad del siglo XIX</libroTitulo>
 <seccion1 id="S1_CS_08_08_CO_B715B684F6474C09A12D29A49A37EDEA">
@@ -312,7 +311,8 @@ se importó el primer <negrita>telégrafo</negrita> y se inició la <negrita
 destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso060&amp;IdRecurso=RES-4A8F38B1166648C8AED514D20E3247AD"
 >Identifica el papel económico de los ferrocarriles y de la navegación
 a vapor durante la hegemonía liberal</enlace>
-</practica></seccion3Texto></seccion3><seccion3>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_08_08_CO_354BD4B065FD46F19DB1255093DF923H">
 <seccion3Titulo>La educación, ¿laica o católica?</seccion3Titulo>
 <seccion3Texto>
 <p>La <negrita>educación</negrita> fue otro frente de conflicto durante
@@ -568,12 +568,8 @@ definitivo con el que se dio <negrita>fin a la guerra de los Mil Días</negrita
 destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso110&amp;IdRecurso=RES-FE57061B33444303A62777A1595ACE76"
 >Reconoce aspectos de la economía cafetera y la Guerra de los Mil
 Días</enlace>
-</practica><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso150&amp;IdRecurso=RES-15146AF4D55D47FBBD00D66BDB11C9B3"
->Recurso M101A-04</enlace>
 </practica></seccion2Texto></seccion2><seccion2
-id="S2_CS_08_08_CO_E94AB6414CDD4EB1AB19A8F864B963E4">
+id="S2_CS_08_08_CO_E94AB6414CDD4EB1AB19A8F864B974D1">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
@@ -680,17 +676,25 @@ prohibía decir en público palabras obscenas, cantar canciones “torpes”,
 escupir o tener relación con personas de “malas costumbres”. En una
 sociedad de medio social variado y lleno de privaciones materiales,
 no era difícil encontrar quien “cometiera” alguno de estos delitos.</p>
-</seccion1Texto></seccion1><seccion1
-id="S1_CS_08_08_CO_12CB079330854AB7A54594C1797D0606">
-<seccion1Titulo>Competencias</seccion1Titulo><?Pub Caret -2?>
+<seccion2 id="S2_CS_08_08_CO_E94AB6414CDD4EB1AB19A8F864B985C2">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso150&amp;IdRecurso=RES-15146AF4D55D47FBBD00D66BDB11C9B3"
+>Refuerza tu aprendizaje: Urbanismo y vida cotidiana</enlace><?Pub
+Caret -2?>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_08_CO_12CB079330854AB7A54594C1797D0606">
+<seccion1Titulo>Competencias</seccion1Titulo>
 <seccion1Texto>
 <p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
-<profundiza>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso160&amp;IdRecurso=RES-EED855B06D564858AA243D8B096B0B68"
 >Competencias: comparación de las ideas e implicaciones de las Constituciones
 de 1863 y 1886</enlace>
-</profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_08_CO_Recurso170&amp;IdRecurso=RES-F069CC5248C24619A1E4D1D578C5CAAF"
 >Proyecto: las mujeres colombianas durante la segunda mitad del siglo

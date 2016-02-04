@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="a" aprid="m5a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Identifica los climas del mundo</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel>2</nivel>
+    <referencia><![CDATA[cs_07_04_10]]></referencia>
+    <id_reg><![CDATA[360]]></id_reg>
+    <motor><![CDATA[M5a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Observa las imágenes y responde las siguientes preguntas sobre los climas de la Tierra.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[¿Cómo son las temperaturas propias del clima mediterráneo?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[000izm01_500.png]]></imagen>
+      <ampliacion><![CDATA[000izm01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Suaves en invierno y calurosas en verano." correcta="1"/>
+        <respuesta contestacion="Suaves durante todo el año." correcta="0"/>
+        <respuesta contestacion="Altas en verano y frías en invierno." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué clima favorece la formación de junglas y selvas como consecuencia de su alto nivel de humedad?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[00084p01.jpg]]></imagen>
+      <ampliacion><![CDATA[00084p01.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Ecuatorial" correcta="1"/>
+        <respuesta contestacion="Oceánico" correcta="0"/>
+        <respuesta contestacion="Continental" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cómo son las temperaturas propias del clima continental?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[000q1u01_500.png]]></imagen>
+      <ampliacion><![CDATA[000q1u01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Bajas en invierno y elevadas en verano." correcta="1"/>
+        <respuesta contestacion="Bajas durante todo el año." correcta="0"/>
+        <respuesta contestacion="Elevadas en verano y suaves en invierno." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es el clima propio de las costas del sur de Europa?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[000rfw01_500.png]]></imagen>
+      <ampliacion><![CDATA[000rfw01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Mediterráneo" correcta="1"/>
+        <respuesta contestacion="Oceánico" correcta="0"/>
+        <respuesta contestacion="Tropical" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es el clima propio del centro de América del Norte?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_06_11_CO_REC150_IMG01n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_06_11_CO_REC150_IMG01a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Continental" correcta="1"/>
+        <respuesta contestacion="Oceánico" correcta="0"/>
+        <respuesta contestacion="Mediterráneo" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es el clima propio de la Costa Caribe?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_06_11_CO_REC150_IMG02n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_06_11_CO_REC150_IMG02a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Continental" correcta="0"/>
+        <respuesta contestacion="Tropical" correcta="1"/>
+        <respuesta contestacion="Polar" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es el clima propio del sudeste asiático?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[000tix01_500.png]]></imagen>
+      <ampliacion><![CDATA[000tix01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Ecuatorial" correcta="1"/>
+        <respuesta contestacion="Tropical" correcta="0"/>
+        <respuesta contestacion="Oceánico" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles son las principales características del clima desértico?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[0006bv01_500.png]]></imagen>
+      <ampliacion><![CDATA[0006bv01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Temperaturas elevadas durante el día y precipitaciones escasas." correcta="1"/>
+        <respuesta contestacion="Temperaturas elevadas y dos estaciones: una húmeda y otra seca." correcta="0"/>
+        <respuesta contestacion="Temperaturas elevadas durante el día y la noche." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué tipo de clima domina las latitudes situadas por encima de los 60º norte y sur?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[0007sp01_500.png]]></imagen>
+      <ampliacion><![CDATA[0007sp01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Polar" correcta="1"/>
+        <respuesta contestacion="De alta montaña" correcta="0"/>
+        <respuesta contestacion="Oceánico" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué zonas se presenta el clima de alta montaña?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[000loe01_500.png]]></imagen>
+      <ampliacion><![CDATA[000loe01_500.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="En las zonas por encima de los 2500 m de altura." correcta="1"/>
+        <respuesta contestacion="En las zonas por debajo de los 2500 m de altura." correcta="0"/>
+        <respuesta contestacion="En las zonas de montaña del hemisferio norte." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

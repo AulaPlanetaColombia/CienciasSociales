@@ -9,9 +9,9 @@
 <seccion1Titulo>Clima y tiempo atmosférico</seccion1Titulo>
 <seccion1Texto>
 <p>La <negrita>lluvia</negrita>, el <negrita>viento</negrita> o la <negrita
->temperatura</negrita> son factores que determinan el clima de una
-zona. Descubrir cómo actúan estos factores sobre el entorno te ayudará
-a comprender la importancia que tiene el clima en nuestras vidas.</p>
+>temperatura</negrita> son elementos del clima. Descubrir cómo actúan
+estos factores sobre el entorno te ayudará a comprender la importancia
+que tiene el clima en nuestras vidas.</p>
 <imagen src="CS_06_11_CO_IMG01_small.jpg">
 <p>El <negrita>clima</negrita> tiene una gran influencia en nuestras
 vidas, ya que afecta tanto al <negrita>paisaje</negrita> que nos rodea
@@ -48,7 +48,7 @@ donde vivimos: si llueve o hace frío, nos protegemos con un paraguas
 o nos abrigamos; si disfrutamos de un día caluroso y soleado, podremos
 ir a la playa o a la piscina. Cada vez que salimos a la calle podemos
 apreciar si el cielo está nublado, si hace viento o si está lloviendo.</p>
-<p>El <negrita>clima</negrita> es esencial para determinar el <negrita
+<p>El <negrita>clima</negrita> es esencial para conocer el <negrita
 >modo de vida</negrita> en un lugar específico del planeta. Las condiciones
 climáticas hacen que la forma de vivir sea diferente en un desierto,
 en los polos o en un lugar cálido.</p>
@@ -84,7 +84,8 @@ del aire.</listaElemento>
 agua que hay en el aire.</listaElemento>
 <listaElemento>Las <negrita>precipitaciones</negrita>: cantidad de
 agua que cae en una zona determinada, ya sea en forma de nieve, agua
-o granizo. La <negrita>presión atmosférica</negrita>: peso o fuerza
+o granizo.</listaElemento>
+<listaElemento>La <negrita>presión atmosférica</negrita>: peso o fuerza
 que hace el aire sobre la superficie terrestre.</listaElemento>
 <listaElemento>El <negrita>viento</negrita>: aire en movimiento.</listaElemento>
 </listaSinNumerar>
@@ -157,8 +158,7 @@ y recursos.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso060&amp;IdRecurso=RES-A65714E484E34B7AB29D682952F9330A"
->Conoce los instrumentos para estudiar el tiempo atmosférico</enlace><?Pub
-Caret 0?>
+>Conoce los instrumentos para estudiar el tiempo atmosférico</enlace>
 </practica><seccion2
 id="S2_CS_06_11_CO_71E3D94B8970449D9BC4EFF993DEDD04">
 <seccion2Titulo>Los instrumentos para el estudio metereológico</seccion2Titulo>
@@ -167,9 +167,7 @@ id="S2_CS_06_11_CO_71E3D94B8970449D9BC4EFF993DEDD04">
 en el clima:</p>
 <listaSinNumerar>
 <listaElemento>El <negrita>barómetro</negrita>: instrumento que mide
-la presión atmosférica. Es decir, el peso que una columna de aire
-ejerce sobre una superficie. Es uno de los instrumentos de medida
-fundamentales en meteorología.</listaElemento>
+la presión atmosférica.</listaElemento>
 <listaElemento>El <negrita>anemómetro</negrita>: instrumento que mide
 la velocidad del viento.</listaElemento>
 <listaElemento>El <negrita>higrómetro</negrita>: instrumento que mide
@@ -183,13 +181,9 @@ la temperatura.</listaElemento>
 <p>El <negrita>barómetro</negrita> es el instrumento que sirve para
 medir la <negrita>presión atmosférica</negrita>, es decir, el peso
 del aire. Para ello, utiliza una unidad de medida concreta: el <negrita
->pascal (Pa)</negrita>.</p>
+>pascal (Pa)</negrita>. Es uno de los instrumentos de medida fundamentales
+en meteorología.</p>
 </imagen>
-<p>Comprueba si sabes cómo son estos instrumentos y los datos que
-proporcionan. Realiza la actividad que propone la Agencia Estatal
-de Meteorología de España (AEMET) <enlace
-destino="http://www.aemet.es/documentos_d/conocermas/recursos_educativos/juegos/n1/instrumentos/instrumentos_espanol.html"
-> [VER]</enlace>.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso070&amp;IdRecurso=RES-1675EAE988D746F1B8A4303EA04EA5AD"
@@ -207,7 +201,7 @@ ayudan a comprender los pronósticos que hacen los meteorólogos.</p>
 en una región específica. Se muestran <negrita>anticiclones</negrita
 > (altas presiones), <negrita>borrascas</negrita> (bajas presiones)
 y <negrita>frentes</negrita> (fríos y cálidos).</p>
-<imagen ampliable="no" src="CS_06_11_CO_IMG06_small.jpg">
+<imagen src="CS_06_11_CO_IMG06_small.jpg">
 <p>Los mapas de <negrita>isobaras</negrita> muestran la presión atmosférica.
 Cuando esta se sitúa por encima de 1010 (hPa) hablamos de altas presiones
 o anticiclón, lo que favorece un tiempo estable y sin lluvias. En
@@ -258,14 +252,14 @@ destino="http://contenidos.educarex.es/mci/2004/35/Diccionario/climogramas.html"
 > [VER]</enlace>.</p>
 </seccion2Texto></seccion2><seccion2
 id="S2_CS_06_11_CO_7CB24C3242FF4F5DA315ABB6D9B3BA1D">
-<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Titulo>Consolidación</seccion2Titulo><?Pub Caret -3?>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<profundiza>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso110&amp;IdRecurso=RES-C77FD9298F3E493686AD0634BA71D9AD"
 >Refuerza tu aprendizaje: El estudio del clima y del tiempo</enlace>
-</profundiza></seccion2Texto></seccion2></seccion1Texto></seccion1>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_06_11_CO_6A55B92A0A6546D4AEC1962172637DFD">
 <seccion1Titulo>Los climas de la Tierra</seccion1Titulo>
 <seccion1Texto>
@@ -310,7 +304,7 @@ Indonesia y Papúa y Nueva Guinea. Estas zonas se encuentran cerca
 de la línea del Ecuador.</p>
 <destacado><destacadoTitulo>El clima ecuatorial</destacadoTitulo>
 <destacadoTexto>
-<p>Se define por:</p>
+<p>Se caracteriza por:</p>
 <listaSinNumerar>
 <listaElemento>Temperaturas cálidas, entre los 25 y los 30 °C. Existen
 pocas diferencias entre el invierno y el verano.</listaElemento>
@@ -327,7 +321,7 @@ Las selvas tropicales de América del Sur son un ejemplo de zona con
 este tipo de clima.</p>
 <destacado><destacadoTitulo>El clima tropical</destacadoTitulo>
 <destacadoTexto>
-<p>Se define por:</p>
+<p>Se caracteriza por:</p>
 <p>Temperaturas cálidas, entre los 25 y los 30 °C todo el año.</p>
 </destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
 id="S3_CS_06_11_CO_F3EB8BF73238473A9E1D58CD9EC31F96">
@@ -338,7 +332,7 @@ con las corrientes marinas de aire frío y en las zonas interiores
 alejadas de la influencia marina. Por ejemplo, el desierto del Sahara.</p>
 <destacado><destacadoTitulo>El clima desértico</destacadoTitulo>
 <destacadoTexto>
-<p>Se define por:</p>
+<p>Se caracteriza por:</p>
 <listaSinNumerar>
 <listaElemento>Temperaturas: grandes oscilaciones térmicas entre el
 día (muy caluroso) y la noche (fría). La media se sitúa en torno a
@@ -380,7 +374,7 @@ las costas de California, el centro de Chile, la República de Sudáfrica
 y el sur y sudoeste de Australia.</p>
 <destacado><destacadoTitulo>El clima mediterráneo</destacadoTitulo>
 <destacadoTexto>
-<p>Se define por:</p>
+<p>Se caracteriza por:</p>
 <listaSinNumerar>
 <listaElemento>Temperaturas suaves en invierno y calurosas en verano.
 La temperatura media en los meses fríos se sitúa en torno a los 10
@@ -407,10 +401,11 @@ baña esta larga franja litoral, también se puede hablar de <negrita
 </imagen>
 <destacado><destacadoTitulo>El clima oceánico</destacadoTitulo>
 <destacadoTexto>
+<p>Se caracteriza por:</p>
 <listaSinNumerar>
-<listaElemento>Las temperaturas: templadas durante todo el año. En
-invierno la media se sitúa en los 5 °C, mientras que en verano ascienden
-hasta los 15-20 °C.</listaElemento>
+<listaElemento>Temperaturas: templadas durante todo el año. En invierno
+la media se sitúa en los 5 °C, mientras que en verano ascienden hasta
+los 15-20 °C.</listaElemento>
 <listaElemento>Precipitaciones: abundantes, alrededor de los 1000
 mm anuales.</listaElemento>
 </listaSinNumerar>
@@ -445,7 +440,7 @@ de alta montaña</negrita>.</p>
 <imagen src="CS_06_11_CO_IMG15_small.jpg">
 <p>Los <negrita>climas fríos</negrita> se sitúan en las <negrita>zonas
 polares</negrita> (entre los 60 y 90° de latitud norte y sur) y de <negrita
->alta montaña</negrita> (por encima de los 2.500 m).</p>
+>alta montaña</negrita> (por encima de los 2500 m).</p>
 </imagen>
 <profundiza>
 <enlace
@@ -459,7 +454,7 @@ id="S3_CS_06_11_CO_F3EB8BF73238473A9E1D58CD9EC36C67">
 a los círculos polares.</p>
 <destacado><destacadoTitulo>El clima polar</destacadoTitulo>
 <destacadoTexto>
-<p>Se define por:</p>
+<p>Se caracteriza por:</p>
 <listaSinNumerar>
 <listaElemento>Temperaturas muy bajas. La temperatura media en verano
 es inferior a los 10 °C, mientras que en invierno, dependiendo de
@@ -475,7 +470,7 @@ id="S3_CS_06_11_CO_F3EB8BF73238473A9E1D58CD9EC37D13">
 encima de los 2500 m de altitud.</p>
 <destacado><destacadoTitulo>El clima de alta montaña</destacadoTitulo>
 <destacadoTexto>
-<p>Se define por:</p>
+<p>Se caracteriza por:</p>
 <listaSinNumerar>
 <listaElemento>Temperaturas bajas durante todo el año. Los inviernos
 son largos y fríos, y los veranos, cortos. En las cumbres más elevadas
@@ -526,7 +521,7 @@ como el <negrita>oso polar</negrita>.</p>
 </imagen>
 <p>Entre los fenómenos que se atribuyen al cambio climático están
 el <negrita>calentamiento global</negrita>, el aumento del nivel del
-mar, así como el de los fenómenos meteorológicos extremos.</p>
+mar, así como los fenómenos meteorológicos extremos.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso180&amp;IdRecurso=RES-6B78B6F9E9C74251915DE7E9988B727F"
