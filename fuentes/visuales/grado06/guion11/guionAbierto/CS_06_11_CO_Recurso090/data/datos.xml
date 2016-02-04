@@ -1,22 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f8">
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f8">
 <main title="El mapa del tiempo" bkColor="#FFFFFF" titleColor="#000000" theme="black" buttonsWidth="230" buttonsHeight="52" trans="fade">
 <default>
-<img path="1.jpg" x="300" y="100" width="" height="490"/>
+<img path="CS_06_11_CO_REC-90_IMG01.jpg" x="300" y="100" width="" height="490"/>
 </default><buttons>
 <button title="Isobaras">
-<img path="2.jpg" x="" y="" width="" height="490" anim=""/>
+<img path="CS_06_11_CO_REC-90_IMG02.jpg" x="" y="" width="" height="490" anim=""/>
 </button>
 <button title="Anticiclones y borrascas">
-<img path="3.jpg" x="" y="" width="" height="490" anim=""/>
+<img path="CS_06_11_CO_REC-90_IMG03.jpg" x="" y="" width="" height="490" anim=""/>
 </button>
 <button title="Frentes">
-<img path="4.jpg" x="" y="" width="" height="490" anim=""/>
+<img path="CS_06_11_CO_REC-90_IMG04.jpg" x="" y="" width="" height="490" anim=""/>
 </button>
 <button title="Mapa del tiempo">
-<img path="5.jpg" x="" y="" width="" height="490" anim=""/>
+<img path="CS_06_11_CO_REC-90_IMG05.jpg" x="" y="" width="" height="490" anim=""/>
 </button>
 <button title="Previsión Meteorológica">
-<img path="anb.gif" x="" y="" width="" height="490" anim="an.gif"/>
+<img path="CS_06_11_CO_REC-90_IMG01.jpg" x="" y="" width="" height="490" anim="an.gif"/>
 </button>
 </buttons>
 </main>
@@ -30,7 +30,7 @@
 <p><br />
 <strong>Anticiclones&nbsp;y borrascas</strong></p>
 
-<p><span style="color:#D91729"><strong><img alt="" src="data/imagenes/image_21.jpg" style="float:right; height:376px; width:250px" />Anticicl&oacute;n</strong></span><br />
+<p><span style="color:#D91729"><strong><img alt="" src="data/imagenes/CS_06_11_CO_REC-90_IMG09.jpg" style="float:right; height:376px; width:250px" />Anticicl&oacute;n</strong></span><br />
 &Aacute;rea de alta presi&oacute;n atmosf&eacute;rica (<span style="color:#D91729"><strong>A</strong></span>).&nbsp;<br />
 Propicia un <strong>tiempo estable</strong> y sin lluvias.</p>
 
@@ -62,7 +62,7 @@ Propicia un <strong>tiempo inestable</strong> y lluvioso.</p>
 <p><br />
 <strong>Mapa del&nbsp;tiempo</strong></p>
 
-<p><strong><img alt="" src="data/imagenes/image_1_copy.jpg" style="height:130px; width:700px" /></strong></p>
+<p><strong><img alt="" src="data/imagenes/CS_06_11_CO_REC-90_IMG06.jpg" style="height:130px; width:700px" /></strong></p>
 
 <p>&nbsp;</p>
 ]]></pantalla1>
