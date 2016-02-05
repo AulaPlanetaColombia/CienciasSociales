@@ -10,8 +10,8 @@
 <seccion1Texto>
 <p>La <negrita>lluvia</negrita>, el <negrita>viento</negrita> o la <negrita
 >temperatura</negrita> son elementos del clima. Descubrir cómo actúan
-estos factores sobre el entorno te ayudará a comprender la importancia
-que tiene el clima en nuestras vidas.</p>
+sobre el entorno te ayudará a comprender la importancia que tiene
+el clima en nuestras vidas.</p>
 <imagen src="CS_06_11_CO_IMG01_small.jpg">
 <p>El <negrita>clima</negrita> tiene una gran influencia en nuestras
 vidas, ya que afecta tanto al <negrita>paisaje</negrita> que nos rodea
@@ -95,11 +95,6 @@ durante el día y muy bajas durante la noche.</p>
 </imagen>
 <p>Cualquier cambio en alguno de estos elementos puede hacer variar
 el clima de una región.</p>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso030&amp;IdRecurso=RES-EAD5A46A9343484AB4BBCFA737BD9E0F"
->Los factores que determinan el clima</enlace>
-</profundiza>
 <p>Los factores que determinan el clima son:</p>
 <listaSinNumerar>
 <listaElemento>El <negrita>relieve</negrita> y la <negrita>altitud</negrita
@@ -188,9 +183,6 @@ en meteorología.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso070&amp;IdRecurso=RES-1675EAE988D746F1B8A4303EA04EA5AD"
 >El barómetro</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso080&amp;IdRecurso=RES-928284EBF72845BCA6992792971CC75D"
->El anemómetro</enlace>
 </profundiza></seccion2Texto></seccion2><seccion2
 id="S2_CS_06_11_CO_56F68E19359D4A688DF61750ACAD22E6">
 <seccion2Titulo>Los mapas metereológicos</seccion2Titulo>
@@ -210,12 +202,9 @@ cambio, cuando se sitúa por debajo, hablamos de <negrita>bajas presiones</negri
 y lluvioso.</p>
 </imagen>
 <p>El <negrita>mapa del tiempo</negrita> representa las condiciones
-meteorológicas en una región concreta (sol, lluvia, viento, etc.).</p>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_11_CO_Recurso090&amp;IdRecurso=RES-AA8E1D24F93549D0A1593B4808850303"
->El mapa del tiempo</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
+meteorológicas en una región concreta (sol, lluvia, viento, etc.).</p><?Pub
+Caret -3?>
+</seccion2Texto></seccion2><seccion2
 id="S2_CS_06_11_CO_7CB24C3242FF4F5DA315ABB6D9B3DE0E">
 <seccion2Titulo>Las gráficas climáticas</seccion2Titulo>
 <seccion2Texto>
@@ -252,7 +241,7 @@ destino="http://contenidos.educarex.es/mci/2004/35/Diccionario/climogramas.html"
 > [VER]</enlace>.</p>
 </seccion2Texto></seccion2><seccion2
 id="S2_CS_06_11_CO_7CB24C3242FF4F5DA315ABB6D9B3BA1D">
-<seccion2Titulo>Consolidación</seccion2Titulo><?Pub Caret -3?>
+<seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
