@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Responde sobre la conquista de la Luna</titulo>
+    <volumen><![CDATA[1]]></volumen>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia><![CDATA[mn_3c_01_10]]></referencia>
+    <id_reg><![CDATA[65]]></id_reg>
+    <motor><![CDATA[M5b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Después de ver el vídeo, contesta las siguientes preguntas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[¿De qué nacionalidad eran los tripulantes de la nave espacial?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000006_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Alemanes" correcta="0"/>
+        <respuesta contestacion="Estadounidenses" correcta="1"/>
+        <respuesta contestacion="Británicos" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cómo se llama el lugar desde donde se inició el viaje a la Luna?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000006_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Cabo Verde" correcta="0"/>
+        <respuesta contestacion="Cabo de Gata" correcta="0"/>
+        <respuesta contestacion="Cabo Cañaveral" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué fecha se inició el viaje a la Luna?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000006_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="21 de julio de 1969" correcta="0"/>
+        <respuesta contestacion="24 de julio de 1969" correcta="0"/>
+        <respuesta contestacion="16 de julio de 1969" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cómo se llamaba la primera nave espacial que se posó sobre la Luna?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000006_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Apolo 10" correcta="0"/>
+        <respuesta contestacion="Apolo 11" correcta="1"/>
+        <respuesta contestacion="Apolo 15" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué día llegó la nave espacial a la Luna?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000006_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="21 de julio de 1969" correcta="1"/>
+        <respuesta contestacion="16 de julio de 1969" correcta="0"/>
+        <respuesta contestacion="12 de julio de 1969" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cómo se llama el cohete que propulsó la nave espacial?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000006_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Mercurio 3" correcta="0"/>
+        <respuesta contestacion="Saturno 5" correcta="1"/>
+        <respuesta contestacion="Marte 11" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién fue el primer hombre en pisar la Luna?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000006_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Edwin E. Aldrin" correcta="0"/>
+        <respuesta contestacion="Neil Armstrong" correcta="1"/>
+        <respuesta contestacion="Michael Collins" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué fecha regresó a la Tierra la nave espacial?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000006_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="24 de julio de 1969" correcta="1"/>
+        <respuesta contestacion="27 de julio de 1969" correcta="0"/>
+        <respuesta contestacion="30 de julio de 1969" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué hicieron los astronautas al llegar a la Luna?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000006_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="No salieron de la nave." correcta="0"/>
+        <respuesta contestacion="Recogieron muestras de suelo lunar." correcta="1"/>
+        <respuesta contestacion="Repararon la nave." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuánto tiempo duró la salida de los astronautas a la Luna?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI000006_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="3 horas" correcta="0"/>
+        <respuesta contestacion="2 horas y 40 minutos" correcta="1"/>
+        <respuesta contestacion="1 hora y 20 minutos" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>
