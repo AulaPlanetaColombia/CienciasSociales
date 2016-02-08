@@ -199,7 +199,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso050&amp;IdRecurso=RES-996FB1
 que gira alrededor de una estrella. Los planetas <negrita>no tienen
 luz propia</negrita>, pero reflejan la luz del Sol, por eso se ven
 brillantes.</p>
-<imagen src="CS_06_07_CO_IMG09_small.jpg">
+<imagen ampliable="no" src="CS_06_07_CO_IMG09_small.jpg">
 <p>El planeta <negrita>Tierra</negrita>, por sus <negrita>características
 atmosféricas</negrita>, ha permitido el desarrollo de la <negrita
 >vida</negrita>.</p>
@@ -226,7 +226,7 @@ sistema planetario, se constituyó en el centro, y el resto de los
 cuerpos celestes comenzaron a girar alrededor de él <enlace
 destino="http://www.astromia.com/astronomia/manchasolar.htm"> [VER]</enlace
 >.</p>
-<imagen src="CS_06_07_CO_IMG10_small.jpg">
+<imagen ampliable="no" src="CS_06_07_CO_IMG10_small.jpg">
 <p>Imagen hipotética de la <negrita>formación</negrita> de un planeta
 o <negrita>protoplaneta</negrita>, que es un pequeño cuerpo celeste
 del tamaño aproximado de la Luna.</p>
@@ -299,7 +299,7 @@ alejado del Sol. Es bastante más pequeño que la Tierra. Tiene <negrita
 recibido del Sol. En su superficie hay <negrita>cráteres</negrita
 >, aunque muchos menos que en la Luna.</listaElemento>
 </listaSinNumerar>
-<imagen src="CS_06_07_CO_IMG12_small.jpg">
+<imagen ampliable="no" src="CS_06_07_CO_IMG12_small.jpg">
 <p><negrita>Mercurio</negrita> es el primer planeta del sistema solar,
 que al estar tan cercano al Sol, registra durante el día una temperatura
 promedio de 350 °C. Debido a la <negrita>ausencia de capa atmosférica</negrita
@@ -458,7 +458,7 @@ considerado el asteroide más grande de todos.</listaElemento>
 descubierto en 2005; actualmente se encuentra en el punto de su órbita
 más alejado del Sol y tarda 557 años en recorrerla. </listaElemento>
 </listaSinNumerar>
-<imagen src="CS_06_07_CO_IMG14_small.jpg">
+<imagen ampliable="no" src="CS_06_07_CO_IMG14_small.jpg">
 <p>El 24 de agosto de 2006, la Asamblea General de la <negrita>Unión
 Astronómica Internacional (UAI)</negrita> creó una nueva definición
 del concepto <cursiva>planeta</cursiva>. Plutón, al tener una <negrita
@@ -496,7 +496,7 @@ vemos brillante porque refleja la luz del Sol. Presenta unas zonas
 más claras, con un <negrita>gran número de cráteres</negrita>, y otras
 oscuras, llanas y sin cráteres, a las que llamamos <negrita>mares</negrita
 >.</p>
-<imagen src="CS_06_07_CO_IMG15_small.jpg">
+<imagen ampliable="no" src="CS_06_07_CO_IMG15_small.jpg">
 <p>Las manchas oscuras que se observan en la superficie de la Luna
 corresponden a los <negrita>mares</negrita>, y las zonas claras, a
 los <negrita>cráteres</negrita>.</p>
@@ -571,10 +571,10 @@ y en la actualidad los astronautas pueden pasar largas temporadas
 en la Estación Espacial Internacional haciendo investigaciones. Además,
 las misiones espaciales incluyen el lanzamiento de <negrita>satélites
 no tripulados</negrita>.</p>
-<imagen src="CS_06_07_CO_IMG19_small.jpg">
+<imagen ampliable="no" src="CS_06_07_CO_IMG19_small.jpg">
 <p>El <negrita>proyecto Mars One</negrita> busca para el 2024 instalar
 una <negrita>colonia humana</negrita> permanente en <negrita>Marte</negrita
->.</p>
+>.</p><?Pub Caret -2?>
 </imagen>
 <seccion2 id="S2_CS_06_07_CO_63842B77DA7C4FC2AA276C46C3ADE200">
 <seccion2Titulo>Los programas espaciales soviéticos</seccion2Titulo>
@@ -593,7 +593,7 @@ de la ausencia de gravedad en el ser humano.</p>
 <imagen ampliable="no" src="CS_06_07_CO_IMG20_small.jpg">
 <p><negrita>Yuri Gagarin</negrita>, primer ser humano que viajó al
 espacio exterior. Con esta gesta, la Unión Soviética logró un importante
-éxito en la astronomía.</p><?Pub Caret -2?>
+éxito en la astronomía.</p>
 </imagen>
 <profundiza>
 <enlace
