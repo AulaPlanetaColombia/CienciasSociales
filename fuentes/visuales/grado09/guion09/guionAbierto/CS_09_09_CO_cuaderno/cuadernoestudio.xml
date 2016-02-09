@@ -1,389 +1,1019 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_09_09_CO">
-  <libroTitulo>Colombia desde la segunda mitad del siglo XX</libroTitulo>
-  <seccion1 id="S1_CS_09_09_CO_9ADFCECCD5754EDCAD4706FF23A8484A">
-    <seccion1Titulo>El Frente Nacional</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_09_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso010&amp;IdRecurso=RES-0FA67C9417AA401983713573ABD7C258">Recurso F6-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_09_09_CO_8BA72932CA4C469E86C648A2A7D82A4D">
-        <seccion2Titulo>Misael Pastrana Borrero (1970-1974)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_09_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso020&amp;IdRecurso=RES-2C40571B1B554BDE8AB710BF04D61ED6">Recurso M1B-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_09_CO_FF34921E16F2456BA02DFD249CD9B7FD">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_09_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso030&amp;IdRecurso=RES-9A42C1B2A9B14671B79B6EA404773F04">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_09_CO_E2FC43C0F48A482AAD36E76B165A8457">
-    <seccion1Titulo>Colombia después  del Frente Nacional (1974-1986)</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_09_09_CO_63D2139854EC4E57AA79662F07F59F1E">
-        <seccion2Titulo>Alfonso López Michelsen (1974-1978)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_09_CO_img_04_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso040&amp;IdRecurso=RES-24EADD19423D4E359D268C7A8B1C53D4">Recurso M5D-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_09_CO_24279C0E1B424C9E92C8196D61FDD963">
-        <seccion2Titulo>Belisario Betancur Cuartas (1982-1986)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_09_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso050&amp;IdRecurso=RES-7041C062DBE94DD6B6A0C909B3E087D6">Recurso F10-01</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_09_CO_img_06_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_09_CO_img_07_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso070&amp;IdRecurso=RES-6329FB8A0C304ABF83DE2EDD55433B06">Recurso M101A-02</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_09_CO_img_10_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso100&amp;IdRecurso=RES-3A2B03D9A26A43B990DDB12E7B42AFF0">Recurso M101A-03</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_09_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso120&amp;IdRecurso=RES-641A0E83E36F41458C5D99181BFDE468">Recurso M101A-04</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_09_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso130&amp;IdRecurso=RES-0F6546583DB943DBB297C17A4642A17B">Recurso M101A-05</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_09_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso150&amp;IdRecurso=RES-8E299D78D1E04F749C69BB6512D95018">Recurso M101A-06</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_09_CO_313D57F1F2734629801D4A119C969411">
-    <seccion1Titulo>Los gobiernos de Colombia desde finales del siglo XX</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_09_CO_img_08_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso080&amp;IdRecurso=RES-3908BE7382AF4266B79E0449A38494BF">Recurso F7-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_09_CO_img_09_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_09_CO_808A9CA28A2D44F79A66BEB4C8A33840">
-    <seccion1Titulo>La economía colombiana desde  la segunda mitad del siglo XX</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_09_CO_img_11_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso110&amp;IdRecurso=RES-384FF1556D714A4291F0AE69081639AC">Recurso F10B-01</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_09_CO_5AB15FAF35564A6BA1A45619CB55DCEC">
-    <seccion1Titulo>La economía colombiana en la segunda mitad del siglo XX</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_09_CO_BCEE9EF922D249969E513B90E7555C7D">
-    <seccion1Titulo>El conflicto armado y los procesos de paz</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_09_CO_EC3648EF803448318B0A829F07F131E9">
-    <seccion1Titulo>Manifestaciones de la  cultura colombiana</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_09_CO_img_14_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso140&amp;IdRecurso=RES-8DCECC04A02246B8B0D635122E03FD8C">Recurso F4-01</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_09_CO_889AB459B82041B4B66D4C255370CE5F">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_09_CO_img_16_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso160&amp;IdRecurso=RES-3BFE126D7A7E439EA640AC39431379D9">Recurso M102AB-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_09_CO_img_17_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso170&amp;IdRecurso=RES-CE258DA0CD844EEBAECE1D654BE55BC1">Recurso F13-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_09_09_CO_D0230966A1F8452E92F921F55C10545D">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso190&amp;IdRecurso=RES-B4EEBB5347BB4FCE8A463E321F45B586">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso200&amp;IdRecurso=RES-B3F49448D86D4F94A7DF26F40933EAD5">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Colombia desde la segunda mitad del siglo XX</libroTitulo>
+<seccion1 id="S1_CS_09_09_CO_9ADFCECCD5754EDCAD4706FF23A8484A">
+<seccion1Titulo>El Frente Nacional</seccion1Titulo>
+<seccion1Texto>
+<p>En 1957, un acuerdo entre los altos dirigentes de los partidos
+conservador y liberal depuso al general Rojas Pinilla, instaló una
+junta militar de transición y en 1958 puso en marcha lo que se conoció
+como el Frente Nacional.</p>
+<p>El Frente Nacional fue un acuerdo entre los dos partidos tradicionales
+del país. Fue impulsado por Laureano Gómez<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=92089&amp;ruta=Buscador"
+> [VER]</enlace> del partido conservador y Alberto Lleras<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=123413&amp;ruta=Buscador"
+> [VER]</enlace> del partido liberal. Ambos sellaron lo que se conoció
+como el Pacto de Sitges, que institucionalizó el bipartidismo. Con
+este pacto, liberales y conservadores se turnaron para gobernar en
+periodos de cuatro años. Se llamó el Pacto de Sitges porque se firmó
+en la población que tiene el mismo nombre, ubicada en España, en donde
+Laureano Gómez se encontraba exiliado.</p>
+<recuerda><recuerdaTexto>
+<p>El Frente Nacional fue un acuerdo entre dirigentes de los partidos
+tradicionales que derrocaron el gobierno militar del general Gustavo
+Rojas Pinilla.</p>
+<p>El primer periodo les correspondió a los liberales, siendo Alberto
+Lleras Camargo el presidente que le dio inicio a esta modalidad de
+gobierno.</p>
+</recuerdaTexto></recuerda>
+<imagen src="CS_09_09_CO_IMG01_small.jpg">
+<p>El <negrita>Pacto de Sitges</negrita> fue un acuerdo entre los
+partidos conservador y liberal en 1957. Entró en vigor con el derrocamiento
+de la dictadura de Rojas Pinilla (1957). El pacto institucionalizó
+el bipartidismo y repartió el poder de forma alternativa y durante
+periodos de cuatro años, entre los dos partidos que formaron en 1958
+la coalición del Frente Nacional. Este acuerdo finalizó en 1974.</p>
+</imagen>
+<seccion2 id="S2_CS_09_09_CO_8BA72932CA4C469E86C648A2A7D83B5E">
+<seccion2Titulo>Alberto Lleras Camargo, primer presidente del Frente
+Nacional (1958-1962)</seccion2Titulo>
+<seccion2Texto>
+<p>Alberto Lleras Camargo, quien había sido uno de los promotores
+del <negrita>Pacto de Sitges</negrita>, fue el primer presidente del
+Frente Nacional (1958-1962).  Entre 1945 y 1946 ocupó la presidencia
+mientras se resolvió la crisis causada por la renuncia del entonces
+mandatario Alfonso López Pumarejo.</p>
+<p>Lleras Camargo fue un notable <negrita>periodista</negrita>. Fundó
+la revista Semana en 1946. Durante su mandato echó abajo el <negrita
+>estado de sitio</negrita> que se había mantenido por varios años.
+Sin embargo, lo volvió a instaurar de manera intermitente con el objetivo
+de contener la violencia que seguía en el país<enlace
+destino="http://www.elespectador.com/impreso/politica/articuloimpreso43317-un-pais-de-estados-de-excepcion"
+> [VER]</enlace>.</p>
+<p>Lleras Camargo fue un actor importante en las <negrita>relaciones
+internacionales</negrita>. Entre  los años 1948 a 1954 fue el <negrita
+>primer secretario general</negrita> de la Organización de Estados
+Americanos (OEA)<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=7006371&amp;ruta=Buscador"
+> [VER]</enlace>. Igualmente, fue representante de Colombia en la <negrita
+>Conferencia de Chapultepec</negrita>, que dio origen a la Organización
+de  Estados Americanos. Este recorrido le permitió afianzar las relaciones
+con <negrita>Estados Unidos</negrita> y, por ello, como primer presidente
+del Frente Nacional, promovió la creación de la <negrita>Alianza para
+el Progreso</negrita>, que fue un plan de préstamos bancarios y ayudas
+en especie del país del norte para las naciones latinoamericanas<enlace
+destino="http://www.lablaa.org/blaavirtual/exhibiciones/lleras/internacionalista.htm"
+> [VER]</enlace>.</p>
+<p>En el contexto de la Alianza para el Progreso, durante el gobierno
+de Alberto Lleras se crearon <negrita>escuelas</negrita>, se promovieron
+planes <negrita>de vivienda popular</negrita> y se intentó una <negrita
+>fallida reforma agraria</negrita>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso010&amp;IdRecurso=RES-0FA67C9417AA401983713573ABD7C258"
+>La Alianza para el Progreso</enlace>
+</profundiza>
+<imagen src="CS_09_09_CO_IMG02_small.jpg">
+<p>Durante el gobierno de Alberto Lleras, en diciembre de 961 se llevó
+a cabo la visita del presidente estadounidense John F. Kennedy. En
+aquella ocasión se puso en marcha la Alianza para el Progreso.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_09_CO_8BA72932CA4C469E86C648A2A7D83C6F">
+<seccion2Titulo>Guillermo León Valencia (1962-1966)</seccion2Titulo>
+<seccion2Texto>
+<p>El segundo presidente del Frente Nacional fue Guillermo León Valencia.
+Para este periodo, la violencia se había recrudecido. La fórmula del
+bipartidismo del Frente Nacional había excluido a sectores de la población
+que no compartían los ideales de los partidos conservador y liberal.
+Aquello, sumado a la pobreza de grandes masas de campesinos sin tierra,
+ generó la conformación de grupos armados que a partir de 1964 se
+convertirían en <negrita>guerrillas</negrita>.</p>
+<p>La respuesta del gobierno de Guillermo León Valencia al surgimiento
+de estos grupos fue la <negrita>persecución armada</negrita>. Se fortaleció
+al Ejército Nacional y se puso en marcha el <negrita>Plan Laso</negrita
+>, un conjunto de operaciones militares con las que se pretendió aniquilar
+a los insurgentes. De aquel plan formó parte la <negrita>Operación
+Marquetalia</negrita>, que fue el ataque por tierra y aire de una
+región llamada Marquetalia (corregimiento de Gaitania, en el municipio
+de Planadas, Tolima) y de otras como Riochiquito (Cauca), El Pato
+(Huila) y Guayabero (Guaviare).</p>
+<p>Aunque aquellos ataques se hicieron con un impresionante despliegue
+militar y, por lo tanto, dejaron muchas muertes de campesinos, el
+resultado para el gobierno no fue exitoso. Cientos de los perseguidos
+lograron escapar y conformaron guerrillas móviles. De estas surgieron
+las <negrita>Fuerzas Armadas Revolucionarias de Colombia</negrita
+> (Farc)<enlace
+destino="http://www.senalmemoria.gov.co/articulos/la-%E2%80%9Coperaci%C3%B3n-marquetalia%E2%80%9D-en-1964"
+> [VER]</enlace>.</p>
+<imagen src="CS_09_09_CO_IMG03_small.jpg">
+<p>El conservador Guillermo León Valencia fue el segundo presidente
+del Frente Nacional. Durante su mandato ocurrió la Operación Marquetalia,
+una intervención militar contra comunidades de campesinos que habían
+sobrevivido a la violencia de los años cuarenta y se habían organizado
+en cooperativas de trabajo. Estas cooperativas lograron tener control
+del territorio y autonomía política, lo que atemorizó al Estado.</p>
+</imagen>
+<p>Otro asunto por el que se destacó el gobierno de Guillermo León
+Valencia fue la <negrita>paridad</negrita>, es decir, la división
+en forma equitativa y en igual número de funcionarios conservadores
+y liberales en los <negrita>cargos públicos</negrita>. Es decir, que
+la mitad de los cargos que dependían del poder ejecutivo debían ser
+para liberales, y la otra mitad, para conservadores. Los demás gobiernos
+del Frente Nacional siguieron esta pauta.</p>
+<destacado><destacadoTitulo>El surgimiento de las guerrillas comunistas</destacadoTitulo>
+<destacadoTexto>
+<p>Luego de la Operación Marquetalia, ocurrida en el gobierno de Guillermo
+León Valencia, se conformaron las primeras guerrillas de orientación
+comunista: las Farc y el ELN.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_09_CO_8BA72932CA4C469E86C648A2A7D84D7A">
+<seccion2Titulo>Carlos Lleras Restrepo (1966-1970)</seccion2Titulo>
+<seccion2Texto>
+<p>El tercer presidente del Frente Nacional debía ser liberal y Carlos
+Lleras Restrepo fue elegido para este periodo. Lleras fue un brillante
+abogado que tuvo una notable carrera en el sector financiero y empresarial.
+Durante su gobierno, al que él mismo llamó de <negrita>“Transformación
+nacional”</negrita>, fueron varios los intentos para mejorar los índices
+de crecimiento económico del país, así como la calidad de vida de
+los colombianos. Para avanzar en esos propósitos realizó varias acciones
+para modernizar al Estado. Creó instituciones como el <negrita>Fondo
+Nacional del Ahorro</negrita>, el <negrita>ICFES</negrita>, el Instituto
+Colombiano para la Evaluación de la Educación, <negrita>Coldeportes</negrita
+> y Colcultura (hoy Ministerio de Cultura).</p>
+<p>Mientras transcurría el Frente Nacional, América Latina adelantaba
+el modelo de industrialización por sustitución de importaciones. Con
+este se impulsó la creación de industrias nacionales y Carlos Lleras
+impuso para ello un fuerte control a las importaciones, lo que estimuló
+la creación de fábricas y la generación de empleo.</p>
+<p>Su gobierno fue represivo con los trabajadores y los estudiantes
+universitarios, quienes en 1968 organizaron huelgas a nivel nacional
+pidiendo más democracia, más cobertura y mayor autonomía universitaria.
+El movimiento tuvo repercusión en toda la sociedad colombiana. Carlos
+Lleras respondió <negrita>militarizando</negrita> la <negrita>Universidad
+Nacional</negrita> y ordenando el cierre de varias facultades de universidades
+privadas.</p>
+<imagen src="CS_09_09_CO_IMG04_small.jpg">
+<p>El mandato del presidente Carlos Lleras se caracterizó por intentar
+darles a los campesinos un lugar en la sociedad colombiana. Por ello
+adelantó  una <negrita>reforma agraria</negrita> y facilitó la <negrita
+>participación</negrita> de organizaciones campesinas en la vida política
+colombiana.</p>
+</imagen>
+<p>En 1968 impulsó un nuevo intento de reforma agraria pero fue un
+fracaso, pues los grandes terratenientes impidieron la repartición
+de tierras. Aun así, se creó la <negrita>Asociación Nacional de Usuarios
+Campesinos</negrita>, una organización que les daba a los campesinos
+la posibilidad de participar en decisiones políticas y económicas
+para mejorar su nivel de vida.</p>
+<p>Finalmente, en política internacional el gobierno de Carlos Lleras,
+en coordinación con Eduardo Frei de Chile y Raúl Leoni de Venezuela,
+impulsó la exportación de café y participó en la creación del Pacto
+Andino,  un intento de articular los mercados de cada país para competir
+como bloque y facilitar el intercambio comercial entre los países
+que lo conformaron: Bolivia, Chile, Ecuador, Perú y Colombia<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=348680&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>El final del gobierno de Carlos Lleras estuvo marcado por el proceso
+de elecciones para el siguiente periodo presidencial, en 1970. Según
+lo acordado por los partidos tradicionales, el periodo 1970-1974 sería
+el último del Frente Nacional. Sin embargo, para aquel momento muchos
+sectores que se sentían excluidos formaron otros movimientos políticos
+para disputarse el poder con el partido liberal y el conservador.
+La <negrita>ANAPO</negrita> (Alianza Nacional Popular) fue uno de
+esos movimientos, y su líder era el general <negrita>Rojas Pinilla</negrita
+>, de quien muchos ciudadanos tenían una buena imagen.</p>
+<p>Las <negrita>elecciones</negrita> ocurrieron el <negrita>19 de
+abril de 1970</negrita>. Los comicios tuvieron resultados inesperados
+y para muchos colombianos fraudulentos. El ganador resultó ser Misael
+Pastrana del partido conservador, y no Rojas Pinilla, quien tenía
+el favoritismo de las mayorías. Para contener la ira popular, Carlos
+Lleras acudió al toque de queda y al estado de sitio. La zozobra se
+apoderó del país y en ese contexto surgió un nuevo grupo armado de
+izquierda: el <negrita>M-19</negrita> (Movimiento 19 de abril).</p>
+<recuerda><recuerdaTexto>
+<p>El Movimiento 19 de abril (M-19) surgió luego de la cuestionada
+derrota electoral del general Rojas Pinilla, quien se enfrentó a Misael
+Pastrana. El probable fraude de aquellas elecciones fue el origen
+de una nueva guerrilla en Colombia.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_09_CO_8BA72932CA4C469E86C648A2A7D82A4D">
+<seccion2Titulo>Misael Pastrana Borrero (1970-1974)</seccion2Titulo>
+<seccion2Texto>
+<p>El conservador Misael Pastrana ascendió al poder en 1970 y se convirtió
+en el último presidente del Frente Nacional. A su gobierno lo llamó <negrita
+>“Frente social”</negrita>, y se basó en cuatro estrategias centradas
+en impulsar el desarrollo urbano y la migración de campesinos a la
+ciudad:</p>
+<listaSinNumerar>
+<listaElemento>Estímulo a la industria de la <negrita>construcción</negrita
+>. Se esperaba que esta generara el empleo suficiente para los <negrita
+>campesinos migrantes</negrita>.</listaElemento>
+<listaElemento>Estímulo a las <negrita>exportaciones</negrita>.</listaElemento>
+<listaElemento>Ajustes a la reforma agraria propuesta en el gobierno
+de Carlos Lleras.</listaElemento>
+<listaElemento>Redistribución del ingreso de los colombianos.</listaElemento>
+</listaSinNumerar>
+<p>En aquel momento de la historia del país era urgente la reforma
+agraria. Carlos Lleras la había propuesto, pero tuvo una fuerte oposición
+de los grandes propietarios. El gobierno de Misael Pastrana propició
+lo que se conoció como la firma del <negrita>“pacto de Chicoral”</negrita
+>, un acuerdo entre los terratenientes conservadores y liberales (dueños
+de grandes fincas ganaderas, bananeras, cafeteras y arroceras, particularmente)
+para impedir que se llevara a cabo la distribución de tierras a los
+campesinos propuesta por el gobierno de Carlos Lleras<enlace
+destino="http://www.banrepcultural.org/node/64914"> [VER]</enlace
+>.</p>
+<p>Para recoger fondos para el Estado, Misael Pastrana creó el llamado <negrita
+>sistema UPAC</negrita> (<cursiva>unidad de poder adquisitivo constante</cursiva
+>), que le facilitaba a la gente adquirir vivienda con <negrita>préstamos</negrita
+> que tenían unos intereses que crecían al ritmo de la <negrita>inflación</negrita
+>. En un momento crítico de la economía del país, estos intereses
+aumentaron de manera vertiginosa, lo que llevó a que las corporaciones
+y bancos recibieran grandes sumas de dinero, pero que los propietarios
+de viviendas compradas con estos créditos se vieran, en muchos casos,
+obligados a devolverlas.</p>
+<imagen src="CS_09_09_CO_IMG05_small.jpg">
+<p>El gobierno de Misael Pastrana puso en marcha el sistema UPAC,
+que facilitó el acceso a créditos para la adquisición de vivienda.
+Debido a que los intereses de dichos créditos crecían al ritmo de
+la inflación, muchas familias se vieron obligadas a perder sus casas,
+pues no podían pagar las cuotas que cada vez se incrementaban más.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso020&amp;IdRecurso=RES-2C40571B1B554BDE8AB710BF04D61ED6"
+>Los gobiernos del Frente Nacional</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_09_CO_FF34921E16F2456BA02DFD249CD9B7FD">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso030&amp;IdRecurso=RES-9A42C1B2A9B14671B79B6EA404773F04"
+>Refuerza tu aprendizaje: El Frente Nacional</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_09_CO_E2FC43C0F48A482AAD36E76B165A8457">
+<seccion1Titulo>Colombia después del Frente Nacional (1974-1986)</seccion1Titulo>
+<seccion1Texto>
+<p>A pesar de que el Frente Nacional se propuso acabar con las pugnas
+bipartidistas y frenar la violencia que azotaba al país desde la guerra
+de los Mil Días y, más tarde, después de “El Bogotazo”, no lo logró,
+pues propició tales niveles de <negrita>exclusión política</negrita
+>, que surgieron nuevos movimientos y actores políticos que también
+querían tener participación y poder. Por eso en la Colombia que le
+siguió a los años del Frente Nacional la violencia tuvo nuevas expresiones.
+Así mismo, el contexto mundial se fue transformando con la <negrita
+>crisis del petróleo</negrita> (1973)<enlace
+destino="http://www.historiasiglo20.org/GLOS/crisispetroleo.htm"> [VER]</enlace
+>.</p>
+<p>Durante el Frente Nacional se lograron importantes <negrita>avances</negrita
+> en el campo económico. La <negrita>industrialización por sustitución
+de importaciones</negrita> impulsó la creación de empresas fabriles
+para la producción de <negrita>mercancías</negrita>. Esto generó mayor <negrita
+>empleo</negrita> y un mercado interno. Pero esto fue insuficiente
+debido a la lentitud de la reforma agraria, que finalmente no se culminó.</p>
+<p>La década de los años setenta fue, entonces, muy convulsionada.
+No solo porque ya venían presionando las guerrillas que surgieron
+hacia 1964 (<negrita>Farc</negrita> y <negrita>ELN</negrita>), sino
+porque con el supuesto fraude de las elecciones de 1970 surgió un
+tercer grupo de gran poder de maniobra en las ciudades, el M-19<enlace
+destino="http://banrepcultural.org/sites/default/files/lablaa/revistas/analisispolitico/ap7.pdf"
+> [VER]</enlace>.</p>
+<p>Así mismo, nuevos partidos políticos como la <negrita>ANAPO</negrita
+> y el <negrita>MRL</negrita> entraron a competir por el poder. Este
+reacomodamiento de la realidad hizo más interesante y diverso, pero
+también más complicado, el camino político del país.</p>
+<p>En abril de <negrita>1974</negrita> el país se preparó para unas <negrita
+>nuevas elecciones</negrita>. Participaron: Álvaro Gómez (conservador,
+hijo del expresidente Laureano Gómez); Alfonso López Michelsen (liberal,
+líder y fundador del Movimiento Revolucionario Liberal, MRL. Era el
+hijo del expresidente Alfonso López Pumarejo) y María Eugenia Rojas
+de Moreno (hija del expresidente Gustavo Rojas Pinilla). Ganó el candidato
+del MRL.</p>
+<seccion2 id="S2_CS_09_09_CO_63D2139854EC4E57AA79662F07F59F1E">
+<seccion2Titulo>Alfonso López Michelsen (1974-1978)</seccion2Titulo>
+<seccion2Texto>
+<p>El gobierno del primer presidente que gobernó una vez terminó el
+Frente Nacional se conoció como el <negrita>“Mandato claro”</negrita
+>. Sus primeras medidas apuntaron a <negrita>controlar la inflación</negrita
+> producida por varios factores. Entre ellos, la disminución del poder
+adquisitivo de los trabajadores, cuyos salarios aumentaban de manera
+irregular y en menor proporción que los precios de la <negrita>canasta
+familiar</negrita>; además, el país pasaba por una bonanza cafetera
+momentánea. Esta generó el ingreso de mucho dinero  por la venta de
+café al país, lo que también contribuyó a aumentar el costo de vida.</p>
+<p>Para enfrentar la situación, las medidas del gobierno estuvieron
+orientadas a <negrita>reducir</negrita> el <negrita>gasto público</negrita
+>, y aunque se propuso negociar con los <negrita>sindicatos</negrita
+> de trabajadores cómo sería el aumento del salario mínimo, no se
+llegó a acuerdos satisfactorios, lo que provocó un gran malestar y
+generó movilizaciones y paros, el más grande de ellos: el <negrita
+>paro de 1977</negrita>.</p>
+<p>Adicionalmente, el país vivió lo que se conoció como la <negrita
+>“bonanza marimbera”</negrita>, un periodo en el que se sembraron
+numerosos cultivos de <negrita>marihuana</negrita> y <negrita>coca</negrita
+>, que se exportaban a Estados Unidos<enlace
+destino="http://revistas.elheraldo.co/latitud/tiempos-de-locura-la-bonanza-marimbera-parte-ii-83739"
+> [VER]</enlace>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso040&amp;IdRecurso=RES-24EADD19423D4E359D268C7A8B1C53D4"
+>La economía colombiana durante el gobierno de Alfonso López Michelsen</enlace>
+</profundiza>
+<p>Esta bonanza trajo violencia y a la vez puso a prueba al gobierno
+para contener un proceso que comprometía la estabilidad social, pues
+muchos campesinos veían en este negocio la oportunidad para salir
+de la pobreza, pero también se encontraban sometidos por los poderosos
+y peligrosos clanes mafiosos encargados de sacar la droga del país
+para venderla en los países desarrollados.</p>
+<p>Todos estos factores hicieron que el gobierno de López Michelsen
+coincidiera con un periodo en que la economía sufrió grandes remezones.
+Por un lado, el dinero de la <negrita>mafia</negrita> iba creando
+una <negrita>nueva clase social</negrita>, con nuevos gustos que exigían
+abrir las fronteras a las importaciones, pero por otro, la gran mayoría
+de trabajadores debían vivir con malos salarios. Así mismo, con el
+propósito de mover la economía, López logró que grandes empresas multinacionales
+se ocuparan de la explotación de recursos nacionales, lo que llevó
+a que aumentara la <negrita>inversión</negrita> en <negrita>infraestructura</negrita
+> vial, portuaria y aeroportuaria para facilitar el transporte de
+mercancías. La sumatoria de estos factores hizo que Colombia se modernizara
+cada vez más, aunque su población seguía viviendo en la desigualdad<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=3&amp;idpil=7405159&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<recuerda><recuerdaTexto>
+<p>En los años setenta se presentó un fenómeno que marcó el futuro
+del país. La “bonanza marimbera” dio paso a los cultivos ilícitos,
+hecho que trajo graves consecuencias sociales. Desde entonces, Colombia
+enfrenta la realidad del narcotráfico.</p>
+</recuerdaTexto></recuerda>
+<imagen src="CS_09_09_CO_IMG06_small.jpg">
+<p>La bonanza marimbera fue un fenómeno que impulso en regiones costeras
+del país el cultivo de la marihuana. Esto, que coincidió con la crisis
+del algodón, propició el surgimiento de mafias locales que iniciaron
+la exportación de esta planta y, posteriormente, la cocaína y la heroína.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_09_CO_24279C0E1B424C9E92C8196D61FDE074">
+<seccion2Titulo>Julio César Turbay Ayala (1978-1982)</seccion2Titulo>
+<seccion2Texto>
+<p>Este periodo presidencial se vio afectado por el final de la bonanza
+cafetera, debida a una paulatina <negrita>baja en los precios</negrita
+>. Además, la crisis económica que se vivía a nivel global ocasionó
+un grave desequilibrio en el país. La producción y las exportaciones
+se vieron golpeadas, como también el sector financiero. El bolsillo
+de los colombianos se afectó por el aumento del costo de vida. Esta
+situación generó gran descontento popular.</p>
+<p>De otra parte, el país vio cómo crecían las guerrillas de las Farc
+y el ELN. El M-19 se caracterizó por dar golpes que atraían la atención
+de la opinión pública.</p>
+<p>En enero de 1979, el M-19 sustrajo 1500 armas del <negrita>Cantón
+Norte</negrita> y en febrero de 1980 se <negrita>tomó la embajada</negrita
+> de la <negrita>República Dominicana en Bogotá</negrita>. Desde aquel
+momento, el gobierno de Turbay Ayala permitió que el <negrita>Ejército</negrita
+> enfrentara sin ninguna restricción a los grupos guerrilleros a y,
+por tanto, se presentaron muchas violaciones a los derechos humanos.</p>
+<p>El gobierno aplicó el <negrita>“Estatuto de Seguridad”</negrita
+>, amparado en el estado de sitio (artículo 121 de la Constitución
+vigente de 1886), figura que había sido recurrente desde inicios del
+Frente Nacional. Con el decreto 1923 del 6 de septiembre de 1978,
+que rigió hasta el 9 de junio de 1982, se tomaron un conjunto de medidas
+que <negrita>restringieron</negrita> los <negrita>derechos</negrita
+> y las garantías individuales.</p>
+<imagen src="CS_09_09_CO_IMG07_small.jpg">
+<p>Julio César Turbay Ayala enfrentó a las guerrillas colombianas
+al promulgar el Estatuto de Seguridad, que concedió amplios poderes
+a las Fuerzas Militares.</p>
+</imagen>
+<p>Entre agosto de 1978 y julio de 1979 fueron <negrita>detenidas
+60 000</negrita> personas, según fuentes del Ministerio de Defensa.
+El Ejército impartió justicia sobre delitos políticos a través de
+Consejos Verbales de Guerra. Incluso reconocidos intelectuales sufrieron
+detención; por ejemplo, el poeta Luis Vidales, la escultora Feliza
+Bursztin y la pianista Teresa Gómez. <negrita>Gabriel García Márquez</negrita
+> tuvo que tomar el camino del <negrita>exilio</negrita>. Centenares
+de estudiantes de universidades públicas fueron detenidos y algunos
+asesinados o desaparecidos.</p>
+<p>Esta manera de afrontar la lucha armada trajo efectos adversos.
+En vez de reducir los actos de las guerrillas, incrementó su fuerza,
+pues sus filas se engrosaron aún más, lo que recrudeció la violencia
+en campos y ciudades. El país clamaba paz con menos represión y más
+convivencia y diálogo. Este sentir fue definitivo para la elección
+del siguiente presidente.</p>
+<recuerda><recuerdaTexto>
+<p>Durante el mandato de Julio  César Turbay Ayala se puso en marcha
+el Estatuto de Seguridad, que le dio poderes a las Fuerzas Armadas,
+lo que tuvo graves consecuencias. Por ejemplo, las libertades de expresión
+y reunión fueron reprimidas con severidad.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_09_CO_24279C0E1B424C9E92C8196D61FDD963">
+<seccion2Titulo>Belisario Betancur Cuartas (1982-1986)</seccion2Titulo>
+<seccion2Texto>
+<p>Luego de que el país constató que el uso de la fuerza había resultado
+ineficaz para derrotar a las guerrillas, vio cómo desde el gobierno
+se planteó una nueva fórmula: un <negrita>proceso de paz</negrita
+>, basado en la Ley de <negrita>amnistía</negrita> de 1982. Cada una
+de las guerrillas (M-19, Farc y ELN, principalmente) respondieron
+de distinta manera a la ley y a la propuesta de diálogo del gobierno.</p>
+<p>En unos casos, mientras el gobierno liberaba a presos políticos,
+las guerrillas exigían reales cambios sociales. En otros casos, dialogaban
+pero se mantenían en pie de lucha con las armas. Las <negrita>treguas</negrita
+> y cese al fuego fueron de corta duración. Ocurrieron varias desmovilizaciones
+de guerrilleros que entregaron las armas, pero que pronto vieron que
+algunos sectores cercanos al poder estaban en desacuerdo con los diálogos
+y la amnistía. Muchos fueron víctimas de persecución y atentados,
+como Antonio Navarro Wolf.</p>
+<p>La relación de fuerzas terminó por romper el proceso. El hecho
+con el que definitivamente se dio por terminado cualquier intento
+de paz en aquel momento fue la <negrita>toma</negrita> del <negrita
+>Palacio de Justicia</negrita>, sede de la Corte Suprema de Justicia.
+El 6 de noviembre de 1985 un comando de asalto del M-19 ingresó por
+la fuerza a palacio. Aquella acción tuvo la respuesta inmediata de
+las Fuerzas Armadas que, con tropas, tanques y rockets, enfrentaron
+a los guerrilleros. El resultado del operativo fue desastroso. Decenas
+de muertos y desaparecidos fueron las víctimas de confusos hechos,
+en los que la responsabilidad por este hecho aún no acaba de establecerse<enlace
+destino="http://www.banrepcultural.org/blaavirtual/revistas/credencial/septiembre1999/117toma.htm"
+> [VER]</enlace>.</p>
+<imagen src="CS_09_09_CO_IMG08_small.jpg">
+<p>La toma y retoma del Palacio de Justicia, los días 5 y 6 de noviembre
+de 1985, puso en tela de juicio a la democracia colombiana, en tanto
+dejó al descubierto lo amenazado que se encontraba el poder judicial
+del país.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso050&amp;IdRecurso=RES-7041C062DBE94DD6B6A0C909B3E087D6"
+>La toma del Palacio de Justicia</enlace>
+</profundiza>
+<p>Ante los hechos del Palacio de Justicia, el país vio a un poder
+ejecutivo maniatado y débil ante la autonomía y decisión de las Fuerzas
+Armadas. El presidente Betancur no supo contener la decisión del Ejército
+de responder con más fuego, lo que ocasionó, por ejemplo, impresionantes
+incendios en el interior del edificio del palacio. Aquello fue una
+demostración del poder de la institución castrense en un país que
+aún no consolidaba su democracia y las garantías de un Estado de derecho.
+Por esto, la tragedia del Palacio dejó graves secuelas para la sociedad
+colombiana.</p>
+<p>A los pocos días de esta tragedia se sumó otra de enormes proporciones:
+la erupción del volcán nevado de Ruiz, el 13 de noviembre de 1985,
+que causó la destrucción de la ciudad de Armero, en el departamento
+del Tolima, que dejó más de 20 000 víctimas. Con este difícil acontecimiento
+empezó la culminación del gobierno de Belisario Betancur.</p>
+<recuerda><recuerdaTexto>
+<p>El gobierno de Belisario Betancur, que inició con grandes deseos
+de paz, terminó opacado por hechos como la toma y retoma del Palacio
+de Justicia y la avalancha del volcán nevado del Ruiz.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso060&amp;IdRecurso=RES-69116F405C0144C1B0E116FBB6B2F329"
+>Aspectos destacados de la historia de Colombia entre 1974 y 1986</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_09_CO_24279C0E1B424C9E92C8196D61FDF185">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso070&amp;IdRecurso=RES-6329FB8A0C304ABF83DE2EDD55433B06"
+>Refuerza tu aprendizaje: Colombia después del Frente Nacional</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_09_CO_313D57F1F2734629801D4A119C969411">
+<seccion1Titulo>Los gobiernos de Colombia desde finales del siglo
+XX</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso080&amp;IdRecurso=RES-3908BE7382AF4266B79E0449A38494BF"
+>Los principales acontecimientos en Colombia desde finales del siglo
+XX</enlace>
+</profundiza><seccion2
+id="S2_CS_09_09_CO_24279C0E1B424C9E92C8196D61FDA296">
+<seccion2Titulo>El gobierno de Virgilio Barco Vargas (1986-1990)</seccion2Titulo>
+<seccion2Texto>
+<p>Para 1986, la situación política del país, además de ser crítica
+en el campo político, lo era en el económico.</p>
+<p>La <negrita>crisis de la deuda</negrita> que golpeaba al continente
+empezó a dar sus coletazos sin embargo, las <negrita>heladas</negrita
+> que vivió Brasil en 1985 le dejaron el <negrita>camino abierto</negrita
+> a Colombia para aumentar sus <negrita>exportaciones de café</negrita
+>. Por unos meses la economía repuntó, pero esta fue una situación
+momentánea, pues se agravó nuevamente.</p>
+<p>Entre tanto, un fenómeno había tomado vuelo: el <negrita>narcotráfico</negrita
+>. Este periodo presidencial vio brutalmente saboteada su gestión
+debido al poderío de grupos mafiosos y capos como <negrita>Pablo Escobar</negrita
+> y <negrita>Gonzalo Rodríguez Gacha</negrita>. El interés de estos
+grupos por conquistar territorio en las zonas rurales del país, los
+llevó a conformar grupos <negrita>paramilitares</negrita> para enfrentar
+a las guerrillas<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=532666&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>Muchas veces estos grupos paramilitares tuvieron el apoyo del Estado
+colombiano. Esta circunstancia agravó el conflicto y generó nuevas
+formas de violencia. En el periodo de Virgilio Barco se presentaron
+varios <negrita>magnicidios</negrita>: fueron asesinados procuradores,
+políticos de izquierda y de centro.</p>
+<p>Así mismo, se creó una ola de terror suscitada por una modalidad
+que amedrentó a la población civil: los atentados a los establecimientos
+públicos. Periódicos como <negrita>El Espectador</negrita>, instituciones
+públicas como el <negrita>Departamento Administrativo de Seguridad</negrita
+> (DAS) fueron algunos de los blancos de ataques que dejaron decenas
+de víctimas, además de atentados a aviones en pleno vuelo.</p>
+<imagen src="CS_09_09_CO_IMG09_small.jpg">
+<p>El 2 de octubre de 1986 el presidente Virgilio Barco denunció la
+gravedad de la situación que vivía Colombia. La amenaza  del narcotráfico
+constituía la principal causa de inestabilidad y muerte en el país.</p>
+</imagen>
+<destacado><destacadoTitulo>Un periodo de magnicidios</destacadoTitulo>
+<destacadoTexto>
+<p>Durante el gobierno de Virgilio Barco ocurrió el asesinato de <negrita
+>Luis Carlos Galán Sarmiento</negrita>, quien era partidario de la
+extradición de los narcotraficantes a Estados Unidos. Esto le valió
+el odio de los grandes capos. Con su muerte, la nación entera vio
+cómo la democracia se deterioraba cada vez más, ya que se encontraba
+a merced de los carteles de la droga.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_09_CO_24279C0E1B424C9E92C8196D61FDB307">
+<seccion2Titulo>César Gaviria Trujillo (1990-1994)</seccion2Titulo>
+<seccion2Texto>
+<p>En nombre de Luis Carlos Galán, el partido liberal confió en  César
+Gaviria la candidatura y posterior victoria en las elecciones para
+el periodo 1990-1994.</p>
+<p>Con Gaviria vino el estilo de gobernar distinto: <negrita>tecnocrático</negrita
+> y orientado hacia las <negrita>políticas neoliberales</negrita>.
+En principio, lo que buscó Gaviria fue lograr altas tasas de crecimiento
+económico y reforzar la participación de Colombia en el mercado mundial.
+Su frase de campaña “Bienvenidos al futuro” quería dar a entender
+que era posible pensar una Colombia sin violencia y próspera, capaz
+de competir económicamente, en igualdad de condiciones con los países
+desarrollados<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=137282&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>Su política fundamental se concentró en la llamada <negrita>“apertura”</negrita
+>: una estrategia para la aplicación de medidas neoliberales, como
+poner en <negrita>venta</negrita> un buen número de <negrita>empresas
+nacionales</negrita>. También se cambiaron reglas laborales, al quitarles
+a los trabajadores derechos adquiridos en procura de una mayor <negrita
+>flexibilización</negrita> de la contratación. Con ello se buscó que
+las grandes empresas tuvieran mayores ganancias.</p>
+<imagen src="CS_09_09_CO_IMG10_small.jpg">
+<p>Integrantes del movimiento La Séptima Papeleta (Periódico El País).
+La Asamblea Nacional Constituyente despertó el optimismo en muchos
+sectores sociales colombianos, que esperaban tener participación en
+la vida política.</p>
+</imagen>
+<p>Derechos como la <negrita>salud</negrita> y la <negrita>educación</negrita
+> pasaron paulatinamente a manos <negrita>privadas</negrita>. Con
+esto se buscaba que fueran más eficientes. Sin embargo, con el tiempo
+se constató que la estrategia no resultó adecuada, ya que al pertenecer
+a empresarios y no al Estado, se sometían a intereses particulares
+y no a intereses públicos.</p>
+<p>Mientras avanzaban estas medidas, que terminaron profundizando
+la desigualdad, hubo nuevos intentos de diálogo con las guerrillas
+y de contención del terrorismo provocado por las acciones de los narcotraficantes.
+Sin embargo, la jugada maestra con la que se quiso cambiar definitivamente
+la situación del país fue la convocatoria a una <negrita>Asamblea
+Constituyente</negrita><enlace
+destino="http://www.banrepcultural.org/asamblea-nacional-constituyente"
+> [VER]</enlace>. Esta se instaló el <negrita>5 de febrero de 1991</negrita
+> y finalizó el <negrita>4 de julio del mismo año</negrita>.</p>
+<recuerda><recuerdaTexto>
+<p>La Asamblea Nacional Constituyente tuvo como resultado principal
+la creación de una nueva Carta Magna, en la que la multiculturalidad
+empezó a ser reconocida como elemento fundamental de la identidad
+colombiana.</p>
+</recuerdaTexto></recuerda>
+<p>Una vez se sancionó la nueva Constitución política, el país vivió
+cambios importantes. Grupos sociales cuyos derechos habían sido negados
+sistemáticamente empezaron a ser tenidos en cuenta como sujetos políticos.
+El reconocimiento de la <negrita>multiculturalidad</negrita> fue uno
+de los avances que se logró con la nueva <negrita>carta magna</negrita
+><enlace destino="http://www.constitucioncolombia.com/historia.php"
+> [VER]</enlace>. Sin embargo, aunque fue su propósito, la Constitución
+de 1991 no fue suficiente para contener la violencia que vivía el
+país y cerrar la brecha de desigualdad.</p>
+<p>Desde el gobierno de  César Gaviria la aplicación de las medidas
+neoliberales con la llamada “apertura”, el país empezó a ver cómo
+los recursos naturales y las empresas nacionales eran privatizados
+ para beneficio de <negrita>capitalistas extranjeros</negrita>. Las <negrita
+>telecomunicaciones</negrita>, el sistema de salud, el sistema de
+pensiones fueron algunos de los sectores que pasaron al sector privado.</p>
+<imagen src="CS_09_09_CO_IMG11_small.jpg">
+<p>La subasta de bienes y recursos de la nación, así como la privatización
+y el ingreso de mercancías importadas, desató grandes polémicas sobre
+si esta traía bienestar o, por el contrario, más desigualdad, debido
+a que las ganancias sobre productos y servicios terminaban en manos
+extranjeras.</p>
+</imagen>
+<p>Aunque se ganó en eficiencia, la privatización de sectores como
+la salud limitó el acceso a este derecho a amplios sectores de la
+población. Esto provocó un ascenso en los índices de <negrita>desigualdad</negrita
+>, lo que obligó al Estado a diseñar políticas para subsanar la situación
+de marginalidad de los más pobres. Los gobiernos de finales del siglo
+XX debieron aplicar estrategias para contener el avance de la pobreza
+generada por las medidas neoliberales. Pero la presión internacional
+por mantener las medidas de apertura fueron superiores y los intentos
+para controlar la exclusión fueron insuficientes.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso090&amp;IdRecurso=RES-86F92512D56B49B8B07759194A4D5AA8"
+>Acontecimientos de la historia reciente de Colombia</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_09_CO_24279C0E1B424C9E92C8196D61FDC418">
+<seccion2Titulo>Ernesto Samper Pizano (1994-1998)</seccion2Titulo>
+<seccion2Texto>
+<p>Luego de haber sido ministro de Desarrollo Económico en el primer
+año del gobierno de  César Gaviria, y luego embajador en España, Ernesto
+Samper Pizano llegó al poder para el periodo 1994-1998.</p>
+<p>Su gobierno se conoció como el de <negrita>“Salto social”</negrita
+>. Pretendió aliviar la situación de los colombianos afectados por
+las medidas neoliberales. Se crearon programas de subsidios como el <negrita
+>Sisben</negrita> y, así mismo, algunas ayudas para campesinos que
+reemplazaran sus cultivos ilícitos de coca y amapola por cultivos
+legales. Sin embargo, debido a que los cultivos ilícitos verdaderamente
+significativos por su extensión no eran los que estaban en manos de
+campesinos, sino de grandes terratenientes, esta medida resultó insuficiente
+para contener la producción y el tráfico de drogas.</p>
+<imagen src="CS_09_09_CO_IMG12_small.jpg">
+<p>Ernesto Samper ocupó la presidencia de la República entre 1994
+y 1998. En 2014 fue designado secretario general de la Unión de Naciones
+Suramericanas (Unasur).</p>
+</imagen>
+<p>El mandato de Samper Pizano estuvo marcado por la acusación que
+su rival político, el conservador Andrés Pastrana, le hizo de haber
+realizado su campaña presidencial con dineros del narcotráfico. Esto
+desató múltiples investigaciones. El presidente se mantuvo en su cargo
+hasta el final y se vio obligado a gobernar en medio del descrédito
+y la presión de sus oponentes. Las investigaciones judiciales en su
+contra y algunos de sus colaboradores más cercanos, como el ministro
+de Defensa Fernando Botero, se conocieron como el <negrita>“proceso
+8000”</negrita><enlace
+destino="http://www.elespectador.com/especiales/el-proceso-8000-20-anos-del-escandalo-mayor-articulo-556513"
+> [VER]</enlace>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_09_CO_24279C0E1B424C9E92C8196D61FDG529">
+<seccion2Titulo>Andrés Pastrana (1998-2002)</seccion2Titulo>
+<seccion2Texto>
+<p>El descrédito de Ernesto Samper por el “proceso 8000” facilitó
+el ascenso de Andrés Pastrana, su principal opositor. Este prometió
+extirpar el narcotráfico y lograr la paz con la guerrilla de las Farc,
+para ese momento muy fortalecida por sus vínculos con los cultivos
+ilícitos.</p>
+<p>Para lograr el primer propósito, Pastrana llevó adelante el <negrita
+>Plan Colombia</negrita>, un enorme proyecto financiado con préstamos
+estadounidenses que fueron utilizados en: estímulos a la producción
+agrícola (reemplazo de cultivos ilícitos por cultivos de productos
+tropicales), control territorial y presencia militar<enlace
+destino="http://www.elespectador.com/impreso/internacional/articuloimpreso-213835-plan-colombia-diez-anos-despues"
+> [VER]</enlace>.</p>
+<p>Sin embargo, el mayor componente fue el <negrita>militar</negrita
+>, que además de perseguir a los narcotraficantes y fumigar cultivos
+ilícitos terminó afectando a sectores de población campesina, cuyas
+parcelas terminaron al servicio del narcotráfico. En otros casos,
+el Plan Colombia destinó esfuerzos para que los cultivos fueran reemplazados
+por <negrita>palma de aceite</negrita>, un importante insumo para
+la producción de biocombustible.</p>
+<p>Otro de los frentes del gobierno Pastrana fueron los diálogos con
+las Farc. Para ello se creó una zona de distensión en el Caguán, compartida
+por cuatro municipios de los departamentos del Meta y del Caquetá.
+Entre noviembre de 1998 y febrero de 2002.</p>
+<imagen src="CS_09_09_CO_IMG13_small.jpg">
+<p>Durante su mandato, Andrés Pastrana intentó sin éxito llevar a
+cabo negociaciones de paz con las Fuerzas Armadas Revolucionarias
+de Colombia (Farc), los grupos paramilitares y el Ejército de Liberación
+Nacional (ELN).</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_09_CO_24279C0E1B424C9E92C8196D61FDH630">
+<seccion2Titulo>Álvaro Uribe Vélez (2002-2010)</seccion2Titulo>
+<seccion2Texto>
+<p>De filiación liberal, Álvaro Uribe Vélez es un empresario que convenció
+a la mayoría de los electores de sus capacidades para lograr la paz.
+Su gobierno, llamado de <negrita>“Seguridad democrática”</negrita
+>, fortaleció a las Fuerzas Militares e incorporó a algunos sectores
+de la población en la lucha contra la insurgencia.</p>
+<p>Así mismo, puso en marcha una la <negrita>Ley de Justicia y</negrita
+>, que pretendió negociar las penas con los paramilitares que confesaran
+sus atroces crímenes. Con esta ley algunos de sus líderes fueron puestos
+en prisión para cumplir penas de ocho años y otros fueron extraditados
+a Estados Unidos para pagar condenas por narcotráfico. Las víctimas
+de las masacres y asesinatos selectivos en su mayoría no han sido
+reparadas como correspondería a la magnitud de sus crímenes <negrita
+>Paz</negrita><enlace
+destino="http://www.razonpublica.com/index.php/conflicto-drogas-y-paz-temas-30/1721-justicia-y-paz-iverdad-negociada-ilas-verdades-o-la-verdad-iverdad-oficial.html#comment-1814"
+> [VER]</enlace>.</p>
+<p>En el campo económico, el gobierno de Uribe Vélez promovió el <negrita
+>Tratado de Libre Comercio</negrita> con Estados Unidos, que fue firmado
+en el gobierno siguiente (Juan Manuel Santos). Se trata de un acuerdo
+que facilita el intercambio de productos entre los dos países, que
+disminuye los impuestos de ingreso de bienes y servicios, y pretende
+que las mercancías que se producen en Colombia circulen libremente
+en el país del norte. Para que esto pueda ser benéfico para el país
+se requiere que haya una igualdad de condiciones en los subsidios
+que otorgan los Estados a sus agricultores e industriales, asunto
+que se convierte en un desafío para Colombia, dado que su industria
+es poca y las ayudas para los agricultores son insuficientes<enlace
+destino="http://www.tlc.gov.co/publicaciones.php?id=723"> [VER]</enlace
+>.</p>
+<imagen src="CS_09_09_CO_IMG14_small.jpg">
+<p>Con los tratados de libre comercio, los agricultores e industriales
+colombianos  compiten con productos extranjeros que llegan a precios
+subsidiados (más baratos), lo que dificulta la estabilidad en la producción
+y afecta a los campesinos.</p>
+</imagen>
+<destacado><destacadoTitulo>Falta Título</destacadoTitulo>
+<destacadoTexto>
+<p>Álvaro Uribe Vélez, quien se propuso pacificar al país, con el
+apoyo del Congreso de la República logró hacer una reforma constitucional
+que le dio más facultades al poder ejecutivo y permitió la reelección
+presidencial, lo que facilitó que fuera reelegido para un segundo
+periodo (2006-2010).</p>
+</destacadoTexto></destacado>
+<p>Con su proyecto de pacificar el país, continuó fortaleciendo a
+las Fuerzas Armadas, quienes con la cooperación de Estados Unidos
+tuvieron un impacto notable en la lucha contra la subversión: la <negrita
+>operación Jaque</negrita>, con la que se rescató a un grupo de secuestrados
+entre los que se encontraban la excandidata presidencial Ingrid Betancurt
+y tres ciudadanos norteamericanos, así como la operación Fénix, en
+la que fue bombardeado un campamento que la guerrilla colombiana tenía
+en Ecuador, y donde murió el comandante <negrita>Raúl Reyes</negrita
+>, le dieron mayor popularidad a Uribe Vélez.</p>
+<p>El siguiente periodo presidencial fue asumido por quien ejerció
+como ministro de Defensa en el segundo periodo presidencial de Uribe
+Vélez.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_09_CO_24279C0E1B424C9E92C8196D61FDJ346">
+<seccion2Titulo>Juan Manuel Santos (2010-2018 )</seccion2Titulo>
+<seccion2Texto>
+<p>Tras su éxito en las operaciones Jaque y Fénix, el último ministro
+de Defensa del gobierno de Uribe Vélez fue elegido para el periodo
+2010-2014. De nuevo se hizo la promesa de vencer a la guerrilla y
+de parar el conflicto. Sin embargo, esta vez, además del uso de la
+fuerza, el presidente impulsó un proceso de <negrita>diálogos con
+las Farc</negrita>, que se inició en octubre de 2012 en la ciudad
+de Oslo, Noruega y, posteriormente, en La Habana, Cuba.</p>
+<p>En el campo económico se destaca la firma del <negrita>Tratado
+de Libre Comercio</negrita> con Estados Unidos y la participación
+en la <negrita>Alianza del Pacífico</negrita>, una iniciativa de integración
+regional creada el 28 de abril de 2011 por Chile, Colombia, México
+y Perú.</p>
+<imagen src="CS_09_09_CO_IMG15_small.jpg">
+<p>Durante el gobierno de Juan Manual Santos se ha dado gran impulso
+a la “locomotora minera”, que consiste en la extracción intensiva
+de recursos minerales destinados a la exportación.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_09_CO_24279C0E1B424C9E92C8196D61FDS179">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso100&amp;IdRecurso=RES-3A2B03D9A26A43B990DDB12E7B42AFF0"
+>Refuerza tu aprendizaje: Los gobiernos de Colombia desde finales
+del siglo XX</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_09_CO_5AB15FAF35564A6BA1A45619CB55DCEC">
+<seccion1Titulo>La economía colombiana en la segunda mitad del siglo
+XX</seccion1Titulo>
+<seccion1Texto>
+<p>La economía colombiana está centrada en la producción de <negrita
+>bienes primarios</negrita>, principalmente <negrita>café</negrita
+>, <negrita>petróleo</negrita>, <negrita>carbón</negrita> y <negrita
+>minerales</negrita> como el <negrita>oro</negrita>. En el sector
+industrial vivió una etapa de gran impulso en los años sesenta  y
+setenta, cuando el país aplicó políticas de industrialización por
+sustitución de importaciones. En los años noventa, con la llegada
+de la apertura, impulsada fundamentalmente durante el gobierno de
+César Gaviria, se dio vía libre a la <negrita>inversión extranjera</negrita
+> y a la privatización de sectores, como las telecomunicaciones, la
+salud y las pensiones. Esto benefició al sector privado, pero afectó
+las finanzas públicas.</p>
+<p>Así mismo, a partir de los años noventa y hasta el presente se
+han firmado más <negrita>tratados de libre comercio</negrita>, con
+los que se espera poner a competir al país con otros igual o más poderosos,
+lo que exige políticas de estímulo a la producción industrial que
+hasta ahora son débiles.</p>
+<p>La prioridad de estos últimos años ha sido la promoción de la llamada <negrita
+>“locomotora minera”</negrita>, que consiste en propiciar las condiciones
+para la extracción de minerales, como oro, carbón y petróleo. La infraestructura
+para su explotación proviene de países desarrollados, que son los
+llamados a instalar la maquinaria.</p>
+<p>El territorio donde se realizan las explotaciones muchas veces
+está ubicado en ecosistemas frágiles o está habitado por comunidades
+desde hace muchos años. Esto convierte a la locomotora minera en un
+agente de conflicto social. En ocasiones las zonas más pobres del
+país son aquellas en donde se desarrollan proyectos de minería.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso110&amp;IdRecurso=RES-384FF1556D714A4291F0AE69081639AC"
+>Avances y retrocesos de la economía colombiana desde mediados del
+siglo XX</enlace>
+</profundiza><seccion2
+id="S2_CS_09_09_CO_63D2139854EC4E57AA79662F07F50A2A">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso120&amp;IdRecurso=RES-641A0E83E36F41458C5D99181BFDE468"
+>Refuerza tu aprendizaje: La economía colombiana desde la segunda
+mitad del siglo XX</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_09_CO_BCEE9EF922D249969E513B90E7555C7D">
+<seccion1Titulo>El conflicto armado y los procesos de paz</seccion1Titulo>
+<seccion1Texto>
+<p>Desde 1953, durante el gobierno del general Gustavo Rojas Pinilla,
+Colombia ha vivido intentos de diálogo con distintos grupos insurgentes.
+Actualmente se lleva a cabo uno con las Farc y se espera adelantar
+otro con el ELN.</p>
+<table border="1"><caption>Cronología. Intentos de diálogo con las
+guerrillas en Colombia:</caption><colgroup><col width="13*"/><col
+width="13*"/><col width="45*"/></colgroup>
+<tbody>
+<tr>
+<td>15 de septiembre de 1953</td>
+<td>Amnistía para las guerrillas liberales, durante el gobierno del
+general Rojas Pinilla.</td>
+<td>Gran parte de los hombres de las guerrillas liberales, que se
+conformaron tras los hechos del 9 de abril, entregaron sus armas con
+la promesa de ser aceptados en la vida civil. Uno de los líderes más
+destacados fue Guadalupe Salcedo, quien tras unos meses después de
+haberse acogido a la Ley de amnistía fue asesinado.</td>
+</tr>
+<tr>
+<td>1º de enero 1 de 1982</td>
+<td>Ley 35: “Por la cual se decreta una amnistía y se dictan normas
+tendientes al restablecimiento y preservación de la paz”. Durante
+el gobierno de Belisario Betancur.</td>
+<td>Participaron varias guerrillas: las Fuerzas Armadas Revolucionarias
+de Colombia (Farc), el Movimiento 19 de abril (M-19), el Ejército
+de Liberación Nacional (ELN), y el Ejército Popular de Liberación
+(EPL). Aunque el proceso no culminó con éxito, dejó sembrada la posibilidad
+de una entrega posterior. Además fue la oportunidad para que se creara
+un nuevo partido político de izquierda, integrado por militantes de
+las distintas guerrillas que buscaban una vía legal para participar
+en política. Este partido fue la Unión Patriótica. Cientos de sus
+líderes fueron asesinados por grupos paramilitares.</td>
+</tr>
+<tr>
+<td>8 de marzo de 1990</td>
+<td>Durante el gobierno de Virgilio Barco.</td>
+<td>Desmovilización de la guerrilla del M-19 y creación del partido
+político Alianza Democrática M-19. Se promueve una Asamblea Nacional
+Constituyente.</td>
+</tr>
+<tr>
+<td>11 de marzo de 1990</td>
+<td>Durante el gobierno de Virgilio Barco.</td>
+<td>Surge iniciativa de la “séptima papeleta”, impulsada por estudiantes.</td>
+</tr>
+<tr>
+<td>4 de julio de 1991</td>
+<td>Durante el gobierno de Álvaro Uribe Vélez</td>
+<td>Se promulga la nueva Constitución Política de Colombia. Se crean
+instituciones y mecanismos para defensa de los derechos humanos.</td>
+</tr>
+<tr>
+<td>1° de enero de 2003</td>
+<td>Durante el gobierno de Álvaro Uribe Vélez</td>
+<td>Se firma el pacto de Ralito para la desmovilización de las Autodefensas
+Unidas de Colombia (paramilitares).</td>
+</tr>
+<tr>
+<td>1° de enero de 2005</td>
+<td>Durante el gobierno de Álvaro Uribe Vélez</td>
+<td>Se promulga la Ley de Justicia y Paz. Con ella se pretende que
+los grupos paramilitares reparen a las miles de víctimas. A pesar
+de sus crímenes atroces con esta ley, varios paramilitares van a la
+cárcel por un periodo máximo de ocho años. Otros son extraditados
+a Estados Unidos para ser juzgados por narcotráfico, pero dejan pendientes
+sus deudas con las víctimas. </td>
+</tr>
+<tr>
+<td>1° de enero de 2011</td>
+<td>Durante el gobierno de Juan Manuel Santos</td>
+<td>Se promulga la Ley de víctimas y restitución de tierras con el
+propósito de devolverles los territorios a campesinos desplazados,
+que fueron despojados por paramilitares y guerrillas.</td>
+</tr>
+<tr>
+<td>28 de agosto de 2012</td>
+<td>Durante el gobierno de Juan Manuel Santos</td>
+<td>Inician diálogos con las Farc.</td>
+</tr>
+</tbody>
+</table><?Pub Caret -3?>
+<seccion2 id="S2_CS_09_09_CO_63D2139854EC4E57AA79662F07F51C3B">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso130&amp;IdRecurso=RES-0F6546583DB943DBB297C17A4642A17B"
+>Refuerza tu aprendizaje: El conflicto armado y los procesos de paz</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_09_CO_EC3648EF803448318B0A829F07F131E9">
+<seccion1Titulo>Las manifestaciones de la cultura</seccion1Titulo>
+<seccion1Texto>
+<p>La cultura colombiana está determinada por el carácter <negrita
+>multiétnico</negrita> que tiene el país. El reconocimiento de esta
+condición se dio de manera tardía. Apenas con la Constitución de 1991,
+el país empezó a aceptar que grupos étnicos, como los <negrita>afrodescendientes</negrita
+>, los <negrita>indígenas</negrita> y los <negrita>ROM (gitanos)</negrita
+> forman  parte de la nacionalidad colombiana<enlace
+destino="http://www.lenguasdecolombia.gov.co/content/el-pueblo-rom-en-colombia-0"
+> [VER]</enlace>.</p>
+<p>Dicha aceptación llevó a que expresiones  del Pacífico, del Llano
+y la Amazonia sean más visibles y aceptadas por un mayor público.
+La música, el cine, la literatura, la poesía y la pintura tienen un
+notable número de exponentes que alimentan día a día el panorama artístico
+y dan cuenta de un país que, en medio del conflicto, se mantiene vivo
+y optimista.</p>
+<p>En el campo musical son muchos los ritmos tradicionales y nuevos
+que circulan en las regiones, pero también en los medios de comunicación.</p>
+<p>La <negrita>“Fusión”</negrita> es un género que ha resultado de
+e proceso. Es una mezcla de ritmos cosmopolitas y locales tradicionales.
+ Sus exponentes son personajes muy conocidos, como Juanes o Carlos
+Vives, pero también grupos recientemente conformados, como <cursiva
+>Choquibtown</cursiva>, Puerto Candelaria, Herencia de Timbiquí, Vokaribe
+o Sistema Solar.</p>
+<imagen src="CS_09_09_CO_IMG16_small.jpg">
+<p>Juanes es un compositor y cantante colombiano de gran reconocimiento
+en el mundo.</p>
+</imagen>
+<p>La divulgación de ritmos locales les ha permitido tener mayor audiencia
+a expresiones del Pacífico, como las <negrita>cantadoras</negrita
+>. Nombres como Petrona Martínez, Etelvina Maldonado o Benigna Solís
+son ya conocidos.</p>
+<p>En la música llanera han surgido nuevos exponentes, como el Cholo
+Valderrama, ganador de un premio Grammy Latino, y en la música Andina,
+el grupo Bambarabanda, conformado por jóvenes que reconocen la riqueza
+de los ritmos ancestrales.</p>
+<recuerda><recuerdaTexto>
+<p>En el presente la música colombiana ha logrado crear ritmos que
+incorporan expresiones de distintos rincones del país. Es así como
+el arte reconoce la diversidad étnica y cultural de Colombia.</p>
+</recuerdaTexto></recuerda>
+<p>Así como la lista de nuevos músicos colombianos es larga, lo es
+también la de escritores que, inspirados en temáticas locales y universales,
+han creado notables historias para públicos diversos. Alberto Salcedo
+Ramos, Laura Restrepo, Santiago Gamboa, Ángela Becerra o Evelio Rosero,
+son algunos de los muchos nombres que enriquecen el mundo de las letras.</p>
+<p></p>
+<p>Anualmente en Colombia se realizan una variedad de festivales y
+carnavales. Se destacan el <negrita>Carnaval de Blancos y Negros</negrita
+> de Pasto, el carnaval de Riosucio, las <negrita>cuadrillas de San
+Martín</negrita>, los <negrita>Festivales Petronio Álvarez</negrita
+>, el de la Leyenda Vallenata y el del Mono Núnez, entre otros.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso140&amp;IdRecurso=RES-8DCECC04A02246B8B0D635122E03FD8C"
+>Expresiones de la cultura colombiana</enlace>
+</profundiza><seccion2
+id="S2_CS_09_09_CO_63D2139854EC4E57AA79662F07F53E4D">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso150&amp;IdRecurso=RES-8E299D78D1E04F749C69BB6512D95018"
+>Refuerza tu aprendizaje: Las manifestaciones de la cultura</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_09_CO_889AB459B82041B4B66D4C255370CE5F">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso170&amp;IdRecurso=RES-CE258DA0CD844EEBAECE1D654BE55BC1"
+>Competencias: </enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso160&amp;IdRecurso=RES-3BFE126D7A7E439EA640AC39431379D9"
+>Proyecto: análisis del proceso de paz para Colombia, en La Habana</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_09_09_CO_D0230966A1F8452E92F921F55C10545D"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso190&amp;IdRecurso=RES-B4EEBB5347BB4FCE8A463E321F45B586"
+>Mapa conceptual del tema Colombia desde la segunda mitad del siglo
+XX</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso200&amp;IdRecurso=RES-B3F49448D86D4F94A7DF26F40933EAD5"
+>Evalúa tus conocimientos sobre el tema Colombia desde la segunda
+mitad del siglo XX</enlace></autoevaluate><enlacesreferencia>
+<enlace
+destino="http://www.banrepcultural.org/blaavirtual/ayudadetareas/politica/el_frente_nacional"
+>Micrositio del banco de La República sobre el Frente Nacional.</enlace>
+<enlace
+destino="http://wsp.presidencia.gov.co/asiescolombia/presidentes/rc_55.html"
+>Sitio web de la Presidencia de la República de Colombia sobre la
+historia del país.</enlace>
+<enlace destino="http://www.senalmemoria.co/la-paz-es-ahora">Línea
+de tiempo sobre el conflicto en Colombia en la segunda mitad del siglo
+XX.</enlace>
+</enlacesreferencia></masinformacion></libro>
