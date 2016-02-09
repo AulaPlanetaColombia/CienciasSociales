@@ -1,764 +1,1001 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_06_05_CO">
-  <libroTitulo>América precolombina</libroTitulo>
-  <seccion1 id="S1_CS_06_05_CO_FAEFCDB3528841D3B27C00C1D130F7D3">
-    <seccion1Titulo>El poblamiento de América</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_05_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso010&amp;IdRecurso=RES-CC7A54A2D36046B19945728733935A0F">Recurso F4-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_06_05_CO_8E1B2619684F41DAA444B387BA01802E">
-        <seccion2Titulo>Teoría del orígen asiático</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_05_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_05_CO_2A8910B4C88843B5BE33C5413993AD33">
-        <seccion2Titulo>Teoría del orígen múltiple</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_05_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_05_CO_3B8E78A3DCC44E99951721982368180C">
-        <seccion2Titulo>Teoría del orígen australiano</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_05_CO_img_04_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_05_CO_ABE790C85253420F92A0E9E665EC91D6">
-        <seccion2Titulo>Teoría del autoctonismo</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_05_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso020&amp;IdRecurso=RES-8E7435122852454A8906F1A76839DA93">Recurso M2A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_05_CO_9B247678FBC24C7AB156EA1C05D5C4BD">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_05_CO_img_06_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso030&amp;IdRecurso=RES-D29E7B3CDA0E4433BC8AFD124E575DBC">Recurso M101A-01</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_05_CO_img_09_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso060&amp;IdRecurso=RES-DDC30E1C635846EC966DB41A4D47C1BD">Recurso M101A-02</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_05_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso090&amp;IdRecurso=RES-F036196096CB46F39DEFF91C79564431">Recurso M10A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_05_CO_4CF20E5CF26547C592C07B107B0D281F">
-    <seccion1Titulo>Periodos históricos de América precolombina</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_05_CO_img_07_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso040&amp;IdRecurso=RES-D5AEEDC65AE44A1B84A4965338F899C4">Recurso F6-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_05_CO_img_08_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso050&amp;IdRecurso=RES-774076AAF8114E108B64BDDD09F042A8">Recurso M1C-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_05_CO_807057938D884273A291C2D79730CC7B">
-    <seccion1Titulo>Primeros pobladores de América del Norte</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_05_CO_img_10_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso070&amp;IdRecurso=RES-18532FA3D206448799E44F8E6324A3E4">Diaporama F1-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_05_CO_img_11_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso080&amp;IdRecurso=RES-322BE01B5AAA4837B2AD82F393FE21DE">Recurso M2B-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_05_CO_209D4F1584514BB1B985F916B0B5E5AD">
-    <seccion1Titulo>Civilizaciones precolombinas de Mesoamérica</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_05_CO_img_13_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso100&amp;IdRecurso=RES-F196ECC221BB42719072033B7AA3087E">Recurso F8-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_06_05_CO_AFD25644641A4EBCA094CF182023FDA9">
-        <seccion2Titulo>Los mayas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_06_05_CO_0FAD54176A2948409731FD11AA483734">
-            <seccion3Titulo>Ubicación espacio temporal</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_14_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso110&amp;IdRecurso=RES-BE60A6E34FBC43A4A864D9BB52BCBF61">Video como media principal - 01</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_06_05_CO_211A1FB21F43491EBC9A7BDEC0C45C18">
-            <seccion3Titulo>La sociedad</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_15_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_06_05_CO_489951E0C86C49E3B6CF191B03448E9C">
-            <seccion3Titulo>El gobierno</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_16_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_06_05_CO_6683B70F4238463C81B8E8B7523FB34E">
-            <seccion3Titulo>La economía</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_17_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_06_05_CO_9C301DA5085F476FAB40F1CB7186EE57">
-            <seccion3Titulo>La religión</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_18_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_06_05_CO_B8609A4297FF49A8A594585A0D61E3DA">
-            <seccion3Titulo>Avances culturales y científicos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_19_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso120&amp;IdRecurso=RES-AF196AA0E73C47E8894A8DB674DC922B">Recurso M5A-01</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_20_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso130&amp;IdRecurso=RES-079ED3A99A41414D8FC635576246DC7B">Video como media principal - 02</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_21_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso140&amp;IdRecurso=RES-06F5B08D45E24E439C50DF1B45EAA47C">Recurso F10-01</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_22_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_23_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_24_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_25_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_29_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_30_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_31_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_32_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso050&amp;IdRecurso=RES-774076AAF8114E108B64BDDD09F042A8">Recurso M1C-01</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_33_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_05_CO_img_34_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso210&amp;IdRecurso=RES-B5B84E1A89214068B3834C4DA93E2E41">Video como media principal - 04</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_05_CO_9F6BB056ECD143A199FE34D8A6DAFC58">
-        <seccion2Titulo>Los aztecas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_05_CO_img_26_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso160&amp;IdRecurso=RES-5B7F2A64819848FE9AECD8A4E8797795">Recurso M10A-04</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_05_CO_B4CD33888A28436BAD08681B44EAA41E">
-    <seccion1Titulo>Culturas precolombinas de América del Sur</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_06_05_CO_1DE45B17F8AE41AF9D5163260DC4567F">
-        <seccion2Titulo>Las culturas muisca y tairona</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_05_CO_img_27_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso170&amp;IdRecurso=RES-6BF5F2A450D44479B5675893B06DA1B5">Recurso M1B-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_05_CO_E46068D943EE4E118423B51C0CAB0873">
-        <seccion2Titulo>La civilización inca</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_05_CO_img_28_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso180&amp;IdRecurso=RES-34CC2AE835FC4B7A8C9ED3F89814D147">Video como media principal - 03</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_05_CO_img_35_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso220&amp;IdRecurso=RES-4496AE15847E4FE980DF79056825717D">Recurso M10A-05</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_05_CO_1E454B422FC149ABB83CE637162F4F76">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_05_CO_img_36_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso230&amp;IdRecurso=RES-B861E8143BAE44BC92EAE73D88BCFC41">Recurso M102AB-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_05_CO_img_37_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso240&amp;IdRecurso=RES-16BC8642C5FD41E397EF7567E30983E5">Recurso F13-01</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_06_05_CO_20FF5441692D4F4EB3E6453319C18589">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso260&amp;IdRecurso=RES-56E964DDFB90486EBEB8FDC6F00C0DE3">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso270&amp;IdRecurso=RES-3C80660D0EC84DF297E8D29D2403747D">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>América precolombina</libroTitulo>
+<seccion1 id="S1_CS_06_05_CO_FAEFCDB3528841D3B27C00C1D130F7D3">
+<seccion1Titulo>El poblamiento de América</seccion1Titulo>
+<seccion1Texto>
+<p>¿De dónde proviene la población que hoy habita el continente americano?
+Desde el siglo XIX varios científicos se han interesado en estudiar
+la <negrita>procedencia</negrita> y las <negrita>rutas</negrita> que
+siguieron los primeros seres humanos que poblaron América<enlace
+destino="https://www.youtube.com/watch?v=h-nT8WWzlyE"> [VER]</enlace
+>.</p>
+<p>Teniendo en cuenta las características <negrita>morfológicas</negrita
+> de los restos hallados y los diversos <negrita>vestigios</negrita
+>, se han podido establecer varias teorías del origen de los pobladores
+americanos<enlace destino="https://www.youtube.com/watch?v=CIkKZeBVoJw"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_05_CO_IMG01_small.jpg">
+<p>Pobladores de América provenientes de diferentes pueblos y rutas
+ocuparon los territorios americanos.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso010&amp;IdRecurso=RES-CC7A54A2D36046B19945728733935A0F"
+>El poblamiento de América</enlace>
+</profundiza><seccion2
+id="S2_CS_06_05_CO_8E1B2619684F41DAA444B387BA01802E">
+<seccion2Titulo>Teoría del origen asiático</seccion2Titulo>
+<seccion2Texto>
+<p>La llegada de los primeros habitantes a América se dio por migraciones
+de grupos <negrita>nómadas del noreste asiático</negrita> que atravesaron
+Siberia, cruzaron el <negrita>Estrecho de Bering</negrita> y llegaron
+a <negrita>Alaska</negrita>, desde donde se dispersaron por <negrita
+>Norteamérica</negrita><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=7900&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_05_CO_IMG02_small.jpg">
+<p>Alex Hrdlicka propuso la teoría del poblamiento de América por
+el Estrecho de Bering durante la época de la última glaciación, hace
+unos doce mil años.</p>
+</imagen>
+<p>Hrdlicka sustentó su teoría con las <negrita>similitudes morfológicas</negrita
+> entre los mongoles actuales y los pueblos indígenas americanos:
+el cabello lacio y negro, los ojos semirrasgados, la piel cobriza,
+la escasa vellosidad y también los sonidos guturales del lenguaje.</p>
+<p>La cercanía de Asia y América, que durante las glaciaciones del
+Pleistoceno produjo la congelación de las aguas del Estrecho de Bering,
+habría permitido a los migrantes primitivos atravesarlo a pie para
+llegar a nuestro continente.</p>
+<destacado><destacadoTitulo>Clovis y Folsom</destacadoTitulo>
+<destacadoTexto>
+<p>Estas regiones del sur de Estados Unidos son una evidencia de la <negrita
+>migración asiática</negrita> a América. Los grupos humanos de Clovis
+recolectaban frutos silvestres y eran cazadores de animales, como
+el mamut, el bisonte y los ciervos.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_05_CO_2A8910B4C88843B5BE33C5413993AD33">
+<seccion2Titulo>Teoría del origen múltiple</seccion2Titulo>
+<seccion2Texto>
+<p><negrita>Migrantes australianos</negrita> con embarcaciones sencillas
+llegaron a la <negrita>Antártida</negrita> para desplazarse posteriormente
+a Tierra del Fuego en la <negrita>Patagonia</negrita> y ocupar algunas
+regiones de <negrita>Suramérica</negrita>.</p>
+<p>Antonio Méndez Correa formuló esta teoría basándose en estudios
+realizados con grupos indígenas de la Patagonia y Tierra del Fuego,
+como los ona, tehuelche, alacaluf y yagán, en los que encontró <negrita
+>similitudes</negrita> con grupos australianos en: grupo sanguíneo,
+formas craneales, resistencia al frío, palabras comunes, uso de mantos
+de piel, chozas en forma de colmena y el uso del <negrita>zumbador</negrita
+> o churinga (instrumento musical empleado en <negrita>rituales</negrita
+>), entre otros.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_05_CO_3B8E78A3DCC44E99951721982368180C">
+<seccion2Titulo>Teoría del origen australiano</seccion2Titulo>
+<seccion2Texto>
+<p>Florentino Ameghino planteó en 1897 que los americanos eran originarios
+de las <negrita>pampas argentinas</negrita>. Se basó en que algunos
+restos hallados del <cursiva>Protohomo pampeanus</cursiva>, antiguo
+hombre de la pampa, provenían de una cadena evolutiva de una especie
+de mamíferos que <negrita>migraron</negrita> al continente americano
+en la era terciaria y <negrita>evolucionaron</negrita> hasta llegar
+a los seres humanos primitivos.</p>
+<imagen src="CS_06_05_CO_IMG03_small.jpg">
+<p>La teoría autoctonista afirma que el hombre americano se originó
+en nuestro continente como resultado de la evolución.</p>
+</imagen>
+<p>La teoría autoctonista fue <negrita>revaluada</negrita>, ya que
+los restos encontrados pertenecían a la era cuaternaria y no terciaria.
+Eran mezcla de felinos y monos americanos con huesos humanos recientes.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_05_CO_ABE790C85253420F92A0E9E665EC91D6">
+<seccion2Titulo>Teoría del origen múltiple</seccion2Titulo>
+<seccion2Texto>
+<p>A partir de estudios con pueblos indígenas de Ecuador, Colombia,
+Perú y México, entre otros, Paul Rivet sostuvo que grupos humanos
+provenientes de las islas de la <negrita>Polinesia</negrita> (Maorí)
+y la <negrita>Melanesia</negrita> (Nueva Guinea, Nueva Caledonia,
+Nuevas Hébridas y Fiji) cruzaron el océano Pacífico y entraron al
+continente por la costa oeste de <negrita>Suramérica</negrita><enlace
+destino="https://www.youtube.com/watch?v=Es0RAo5kyng&amp;feature=youtu.be"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_05_CO_IMG04_small.jpg">
+<p>A pesar de teorías como la del autoctonismo, los científicos tienen
+pruebas para afirmar que los seres humanos no son originarios de América.</p>
+</imagen>
+<p>Existen semejanzas entre las culturas <negrita>maorí</negrita> de
+la Polinesia y <negrita>quechua</negrita> del Perú en palabras como <cursiva
+>kumara</cursiva> (camote), <cursiva>uno</cursiva> (agua), <cursiva
+>pucara</cursiva> (fortaleza) y en otros aspectos culturales, como
+la pachamanca, la talla o palo cavador, los cultivos, los dioses y
+las leyendas.</p>
+<imagen ampliable="no" src="CS_06_05_CO_IMG05_small.jpg">
+<p>Réplica de la balsa Kon-Tiki que utilizó Thor Heyerdahl en la expedición
+que hizo del Callao (Perú) a Tuamotú (Polinesia) para probar que era
+posible viajar de la Polinesia a América en las embarcaciones de la
+época.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>El poblamiento de América se produjo por <negrita>múltiples migraciones</negrita
+> de grupos humanos que <negrita>atravesaron</negrita> el Estrecho
+de Bering y el océano Pacífico en búsqueda de regiones que les brindaran
+condiciones favorables de subsistencia, abundantes animales de <negrita
+>caza</negrita>, frutos para la <negrita>recolección</negrita>, fuentes
+de agua y ríos para la <negrita>pesca</negrita>, entre otros.</p><?Pub
+Caret -2?>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso020&amp;IdRecurso=RES-8E7435122852454A8906F1A76839DA93"
+>Las huellas de los primeros pobladores de América</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_05_CO_9B247678FBC24C7AB156EA1C05D5C4BD">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividad para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso030&amp;IdRecurso=RES-D29E7B3CDA0E4433BC8AFD124E575DBC"
+>Refuerza tu aprendizaje: Teorías sobre el poblamiento de América</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_05_CO_4CF20E5CF26547C592C07B107B0D281F">
+<seccion1Titulo>Periodos históricos de América precolombina</seccion1Titulo>
+<seccion1Texto>
+<p>Para estudiar la <negrita>evolución</negrita> de las sociedades
+precolombinas de América, se han establecido varios <negrita>periodos</negrita
+> según el desarrollo alcanzado por los diversos <negrita>pueblos</negrita
+> que habitaron el territorio americano.</p>
+<imagen src="CS_06_05_CO_IMG06_small.jpg">
+<p>Ubicación de algunas de las culturas indígenas prehispánicas en
+América, las cuales tuvieron diferentes periodos de evolución histórica
+hasta el momento de la ocupación europea.</p>
+</imagen>
+<destacado><destacadoTitulo>El concepto de “precolombino”</destacadoTitulo>
+<destacadoTexto>
+<p>Precolombino hace referencia al periodo comprendido entre la llegada
+de los primeros pobladores al continente americano y el dominio de
+los europeos.</p>
+</destacadoTexto></destacado>
+<p>Los periodos históricos establecidos para América precolombina
+son:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Paleoindio:</negrita> 25 000 a 10 000 a. C.</listaElemento>
+<listaElemento><negrita>Arcaico:</negrita> 10 000 a 3000 a. C.</listaElemento>
+<listaElemento><negrita>Formativo:</negrita> 3000 a. C. a 500 d. C.</listaElemento>
+<listaElemento><negrita>Clásico:</negrita> 500 a 900 d. C.</listaElemento>
+<listaElemento><negrita>Posclásico:</negrita> 900 a 1500 d. C.</listaElemento>
+</listaSinNumerar>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso040&amp;IdRecurso=RES-D5AEEDC65AE44A1B84A4965338F899C4"
+>Periodos históricos de los pueblos de América precolombina</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso050&amp;IdRecurso=RES-774076AAF8114E108B64BDDD09F042A8"
+>Aspectos representativos de los periodos históricos de América precolombina</enlace>
+</practica><seccion2
+id="S2_CS_06_05_CO_9B247678FBC24C7AB156EA1C05D5E5CE">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividad para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso060&amp;IdRecurso=RES-DDC30E1C635846EC966DB41A4D47C1BD"
+>Refuerza tu aprendizaje: Los periodos históricos de América pecolombina</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_05_CO_807057938D884273A291C2D79730CC7B">
+<seccion1Titulo>Primeros pobladores de América del Norte</seccion1Titulo>
+<seccion1Texto>
+<p>Los primeros pobladores de <negrita>Alaska</negrita> y <negrita
+>Canadá</negrita> fueron <negrita>cazadores nómadas</negrita> que,
+en la persecución de mamuts, bisontes y alces, cruzaron desde <negrita
+>Asia</negrita> hacia Alaska por el puente continental llamado <negrita
+>Beringia</negrita>, que alguna vez unió a <negrita>Siberia</negrita
+> con América a través del <negrita>Estrecho</negrita> de <negrita
+>Bering</negrita><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=7900&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_05_CO_IMG07_small.jpg">
+<p>La caza de aves, de animales grandes y de mamíferos marinos, permitió
+la supervivencia de los pueblos del noroeste de América al igual que
+los actuales inuit, que viven en las tundras de Groenlandia, Alaska
+y norte del Canadá.</p>
+</imagen>
+<p>Los <negrita>cazadores</negrita> que seguían a las manadas que
+se desplazaban de acuerdo con la <negrita>estación climática</negrita
+>, fueron recorriendo <negrita>grandes distancias</negrita> y poblando
+la región norte y luego la región sur.</p>
+<p>Hace unos 4500 años, otro <negrita>movimiento migratorio</negrita
+> importante trajo desde <negrita>Siberia</negrita> a los <negrita
+>antepasados</negrita> de los <negrita>inuit</negrita> (que en su
+lengua significa pueblo). Estos pertenecían a la <negrita>cultura
+Dorset</negrita>, llamada así tras el descubrimiento de sus restos
+arqueológicos en Cape Dorset, en la <negrita>isla</negrita> de <negrita
+>Baffin</negrita>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso070&amp;IdRecurso=RES-18532FA3D206448799E44F8E6324A3E4"
+>Regiones culturales de Norteamérica</enlace>
+</profundiza>
+<p>Hacia el año 1000 d. C., una cultura inuit independiente empezó
+a abrirse camino hacia el este a través de Canadá: los <negrita>thule</negrita
+>, antepasados directos de los actuales inuit, que permanecieron aislados
+en las tierras boreales y dieron origen a los <negrita>esquimales</negrita
+> o <negrita>inuit</negrita><enlace
+destino="http://pueblosoriginarios.com/norte/artico/thule/thule.html"
+> [VER]</enlace>.</p>
+<p>A finales del siglo XV, los pueblos <negrita>aborígenes</negrita
+> se habían <negrita>expandido</negrita> más allá de la <negrita>zona
+ártica</negrita> hacia <negrita>cuatro regiones</negrita> principales
+de Canadá: el Pacífico, las planicies, el sur de Ontario y los bosques
+del noroeste. Estos grupos humanos se cruzaron entre ellos y originaron <negrita
+>grupos raciales</negrita> de los pobladores americanos.</p>
+<recuerda><recuerdaTexto>
+<p>Cuando los pueblos amerindios comenzaron a usar mayor variedad
+de plantas como alimento principal, necesitaron una nueva clase de
+utensilios, por ejemplo, cestas para recoger nueces, semillas y bayas.
+Con los materiales para hacer cestas también hicieron nuevos productos,
+como sombreros, sandalias y trampas para peces.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso080&amp;IdRecurso=RES-322BE01B5AAA4837B2AD82F393FE21DE"
+>Características de las culturas indígenas de América del Norte</enlace>
+</practica><seccion2
+id="S2_CS_06_05_CO_9B247678FBC24C7AB156EA1C05D5B7AF">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividad para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso090&amp;IdRecurso=RES-F036196096CB46F39DEFF91C79564431"
+>Refuerza tu aprendizaje: Primeros pobladores de América del Norte</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_05_CO_209D4F1584514BB1B985F916B0B5E5AD">
+<seccion1Titulo>Civilizaciones precolombinas de Mesoamérica</seccion1Titulo>
+<seccion1Texto>
+<p>La región de Mesoamérica, o zona media de América, corresponde
+a los territorios de México, Guatemala, El Salvador, Belice, Honduras
+y Nicaragua. Allí habitaron dos de las más grandes civilizaciones
+de América prehispánica: la <negrita>maya</negrita> y la <negrita
+>azteca</negrita>.</p>
+<p>La cultura más antigua que se conoce en esta región es la <negrita
+>olmeca</negrita>. Floreció hace más de 3500 años a lo largo de la
+bahía de Campeche. Se le considera la cultura madre de Mesoamérica<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=559919&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_05_CO_IMG08_small.jpg">
+<p>En la zona de San Lorenzo (México), se encontraron esculturas gigantes
+de cabezas olmecas de más de tres metros de altura y hasta 20 toneladas
+de peso.</p>
+</imagen>
+<p>Algunos investigadores afirman que grupos olmecas migraron hacia
+Guatemala y se mezclaron con otros grupos allí asentados, dando origen
+al pueblo maya.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso100&amp;IdRecurso=RES-F196ECC221BB42719072033B7AA3087E"
+>Las civilizaciones indígenas de Mesoamérica</enlace>
+</profundiza><seccion2
+id="S2_CS_06_05_CO_AFD25644641A4EBCA094CF182023FDA9">
+<seccion2Titulo>Los mayas</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>civilización maya</negrita> se desarrolló durante 3000
+años, aproximadamente. Lograron grandes conocimientos y comprensión
+de la naturaleza y el universo, que aplicaron en áreas como la agricultura,
+la astronomía, la medicina y la arquitectura, entre otras<enlace
+destino="https://www.youtube.com/watch?v=uZGxQAO8FLQ"> [VER]</enlace
+>.</p>
+<imagen src="CS_06_05_CO_IMG09_small.jpg">
+<p>Reconstrucción de un fresco del yacimiento de Bonampak (Museo Nacional
+de Arqueología y Etnología, Ciudad de Guatemala, Guatemala). Representa
+la sociedad maya.</p>
+</imagen>
+<p>En la actualidad se estudian más aportes de la cultura maya con
+el descubrimiento de grandes ciudades como Tikal, Palenque y Petén,
+entre otras. Se habla de la desaparición de los mayas, sin embargo,
+grupos indígenas actuales son descendientes de estos.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso110&amp;IdRecurso=RES-BE60A6E34FBC43A4A864D9BB52BCBF61"
+>Video sobre el pueblo maya</enlace>
+</profundiza><seccion3
+id="S3_CS_06_05_CO_0FAD54176A2948409731FD11AA483734">
+<seccion3Titulo>Ubicación espacio temporal</seccion3Titulo>
+<seccion3Texto>
+<p>La civilización maya ocupó los territorios actuales de Guatemala,
+Belice, Honduras, El Salvador y el sureste de México (Campeche, Chiapas,
+Quintana Roo, Tabasco y Yucatán)<enlace
+destino="https://maya.nmai.si.edu/es/los-mayas/el-mundo-maya"> [VER]</enlace
+>.</p>
+<imagen src="CS_06_05_CO_IMG10_small.jpg">
+<p>La ocupación de la región mesoamericana por grupos mayas fue un
+proceso progresivo de expansión.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_211A1FB21F43491EBC9A7BDEC0C45C18">
+<seccion3Titulo>Periodos históricos </seccion3Titulo>
+<seccion3Texto>
+<p>La periodización de la civilización maya no define necesariamente
+su grado de evolución; sin embargo, es una manera de abordar su estudio
+según las características establecidas para esta cultura.</p>
+<p>Así, se definen tres periodos:</p>
+<listaSinNumerar>
+<listaElemento>Preclásico: 2000 a. C. a 250-300. Grandes ciudades,
+como <negrita>Edzná</negrita> y <negrita>Dzibilchaltún</negrita>,
+con grandes centros ceremoniales. Establecimiento y expansión agrícola.</listaElemento>
+<listaElemento>Clásico: III-IV a X. Mayor esplendor. Grandes ciudades
+culturales y religiosas. Prosperidad económica.</listaElemento>
+<listaElemento>Posclásico: 1000 a 1697. Decadencia. Aparición de los
+primeros conquistadores.</listaElemento>
+</listaSinNumerar>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_489951E0C86C49E3B6CF191B03442A0D">
+<seccion3Titulo>Sociedad</seccion3Titulo>
+<seccion3Texto>
+<p>La sociedad maya estaba organizada en tribus conformadas por clanes
+y estructuradas en <negrita>ciudades-estado</negrita> independientes.
+Cada ciudad-estado tenía autoridades y ejércitos propios y dominios
+sobre territorios rurales.</p>
+<imagen src="CS_06_05_CO_IMG11_small.jpg">
+<p>Templo I o del Gran Jaguar. Construido durante el periodo maya
+clásico. Tiene 52 m de altura en la denominada plaza Mayor de Tikal
+(Guatemala).</p>
+</imagen>
+<p>Aunque la tierra era comunal, los frutales, las plantaciones de
+cacao y las salinas eran propiedad del grupo dirigente, lo que acrecentaba
+sus privilegios y riqueza. Los <negrita>nobles</negrita> llevaban
+una vida separada del pueblo, regida por los valores <negrita>aristocráticos</negrita
+> del valor y de la guerra. Los cargos en la sociedad maya eran hereditarios.</p>
+<p>La población más numerosa eran los <negrita>plebeyos</negrita> (<cursiva
+>yalba uinikoob</cursiva> u hombres pequeños), que eran los campesinos,
+pescadores, artesanos y albañiles. Estos producían para ellos y para
+la nobleza, y se les debe la construcción de los templos y ciudades
+que hoy conocemos.</p>
+<imagen src="CS_06_05_CO_IMG12_small.jpg">
+<p>La sociedad maya tenía una fuerte estratificación social. Los impuestos
+que pagaban campesinos y artesanos, la mayoría de la población, mantenían
+los privilegios de la nobleza.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_489951E0C86C49E3B6CF191B03448E9C">
+<seccion3Titulo>Gobierno</seccion3Titulo>
+<seccion3Texto>
+<p>La sociedad maya, que se conformó por una colectividad de ciudades-estado,
+no permitió tener un <negrita>poder centralizado</negrita> para todas
+las ciudades; cada ciudad tenía sus propios controles y <negrita>gobernantes</negrita
+>.</p>
+<imagen src="CS_06_05_CO_IMG13_small.jpg">
+<p>La dignidad en la postura y en el rostro, además de la rica indumentaria
+con la que eran representados, demuestra la elevada posición social
+que ocupaban los <cursiva>Halach Uinic</cursiva> en la sociedad maya.</p>
+</imagen>
+<listaSinNumerar>
+<listaElemento><negrita>Jefe supremo</negrita> <cursiva>(Halach Uinic</cursiva
+>): tenía el control político y militar y recibía los tributos. El
+cargo era hereditario y pasaba del padre al hijo mayor varón.</listaElemento>
+<listaElemento><negrita>Consejo de notables</negrita>: estaba conformado
+por la nobleza que nombraba sus funcionarios civiles y militares.</listaElemento>
+<listaElemento><negrita>Sacerdotes</negrita>: tenían incidencia no
+solo en lo religioso sino en el conocimiento. Tenían jerarquías que
+se definían por sus responsabilidades. <cursiva>Ahau Kan</cursiva
+>, el <negrita>sumo sacerdote</negrita>, mediaba con los dioses, definía
+tiempos agrícolas y asesoraba al gobernador. Los <cursiva>chilan</cursiva
+> o <negrita>adivinos</negrita>, interpretaban los designios de los
+dioses. Los nacom se encargaban de los rituales.</listaElemento>
+<listaElemento><negrita>Comandante militar supremo</negrita>: comandaba
+a los soldados; rendía cuentas directamente al jefe supremo.</listaElemento>
+<listaElemento><negrita>Jefes de aldea</negrita>: respondían por lo
+militar, político y religioso en cada aldea.</listaElemento>
+</listaSinNumerar>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_6683B70F4238463C81B8E8B7523FB34E">
+<seccion3Titulo>Escritura</seccion3Titulo>
+<seccion3Texto>
+<p>Los mayas desarrollaron uno de los sistemas de escritura más completos
+de América prehispánica. En él empleaban caracteres llamados <negrita
+>jeroglíficos</negrita>, una mezcla de signos y símbolos que se presentaban
+en forma de bloques y columnas<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=8450&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>Los <negrita>códices</negrita> son libros escritos con esos caracteres.
+Algunos que aún se conservan son: el de <negrita>Dresde</negrita>,
+que contiene un tratado de adivinación y de astronomía; el de <negrita
+>París</negrita>, también conocido como <negrita>Peresiano</negrita
+>, incluye profecías y adivinaciones; el de <negrita>Madrid</negrita
+>, también conocido como <negrita>Tro-cortesiano</negrita>, contiene
+horóscopos y almanaques; y el <negrita>Grolier</negrita>, que contiene
+un calendario completo.</p>
+<imagen src="CS_06_05_CO_IMG14_small.jpg">
+<p>Estela maya del yacimiento precolombino de Xochicalco (México);
+contiene signos y símbolos que corresponden a la escritura maya expresada
+en jeroglifos. </p>
+</imagen>
+<p>Los mayas tuvieron un sistema de escritura tan completo que podía
+reproducir todo el lenguaje hablado.</p>
+<p>Hoy existen más de cinco millones de personas que hablan alguna
+variante de maya, dato estadístico que ubica a esta familia lingüística
+en un lugar destacado entre las lenguas indígenas del continente americano
+por su número de hablantes actuales.</p>
+<imagen src="CS_06_05_CO_IMG15_small.jpg">
+<p>El pueblo maya dentro de su patrimonio ha logrado conservar lo <negrita
+>lingüístico</negrita>; su lengua se habla en <negrita>Mesoamérica</negrita
+>, principalmente en <negrita>Belice</negrita>, <negrita>Guatemala</negrita
+> (la nación del Quetzal) y el sureste de <negrita>México</negrita
+>.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_9C301DA5085F476FAB40F1CB7186EE57">
+<seccion3Titulo>Economía</seccion3Titulo>
+<seccion3Texto>
+<p>Dentro de las actividades económicas de la civilización maya sobresale
+la <negrita>agricultura</negrita>, donde el <negrita>maíz</negrita
+> ocupó el primer lugar sobre otros productos, como el algodón, el
+cacao y el fríjol. Los mayas utilizaron la técnica de <negrita>roza</negrita
+>, que consistía en quemar extensos territorios para luego cultivarlos.</p>
+<imagen src="CS_06_05_CO_IMG16_small.jpg">
+<p>Para incrementar la productividad de los suelos los mayas recurrieron
+a técnicas como la rotación de los cultivos.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_9C301DA5085F476FAB40F1CB7186AC36">
+<seccion3Titulo>Religión</seccion3Titulo>
+<seccion3Texto>
+<p>El mundo de los antiguos mayas estuvo regido por una estrecha relación
+entre lo natural y lo sobrenatural. Para ellos el mundo fue creado
+por varios dioses y en diversas ocasiones. El libro sagrado de los
+mayas, el <cursiva>Popol Vuh</cursiva>, narra el origen de los pueblos
+quiché<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=111833&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_05_CO_IMG17_small.jpg">
+<p>Itzamná, dios de la sabiduría. Dios supremo del panteón maya. Inventor
+de las ciencias y el conocimiento. Se le consideraba el espíritu universal,
+dios del cielo, la noche y el día. Dios que anima al caos para que
+se produzca la creación.</p>
+</imagen>
+<p>Son dioses del panteón maya: Itzamná, dios de la sabiduría; Ak
+Kin, dios del sol; Ix U, diosa de la luna; Kauil, dios del fuego;
+Chaac, dios del agua; y Yum Kaax, dios de la agricultura<enlace
+destino="http://www.samaelgnosis.net/revista/ser43/index.html"> [VER]</enlace
+>.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_B8609A4297FF49A8A594585A0D61E3DA">
+<seccion3Titulo>Avances culturales y científicos</seccion3Titulo>
+<seccion3Texto>
+<p>Los mayas alcanzaron un gran desarrollo en todos los campos durante
+los diferentes periodos de su historia.</p>
+<listaSinNumerar>
+<listaElemento><negrita>Arquitectura</negrita>. Sorprende por la organización
+del espacio. Las grandes construcciones de <negrita>templos piramidales</negrita
+> representan una relación entre el <negrita>inframundo</negrita> y
+el <negrita>cosmos</negrita>; las escaleras simbolizan el ascenso
+de los sacerdotes en la comunicación con los dioses del universo y
+su descenso a las profundidades de la tierra.<br/>Lo arquitectónico
+se relacionaba también con la astronomía (<negrita>arqueoastronomía</negrita
+>). Algunas de las construcciones de Chichén Itzá marcaban los equinoccios
+y los solsticios.<br/>La decoración de los muros y dinteles con pinturas
+y estelas, jeroglíficos esculpidos, representan historias del acontecer
+maya.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_05_CO_IMG18_small.jpg">
+<p><negrita>Chichen Itzá</negrita> (Península de Yucatán, México)
+es uno de los hallazgos arqueológicos que permite conocer la estructura
+arquitectónica de las ciudades mayas.</p>
+</imagen>
+<listaSinNumerar>
+<listaElemento><negrita>Astronomía</negrita>. El conocimiento del
+universo y los astros fue de interés maya. Construyeron <negrita>observatorios
+astronómicos</negrita>, descubrieron varios planetas y estudiaron
+los movimientos de los astros, lo cual les permitió construir uno
+de los <negrita>calendarios</negrita> más precisos: calcularon el
+año solar con una inexactitud de solo 23 segundos<enlace
+destino="https://www.youtube.com/watch?v=f0E4Q_J_gNs"> [VER]</enlace
+>.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_05_CO_IMG19_small.jpg">
+<p>El edificio llamado <negrita>El Caracol</negrita> de Chichén Itzá
+(Yucatán, México), es una de las pocas torres circulares construidas
+por los mayas. Contiene una escalera de caracol que conduce a una
+sala elevada utilizada como observatorio astronómico.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>El calendario es un sistema de medición del tiempo que tiene que
+ver con procesos cíclicos marcados por la dinámica de los astros y
+sus movimientos. Se crean para ajustar las actividades de los seres
+humanos.</p>
+</recuerdaTexto></recuerda>
+<listaSinNumerar>
+<listaElemento><negrita>Matemáticas</negrita>. Tuvieron un sistema
+numérico <negrita>vigesimal</negrita>, que relacionaba los diez dedos
+de las manos y los diez dedos de los pies. Destaca la utilización
+de tan solo tres signos, uno de los cuales era el cero<enlace
+destino="http://aulaplaneta.planetasaber.com/aulasaberha/ficha.aspx?ficha=11952"
+> [VER]</enlace>.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_05_CO_IMG20_small.jpg">
+<p>Combinación de los tres signos utilizados por los mayas para escribir
+su numeración: el caracol simboliza el cero; el punto, una unidad;
+la barra, cinco unidades.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso120&amp;IdRecurso=RES-AF196AA0E73C47E8894A8DB674DC922B"
+>Logros culturales de la civilización maya</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_05_CO_9F6BB056ECD143A199FE34D8A6DAFC58">
+<seccion2Titulo>Los aztecas</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>mexicas</negrita> o <negrita>cultura azteca</negrita
+> procedían del norte de México y forjaron un imperio con un ejército
+fuerte, que dominó territorios y pueblos vecinos en apenas 200 años.
+Adaptaron usos y costumbres de los pueblos vencidos, por lo que se
+volvieron cada vez más poderosos<enlace
+destino="https://www.youtube.com/watch?v=BrVtrxkIQTg"> [VER]</enlace
+>.</p>
+<seccion3 id="S3_CS_06_05_CO_6683B70F4238463C81B8E8B7523FC25F">
+<seccion3Titulo>Ubicación espacio temporal</seccion3Titulo>
+<seccion3Texto>
+<p>Los aztecas se ubicaron en la meseta de Anáhuac (México) en una
+isla del lago de Texcoco, hoy prácticamente en proceso de desaparición.
+Construyeron allí la ciudad de <negrita>Tenochtitlan</negrita>, que
+fue la <negrita>capital</negrita> del <negrita>imperio</negrita>.
+Fue esplendorosa en población y estructura urbanística hasta que sucumbió
+al dominio de Hernán Cortés en 1521<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=8733&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_05_CO_IMG21_small.jpg">
+<p>Expansión territorial de los aztecas. Según algunos investigadores,
+Tenochtitlan se habría fundado en 1325.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>El Imperio azteca se logró consolidar con el dominio de diversos
+pueblos, lo cual implica que agrupara poblaciones de origen diverso
+con un elemento que los unificó: la lengua.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso130&amp;IdRecurso=RES-079ED3A99A41414D8FC635576246DC7B"
+>El pueblo azteca</enlace>
+</profundiza><destacado><destacadoTitulo>La caída</destacadoTitulo>
+<destacadoTexto>
+<p>La civilización azteca tuvo su máximo esplendor entre los años
+1440 y 1520; fue <negrita>avasallado</negrita> por los <negrita>españoles</negrita
+> en cabeza del conquistador <negrita>Hernán Cortés</negrita>, para
+quien la <negrita>guerra</negrita> tenía una connotación de <negrita
+>conquista</negrita> y <negrita>exterminio</negrita>. Las enfermedades
+y el armamento fueron determinantes en la derrota de los aztecas.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_6683B70F4238463C81B8E8B7523FA10A">
+<seccion3Titulo>Sociedad y gobierno</seccion3Titulo>
+<seccion3Texto>
+<p>La base de la sociedad azteca era el <negrita>calpulli</negrita
+>, que agrupaba familias que tenían un <negrita>antepasado</negrita
+> común, al que se le atribuían características <negrita>mitológicas</negrita
+>. Había veinte calpulli en Tenochtitlan, y cada uno tenía su propio <negrita
+>gobernante o Tecuhtli</negrita><enlace
+destino="http://blogs.ua.es/losaztecas/2011/12/20/el-calpulli-base-de-la-estructura-social-az"
+> [VER]</enlace>.</p>
+<p>En las ciudades-estado, la máxima <negrita>autoridad</negrita> era
+el <negrita>tlatoani</negrita>, cargo que era <negrita>hereditario</negrita
+>. Sin embargo, cuando la ciudad de Tenochtitlan alcanzó mayor dominio
+que las ciudades de Texcoco y Tlacopan, ambas quedaron bajo el dominio
+del tlatoani de Tenochtitlan, a quien se le llamo <negrita>hu<?Pub _font
+FamName="Times New Roman"?>ē<?Pub /_font?>y tlahtoani</negrita> (gran
+orador).</p>
+<imagen src="CS_06_05_CO_IMG22_small.jpg">
+<p>Pirámide que representa la estructura social azteca, que se dividía
+en castas: los nobles, la gente común, los siervos y los esclavos.
+En el proceso de expansión cada pueblo mantenía su propio gobierno.</p>
+</imagen>
+<p>La sociedad de los <negrita>aztecas</negrita> estaba jerarquizada
+de la siguiente manera:</p>
+<listaSinNumerar>
+<listaElemento>El <negrita>soberano</negrita> o <cursiva>tlatoani</cursiva
+> (el que habla). Elegido por un consejo con poderes políticos, económico,
+religiosos y militares. Tenía la autoridad total.</listaElemento>
+<listaElemento>Los <negrita>nobles</negrita>, jefes militares, sacerdotes
+y funcionarios civiles o <cursiva>piles</cursiva>. Se encargaban de
+la administración pública.</listaElemento>
+<listaElemento>Los <negrita>comerciantes</negrita> o <cursiva>pochtecas</cursiva
+>. Vendían y compraban productos; abastecían a la nobleza con objetos
+de lujo y también cumplían un papel de espías.</listaElemento>
+<listaElemento>Los <negrita>artesanos</negrita> y <negrita>campesinos</negrita
+> o <cursiva>maceuales</cursiva>. Unos elaboraban artesanías y el
+vestuario de plumas; otros se dedicaban a la agricultura y cuando
+tenían la mayoría de edad recibían tierra para trabajarla.</listaElemento>
+<listaElemento>Los <negrita>siervos</negrita> o <cursiva>mayeques</cursiva
+>. Trabajaban las tierras de la nobleza.</listaElemento>
+<listaElemento>Los <negrita>esclavos</negrita> o <cursiva>tlatlacotin</cursiva
+>. Eran los prisioneros de guerra, personas que habían cometido un
+delito o deudores que se empleaban como sirvientes de aquellos a quien
+le debían.</listaElemento>
+</listaSinNumerar>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso140&amp;IdRecurso=RES-06F5B08D45E24E439C50DF1B45EAA47C"
+>La vida diaria de la sociedad azteca</enlace>
+</profundiza>
+<p>En la sociedad azteca las <negrita>mujeres</negrita> se ocupaban
+en la molienda del maíz, <negrita>hilaban</negrita>, <negrita>tejían</negrita
+> y eran educadas para ser madres. Los <negrita>hombres</negrita> eran
+agricultores, artesanos e iban a la guerra para honrar a sus dioses,
+especialmente a <negrita>Huitzilopochtli</negrita>. Los <negrita>niños</negrita
+> eran educados en las escuelas entre los 10 y 20 años. A las niñas
+se las educaba en canto, danzas, música, y a los varones, en el arte
+de la guerra.</p>
+<p>Los nobles, por su parte, aprendían también saberes relacionados
+con las funciones administrativas y religiosas para las que estaban
+destinados: <negrita>astronomía</negrita>, construcción de edificios, <negrita
+>matemáticas</negrita> y <negrita>escritura jeroglífica</negrita>.
+Siempre estaba presente lo mágico-religioso y lo espiritual.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_6683B70F4238463C81B8E8B7523FB21B">
+<seccion3Titulo>Economía</seccion3Titulo>
+<seccion3Texto>
+<p>La base de la economía azteca era la <negrita>agricultura</negrita
+>. Una familia podía cultivar más del doble de lo que necesitaba para
+alimentarse, lo cual generaba excedentes para el comercio.</p>
+<p>Los aztecas desarrollaron los cultivos en las <negrita>chinampas</negrita
+>, una técnica que consistía en construir islas flotantes en el lago
+de Texcoco: se ponían balsas cubiertas con tierra y se cultivaba en
+ellas.</p>
+<imagen src="CS_06_05_CO_IMG23_small.jpg">
+<p>Las chinampas en el lago de Texcoco eran islas artificiales dedicadas
+a la agricultura, que sirvieron para ampliar a gran escala la producción
+agrícola.</p>
+</imagen>
+<p>El <negrita>comercio</negrita> fue otra actividad importante en
+la economía azteca. Los productos que no se podían obtener se adquirían
+mediante el trueque con otras regiones.</p>
+<p>Los <negrita>comerciantes</negrita> llegaron a ser más que algunos
+nobles. Se organizaron en <negrita>corporaciones autónomas</negrita
+> con jefes propios y conformaron una especie de <negrita>cuerpo militar
+auxiliar</negrita> que cumplía funciones diplomáticas y de espionaje
+con los pueblos que comerciaban.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_6683B70F4238463C81B8E8B7523FC32C">
+<seccion3Titulo>Religión</seccion3Titulo>
+<seccion3Texto>
+<p>La religión dominaba todos los ámbitos de la vida social. Los aztecas
+fueron <negrita>politeístas</negrita>. Dentro de sus cultos se destacan
+los <negrita>sacrificios humanos</negrita>.</p>
+<p>Los prisioneros de guerra se sacrificaban en los ritos a los dioses.
+Para ellos mismos era un honor sacrificarse: se preparaban como dioses
+durante un tiempo, en medio de lujos, y en el rito reproducían el
+mito de la muerte del dios al que se ofrecía el sacrificio.</p>
+<imagen src="CS_06_05_CO_IMG24_small.jpg">
+<p>Pintura azteca que representa un ritual de sacrificio humano. Códice
+del siglo XVI (Museo de América, Madrid, España).</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_6683B70F4238463C81B8E8B7523FD43D">
+<seccion3Titulo>Avances culturales y científicos</seccion3Titulo>
+<seccion3Texto>
+<p>Los aztecas aportaron grandes conocimientos en los campos de la
+astronomía, la agricultura, la medicina, las matemáticas, la escritura,
+la medición del tiempo, el arte plumario y la escritura pictográfica,
+entre otros.</p>
+<p>Sus conocimentos sobre la medición del tiempo quedaron plasmados
+en la piedra del Sol, que se conoce como <negrita>calendario azteca</negrita
+>.</p>
+<p>La escritura pictográfica quedó inscrita en pieles de venado, telas
+de algodón y en las construcciones. Palacios como el templo mayor
+y el acueducto deslumbraron a los españoles cuando llegaron<enlace
+destino="https://www.youtube.com/watch?v=r8m-rSxH3VQ"> [VER]</enlace
+>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso150&amp;IdRecurso=RES-03ECB33B9DE641058933B1ADEF7333B3"
+>Manifestaciones culturales de la civilización azteca</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_05_CO_1DE45B17F8AE41AF9D5163260DC4136G">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividad para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso160&amp;IdRecurso=RES-5B7F2A64819848FE9AECD8A4E8797795"
+>Refuerza tu aprendizaje: Las civilizaciones precolombinas de Mesoamérica</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_05_CO_B4CD33888A28436BAD08681B44EAA41E">
+<seccion1Titulo>Culturas precolombinas de América del Sur</seccion1Titulo>
+<seccion1Texto>
+<p>América del Sur estuvo habitada por grupos indígenas de origen
+y desarrollo diverso. Al momento de la llegada de los españoles, la
+civilización con mayor avance y consolidación fue la <negrita>inca</negrita
+>, considerada como un imperio.</p>
+<p>Los demás pueblos alcanzaron un nivel de desarrollo entre medio
+y superior. Entre estos:</p>
+<listaSinNumerar>
+<listaElemento>Los <negrita>chavín</negrita> y <negrita>paracas</negrita
+> en el Perú (en los actuales departamentos Áncash e Ica, respectivamente).</listaElemento>
+<listaElemento>Los <negrita>mollo</negrita> en Bolivia (actual departamento
+de La Paz).</listaElemento>
+<listaElemento>Los <negrita>chibchas-muiscas</negrita> y <negrita
+>tairona</negrita> en Colombia (actuales departamentos de Cundinamarca
+y Boyacá, y Magdalena, Guajira y Cesar, respectivamente).</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_05_CO_IMG25_small.jpg">
+<p>Grupos agrícolas y nómadas. Los primeros prefirieron la región
+Andina, y los segundos, la zona de la Orinoquia-Amazonia.</p>
+</imagen>
+<seccion2 id="S2_CS_06_05_CO_1DE45B17F8AE41AF9D5163260DC4567F">
+<seccion2Titulo>Las culturas muisca y tairona</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>muiscas</negrita> o <negrita>chibchas</negrita> eran
+un pueblo indígena proveniente de <negrita>Centroamérica</negrita
+>. Llegaron en una primera oleada durante el siglo VI a. C. y se asentaron
+en el altiplano <negrita>cundiboyacense</negrita>.</p>
+<p>Su <negrita>unidad político-administrativa</negrita> era la <negrita
+>confederación</negrita>, que fue la más organizada y grande de Colombia.
+Las dos confederaciones principales eran las de <negrita>Bacatá</negrita
+> o <negrita>Bogotá</negrita> y <negrita>Hunsa</negrita> o <negrita
+>Tunja</negrita><enlace
+destino="http://www.banrepcultural.org/blaavirtual/ninos/muisca/muisca0.htm"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_05_CO_IMG26_small.jpg">
+<p>Los chibchas cultivaron el maíz, la papa, el zapallo, el tomate
+y el tabaco, entre otros.</p>
+</imagen>
+<destacado><destacadoTitulo>Confederación</destacadoTitulo>
+<destacadoTexto>
+<p>Los chibchas se organizaban en <negrita>clanes</negrita> con culturas
+y lengua común y estaban bajo el gobierno de un <negrita>soberano</negrita
+>.</p>
+<p>Constituyeron dos confederaciones: el <negrita>zipazgo</negrita
+>, cuyo soberano era el <negrita>zipa</negrita>, y el <negrita>zacazgo</negrita
+>, cuyo soberano era el <negrita>zaque</negrita>.</p>
+</destacadoTexto></destacado>
+<p>Los <negrita>tairona</negrita> estaban ubicados en la <negrita
+>Sierra Nevada</negrita> de <negrita>Santa Marta</negrita>. Fue un
+pueblo de <negrita>lengua chibcha</negrita> que a la llegada de los
+españoles a América presentaba un desarrollo superior a cualquiera
+de los otros pueblos indígenas de Colombia<enlace
+destino="http://www.banrepcultural.org/node/25885"> [VER]</enlace
+>.</p>
+<imagen src="CS_06_05_CO_IMG27_small.jpg">
+<p>Los climas de altitud permitieron que los tairona pudieran tener
+gran <negrita>variedad climática</negrita> y, por tanto, diversos <negrita
+>productos agrícolas</negrita>.</p>
+</imagen>
+<p>Se destacaron en la cerámica, la orfebrería y la “ingeniería”.
+En 1976 se descubrió <negrita>Ciudad Perdida</negrita>, donde se evidencia
+la construcción de <negrita>ciudades</negrita> y <negrita>aldeas</negrita
+> con puentes, patios y alcantarillados, que se comunicaban a través
+de caminos de piedra<enlace
+destino="http://www.banrepcultural.org/node/63524"> [VER]</enlace
+>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso170&amp;IdRecurso=RES-6BF5F2A450D44479B5675893B06DA1B5"
+>Culturas precolombinas de América del Sur</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_05_CO_E46068D943EE4E118423B51C0CAB0873">
+<seccion2Titulo>La civilización inca</seccion2Titulo>
+<seccion2Texto>
+<p>El Imperio inca se consolidó hacia 1438 con el dominio de pueblos
+andinos desde el sur de Colombia hasta el norte de Chile. Los restos
+preincaicos más antiguos son los de la ciudad de Caral, del año 3000
+a. C.</p>
+<p>Otros pueblos andinos preincaicos son los <negrita>nazcas</negrita
+>, <negrita>mochicas</negrita> y <negrita>tiahuanaco</negrita>. Estos
+pueblos fueron grandes artesanos, desarrollaron la textilería y la
+orfebrería en el trabajo de la plata<enlace
+destino="https://www.youtube.com/watch?v=TFThWcqWb1U"> [VER]</enlace
+>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso180&amp;IdRecurso=RES-34CC2AE835FC4B7A8C9ED3F89814D147"
+>La civilización inca</enlace>
+</profundiza><seccion3
+id="S3_CS_06_05_CO_6683B70F4238463C81B8E8B7523FE54E">
+<seccion3Titulo>Ubicación espacio temporal</seccion3Titulo>
+<seccion3Texto>
+<p>Se consolidó como imperio entre 1438 y 1471. A sus territorios
+se les llamó <negrita>Tahuantinsuyo</negrita>, que significa “las
+cuatro esquinas del mundo”. Eran cuatro regiones en cuyo centro estaba
+la capital, <negrita>El Cuzco</negrita> (actual Cusco).</p>
+<listaSinNumerar>
+<listaElemento><negrita>Antisuyo.</negrita> Ocupaba la esquina este
+hasta la cuenca del Amazonas. </listaElemento>
+<listaElemento><negrita>Cuntisuyo.</negrita> Ocupaba la esquina oeste
+en las regiones costeras del actual Perú. </listaElemento>
+<listaElemento><negrita>Collasuyo.</negrita> Ocupaba la esquina sur
+y comprendía el Lago Titicaca y parte de los actuales países de Bolivia,
+Chile y Argentina.</listaElemento>
+<listaElemento><negrita>Chichasuyo.</negrita> Ocupaba la esquina norte
+hasta el sur de Colombia, el actual departamento de Nariño.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_05_CO_IMG28_small.jpg">
+<p>La <negrita>fortaleza</negrita> de <negrita>Sacsayhuamán</negrita
+> dominaba la zona septentrional de la ciudad de <negrita>El Cuzco</negrita
+> (Perú). Constaba de una serie de edificaciones <negrita>religiosas</negrita
+>, <negrita>palaciegas</negrita> y <negrita>defensivas</negrita>.
+Permanecen aún en pie tres imponentes lienzos de murallas. Aquí se
+celebra cada <negrita>año</negrita> el <negrita>Inti Raymi</negrita
+> o <negrita>Fiesta</negrita> del <negrita>Sol</negrita>.</p>
+</imagen>
+<p>La ocupación de variados territorios, desde montaña hasta llanuras
+y profundos valles, permitió que los incas contaran con una diversidad
+climática y, por ende, una producción agrícola de gran variedad.</p>
+<destacado><destacadoTitulo>Culturas del Imperio inca</destacadoTitulo>
+<destacadoTexto>
+<p>El emperador inca <negrita>Pachacútec</negrita> logró la victoria
+de las etnias cusqueñas (de donde era originario) sobre más de cien
+culturas o grupos étnicos diversos, a los cuales les impuso su lengua:
+el <negrita>quechua</negrita>.</p>
+</destacadoTexto></destacado>
+<imagen src="CS_06_05_CO_IMG29_small.jpg">
+<p>La civilización inca se consideró <negrita>imperio</negrita> por
+la extensión de sus dominios, estructura económica y organización
+social.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_6683B70F4238463C81B8E8B7523FF65F">
+<seccion3Titulo>Sociedad y gobierno</seccion3Titulo>
+<seccion3Texto>
+<p>La sociedad inca se organizaba de forma <negrita>jerárquica</negrita
+>. En la cúspide se encontraba el <negrita>emperador</negrita>, considerado
+como descendiente del dios Sol. Se le conferían poderes sobrenaturales;
+junto a él estaban los sacerdotes y funcionarios, quienes conformaban
+el grupo de los <negrita>privilegiados</negrita>.</p>
+<p>Por otro lado, <negrita>comerciantes</negrita>, artesanos, <negrita
+>agricultores</negrita>, pastores y <negrita>esclavos</negrita> formaban
+el grupo de los <negrita>no privilegiados</negrita>. Sobre ellos recaía
+la totalidad de las tareas de producción y servicios.</p>
+<p>Para conocer más sobre la sociedad inca, consulta la Gran Enciclopedia
+Hispánica<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=49683&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_05_CO_IMG30_small.jpg">
+<p>La sociedad inca estaba representada por un emperador, con la máxima
+autoridad, la nobleza y el pueblo. Los de menor privilegio eran los <cursiva
+>yanaconas</cursiva>, un grupo de sirvientes casi esclavizados.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_6683B70F4238463C81B8E8B7523FG76G">
+<seccion3Titulo>Economía</seccion3Titulo>
+<seccion3Texto>
+<p>La agricultura y la ganadería eran las principales actividades
+económicas del imperio. También fueron importantes la artesanía y
+el comercio.</p>
+<p>Para la <negrita>producción agrícola</negrita> se empleaban dos
+técnicas: la construcción de <negrita>sistemas de regadío</negrita
+>, que incrementaban la productividad de cada unidad de terreno, y
+el <negrita>levantamiento de andenes</negrita> o terrazas en las laderas
+de las montañas, para aumentar la cantidad de tierras cultivables.</p>
+<imagen src="CS_06_05_CO_IMG31_small.jpg">
+<p>Los incas organizaban sus cultivos en terrazas a distintos niveles
+que irrigaban mediante acueductos construidos con grandes bloques
+de piedra. En la imagen, terrazas de cultivo en el yacimiento inca
+de Moray (Cusco, Perú). </p>
+</imagen>
+<p>Los incas tenían diversas formas de propiedad sobre la tierra;
+algunas pertenecían al Estado, otras eran de propiedad privada del
+rey o de la alta nobleza, y otras se destinaban a los desplazados
+a zonas de nueva conquista.</p>
+<p>Las tierras de <negrita>propiedad</negrita> de las élites solían
+ser trabajadas por <negrita>siervos</negrita>. No obstante, los encargados
+de cuidar las del Estado y del sacerdocio eran <negrita>trabajadores
+remunerados</negrita> mediante un sistema de prestación de servicios
+denominado <negrita>mita</negrita> o trabajo personal.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso190&amp;IdRecurso=RES-BCFE4F9406754376AA8B92873661EB58"
+>Sociedad, gobierno y economía de la civilización inca</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_6683B70F4238463C81B8E8B7523FH87H">
+<seccion3Titulo>Religión</seccion3Titulo>
+<seccion3Texto>
+<p>Los incas eran politeístas. Su dios principal era Sol, padre creador,
+del cual descendían directamente sus <negrita>soberanos</negrita>.</p>
+<p>Según la <negrita>mitología</negrita> incaica, existían tres mundos
+diferentes, creados por el dios <negrita>Viracocha</negrita>, padre
+de todas las cosas:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Hanan Pacha</negrita> (mundo de arriba o supraterrenal).
+Mundo <negrita>celestial</negrita> al que solo las personas justas
+podían acceder y donde moran los dioses, como el propio Viracocha.</listaElemento>
+<listaElemento><negrita>Kay Pacha</negrita> (mundo del presente).
+Mundo <negrita>terrenal</negrita> donde habitan los seres humanos.</listaElemento>
+<listaElemento><negrita>Uku Pacha</negrita> (mundo de abajo). Mundo
+de los <negrita>muertos</negrita>, de los niños no nacidos y de todo
+lo que estaba debajo de la superficie de la tierra o del mar. Al igual
+que en otras culturas precolombinas, las vías de acceso a este mundo
+eran las fuentes, las cuevas y otras aberturas de la superficie terrestre.</listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso200&amp;IdRecurso=RES-2475935D03AE4576ADE8E9B957574F55"
+>Características de la civilización inca</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_05_CO_6683B70F4238463C81B8E8B7523FJ98J">
+<seccion3Titulo>Avances culturales y científicos</seccion3Titulo>
+<seccion3Texto>
+<p>Al igual que las civilizaciones de Mesoamérica, los incas alcanzaron
+grandes avances en el conocimiento de los <negrita>astros</negrita
+>. Tuvieron un sistema contable, el <negrita>quipu</negrita>, que
+consistía en cuerdas de lana o algodón que anudaban y coloreaban.</p>
+<p>También sobresalieron por <negrita>obras civiles</negrita>, como
+los caminos, los acueductos, los sistemas de terrazas de cultivo,
+los regadíos, las magníficas construcciones de ciudades, como El Cuzco
+y Machu Picchu, y templos como el de Acllahuasi.</p>
+<imagen src="CS_06_05_CO_IMG32_small.jpg">
+<p>Templo de <negrita>Acllahuasi</negrita> o de la Luna, de la época
+inca, ubicado en <negrita>Pachacámac</negrita>. Fue residencia de
+las mujeres escogidas.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>El <negrita>estilo arquitectónico</negrita> del Imperio inca tuvo
+como <negrita>características</negrita> primordiales: </p>
+<listaSinNumerar>
+<listaElemento>La <negrita>sencillez</negrita> de sus formas.</listaElemento>
+<listaElemento>La <negrita>solidez</negrita> (emplearon piedra en
+grandes bloques sin utilizar la argamasa).</listaElemento>
+<listaElemento>La <negrita>simetría</negrita> (las partes de las construcciones
+eran iguales a partir de su eje).</listaElemento>
+<listaElemento>La <negrita>monumentalidad</negrita> (por sus grandes
+proporciones).</listaElemento>
+<listaElemento>Los <negrita>materiales</negrita> (muchos de ellos
+provenían de otros sitios distintos a El Cuzco).</listaElemento>
+</listaSinNumerar>
+</recuerdaTexto></recuerda>
+<p><negrita>Machu Picchu</negrita></p>
+<p>Su nombre significa <negrita>montaña vieja</negrita>. Esta ciudad
+fue declarada monumento histórico de la ingeniería civil, reconocida
+como obra maestra de la arquitectura y la ingeniería, proclamada como
+una de las siete maravillas del mundo moderno y declarada patrimonio
+de la humanidad.</p>
+<p>Machu Picchu se construyó en el siglo XV y fue la ciudad sagrada
+de los incas. Su <negrita>simetría</negrita>, <negrita>solidez</negrita
+> y <negrita>armonización</negrita> hacen que sea una verdadera joya
+arquitectónica, que se ha convertido en uno de los destinos turísticos
+más importantes del mundo.</p>
+<p>Para conocer más sobre Machu Picchu, consulta la Gran Enciclopedia
+Hispánica<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=126455&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso210&amp;IdRecurso=RES-B5B84E1A89214068B3834C4DA93E2E41"
+>Machu Picchu, una ciudad fortaleza</enlace>
+</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_05_CO_E46068D943EE4E118423B51C0CAB1984">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividad para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso220&amp;IdRecurso=RES-4496AE15847E4FE980DF79056825717D"
+>Refuerza tu aprendizaje: La civilización inca</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_05_CO_1E454B422FC149ABB83CE637162F4F76">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso230&amp;IdRecurso=RES-B861E8143BAE44BC92EAE73D88BCFC41"
+>Competencias: cuadro comparativo de las culturas indígenas americanas</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso240&amp;IdRecurso=RES-16BC8642C5FD41E397EF7567E30983E5"
+>Proyecto: análisis del legado ancestral de los indígenas descendientes
+de mayas, aztecas e Incas</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_06_05_CO_20FF5441692D4F4EB3E6453319C18589"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso260&amp;IdRecurso=RES-56E964DDFB90486EBEB8FDC6F00C0DE3"
+>Mapa conceptual del tema América precolombina</enlace></mapaconceptual>
+<autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso270&amp;IdRecurso=RES-3C80660D0EC84DF297E8D29D2403747D"
+>Evalúa tus conocimientos sobre el tema América precolombina</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace destino="http://www.banrepcultural.org/node/32726">Sobre El
+poblamiento de América</enlace>
+<enlace destino="http://www.islamchile.com/islam/aztecas.htm">Sobre
+civilizaciones indígenas de Mesoamérica</enlace>
+<enlace destino="http://aprendesociales.com/historia/america.php"
+>Sobre Historia de América</enlace>
+</enlacesreferencia></masinformacion></libro>
