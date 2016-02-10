@@ -1,623 +1,1215 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_08_10_CO">
-  <libroTitulo>Regiones biogeográficas del mundo</libroTitulo>
-  <seccion1 id="S1_CS_08_10_CO_737B24BFE55A4061AE83DCD1A366DC80">
-    <seccion1Titulo>Los conceptos básicos de biogeografía</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_10_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso010&amp;IdRecurso=RES-8A312D4CFE644C19AF635F4367041E97">Diaporama F1-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_08_10_CO_81AF411DF31D456D97D4AF19EC11C652">
-        <seccion2Titulo>Biogeografía</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <seccion3 id="S3_CS_08_10_CO_78E1C9308B8841BF8154129CE205FBFE">
-            <seccion3Titulo>Fitogeografía</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_10_CO_img_03_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_10_CO_973B6A948C7F460B81FC5AFB77F00F7D">
-            <seccion3Titulo>Zoogeografía</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_10_CO_img_04_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso020&amp;IdRecurso=RES-2B6DD4CC4CD44616853DC8AF4D441606">Recurso M2A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_10_CO_ADADA616EBBB4F96A0AD595C53701F2D">
-        <seccion2Titulo>Biomas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso030&amp;IdRecurso=RES-7A61296A4B644ABAA7921E219C3E075C">Recurso M9B-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_10_CO_9C73B905B1F440D0B7BD45AFB79C526A">
-        <seccion2Titulo>Endemismo</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_06_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso040&amp;IdRecurso=RES-B5717CECC87E4D2F8AA99859FE58B725">Recurso M8A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_10_CO_487F2A09D5B94B43AD163708B187891A">
-        <seccion2Titulo>Especies cosmopolitas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_07_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso050&amp;IdRecurso=RES-7CFA26E82C4543E5BE13024D61FB63AB">Recurso M1B-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_10_CO_662C06A67B824C37B902B988537E838F">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_08_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso060&amp;IdRecurso=RES-D05A0E9CC2B3417EAA4F9115F9254E46">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_10_CO_D23F1A72FD5B4D13855300EEE8F14DF3">
-    <seccion1Titulo>Las regiones biogeográficas</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_10_CO_img_09_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso070&amp;IdRecurso=RES-1BC3A954F3D64607B3769B5EFDDD8AD9">Recurso F10-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_08_10_CO_B35CA851233C4789B35AE674EDBE5BF0">
-        <seccion2Titulo>Agrupación de regiones</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_10_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_11_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso080&amp;IdRecurso=RES-DFE3EDC11888436AA3226C0CA894E177">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_10_CO_61294A1984D74E4D8AD95608CEB5DB44">
-    <seccion1Titulo>El reino Holártico</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_10_CO_img_12_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso090&amp;IdRecurso=RES-09DFDD2F3456411D819C2F1E8D5D1703">Video como media principal - 01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_08_10_CO_FD4702C483844B3B87985281649382C9">
-        <seccion2Titulo>Región biogeográfica paleártica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_10_CO_B7CB5840D1F14EDEAB0B99819744AB42">
-        <seccion2Titulo>Región biogeográfica neoártica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_14_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso100&amp;IdRecurso=RES-49FD22E831684AB6976D559CB72E06DE">Video como media principal - 02</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso110&amp;IdRecurso=RES-D2D6DA0C84AE4F3487B85DC6DF7BE772">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_10_CO_F24D77E09DB0404993693C623542F19B">
-    <seccion1Titulo>El reino Paleotrópico y Neotrópico</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_10_CO_img_16_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso120&amp;IdRecurso=RES-47E1284ABE484030AD6359BA91554C1A">Recurso F6-01</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_10_CO_AE8259113C854DDD88B9663058B46AE1">
-    <seccion1Titulo>Los reinos Paleotrópico</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_08_10_CO_756F8A9328184A74833DDB892417ABE7">
-        <seccion2Titulo>Región biogeográfica afrotropical o etiópica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_17_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_10_CO_09F335A794AD4CEEB73693AED9C7BF02">
-        <seccion2Titulo>Región biogeográfica indomalaya u oriental</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_18_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso130&amp;IdRecurso=RES-C106A1AE01D14455A28A37CDBDE969F5">Recurso M10A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_10_CO_F8076788B15E4BFAA86111F7F42D98F2">
-        <seccion2Titulo>Región biogeográfica neotropical</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_19_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso140&amp;IdRecurso=RES-DEA6F11A6D664B809FAD4A36CD3F6857">Recurso M6A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_20_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso150&amp;IdRecurso=RES-38FDF83D1C934D90A9DFBE183CECE145">Recurso M101A-04</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_10_CO_91949DAEBA534BA8AF900B4CC5A0E5DA">
-    <seccion1Titulo>Los reinos Australiano y Antártico</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_10_CO_img_21_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso160&amp;IdRecurso=RES-D8B8250EBBAE4D91B0F1257BFE162A20">Recurso F4-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_08_10_CO_B0370A7F118A4C789E0E3FB6C3531061">
-        <seccion2Titulo>Región biogeográfica Australasia o australiana</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_22_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_10_CO_6D087223BD57431593F508D6C6C158E5">
-        <seccion2Titulo>Región biogeográfica oceánica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_23_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso170&amp;IdRecurso=RES-F0B3FAADBD4C4BB59AF63685326F5C56">Recurso M10A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_10_CO_70394077FB704A02B7EE958CB48EF18C">
-        <seccion2Titulo>Región biogeográfica Antártica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_24_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso180&amp;IdRecurso=RES-AB077B91F16940A8B62677FF16E4134A">Recurso M3A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_10_CO_img_25_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso190&amp;IdRecurso=RES-0379ECA78E824AF49A65C6136DBFC189">Recurso M101A-05</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_10_CO_41A47B19D7174254874D7117245E8677">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_10_CO_img_26_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso200&amp;IdRecurso=RES-000F6B5256E2417B8AD7FF29DE0A6D31">Proyecto: estudio de los ecosistemas</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_10_CO_img_27_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso210&amp;IdRecurso=RES-45DA18ED5DBD44EBBDBF6E97BE04F4B2">Competencias: comentario de un texto literario como fuente</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_08_10_CO_D920B902E7AB4D2580BB5C586DCE7C25">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso230&amp;IdRecurso=RES-864BAF4C0E384A69A765D890987AC0D9">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso240&amp;IdRecurso=RES-6DB1751D0B754B788929D436E5C3D16D">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Regiones biogeográficas del mundo</libroTitulo>
+<seccion1 id="S1_CS_08_10_CO_737B24BFE55A4061AE83DCD1A366DC80">
+<seccion1Titulo>Los conceptos básicos de biogeografía</seccion1Titulo>
+<seccion1Texto>
+<p>Las<negrita> regiones biogeográficas</negrita> del mundo son partes
+de la superficie terrestre donde las plantas y animales <negrita>evolucionaron</negrita
+> y se <negrita>desarrollaron</negrita> de acuerdo con accidentes
+geográficos, como cadenas montañosas, desiertos y océanos, durante
+largos periodos de tiempo.</p>
+<p>Para hablar de las regiones biogeográficas del mundo, se requiere
+de conceptos como biogeografía, fitogeografía, zoogeografía, endemismo,
+especiación, relicto o refugio, cosmopolitismo y bioma<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=15&amp;idpil=555824&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso010&amp;IdRecurso=RES-8A312D4CFE644C19AF635F4367041E97"
+>Conceptos clave para comprender las regiones biogeográficas</enlace>
+</profundiza><seccion2
+id="S2_CS_08_10_CO_81AF411DF31D456D97D4AF19EC11C652">
+<seccion2Titulo>La biogeografía</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>biogeografía</negrita> estudia la distribución de los
+seres vivos en la Tierra en un contexto evolutivo (<negrita>aparición
+– extinción</negrita>) y las causas que generaron tales distribuciones
+y dispersiones. El estudio de la biogeografía contribuye a la conservación
+biológica: conservación de la <negrita>biota</negrita> (individuos,
+poblaciones, especies, etc.) y conservación del funcionamiento de
+los <negrita>sistemas ecológicos</negrita><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=7970&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_08_10_CO_img_01_small.jpg">
+<p>Algunas especies animales han quedado <negrita>restringidas</negrita
+> a <negrita>áreas geográficas</negrita> específicas, <negrita>adaptándose</negrita
+> a las condiciones climáticas. Por ejemplo, el bisonte americano
+y europeo está adaptado a soportar tormentas de nieve, mientras que
+el camello y el dromedario al estar confinados a las zonas desérticas,
+desarrollaron estructuras para el almacenamiento de agua.</p>
+</imagen>
+<p>Este estudio se apoya en disciplinas, como la <negrita>geografía</negrita
+>, la <negrita>sistemática zoológica</negrita> y <negrita>botánica</negrita
+>, así como la <negrita>geología</negrita>, la <negrita>edafología</negrita
+>, la <negrita>climatología</negrita>, la <negrita>fisiología</negrita
+> y la <negrita>ecología</negrita>.</p>
+<recuerda><recuerdaTexto>
+<p>Según la Unesco, la <negrita>biogeografía</negrita> se integra
+dentro de la geografía física, así como también es de interés la biología
+evolutiva, para entender el fenómeno de la vida desde el estudio de
+la diversidad, las relaciones entre los <negrita>taxa</negrita>, los
+patrones de distribución y las causas que han producido esas relaciones
+y esos patrones.</p>
+<p>La <negrita>biogeografía</negrita>, además, se basa en el estudio
+de la <negrita>fitogeografía</negrita> y la <negrita>zoogeografía</negrita
+>.</p>
+</recuerdaTexto></recuerda>
+<p>La <negrita>biogeografía</negrita> propende por explicar, desde
+un punto de vista interpretativo y descriptivo, el reparto de los
+seres vivos en sus distintos tipos de agrupaciones, como especies,
+hábitats, ecosistemas, biomas, paisajes.</p>
+<p>Para la interpretación de su objeto de estudio, la biogeografía
+no puede prescindir del factor humano. La humanidad ha alterado significativamente
+los ambientes terrestres y oceánicos, y hoy resulta muy difícil encontrar
+lugares absolutamente “naturales”, aunque la conciencia de este hecho
+es reciente y la incorporación de la idea en el discurso de la disciplina
+aún es insuficiente.</p>
+<destacado><destacadoTitulo>Principales aportes a la biogeografía</destacadoTitulo>
+<destacadoTexto>
+<listaSinNumerar>
+<listaElemento><negrita>Los naturalistas del siglo XIX</negrita>.
+Alexander von Humboldt, Charles Darwin, el ornitólogo Philip Sclater
+y el botánico Adolf Engler contribuyeron de manera importante a la
+biogeografía basados en la hipótesis de que los seres vivos se distribuyeron
+desde un lugar común y a partir de allí se dispersaron en todas las
+direcciones.</listaElemento>
+<listaElemento>En 1872,<negrita> Alfred Russel Wallace</negrita> dividió
+la Tierra en seis regiones biogeográficas separadas por barreras geográficas,
+para describir la distribución de las especies de aves, insectos,
+mamíferos y reptiles. </listaElemento>
+<listaElemento>El científico húngaro <negrita>Miklos Udvardy</negrita
+> propuso en 1975 un sistema de clasificación de las regiones biogeográficas
+del mundo. Divide la Tierra en ocho regiones con el propósito de generar
+políticas para la conservación del medio ambiente. Esta propuesta
+sirvió de base a la clasificación realizada por los expertos del <negrita
+>Fondo Mundial para la Naturaleza (WWF)</negrita>.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado><seccion3
+id="S3_CS_08_10_CO_78E1C9308B8841BF8154129CE205FBFE">
+<seccion3Titulo>La fitogeografía</seccion3Titulo>
+<seccion3Texto>
+<p>La <negrita>fitogeografía</negrita> estudia el hábitat de las plantas
+sobre la superficie terrestre. Estudia el origen, la evolución y la
+distribución de las plantas de acuerdo con la distribución geográfica<enlace
+destino="http://www.ecured.cu/index.php/La_Fitogeograf%C3%ADa"> [VER]</enlace
+>.</p>
+<p>Algunas características de la vegetación con respecto a la geografía
+de un lugar son:</p>
+<listaSinNumerar>
+<listaElemento>La asimilación de la energía solar.</listaElemento>
+<listaElemento>La estabilización de los terrenos en pendientes.</listaElemento>
+<listaElemento>La retención de la humedad.</listaElemento>
+<listaElemento>La regulación de la temperatura.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_08_10_CO_IMG02_small.jpg">
+<p>El género <negritacursiva>Nothofagus</negritacursiva> comprende
+cerca de 35 especie y es el género de pino predominante de los bosques
+de Chile. En el mapa se puede identificar la <negrita>distribución</negrita
+> del género <negritacursiva>Nothofagus</negritacursiva> en Australia,
+Nueva Zelanda, Nueva Caledonia, Nueva Guinea, Chile y Argentina.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_10_CO_973B6A948C7F460B81FC5AFB77F00F7D">
+<seccion3Titulo>La zoogeografía</seccion3Titulo>
+<seccion3Texto>
+<p>La <negrita>zoogeografía</negrita> estudia la distribución de los
+animales en el globo terrestre, la <negrita>dispersión</negrita> y
+los factores que se encargan de esta dispersión<enlace
+destino="http://geografia.laguia2000.com/general/zoogeografia-y-ecozona"
+> [VER]</enlace>.</p>
+<p>En algunas zonas del globo terráqueo hay hábitats semejantes, con
+una fauna muy diferente entre sí. Asimismo, fauna con cualidades semejantes
+puede poblar hábitats distintos. Estas anomalías tienen lugar por
+la presencia de barreras físicas, biológicas o ecológicas de aislamiento.
+Los restos fósiles dan testimonio de animales que han habitado en
+zonas diferentes a las que hoy habitan. Un ejemplo son los primitivos
+camellos, que migraron de América del Norte a África y a Eurasia,
+pero los de América perecieron.</p>
+<imagen src="CS_08_10_CO_img_03_small.jpg">
+<p>La familia <negritacursiva>Camelidae</negritacursiva> es originaria
+de Norteamérica durante el <negrita>Eoceno tardío</negrita>, hace
+unos 40 millones de año. Durante el <negrita>Plioceno</negrita> y
+el <negrita>Pleistoceno</negrita>, y como efecto del <negrita>cambio
+climático</negrita> que se dio en el planeta Tierra, los camélidos
+migraron por el Estrecho de Bering hacia Eurasia y África, y por el
+istmo de Panamá hacia Suramérica.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso020&amp;IdRecurso=RES-2B6DD4CC4CD44616853DC8AF4D441606"
+>Conoce las características fitogeográficas y zoogeográficas de Suramérica</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_08_10_CO_ADADA616EBBB4F96A0AD595C53701F2D">
+<seccion2Titulo>Los biomas</seccion2Titulo>
+<seccion2Texto>
+<p>Clements y Shelford (1939) acuñaron el término <negrita>“bioma”</negrita
+> para describir una unidad biogeográfica asociada a una banda <negrita
+>bioclimática latitudinal</negrita>, caracterizada por la <negrita
+>vegetación</negrita> dominante regional que prevalece y la <negrita
+>vida animal</negrita> asociada. La característica climática de estas
+grandes áreas geográficas está determinada por la latitud y la altitud,
+como bioma transversal para ambos hemisferios<enlace
+destino="http://es.calameo.com/read/0002144455e0595439244"> [VER]</enlace
+>.</p>
+<recuerda><recuerdaTexto>
+<p><negrita>Bioma</negrita> es la división de la superficie terrestre
+sobre la base de las <negrita>formas de vida</negrita> o <negrita
+>adaptaciones</negrita> de las especies vegetales y animales a unas
+condiciones <negrita>macroclimáticas</negrita>, suelo y otras características <negrita
+>abióticas</negrita>.</p>
+</recuerdaTexto></recuerda>
+<imagen src="CS_08_10_CO_IMG04_small.jpg">
+<p>En el mapa se ilustran los grandes <negrita>biomas</negrita> del
+planeta Tierra. Esta división se basa en las condiciones climáticas,
+como la temperatura, la humedad y las precipitaciones, que determinan
+las condiciones abióticas para el establecimiento y desarrollo de
+la vegetación que tiene la capacidad de <negrita>adaptarse</negrita
+> a este tipo de entorno en particular.</p>
+</imagen>
+<p>Los biomas se clasifican según el medio en que se desarrollen:
+biomas <negrita>terrestres</negrita> y biomas <negrita>acuáticos</negrita
+><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=7974&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p><negrita>Biomas terrestres</negrita>. Corresponde a grupos de ecosistemas
+que se caracterizan por desarrollarse en condiciones climáticas similares.
+Se agrupa en tres grandes zonas.</p>
+<listaSinNumerar>
+<listaElemento><cursiva>Zonas frías y polares</cursiva>. Regiones
+de latitudes elevadas, por encima de los 60º de latitud norte y sur.
+Se encuentran las zonas polares, la tundra y la taiga. También corresponden
+a las cumbres de altas montañas ubicadas en zonas de latitudes medias
+y bajas.</listaElemento>
+<listaElemento><cursiva>Zonas templadas</cursiva>. Regiones de latitudes
+medias, por encima de los 40º latitud norte, cuyo clima varía según
+las estaciones del año. Corresponden a bosques caducifolios, bosque
+mediterráneo, estepas y praderas.</listaElemento>
+<listaElemento><cursiva>Zonas cálidas</cursiva>. Regiones de latitudes
+bajas que se desarrollan en la franja ecuatorial y no presentan variaciones
+estacionales. Corresponden a las selvas tropicales, subtropicales,
+sabanas y desiertos.</listaElemento>
+</listaSinNumerar>
+<p><negrita>Biomas acuáticos</negrita>. Ecosistemas que se caracterizan
+por condiciones abióticas, como la salinidad, la profundidad y el
+movimiento del agua. Se establecen dos grandes biomas: </p>
+<listaSinNumerar>
+<listaElemento><cursiva>Los biomas de agua dulce</cursiva>. Su biota
+está determinada por el <negrita>volumen</negrita> y la <negrita>velocidad</negrita
+> del movimiento del agua. Se divide en dos: <listaSinNumerar>
+<listaElemento>Los <negrita>lénticos</negrita>, es decir, de poco
+movimiento, como lagos, lagunas, humedales.</listaElemento>
+<listaElemento>Los <negrita>lóticos</negrita>, son corrientes dadas
+por la pendiente del terreno, que incluye torrentes y ríos.</listaElemento>
+</listaSinNumerar></listaElemento>
+<listaElemento><cursiva>Los iomas marinos</cursiva>. Son mares y océanos
+caracterizados por las corrientes promovidas por los vientos (oleaje),
+la temperatura y la salinidad. Se diferencian en tres ecosistemas: <listaSinNumerar>
+<listaElemento>El litoral, cercanos a las costas.</listaElemento>
+<listaElemento>Los bentónicos, corresponde a los fondos marinos.</listaElemento>
+<listaElemento>Los pelágicos, o mar abierto.</listaElemento>
+</listaSinNumerar></listaElemento>
+</listaSinNumerar>
+<p>Muchos de los lugares más ricos en biodiversidad en la Tierra son
+también aquellos en los que tanto personas como ecosistemas son los
+más <negrita>vulnerables</negrita> al cambio climático. La <negrita
+>adaptación climática</negrita> es un proceso que ayuda a las comunidades
+y los ecosistemas a enfrentar el cambio climático.</p>
+<destacado><destacadoTitulo>Biomas y cambio climático</destacadoTitulo>
+<destacadoTexto>
+<p>La pérdida continua de la biodiversidad no es una cuestión separada
+de las preocupaciones fundamentales de la sociedad: para combatir
+la pobreza, mejorar la salud, la prosperidad y la seguridad de las
+generaciones presentes y futuras, y para hacer frente al cambio climático.</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso030&amp;IdRecurso=RES-7A61296A4B644ABAA7921E219C3E075C"
+>Distribución geográfica de los biomas en el planeta</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_10_CO_9C73B905B1F440D0B7BD45AFB79C526A">
+<seccion2Titulo>El endemismo</seccion2Titulo>
+<seccion2Texto>
+<p>El endemismo se refiere a las <negrita>especies</negrita> o <negrita
+>taxones</negrita> animales o vegetales que evolucionaron en un área
+geográfica limitada y quedaron confinadas a dicho territorio. El endemismo
+se da más frecuente en áreas geográficas aisladas como:</p>
+<listaSinNumerar>
+<listaElemento>Las <negrita>islas naturales</negrita>. Son porciones
+de tierra rodeadas por aguas.</listaElemento>
+<listaElemento>Las <negrita>islas geológicas</negrita>. Zonas donde
+existe continuidad de tierra o agua, pero el paso está imposibilitado
+para las especies por el relieve u otros accidentes geográficos.</listaElemento>
+</listaSinNumerar>
+<p>Un ejemplo de endemismo son las tortugas de las islas Galápagos,
+los koalas en Australia y algunos insectos que viven  exclusivamente
+en cuevas.</p>
+<p>La presencia de especies endémicas es un indicador de <negrita
+>calidad ambiental</negrita> de una región y es la base para la determinación
+de <negrita>políticas de protección</negrita> y <negrita>conservación</negrita
+>.</p>
+<imagen src="CS_08_10_CO_IMG05_small.jpg">
+<p>El koala es una especie endémica de Australia. Su hábitat natural
+son los bosques de eucalipto y necesitan mucho espacio para su sobrevivencia,
+unos 100 árboles por koala, lo que es un problema grave debido a la
+disminución de los bosques australianos. </p>
+</imagen>
+<p>El endemismo puede darse por dos procesos principales:</p>
+<listaSinNumerar>
+<listaElemento>El proceso de <negrita>especiación</negrita>: el aislamiento
+de una población a partir de un cambio drástico del ambiente, permite
+su evolución <negritacursiva>in situ</negritacursiva> (en su sitio
+o lugar) a través de un largo periodo de tiempo, lo que da lugar a
+una progresiva <negrita>divergencia genética</negrita> y <negrita
+>morfológica</negrita> con respecto al tipo inicial hasta generar
+una nueva especie.</listaElemento>
+<listaElemento>El proceso de <negrita>pérdida de territorio</negrita
+>: especies que han quedado aisladas o reducidas a un territorio muy
+pequeño. Es el caso de especies que están al borde de la extinción
+y solo sobreviven en <negrita>relictos</negrita> o <negrita>refugios</negrita
+>.</listaElemento>
+</listaSinNumerar>
+<recuerda><recuerdaTexto>
+<p>La identificación de las áreas de endemismos es importante para
+la elaboración de mapas biogeográficos que permitan establecer los
+patrones de la diversidad biológica. Con esto se pueden proponer y
+desarrollar estrategias para su <negrita>conservación</negrita> y <negrita
+>uso sustentable</negrita>.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso040&amp;IdRecurso=RES-B5717CECC87E4D2F8AA99859FE58B725"
+>Conoce las principales especies endémicas del mundo</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_10_CO_487F2A09D5B94B43AD163708B187891A">
+<seccion2Titulo>Las especies cosmopolitas</seccion2Titulo>
+<seccion2Texto>
+<p>Especies o taxones cosmopolitas son aquellos seres vivos ampliamente
+distribuidos en hábitats que le son favorables en todos o en la mayoría
+de los continentes u océanos del mundo. El cosmopolitismo aparece
+principalmente en especies que habitan medios acuáticos o litorales,
+cuyas características <negrita>abióticas</negrita> son más <negrita
+>homogéneas</negrita>.</p>
+<destacado><destacadoTitulo>Cosmopolitismo cultural</destacadoTitulo>
+<destacadoTexto>
+<p>Término referido a las especies de plantas y animales que el ser
+humano ha domesticado y dispersado en el mundo, como plantas ornamentales,
+animales de compañía (perros, gatos, aves), especies alimenticias
+(trigo, ganado vacuno, etc.).</p>
+</destacadoTexto></destacado>
+<imagen src="CS_08_10_CO_IMG06_small.jpg">
+<p>El cetáceo <negritacursiva>Orcinus orca</negritacursiva> (ballena
+orca) es una especie migratoria. Se distribuye desde el océano Ártico
+al Antártico, pasando por los mares tropicales. Habita con mayor frecuencia
+las aguas costeras y es el cetáceo con la distribución más amplia.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso050&amp;IdRecurso=RES-7CFA26E82C4543E5BE13024D61FB63AB"
+>Caracteriza los principales conceptos de la biogeografía</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_10_CO_662C06A67B824C37B902B988537E838F">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso060&amp;IdRecurso=RES-D05A0E9CC2B3417EAA4F9115F9254E46"
+>Refuerza tu aprendizaje: Los conceptos básicos de biogeografía</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_10_CO_D23F1A72FD5B4D13855300EEE8F14DF3">
+<seccion1Titulo>Las regiones biogeográficas</seccion1Titulo>
+<seccion1Texto>
+<p>La división biogeográfica de la Tierra se realiza de acuerdo con
+criterios geofísicos, litológicos, orográficos, biológicos, paleontológicos,
+edafológicos, pero ante todo se tiene en cuenta la riqueza, variedad
+y endemismos de los organismos vivos (especie, género, familia, orden…)
+y las relaciones entre las diversas comunidades de plantas y animales
+en su medio geográfico.</p>
+<p>El Fondo Mundial para la Naturaleza (World Wildlife Fund, WWF)
+clasificó la superficie terrestre en ocho regiones biogeográficas,
+teniendo en cuenta los sitios declarados como <negrita>patrimonio
+de la humanidad</negrita><enlace
+destino="http://wwf.panda.org/es/nuestro_planeta/ecorregiones/mapas/"
+> [VER]</enlace>.</p>
+<table border="1"><colgroup><col width="17*"/><col width="13*"/><col
+width="64*"/></colgroup>
+<tbody>
+<tr>
+<td align="center">Zonas o Regiones Biogeográficas</td>
+<td align="center">Superficie (km<superindice>2</superindice>)</td>
+<td align="center">Localización</td>
+</tr>
+<tr>
+<td>Paleártica</td>
+<td align="right">54 100 000</td>
+<td>Europa, gran parte de Asia al norte del Himalaya, norte de África
+y norte y centro de la Península Arábiga.</td>
+</tr>
+<tr>
+<td>Neoártica</td>
+<td align="right">22 900 000</td>
+<td>Gran parte de Norteamérica.</td>
+</tr>
+<tr>
+<td>Afrotropical o etiópica</td>
+<td align="right">22 100 000</td>
+<td>África subsahariana, Madagascar, las islas del occidente del océano
+Índico y el extremo sur de la Península Arábiga.</td>
+</tr>
+<tr>
+<td>Neotropical</td>
+<td align="right">19 000 000</td>
+<td>Sur de Norteamérica, Centroamérica, Suramérica, Antillas.</td>
+</tr>
+<tr>
+<td>Australasia o australiana</td>
+<td align="right">7 700 000</td>
+<td>Australia, Nueva Guinea, Nueva Zelanda y otras islas del sudeste
+asiático al sur de la línea de Wallace. </td>
+</tr>
+<tr>
+<td>Indomalaya u oriental</td>
+<td align="right">7 500 000</td>
+<td>Sureste de Asia, Filipinas e Indonesia.</td>
+</tr>
+<tr>
+<td>Antártica</td>
+<td align="right">300 000</td>
+<td>Antártida y la Patagonia.</td>
+</tr>
+<tr>
+<td>Oceánica</td>
+<td align="right">1 000 000</td>
+<td>Islas del Pacífico sur, Polinesia, Fiji y Micronesia.</td>
+</tr>
+</tbody>
+</table>
+<imagen src="CS_08_10_CO_IMG07_small.jpg">
+<p>Mapa de las <negrita>regiones biogeográficas</negrita> que se clasifican
+dentro de los 14 biomas y 8 reinos biogeográficos del mundo. El Fondo
+Mundial para la Naturaleza ha ordenado las regiones terrestres según
+su estado de conservación, como intacta, estable, <negrita>crítico</negrita
+>, <negrita>amenazada</negrita> o <negrita>vulnerable</negrita>, como
+resultado directo del impacto humano y los efectos del cambio climático.</p>
+</imagen>
+<destacado><destacadoTitulo>El clima y la vegetación</destacadoTitulo>
+<destacadoTexto>
+<p>El clima y la vegetación varían con la <negrita>latitud</negrita
+> (distancia angular desde el Ecuador) y con la <negrita>altitud</negrita
+> (altura sobre el nivel del mar). Si se escala una montaña alta hacia
+la cima, se encontrarán cambios en la vida vegetal semejantes a los
+que se hallan si se viaja desde el Ecuador hacia uno de los polos
+de la Tierra. En ambos casos la temperatura baja da lugar a la presencia
+de ambientes más fríos, húmedos y con vegetación cada vez más escasa
+y menos diversa, adaptada a cada clima.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso070&amp;IdRecurso=RES-1BC3A954F3D64607B3769B5EFDDD8AD9"
+>Los factores y los procesos que determinan las regiones biogeográficas</enlace>
+</profundiza><seccion2
+id="S2_CS_08_10_CO_B35CA851233C4789B35AE674EDBE5BF0">
+<seccion2Titulo>La agrupación de regiones</seccion2Titulo>
+<seccion2Texto>
+<p>En general, la biogeografía procura definir áreas sobre una fisiografía
+(relieve) relativamente homogénea y diferente a las vecinas, que se
+caracterizan  por factores biológicos y climáticos más o menos uniformes.
+Estas áreas deben ser susceptibles de representación cartográfica.</p>
+<p>Se ha establecido una clasificación jerárquica para agrupar la
+porción terrestre del planeta para el estudio biogeográfico. Estas
+son: reino, región, provincia, sector, distrito y, por último, la
+tesela, como unidad básica.</p>
+<listaSinNumerar>
+<listaElemento><negrita>Reino</negrita> (imperio florístico o fitogeográfico).
+Rango de mayor importancia que comprende una extensión continental
+que representa unidades ecológicas naturales, la evolución geológica
+de la Tierra y la evolución de la fauna y la flora, principalmente.
+Describe taxas de plantas endémicas  por familia, género y especie.</listaElemento>
+<listaElemento><negrita>Región</negrita> (círculo o región de vegetación).
+Territorio con dominios climáticos particulares. Se basa en la distribución
+y relaciones <negrita>filogenéticas</negrita> de los tipos de animales
+que se encuentran juntos ocupando un territorio y que interactúan
+entre sí. Esta división se sustenta en criterios de <negrita>especiación</negrita
+> y <negrita>endemismo</negrita> de género y especie.</listaElemento>
+<listaElemento><negrita>Provincia</negrita> (dominio). Vasto territorio
+con un gran número de especies endémicas y grupos de comunidades propias.
+Posee dominios climáticos propios y zonación altitudinal de la vegetación.</listaElemento>
+<listaElemento><negrita>Sector</negrita>. Amplio territorio con entidad
+geográfica, taxones y asociaciones propias. </listaElemento>
+<listaElemento><negrita>Distrito</negrita>. Territorio con extensión
+moderada, se caracteriza por las asociaciones y especies propias o
+restringidas a estas áreas. Estas zonas han sido de uso tradicional
+del ser humano.</listaElemento>
+<listaElemento><negrita>Tesela</negrita>. Unidad biogeográfica elemental,
+espacio ecológicamente homogéneo en el que existe un tipo de vegetación
+potencial y comunidades ecológicas características.</listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>“Hot-spots” (puntos calientes)</destacadoTitulo>
+<destacadoTexto>
+<p>La mayor diversidad en la Tierra se encuentra en los “hot-spots”,
+cuyo grado de aislamiento favorece la aparición y evolución de nuevas
+especies. Algunos “hot-spots” son las islas de Madagascar o Galápagos
+y continentes como África, Suramérica y Australia. Representan las
+reservas de la diversidad en el planeta, pero precisan acciones urgentes
+de protección.</p>
+</destacadoTexto></destacado>
+<p>La clasificación en <negrita>reinos</negrita> se establece a partir
+de los dos componentes principales de los supercontinentes primitivos:
+un área en relación con <negrita>Laurásico</negrita>, y otra, en relación
+con la <negrita>Gondwana</negrita>. Se establecen tres reinos principales<enlace
+destino="http://ocw.unican.es/ciencias-sociales-y-juridicas/biogeografia/materiales/pdfs-temas/1-Introduccion.pdf "
+> [VER]</enlace>.</p>
+<listaSinNumerar>
+<listaElemento>El holártico</listaElemento>
+<listaElemento>El paleotrópico y el neotrópico</listaElemento>
+<listaElemento>El australiano, el oceánico y el antártico</listaElemento>
+</listaSinNumerar>
+<p>Cada uno de estos reinos agrupa varias de las regiones biogeográficas:</p>
+<listaNumerada>
+<listaElemento>El reino holártico<listaSinNumerar>
+<listaElemento>La región paleártica</listaElemento>
+<listaElemento>La región neártica</listaElemento>
+</listaSinNumerar></listaElemento>
+<listaElemento>El reino paleotrópico<listaSinNumerar>
+<listaElemento>La región afrotropical, con dos subregiones: África
+subsahariana y Madagascar</listaElemento>
+<listaElemento>La región indomalaya</listaElemento>
+<listaElemento>La región neotropical</listaElemento>
+</listaSinNumerar></listaElemento>
+<listaElemento>Los reinos australiano, oceánico y antártico<listaSinNumerar>
+<listaElemento>La región australasia</listaElemento>
+<listaElemento>La región oceánica</listaElemento>
+<listaElemento>La región antártica</listaElemento>
+</listaSinNumerar></listaElemento>
+</listaNumerada>
+<imagen src="CS_08_10_CO_IMG08_small.jpg">
+<p>Cada reino agrupa distintas regiones. Las regiones paleártica y
+neártica pertenecen al reino holártico. Las regiones afrotropical,
+indomalaya y neotropical forman parte del reino paleotrópico y neotrópico.
+Las regiones australasia, oceánica y antártica pertenecen a los reinos
+australiano, oceánico y antártico.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_10_CO_B35CA851233C4789B35AE674EDBE6AC1">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso080&amp;IdRecurso=RES-DFE3EDC11888436AA3226C0CA894E177"
+>Refuerza tu aprendizaje: Las regiones biogeográficas</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_10_CO_61294A1984D74E4D8AD95608CEB5DB44">
+<seccion1Titulo>El reino holártico</seccion1Titulo>
+<seccion1Texto>
+<p>América del Norte estuvo unida a Eurasia formando el gran continente
+de <negrita>Laurasia</negrita>. Más adelante se separaron, pero mantuvieron
+comunicación a través del <negrita>Estrecho de Bering</negrita>, lo
+que produjo intercambio de especies vegetales y animales, de las cuales
+aún persisten las que se adaptaron a las estaciones y a las bajas
+temperaturas<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=167630&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>El reino holártico corresponde a la <negrita>zona templada</negrita
+>, <negrita>subtropical</negrita> y <negrita>ártica</negrita>, por
+encima de los 30º de latitud norte y del Trópico de Cáncer.</p>
+<p>El clima se caracteriza por presentar estaciones con <negrita>isotermas</negrita
+> polar (seca), fría-boreal, templada fría, mediterráneo o subtropical
+seco y desértico. La vegetación representativa es la tundra, bosque
+de coníferas, taiga, bosque templado caducifolio y bosque y matorral
+mediterráneos.</p>
+<p>Comprende dos regiones: <negrita>región paleártica</negrita> y <negrita
+>región neártica</negrita>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso090&amp;IdRecurso=RES-09DFDD2F3456411D819C2F1E8D5D1703"
+>La ruptura de Pangea</enlace>
+</profundiza><seccion2
+id="S2_CS_08_10_CO_FD4702C483844B3B87985281649382C9">
+<seccion2Titulo>La región biogeográfica paleártica</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>región paleártica</negrita> comprende la parte de Europa,
+África septentrional, Asia al norte del Himalaya y las zonas norte
+y central de la Península Arábiga.</p>
+<imagen src="CS_08_10_CO_IMG09_small.jpg">
+<p>La región paleártica presenta grandes diferencias fisiográficas,
+de fauna y flora en la parte sur y en las cadenas montañosas.</p>
+</imagen>
+<p>En la zona circumpolar, hacia los 70° de latitud norte, la región
+cubre una gran extensión del bioma de <negrita>tundra</negrita>. Se
+caracteriza por bajas temperaturas, inviernos largos y oscuros, precipitación
+media anual baja y principalmente se presenta como nieve. El subsuelo
+posee una capa gruesa de hielo (<negrita>permafrost</negrita> o <negrita
+>hielo permanente</negrita>) que permanece congelada todo el año.</p>
+<p>La tundra de la Eurasia cubre el norte de Rusia y Siberia hasta
+el mar de Bering. Está pobremente desarrollada en Europa, se encuentra
+solamente en la parte más al norte de la Península Escandinava. Se
+caracteriza por vegetación de líquenes, musgos, hierbas y arbustos
+pequeños como el brezo.</p>
+<imagen src="CS_08_10_CO_IMG10_small.jpg">
+<p>El derretimiento del permafrost puede acelerar el cambio climático,
+porque contiene grandes cantidades de carbono. Al derretirse, el carbono
+puede liberarse en el aire en forma de dióxido de carbono o metano;
+ambos gases son de efecto invernadero.</p>
+</imagen>
+<p>Al sur de la tundra, entre los 45º y 58º de latitud norte, se encuentra
+el bioma de <negrita>bosque de coníferas</negrita> o <negrita>taiga</negrita
+>. El clima es frío, de veranos cortos e inviernos largos con temperaturas
+de hasta -50 oC; la capa de nieve puede durar más de seis meses. Se
+caracteriza por la vegetación, casi exclusiva, de coníferas, como
+pinos, abetos y alerces. Las semillas de las coníferas proporcionan
+alimento a muchos animales, como las ardillas, los verderones y los
+piquituertos.</p>
+<imagen src="CS_08_10_CO_IMG11_small.jpg">
+<p>Los bosques de coníferas figuran entre las regiones productoras
+de madera más importantes del mundo. Sin embargo, la tala excesiva
+destruye la estabilidad del bosque y es una amenaza para el bienestar
+social y económico de las personas.</p>
+</imagen>
+<p>Por debajo de los 45° norte, hay una diversidad de ambientes en
+esta región:</p>
+<listaSinNumerar>
+<listaElemento>Se encuentra el <negrita>bosque de matorral de abedul</negrita
+> en la zona subalpina de las montañas escandinavas.</listaElemento>
+<listaElemento>Hay un cinturón de <negrita>bosque de estepa</negrita
+> desde Ucrania hasta Mongolia.</listaElemento>
+<listaElemento>En los Cárpatos y el Danubio central, además del bosque
+de estepa, hay presencia de <negrita>bosque ripario de roble</negrita
+> y <negrita>bosque deciduo templado</negrita>.</listaElemento>
+<listaElemento>En las tierras ribereñas del mar Mediterráneo de Europa,
+Asia y África, el clima se caracteriza por inviernos suaves y lluviosos,
+y veranos calurosos y secos. Es una de las regiones biogeográficas
+más amenazadas de mundo por la intensiva actividad humana.</listaElemento>
+<listaElemento>Los <negrita>montes Atlas</negrita> en África separan
+la cuenca mediterránea del desierto del Sahara.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_08_10_CO_IMG12_small.jpg">
+<p>Grandes zonas de praderas y otros biomas están desertificándose
+debido a una combinación de sequía prolongada por el cambio climático.
+Una de las causas principales es el sobrepastoreo del ganado doméstico
+y la deficiente irrigación.</p>
+</imagen>
+<p>La región paleártica se extiende hasta China y Japón. Allí se caracteriza
+por ser más húmedo y templado que las regiones adyacentes de Siberia
+y Asia Central. Hay ricos <negrita>bosques de coníferas</negrita>, <negrita
+>caducifolios</negrita> y <negrita>mixtos</negrita>. En la actualidad
+se encuentran restringidos a las zonas montañosas, debido a que las
+llanuras y las cuencas fluviales se han transformado en terrenos agrícolas
+y urbanos producto de la gran densidad de población humana.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_10_CO_B7CB5840D1F14EDEAB0B99819744AB42">
+<seccion2Titulo>La región biogeográfica neoártica</seccion2Titulo>
+<seccion2Texto>
+<p>La región neoártica comprende Groenlandia y Norteamérica, exceptuando
+el sur de Florida, y se extiende al sur incluyendo las montañas de
+México. Se encuentra en la misma franja latitudinal de la región paleártica.</p>
+<imagen src="CS_08_10_CO_IMG13_small.jpg">
+<p>Esta región comprende una variedad de biomas que van desde la tundra
+hasta el desierto, incluyendo bosques de coníferas, bosques boreales
+y praderas.</p>
+</imagen>
+<p><negrita>Al norte</negrita> está la zona polar, que corresponde
+al bioma de <negrita>tundra</negrita> con las mismas características
+climáticas de la Eurasia (temperaturas inferiores a 0º C y precipitaciones
+escasas), pero a diferencia de la región paleártica, comprende una
+franja continua que incluye Groenlandia y Yukón. Crecen hierbas y
+líquenes escasos que sirven de alimento a muchos animales de sangre
+caliente que permanecen activos durante todo el año, como el caribú,
+el oso almizclero, la liebre ártica, el lemmings, etc.</p>
+<p>Continúa hacia el sur una franja mixta de <negrita>tundra</negrita
+> y <negrita>bosque de coníferas</negrita>, como el abeto y el pino.
+El bosque de coníferas, muy desarrollado en Canadá, Alaska y la costa
+norte del pacífico de Estados Unidos, cuenta con un abanico de vida
+silvestre adaptada a los largos y duros inviernos y a los cortos veranos.</p>
+<recuerda><recuerdaTexto>
+<p>Los suelos de los bosques de coníferas son pobres, ácidos y con
+frecuencia cubiertos de una capa espesa de hojas del pino, en forma
+de aguja. Estos suelos son favorecidos por el crecimiento de hongos
+que descomponen las agujas y proporcionan nutrientes a los árboles.</p>
+</recuerdaTexto></recuerda>
+<imagen src="CS_08_10_CO_IMG14_small.jpg">
+<p>Los bosques boreales se encuentran entre los hábitats menos alterados
+del mundo, pero aun así han sido talados para la obtención de madera,
+bayas y hongos y para conseguir tierras de labranza. Actualmente,
+la mayor parte de los bosques boreales son reservas naturales protegidas
+y parques nacionales.</p>
+</imagen>
+<p>Por debajo de la tundra y el bosque de coníferas, esta extensa
+región tiene diversas zonas:</p>
+<listaSinNumerar>
+<listaElemento>En la <negrita>Costa Este</negrita> de Norteamérica,
+al sur del bosque boreal, se encuentran los <negrita>bosques caducos
+o templados</negrita>, que viven y crecen en condiciones que varían
+ampliamente a lo largo de todo el año. La clave del éxito de los organismos
+vivos de estos bosques es sobrevivir al invierno y aprovecharse de
+la primavera y el verano.</listaElemento>
+<listaElemento>En la <negrita>Costa Oeste</negrita> de Estados Unidos,
+centro y sur de California, se encuentra el <negrita>clima mediterráneo</negrita
+>, con poco desarrollo por la presencia de las montañas Rocosas. Se
+caracteriza por la presencia de bosque enano o chaparral.</listaElemento>
+<listaElemento>En el <negrita>interior del continente</negrita>, entre
+las montañas Rocosas al oeste y los bosques templados al este, está
+la <negrita>pradera</negrita>, que proporciona pastos naturales para
+los animales herbívoros. Gran parte de la pradera natural ha sido
+transformada para convertirlas en tierras de cultivo.</listaElemento>
+<listaElemento>Al <negrita>sur</negrita> de la región neoártica, el
+clima es <negrita>desértico</negrita>.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_08_10_CO_IMG15_small.jpg">
+<p>El oso polar es una especie emblemática del Ártico. Este mamífero
+se encuentra en riesgo, debido al cambio climático global, ya que
+la banquisa (hielo) se derrite cada vez más pronto en primavera y
+se recongela cada vez más tarde en otoño. El oso necesita el hielo
+para cazar focas; al no tener alimento suficiente la grasa corporal
+disminuye y, en consecuencia, se reduce la producción de leche para
+amamantar a las crías.</p>
+</imagen>
+<p>El Parque Nacional de Yelloswston, en Estados Unidos, se considera
+la extensión natural más grande e intacta de la <negrita>zona templada</negrita
+> del hemisferio norte. Es un santuario para los <negrita>bisontes</negrita
+>, presentes desde la prehistoria y recientemente salvados de la extinción.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso100&amp;IdRecurso=RES-49FD22E831684AB6976D559CB72E06DE"
+>El bioma de la tundra</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_10_CO_B7CB5840D1F14EDEAB0B99819744BC53">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso110&amp;IdRecurso=RES-D2D6DA0C84AE4F3487B85DC6DF7BE772"
+>Refuerza tu aprendizaje: El reino Holártico</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_10_CO_F24D77E09DB0404993693C623542F19B">
+<seccion1Titulo>Los reinos paleotropical y neotropical</seccion1Titulo>
+<seccion1Texto>
+<p>El clima de estos reinos es muy cálido, dominan los paisajes de
+desierto, sabana y una franja de selvas tropicales. Las especies características
+están adaptadas a los ambientes secos.</p>
+<p>Comprende las siguientes regiones:</p>
+<listaSinNumerar>
+<listaElemento>La región biogeográfica afrotropical o etiópica</listaElemento>
+<listaElemento>La región biogeográfica indomalaya u oriental</listaElemento>
+<listaElemento>La región biogeográfica neotropical</listaElemento>
+</listaSinNumerar>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso120&amp;IdRecurso=RES-47E1284ABE484030AD6359BA91554C1A"
+>Los reinos paleotropical y neotropical</enlace>
+</profundiza><seccion2
+id="S2_CS_08_10_CO_756F8A9328184A74833DDB892417CDF8">
+<seccion2Titulo>La región biogeográfica afrotropical o etiópica</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>región afrotropical</negrita> comprende África subsahariana,
+Madagascar, las islas del océano Índico occidental y se extiende hasta
+el sur de la Península Arábiga. Corresponde a la franja latitudinal
+entre los 30º de latitud sur hasta los 15º de latitud norte<enlace
+destino="http://dragoncoronado.blogspot.com.co/2009/07/ecozona-afrotropical.html"
+> [VER]</enlace>.</p>
+<imagen src="CS_08_10_CO_IMG16_small.jpg">
+<p>La región afrotropical comprende la selva lluviosa en el cinturón
+ecuatorial africano, praderas semiáridas, sabanas de acacias y regiones
+desérticas. Se caracteriza por tener un clima tropical.</p>
+</imagen>
+<p>La región afrotropical alberga numerosas familias de plantas endémicas.
+Las zonas con mayor número de especies están en Madagascar y las islas
+del Índico, así como la región floral de El Cabo. La <negrita>flora</negrita
+> representada por varias familias endémicas, como la <negrita>Heteropyxidaceae</negrita
+>, incluye tres especies de árboles perennes, crecen hasta 7 metros
+de altura y son nativos de Zimbabwe al sur de África. La<negrita> acacia
+de copa plana</negrita> o <negritacursiva>Acacia tortilis</negritacursiva
+>, corresponde a una especie de la familia de las <negrita>fabáceas</negrita
+>. Es un árbol espinoso, caducifolio y hermafrodita, que se encuentra
+distribuido por gran parte del territorio africano y el suroeste de
+Asia.</p>
+<destacado><destacadoTitulo>Área protegida de la región floral de
+El Cabo</destacadoTitulo><destacadoTexto>
+<p><negrita>El Cabo</negrita>, al suroeste de África, es una de las
+zonas de diversidad vegetal más importantes del planeta. Abarca parques
+nacionales, reservas naturales, áreas silvestres, bosques estatales
+y cuencas hidrográficas montañosas. Todo esto hace que se incremente
+el número de especies vegetales endémicas adaptadas al <negrita>clima
+mediterráneo</negrita> y a la periodicidad de los incendios característicos
+de esta región. Algunos investigadores lo incluyen como un <negrita
+>reino fitogeográfico</negrita> diferente al reino paleotropical.</p>
+</destacadoTexto></destacado>
+<p>La <negrita>fauna</negrita> está representada por cinco familias
+endémicas de aves, como el avestruz y el secretario, por tres órdenes
+endémicos de mamíferos conocidos como <negrita>Afrotheria</negrita
+> (cerdo hormiguero, topos dorados, musarañas elefante) y por tres
+especies endémicas de grandes simios (gorila, chimpancé, bonobo).</p>
+<destacado><destacadoTitulo>Madagascar</destacadoTitulo><destacadoTexto>
+<p>Madagascar y las islas vecinas presentan una gran biodiversidad
+y albergan numerosas especies endémicas, como los lémures. Madagascar
+formó parte del antiguo supercontinente Gondwana; se separó de África
+hace millones de años<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=167630&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+</destacadoTexto></destacado>
+<imagen src="CS_08_10_CO_IMG17_small.jpg">
+<p>Los gorilas se encuentran en peligro de extinción. Unas de las
+principales causas es la destrucción de su hábitat, así como la caza
+a la que estuvieron sometidos por largo tiempo para vender partes
+de su cuerpo como <cursiva>souvenir</cursiva> para turistas. Si bien
+hoy son una especie protegida, aún son víctimas de la caza furtiva.</p>
+</imagen>
+<p>África es uno de los continentes menos desarrollados y sufre diversos
+problemas ambientales:</p>
+<listaSinNumerar>
+<listaElemento>La contaminación del aire y el agua por residuos químicos.</listaElemento>
+<listaElemento>La deforestación.</listaElemento>
+<listaElemento>La pérdida de suelo e infertilidad del suelo.</listaElemento>
+</listaSinNumerar>
+<p>Las actividades económicas más importantes en este continente es
+la agricultura, la extracción de recursos minerales y metales, pero
+la forma como se llevan a cabo estas actividades son altamente contaminantes
+y dañinas. Cada año mueren cerca de 500 000 trabajadores en África
+por contaminación química generada por pesticidas y otros productos
+químicos, como cianuro, DDT, muchos de ellos prohibidos en otros países.</p>
+<imagen src="CS_08_10_CO_IMG18_small.jpg">
+<p>El problema más apremiante en el África subsahariana es que tiene
+una de las poblaciones de más rápido crecimiento en el mundo. Se presume
+que la cantidad de habitantes de África se duplicará en 28 años. La
+explosión demográfica impone fuertes demandas a los ecosistemas, como
+la degradación del medio ambiente y problemas en el suministro de
+agua.</p>
+</imagen>
+<p>La deforestación, la desertificación o el agotamiento de los recursos
+están provocando ya continuos desplazamientos de población, sobre
+todo en el continente africano, hacia los núcleos urbanos de sus países
+de origen. Actualmente, hay 25 millones de desplazados por causas
+ambientales y se estima que el 10 % de los movimientos de población
+estaría motivado por factores ambientales<enlace
+destino="http://www.fundacion-ipade.org/sostenibilidad/el-continente-africano-uno-de-los-mas-castigados-por-las-migraciones-ambientales"
+> [VER]</enlace>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_10_CO_B0370A7F118A4C789E0E3FB6C3532172">
+<seccion2Titulo>La región biogeográfica indomalaya u oriental</seccion2Titulo>
+<seccion2Texto>
+<p>La región biogeográfica indomalaya u oriental abarca la India,
+Sri Lanka, el archipiélago de las Maldivas, Bangladesh, la Península
+Indochina, Malasia, las Filipinas y el archipiélago de Indonesia hasta
+el estrecho de Dumpier (separa la isla de Nueva Guinea de las islas
+Molucas). Predomina la selva tropical, con lluvias todo el año y temperaturas
+superiores a los 18 ºC.</p>
+<imagen src="CS_08_10_CO_IMG19_small.jpg">
+<p>En esta región se encuentra el <negrita>bosque seco</negrita>,
+donde crecen árboles y arbustos con amplios espacios entre ellas intercalados
+con zonas de <negrita>sabana</negrita>. En la <negrita>selva subtropical</negrita
+>, la humedad permanece alta, pero las diferencias de temperatura
+entre el invierno y el verano son menos pronunciadas.</p>
+</imagen>
+<p>La <negrita>región indomalaya</negrita> cubre las mayores islas
+de Indonesia hasta las islas de Bali al sur y Borneo al norte. Al
+oriente se encuentra la línea de Wallace, una zona de transición entre
+la región indomalaya y la región de la Australasia. En esta zona se
+estableció una fauna y flora que no se encuentra en ninguna otra parte
+del mundo; por tal motivo, la línea de Wallace es de gran interés
+para los biogeógrafos.</p>
+<destacado><destacadoTitulo>Línea de Wallace</destacadoTitulo>
+<destacadoTexto>
+<p>La línea de Wallace, llamada así por el naturalista Alfred Russel
+Wallace, quien exploró las islas entre 1854 y 1862 entre Bali y Lombock,
+se extiende hacia el norte por el estrecho de Maksasar. En el lado
+occidental de esta línea la fauna es predominantemente de origen asiático,
+como tigres y rinocerontes, y en el lado oriental la fauna ascendió
+de la Australasia.</p>
+</destacadoTexto></destacado>
+<p>La fauna indomalaya está representada por numerosas especies endémicas:</p>
+<listaSinNumerar>
+<listaElemento>Anfibios como las cecilias, la tortuga cabezona o macrocéfala,
+el cocodrilo gavial.</listaElemento>
+<listaElemento>Mamíferos del orden <negrita>Scandentia</negrita>,
+conocidos como tupayas o musaraña arborícola; son animales pequeños <negrita
+>endémicos</negrita> que viven en las selvas del sudeste asiático.</listaElemento>
+<listaElemento>Los <negrita>dermópteros</negrita> son animales <negrita
+>arborícolas</negrita> (comen frutos y hojas) que poseen una <negrita
+>membrana cutánea</negrita> o <negrita>patagio</negrita> (membrana
+elástica y resistente de la piel), que une el cuello, las extremidades
+y la cola y le sirve para planear mientras van de un árbol a otro.</listaElemento>
+<listaElemento>Predominan los primates y homínidos, como los orangutanes,
+que pertenecen al género <negrita>Pongo</negrita>, único que sobrevive
+en la actualidad.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_08_10_CO_IMG20_small.jpg">
+<p>La <negrita>tortuga cabezona</negrita> es incapaz de esconder su
+cabeza en el interior del caparazón debido a su tamaño. Se caracteriza
+por trepar árboles que se encuentran cerca de los ríos y arroyos.</p>
+</imagen>
+<p>Esta región presenta grandes problemas ambientales. Dos países
+padecen algunos de los más importantes: Malasia e India.</p>
+<p>En <negrita>Malasia</negrita> se presenta un grave <negrita>problema
+ambiental</negrita> por la <negrita>desecación</negrita> de pantanos
+de turba. Se han desecado para plantar palma de aceite y caucho, para
+madera, acuicultura y construcción de viviendas, o para extraer estaño
+y turba. De hecho, las mismas <negrita>plantaciones de palma</negrita
+> son también un grave problema, porque cambia el uso del suelo productivo
+para actividades agrícolas que privilegiar un cultivo agroindustrial<enlace
+destino="http://publicaciones.fedepalma.org/index.php/palmas/article/download/490/490"
+> [VER]</enlace>.</p>
+<p>En <negrita>India</negrita>, el segundo país más poblado del mundo
+con 1,2 mil millones de habitantes, tiene un déficit de suministro
+de electricidad, por lo que ha surgido una “fiebre del carbón”, que
+ha contagiado a China y Sudáfrica. Varias plantas de carbón generan
+electricidad de forma tan económica, que las autoridades han pasado
+por alto el daño causado a la pesca y al pastoreo, así como al ecosistema
+de manglar<enlace
+destino="http://www.nationalgeographic.es/noticias/medio-ambiente/energia/peligro-medioambiental-en-la-india"
+> [VER]</enlace>.</p><?Pub Caret 328?>
+<imagen ampliable="no" src="CS_08_10_CO_IMG21_small.jpg">
+<p>Cada día se vierte a lo largo del <negrita>río Ganges</negrita
+>, en India, unos 300 millones de litros de aguas residuales sin tratar.
+En Varanasi, una ciudad de un millón de personas, 35 desagües y alcantarillas
+terminan en sus aguas.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso130&amp;IdRecurso=RES-C106A1AE01D14455A28A37CDBDE969F5"
+>Compara la región afrotropical con la región indomalaya</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_10_CO_B0370A7F118A4C789E0E3FB6C3535283">
+<seccion2Titulo>La región biogeográfica neotropical</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>región neotropical</negrita> abarca Suramérica, Centroamérica,
+Caribe, sur del estado de la Florida y la zona sur de México.</p>
+<imagen src="CS_08_10_CO_IMG22_small.jpg">
+<p>En esta región hay gran variedad de ecosistemas, como páramos,
+desiertos fríos y húmedos, bosques de alta montaña, desiertos cálidos
+y secos. Es una región de una gran riqueza hídrica.</p>
+</imagen>
+<p>Fitogeográficamente, esta región se caracteriza por una <negrita
+>gran diversidad de flora y especies endémicas</negrita> debido al
+relieve. La cordillera de los Andes se eleva desde el extremo sur
+de Suramérica hasta Colombia y Venezuela, con picos que superan los
+5000 m.s.n.m. y áreas disyuntas (separadas), que sugieren la formación
+de “islas biogeográficas” que podrían actuar como refugios.</p>
+<destacado><destacadoTitulo>La vegetación de montaña</destacadoTitulo>
+<destacadoTexto>
+<p>La presencia de relieve montañoso determina la diversidad y abundancia
+de la flora. A mayor altura la <negrita>diversidad</negrita> de especies
+disminuye y la <negrita>abundancia</negrita> de individuos por especie
+aumenta.</p>
+</destacadoTexto></destacado>
+<imagen src="CS_08_10_CO_IMG23_small.jpg">
+<p>El neotrópico se caracteriza por poseer la mayor extensión de <negrita
+>bosque tropical</negrita> del planeta. Este bosque tropical lo compone <negrita
+>selva húmeda tropical</negrita> y <negrita>selva húmeda subtropical</negrita
+>, que se extiende desde el sur de México hasta la selva amazónica
+en el Brasil. Son bosques perennes de hojas anchas. El aire caliente
+cargado de humedad se eleva y luego descarga esa humedad en forma
+de lluvia y neblina.</p>
+</imagen>
+<p>La <negrita>Zona de Convergencia Intertropical</negrita> (ZCI)
+se encuentra en la franja de los 10º de latitud sur y los 10º de latitud
+norte, aproximadamente. Convergen los vientos alisios del hemisferio
+norte y los vientos alisios del hemisferio sur, ambos de bajas temperaturas.
+Al unirse a las altas temperaturas ecuatoriales, se genera un ascenso
+de masas de aire cálido y húmedo que al enfriarse provocan copiosas
+lluvias todo el año. Por lo tanto, el factor limitante en estos biomas
+no es el agua ni la temperatura, sino el suelo, ya que algunas zonas
+son pobres en nutrientes.</p>
+<p>Al sur de la <negrita>selva subtropical</negrita> está la región
+del bosque templado denominada <negrita>bosque andino patagónico</negrita
+>, que incluye:</p>
+<listaSinNumerar>
+<listaElemento>El bosque templado lluvioso o bosque valdiviano.</listaElemento>
+<listaElemento>El bosque magallánico.</listaElemento>
+<listaElemento>Las Islas Desventuradas.</listaElemento>
+<listaElemento>El archipiélago Juan Fernández.</listaElemento>
+</listaSinNumerar>
+<p>Esta zona alberga la flora antártica antigua, compuesta por las <negrita
+>hayas del sur</negrita>, los <negrita>alerces patagónicos</negrita
+> y las <negrita>araucarias</negrita>. Este bosque está en peligro
+por la presencia de bosques de pinos y de eucaliptos no nativos, que
+amenazan la supervivencia de las especies nativas.</p>
+<destacado><destacadoTitulo>Dispersión de las especies</destacadoTitulo>
+<destacadoTexto>
+<p>Suramérica estuvo unido a África, India, Australia, Antártida y
+Nueva Zelanda, formando el continente de <negrita>Gondwana</negrita
+>, lo que explica la presencia de grupos faunísticos, como los <negrita
+>marsupiales</negrita> en Suramérica y Australia.</p>
+</destacadoTexto></destacado>
+<p>Luego del desprendimiento de <negrita>Gondwana</negrita>, Suramérica
+se movió al oeste y hacia el norte, uniéndose a Norteamérica a través
+del <negrita>istmo de Panamá</negrita>. Esto permitió una dispersión
+de especies denominada <negrita>Gran Intercambio Americano</negrita
+>. Por ejemplo, los antepasados de la zarigüeya y el armadillo se
+trasladaron a Norteamérica, mientras que los camélidos de Norteamérica
+se movieron a Suramérica.</p>
+<imagen src="CS_08_10_CO_IMG24_small.jpg">
+<p>Zoogeográficamente, esta región posee una gran riqueza de especies
+de fauna endémicas. La región neotropical contiene el doble de especies
+de aves endémicas que el resto de las regiones. Incluye <negrita>ñandúes</negrita
+>, <negrita>tucanes</negrita>, <negrita>martineta común</negrita> (<negritacursiva
+>Eudromiaelegans</negritacursiva>) y <negrita>picaflores</negrita
+> o <negrita>colibríes</negrita>.</p>
+</imagen>
+<p>Los mamíferos indican claramente la separación entre las regiones <negrita
+>neártica</negrita> y <negrita>neotropical</negrita>. A diferencia
+de lo que ocurre con los insectos, ya que buena parte de América del
+Norte está ocupada por especies neotropicales. Entre los mamíferos
+están los <negrita>armadillos</negrita> y los <negrita>perezosos</negrita
+>; monos del Nuevo Mundo o <negrita>Platyrhinos</negrita>; roedores
+como el <negrita>chigüiro</negrita> o <negrita>capibara</negrita> y <negrita
+>chinchillas</negrita>; <negrita>zarigüeyas</negrita> o <negrita>comadrejas</negrita
+>; y el <negrita>monito de monte</negrita>, marsupial restringido
+al sur de Chile y Argentina.</p>
+<destacado><destacadoTitulo>Hallazgos zoogeográficos</destacadoTitulo>
+<destacadoTexto>
+<p>Un hecho de singular importancia es que entre el Cretácico superior
+y el Eoceno inferior, los vertebrados superiores migraron de América
+del Norte a América del Sur a través de Centroamérica, mientras que
+los insectos migraban de América del Sur a América del Norte.</p>
+</destacadoTexto></destacado>
+<p>Esta región, a pesar de su gran riqueza y diversidad, padece serias
+amenazas como la deforestación, la contaminación de sus fuentes hídricas
+y sequías extremas. Además, problemas sociales acuciantes han agudizado
+el deterioro ambiental, como la minería ilegal y el narcotráfico.</p>
+<imagen src="CS_08_10_CO_IMG25_small.jpg">
+<p>Uno de los principales problemas ambientales en América Latina
+es la explotación minera. Los desechos tóxicos, como el mercurio para
+la extracción aurífera, terminan en fuentes hídricas, como se observa
+en esta mina de oro en Bolivia.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso140&amp;IdRecurso=RES-DEA6F11A6D664B809FAD4A36CD3F6857"
+>Comprende los factores de la biodiversidad en la región neotropical</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_10_CO_B0370A7F118A4C789E0E3FB6C3534038">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso150&amp;IdRecurso=RES-38FDF83D1C934D90A9DFBE183CECE145"
+>Refuerza tu aprendizaje: Los reinos paleotropical y neotropical</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_10_CO_AE8259113C854DDD88B9663058B46AE1">
+<seccion1Titulo>Los reinos australiano y antártico</seccion1Titulo>
+<seccion1Texto>
+<p>Las regiones de Australia, Oceanía y la Antártida estuvieron unidas
+hasta inicios del <negrita>Cenozoico</negrita>. Australia se movió
+hacia el noreste y la Antártida permaneció cerca del Polo Sur. Esta
+separación lleva al distanciamiento de estas regiones con los grandes
+continentes y establece la evolución de <negrita>comunidades</negrita
+> vegetales y animales específicos en cada uno de estos continentes.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso160&amp;IdRecurso=RES-D8B8250EBBAE4D91B0F1257BFE162A20"
+>El reino australiano y el reino antártico</enlace>
+</profundiza><seccion2
+id="S2_CS_08_10_CO_756F8A9328184A74833DDB892417ABE7">
+<seccion2Titulo>La región biogeográfica de Australasia</seccion2Titulo>
+<seccion2Texto>
+<p>Comprende Australia, Tasmania, Nueva Zelanda y Melanesia, entre
+la franja de la línea del Ecuador y los 45º de latitud sur. Australia
+es el continente más llano del mundo y el más seco después de la Antártida.
+Las regiones costeras son más onduladas y fértiles, principalmente
+el este. La Gran Cordillera Divisoria forma una barrera natural entre
+las áreas costeras orientales y las áridas llanuras y regiones desérticas
+del interior.</p>
+<imagen src="CS_08_10_CO_IMG26_small.jpg">
+<p>En esta región predominan selvas subtropicales y tropicales, bosques
+templados y mixtos, desiertos y praderas. De acuerdo con las precipitaciones,
+se encuentran zonas desde muy húmedas (clima templado fresco y húmedo),
+hasta zonas muy secas (clima de desierto cálido y frío).</p>
+</imagen>
+<p>La región biogeográfica de Australasia quedó aislada durante millares
+de años, lo que ocasionó que la flora y la fauna evolucionaran con
+unas características propias, por lo que contiene una amplia gama
+de especies endémicas. Alrededor del 85 % de las plantas con flor,
+el 84 % de los mamíferos, más del 45 % de las aves y el 90 % de los
+peces de las zonas costeras templadas son endémicos.</p>
+<listaSinNumerar>
+<listaElemento>Abundan especies de mamíferos marsupiales, es decir
+que las hembras poseen una bolsa denominada marsupio, donde las crías
+al nacer se hospedan hasta completar su desarrollo. Entre las especies
+marsupiales están el <negrita>canguro</negrita> y el <negrita>koala</negrita
+>.</listaElemento>
+<listaElemento>Al este de Australia y en la isla de Tasmania se encuentra
+el <negrita>ornitorrinco</negrita>, mamífero semiacuático endémico
+de esta región.</listaElemento>
+<listaElemento>Hay gran presencia de <negrita>especies venenosas</negrita
+>, como serpientes, escorpiones y arañas.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_08_10_CO_IMG27_small.jpg">
+<p>El <negrita>ornitorrinco</negrita> es un mamífero de la familia
+de <negrita>Ornithorhynchidae</negrita>. Se caracteriza por poseer
+pico y poner huevos, además el macho es uno de los pocos mamíferos
+venenosos. Es una especie <negrita>endémica</negrita> de Australia.</p>
+</imagen>
+<p>Esta región presenta diversidad de plantas gracias a los distintos
+biomas, ya que incluye selvas subtropicales y tropicales, bosques
+templados y mixtos, praderas y, sobre todo, extensos desiertos.</p>
+<listaSinNumerar>
+<listaElemento>El <negrita>eucalipto</negrita> y la <negrita>acacia</negrita
+> son especies originarias de esta región. </listaElemento>
+<listaElemento>En Nueva Zelanda se encuentran bosques <negrita>subtropicales
+húmedos</negrita> de <cursiva>Nothofagus</cursiva> con coníferas (<cursiva
+>Podocarpus, Agathis</cursiva>) y helechos arborescentes. </listaElemento>
+<listaElemento>En Nueva Guinea se encuentra el <negrita>manglar</negrita
+> más extenso del mundo.</listaElemento>
+</listaSinNumerar>
+<imagen ampliable="no" src="CS_08_10_CO_IMG28_small.jpg">
+<p>Una gran parte de Australia es desértica o semiárida. Las fuertes
+sequías han convertido la vegetación en combustible perfecto para
+graves incendios forestales. En esta década, Australia ha padecido
+las sequías más fuertes de los últimos mil años, ocasionando serias
+pérdidas en cultivos y ganadería.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_10_CO_09F335A794AD4CEEB73693AED9C7BF02">
+<seccion2Titulo>La región biogeográfica oceánica</seccion2Titulo>
+<seccion2Texto>
+<p>La región comprende las islas del sur del oceáno Pacífico, la Polinesia,
+Fiji y Micronesia. Se destacan de Micronesia el archipiélago de las
+Marianas; de Melanesia, la isla de Nueva Guinea, las islas Salomón
+y Fiji; de Polinesia, las islas de Hawaii, las islas Cook y Tuvalu,
+entre los cientos de islas que componen esta región.</p>
+<imagen src="CS_08_10_CO_IMG29_small.jpg">
+<p>En esta región predomina el clima tropical, con pocos cambios de
+temperatura entre las estaciones o durante el día. El tiempo es típicamente
+caluroso y húmedo, pero en ocasiones soplan brisas frescas que moderan
+las condiciones.</p>
+</imagen>
+<p>El medio marino del sudoeste del Pacífico es considerado uno de
+los más diversos del mundo. Alberga seis de las siete especies de
+tortugas marinas, ballenas, tiburones y una amplia gama de peces.
+Se caracteriza, también, por la riqueza de <negrita>atolones de coral</negrita
+>.</p>
+<recuerda><recuerdaTexto>
+<p>Los <negrita>arrecifes de coral</negrita> o <negrita>arrecifes
+coralinos</negrita> corresponden a estructuras subacuáticas formadas
+por carbonato de calcio que proviene de los corales. Se encuentran
+conformados por <negrita>colonias</negrita> de corales <negrita>pétreos</negrita
+>.</p>
+</recuerdaTexto></recuerda>
+<p>Los corales son animales coloniales pertenecientes a la clase <negrita
+>Anthozoa</negrita>. Su alimentación proviene de algunas algas <negrita
+>unicelulares fotosintéticas</negrita>; sin embargo, pueden alimentarse
+de algunos peces y <negrita>plancton</negrita>.</p>
+<destacado><destacadoTitulo>La Gran Barrera de Coral</destacadoTitulo>
+<destacadoTexto>
+<p>La Gran Barrera de Coral es el mayor arrecife coralino del mundo.
+Está situada en el mar del Coral, frente a la costa de Queensland
+al noreste de Australia, al sureste de Nueva Guinea occidental y al
+sur de Papúa Nueva Guinea. El arrecife se extiende sobre unos 2600
+kilómetros de longitud<enlace destino="http://www.gbrmpa.gov.au/"
+> [VER]</enlace>.</p>
+</destacadoTexto></destacado>
+<p>Los <negrita>atolones de coral</negrita> tienen gran importancia
+económica, social y cultural debido a que sustentan innumerables comunidades
+costeras. Asimismo, son <negrita>indicadores</negrita> de salud ambiental
+y son las regiones biológicamente más productivas y diversas en el
+mundo.</p>
+<imagen src="CS_08_10_CO_IMG30_small.jpg">
+<p>Esta región está amenazada por el turismo insostenible, la sobrepesca
+y el cambio climático, lo que pone en peligro también la supervivencia
+de la población humana que habita estas islas, ya que dependen de
+la pesca como fuente de alimento y de ingresos de los hábitats de
+arrecifes y del manglar.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso170&amp;IdRecurso=RES-F0B3FAADBD4C4BB59AF63685326F5C56"
+>Compara la región de Australasia con la región Oceánica</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_10_CO_F8076788B15E4BFAA86111F7F42D98F2">
+<seccion2Titulo>La región biogeográfica de la Antártica</seccion2Titulo>
+<seccion2Texto>
+<p>La región biogeográfica antártica comprende el continente Antártico
+y las islas vecinas. Incluye la mayor parte de las áreas por debajo
+de los 40º de latitud sur. Abarca el extremo más meridional de los
+Andes, Tierra del Fuego, la mitad meridional de la isla sur de Nueva
+Zelanda y las islas oceánicas que bordean el continente Antártico.
+Está comprendida casi en su totalidad dentro del Círculo Polar Antártico.</p>
+<imagen ampliable="no" src="CS_08_10_CO_IMG31_small.jpg">
+<p>El promedio de humedad en esta región es el más bajo de la Tierra,
+posee biomas de tundra, estepa y hielos permanente. Los suelos de
+algunas regiones están congelados gran parte del año y durante el
+verano entre los 30 a 60 cm superiores se descongelan y los primeros
+centímetros se vuelven a congelar durante la noche.</p>
+</imagen>
+<p>Por sus condiciones extremas del clima es una región muy pobre
+en vegetación. El <negrita>pasto antártico</negrita> o <negritacursiva
+>Deschampsia antarctica</negritacursiva>  es una planta con gran capacidad
+de resistencia a los <negrita>rayos ultravioleta</negrita>, gracias
+a una serie de compuestos químicos sintetizados. Es una planta <negrita
+>fanerógama</negrita> nativa de la región antártica.</p>
+<imagen src="CS_08_10_CO_IMG32_small.jpg">
+<p>Entre la fauna endémica, la familia <negrita>Spheniscidae</negrita
+> (pingüinos) y <negrita>Neobalaenidae</negrita> (una familia de ballenas)
+son las más representativas. Los pingüinos de esta región son los
+papúa, imperial, adelia y barbijo. Otras especies de aves que comparten
+este medio son la paloma ártica, la gaviotilla y la skúa.</p>
+</imagen>
+<p>La Antártica es una región rica en plancton, que mantiene uno de
+los sistemas marinos más ricos del mundo. La <negrita>cadena trófica</negrita
+> de la Antártica se basa en un pequeño crustáceo parecido al camarón, <negrita
+>kril</negrita>, fuente de alimento de casi todas las demás especies
+animales. Alimenta cetáceos, como la ballena azul, la ballena orca
+y el cachalote; y peces, como el bacalao antártico y el pez de hielo,
+y mamíferos, como la foca, el elefante marino, el lobo marino y el
+leopardo marino.</p>
+<imagen src="CS_08_10_CO_IMG33_small.jpg">
+<p>Las poblaciones de kril antártico han disminuido considerablemente
+desde 1976, como consecuencia del cambio climático ya que la temperatura
+en la Península Antártica ha aumentado 2,5 ºC en los últimos 50 años.</p>
+</imagen>
+<p>El kril se alimenta de <negrita>algas microscópicas</negrita> que
+crecen bajo la superficie del hielo, que actúa también como criadero
+del kril juvenil. Al disminuir la cubierta de hielo, se reduce el
+área de crecimiento de algas y, por lo tanto, merma el alimento y
+la protección para los juveniles. Un descenso potencial en la abundancia
+de kril, la base de la <negrita>cadena alimentaria</negrita>, podría
+afectar a los <negrita>ecosistemas marinos</negrita> de las regiones
+polares<enlace
+destino="https://portals.iucn.org/library/efiles/edocs/2010-064-Es.pdf"
+> [VER]</enlace>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso180&amp;IdRecurso=RES-AB077B91F16940A8B62677FF16E4134A"
+>Zonas biogeográficas del mundo</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_10_CO_B0370A7F118A4C789E0E3FB6C3532149">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso190&amp;IdRecurso=RES-0379ECA78E824AF49A65C6136DBFC189"
+>Refuerza tu aprendizaje: Los reinos Australiano y Antártico</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_10_CO_41A47B19D7174254874D7117245E8677">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso210&amp;IdRecurso=RES-45DA18ED5DBD44EBBDBF6E97BE04F4B2"
+>Competencias: comentario de un texto literario como fuente</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso200&amp;IdRecurso=RES-000F6B5256E2417B8AD7FF29DE0A6D31"
+>Proyecto: estudio de los ecosistemas</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_08_10_CO_D920B902E7AB4D2580BB5C586DCE7C25"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso230&amp;IdRecurso=RES-864BAF4C0E384A69A765D890987AC0D9"
+>Mapa conceptual del tema Regiones biogeográficas del mundo</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso240&amp;IdRecurso=RES-6DB1751D0B754B788929D436E5C3D16D"
+>Evalúa tus conocimientos sobre el tema Regiones biogeográficas del
+mundo</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://wwf.panda.org/es/nuestro_planeta/ecorregiones/"
+>¿Qué es una ecorregión?</enlace>
+<enlace destino="http://cremc.ponce.inter.edu/3raedicion/articulo5.htm"
+>Revista de investigación 360 en ciencias y matemáticas Principios
+de biogeografía.</enlace>
+<enlace
+destino="http://wwf.panda.org/es/nuestro_planeta/ecorregiones/mapas/"
+>Fondo Mundial para la Naturaleza (World Wildlife Fund, WWF).</enlace>
+</enlacesreferencia></masinformacion></libro>
