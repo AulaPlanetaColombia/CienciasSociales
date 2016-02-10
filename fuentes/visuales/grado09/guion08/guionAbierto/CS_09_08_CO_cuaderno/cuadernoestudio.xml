@@ -1,479 +1,943 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_09_08_CO">
-  <libroTitulo>América Latina desde la segunda mitad del siglo XX</libroTitulo>
-  <seccion1 id="S1_CS_09_08_CO_6283651D9D504D529C32471F64F4DAAB">
-    <seccion1Titulo>Historia reciente de Centroamérica</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_08_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso010&amp;IdRecurso=RES-9C9B4D524E79470C888A000FCD8FAAFA">Recurso F6B-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_09_08_CO_0CE70A14E59546D5B940A774D73863CB">
-        <seccion2Titulo>México</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso020&amp;IdRecurso=RES-E817B1DB6C29437EBE9F6F2E59590306">Recurso M12A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_08_CO_D7308837282448059C54E11146AD5E9A">
-        <seccion2Titulo>Nicaragua</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso030&amp;IdRecurso=RES-2C73EEDD62AF41FD97B795B4140DD23B">Recurso F4-01</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_04_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso040&amp;IdRecurso=RES-44F303EEF9E44495B5AA96B54F88188F">Recurso M5C-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_08_CO_67847928AA0A4C10B31E3B26D57CFCAC">
-        <seccion2Titulo>El Salvador</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso050&amp;IdRecurso=RES-4D93F223C1354AA484D9249131CAC971">Recurso M5D-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_08_CO_E249CC4B08C04462BA98DB7F483DD61E">
-        <seccion2Titulo>Guatemala</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_06_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso060&amp;IdRecurso=RES-67C6F4B75F524931AAF87C3550C5232D">Recurso M5C-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_08_CO_9857DC73C31143FEA495B2A82891CD6F">
-        <seccion2Titulo>Costa Rica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_07_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso070&amp;IdRecurso=RES-5A6357FF4FF84B289BED65370934FFAF">Recurso M1C-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_08_CO_D40DD0AE66A7491BACBE9076E67E7E98">
-        <seccion2Titulo>Panamá</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_08_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso080&amp;IdRecurso=RES-E44F82AB24804A7DA7FE1579A52E76BF">Recurso M2A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_08_CO_89C7D35E6276420EA5961A2B8E02EE08">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_09_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso090&amp;IdRecurso=RES-5D936BD8C9DB41D5834908DD816206ED">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_08_CO_208BC33943A446E1866A1E7A3AE07B8D">
-    <seccion1Titulo>La Revolución Cubana</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_08_CO_img_10_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso100&amp;IdRecurso=RES-4A5ACB092EF04C7E8D0B078FA1A53327">Video como media principal - 01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_09_08_CO_48B3B3488067419AAFE9EBE4F795E388">
-        <seccion2Titulo>Las medidas sociales de la Revolución</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_11_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso070&amp;IdRecurso=RES-5A6357FF4FF84B289BED65370934FFAF">Recurso M1C-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso120&amp;IdRecurso=RES-E65A6336691A4B93929BB6D4A4BAD2C3">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_08_CO_6826FF77A69A415BBFAB195F182BA3E5">
-    <seccion1Titulo>Democracia y neoliberalismo en América Latina</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_09_08_CO_6F7BF73B4A214098B91A0BDB7020E9D2">
-        <seccion2Titulo>La crisis económica y el neoliberalismo</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso130&amp;IdRecurso=RES-7865C5C6CAF9401B8F0DD73834232B8F">Recurso F10-01</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_14_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso140&amp;IdRecurso=RES-6F9A7BFC8E144685B7506885A0B82808">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_08_CO_5DE015DA72A343E69F8BF0D40DE32D56">
-    <seccion1Titulo>El proceso de integración de América Latina</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_09_08_CO_2311C1602FB34A738577AB1900345656">
-        <seccion2Titulo>Los intentos de integración</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso150&amp;IdRecurso=RES-81D351A0EF4B420EADDF3FDED6BFDCBB">Video como media principal - 02</enlace>
-          </profundiza>
-          <seccion3 id="S3_CS_09_08_CO_688FCFBC67424C1FB0FDB00AFD0B9FA1">
-            <seccion3Titulo>La integración en el nuevo milenio</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_08_CO_img_16_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso160&amp;IdRecurso=RES-5544264599454F53ADE7ADB1D955E833">Recurso M5D-02</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_17_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso170&amp;IdRecurso=RES-262CD4D33DF941EA9ABAB51357EAF0A4">Recurso M101A-04</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_08_CO_img_18_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso180&amp;IdRecurso=RES-EAD341ECB1CA4D958538B958A9497AE7">Recurso M101A-05</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_08_CO_18373B564ADC4546B37A45F0775C6591">
-    <seccion1Titulo>Los gobiernos socialistas</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_08_CO_6653760BF8F54D24929298C8E2386A87">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_08_CO_img_19_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso190&amp;IdRecurso=RES-28C86678E5EA4BEA90AAF96A4825F865">Recurso M102AB-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_08_CO_img_20_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso200&amp;IdRecurso=RES-0664C98AD9FE4A5BB5242F247BE579FF">Recurso F13-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_09_08_CO_D8AB2C1D94474445B3C956BA849BF128">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso220&amp;IdRecurso=RES-3185934332E748DCABD871F2D7AB7C17">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso230&amp;IdRecurso=RES-31595517D0EC4A3F8F022784136EA7D2">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>América Latina desde la segunda mitad del siglo XX</libroTitulo>
+<seccion1 id="S1_CS_09_08_CO_6283651D9D504D529C32471F64F4DAAB">
+<seccion1Titulo>Historia reciente de Centroamérica</seccion1Titulo>
+<seccion1Texto>
+<p>Centroamérica es una región conformada por <negrita>ocho países</negrita
+>: México, Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua
+y Panamá.</p>
+<imagen src="CS_09_08_CO_IMG01_small.jpg">
+<p>Centroamérica pudo ser un único país que terminó fragmentándose
+una vez se dio el proceso de Independencia. Su economía está basada
+en la producción de materias primas. Es una región que aún está en
+la búsqueda de su estabilidad social y política, amenazada por la
+pobreza y la desigualdad. Su riqueza natural es inmensa, pues posee
+áreas con gran biodiversidad.</p>
+</imagen>
+<destacado><destacadoTitulo>Belice en la historia</destacadoTitulo>
+<destacadoTexto>
+<p>Aunque comparte el mismo territorio, Belice (23 000 km<superindice
+>2</superindice>, 334 000 habitantes), antigua colonia de la Gran
+Bretaña, no es considerado como parte de Centroamérica desde el punto
+de vista histórico.</p>
+</destacadoTexto></destacado>
+<p>Los países centroamericanos debían haberse organizado en uno solo
+como en efecto ocurrió después de la Independencia. Inicialmente,
+fueron anexados al primer <negrita>Imperio mexicano</negrita> de Iturbide,
+del cual se desprendieron para formar las Provincias Unidas de Centroamérica
+en 1823, y se volvieron a desunir entre 1838 y 1840, para no volver
+nunca a la unificación<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=104730&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>Además, presa de conflictos entre los distintos países del área,
+apenas en 1991 Centroamérica creó el Sistema de Integración Centroamericana
+(SICA), netamente comercial. Así, hay que diferenciar el proceso de
+cada uno de estos países, cuya similitud inicial está en su carácter
+de colonias de España y en la intromisión norteamericana, especialmente
+a través de la United Fruit Company, que les valió el apodo de “repúblicas
+bananeras” lideradas por caudillos al servicio de Estados Unidos o
+dictadores que manejaban a sus países como una gran finca<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=143557&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>A partir de los años sesenta, con la impronta de la <negrita>Revolución
+cubana</negrita> de 1959, en El Salvador, Guatemala y Nicaragua se
+iniciaron procesos revolucionarios de <negrita>lucha armada</negrita
+>, que marcaron el destino que en el presente vive cada uno de esos
+países.</p>
+<recuerda><recuerdaTexto>
+<p>En el presente Centroamérica es una región que mayoritariamente
+se encuentra en paz, pero sin haber resuelto los problemas de pobreza
+extrema, con excepción de <negrita>Costa Rica</negrita>. En la región
+se destacan los <negrita>regímenes presidencialistas</negrita>, una
+fuerte implantación de iglesias evangélicas y mayores intercambios
+comerciales entre los países que la conforman.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso010&amp;IdRecurso=RES-9C9B4D524E79470C888A000FCD8FAAFA"
+>Historia reciente de los países centroamericanos</enlace>
+</profundiza><seccion2
+id="S2_CS_09_08_CO_0CE70A14E59546D5B940A774D73863CB">
+<seccion2Titulo>México</seccion2Titulo>
+<seccion2Texto>
+<p>La Revolución mexicana, ocurrida a principios del siglo XX, marcó
+para siempre el destino de ese país. Un sentimiento nacionalista contrasta
+con la presión que implica vivir al pie de uno de los países más poderosos
+del mundo. Luego de la <negrita>Segunda Guerra Mundial</negrita>,
+en México se produjo un notable <negrita>crecimiento</negrita> de
+la industria, sobre todo de los sectores <negrita>eléctrico</negrita
+> y <negrita>petrolero</negrita>.</p>
+<recuerda><recuerdaTexto>
+<p>Debido a que durante la Segunda Guerra Mundial México se alineó
+con <negrita>Estados Unidos</negrita>, este último se convirtió en
+su <negrita>socio principal</negrita>, hecho que lo llevó a aumentar
+en un 100 % el total de las exportaciones.</p>
+</recuerdaTexto></recuerda>
+<p>Aquella bonanza permitió un aumentó en el <negrita>gasto público</negrita
+>, orientado a obras de <negrita>infraestructura</negrita> e <negrita
+>industrialización</negrita>. En el campo político, el <negrita>PRI</negrita
+> (Partido Revolucionario Institucional) mantuvo su <negrita>hegemonía</negrita
+>. El 2 de octubre de 1968 ocurrió una importante movilización estudiantil
+que concluyó en la llamada <negrita>“matanza de Tlatelolco”</negrita
+>, perpetrada por fuerzas del ejército. Esta masacre desencadenó la
+crisis de aquella hegemonía, pues se hizo evidente que México era
+un país que no había cumplido los planes de la Revolución, centrados
+en <negrita>la reforma agraria</negrita> plena y en una mayor igualdad
+social.</p>
+<imagen src="CS_09_08_CO_IMG02_small.jpg">
+<p>Más de 300 muertos dejó la matanza de Tlatelolco. Los estudiantes
+demandaban una mayor libertad de expresión. Así mismo, pedían más
+educación y la no intromisión del gobierno en la vida universitaria.
+En 1968 también se presentaron manifestaciones similares en Estados
+Unidos y París, pero la de México dejó un saldo trágico.</p>
+</imagen>
+<p><negrita>Luis Echeverría</negrita>, presidente entre 1970 y 1976,
+intentó conjurar la crisis con una apertura democrática y promovió
+un <negrita>incremento</negrita> de <negrita>salarios</negrita>. Su
+política fue criticada por la derecha y la burguesía, que terminó
+llevando a <negrita>José López Portillo</negrita> al poder (1976-1982),
+quien abandonó completamente las actuaciones agrarias e inició una
+política de <negrita>reducción salarial</negrita>.</p>
+<p>El descenso del precio del petróleo en 1981 desencadenó una <negrita
+>fuga de capitales</negrita>; en 1982 el Banco de México no disponía
+de recursos en divisas para hacer frente a la deuda externa y la pugna
+entre el Gobierno y los empresarios llevó a López Portillo a promulgar
+un decreto de nacionalización bancaria (1 de septiembre de 1982). <negrita
+>Miguel de la Madrid</negrita> (1982-1988), candidato del PRI, llevó
+a cabo la <negrita>privatización</negrita> del 34 % de las acciones
+de los <negrita>bancos</negrita>, a la vez que propició la privatización
+de <negrita>empresas públicas</negrita>. Esto estimuló una dinámica
+de <negrita>corrupción</negrita>, que condujo a México a vivir un
+caos interno.</p>
+<recuerda><recuerdaTexto>
+<p>En México, los años ochenta estuvieran marcados por asesinatos
+políticos, denuncias de corrupción y de fraude electoral. Tal situación
+debilitó al <negrita>Partido Revolucionario Institucional</negrita
+>, que estuvo en el poder de manera continua desde 1929 hasta el 2000.</p>
+</recuerdaTexto></recuerda>
+<p>En las elecciones de 1988, el candidato del PRI, <negrita>Carlos
+Salinas de Gortari</negrita>, obtuvo la presidencia (1988-1994) como
+resultado del <negrita>fraude electoral</negrita>. Al mismo tiempo,
+la oposición consiguió casi la mitad de los diputados y, por primera
+vez, logró representantes en el Senado. Al final del sexenio de Salinas
+y tras haberse firmado el <negrita>Tratado de Libre Comercio</negrita
+> entre <negrita>Estados Unidos</negrita>, <negrita>Canadá</negrita
+> y <negrita>México</negrita>, se produjo el levantamiento de un grupo
+armado en Chiapas (enero 1994), llevado a cabo por el <negrita>Ejército
+Zapatista de Liberación Nacional</negrita> (EZLN).</p>
+<p>Además del levantamiento zapatista, Salinas enfrentó una crisis
+política y judicial provocada por el <negrita>asesinato</negrita> del <negrita
+>candidato a la presidencia</negrita> del PRI, <negrita>Luis Donaldo
+Colosio</negrita> (marzo 1994), que a su vez se agravó por el asesinato
+del secretario general del PRI, José Francisco Ruiz Massieu (septiembre
+1994).</p>
+<p>Semejante crisis llevó a que los partidos de oposición al PRI comenzaran
+a ganar espacios. El proceso electoral de 1999 enfrentó a los candidatos
+Francisco Labastida (PRI), Cuauhtémoc Cárdenas (Partido de la Revolución
+Democrática, PRD) y <negrita>Vicente Fox</negrita> (Partido de Acción
+Nacional, PAN). El triunfo de Vicente Fox en las elecciones presidenciales
+(2 de julio de 2000) puso <negrita>fin</negrita> a 71 años de <negrita
+>gobierno del PRI</negrita>. Inició un gobierno de <negrita>privatizaciones</negrita
+> e <negrita>inversión extranjera</negrita>, a lo que se sumó una
+creciente inseguridad ciudadana estimulada por el ascenso del narcotráfico,
+la crisis económica y el desempleo.</p>
+<recuerda><recuerdaTexto>
+<p>El 2000 representó el inicio de la pérdida de la hegemonía del
+PRI. La llegada del empresario Vicente Fox a la presidencia simbolizó
+la derrota de la tradición y el ingreso de políticas que fortalecieron
+las privatizaciones.</p>
+</recuerdaTexto></recuerda>
+<p>El alcalde de la capital, Andrés Manuel López Obrador, del PRD,
+aparecía como el más firme candidato para ganar las elecciones presidenciales
+de 2006. No obstante, el vencedor fue el candidato del PAN, <negrita
+>Felipe Calderón</negrita>, aunque con una ventaja muy reducida sobre
+López Obrador.</p>
+<p>En las elecciones presidenciales de julio de 2012, el candidato
+del PRI, <negrita>Enrique Peña Nieto</negrita>, se impuso al candidato
+de la izquierda, Andrés Manuel López Obrador. La izquierda acusó al
+PRI de coacción y compra de votos, y solicitó la anulación de los
+comicios. En agosto, el Tribunal Electoral rechazó la impugnación
+de las elecciones y Peña Nieto fue declarado presidente electo de
+México. Su victoria supuso el regreso del PRI al poder tras doce años
+de gobiernos del PAN.</p>
+<imagen src="CS_09_08_CO_IMG03_small.jpg">
+<p>El candidato del PRI, Enrique Peña Nieto, se dirige a sus simpatizantes
+tras conocer los primeros resultados oficiales que lo designaban como
+nuevo presidente de México el 1 de julio de 2012. Su victoria supuso
+el regreso del PRI al poder, tras doce años de gobiernos del Partido
+Acción Nacional (PAN).</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso020&amp;IdRecurso=RES-E817B1DB6C29437EBE9F6F2E59590306"
+>Conoce hechos destacados en la historia reciente de México</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_08_CO_D7308837282448059C54E11146AD5E9A">
+<seccion2Titulo>Nicaragua</seccion2Titulo>
+<seccion2Texto>
+<p>Desde 1956 y hasta 1979, <negrita>Nicaragua</negrita> fue dominada
+por la <negrita>familia Somoza</negrita>. La fidelidad del Ejército,
+la represión contra los grupos de izquierda y el apoyo de Estados
+Unidos fueron las bases de su poder. El último de los Somoza, llamado
+Anastasio “Tachito” Somoza Debayle fue elegido en 1967. Aunque este
+logró desarticular algunos grupos rebeldes que clamaban libertad,
+no consiguió aniquilar a la mayor guerrilla que tuvo ese país: el <negrita
+>Frente Sandinista de Liberación Nacional</negrita> (FSLN).</p><?Pub
+Caret 330?>
+<imagen ampliable="no" src="CS_09_08_CO_IMG04_small.jpg">
+<p>Anastasio “Tachito” Somoza asumió la Presidencia en 1967. Desde
+entonces gobernó apoyado por la Guardia Nacional y sus cruentos métodos
+de control. En 1971 disolvió el Congreso. Mantuvo una intensa represión
+contra sus opositores, hasta que con el triunfo de los sandinistas
+se vio obligado a huir del país en julio de 1979. Se refugió en Paraguay,
+donde murió en un atentado.</p>
+</imagen>
+<p>El <negrita>proceso revolucionario</negrita> nicaragüense  adelantado
+por el FSLN fue el único que <negrita>triunfó</negrita> en Centroamérica<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=166447&amp;ruta=Buscador"
+> [VER]</enlace>. En <negrita>1979</negrita>, llegó al poder tras
+cuatro años de guerra y puso en marcha un nuevo régimen que trajo
+más democracia al país, en aspectos como acceso a la salud y a la
+educación. Pero pronto tuvo que enfrentar la guerra de los llamados
+“contras” (grupos de mercenarios financiados y armados por Estados
+Unidos). Este enfrentamiento causó la muerte de muchos jóvenes y frenó
+el desarrollo del país.</p>
+<p>Pasados diez años del triunfo de la Revolución sandinista y dado
+el desgaste de la confrontación con los contras, la derecha volvió
+al poder y se quedó hasta el 2006, año en que nuevamente los sandinistas,
+con Daniel Ortega, antiguo comandante guerrillero, ganaron las elecciones,
+inaugurando una nueva etapa, marcada por alianzas con la derecha y
+notables señales de corrupción<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=102220&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>Hoy Nicaragua es el centro de atención en Centroamérica debido
+a que su orientación de izquierda la ha llevado a confrontar a Estados
+Unidos, con la mediación de China. Este último país construye en este
+país un polémico <negrita>canal interoceánico</negrita>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso030&amp;IdRecurso=RES-2C73EEDD62AF41FD97B795B4140DD23B"
+>La Revolución sandinista</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso040&amp;IdRecurso=RES-44F303EEF9E44495B5AA96B54F88188F"
+>Conoce acerca del pensamiento de Daniel Ortega</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_08_CO_67847928AA0A4C10B31E3B26D57CFCAC">
+<seccion2Titulo>El Salvador</seccion2Titulo>
+<seccion2Texto>
+<p>Este país, productor de <negrita>café</negrita>, fue escenario
+de temibles gobiernos autoritarios. Desde 1980 vivió una guerra en
+la que el FMLN (<negrita>Frente Farabundo Martí para la Liberación
+Nacional</negrita>) combatió al Estado por sus políticas excluyentes
+y represivas. Un factor desencadenante para el surgimiento de este
+Frente fue el asesinato del obispo <negrita>Óscar Arnulfo Romero</negrita
+>, quien predicaba la defensa de los derechos humanos<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=145881&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_09_08_CO_IMG05_small.jpg">
+<p>Monseñor Arnulfo Romero fue un <negrita>sacerdote salvadoreño</negrita
+> ordenado en 1942. Fue arzobispo de San Salvador desde 1977. Defensor
+de los derechos humanos y candidato al premio Nobel de la Paz, fue <negrita
+>asesinado</negrita> por un <negrita>escuadrón de la muerte</negrita
+> de ultraderecha el 24 de marzo de 1980, durante la celebración de
+una <negrita>misa</negrita> en la catedral de San Salvador. Fue <negrita
+>beatificado</negrita> el 23 de mayo de 2015.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso050&amp;IdRecurso=RES-4D93F223C1354AA484D9249131CAC971"
+>El pensamiento social de monseñor Romero</enlace>
+</practica>
+<p>La guerra duró 12 años, con un saldo de <negrita>75 000 muertos</negrita
+> y desaparecidos. Con apoyo internacional, en 1992 se firmaron los <negrita
+>acuerdos de paz</negrita> entre el <negrita>FMLN</negrita> y el <negrita
+>gobierno de derecha de Alfredo Cristiani</negrita>, del partido ARENA
+(Alianza Republicana Nacionalista), sin que dichos acuerdos se convirtieran
+en reformas sociales en un país de extrema desigualdad y pobreza.
+Para el 2009, el desmovilizado FMLN ganó las elecciones presidenciales,
+inaugurando el primer gobierno de izquierda en la historia de El Salvador,
+que continuó en el poder al triunfar en las elecciones de 2014.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_08_CO_E249CC4B08C04462BA98DB7F483DD61E">
+<seccion2Titulo>Guatemala</seccion2Titulo>
+<seccion2Texto>
+<p>Guatemala es un país que vivió largas dictaduras militares. En
+1950 eligió al coronel <negrita>Jacobo Arbenz</negrita>, militar <negrita
+>progresista</negrita>, que decidió realizar una verdadera <negrita
+>reforma agraria</negrita>, al expropiar, entre otras, a las <negrita
+>compañías norteamericanas</negrita>, y con un Código de trabajo reivindicó
+los derechos laborales. <negrita>Estados Unidos</negrita> reaccionó
+con una <negrita>intervención</negrita> militar que depuso al presidente
+e impuso nuevos gobiernos autoritarios.</p>
+<destacado><destacadoTitulo>Incendio y muerte de indígenas en la Embajada
+de España</destacadoTitulo><destacadoTexto>
+<p>El 31 de enero de 1980, un grupo de indígenas ocupó la Embajada
+de España en Ciudad de Guatemala para pedir apoyo ante los abusos
+del Estado. La policía reprimió la protesta y le prendió fuego al
+edificio. El saldo de tan atroz reacción fue la muerte por calcinación
+de los manifestantes. Semejante resultado estimuló el ingreso de más
+campesinos e indígenas a la guerrilla guatemalteca, que empezó a consolidarse
+desde ese momento.</p>
+</destacadoTexto></destacado>
+<p>Desde 1960, jóvenes oficiales del Ejército intentaron acciones
+de levantamientos revolucionarios que nunca alcanzaron la victoria.</p>
+<p>Fue hasta 1980, con el ejemplo sandinista de Nicaragua, cuando
+se consolidó un movimiento armado. La <negrita>guerra</negrita> fue
+de las más crueles: pueblos enteros fueron arrasados y se contaron
+por miles los desaparecidos, incluyendo niños y ancianos. <negrita
+>Terminó en 1996</negrita> con un <negrita>“Acuerdo de paz firme y
+duradera”</negrita>, con el cual el país se abrió a la vida democrática.</p>
+<imagen src="CS_09_08_CO_IMG06_small.jpg">
+<p>En medio de su dramática situación política, Guatemala es uno de
+los centros históricos más importantes de Centroamérica. Cada año
+recibe cientos de miles de turistas que visitan la ciudad de La Antigua
+Guatemala.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso060&amp;IdRecurso=RES-67C6F4B75F524931AAF87C3550C5232D"
+>Conoce acerca del pensamiento de Daniel Ortega</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_08_CO_9857DC73C31143FEA495B2A82891DE5G">
+<seccion2Titulo>Honduras</seccion2Titulo>
+<seccion2Texto>
+<p>Honduras fue un país estratégico para Estados Unidos, pues por
+su posición geográfica garantizaba el acceso a tres países con fuertes
+guerrillas: Nicaragua, El Salvador y Guatemala. Particularmente, fue
+una base de entrenamiento para los <negrita>“contras”</negrita>, que
+combatieron al Frente Sandinista de Liberación Nacional desde que
+estuvo en el poder.</p>
+<p>Así mismo, Honduras fue un país en el que los <negrita>gobiernos
+militares</negrita> tuvieron un gran protagonismo durante el siglo
+XX. Fue apenas en 1982 que, con una Constitución pactada entre civiles
+y militares, se restableció la democracia.</p>
+<p>Entre los presidentes civiles elegidos sucesivamente, se destaca
+el caso de <negrita>Manuel Zelaya</negrita> elegido en el 2006, quien
+decidió ser parte del ALBA (Alianza Bolivariana para los Pueblos de
+Nuestra América), se acercó a Venezuela e intentó una política progresista<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=535180&amp;ruta=Buscador"
+> [VER]</enlace>. Fue destituido y sacado del país por el Ejército
+el 28 de junio de 2009 con el apoyo de Estados Unidos. Aunque los
+organismos internacionales condenaron el golpe, Zelaya no fue restituido
+y fue elegido en 2009 Porfirio Lobo, un empresario del Partido Nacional
+(conservador). Este último fue reemplazado por Juan Orlando Hernández,
+quien venció en las elecciones de 2014.</p>
+<imagen src="CS_09_08_CO_IMG07_small.jpg">
+<p>Tras una situación de crisis que llevó a la destitución del presidente
+de izquierda Manuel Zelaya, ascendió al poder Porfirio Lobo y posteriormente
+Juan Orlando Hernández.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_08_CO_9857DC73C31143FEA495B2A82891CD6F">
+<seccion2Titulo>Costa Rica</seccion2Titulo>
+<seccion2Texto>
+<p><negrita>Costa Rica</negrita> fue hasta la década del noventa del
+siglo XX un país excepcional en la región, conocido como <negrita
+>“la Suiza de América”</negrita>, como también lo fue y sigue siendo
+Uruguay en América del Sur. Esta excepcionalidad se debe en gran parte
+a que Costa Rica ha sido un país de <negrita>pequeños propietarios</negrita
+> de la tierra, no existían campesinos sin tierra y el Estado controlaba
+la producción y venta del café, por mucho tiempo el principal producto.</p>
+<imagen src="CS_09_08_CO_IMG08_small.jpg">
+<p>Costa Rica presenta una situación social y política más estable
+en relación con el resto de países de Centroamérica. Ello permite
+que sea uno de los lugares más visitados por el turismo internacional,
+debido a que en vastas zonas de su territorio es posible encontrar
+lugares con una gran biodiversidad, como el Parque Nacional de Tapanti.</p>
+</imagen>
+<p>Así mismo, la <negrita>educación</negrita> fue una <negrita>prioridad
+pública</negrita> y no existe analfabetismo. También es excepcional
+en Latinoamérica, porque desde 1948 fue un país que se negó a tener
+un Ejército, prefiriendo destinar los recursos públicos a la política
+social.</p>
+<p>Desde los años noventa, esta envidiable situación se fue desdibujando
+por la llegada de narcotraficantes con su secuela de acciones violentas
+y de corrupción. Aun así, Costa Rica es uno de los países más democráticos
+de la región centroamericana.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso070&amp;IdRecurso=RES-5A6357FF4FF84B289BED65370934FFAF"
+>Conoce aspectos de la historia de Costa Rica</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_08_CO_89C7D35E6276420EA5961A2B8E02FF19">
+<seccion2Titulo>Panamá</seccion2Titulo>
+<seccion2Texto>
+<p>Panamá es un país de apenas 3 600 00 habitantes. Es importante
+por su <negrita>posición geoestratégica</negrita>: une a América del
+Norte con América del Sur y el océano Atlántico con el Pacífico. Fue
+parte de Colombia después de la Independencia hasta que, a finales
+del siglo XIX y tras la guerra de los Mil días, Estados Unidos propició
+su separación (1903) para apoderarse del canal, cuya construcción
+la había iniciado <negrita>Ferdinand de Lesseps</negrita><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=128008&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>A partir de la Independencia de Panamá, Estados Unidos instaló
+allí bases militares y asumió el control del canal. Fue necesario
+esperar al año de 1968, cuando con la llegada al poder del general
+Omar Torrijos se reiniciara la recuperación total de la soberanía.
+Torrijos firmó un tratado con el presidente Jimmy Carter de Estados
+Unidos, en 1977. Este tratado significó la devolución a Panamá de
+la administración del canal y el retiro de las bases militares. Torrijos
+gobernó hasta 1981, cuando murió en un accidente de aviación, cuya
+causa aún se desconoce.</p>
+<p>A partir de la Independencia de Panamá, <negrita>Estados Unidos</negrita
+> instaló allí <negrita>bases militares</negrita> y asumió el control
+del canal. Fue necesario esperar al año de 1968, cuando con la llegada
+al poder del general <negrita>Omar Torrijos</negrita> se reiniciara
+la recuperación total de la soberanía. Torrijos firmó un tratado con
+el presidente <negrita>Jimmy Carter</negrita> de Estados Unidos, en
+1977. Este tratado significó la devolución a Panamá de la administración
+del canal y el retiro de las bases militares. Torrijos gobernó hasta
+1981, cuando murió en un accidente de aviación, cuya causa aún se
+desconoce.</p>
+<imagen src="CS_09_08_CO_IMG09_small.jpg">
+<p>Panamá es en el presente un importante centro financiero. Su ubicación
+estratégica resulta atractiva para negocios y transacciones internacionales.</p>
+</imagen>
+<p>Posteriormente, ascendió al poder el general <negrita>Augusto Noriega</negrita
+>, quien había sido <negrita>agente</negrita> de la Agencia Central
+de Inteligencia de Estados Unidos <negrita>(CIA)</negrita>, pero viró
+hacia una posición <negrita>nacionalista</negrita> centrada en la
+soberanía total de los panameños sobre el canal.</p>
+<p>En 1989, Estados Unidos <negrita>invadió</negrita> Panamá y sacó
+del poder a Noriega, quien fue extraditado con acusaciones de <negrita
+>narcotráfico</negrita>. Los gobiernos sucesivos, con excepción del
+mandato del Martín Torrijos, han estado alineados a la potencia del
+norte. El canal ha sido ampliado, y hoy Panamá es, esencialmente,
+un gran <negrita>centro financiero</negrita>, cuyo PIB está constituido
+por los servicios, incluyendo el renglón del turismo.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso080&amp;IdRecurso=RES-E44F82AB24804A7DA7FE1579A52E76BF"
+>La historia reciente de Panamá</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_08_CO_89C7D35E6276420EA5961A2B8E02EE08">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso090&amp;IdRecurso=RES-5D936BD8C9DB41D5834908DD816206ED"
+>Refuerza tu aprendizaje: Historia reciente de Centroamérica</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_08_CO_208BC33943A446E1866A1E7A3AE07B8D">
+<seccion1Titulo>La Revolución Cubana</seccion1Titulo>
+<seccion1Texto>
+<p>En Cuba ocurrió la <negrita>primera revolución social</negrita
+> que triunfó en América Latina (la Revolución mexicana de principios
+del siglo XX se fue desdibujando pronto), pues la Revolución cubana
+marcó un hito en la historia contemporánea. Es todavía icónica la
+imagen del Che Guevara para las nuevas generaciones, como símbolo
+de lucha por un ideal de sociedad igualitaria y solidaria.</p>
+<p>En los años sesenta, esta revolución fue un ejemplo para los revolucionarios
+del llamado Tercer Mundo, especialmente en países de América del Sur,
+como Colombia, Venezuela y Perú, y El Salvador, Nicaragua y Guatemala
+en Centroamérica. Provocó la admiración del mundo entero en sus primeros
+años por ser una pequeña isla que sin muchos recursos logró unas <negrita
+>mínimas condiciones</negrita> de vida digna (<negrita>salud</negrita
+> y <negrita>educación</negrita>, principalmente) para todos sus pobladores.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso100&amp;IdRecurso=RES-4A5ACB092EF04C7E8D0B078FA1A53327"
+>Fidel Castro y la Revolución cubana</enlace>
+</profundiza><destacado><destacadoTitulo>Cuba antes de la Revolución</destacadoTitulo>
+<destacadoTexto>
+<p>Antes de 1959, Cuba era un país esencialmente agrícola (monocultivo
+de la <negrita>caña de azúcar</negrita>) con una considerable proporción
+de empresas norteamericanas, tanto en el sector primario como en los
+servicios. Políticamente, la nación estaba cansada de la represión
+sangrienta contra cualquier tipo de oposición y de la corrupción,
+en manos del coronel <negrita>Fulgencio Batista</negrita>, que después
+del golpe que dio en 1952, se aferró ilegalmente al poder.</p>
+</destacadoTexto></destacado>
+<p>La Revolución, liderada por <negrita>Fidel Castro Ruz</negrita
+>, joven abogado de familia acomodada, se inició como una protesta
+contra el fraude electoral y la falta de espacios democráticos<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=51836&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>El <negrita>26 de julio de 1953</negrita>, Fidel Castro y 80 hombres <negrita
+>atacaron</negrita> un <negrita>cuartel del Ejército</negrita>, ataque
+que fracasó y terminó con el encarcelamiento de los sobrevivientes.
+En la prisión Castro preparó su defensa, un texto que llamó <negritacursiva
+>La historia me absolverá</negritacursiva>, análisis de la situación
+cubana y requisitorio contra la dictadura.</p>
+<p>Liberado en 1955 por la presión del movimiento social y la intervención
+de los jesuitas, de los que había sido alumno, se encaminó con su
+hermano Raúl y otros compañeros a México, donde se les unió el Che
+Guevara, que tenía el proyecto de participar en el movimiento revolucionario.
+Allí prepararon una expedición a Cuba, a bordo del <negrita>barco
+Granma</negrita>, que desembarcó en la isla el 2 de diciembre de 1956.
+La lucha guerrillera comenzó inicialmente en la <negrita>Sierra Maestra</negrita
+>, para extenderse de forma progresiva a todo el país. En enero de
+1959 los castristas se tomaron el poder.</p>
+<imagen src="CS_09_08_CO_IMG10_small.jpg">
+<p>Fidel Castro creó el <cursiva>Movimiento 26 de julio</cursiva>,
+que en 1953 hizo su primera aparición pública con el asalto al cuartel
+Moncada. Pocos años después, el primero de enero de 1959 logró expulsar
+al régimen de Batista y tomar el poder como primer ministro.</p>
+</imagen>
+<seccion2 id="S2_CS_09_08_CO_48B3B3488067419AAFE9EBE4F795E388">
+<seccion2Titulo>Las medidas sociales de la Revolución</seccion2Titulo>
+<seccion2Texto>
+<p>Las primeras medidas tomadas fueron la <negrita>reforma agraria</negrita
+>, con la formación de cooperativas agrícolas estatales y distribución
+de una parte de la tierra entre pequeños propietarios, la <negrita
+>nacionalización de las empresas extranjeras</negrita>, la <negrita
+>erradicación del analfabetismo</negrita>, la creación de un <negrita
+>sistema de salud</negrita> y de un sistema de <negrita>educación</negrita
+> gratuito en todos sus niveles. Igualmente, los servicios públicos
+también pasaron a ser gratuitos. Se intentó diversificar la economía,
+dándole impulso a la ganadería y a la biotecnología, pero el cultivo
+de la caña siguió ocupando el primer renglón.</p>
+<p>A estas medidas Estados Unidos, que inicialmente apoyó el proceso,
+respondió con una <negrita>invasión</negrita>, iniciada el 15 de abril
+de 1961 (<negrita>Bahía Cochinos</negrita>), que fue <negrita>derrotada</negrita
+> por el Ejército rebelde cubano, y luego con la <negrita>expulsión
+de Cuba de la OEA</negrita> y el embargo económico a la isla<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=65933&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso110&amp;IdRecurso=RES-45C1890DE6C045FBBB1C32F34F0DB73D"
+>Las reformas en Cuba</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_08_CO_48B3B3488067419AAFE9EBE4F795D499">
+<seccion2Titulo>Cuba y la URSS</seccion2Titulo>
+<seccion2Texto>
+<p>Sin tener el apoyo de otros países del continente, Cuba <negrita
+>entró en la esfera soviética</negrita>, a la cual se alineó <negrita
+>desde 1962 hasta 1989</negrita>, cuando se presentó la caída del
+llamado campo socialista. Este hecho se explica también por la ausencia
+o el fracaso de revoluciones en América Latina. Cuba sola no podía
+consolidar una revolución. En <negrita>1989</negrita>, Cuba quedó
+desamparada y con graves problemas de abastecimiento, entrando en
+lo que se llamó el <negrita>“periodo especial”</negrita>, que implicó
+para la población muchas privaciones de productos básicos.</p>
+<p>A partir de ahí tuvo que <negrita>replantear su modelo económico</negrita
+> y dio algunas posibilidades, cada vez mayores, a la iniciativa privada,
+controlada por el Estado. El <negrita>turismo</negrita> se convirtió
+en un renglón clave de la economía.</p>
+<imagen src="CS_09_08_CO_IMG11_small.jpg">
+<p>Pocos años después del triunfo de la Revolución, Cuba estableció
+vínculos con la Unión Soviética. Esa relación le permitió a la isla
+sostener su economía y a la URSS le garantizó su vínculo con América
+Latina, lo que en un contexto de Guerra Fría despertó el temor de
+Estados Unidos.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_08_CO_48B3B3488067419AAFE9EBE4F795C500">
+<seccion2Titulo>Régimen político</seccion2Titulo>
+<seccion2Texto>
+<p>En <negrita>1976</negrita>, Cuba adoptó una <negrita>Constitución</negrita
+> que instauró un régimen político parecido a los <negrita>regímenes
+socialistas de Europa del Este</negrita>, en los que las asambleas
+populares tenían un rol preponderante en la arquitectura estatal,
+pero bajo el control del <negrita>partido único</negrita>, el Partido
+Comunista.</p>
+<p>La figura del <negrita>primer secretario</negrita> del partido
+se asemejaba a la del <negrita>caudillo</negrita> (en este caso Fidel
+Castro y hoy su hermano Raúl), en cuya cabeza recae la <negrita>toma
+de decisiones</negrita>. Las organizaciones de la <negrita>sociedad
+civil</negrita> son tuteladas y <negrita>vigiladas</negrita> por el
+Partido Comunista, así como los <negrita>medios de comunicación</negrita
+>. La vida en los <negrita>barrios</negrita> es administrada por los <negrita
+>Comités de Defensa de la Revolución</negrita> (CDR).</p>
+<recuerda><recuerdaTexto>
+<p>Una vez triunfó la Revolución, la política pasó a estar contralada
+por un partido único. La idea de democracia se centró en el acceso
+a los servicios y el cumplimiento de derechos básicos (salud, educación
+y vivienda), pero descartó el pluralismo y la diversidad política.</p>
+</recuerdaTexto></recuerda>
+<p>En el campo de la cultura, especialmente en las <negrita>artes</negrita
+> (cinematografía, música, danza), Cuba ofrece <negrita>formación
+gratuita</negrita> a sus jóvenes, que han llegado a niveles de excelencia.
+Pero el <negrita>control</negrita> del Partido Comunista ahoga o reprime
+cualquier iniciativa que no vaya en el sentido de la apología de la
+Revolución.</p>
+<imagen src="CS_09_08_CO_img_12_small.jpg">
+<p>Desde el triunfo de la Revolución, Cuba ha dado un gran apoyo a
+la ciencia, las artes y el deporte. <cursiva>El lago de los cisnes</cursiva
+>, en una versión interpretada por el Ballet Nacional de Cuba en el
+Teatro Albéniz de Madrid, España, septiembre 2001.</p>
+</imagen>
+<p>A pesar de sus conquistas en salud, educación y cultura, la Revolución
+cubana ha sido muy cuestionada por los demás países latinoamericanos,
+así como por Estados Unidos. Esto debido a que se ha apartado del
+modelo de sociedad capitalista y ha trabajado en un sentido <negrita
+>contrario al consumismo y al individualismo</negrita>. Dicha actitud
+ha sometido a la isla a un embargo y al ostracismo, hecho que dificulta
+su relación con la economía global.</p>
+<p>De allí que en los últimos años el Estado cubano esté más abierto
+a reanudar su relación con Estados Unidos. Esta apertura, proclamada
+en la Cumbre de las Américas (2015), crea interrogantes sobre el futuro
+socialista de la Isla.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_08_CO_48B3B3488067419AAFE9EBE4F795B611">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso120&amp;IdRecurso=RES-E65A6336691A4B93929BB6D4A4BAD2C3"
+>Refuerza tu aprendizaje: La Revolución Cubana</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_08_CO_6826FF77A69A415BBFAB195F182BA3E5">
+<seccion1Titulo>Democracia y neoliberalismo en América Latina</seccion1Titulo>
+<seccion1Texto>
+<p><negrita>A partir de1964</negrita>, América Latina vivió <negrita
+>temibles dictaduras militares</negrita> en varios de sus países.
+Las más sangrientas fueron las de <negrita>Argentina</negrita>, <negrita
+>Uruguay</negrita>, <negrita>Chile</negrita> y <negrita>Brasil</negrita
+>. Estas dictaduras se caracterizaron por violaciones sistemáticas
+a los derechos humanos.</p>
+<p>El mundo estaba en plena <negrita>Guerra Fría</negrita> y los gobiernos
+dictatoriales justificaron sus <negrita>actos atroces</negrita> (desapariciones
+forzadas, asesinatos selectivos, etc.) en la supuesta necesidad de <negrita
+>contener</negrita> el <negrita>comunismo internacional</negrita>.</p>
+<p>La dimensión de los crímenes cometidos por las dictaduras fue de
+tal magnitud, que la comunidad internacional presionó para que llegaran
+a su fin. Así mismo, la <negrita>caída del muro de Berlín</negrita
+> trajo consigo el fin de la Guerra Fría y, con ello, la tranquilidad
+frente al avance del comunismo.</p>
+<imagen src="CS_09_08_CO_IMG13_small.jpg">
+<p>La principal expresión del regreso a la democracia en los países
+de América Latina que vivieron dictaduras militares fue la posibilidad
+que tuvo la población civil de decidir su destino político mediante
+las elecciones.</p>
+</imagen>
+<p>A partir de los <negrita>años ochenta</negrita>, progresivamente
+cada una de las dictaduras empezó a retirarse del poder, lo que llevó
+a la realización <negrita>elecciones democráticas</negrita> y el retorno
+de <negrita>civiles al mando</negrita> del Estado. Así, se implantaron
+sistemas democráticos o se regularizaron los procedimientos electorales
+en Perú y Ecuador (1978); Brasil, Bolivia y El Salvador (1982); Argentina
+(1983); Honduras y Uruguay (1985); Guatemala (1986); Panamá, Chile
+y Paraguay (1989); Nicaragua (1990).</p>
+<p>Estos complejos procesos democráticos no pudieron, sin embargo,
+acabar con algunos de los graves problemas económicos y sociales que
+afectaban a la mayor parte del continente.</p>
+<seccion2 id="S2_CS_09_08_CO_6F7BF73B4A214098B91A0BDB7020E9D2">
+<seccion2Titulo>La crisis económica y el neoliberalismo</seccion2Titulo>
+<seccion2Texto>
+<p>En la década de 1970, los países latinoamericanos, y particularmente
+los que tuvieron <negrita>regímenes militares</negrita>, contrajeron <negrita
+>enormes deudas</negrita> para invertir en proyectos de <negrita>infraestructura</negrita
+> y <negrita>seguridad</negrita>. Aquellos préstamos conforman la
+enorme deuda externa latinoamericana, lo que constituye un enorme
+obstáculo para el desarrollo real del continente. Los préstamos se
+hicieron con altos <negrita>intereses</negrita>, lo que ha hecho más
+cada vez más difícil su pago.</p>
+<p>Desde la década de 1980, los países latinoamericanos han sido <negrita
+>incapaces</negrita> de afrontar el compromiso de <negrita>devolver</negrita
+> los <negrita>empréstitos</negrita> que, al acumularse, incrementan
+constantemente el volumen global de la deuda. Al exigir el pago de
+la deuda, los acreedores (bancos internacionales) obligaron a los <negrita
+>países deudores</negrita> a emplear gran parte de sus recursos económicos
+para intentar cubrir el creciente <negrita>déficit</negrita>.</p>
+<imagen ampliable="no" src="CS_09_08_CO_IMG14_small.jpg">
+<p>Los años ochenta se conocen como <cursiva>la década perdida</cursiva
+>, porque los países latinoamericanos estuvieron impedidos para hacer
+inversión social, pues debieron destinar la mayor parte de sus ingresos
+al pago de los intereses de la deuda externa.</p>
+</imagen>
+<destacado><destacadoTitulo>Una deuda impagable</destacadoTitulo>
+<destacadoTexto>
+<p>Una vez retornó la democracia al continente, en la década de los
+ochenta, los <negrita>gobiernos</negrita> se encontraron <negrita
+>sin recursos</negrita> para financiar el desarrollo de sus economías
+y se vieron forzados a <negrita>reducir el gasto</negrita> en <negrita
+>inversión social</negrita>, <negrita>salud</negrita> y <negrita>educación</negrita
+>.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso130&amp;IdRecurso=RES-7865C5C6CAF9401B8F0DD73834232B8F"
+>La Deuda Externa y el Neoliberalismo en América Latina</enlace>
+</profundiza>
+<p>Al déficit se le sumó la llegada del <negrita>modelo neoliberal</negrita
+>, que consistió en un conjunto de medidas orientadas a la privatización
+del sector público y a la reducción del gasto social, lo que agravó
+la situación de la población al aumentar los índices de pobreza y
+exclusión. Por lo tanto, la democracia trajo elecciones libres, pero
+tuvo que enfrentar una grave crisis social.</p>
+<p>Adicionalmente, a principios del siglo XXI los conflictos civiles,
+en países como Colombia, y la aparición de los carteles de la droga,
+como un nuevo grupo de poder, son los síntomas más evidentes de la
+persistencia de muchos de los problemas de la transición democrática
+en los países latinoamericanos, que no consiguieron solucionar fenómenos
+como la corrupción, la formación de grupos paramilitares armados y
+fueron débiles en dar una respuesta a las dificultades sociales y
+económicas de la población.</p>
+<destacado><destacadoTitulo>En conflicto permanente</destacadoTitulo>
+<destacadoTexto>
+<p>En el nuevo milenio, la mayoría de países latinoamericanos fortalecieron
+sus sistemas democráticos, pero tuvieron que enfrentar formas de corrupción
+que impidieron su desarrollo. El narcotráfico y el paramilitarismo
+fueron algunos de los fenómenos que surgieron y persisten.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_08_CO_2311C1602FB34A738577AB1900341212">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso140&amp;IdRecurso=RES-6F9A7BFC8E144685B7506885A0B82808"
+>Refuerza tu aprendizaje: Democracia y neoliberalismo</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_08_CO_5DE015DA72A343E69F8BF0D40DE32D56">
+<seccion1Titulo>El proceso de integración de América Latina</seccion1Titulo>
+<seccion1Texto>
+<p>Con una historia común desde la conquista y la dominación europea
+hasta la Independencia, para pasar luego a estrechar <negrita>lazos
+de dependencia</negrita> con Estados Unidos, los países de América
+Latina, con una población que supera hoy los 600 millones de habitantes,
+dotados de recursos naturales preciosos, entre otros la mayor reserva
+de agua y el pulmón del mundo (Amazonia), estaban destinados a unirse
+para formar un gran bloque político, económico y cultural.</p>
+<imagen src="CS_09_08_CO_IMG15_small.jpg">
+<p>La integración del continente favorece el intercambio comercial
+y cultural. Es también una estrategia para competir en bloque frente
+a gigantes, como la Unión Europea, Estados Unidos y China.</p>
+</imagen>
+<p>Ya en los primeros años de la Independencia, <negrita>Simón Bolívar</negrita
+> desplegó esfuerzos en esta dirección. En la <negrita>Carta de Jamaica</negrita
+> (1816) y en el Congreso Anfictiónico de Panamá (1826) llamó a la
+unidad de las naciones latinoamericanas, que resultó obstaculizada
+por las rivalidades de los caudillos nacionales.</p>
+<p>A finales del siglo XIX, <negrita>José Martí</negrita>, en su ensayo <negrita
+>“Nuestra América”</negrita>, articuló la lucha por la Independencia
+de Cuba a una revolución social en toda América. Pero desde aquella
+época, con la <negrita>doctrina Monroe</negrita> (América para los
+americanos), Estados Unidos buscó un dominio político, económico e
+ideológico, que reforzó la fragmentación del continente.</p>
+<destacado><destacadoTitulo>La integración, un deseo no cumplido</destacadoTitulo>
+<destacadoTexto>
+<p>Una vez inició el proceso de Independencia, líderes como Simón
+Bolívar se propusieron que América se mantuviera unida e indivisible.
+Sin embargo, los caudillismos, y luego la injerencia de Estados Unidos,
+impulsaron la fragmentación política, social y cultural.</p>
+</destacadoTexto></destacado>
+<p>Después de la Segunda Guerra Mundial, Estados Unidos impulsó la
+creación de la <negrita>Organización de Estados Americanos</negrita
+> (OEA) con el propósito de alinear a los países bajo sus directrices,
+lejos de unir a nuestros países, fue más un instrumento de la política
+norteamericana<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=102004&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<seccion2 id="S2_CS_09_08_CO_2311C1602FB34A738577AB1900345656">
+<seccion2Titulo>Los intentos de integración</seccion2Titulo>
+<seccion2Texto>
+<p>Fue solamente a partir de los <negrita>años sesenta</negrita> cuando
+comenzaron a perfilarse proyectos de <negrita>integración latinoamericana</negrita
+>, en principio con objetivos de políticas económicas comunes para
+enfrentar como un bloque las presiones y los dictados de las grandes
+potencias. Aparecieron entonces:</p>
+<p>La ALALC (<negrita>Asociación Latinoamericana de Libre Comercio</negrita
+>) en <negrita>1960</negrita>. El objetivo era la creación de una
+zona de libre comercio, con eliminación de restricciones, cupos y
+gravámenes entre los Estados. La ALALC se convirtió en <negrita>1980</negrita
+> en ALADI (<negrita>Asociación Latinoamericana de Integración</negrita
+>).</p>
+<p>La CAN (<negrita>Comunidad Andina de Naciones</negrita>) en 1969
+y el SELA (<negrita>Sistema de Integración Latinoamericana</negrita
+>) en 1975, con el objetivo de concertar estrategias comunes de cooperación
+entre los países de la región.</p>
+<p>Los países de Centroamérica cuentan con el SICA (Sistema de integración
+de Centroamérica) desde 1993.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso150&amp;IdRecurso=RES-81D351A0EF4B420EADDF3FDED6BFDCBB"
+>Fidel Castro y la Revolución cubana</enlace>
+</profundiza><recuerda><recuerdaTexto>
+<p>Aunque se presentaron varios intentos de integración, esta no se
+logró por el peso de las relaciones externas, de las asimetrías (diferencias)
+en los procesos de desarrollo de los distintos países y de las diversas
+opciones políticas e ideológicas de cada uno ellos.</p>
+</recuerdaTexto></recuerda><seccion3
+id="S3_CS_09_08_CO_688FCFBC67424C1FB0FDB00AFD0B9FA1">
+<seccion3Titulo>La integración en el nuevo milenio</seccion3Titulo>
+<seccion3Texto>
+<p>En la última década del siglo pasado, con la llegada de <negrita
+>gobiernos de izquierda</negrita> a buena parte de países del continente
+(Argentina, Bolivia, Brasil, Ecuador y Venezuela), la integración
+recibió un <negrita>nuevo impulso</negrita>. Liderazgos como el de
+Hugo Chávez de Venezuela y Lula da Silva en Brasil, promovieron, en
+1991, la creación de organismos como <negrita>Mercosur</negrita>,
+inicialmente compuesto por Argentina, Brasil, Paraguay y Uruguay,
+luego Venezuela<enlace destino="http://www.mercosur.int/"> [VER]</enlace
+>.</p>
+<p>El Mercosur consiste principalmente en la <negrita>unión aduanera</negrita
+> con <negrita>arancel externo común</negrita> para todos los bienes
+y es además un proyecto de coordinación de políticas macroeconómicas
+comunes con una armonización de las legislaciones, inspirado en la
+Unión Europea. También es un bloque político que propende por una
+América Latina en paz sin injerencia ni imposiciones de Estados Unidos.</p>
+<imagen ampliable="no" src="CS_09_08_CO_IMG16_small.jpg">
+<p>Los países que forman parte de Mercosur son: Venezuela, Bolivia,
+Argentina, Brasil, Paraguay y Uruguay. Su constitución como bloque
+ha facilitado los intercambios comerciales entre los países miembros.</p>
+</imagen>
+<p>Así mismo, en 2004 se creó el ALBA (<negrita>Alianza Bolivariana
+para los Pueblos</negrita>), por iniciativa de Venezuela, con un sentido
+de cooperación fundada en principios de solidaridad y ayuda mutua
+y la propuesta de una moneda única. Está integrada por Bolivia, Cuba,
+Ecuador, Nicaragua y Venezuela<enlace
+destino="http://www.portalalba.org/"> [VER]</enlace>.</p>
+<p>En 2008 se creó UNASUR (Unión de Naciones Suramericanas), que,
+además de su propósito de integración económica, se ha ido constituyendo
+en un foro político de América del Sur y da participación a la sociedad
+civil a través del “Foro Económico y Social”. Pero el campo de la
+integración política propiamente dicha es aún débil y frágil<enlace
+destino="http://www.unasursg.org/es"> [VER]</enlace>.</p>
+<imagen src="CS_09_08_CO_IMG17_small.jpg">
+<p>La llegada de gobiernos de izquierda, como el de Lula da Silva,
+le dio un nuevo impulso a la integración latinoamericana.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso160&amp;IdRecurso=RES-5544264599454F53ADE7ADB1D955E833"
+>Conoce organismos de integración de los países latinoamericanos</enlace>
+</practica>
+<p>Con estos intentos, América Latina ha ido dando pasos tímidos hacia
+la integración. Con ellos logró impedir el proyecto estadounidense
+de construir el ALCA (<negrita>Área de Libre Comercio para las Américas</negrita
+>), pero con las firmas de <negrita>tratados de libre comercio</negrita
+> (TLC) con Estados Unidos o con la Unión Europea, varios países latinoamericanos
+siguen con la preferencia por el desigual <negrita>bilateralismo</negrita
+>. Lo mismo pasa con la creación de la Alianza del Pacífico (Colombia,
+Perú, México y Chile), de tal manera que el comercio intrarregional
+es menor que el comercio con otros países del mundo.</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2>
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso170&amp;IdRecurso=RES-262CD4D33DF941EA9ABAB51357EAF0A4"
+>Refuerza tu aprendizaje: El proceso de integración de América Latina</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_08_CO_18373B564ADC4546B37A45F0775C6591">
+<seccion1Titulo>Los gobiernos socialistas</seccion1Titulo>
+<seccion1Texto>
+<p>En América Latina fueron pocos los éxitos políticos de la izquierda
+en el siglo XX. Por ejemplo:</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>Revolución cubana</negrita> de 1959.</listaElemento>
+<listaElemento>En Centroamérica, de los tres procesos de lucha armada:
+Guatemala, El Salvador y <negrita>Nicaragua</negrita>, solo triunfó
+el último en 1979, para desdibujarse pronto.</listaElemento>
+<listaElemento>La Unidad Popular de <negrita>Chile</negrita> con <negrita
+>Salvador Allende</negrita>, proyecto de revolución pacífica (1970-1973)
+a través de un proceso electoral de unidad de todas las fuerzas de
+izquierda, fue derrotada por los militares con apoyo de Estados Unidos.</listaElemento>
+</listaSinNumerar>
+<p>Fue solamente a <negrita>principios del siglo XXI</negrita> cuando,
+frente a los <negrita>estragos del neoliberalismo</negrita>, que profundizó
+la pobreza, y la pérdida de credibilidad en los partidos tradicionales,
+que ya habían demostrado ser incapaces de enfrentar las enormes necesidades
+de la población, varias naciones de la región eligieron a presidentes
+con propuestas de cambio social basadas en ideologías de izquierda.</p>
+<table border="1"><caption>Ascenso de gobiernos socialistas en América
+Latina</caption><colgroup><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td>Argentina</td>
+<td>Néstor Kirchner</td>
+<td>2003</td>
+</tr>
+<tr>
+<td>Bolivia</td>
+<td>Evo Morales</td>
+<td>2006</td>
+</tr>
+<tr>
+<td>Brasil</td>
+<td>Lula da Silva</td>
+<td>2003</td>
+</tr>
+<tr>
+<td>Chile</td>
+<td>Michele Bachelet</td>
+<td>2006</td>
+</tr>
+<tr>
+<td>Ecuador</td>
+<td>Rafael Correa</td>
+<td>2007</td>
+</tr>
+<tr>
+<td>Perú</td>
+<td>Ollanta Humala</td>
+<td>2007</td>
+</tr>
+<tr>
+<td>Uruguay</td>
+<td>Tabaré Vásquez</td>
+<td>2004</td>
+</tr>
+<tr>
+<td>Venezuela</td>
+<td>Hugo Chávez</td>
+<td>1999</td>
+</tr>
+<tr>
+<td>El Salvador</td>
+<td>Mauricio Funes</td>
+<td>2009</td>
+</tr>
+</tbody>
+</table>
+<p>Los mandatarios de izquierda han tenido en común un discurso que
+promete una sociedad más igualitaria, con una mejor distribución del
+ingreso; así mismo, han ofrecido <negrita>erradicar la pobreza</negrita
+> y <negrita>recuperar la soberanía</negrita> sobre los recursos propios,
+erosionada por la tradicional intervención económica e ideológica
+de las grandes potencias. No obstante, el logro de estas metas se
+ha visto opacado por la corrupción y malos manejos en algunos países,
+como Venezuela, Brasil y Argentina.</p>
+<imagen src="CS_09_08_CO_IMG18_small.jpg">
+<p>Según el Informe de Desarrollo Humano de las Naciones Unidas, la
+incidencia de la pobreza en América Latina disminuyó en la última
+década, siendo Bolivia el país que lidera este notable cambio.</p>
+</imagen>
+<seccion2 id="S2_CS_09_08_CO_2311C1602FB34A738577AB1900348989">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso180&amp;IdRecurso=RES-EAD341ECB1CA4D958538B958A9497AE7"
+>Refuerza tu aprendizaje: Los gobiernos socialistas</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_08_CO_6653760BF8F54D24929298C8E2386A87">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso190&amp;IdRecurso=RES-28C86678E5EA4BEA90AAF96A4825F865"
+>Competencias: Análisis de la situación política y social de América
+Latina en la actualidad</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso200&amp;IdRecurso=RES-0664C98AD9FE4A5BB5242F247BE579FF"
+>Proyecto: Los bloques de poder en América Latina</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_09_08_CO_D8AB2C1D94474445B3C956BA849BF128"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso220&amp;IdRecurso=RES-3185934332E748DCABD871F2D7AB7C17"
+>Mapa conceptual del tema América Latina desde la segunda mitad del
+siglo XX</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso230&amp;IdRecurso=RES-31595517D0EC4A3F8F022784136EA7D2"
+>Evalúa tus conocimientos sobre el tema América Latina desde la segunda
+mitad del siglo XX</enlace></autoevaluate><enlacesreferencia>
+<enlace
+destino="http://www.cepal.org/es/publicaciones/37626-panorama-social-de-america-latina-2014"
+>Página de la Comisión Económica para América Latina y el Caribe</enlace>
+<enlace
+destino="http://www.latinamerica.undp.org/content/rblac/es/home.html"
+>Página de la Organización de las Naciones Unidas sobre América Latina
+y el Caribe</enlace>
+</enlacesreferencia></masinformacion></libro>
