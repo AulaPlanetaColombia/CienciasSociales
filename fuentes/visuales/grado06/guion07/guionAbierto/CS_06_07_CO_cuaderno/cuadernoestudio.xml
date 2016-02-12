@@ -2,7 +2,6 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="CS_06_07_CO">
 <libroTitulo>El universo</libroTitulo>
 <seccion1 id="S1_CS_06_07_CO_97E5E12B865546408853717C7C5ADB4E">
@@ -23,8 +22,7 @@ galaxia, donde se encuentra la Tierra, es la <negrita>Vía Láctea</negrita
 </imagen>
 <p>En el universo existen centenares de miles de millones de galaxias.
 En la que se encuentra la Tierra, es la <negrita>Vía Láctea</negrita
->. En ella está el Sol, la única estrella del sistema solar.</p><?Pub
-Caret 55?>
+>. En ella está el Sol, la única estrella del sistema solar.</p>
 <p>La teoría más aceptada acerca del origen del universo es la del <negrita
 >big bang</negrita> o gran explosión, que postula que el universo
 se formó hace unos 15 000 millones de años debido a una explosión.</p>
@@ -649,15 +647,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso140&amp;IdRecurso=RES-236E3F
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso150&amp;IdRecurso=RES-358FA946566C4BAAB8EF84E35A9C4176"
 >Competencias: identificación de las estrellas observables</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso160&amp;IdRecurso=RES-C62D72D63B4544BA952E252A843715F9"
->Competencias: comprensión del sistema solar a través de un modelo</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso170&amp;IdRecurso=RES-79950B9ED8214D599950DADBAC7D20B6"
->Competencias: diferenciación de los cuerpos celestes</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso180&amp;IdRecurso=RES-6070BED1C38046FA82B785896720223E"
->Competencias: visión de la Estación Espacial Internacional</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_07_CO_Recurso190&amp;IdRecurso=RES-0AC541EBBBA54945A5FAC8796405F079"
 >Proyecto: estudio de las recientes exploraciones del espacio</enlace>
