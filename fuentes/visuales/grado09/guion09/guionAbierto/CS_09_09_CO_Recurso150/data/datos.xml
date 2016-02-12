@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="101" clase="a" aprid="m101a">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Refuerza tu aprendizaje: Las manifestaciones de la cultura</titulo>
+    <volumen/>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia/>
+    <motor/>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Lee con atención y responde las siguientes preguntas. Si es necesario envíalas por correo electrónico o entrégalas por escrito a tu profesor.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="7">
+    <pregunta>
+      <enunciado><![CDATA[¿Quién fue Gabriel García Márquez? ¿Cuál ha sido su obra más reconocida?]]></enunciado>
+      <explicacion><![CDATA[Escritor y periodista colombiano, ganador en 1982 del único premio Nobel que ha tenido nuestro país y autor de una extensa y reconocida obra literaria. Nació en Aracataca, Magdalena, en 1927 y falleció en México en 2014. ]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Investiga y escribe un texto explicando las caraterísticas del nadaísmo.]]></enunciado>
+      <explicacion><![CDATA[Fue quizás la única corriente literaria colombiana, de carácter vanguardista y emparentada con el existencialismo europeo, surgida entre jóvenes escritores en ciudades de provincia, como Medellín y Cali, durante las décadas los años sesenta y setenta del siglo XX. Sus principales exponentes fueron Jotamario Arbeláez, el poeta X504 y Gonzalo Arango, quienes utilizaron la literatura para hacer agitación social y política. ]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Quién es Beatriz González? ¿Cuáles son las principales caraterísticas de su obra?]]></enunciado>
+      <explicacion><![CDATA[Pintora, historiadora y critica de arte colombiana nacida en Bucaramanga en 1938. Es una de las artistas plásticas más reconocidas en Colombia y el exterior. Su pintura intenta reconocer el gusto particular de las personas comunes. Una de sus principales obras es “Los suicidas del Sisga”, también ha pintado obras alusivas a los presidentes de Colombia, a la muerte de un narcotraficante y a la toma del Palacio de Justicia, entre otras. ]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Reúne datos y redacta un texto sobre el origen del carnaval de Barranquilla.]]></enunciado>
+      <explicacion><![CDATA[Esta pregunta busca explorar la importancia que tiene el carnaval en la cultura popular, el arraigo y el sentido que los pueblos otorgan a esta manifestación cultural. El carnaval sirve como válvula de escape a las tensiones sociales. Por unos días el rígido y excluyente orden social se altera y se da licencia para las transgresiones que normalmente no se permiten. ]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Cómo surge la música vallenata?]]></enunciado>
+      <explicacion><![CDATA[La pregunta busca estimular la indagación acerca del origen de la música vallenata, relacionado con los juglares que iban de pueblo en pueblo del Caribe llevando y trayendo noticias o razones; así mismo, se relaciona con los cantos campesinos que acompañaban las labores del campo, especialmente la ganadería. Inicialmente se usaban instrumentos de cuerda y luego se incorporó el acordeón y se consolidaron los festivales musicales.]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen><![CDATA[Vallenatos.jpeg]]></imagen>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Cómo surge y se expande por el continente la cumbia?]]></enunciado>
+      <explicacion><![CDATA[La pregunta busca reconocer la importancia de la cumbia para la identidad cultural colombiana, como música de profunda raigambre social y multiétnica en nuestro país. Así mismo, este género musical se expandió por todo el continente latinoamericano, donde es apropiado y reconocido desde México hasta la Argentina. ]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen><![CDATA[cumbia.jpg]]></imagen>
+      <ampliacion><![CDATA[cumbia.jpg]]></ampliacion>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Busca la orientación de tu profesor o profesora de literatura o español para encontrar información sobre Andrés Caicedo y escribe una breve biografía sobre este escritor.]]></enunciado>
+      <explicacion><![CDATA[Esta pregunta busca reconocer la figura de Andrés Caicedo como escritor y cineasta de vanguardia, que a pesar de su corta vida, logró dejar una huella muy profunda en la literatura y la historia del cine colombiano. Su obra más conocida, “Que viva la música”, relata la manera como la música salsa sale de los barrios bajos de la ciudad de Cali para ingresar a los clubes y ganar el gusto de la burguesía caleña en la década de los años sesenta y setenta. ]]></explicacion>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+  </preguntas>
+</motor>

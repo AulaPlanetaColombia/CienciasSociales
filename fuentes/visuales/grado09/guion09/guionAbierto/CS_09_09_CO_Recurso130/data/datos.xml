@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="101" clase="a" aprid="m101a">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Refuerza tu aprendizaje: El conflicto armado y los procesos de paz</titulo>
+    <volumen/>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia/>
+    <motor/>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Lee con atención y responde las siguientes preguntas. Si es necesario envíalas por correo electrónico o entrégalas por escrito a tu profesor.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="10">
+    <pregunta>
+      <enunciado><![CDATA[Investiga acerca de las guerrillas liberales que surgieron en Colombia a mediados del siglo XX. ¿Por qué surgieron? ¿Qué relación mantenían con la dirigencia liberal y cómo se relacionan con el surgimiento del Frente Nacional?]]></enunciado>
+      <explicacion><![CDATA[La historiografía colombiana establece por lo menos tres razones para el surgimiento de las guerrillas liberales: 1. La reacción del pueblo liberal ante la muerte de su caudillo Jorge Eliécer Gaitán. 2. La represión conservadora contra los liberales en campos y ciudades. 3. El conflicto agrario latente desde años atrás y que enfrentaba a campesinos y colonos con hacendados. ]]></explicacion>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿En qué consistió el proceso de amnistía que ofreció el General Gustavo Rojas Pinilla para poner fin a la llamada "época de la Violencia"?]]></enunciado>
+      <explicacion><![CDATA[La amnistía del General Rojas Pinilla incluyó tanto a las guerrillas como a las fuerzas de Estado involucradas en acciones bélicas que excedieron el uso de la fuerza. ]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo><![CDATA[M]]></tipo>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Qué papel jugó la Alianza para el Progreso, como parte de la estrategia norteamericana contrainsurgente en América Latina? ]]></enunciado>
+      <explicacion><![CDATA[La pregunta busca que los estudiantes reconozcan en Alianza para el Progreso una manera de evitar el surgimiento de movimientos armados en latinoamerica, al estilo del que llevó al poder la Revolución Cubana. ]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Cómo se relacionan el problema agrario y la "Operación Marquetalia", con el surgimiento de la guerrilla de las FARC?.]]></enunciado>
+      <explicacion><![CDATA[Las Farc surgen en el año 1964 a partir de una articulación de diferentes guerrillas campesinas de origen liberal que hacían frente común contra los gobiernos conservadores (primero) y del Frente Nacional (después), en departamentos del centro sur del país: Tolima, Huila y Cauca, entre las cordilleras Central y Oriental. Es una guerrilla de origen campesino que busca responder al problema agrario y por eso su proclama inicial se denomina “Programa agrario de los guerrilleros de las Farc”. ]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Investiga ¿Quién fue Camilo Torres Restrepo y por qué su nombre se asocia con la guerrilla del ELN?]]></enunciado>
+      <explicacion><![CDATA[Camilo Torres fue un sacerdote bogotano que en los años sesenta logró gran liderazgo político nacional debido a su posición crítica y de izquierda. Simbolizó la relación entre el catolicismo de base popular, con las ideas socialistas y de izquierda. Cuando en 1965 sintió que la persecución del Estado estaba cerca, se incorporó a la guerrilla del ELN en Santander. Murió en su primer combate en 1966.]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Cuáles fueron los aspectos que llevaron al fracaso del proceso de paz durante el gobierno de Belisario Betancur?]]></enunciado>
+      <explicacion><![CDATA[Se busca que el estudiante retome como referente los acuerdos de Corinto y el incumplimiento de los mismos.]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[ ¿Por qué la Unión Patriótica, partido político surgido del proceso de paz del gobierno de Belisario Betancur, fue víctima de un genocidio político?]]></enunciado>
+      <explicacion><![CDATA[Al resolver esta pregunta, se espera que el estudiante haga un rastreo del origen de la Unión Patriótica y su lugar dentro del conflicto colombiano.]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Qué pasó en las elecciones de 1970? ¿Por qué dieron origen al surgimiento del M-19?]]></enunciado>
+      <explicacion><![CDATA[En las elecciones del 19 de abril de 1970 formalmente salió electo Misael Pastrana, del Frente Nacional, como presidente de Colombia. Sin embargo, la noche de las elecciones los primeros resultados daban ganador al candidato opositor Gustavo Rojas Pinilla. Se dijo que hubo fallos eléctricos y se detuvo el escrutinio hasta el día siguiente cuando salieron los resultados en sentido contrario. El M-19 surgió de las juventudes que apoyaban a Rojas Pinilla y consideraron que hubo fraude. ]]></explicacion>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Cuál fue el resultado de los diálogos de paz entre las Farc y el gobierno colombiano en la región del Caguán, durante el gobierno Pastrana?]]></enunciado>
+      <explicacion><![CDATA[ La pregunta apunta a que el estudiante concluya que los diálogos del Caguán resultaron fallidos y que el conflicto con este grupo armado continuó vivo.]]></explicacion>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿De qué manera el “Estatuto de Seguridad”, durante el gobierno de Turbay Ayala, sirvió como estrategia estatal para la lucha contraguerrillera?]]></enunciado>
+      <explicacion><![CDATA[La Constitución colombiana de la época contemplaba el “estado de sitio”, que permitía al presidente limitar algunos derechos constitucionales y expedir leyes transitorias para enfrentar amenazas. Así, Turbay expidió el “Estatuto de seguridad” que otorgaba grandes poderes a los militares para investigar, allanar, perseguir y juzgar civiles, al tiempo que limitaba las posibilidades de defensa de los acusados. ]]></explicacion>
+      <nivel><![CDATA[1]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+  </preguntas>
+</motor>
