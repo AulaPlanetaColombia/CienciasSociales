@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f10b">
 <main mode="f10b" title="La Conquista del territorio colombiano">
-<tf><![CDATA[<p><span style="font-size:8px"><img alt="" src="data/imagenes/cs_07_03_rec270_img01.jpg" style="height:360px; width:475px" /></span></p>
+<tf><![CDATA[<p style="text-align: center;"><img alt="" src="data/imagenes/cs_07_03_rec270_img01.jpg" style="height:365px; width:273px" /></p>
 ]]></tf>
 </main>
 <selection title="Costa Caribe" title2="Costa Caribe" bkclass="">
@@ -57,22 +57,19 @@
 	<definition>
 		<title>Fundación</title>
 		<def><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Fundaci&oacute;n:</strong><br />
-durante el proceso de conquista del territorio americano, los <strong>conquistadores espa&ntilde;oles</strong> tuvieron la potestad, brindada por la <strong>Corona</strong> en <strong>c&eacute;dulas reales</strong> y <strong>capitulaciones</strong>, para fundar asentamientos nuevos o superpuestos en los poblados ind&iacute;genas que encontraban a su paso.&nbsp;</span></span></p>
-]]></def>
+durante el proceso de conquista del territorio americano, los <strong>conquistadores espa&ntilde;oles</strong> tuvieron la potestad, brindada por la <strong>Corona</strong> en <strong>c&eacute;dulas reales</strong> y <strong>capitulaciones</strong>, para fundar asentamientos nuevos o superpuestos en los poblados ind&iacute;genas que encontraban a su paso.&nbsp;</span></span></p>]]></def>
 	</definition>
 	<definition>
 		<title>Exploración</title>
 		<def><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Exploraci&oacute;n:</strong><br />
-la principal tarea de los <strong>conquistadores espa&ntilde;oles</strong>, y la que m&aacute;s esfuerzo requer&iacute;a, era la de explorar los nuevos territorios, dar cuenta a la <strong>Corona</strong> de todo cuanto observaban pues de esta manera inventariaban las nuevas posesiones del <strong>Imperio Espa&ntilde;ol</strong>.</span></span></p>
-]]></def>
+la principal tarea de los <strong>conquistadores espa&ntilde;oles</strong>, y la que m&aacute;s esfuerzo requer&iacute;a, era la de explorar los nuevos territorios, dar cuenta a la <strong>Corona</strong> de todo cuanto observaban pues de esta manera inventariaban las nuevas posesiones del <strong>Imperio Espa&ntilde;ol</strong>.</span></span></p>]]></def>
 	</definition>
 	<definition>
 		<title>Adelantado</title>
 		<def><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Adelantado:</strong><br />
 este era el <strong>t&iacute;tulo honor&iacute;fico</strong> que reconoc&iacute;a la <strong>Corona</strong> espa&ntilde;ola a los comandantes de las expediciones mar&iacute;timas que part&iacute;an hacia Am&eacute;rica. Se les conced&iacute;a de antemano el gobierno&nbsp;y posesi&oacute;n de las tierras&nbsp;que descubrieran y conquistaran, as&iacute; como de sus habitantes y de las riquezas que all&iacute; encontraran.</span></span></p>
 
-<p>&nbsp;</p>
-]]></def>
+<p>&nbsp;</p>]]></def>
 	</definition>
 </selection>
 </engine>
