@@ -4,7 +4,7 @@
 </main>
 <sections>
 <section i="0" star="false" hasSubsections="false">
-<menuImage path="" border="0">
+<menuImage path="reyescatolicos2.jpg" border="0">
 <title><![CDATA[Unificación del Reino de Castilla y Aragón]]></title>
 </menuImage>
 <pages>
@@ -25,7 +25,7 @@
 </page>
 </pages>
 </section><section i="0" star="false" hasSubsections="false">
-<menuImage path="" border="0">
+<menuImage path="reconquista.jpg" border="0">
 <title><![CDATA[Expulsión de los musulmanes]]></title>
 </menuImage>
 <pages>
@@ -43,23 +43,37 @@
 </page>
 </pages>
 </section><section i="0" star="false" hasSubsections="false">
-<menuImage path="" border="0">
+<menuImage path="000JYU01.jpg" border="0">
 <title><![CDATA[Comercio marítimo]]></title>
 </menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Comercio marítimo</title>
+<description><![CDATA[<p style="text-align: justify;">El <strong>comercio mar&iacute;timo</strong> que Espa&ntilde;a entabl&oacute; con las colonias de Am&eacute;rica&nbsp;favoreci&oacute; el desarrollo de la <strong>burgues&iacute;a</strong> y con esta, de la <strong>econom&iacute;a capitalista</strong> que le gener&oacute; abundantes riquezas, gracias al <strong>monopolio comercial</strong>.</p>
+
+<p style="text-align: justify;">Este comercio&nbsp;ultramarino se vio constantemente afectado por los ataques de <strong>piratas y corsarios ingleses, franceses y holandeses</strong>. Del mismo modo el <strong>contrabando</strong> se volvi&oacute; una pr&aacute;ctica com&uacute;n para evadir los impuestos establecidos por la corona a trav&eacute;s de la <strong>Casa de Contrataci&oacute;n</strong>.</p>
+]]></description>
+<images>
+<image path="0008JY01.jpg" border = "0" pathbig="0008JY01.jpg">
+<title><![CDATA[El comercio marítimo con las colonias favoreció el desarrollo del capitalismo en los países con mayor tráfico de ultramar]]></title>
+</image>
+</images>
+</page>
+</pages>
 </section><section i="0" star="false" hasSubsections="false">
-<menuImage path="" border="0">
+<menuImage path="0008ST01.jpg" border="0">
 <title><![CDATA[Acumulación de riquezas]]></title>
 </menuImage>
 <pages>
 <page i="0" visible="true" color="">
 <title>Acumulación de riquezas</title>
-<description><![CDATA[<p style="text-align: justify;">A partir de&nbsp;la anexi&oacute;n de los territorios americanos el reino de Espa&ntilde;a se convirti&oacute; en un enorme <strong>imperio</strong> cuya fuerza radicaba especialmente en las riquezas obtenidas de las colonias. Durante el gobierno de <strong>Carlos I</strong> de Espa&ntilde;a, heredero de los reyes cat&oacute;licos, se pod&iacute;a afirmar que en este imperio &quot;jam&aacute;s se pon&iacute;a el sol&quot;.</p>
+<description><![CDATA[<p style="text-align: justify;">A partir de&nbsp;la anexi&oacute;n de los territorios americanos el reino de Espa&ntilde;a se convirti&oacute; en un enorme <strong>imperio</strong> cuya fuerza radicaba especialmente en las riquezas obtenidas de las colonias. Durante el gobierno de <strong>Carlos I</strong> de Espa&ntilde;a, heredero de los reyes cat&oacute;licos, se pod&iacute;a afirmar que en este imperio <strong>&quot;jam&aacute;s se pon&iacute;a el sol&quot;</strong>.</p>
 
-<p style="text-align: justify;">Las riquezas de Am&eacute;rica fueron distribuidas comercialmente por todo el mediterr&aacute;neo en&nbsp;&eacute;pocas de <strong>Felipe II</strong> y le permitieron a Espa&ntilde;a sostener enfrentamientos b&eacute;licos con varias&nbsp;potencias europeas y malgastar la fortuna con suntuosidades, lo que, sin embargo, degener&oacute; en la crisis econ&oacute;mica que conducir&iacute;a a la decadencia del imperio.</p>
+<p style="text-align: justify;">Las riquezas de Am&eacute;rica fueron distribuidas comercialmente por todo el Mediterr&aacute;neo durante el reinado&nbsp;de <strong>Felipe II</strong> y le permitieron a Espa&ntilde;a sostener enfrentamientos b&eacute;licos con varias&nbsp;potencias europeas y malgastar la fortuna con suntuosidades, lo que, sin embargo, degener&oacute; en la crisis econ&oacute;mica que conducir&iacute;a a la decadencia del imperio.</p>
 ]]></description>
 <images>
-<image path="" border = "0" pathbig="">
-<title><![CDATA[Carlos I de España]]></title>
+<image path="000O9501.jpg" border = "0" pathbig="000O9501.jpg">
+<title><![CDATA[Felipe II, ca. 1628-1629. Pieter Paul Rubens]]></title>
 </image>
 <image path="" border = "0" pathbig="">
 <title><![CDATA[Felipe II de España]]></title>

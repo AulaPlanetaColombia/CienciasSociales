@@ -2,11 +2,10 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="CS_07_05_CO">
 <libroTitulo>El colonialismo en América</libroTitulo>
 <seccion1 id="S1_CS_07_05_CO_B6125336601F4F29BFB6CE6B50C7B8F4">
-<seccion1Titulo>Falta Título</seccion1Titulo>
+<seccion1Titulo>Los tipos de colonización</seccion1Titulo>
 <seccion1Texto>
 <p>Al emplear la palabra <negrita>“colonia”</negrita>, se suele hablar
 de dos tipos de asentamientos de colonos europeos en territorios por
@@ -17,25 +16,26 @@ un tiempo en la costa y toda su actividad se concentraba en las relaciones
 comerciales de compra y venta con el interior de la región. Este era
 el caso de las colonias portuguesas, holandesas, inglesas y francesas
 en <negrita>Asia</negrita>, cuyos comerciantes debían tratar con autoridades
-político-administrativas locales muy poderosas.</p>
+político-administrativas locales muy poderosas<enlace
+destino="http://www.google.com.co"> [VER]</enlace>.</p>
 <p>Por su parte, en <negrita>África</negrita> también se establecieron
 este tipo de colonias, pero la razón, en este caso, no era la incapacidad
 ni el poco interés de enfrentar a los poderes locales, sino el temor
 a contraer enfermedades tropicales, que podían ser mortales para los
 foráneos.</p>
-<imagen src="CS_07_05_CO_IMG01_small.jpg">
+<recuerda><recuerdaTexto>
 <p>Entre los siglos XVI y XVII España y Portugal fueron los grandes
 exploradores de la época y, en esa medida, los que abrieron nuevas
 rutas comerciales a través de los océanos.</p>
-</imagen>
+</recuerdaTexto></recuerda>
 <p>Ahora bien, en el norte del continente americano el control ya
 no era solo por el comercio, sino por la obtención de ciertos productos
 agrícolas, como el algodón, el tabaco y el azúcar, y para esto las
 compañías inglesas establecieron colonias de plantaciones en aquellos
-lugares en los que vieron que era posible que los europeos se iban
-a poder adaptar, y en los que era viable el comercio, es decir, lugares
-que tuviesen un fácil acceso a las rutas comerciales del Atlántico.
-Esto mismo se dio en algunas islas del Caribe, colonizadas por España,
+lugares en los que vieron que era posible que los europeos se podrían
+adaptar, y en los que era viable el comercio, es decir, lugares que
+tuviesen un fácil acceso a las rutas comerciales del Atlántico. Esto
+mismo se dio en algunas islas del Caribe, colonizadas por España,
 Francia o Inglaterra, y en la costa septentrional del Brasil, colonizada
 por los portugueses.</p>
 <p>El segundo tipo de colonia fue la de <negrita>poblamiento</negrita
@@ -58,15 +58,19 @@ de las regiones, con el tiempo la <negrita>colonización comercial</negrita
 que establecer estructuras político-administrativas para tener un
 cierto control de aquellos territorios que les proporcionaban tantas
 ganancias.</p>
-<p>Se configuran, pues, diferentes órdenes coloniales, lo cual significa
+<p>Se configuraron, pues, diferentes órdenes coloniales, lo cual significó
 distintas formas de organización económica, política, social y cultural,
 según el tipo de colonia y la relación que tenían con la metrópoli.</p>
 <seccion2 id="S2_CS_07_05_CO_24B86D7AC64D402F876C99A5E3423BBG">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-</seccion2Texto></seccion2></seccion1Texto></seccion1><seccion1
-id="S1_CS_07_05_CO_F3414B12780E41C18C1B16AE7D19DA7C">
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso240&amp;IdRecurso=RES-3998247CE4E840AF940AFC48029CFA9A"
+>Refuerza tu aprendizaje: Los tipos de colonización</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_05_CO_F3414B12780E41C18C1B16AE7D19DA7C">
 <seccion1Titulo>Las colonias de España</seccion1Titulo>
 <seccion1Texto>
 <p>A medida que se fue dando la Conquista, la reina Isabel de Castilla
@@ -74,7 +78,7 @@ y Fernando de Aragón se enfrentaron a la tarea de cómo incorporar
 el <negrita>Nuevo Mundo</negrita> a la civilización ibérica y europea,
 dado que tenía características particulares: una población indígena,
 grandes recursos económicos y una gran extensión territorial.</p>
-<imagen src="CS_07_05_CO_IMG02_small.jpg">
+<imagen ampliable="no" src="CS_07_05_CO_IMG02_small.jpg">
 <p>Rutas comerciales de la América española. La comunicación con las
 Indias españolas se mantuvo, durante el siglo XVI, a través de rutas
 marítimas y terrestres.</p>
@@ -153,8 +157,8 @@ al nuevo orden, que se traducía en una nueva lengua, una nueva religión,
 nuevas costumbres, nuevas leyes. Entre otras cosas, estaban obligados
 a pagar tributo, a cumplir con el trabajo obligatorio de la mita y
 a formar parte de una encomienda si así lo disponía la Corona. Fueron
-la  Eprincipal mano de obra agrícola y minera entre los siglos XVI
-y XVII.</listaElemento>
+la principal mano de obra agrícola y minera entre los siglos XVI y
+XVII.</listaElemento>
 </listaSinNumerar>
 <imagen src="CS_07_05_CO_IMG05_small.jpg">
 <p>(<cursiva>Las castas: de indio y tornatrás, lobo</cursiva> (s.
@@ -216,47 +220,44 @@ id="S2_CS_07_05_CO_522CB39A35FD400096550F9F128F30B0">
 <seccion2Texto>
 <p>La economía colonial se caracterizó por ser una economía <negrita
 >extractiva de materias primas</negrita>, especialmente mineras, de
-oro y de plata. Paralela a esta se desarrolló la agricultura, la ganadería
-y el comercio. Una economía en la que la Corona tenía el monopolio
-comercial de la producción del tabaco y del azúcar, y prohibió la
-producción de vino y aceite de oliva en las colonias. Una economía
-en la que se estableció un sistema de explotación de la mano de obra
-indígena, a través de la <negrita>encomienda</negrita>, el <negrita
->repartimiento</negrita> y la <negrita>mita</negrita>, y de la mano
-de <negrita>obra negra esclava</negrita><enlace
+oro y de plata. Paralela a esta se desarrollaron la agricultura, la
+ganadería y el comercio. La Corona tenía el monopolio comercial de
+la producción del tabaco y del azúcar, y prohibió la producción de
+vino y aceite de oliva en las colonias. Se estableció un sistema de
+explotación de la mano de obra indígena, a través de la <negrita>encomienda</negrita
+>, el <negrita>repartimiento</negrita> y la <negrita>mita</negrita
+>, y de la mano de <negrita>obra negra esclava</negrita><enlace
 destino="https://sites.google.com/site/260americacolonial/la-economia-colonial/sistemas-de-trabajo-indigena/la-mita"
 > [VER]</enlace>.</p>
-<imagen src="CS_07_05_CO_IMG07_small.jpg">
+<imagen ampliable="no" src="CS_07_05_CO_IMG07_small.jpg">
 <p>Zonas de conquista y explotación en la América colonial. Rutas
 marítimas de las distintas expediciones colonizadoras a lo largo del
 continente americano.</p>
 </imagen>
 <p>Entre los siglos XVI y XVII, la <negrita>encomienda</negrita> reguló
 la fuerza de trabajo y la distribución de la mano de obra indígena.
-En concreto, la encomienda era una institución a través de la cual
-la Corona, a pesar de considerar a los indígenas como sus súbditos
-y, por lo tanto, personas libres, le entregaba a un español cierto
-número de nativos para que aquel se aprovechara de su trabajo y de
-los tributos que debían pagarle. A cambio, el español tenía la obligación
-de garantizar su evangelización.</p>
-<p>Es importante anotar que la encomienda no implicaba la propiedad
-del encomendero sobre los indígenas, así que cuando este moría la
-encomienda regresaba a la Corona, que podía entregarla a un nuevo
-encomendero<enlace
+Era una institución a través de la cual la Corona, a pesar de considerar
+a los indígenas como sus súbditos y, por lo tanto, personas libres,
+le entregaba a un español cierto número de nativos para que aquel
+se aprovechara de su trabajo y de los tributos que debían pagarle.
+A cambio, el español tenía la obligación de garantizar su evangelización.</p>
+<p>La encomienda no implicaba la propiedad del encomendero sobre los
+indígenas, así que cuando este moría la encomienda regresaba a la
+Corona, que podía entregarla a un nuevo encomendero<enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=559903&amp;ruta=Buscador"
 > [VER]</enlace>.</p>
-<imagen src="CS_07_05_CO_img_08_small.jpg">
+<imagen src="CS_07_05_CO_IMG08_small.jpg">
 <p>(<cursiva>La primera misa en América</cursiva> (1805), Ph. Blanchard.
 Museo de Bellas Artes, Dijon, Francia). Tras las campañas de exploración
 y conquista militar, la tarea de evangelización recayó sobre las órdenes
 religiosas.</p>
 </imagen>
-<p>Paralelamente a la encomienda funcionó el sistema del repartimiento,
-cuya finalidad era proveer de mano de obra a las explotaciones agrícolas
-y mineras, pero también para el trabajo en obras públicas. La Corona
-asignaba a cierto número de indígenas, quienes por una paga ínfima
-debían trabajar para un español por una temporada, y después de esta
-regresaban a sus resguardos.</p>
+<p>Paralelamente a la encomienda funcionó el sistema del <negrita
+>repartimiento</negrita>, cuya finalidad era proveer de mano de obra
+a las explotaciones agrícolas y mineras, pero también para el trabajo
+en obras públicas. La Corona asignaba a cierto número de indígenas,
+quienes por una paga ínfima debían trabajar para un español por una
+temporada, y después de esta regresaban a sus resguardos.</p>
 <p>La <negrita>mita</negrita> fue una institución que los españoles
 adoptaron, puesto que era un sistema que utilizaban ya las comunidades
 indígenas desde antes de su llegada. Esta facilitó que hubiese mano
@@ -275,13 +276,14 @@ y carentes de trabajadores agrícolas y mineros.</p>
 <destacadoTexto>
 <p>La palabra <cursiva>mit’a</cursiva> en quechua significa turno,
 semana de trabajo.</p>
-<p>Durante el Imperio inca la construcción de caminos, puentes, templos,
+<p>En el Imperio inca la construcción de caminos, puentes, templos,
 edificios, entre otros, exigía del trabajo de muchos hombres. La forma
 de contar con la mano de obra necesaria para esas labores fue estableciendo
 turnos de trabajo, a los que estaban obligados todos los varones aptos.</p>
 <p>Los turnos podían durar días o semanas, y en ese tiempo el Imperio
 velaba por el bienestar de aquellos hombres, quienes no recibían ningún
-pago por su trabajo, pues este era su tributo al Imperio.</p>
+pago por su trabajo, pues este era su <negrita>tributo al Imperio</negrita
+>.</p>
 </destacadoTexto></destacado><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso040&amp;IdRecurso=RES-717E9599BE524F59B35507B9C21522E9"
@@ -289,18 +291,17 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso040&amp;IdRecurso=RES-717E95
 </practica>
 <p>Ante la necesidad de suplir, en parte, la mano de obra indígena
 por otra, la Corona española permitió, a comienzos del siglo XVI,
-la migración de esclavos africanos. El primer gran número de esclavos
-que arribó a América llegó a Santo Domingo para trabajar en la industria
-azucarera, justo en el momento en el que los dominicos, concretamente
-fray Bartolomé de las Casas, denunciaban la explotación de los indígenas<enlace
+la migración de <negrita>esclavos africanos</negrita>. El primer gran
+número de esclavos que arribó a América llegó a Santo Domingo para
+trabajar en la industria azucarera, justo en el momento en el que
+los dominicos, concretamente fray <negrita>Bartolomé de las Casas</negrita
+>, denunciaban la explotación de los indígenas<enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=61312&amp;ruta=Buscador"
 > [VER]</enlace>.</p>
-<p>Además, en el imaginario de los europeos, existía la idea de que
-un hombre negro era capaz de hacer el trabajo de cinco nativos, lo
-cual que con la traída de algunos miles de ellos, la economía en las
-colonias mejoraría sustancialmente, así que nadie se opuso a que se
-trajeran esclavos al Nuevo Mundo.</p>
-<imagen src="CS_07_05_CO_IMG09_small.jpg">
+<p>Además, existía la idea de que un hombre negro era capaz de hacer
+el trabajo de cinco nativos, así que nadie se opuso a que se trajeran
+miles de esclavos al Nuevo Mundo.</p>
+<imagen ampliable="no" src="CS_07_05_CO_IMG09_small.jpg">
 <p>(<cursiva>Fray Bartolomé de las Casas</cursiva>, Félix Parra. Museo
 Nacional de Arte, México D.F.) Bartolomé de las Casas, junto al también
 dominico Antón de Montesinos, desde sus escritos y su labor pastoral
@@ -311,36 +312,28 @@ que los nativos eran seres humanos con la misma dignidad y derechos
 que los europeos, por lo que era ilegítimo someterlos a esclavitud
 y malos tratos.</p>
 </imagen>
-<p>La trata de esclavos llegó a ser un negocio que dejaba tantas ganancias,
-que muchos quisieron participar en él; así que en el siglo XVI portugueses,
-españoles e ingleses dominaron este comercio. Entre 1595 y 1600 los
-barcos esclavistas trajeron a América, de manera legal, cerca de 25
-338 esclavos, y la Corona española durante el siglo XVI concedió 120
-000 licencias más.</p>
+<p>La <negrita>trata de esclavos</negrita> llegó a ser un <negrita
+>negocio</negrita> que dejaba tantas ganancias, que muchos quisieron
+participar en él; así que en el siglo XVI portugueses, españoles e
+ingleses dominaron este comercio. Entre 1595 y 1600 los barcos esclavistas
+trajeron a América, de manera legal, cerca de 25 338 esclavos, y la
+Corona española durante el siglo XVI concedió 120 000 licencias más.</p>
 <p>A los esclavos se los destinó como mano de obra para las plantaciones
-de azúcar y algodón, y para el trabajo en las minas. En ambas tareas,
-hombres y mujeres fueron sometidos a largas jornadas de trabajo y
-a castigos severos si no cumplían con su labor y con todo aquello
-que se les mandara.</p>
+de azúcar y algodón, y para el trabajo en las minas.</p>
 </seccion2Texto></seccion2><seccion2
 id="S2_CS_07_05_CO_732AB16BE87B4E13BBEFB1A943CB3797">
 <seccion2Titulo>Organización político-administrativa</seccion2Titulo>
 <seccion2Texto>
-<p>La Corona española, al no considerar a las Indias como colonias
-sino como reinos (Reino de Nueva España, Reino del Perú o de Nueva
-Castilla, Nuevo Reino de Granada), reprodujo en el Nuevo Mundo la
-organización político-administrativa de la Península: un conjunto
-de reinos gobernados por un único rey.</p>
+<p>La Corona española reprodujo en el Nuevo Mundo la organización
+político-administrativa de la Península: un conjunto de reinos gobernados
+por un único rey.</p>
 <p>Por otra parte, el papa Alejandro VI firmó en 1493 una bula con
 la que otorgaba a Castilla el gobierno y la jurisdicción de las tierras
 descubiertas, de tal modo que las Indias se convirtieron en propiedad
 personal del rey. Por ello, en la administración territorial del Nuevo
-Mundo, no intervinieron las instituciones o los organismos que ya
-existían en la Península, sino que se hizo a partir de instituciones
-creadas y controladas por el rey. El régimen de gobierno estaba, pues,
-centralizado, y los territorios eran dirigidos y administrados desde
-Castilla.</p>
-<imagen src="CS_07_05_CO_IMG10_small.jpg">
+Mundo, el régimen de gobierno estaba, centralizado, y los territorios
+eran dirigidos y administrados desde Castilla.</p>
+<imagen ampliable="no" src="CS_07_05_CO_IMG10_small.jpg">
 <p>(Alejandro VI. Detalle de <cursiva>La Virgen de los encomendados</cursiva
 >, Giovanni Antonio de Roma. Museo Diocesano de Arte Sacro, Orte,
 Lacio, Italia). Rodrigo de Borja era el verdadero nombre del Papa
@@ -359,24 +352,18 @@ rápido, y esto chocaba por completo con los propósitos de la Corona,
 o bien porque los juristas que pensaban y escribían dichas normas
 desconocían absolutamente la realidad de las <negrita>Indias</negrita
 >.</p>
-<p>A causa de esta brecha entre las intenciones de la Corona y la
-realidad que se vivía en los territorios americanos, surgió –y con
-los años creció– la desconfianza, lo cual hizo que progresivamente
-se fueran estableciendo <negrita>organismos político-administrativos</negrita
-> complejos y más centralizados, con el fin de garantizar una administración
-eficiente.</p>
 <seccion3 id="S3_CS_07_05_CO_0B93F82B6CED44CC8E2DB0EA76F16157">
 <seccion3Titulo>Instituciones administrativas con sede en España</seccion3Titulo>
 <seccion3Texto>
 <p><negrita>La Casa de Contratación</negrita></p>
 <p>El 20 de enero de 1503 una real disposición creó la Casa de Contratación
-con sede en Sevilla, con el fin de ocuparse de todos los asuntos comerciales
-del Nuevo Mundo. En 1790 dejó de existir, porque por varios años comenzó
-a actuar a favor de los intereses particulares de los comerciantes
-y no de la Corona<enlace
+con sede en Sevilla, con el fin de ocuparse de todos los <negrita
+>asuntos comerciales del Nuevo Mundo</negrita>. En 1790 dejó de existir,
+porque por varios años comenzó a actuar a favor de los intereses particulares
+de los comerciantes y no de la Corona<enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=553157&amp;ruta=Buscador"
 > [VER]</enlace>.</p>
-<imagen src="CS_07_05_CO_IMG11_small.jpg">
+<imagen src="CS_07_05_CO_IMG11_small.png">
 <p>Origen y características de la Casa de Contratación (1503-1790).</p>
 </imagen>
 <p>Sus funciones eran las de organizar, administrar y controlar el
@@ -396,13 +383,15 @@ una cartografía.</listaElemento>
 (1516-1556), se hizo necesaria la creación (1524) de un consejo que
 se ocupara exclusivamente de los asuntos americanos<enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=553255&amp;ruta=Buscador"
-> [VER]</enlace>. </p>
-<imagen src="CS_07_05_CO_IMG12_small.jpg">
-<p>Origen y características de la Casa de Contratación (1503-1790).</p>
+> [VER]</enlace>.</p>
+<imagen src="CS_07_05_CO_IMG12_small.png">
+<p>Origen y características de la Casa de Contratación (1503-1790).</p><?Pub
+Caret -2?>
 </imagen>
-<p>El Consejo de Indias era el principal órgano jurídico, político
-y administrativo de las colonias. Sus funciones eran legislativas,
-administrativas y judiciales, las cuales se concretaban en:</p>
+<p>El Consejo de Indias era el <negrita>principal órgano jurídico,
+político y administrativo de las colonias</negrita>. Sus funciones
+eran legislativas, administrativas y judiciales, las cuales se concretaban
+en:</p>
 <listaSinNumerar>
 <listaElemento>Organizar la formación de las audiencias.</listaElemento>
 <listaElemento>Administrar de manera general y particular las colonias.</listaElemento>
@@ -414,32 +403,22 @@ en América.</listaElemento>
 <listaElemento>Conceder encomiendas.</listaElemento>
 <listaElemento>Promulgar leyes administrativas.</listaElemento>
 </listaSinNumerar>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso050&amp;IdRecurso=RES-BE75926E0E424EF6B25FDA1886293772"
->Las instituciones administrativas en América</enlace>
-</practica></seccion3Texto></seccion3><seccion3
+</seccion3Texto></seccion3><seccion3
 id="S3_CS_07_05_CO_0B93F82B6CED44CC8E2DB0EA76F12078">
 <seccion3Titulo>Instituciones administrativas en América</seccion3Titulo>
 <seccion3Texto>
 <p><negrita>De control regional</negrita></p>
-<listaSinNumerar>
-<listaElemento>El <negrita>virreinato</negrita> era una división político-administrativa,
+<p>El <negrita>virreinato</negrita> era una división político-administrativa,
 máxima autoridad en la América hispánica. La cabeza del virreinato
-era el virrey, quien era un hombre de la nobleza española, cercano
-a la Corona y nombrado por el rey. Al comienzo de la Colonia el periodo
-de gobierno de un virrey era hasta el fin de su vida, pero luego este
-mandato se limitó a tres años y más tarde se amplió a cinco. El virrey
-tenía poder sobre los asuntos políticos y administrativos de la región
-que gobernaba. Sus tareas más importantes eran:<listaSinNumerar>
+era el virrey que tenía poder sobre los asuntos políticos y administrativos
+de la región que gobernaba. Sus tareas más importantes eran:</p>
+<listaSinNumerar>
 <listaElemento>Gobernar las provincias donde vivía.</listaElemento>
 <listaElemento>Ser presidente de la audiencia de su distrito y capitán
 general.</listaElemento>
 <listaElemento>Actuar como intermediario entre la Iglesia y la Corona</listaElemento>
-<listaElemento>El virrey no impartía justicia.</listaElemento>
-</listaSinNumerar></listaElemento>
 </listaSinNumerar>
-<imagen src="CS_07_05_CO_IMG13_small.jpg">
+<imagen ampliable="no" src="CS_07_05_CO_IMG13_small.jpg">
 <p>Suramérica inicialmente era un único virreinato, pero con el tiempo
 la Corona española quiso tener más control sobre sus colonias y decidió
 dividir el Virreinato del Perú en tres virreinatos.</p>
@@ -457,14 +436,12 @@ en 1724 y nuevamente creado en 1738. Estaba formado por las audiencias
 de Santa Fe de Bogotá, Venezuela, Quito y Panamá. El <negrita>Virreinato
 del Río de la Plata (1776)</negrita>, que reunió las audiencias de
 Charcas (Alto Perú) y Buenos Aires. El <negrita>Virreinato del Perú</negrita
->, constituido por las audiencias de Lima y Chile<enlace
-destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=10&amp;idpil=VI002106&amp;ruta=Buscador"
-> [VER]</enlace>.</p>
+>, constituido por las audiencias de Lima y Chile.</p>
+<p>La <negrita>Real Audiencia</negrita> era un órgano judicial, el
+máximo tribunal encargado de legislar, administrar y aplicar justicia.
+La formaba un presidente y cierto número de oidores, según la importancia
+del territorio. Sus funciones eran:</p>
 <listaSinNumerar>
-<listaElemento>La <negrita>Real Audiencia</negrita> era un órgano
-judicial, el máximo tribunal encargado de legislar, administrar y
-aplicar justicia. La formaba un presidente y cierto número de oidores,
-según la importancia del territorio. Sus funciones eran:<listaSinNumerar>
 <listaElemento>Ejercer como organismo consultor y fiscalizador de
 los gobernadores y virreyes.</listaElemento>
 <listaElemento>Procesar y juzgar disputas.</listaElemento>
@@ -472,20 +449,21 @@ los gobernadores y virreyes.</listaElemento>
 los funcionarios de las ciudades.</listaElemento>
 <listaElemento>Velar porque se aplicaran las leyes que protegían a
 la población indígena.</listaElemento>
-</listaSinNumerar>En el siglo XVI se crearon las Reales Audiencias
-de Santo Domingo (1526), México (1527), Panamá (1538), Guatemala (1543),
-Lima (1543), Guadalajara (1548), Santa Fe de Bogotá (1548), Charcas
-(1559), Quito (1563) y la de Concepción (1565 hasta 1575). En el siglo
-XVII las de Santiago (1605) y Buenos Aires (1661 hasta 1671). En el
-siglo XVIII se reinstaló la Real Audiencia de Buenos Aires (1783)
-y se formaron las audiencias de Caracas (1786) y de Cuzco (1787).<listaSinNumerar>
+</listaSinNumerar>
+<p>En el siglo XVI se crearon las Reales Audiencias de Santo Domingo
+(1526), México (1527), Panamá (1538), Guatemala (1543), Lima (1543),
+Guadalajara (1548), Santa Fe de Bogotá (1548), Charcas (1559), Quito
+(1563) y la de Concepción (1565 hasta 1575). En el siglo XVII las
+de Santiago (1605) y Buenos Aires (1661 hasta 1671). En el siglo XVIII
+se reinstaló la Real Audiencia de Buenos Aires (1783) y se formaron
+las audiencias de Caracas (1786) y de Cuzco (1787).</p>
+<listaSinNumerar>
 <listaElemento>Las <negrita>visitas</negrita> y los <negrita>juicios
 de residencia</negrita> fueron mecanismos impuestos por la Corona
 para controlar, juzgar y castigar, si era necesario, el desempeño
 administrativo de los funcionarios reales en las colonias. Gracias
 a estos mecanismos disminuyeron los abusos de autoridad y el incumplimiento
 de las normas.</listaElemento>
-</listaSinNumerar></listaElemento>
 </listaSinNumerar>
 <p><negrita>De control local</negrita></p>
 <listaSinNumerar>
@@ -525,6 +503,9 @@ de piratas, como lo fueron La Habana, Venezuela y Guatemala.</listaElemento>
 </listaSinNumerar>
 <practica>
 <enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso050&amp;IdRecurso=RES-BE75926E0E424EF6B25FDA1886293772"
+>Las instituciones administrativas en América</enlace>
+<enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso060&amp;IdRecurso=RES-D873502211EA485B9BBFE74E9E7FDAFC"
 >La progresiva organización política en América</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
@@ -549,20 +530,13 @@ para que otros reinos europeos comenzaran a tener dominio sobre algunas
 regiones del Nuevo Mundo<enlace
 destino="http://www.nationalgeographic.com.es/articulo/historia/grandes_reportajes/7643/armada_invencible.html"
 > [VER]</enlace>.</p>
-<imagen src="CS_07_05_CO_IMG14_small.jpg">
+<imagen src="CS_07_05_CO_IMG14_small.png">
 <p>Página del tratado de paz de Westfalia, que puso fin a la guerra
 de los Treinta Años, 1648.</p>
 </imagen>
 <seccion2 id="S2_CS_07_05_CO_66A1901F43D34BB1B5529339334EE813">
 <seccion2Titulo>Las colonias portuguesas</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<imagen src="CS_07_05_CO_IMG15_small.jpg">
-<p>Carta del Atlas (1563) de Lázaro Luis (Academia de las Ciencias,
-Lisboa, Portugal), que identifica el territorio brasileño con el árbol
-que daba un tinte rojizo (palo brasil), objeto de la incipiente explotación
-colonial y que daría nombre al país.</p>
-</imagen>
 <p>El 7 de junio de 1494 representantes de los reyes de España, <negrita
 >Isabel y Fernando</negrita>, y del rey de Portugal, <negrita>Juan
 II</negrita>, firmaron un compromiso en la localidad de <negrita>Tordesillas</negrita
@@ -570,6 +544,12 @@ II</negrita>, firmaron un compromiso en la localidad de <negrita>Tordesillas</ne
 de conquista del océano Atlántico y del Nuevo Mundo. Sin saberlo aún,
 esa línea le iba permitir a Portugal poseer tierras en una parte de
 Suramérica. </p>
+<imagen ampliable="no" src="CS_07_05_CO_IMG15_small.png">
+<p>Carta del Atlas (1563) de Lázaro Luis (Academia de las Ciencias,
+Lisboa, Portugal), que identifica el territorio brasileño con el árbol
+que daba un tinte rojizo (palo brasil), objeto de la incipiente explotación
+colonial y que daría nombre al país.</p>
+</imagen>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso080&amp;IdRecurso=RES-CEDE1932080C4089AACD639E834531D9"
@@ -586,8 +566,8 @@ la puerta abierta para que <negrita>expediciones francesas</negrita
 a las costas brasileñas en busca de cargamentos de madera; incluso
 instalaron pequeñas factorías con ese propósito. Dichas incursiones
 llevaron finalmente a que la Corona portuguesa tomara posesión de
-aquellas tierras, para tener el control del comercio que de sus recursos
-se hiciera<enlace
+aquellas tierras, para tener el control del comercio que se hiciera
+de sus recursos<enlace
 destino="http://www.artehistoria.com/v2/contextos/6214.htm"> [VER]</enlace
 >.</p>
 <imagen src="CS_07_05_CO_IMG16_small.jpg">
@@ -664,9 +644,9 @@ a la explotación maderera.</listaElemento>
 <listaElemento>En 1532, los portugueses introdujeron en Brasil el
 cultivo de la <negrita>caña de azúcar</negrita>, una planta originaria
 de la India, pero que ellos traían de Nueva Guinea, que se adaptó
-fácil en los lugares donde fue cultivada. La mano de obra que trabajaba
-en la <negrita>zafra</negrita> (cosecha de la caña y fabricación del
-azúcar) era la población indígena, a la cual se esclavizaba.</listaElemento>
+fácilmente en los lugares donde fue cultivada. La mano de obra que
+trabajaba en la <negrita>zafra</negrita> (cosecha de la caña y fabricación
+del azúcar) era la población indígena, a la cual se esclavizaba.</listaElemento>
 </listaSinNumerar>
 <destacado><destacadoTitulo>Origen de la caña de azúcar</destacadoTitulo>
 <destacadoTexto>
@@ -708,7 +688,7 @@ de población negra esclava proveniente de África.</listaElemento>
 destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso100&amp;IdRecurso=RES-102E3EF090184507861E8FA9B39372DC"
 >Las potencias coloniales en América</enlace>
 </practica>
-<imagen src="CS_07_05_CO_IMG20_small.jpg">
+<imagen ampliable="no" src="CS_07_05_CO_IMG20_small.jpg">
 <p>Obtención de diamantes, grabado del siglo XIX (Biblioteca Nacional
 Marciana, Venecia, Italia). Grandes cuadrillas, formadas por decenas
 o cientos de esclavos, explotaban las vetas o los depósitos aluviales
@@ -754,16 +734,16 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso110&amp;IdRecurso=RES-5AD39C
 <seccion2 id="S2_CS_07_05_CO_31C4CD426B0145E3B197DD3B47808C14">
 <seccion2Titulo>Las colonias inglesas</seccion2Titulo>
 <seccion2Texto>
-<p>Entre 1607 y 1732 se establecieron, en la costa atlántica de Norteamérica,
-trece colonias. Las razones por las que llegaron colonos ingleses
-allí fueron varias: encontrar un lugar donde fueran libres para profesar
-su religión, hallar un territorio donde pudiesen, con el tiempo, tener
-mejores condiciones socioeconómicas, o simplemente con el interés
-de abrir nuevos espacios comerciales.</p>
-<p>La Corona inglesa entregó la tarea de la colonización a compañías
-comerciales (la London and Virginia Company y la Plymouth), las que
-a través de folletos difundieron los beneficios económicos que obtendrían
-todos los que migraran a América<enlace
+<p>Entre 1607 y 1732 se establecieron, en la costa atlántica de Norteamérica, <negrita
+>trece colonias</negrita>. Las razones por las que llegaron colonos
+ingleses allí fueron varias: encontrar un lugar donde fueran libres
+para profesar su religión, hallar un territorio donde pudiesen, con
+el tiempo, tener mejores condiciones socioeconómicas, o simplemente
+con el interés de abrir nuevos espacios comerciales.</p>
+<p>La Corona inglesa entregó la tarea de la colonización a <negrita
+>compañías comerciales</negrita> (la London and Virginia Company y
+la Plymouth), las que a través de folletos difundieron los beneficios
+económicos que obtendrían todos los que migraran a América<enlace
 destino="https://elnacimientodeclio.wordpress.com/2013/04/27/sociedad-y-economia-en-las-13-colonias-inglesas-de-norteamerica/"
 > [VER]</enlace>.</p>
 <practica>
@@ -776,14 +756,14 @@ en el nuevo continente estaban allí gracias a grupos de accionistas,
 quienes se ocupaban de proporcionar el dinero y los colonos que iban
 a ocupar las nuevas tierras. En esa medida esas compañías designaban
 al gobernador y decidían la forma de organización de la nueva colonia.</p>
+<p>En ese proceso de colonización también hubo propietarios individuales,
+quienes tuvieron control sobre Maryland, Pennsylvania, Carolina del
+Norte, Carolina del Sur y Georgia.</p>
 <imagen src="CS_07_05_CO_IMG21_small.jpg">
 <p>Evolución de la conquista de América del Norte y América Central.
 Los virreinatos eran unidades político-administrativas creadas por
 la Corona española para asegurar el control de las colonias americanas.</p>
 </imagen>
-<p>En ese proceso de colonización también hubo propietarios individuales,
-quienes tuvieron control sobre Maryland, Pennsylvania, Carolina del
-Norte, Carolina del Sur y Georgia.</p>
 <destacado><destacadoTitulo>Las compañías comerciales inglesas</destacadoTitulo>
 <destacadoTexto>
 <p>Cuando los ingleses se plantearon la posibilidad de colonizar el
@@ -795,7 +775,7 @@ que querían escapar de la persecución religiosa o del hambre.</p>
 muchas) no dependían de la Corona inglesa y eran libres de llevar
 a todo aquel que se aventurara a llegar a América. La Corona les otorgaba
 el monopolio de la colonización de regiones delimitadas previamente
-y el derecho de organizar a los colonos y a las regiones como consideran.</p>
+y el derecho de organizar a los colonos y a las regiones como consideraran.</p>
 </destacadoTexto></destacado><seccion3
 id="S3_CS_07_05_CO_03000A84F956414D98091022989CE6D1">
 <seccion3Titulo>Organización político-administrativa</seccion3Titulo>
@@ -819,7 +799,7 @@ importante de independencia.</listaElemento>
 <listaElemento>La autonomía y la participación cívica fueron elementos
 básicos de la vida colonial de las Trece Colonias inglesas.</listaElemento>
 </listaSinNumerar>
-<imagen src="CS_07_05_CO_IMG22_small.jpg">
+<imagen ampliable="no" src="CS_07_05_CO_IMG22_small.jpg">
 <p>Los primeros migrantes ingleses que llegaron al norte de América
 se establecieron en la costa Atlántica, porque allí no había colonias
 españolas.</p>
@@ -864,7 +844,7 @@ el proceso agrícola eran las mismas familias dueñas de las tierras,
 aunque a veces su trabajo lo apoyaban algunos jornaleros blancos.</p>
 </seccion3Texto></seccion3><seccion3
 id="S3_CS_07_05_CO_03000A84F956414D98091022989CF5B7">
-<seccion3Titulo>Organización social</seccion3Titulo><?Pub Caret 0?>
+<seccion3Titulo>Organización social</seccion3Titulo>
 <seccion3Texto>
 <p>Los primeros grupos que migraron hacia la costa Atlántica de Norteamérica
 eran familias completas que buscaban oportunidades de vida en el Nuevo
@@ -899,10 +879,10 @@ de origen inglés, también los había de <negrita>Holanda</negrita>, <negrita
 >, entre otros países europeos. La razón de esto es que en 1685 hubo
 una masiva inmigración hacia América, concretamente a Pensilvania;
 su fundador, William Penn, permitió la acogida de <negrita>protestantes
-franceses</negrita>, de menonitas</p>
-<p>, <negrita>anabaptistas</negrita> y <negrita>moravos</negrita>,
-procedentes de Suiza, Alemania y Holanda. Para esa misma época también
-migraron familias desde <negrita>Escocia e Irlanda</negrita>.</p>
+franceses</negrita>, de menonitas, <negrita>anabaptistas</negrita
+> y <negrita>moravos</negrita>, procedentes de Suiza, Alemania y Holanda.
+Para esa misma época también migraron familias desde <negrita>Escocia
+e Irlanda</negrita>.</p>
 <p>Los <negrita>esclavos negros</negrita> también se convirtieron,
 a la fuerza, en un grupo grande de inmigrantes en Norteamérica. Estos
 buscaban trabajar en las plantaciones coloniales.</p>
@@ -926,9 +906,7 @@ destino="http://www.iglesiapueblonuevo.es/index.php?codigo=historiap158"
 > [VER]</enlace>.</p>
 <recuerda><recuerdaTexto>
 <p>Hugonote es el nombre con el que los católicos denominaron a los
-franceses que siguieron las doctrinas protestantes calvinistas<enlace
-destino="http://co.tuhistory.com/hoy-en-la-historia/ocurrio-matanza-de-la-noche-de-san-bartolome"
-> [VER]</enlace>.</p>
+franceses que siguieron las doctrinas protestantes calvinistas.</p>
 </recuerdaTexto></recuerda><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso150&amp;IdRecurso=RES-9767203CE7DC4FFA87D51C1C5D6C8F1D"
@@ -948,15 +926,10 @@ destino="http://www.biografiasyvidas.com/biografia/c/colbert.htm"
 organizarlas político-administrativamente; al poco tiempo Canadá fue
 convertida en una provincia de Francia bajo el mandato de un gobernador
 general, quien estaba subordinado al rey y representaba el poder ejecutivo.</p>
-<imagen src="CS_07_05_CO_IMG24_small.jpg">
+<imagen ampliable="no" src="CS_07_05_CO_IMG24_small.jpg">
 <p>Jean-Baptiste Colbert, retrato de la escuela de Philippe de Champaigne,
 s. XVII (Museo de Saint Denis, Reims, Francia).</p>
 </imagen>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso160&amp;IdRecurso=RES-932533B60DEB48A2B24D9ED93E6C910F"
->La colonización francesa en América</enlace>
-</practica>
 <p>Una vez centralizado el gobierno, el territorio fue dividido en <negrita
 >distritos judiciales</negrita> y en <negrita>señoríos</negrita> o
 estados, pequeños territorios que se entregaban en concesión a nobles
@@ -965,7 +938,11 @@ franceses (concesionarios). A su vez, los señoríos se dividieron en <negrita
 > o un <negrita>capitán de milicias</negrita>. Estas autoridades se
 encargaron de reducir al mínimo la libertad y la “democracia” en las
 colonias francesas.</p>
-</seccion3Texto></seccion3><seccion3
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso160&amp;IdRecurso=RES-932533B60DEB48A2B24D9ED93E6C910F"
+>La colonización francesa en América</enlace>
+</practica></seccion3Texto></seccion3><seccion3
 id="S3_CS_07_05_CO_0B93F82B6CED44CC8E2DB0EA76F13245">
 <seccion3Titulo>Organización económica</seccion3Titulo>
 <seccion3Texto>
@@ -1051,17 +1028,20 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_05_CO_Recurso230&amp;IdRecurso=RES-C3C470
 </autoevaluate><enlacesreferencia>
 <enlace
 destino="http://www.rtve.es/alacarta/videos/historia-de-america-latina/historia-america-latina-colonizacion-nueva-sociedad/1804551/"
->Web 01</enlace>
-<enlace destino="http://adhilac.com.ar/?p=2138">Web 02</enlace>
+>Video acerca de la colonización española de América.</enlace>
+<enlace destino="http://adhilac.com.ar/?p=2138">Artículo acerca de
+la historia colonial de Brasil.</enlace>
 <enlace destino="http://www.artehistoria.com/v2/contextos/1586.htm"
->Web 03</enlace>
+>Artículo acerca de la colonización inglesa en Norteamérica.</enlace>
 <enlace
 destino="http://www.panoramas.pitt.edu/content/sobre-la-historia-de-la-ca%C3%B1a-de-az%C3%BAcar-la-esclavitud-y-la-pobreza-del-trabajador-agr%C3%ADcola-la"
->Web 04</enlace>
+>Texto acerca de la esclavitud africana en las plantaciones de caña
+de azúcar de Brasil y las Antillas.</enlace>
 <enlace destino="http://www.artehistoria.com/v2/contextos/1637.htm"
->Web 05</enlace>
-<enlace destino="http://www.um.es/acehum/reflex_1.htm">Web 06</enlace>
+>Artículo acerca de la historia de las Trece Colonias.</enlace>
+<enlace destino="http://www.um.es/acehum/reflex_1.htm">Artículo acerca
+de la historia colonial del actual territorio de los Estados Unidos.</enlace>
 <enlace
 destino="http://www.researchgate.net/publication/265550781_Las_Trece_Colonias_de_Norteamrica_Una_Aproximacin_Histrica_al_Proceso_de_Desarrollo_Econmico_(The_XIII_American_Colonies__A_Historical_Approach_to_the_Process_of_Economic_Development)"
->Web 07</enlace>
+>Documento acerca de la historia económica de las Trece Colonias.</enlace>
 </enlacesreferencia></masinformacion></libro>
