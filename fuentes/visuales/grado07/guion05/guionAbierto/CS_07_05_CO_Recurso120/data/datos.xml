@@ -1,83 +1,146 @@
-<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f7"><main layout="8">
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f7"><main layout="2">
 <title>Inglaterra en el siglo XVI</title>
-<footer>    </footer>
+<footer>    Haz clic en las imágenes</footer>
 </main>
 <sections>
-<section i="0" star="false" hasSubsections="true">
-<menuImage path="00090S01.jpg" border="1">
-<title><![CDATA[Enrique VIII]]></title>
+<section i="0" star="false" hasSubsections="false">
+<menuImage path="CS_07_03_REC120_IMG01.jpg" border="0">
+<title><![CDATA[La administración inglesa]]></title>
 </menuImage>
-<submenu>
-<main layout="0">
-<title>          Consolidación del poder monárquico</title>
-<footer>          Parlamento, nobleza e iglesia en consonancia con el monarca</footer>
-</main>
-<sections>
-<section i="0" star="false" hasSubsections="true">
-<menuImage path="0007QZ01.jpg" border="1">
-<title><![CDATA[Castillo de Windsor y Capilla de San Jorge]]></title>
+<pages>
+<page i="0" visible="true" color="">
+<title>Enrique VIII de Inglaterra</title>
+<description><![CDATA[<ul>
+	<li>
+	<p><span style="font-size:19px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="line-height: 15.36px; white-space: pre-wrap; background-color: rgb(254, 254, 254);">Enrique VIII fue el primer monarca de Inglaterra en romper los lazos con la Iglesia de Roma y en rechazar la autoridad del papa sobre los asuntos concernientes a su matrimonio. </span></span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:19px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="line-height: 15.36px; white-space: pre-wrap; background-color: rgb(254, 254, 254);">Durante su mandato, Enrique VIII realiz&oacute; grandes cambios en la Constituci&oacute;n inglesa, arguyendo el derecho divino de los reyes. Gracias a estos cambios el poder real creci&oacute; considerablemente. </span></span></span></p>
+	</li>
+</ul>
+]]></description>
+<images>
+<image path="CS_07_03_REC120_IMG05n.jpg" border = "0" pathbig="CS_07_03_REC120_IMG05a.jpg">
+<title><![CDATA[Enrique VIII de Inglaterra]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>María I de Inglaterra</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:19px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="line-height: 15.36px; white-space: pre-wrap; background-color: rgb(254, 254, 254);">Mar&iacute;a I era una ferviente cat&oacute;lica, por esta raz&oacute;n, al ser coronada reina, reinstaur&oacute; el poder de la Iglesia de Roma sobre Inglaterra, despu&eacute;s de seis a&ntilde;os de protestantismo bajo el reinado de su hermano Eduardo VI; y devolvi&oacute; la autoridad del papa sobre este territorio. </span></span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:19px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="line-height: 15.36px; white-space: pre-wrap; background-color: rgb(254, 254, 254);">Recibi&oacute; el sobrenombre de Mar&iacute;a la sanguinaria por sus fuertes cacer&iacute;as a los protestantes, que llevaron a casi 300 seguidores a ser quemados en la hoguera durante las llamadas <em>Persecuciones marianas</em>.</span></span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="CS_07_03_REC120_IMG06n.jpg" border = "0" pathbig="CS_07_03_REC120_IMG06a.jpg">
+<title><![CDATA[María I de Inglaterra]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Isabel I de Inglaterra</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:19px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="line-height: 15.36px; white-space: pre-wrap; background-color: rgb(254, 254, 254);">Isabel I, quinta y &uacute;ltima monarca de la dinast&iacute;a Tudor, volvi&oacute; al protestantismo y se estableci&oacute; como la cabeza de la Iglesia de Inglaterra. </span></span></span><br />
+	&nbsp;</li>
+	<li><span style="font-size:19px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="line-height: 15.36px; white-space: pre-wrap; background-color: rgb(254, 254, 254);">La era Isabelina estuvo caracterizada por ser un periodo de estabilidad para la poblaci&oacute;n de Inglaterra, despu&eacute;s de los cortos reinados de sus medio hermanos, los 44 a&ntilde;os que permaneci&oacute; en el poder fortalecieron la identidad nacional y la figura del monarca. </span></span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="CS_07_03_REC120_IMG07n.jpg" border = "0" pathbig="CS_07_03_REC120_IMG07a.jpg">
+<title><![CDATA[Isabel I de Inglaterra]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="CS_07_03_REC120_IMG02.jpg" border="0">
+<title><![CDATA[Los orígenes de la potencia naval inglesa]]></title>
 </menuImage>
-<submenu>
-<main layout="0">
+<pages>
+<page i="0" visible="true" color="">
 <title></title>
-<footer></footer>
-</main>
-<sections>
-<section i="0" star="false" hasSubsections="false">
-<menuImage path="imagendummy_motorf.jpg" border="0">
+<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Francis Drake fue un c&eacute;lebre navegante y pirata ingl&eacute;s; entre 1585 y 1586 logr&oacute; alcanzar el territorio de las Indias. Su importancia es enorme y su legado tambi&eacute;n. &Eacute;l mismo es un personaje en la obra &quot;Cien a&ntilde;os de soledad&quot; de Gabriel Garc&iacute;a M&aacute;rquez.</span></span></p>
+]]></description>
+<images>
+<image path="CS_07_03_REC120_IMG08n.jpg" border = "0" pathbig="CS_07_03_REC120_IMG08a.jpg">
 <title><![CDATA[]]></title>
-</menuImage>
-</section><section i="0" star="false" hasSubsections="false">
-<menuImage path="" border="0">
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title></title>
+<description><![CDATA[<span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Las tensiones entre la Espa&ntilde;a de Felipe II e Inglaterra de Isabel I se incrementaron por avance progresivo de la pirater&iacute;a inglesa en el Atl&aacute;ntico; esto llev&oacute; a una bguerra que, despu&eacute;s de muchas pr&oacute;rrogas, finalmente hab&iacute;a sido declarada oficial. Hacia 1588 los espa&ntilde;oles prepararon una gran flota con el objetivo de invadir Inglaterra. Sin embargo, las naves inglesas lograron derrotar la flota espa&ntilde;ola gracias al uso de<br />
+la artiller&iacute;a.</span></span>]]></description>
+<images>
+<image path="CS_07_03_REC120_IMG09n.jpg" border = "0" pathbig="CS_07_03_REC120_IMG09a.jpg">
 <title><![CDATA[]]></title>
-</menuImage>
-</section></sections>
-</submenu>
+</image>
+</images>
+</page>
+</pages>
 </section><section i="0" star="false" hasSubsections="false">
-<menuImage path="00083H01.jpg" border="1">
-<title><![CDATA[Sir Walter Raleigh]]></title>
+<menuImage path="CS_07_03_REC120_IMG03.jpg" border="0">
+<title><![CDATA[La sociedad inglesa ]]></title>
 </menuImage>
-</section></sections>
-</submenu>
-</section><section i="0" star="false" hasSubsections="true">
-<menuImage path="0005VV01.jpg" border="1">
-<title><![CDATA[Isabel I ]]></title>
-</menuImage>
-<submenu>
-<main layout="0">
-<title>          Afianza el poder real por medio de la pirateria</title>
-<footer>          Apoya las artes, como la literatura y el teatro</footer>
-</main>
-<sections>
-<section i="0" star="false" hasSubsections="false">
-<menuImage path="000I1B01.jpg" border="0">
-<title><![CDATA[Sir Francis Drake]]></title>
-</menuImage>
-</section><section i="0" star="false" hasSubsections="false">
-<menuImage path="0007JK01.jpg" border="0">
-<title><![CDATA[William Shakespeare]]></title>
-</menuImage>
-</section></sections>
-</submenu>
-</section><section i="0" star="false" hasSubsections="true">
-<menuImage path="00074K01.jpg" border="1">
-<title><![CDATA[William Penn]]></title>
-</menuImage>
-<submenu>
-<main layout="0">
-<title>          Colonización de la costa oriental de Norteamérica</title>
-<footer>          Tierra de promisión para los exiliados religiosos</footer>
-</main>
-<sections>
-<section i="0" star="false" hasSubsections="false">
-<menuImage path="000A8701.jpg" border="0">
+<pages>
+<page i="0" visible="true" color="">
+<title></title>
+<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="line-height: 15.36px; white-space: pre-wrap; background-color: rgb(254, 254, 254);">Durante el siglo XVI la industria inglesa creci&oacute; en diferentes campos, esto benefici&oacute; a la clase alta y media de la sociedad. Sin embargo, para los pobres y los mendigos la vida no mejor&oacute; y se hizo cada vez m&aacute;s dif&iacute;cil. </span></span></span></p>
+]]></description>
+<images>
+<image path="CS_07_03_REC120_IMG10n.jpg" border = "0" pathbig="CS_07_03_REC120_IMG10a.jpg">
 <title><![CDATA[]]></title>
-</menuImage>
-</section><section i="0" star="false" hasSubsections="false">
-<menuImage path="000L5T01.jpg" border="0">
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title></title>
+<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="line-height: 15.36px; white-space: pre-wrap; background-color: rgb(254, 254, 254);">La poblaci&oacute;n de Inglaterra creci&oacute; considerablemente durante el siglo XVI debido a la estabilidad y al mejoramiento de las condiciones de vida para algunos grupos sociales. Para mediados de siglo la poblaci&oacute;n llegaba a los tres millones, y hacia 1600 era de aproximadamente cuatro millones.</span></span></span></p>
+]]></description>
+<images>
+<image path="CS_07_03_REC120_IMG11n.jpg" border = "0" pathbig="CS_07_03_REC120_IMG11a.jpg">
 <title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title></title>
+<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Con Enrique VIII se dio origen a una Iglesia nacional inglesa, llamada anglicana, que permiti&oacute; la venta de bienes eclesi&aacute;sticos y garantiz&oacute; grandes cambios en la sociedad inglesa, puesto que grandes terrenos fueron puestos en venta y favorecieron la inversi&oacute;n del capital y la capacidad de administrar territorios que se desligaban de relaciones tradicionales.</span></span></p>
+]]></description>
+<images>
+<image path="CS_07_03_REC120_IMG12n.jpg" border = "0" pathbig="CS_07_03_REC120_IMG12a.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="CS_07_03_REC120_IMG04.jpg" border="0">
+<title><![CDATA[El desarrollo económico de Inglaterra]]></title>
 </menuImage>
-</section></sections>
-</submenu>
+<pages>
+<page i="0" visible="true" color="">
+<title></title>
+<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="line-height: 15.36px; white-space: pre-wrap; background-color: rgb(254, 254, 254);">La econom&iacute;a inglesa se basaba en la m&aacute;s moderna t&eacute;cnica agr&iacute;cola europea y en la fuerte industria textil. Los <em>yeoman</em> eran los peque&ntilde;os propietarios enriquecidos y la <em>gentry</em>, la clase de propietarios medios con t&iacute;tulos nobles. </span></span></span></p>
+]]></description>
+<images>
+<image path="CS_07_03_REC120_IMG13n.jpg" border = "0" pathbig="CS_07_03_REC120_IMG13a.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title></title>
+<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Durante el gobierno de Enrique VIII, Inglaterra no particip&oacute; en muchas guerras, hecho que favoreci&oacute; las financias estatales y permitirle, en el futuro, convertirse en una potencia comercial.</span></span></p>
+]]></description>
+<images>
+<image path="CS_07_03_REC120_IMG14n.jpg" border = "0" pathbig="CS_07_03_REC120_IMG14a.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
 </section></sections>
 </engine>

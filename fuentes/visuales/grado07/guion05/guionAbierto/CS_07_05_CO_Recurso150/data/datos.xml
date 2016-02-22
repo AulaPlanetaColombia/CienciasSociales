@@ -1,113 +1,200 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f4">
-<main title="La Francia hugonota" path="Juan_Calvino.jpg" buttonsHeight="53">
-<text><![CDATA[<p>Juan Calvino.</p>
-]]></text><info path="Juan_Calvino_texto.jpg">
-<text><![CDATA[<p>Juan Calvino, te&oacute;logo y&nbsp;reformador franc&eacute;s, influenciado por Mart&iacute;n&nbsp;Lutero, quien impuls&oacute; la Reforma en Alemania.</p>
-
-<p>Su principal texto &quot;La instituci&oacute;n de la Religi&oacute;n Cristiana&quot; es un estudio sobre&nbsp;la Carta a los romanos.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+<main title="La Francia imperial" path="CS_07_05_REC150_IMG01.jpg" buttonsHeight="53">
+<info path="">
+<text><![CDATA[<p>Puerto de Marsella en 1754. Principal puerto al que llegaban las mercanc&iacute;as provenientes de las colonias francesas en Am&eacute;rica.</p>
 ]]></text>
 </info>
 </main>
 <questions respCorrecta="Respuesta correcta." respIncorrecta="Respuesta incorrecta.">
-<question title="¿Quiénes fueron los hugonotes?" path="">
-<answers>
-<answer correct="1">
-<text><![CDATA[Fueron los católicos opositores al plan reformista de Calvino, que intentaron apresarlo y llevarlo ante la corte.]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Fueron los seguidores de Calvino, quienes lograron expresar sus ideas durante la Reforma católica.]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Seguidores del rey Hugo, quienes se reunían en la noche a practicar rituales paganos.]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="1">
-<text><![CDATA[Fueron los seguidores de Calvino, quienes querían una reforma al cristianismo, inicialmente apoyados por la reina Margarita de Navarra, pero posteriormente perseguidos por la Corona y obligados al exilio.]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-</answers>
-<info path="">
-<text><![CDATA[]]></text>
-</info>
-</question>
-<question title="¿Cuáles fueron los principales motivos para perseguir a los hugonotes?" path="">
+<question title="La colonización francesa en América" path="CS_07_05_REC150_IMG02.jpg">
 <answers>
 <answer correct="0">
-<text><![CDATA[Los perseguían para evitar que difundieran ideas paganas en el territorio francés]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="1">
-<text><![CDATA[Los perseguían puesto que su doctrina ponía en cuestionamiento el orden y la autoridad de la Iglesia católica y del papa.]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Los perseguían puesto que los católicos querían que todo el pueblo comulgara.]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Los perseguían pues Calvino buscaba que la autoridad del rey fuera depuesta.]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-</answers>
-<info path="">
-<text><![CDATA[]]></text>
-</info>
-</question>
-<question title="¿Qué ocurrió con los hugonotes a lo largo del siglo XVII?" path="">
-<answers>
-<answer correct="0">
-<text><![CDATA[Fueron convertidos al catolicismo y no se volvió a hablar de ellos.]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Fueron exterminados a través de la conversión, la tortura y la hoguera.]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="1">
-<text><![CDATA[Se marcharon a países donde la mayoría de la población era protestante.]]></text>
-<explanation width="394"><![CDATA[<p>Aunque muchos de los protestantes fueron asesinados, los que sobrevivieron se exiliaron en regiones protestantes de los&nbsp;Pa&iacute;ses Bajos, Suiza, Inglaterra y en algunas ciudades&nbsp;alemanas convertigas al luteranismo. Otros muchos se fueron a&nbsp;las colonias brit&aacute;nicas del Cabo y de Am&eacute;rica del Norte donde desarrollaron proyectos coloniales.</p>
+<text><![CDATA[Interés por expandir]]></text>
+<explanation width="394"><![CDATA[<p>Los constantes conflictos entre la&nbsp;<strong>Corona francesa</strong>&nbsp;y la&nbsp;<strong>burgues&iacute;a</strong>&nbsp;llevaron a que no se desarrollara un inter&eacute;s por parte del Estado en expandir sus dominios en el Nuevo Mundo, esto explica&nbsp;por qu&eacute; los franceses tardaron&nbsp;m&aacute;s de un siglo en colonizar territorios en&nbsp;<strong>Am&eacute;rica</strong>&nbsp;en relaci&oacute;n con&nbsp;otras potencias&nbsp;europeas.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
-<text><![CDATA[Muchos protestantes optaron por el exilio en las islas del Mar Caribe]]></text>
+<text><![CDATA[Primeros intentos]]></text>
+<explanation width="394"><![CDATA[<p>Durante la monarqu&iacute;a de&nbsp;<strong>Francisco I</strong>&nbsp;se dan unos intentos de colonizaci&oacute;n tanto en Norteam&eacute;rica, en las regiones de&nbsp;<strong>Canad&aacute; y la Florida</strong>, como en el sur en las costas de&nbsp;<strong>R&iacute;o de Janeiro</strong>. En las dos regiones los colonos,&nbsp;<strong>calvinistas</strong>&nbsp;en su mayor&iacute;a, se dedicaron b&aacute;sicamente a la tala y al comercio de madera, por&nbsp;lo que establecieron relaciones con las comunidades nativas. Sin embargo, Francisco I va a impedir que se desarrolle el proceso colonizador, pues a su juicio deben ser franceses cat&oacute;licos quienes lo lleven a cabo.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="El siglo XVII" path="CS_07_05_REC150_IMG03.jpg">
+<answers>
+<answer correct="0">
+<text><![CDATA[Canadá]]></text>
+<explanation width="394"><![CDATA[<p>A principios del siglo <strong>XVII</strong>, la Corona francesa otorga permisos para que empresas privadas colonicen territorios en Am&eacute;rica, apoyando las exploraciones&nbsp;en la <strong>pen&iacute;nsula del Labrador</strong>.&nbsp;<strong>Samuel Champlain</strong> funda los puertos&nbsp;comerciales en <strong>Nueva Escocia, Annapolis y Quebec</strong>, de donde se extra&iacute;an recursos madereros y pieles.&nbsp;Las relaciones con las comunidades ind&iacute;genas fueron aprovechadas para garantizar la productividad y el comercio, especialmente con los <strong>hurones</strong>, a quienes incluso convirtieron en aliados militares. Con la fundaci&oacute;n de <strong>Montreal </strong>se inici&oacute;&nbsp;la exploraci&oacute;n del territorio de los <strong>Grandes Lagos y el r&iacute;o Mississippi</strong>, por parte de <strong>Ren&eacute; Robert Cavelier</strong>.&nbsp;</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Antillas francesas]]></text>
+<explanation width="394"><![CDATA[<p>La Corona francesa tambi&eacute;n foment&oacute; el establecimiento de colonias en las islas del mar Caribe durante el siglo XVII.&nbsp;</p>
+
+<p>Los franceses ocuparon varias islas ubicadas en las <strong>Antillas Menores</strong>:&nbsp;San&nbsp;Christopher, San Croix, San Bartholomew, Grenada, San Mart&iacute;n, Toruta, Marine Galante y la parte oriental de la isla de La Espa&ntilde;ola, que fue ganada a los espa&ntilde;oles desde el siglo XVI&nbsp;por los bucaneros, a la que bautizaron como San Dominique, posteriormente conocida como <strong>Hait&iacute;</strong>, que era el&nbsp;nombre ind&iacute;gena.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="El mercantilismo" path="CS_07_05_REC150_IMG04.jpg">
+<answers>
+<answer correct="0">
+<text><![CDATA[Jean-Baptiste Colbert]]></text>
+<explanation width="394"><![CDATA[<p><strong>Colbert</strong>&nbsp;fue el ministro de finanzas de&nbsp;<strong>Luis XIV</strong>&nbsp;y&nbsp;foment&oacute; en Francia el crecimiento de la&nbsp;<strong>burgues&iacute;a</strong>&nbsp;y el&nbsp;<strong>artesanado </strong>&nbsp;y el&nbsp;<strong>comercio ultramarino</strong>, desarrollando los puertos franceses y generando un esplendor econ&oacute;mico para la Francia del siglo XVIII.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Comercio ]]></text>
+<explanation width="394"><![CDATA[<p>Las colonias francesas resultaron ser de gran importancia&nbsp;<strong>econ&oacute;mica</strong>,&nbsp;ya que aportaron riquezas provenientes del comercio de madera, pieles y productos agr&iacute;colas. As&iacute; mismo, su importancia&nbsp;<strong>estrat&eacute;gica y militar</strong>&nbsp;le permiti&oacute; a Francia tener en el Caribe un nuevo escenario de enfrentamientos contra Espa&ntilde;a, adem&aacute;s de Europa, pues la cercan&iacute;a de sus colonias a los principales puertos espa&ntilde;oles les facilitaba interceptar sus embarcaciones y monopolizar el comercio.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="La economía de las colonias" path="CS_07_05_REC150_IMG05.jpg">
+<text><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></text><answers>
+<answer correct="0">
+<text><![CDATA[Economía de plantación]]></text>
+<explanation width="394"><![CDATA[<p>El desarrollo econ&oacute;mico&nbsp;de las colonias francesas se bas&oacute; en la&nbsp;<strong>econom&iacute;a de plantaci&oacute;n</strong>, a trav&eacute;s de la cual se produc&iacute;an y exportaban productos agr&iacute;colas, como&nbsp;<strong>az&uacute;car, cacao, tabaco y algod&oacute;n</strong>. Para ello se recurri&oacute; a la mano de&nbsp;<strong>obra esclava&nbsp;</strong>africana, pues resultaba mucho m&aacute;s rentable;&nbsp;eventualmente se us&oacute; mano de obra esclava blanca.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="El comercio marítimo" path="CS_07_05_REC150_IMG06.jpg">
+<answers>
+<answer correct="0">
+<text><![CDATA[Desarrollo de los puertos]]></text>
+<explanation width="394"><![CDATA[<p>El <strong>comercio mar&iacute;timo</strong> que se estableci&oacute; entre las colonias&nbsp;y los puertos franceses permiti&oacute; un mayor desarrollo de la <strong>burgues&iacute;a</strong>, y por esto mismo del <strong>capitalismo</strong>, lo que llev&oacute; a&nbsp;Francia a ser&nbsp;un importante centro comercial europeo durante los&nbsp;siglos XVII y XVIII.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Piratería]]></text>
+<explanation width="394"><![CDATA[<p>Los&nbsp;<strong>piratas y corsarios</strong>&nbsp;franceses, auspiciados por la Corona, buscaron obstaculizar el comercio de los barcos espa&ntilde;oles y tomar posesi&oacute;n de las colonias espa&ntilde;olas en el&nbsp;<strong>Caribe</strong>.&nbsp;</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
 <explanation width="394"><![CDATA[]]></explanation>
 </answer>
 <answer correct="0">

@@ -1,22 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f4">
-<main title="El Imperio portugués en el Siglo XVI" path="stock-vector-portugal-map-flag-314935367.jpg" buttonsHeight="53">
+<main title="El Imperio portugués en el siglo XVI" path="CS_07_05_REC80_IMG01.jpg" buttonsHeight="53">
+<info path="">
+<text><![CDATA[<p>El Imperio portugu&eacute;s se dedic&oacute; a la <strong>exploraci&oacute;n del oc&eacute;ano Atl&aacute;ntico</strong> a partir de mediados del siglo XV, descubriendo y ocupando territorios. Adem&aacute;s de esto, los portugueses tuvieron uno de los objetivos m&aacute;s ambiciosos para la &eacute;poca: <strong>circunnavegar el territorio africano</strong> para llegar a la India. Estas expediciones ten&iacute;an un &uacute;nico <strong>fin econ&oacute;mico</strong> y no de conquista territorial, como s&iacute; lo llevaron&nbsp;a cabo los espa&ntilde;oles en territorio americano.</p>
+]]></text>
+</info>
 </main>
 <questions respCorrecta="Respuesta correcta." respIncorrecta="Respuesta incorrecta.">
-<question title="El continente donde Portugal desarrolló más fuertemente su influencia imperial fue:" path="mapa_imperio.jpg">
+<question title="El tratado de Tordesillas" path="CS_07_05_REC80_IMG02.jpg">
 <answers>
-<answer correct="1">
-<text><![CDATA[América]]></text>
-<explanation width="394"><![CDATA[<p>Aunque su importancia econ&oacute;mica fue tard&iacute;a (siglo XVII), la colonia m&aacute;s extensa del imperio portugu&eacute;s fue el territorio actual de Brasil.&nbsp;</p>
+<answer correct="0">
+<text><![CDATA[Alejandro VI]]></text>
+<explanation width="394"><![CDATA[<p>Fue el papa Alejandro VI, espa&ntilde;ol de nacimiento, quien determin&oacute;, el 7 de junio de 1494, en la bula papal <em><strong>Inter Caetera</strong></em>&nbsp;la partici&oacute;n del mundo&nbsp;entre espa&ntilde;oles y portugueses. Se dice que el objetivo de esta divisi&oacute;n&nbsp;buscaba&nbsp;<br />
+la&nbsp;<strong>evangelizaci&oacute;n total</strong> de&nbsp;los nuevos territorios conquistados.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
-<text><![CDATA[África]]></text>
-<explanation width="394"><![CDATA[<p>A pesar de tener presencia en Asia y &Aacute;frica, Am&eacute;rica es el continente con mayor influencia y control por parte del Imperio portugu&eacute;s.&nbsp;</p>
+<text><![CDATA[La raya]]></text>
+<explanation width="394javascript:void('Tachado')"><![CDATA[<div>El <strong>oce&aacute;no Atl&aacute;ntico</strong> fue dividido en dos; la regi&oacute;n que le pertenecer&iacute;a a Portugal, a las afuera de Europa, en la mitad del mundo a oriente de <strong>la <em>raya</em></strong>, que inclu&iacute;a a Brasil, &Aacute;frica, el oc&eacute;ano &Iacute;ndico y los <strong>lugares de alta producci&oacute;n de especias.</strong></div>
 ]]></explanation>
 </answer>
 <answer correct="0">
-<text><![CDATA[Asia]]></text>
-<explanation width="394"><![CDATA[<p>A pesar de tener presencia en Asia y &Aacute;frica, Am&eacute;rica es el continente con mayor influencia y control por parte del Imperio portugu&eacute;s.&nbsp;</p>
+<text><![CDATA[Portugal]]></text>
+<explanation width="394"><![CDATA[<p>La divisi&oacute;n del mundo le permiti&oacute; al Imperio portugu&eacute;s <strong>buscar fuentes de oro en &Aacute;frica</strong>, <strong>explorar las costas del oc&eacute;ano Atl&aacute;ntico meridional</strong>, <strong>circunnavegar &Aacute;frica</strong>,&nbsp;encontrar nuevas rutas hacia Oriente y <strong>dominar el mercado</strong> de las especias.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
@@ -44,21 +49,71 @@
 <text><![CDATA[]]></text>
 </info>
 </question>
-<question title="La región del mundo donde se ubica la ruta comercial que descubrió Vasco de Gama fue:" path="vasco_da_gama.jpg">
+<question title="Cronología de la colonización portuguesa" path="CS_07_05_REC80_IMG03.jpg">
 <answers>
 <answer correct="0">
-<text><![CDATA[América del Sur]]></text>
-<explanation width="394"><![CDATA[<p>Fue Pedro Alvares Cabral y no Vasco da Gama quien descubri&oacute; la ruta mar&iacute;tima que conduc&iacute;a desde Portugal hacia el actual territorio de Brasil.</p>
-]]></explanation>
-</answer>
-<answer correct="1">
-<text><![CDATA[India]]></text>
-<explanation width="394"><![CDATA[<p>Vasco de Gama fue el primer europeo en navegar directamente entre Europa y Asia, llegando al puerto de Calicut, ubicado en el subcontinente indio.</p>
+<text><![CDATA[1415]]></text>
+<explanation width="394"><![CDATA[<p>Portugal conquista Ceuta.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
-<text><![CDATA[Sur de Africa]]></text>
-<explanation width="394"><![CDATA[<p>Fue Bartolom&eacute; Dias y no Vasco de Gama el primer europeo en navegar a trav&eacute;s del cabo de Buena Esperanza, ubicado en el sur del continente africano.</p>
+<text><![CDATA[1419]]></text>
+<explanation width="394"><![CDATA[<p>Portugal descubre&nbsp;y ocupa&nbsp;Madeira.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[1445-1460]]></text>
+<explanation width="394"><![CDATA[<p>Los portugueses exploran Senegal, Gambia, Guinea y Sierra Leona.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[1498]]></text>
+<explanation width="394"><![CDATA[<p>La flota de Vasco da Gama llega a Calicut.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[1500]]></text>
+<explanation width="394"><![CDATA[<p>Los portugueses descubren Brasil.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[1520]]></text>
+<explanation width="394"><![CDATA[<p>Magallanes atraviesa el pasaje al extremo sur del continente americano.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[1530]]></text>
+<explanation width="394"><![CDATA[<p>Finaliza el periodo de conquista portuguesa en la India.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[1543]]></text>
+<explanation width="394"><![CDATA[<p>Los portugueses llegan a Jap&oacute;n.</p>
+]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[<p>El 8 de julio de 1497 parti&oacute; <strong>Vasco da Gama </strong>con el objetivo de <strong>llegar a la India</strong>. Zarp&oacute; desde las islas de Cabo Verde, se dirigi&oacute;&nbsp;hacia&nbsp;el cabo de la Buena Esperanza e&nbsp;hizo&nbsp;una parada m&aacute;s en la isla de Santa Helena. Con esta ruta, alcanz&oacute; a <strong>entrar en contacto con las ciudades mercantiles m&aacute;s al oriente de &Aacute;frica</strong> y logr&oacute; llegar a su &uacute;ltima etapa en Malindi antes de arribar, ayudado y guiado por pilotos &aacute;rabes, a Calicut, al suroccidente de la India, el 16 de mayo de 1498,&nbsp;ciudad que recog&iacute;a todos los productos provenientes de Asia.</p>
+]]></text>
+</info>
+</question>
+<question title="El control del tráfico de las especias" path="CS_07_05_REC80_IMG04.jpg">
+<answers>
+<answer correct="0">
+<text><![CDATA[Hegemonía impuesta]]></text>
+<explanation width="394"><![CDATA[<p>El <strong>tercer viaje</strong> de <strong>Vasco da Gama</strong> a&nbsp;territorio indio&nbsp;se desarroll&oacute; con la intenci&oacute;n de cumplir una <strong>prueba de fuerza</strong>: quince veleros armados de ca&ntilde;ones y alrededor de ochocientos soldados. Calicut fue bombardeada y muchas naves &aacute;rabes fueron hundidas. <strong>Los portugueses obligaron al soberano de la regi&oacute;n a aceptar las relaciones comerciales con ellos </strong>y de permitir el arribo anual de una flota que saliera de Lisboa; esto aseguraba <strong>la destrucci&oacute;n de las antiguas redes de tr&aacute;fico &aacute;rabe</strong> y el comienzo&nbsp;en la construcci&oacute;n&nbsp;de nuevas bases estrat&eacute;gicas comerciales.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Supremacía militar ]]></text>
+<explanation width="394"><![CDATA[<p><strong>La&nbsp;estrategia organizada por el Imperio de Portugal</strong> en el oce&aacute;no &Iacute;ndico buscaba la <strong>conquista de la supremac&iacute;a militar</strong> en el mar y la <strong>ocupaci&oacute;n de los puntos claves del comercio</strong>.</p>
+
+<p>El soberano de Calicut busc&oacute; ayuda en los mamelucos -dinast&iacute;a que gobernaba en Egipto y Siria-, pero esa alianza solamente permiti&oacute; que los portugueses alcanzaran su dominio total en el mar. En <strong>1509</strong>, <strong>Portugal venci&oacute; a la flota egipcia y en 1510 conquistaron a la ciudad de Goa y expulsaron a los mercaderes musulmanes y fijaron sus fortalezas en el dominio del oce&aacute;no &Iacute;ndico.</strong></p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Dominio del mercado ]]></text>
+<explanation width="394"><![CDATA[<p>Ya <strong>destruidos los puertos &aacute;rabes entre 1505 y 1507</strong>, el segundo paso era <strong>bloquear el flujo de las especies hacia el mar Rojo y el actual golfo P&eacute;rsico</strong>, en las ciudades&nbsp;de Aden y Hormuz. Por &uacute;ltimo, <strong>conquistaron la ciudad de Malaca en 1511, por donde pasaba la mejor ruta de tr&aacute;fico de especias hacia Occidente. </strong>En 1515 conquistaron Hormuz, con lo que Portugal complet&oacute; el sistema de control del tr&aacute;fico de especias.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
@@ -86,21 +141,77 @@
 <text><![CDATA[]]></text>
 </info>
 </question>
-<question title="La siguiente mercancía no forma parte de los productos extraídos por los portugueses en sus colonias americanas: " path="explotacion_economica.jpg">
+<question title="La administración portuguesa en Brasil" path="CS_07_05_REC80_IMG05.jpg">
+<text><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></text><answers>
+<answer correct="0">
+<text><![CDATA[Capitanía]]></text>
+<explanation width="394"><![CDATA[<p><strong>El primer intento de colonizar el territorio del Brasil</strong>, luego de su conquista en 1500 por Pedro &Aacute;lvarez Cabral, fue con la ya utilizada forma de las<strong> capitan&iacute;as hereditarias,</strong> empleadas previamente en la colonizaci&oacute;n del archipi&eacute;lago de Madeira. Entre 1534 y 1536, <strong>el rey Juan III de Portugal dividi&oacute; el territorio brasilero en quince capitan&iacute;as y las don&oacute; a nobles portugueses para que administraran, exploraran y sacaran provecho de esos nuevos territorios</strong>. Sin embargo, &uacute;nicamente dos capitan&iacute;as prosperaron dada las dificultades con los colonos y los ind&iacute;genas. La capitan&iacute;a de&nbsp;m&aacute;s desarrollo fue la de <strong>Pernambuco</strong>, donde se sac&oacute; el mayor provecho al <strong>cultivo de la ca&ntilde;a de az&uacute;car.</strong></p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Gobernación]]></text>
+<explanation width="394"><![CDATA[<p>Con <strong>el fracaso de las capitan&iacute;as se estableci&oacute; una misi&oacute;n para colonizar masivamente el territorio.</strong> En 1549, <strong>Tom&eacute; de Sousa recibi&oacute; el t&iacute;tulo de gobernador general </strong>y&nbsp;sigui&oacute; &oacute;rdenes detalladas para favorecer el desarrollo de las colonias. De Sousa fund&oacute; la capital, Salvador, en el noreste del territorio. Este asentamiento estuvo&nbsp;organizada en dos partes: una administrativa y otra comercial con un puerto. Tom&eacute; de Sousa se encarg&oacute; de reorganizar las ciudades &nbsp;y de reparar la econom&iacute;a.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[La división en estados]]></text>
+<explanation width="394"><![CDATA[<p>En <strong>1621</strong>, debido a la extensi&oacute;n del territorio, l<strong>a capitan&iacute;a fue dividida en&nbsp;dos cuando fue creado el Estado de&nbsp;Brasil y el Estado de&nbsp;Maranh&atilde;o</strong> por Felipe II de Portugal. El segundo gobernador del territorio fue Duarte da Costa, quien tuvo grandes problemas con los ind&iacute;genas y el obispo. El &uacute;ltimo gobernador fue Mem de S&aacute;, que logr&oacute; vencer las fuerzas ind&iacute;genas y, gracias a la ayuda de los jesuitas, expulsar a los calvinistas del terriotrio del Brasil.</p>
+
+<p><strong>A partir de 1640 los gobernadores se hicieron llamar virreyes, y alrededor de 1763 Brasil se convirti&oacute; en un virreinato dependiente de su capital R&iacute;o de Janeiro.</strong></p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[<p><strong>Juan III</strong> sustituy&oacute; a su padre en 1521; fue con &eacute;l que el Imperio portugu&eacute;s pudo <strong>expandirse en Asia</strong> y <strong>colonizar el territorio de Brasil</strong>.&nbsp;</p>
+
+<p>Su <strong>pol&iacute;tica</strong> se centr&oacute; en reforzar las <strong>bases comerciales en India</strong> y en <strong>asegurar el monopolio de las especias en Asia</strong>.</p>
+]]></text>
+</info>
+</question>
+<question title="El sistema económico adoptado por el Imperio portugués en Brasil" path="CS_07_05_REC80_IMG06.jpg">
 <answers>
-<answer correct="1">
-<text><![CDATA[Esclavos]]></text>
-<explanation width="394"><![CDATA[<p>La mano de obra esclava que los imperios europeos utilizaron, incluyendo al portugu&eacute;s, ven&iacute;a en su inmensa mayor&iacute;a de &Aacute;frica.</p>
+<answer correct="0">
+<text><![CDATA[La caña de azúcar]]></text>
+<explanation width="394"><![CDATA[<p>Dado que <strong>los portugueses</strong>, en un primer momento no encontraron ni oro ni plata, <strong>optaron por basar su econom&iacute;a en la agricultura; empez&oacute; de esta forma la producci&oacute;n de tabaco, algod&oacute;n y principalmente el az&uacute;car, que fue el producto econ&oacute;mico m&aacute;s importante de la Colonia hasta el siglo XVIII. </strong>Los primeros cultivos se realizaron hacia el siglo XVI en capitan&iacute;as como la&nbsp;de Pernambuco.&nbsp;</p>
+
+<p>En un comienzo, la ca&ntilde;a era cultivada por los ind&iacute;genas prisioneros, pero luego comenzaron a importar esclavos africanos para realizar este&nbsp;trabajo.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
-<text><![CDATA[Azúcar]]></text>
-<explanation width="394"><![CDATA[<p>Bajo dominio portugu&eacute;s, Brasil fue el principal productor mundial de az&uacute;car en el siglo XVI.</p>
+<text><![CDATA[El monopolio]]></text>
+<explanation width="394"><![CDATA[<p><strong>Los portugueses restringieron de esta forma el comercio entre las colonias</strong>, haciendo que, al mismo modo como Espa&ntilde;a con sus colonias, <strong>Brasil solamente pudiera importar y exportar con Portugal y sus colonias.</strong></p>
+
+<p><strong>Si bien la producci&oacute;n de la ca&ntilde;a era de alta calidad, la industria declin&oacute; hacia el siglo XVII </strong>cuando otras potencias europeas iniciaron la producci&oacute;n de ca&ntilde;a de az&uacute;car en otras colonias.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
-<text><![CDATA[Oro]]></text>
-<explanation width="394"><![CDATA[<p>El oro fue uno de los productos que m&aacute;s explotaron los portugueses en Brasil.</p>
+<text><![CDATA[El oro]]></text>
+<explanation width="394"><![CDATA[<p><strong>Finalizando el siglo XVII</strong>, luego de varias expediciones, <strong>los portugueses encontraron oro en las costas occidentales de Brasil.</strong> Este hallazgo ayud&oacute; a la Corona portuguesa a salir de la crisis que padec&iacute;a por las guerras contra Espa&ntilde;a y los Pa&iacute;ses Bajos.</p>
+
+<p><strong>La extracci&oacute;n del oro se convirti&oacute; en la actividad econ&oacute;mica m&aacute;s importante en el Brasil colonial</strong>; este metal precioso fue usado para pagar bienes y construir muchos monumentos de estilo barroco.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
@@ -128,22 +239,23 @@
 <text><![CDATA[]]></text>
 </info>
 </question>
-<question title="El imperio europeo que terminó ejerciendo su control sobre Portugal a finales del siglo XVI fue:" path="coronas.jpg">
+<question title="Los inicios de la trata de esclavos" path="CS_07_05_REC80_IMG07.jpg">
 <answers>
 <answer correct="0">
-<text><![CDATA[Inglaterra]]></text>
-<explanation width="394"><![CDATA[<p>En 1580 los Habsburgo de Espa&ntilde;a retuvieron la corona portuguesa, dando fin al&nbsp;periodo conocido como primer Imperio portugu&eacute;s e inicio a lo que se conoce como Uni&oacute;n Ib&eacute;rica.</p>
+<text><![CDATA[La esclavitud doméstica]]></text>
+<explanation width="394"><![CDATA[<p>Cabe aclarar que, si bien <strong>la sociedad africana practicaba ya la esclavitud,</strong> principalmente entre sus prisioneros de guerra o como castigo, <strong>esta era principalmente dom&eacute;stica, dado que era utilizada en la ayuda de las labores agr&iacute;colas. Esto&nbsp;contrastaba con el trato recibido por los mercaderes musulmanes</strong>, quienes usaban la fuerza negra para alimentar las labores de las salinas en la zona del Sahara.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
-<text><![CDATA[Francia]]></text>
-<explanation width="394"><![CDATA[<p>En 1580 los Habsburgo de Espa&ntilde;a retuvieron la corona portuguesa, dando fin al periodo conocido como primer Imperio portugu&eacute;s e inicio a lo que se conoce como Uni&oacute;n Ib&eacute;rica.</p>
+<text><![CDATA[La esclavitud en América]]></text>
+<explanation width="394"><![CDATA[<p><strong>Los portugueses fueron determinantes en la llegada del trabajo negro al continente americano, al igual que los espa&ntilde;oles.</strong> A diferencia de los mercaderes musulmanes, los portugueses usaron el poblamiento negro para el trabajo en las plantaciones de az&uacute;car.&nbsp;</p>
+
+<p><strong>La poblaci&oacute;n esclava fue llevada a Am&eacute;rica</strong>, principalmente en las islas de las Antillas para las plantaciones de ca&ntilde;a de az&uacute;car; en M&eacute;xico y Per&uacute; para trabajar en la miner&iacute;a. Sin embargo, <strong>muchos africanos no lograron adaptarse al clima de los altiplanos, hecho que desestabiliz&oacute;&nbsp;los mercados de az&uacute;car.</strong></p>
 ]]></explanation>
 </answer>
-<answer correct="1">
-<text><![CDATA[España]]></text>
-<explanation width="394"><![CDATA[<p>En 1580 los Habsburgo de Espa&ntilde;a retuvieron la corona portuguesa, dando fin al&nbsp;periodo conocido como primer Imperio portugu&eacute;s e inicio a lo que se conoce como Uni&oacute;n Ib&eacute;rica.</p>
-]]></explanation>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
 </answer>
 <answer correct="0">
 <text><![CDATA[]]></text>
@@ -167,151 +279,31 @@
 </answer>
 </answers>
 <info path="">
-<text><![CDATA[]]></text>
+<text><![CDATA[<p><strong>Es incorrecto pensar que las relaciones entre Europa y &Aacute;frica &uacute;nicamente estuvieron vinculadas por el comercio de esclavos.</strong> Hay que resaltar que l<strong>os europeos consegu&iacute;an de tierras africanas especias, productos ex&oacute;ticos y esclavos. </strong>Alrededor del siglo XVI la trata de esclavos fue inferior a la cifra del siglo XVII, cuando&nbsp;alcanz&oacute; dimensiones alt&iacute;simas, dado que los esclavos fueron considerados mercanc&iacute;as al igual que otros productos.</p>
+
+<p><strong>Los portugueses fueron protagonistas en la trata de esclavos por&nbsp;los acuerdos comerciales que establecieron con algunos de los reinos africanos </strong>y la colonizaci&oacute;n ejercida en las costas orientales del continente.</p>
+]]></text>
 </info>
 </question>
-<question title="La región del planeta en la que el Imperio portugués no estableció colonias fue:" path="mapa_mundi.jpg">
+<question title="Las relaciones portuguesas en China y Japón" path="CS_07_05_REC80_IMG08.jpg">
 <answers>
 <answer correct="0">
-<text><![CDATA[Suramérica]]></text>
-<explanation width="394"><![CDATA[<p>La presencia de Portugal en Suram&eacute;rica fue muy fuerte (Brasil).</p>
+<text><![CDATA[China]]></text>
+<explanation width="394"><![CDATA[<p><strong>Hacia 1515 Portugal tuvo el inter&eacute;s de vender algunas de las especias en China</strong>,&nbsp;y solo&nbsp;en 1519 fueron aceptados en la corte de Pek&iacute;n. Sin embargo, <strong>despu&eacute;s de casi dos siglos sin entablar relaciones comerciales, el trato entre portugueses y chinos termin&oacute; mal</strong>, dado que, al mismo tiempo, en un puerto meridional de la China, otra expedici&oacute;n portuguesa hab&iacute;a desembarcado con algunos hechos de violencia. Los embajadores y mercaderes fueron expulsados, y por ocho a&ntilde;os cerraron relaciones con los extranjeros.</p>
+
+<p><strong>Las relaciones entre China y Portugal se mantuvieron &uacute;nicamente a trav&eacute;s del contrabando</strong>.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
-<text><![CDATA[Africa del Sur]]></text>
-<explanation width="394"><![CDATA[<p>Colonias como Mozambique o Madagascar, localizadas en el sur de &Aacute;frica fueron muy importantes en el Imperio portugu&eacute;s.</p>
-]]></explanation>
-</answer>
-<answer correct="1">
-<text><![CDATA[America del Norte]]></text>
-<explanation width="394"><![CDATA[<p>El imperio Portugu&eacute;s no tuvo territorios en esta regi&oacute;n.&nbsp;</p>
-]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-</answers>
-<info path="">
-<text><![CDATA[]]></text>
-</info>
-</question>
-<question title="Los primeros enclaves comerciales del Imperio portugués tuvieron como su principal actividad:" path="comercio.jpg">
-<answers>
-<answer correct="0">
-<text><![CDATA[La trata de esclavos]]></text>
-<explanation width="394"><![CDATA[<p>Aunque muchos enclaves portugueses en &Aacute;frica se dedicaron a la trata de esclavos, en sus inicios se destacaron en el comercio de oro y pimienta malagueta.</p>
-]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Plantaciones de azucar]]></text>
-<explanation width="394"><![CDATA[<p>Aunque muchas colonias portuguesas se dedicaron a la producci&oacute;n de az&uacute;car, en sus inicios esta actividad solo se localiz&oacute; en la isla de Madeira.</p>
-]]></explanation>
-</answer>
-<answer correct="1">
-<text><![CDATA[Comercio de especias]]></text>
-<explanation width="394"><![CDATA[<p>El comercio de especias como el azafr&aacute;n, la canela, la nuez moscada, el clavo y la pimienta, fue la actividad m&aacute;s destacada de los enclaves portugueses a las costas de Asia y &Aacute;frica</p>
+<text><![CDATA[Japón]]></text>
+<explanation width="394"><![CDATA[<p><strong>De manera diferente se llevaron a cabo las relaciones con Jap&oacute;n</strong>, un territorio que hasta el momento solo exist&iacute;a por las anotaciones de los viajes de Marco Polo. <strong>Por casualidad, en 1543 los portugueses desembarcaron en las costas del Jap&oacute;n y, adem&aacute;s de comercializar las especias y los productos chinos, les dieron a conocer algunas armas de fuego europeas.</strong></p>
+
+<p><strong>Los portugueses llevaron pronto misioneros que permitieron que el cristianismo llegar&aacute; al Lejano Oriente.</strong></p>
 ]]></explanation>
 </answer>
 <answer correct="0">
 <text><![CDATA[]]></text>
 <explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-</answers>
-<info path="">
-<text><![CDATA[]]></text>
-</info>
-</question>
-<question title="El Imperio portugués se caracterizó por ser:" path="bandera_portugal.jpg">
-<answers>
-<answer correct="0">
-<text><![CDATA[Extenso y con un escaso control gubernamental]]></text>
-<explanation width="394"><![CDATA[<p>El imperio portugu&eacute;s fue peque&ntilde;o y cont&oacute; con fuerte presencia de autoridades metropolitanas.</p>
-]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Extenso y con fuerte control gubernamental]]></text>
-<explanation width="394"><![CDATA[<p>El imperio portugu&eacute;s fue poco extenso y tuvo presencia de autoridades enviadas desde la metr&oacute;poli.</p>
-]]></explanation>
-</answer>
-<answer correct="1">
-<text><![CDATA[Poco extenso y con fuerte control gubernamental]]></text>
-<explanation width="394"><![CDATA[<p>El Imperio portugu&eacute;s se caracteriz&oacute; por su peque&ntilde;a extensi&oacute;n territorial y por el fuerte control del Estado portugu&eacute;s en su administraci&oacute;n.</p>
-]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[]]></text>
-<explanation width="394"><![CDATA[]]></explanation>
-</answer>
-</answers>
-<info path="">
-<text><![CDATA[]]></text>
-</info>
-</question>
-<question title="Un importante enclave portugués en el subcontinente indio fue:" path="mapa_india.jpg">
-<answers>
-<answer correct="1">
-<text><![CDATA[Goa]]></text>
-<explanation width="394"><![CDATA[<p>Goa, ciudad ubicada en India, permaneci&oacute; bajo control portugu&eacute;s hasta 1961.</p>
-]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Nagasaki]]></text>
-<explanation width="394"><![CDATA[<p>Nagsaki tuvo presencia de comerciantes portugueses en el siglo XVI, pero est&aacute; ubicada en Jap&oacute;n.</p>
-]]></explanation>
-</answer>
-<answer correct="0">
-<text><![CDATA[Malaca]]></text>
-<explanation width="394"><![CDATA[<p>Este territorio, aunque cont&oacute; con presencia portuguesa no hace parte del subcontinente indio.</p>
-]]></explanation>
 </answer>
 <answer correct="0">
 <text><![CDATA[]]></text>
