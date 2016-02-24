@@ -222,7 +222,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso030&amp;IdRecurso=RES-2C73EE
 >La Revolución sandinista</enlace>
 </profundiza><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso040&amp;IdRecurso=RES-44F303EEF9E44495B5AA96B54F88188F"
+destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso060&amp;IdRecurso=RES-67C6F4B75F524931AAF87C3550C5232D"
 >Conoce acerca del pensamiento de Daniel Ortega</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_09_08_CO_67847928AA0A4C10B31E3B26D57CFCAC">
@@ -244,7 +244,7 @@ de los derechos humanos y candidato al premio Nobel de la Paz, fue <negrita
 >asesinado</negrita> por un <negrita>escuadrón de la muerte</negrita
 > de ultraderecha el 24 de marzo de 1980, durante la celebración de
 una <negrita>misa</negrita> en la catedral de San Salvador. Fue <negrita
->beatificado</negrita> el 23 de mayo de 2015.</p>
+>beatificado</negrita> el 23 de mayo de 2015.</p><?Pub Caret -2?>
 </imagen>
 <practica>
 <enlace
@@ -296,11 +296,7 @@ los centros históricos más importantes de Centroamérica. Cada año
 recibe cientos de miles de turistas que visitan la ciudad de La Antigua
 Guatemala.</p>
 </imagen>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_08_CO_Recurso060&amp;IdRecurso=RES-67C6F4B75F524931AAF87C3550C5232D"
->Conoce acerca del pensamiento de Daniel Ortega</enlace>
-</practica></seccion2Texto></seccion2><seccion2
+</seccion2Texto></seccion2><seccion2
 id="S2_CS_09_08_CO_9857DC73C31143FEA495B2A82891DE5G">
 <seccion2Titulo>Honduras</seccion2Titulo>
 <seccion2Texto>
@@ -745,7 +741,7 @@ y el SELA (<negrita>Sistema de Integración Latinoamericana</negrita
 >) en 1975, con el objetivo de concertar estrategias comunes de cooperación
 entre los países de la región.</p>
 <p>Los países de Centroamérica cuentan con el SICA (Sistema de integración
-de Centroamérica) desde 1993.</p><?Pub Caret -3?>
+de Centroamérica) desde 1993.</p>
 <recuerda><recuerdaTexto>
 <p>Aunque se presentaron varios intentos de integración, esta no se
 logró por el peso de las relaciones externas, de las asimetrías (diferencias)
@@ -805,7 +801,8 @@ siguen con la preferencia por el desigual <negrita>bilateralismo</negrita
 >. Lo mismo pasa con la creación de la Alianza del Pacífico (Colombia,
 Perú, México y Chile), de tal manera que el comercio intrarregional
 es menor que el comercio con otros países del mundo.</p>
-</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_08_CO_2311C1602FB34A738577AB1900340156">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
