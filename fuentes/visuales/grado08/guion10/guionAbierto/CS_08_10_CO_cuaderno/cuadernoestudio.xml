@@ -34,7 +34,7 @@ poblaciones, especies, etc.) y conservación del funcionamiento de
 los <negrita>sistemas ecológicos</negrita><enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=7970&amp;ruta=Buscador"
 > [VER]</enlace>.</p>
-<imagen src="CS_08_10_CO_img_01_small.jpg">
+<imagen src="CS_08_10_CO_IMG01_small.jpg">
 <p>Algunas especies animales han quedado <negrita>restringidas</negrita
 > a <negrita>áreas geográficas</negrita> específicas, <negrita>adaptándose</negrita
 > a las condiciones climáticas. Por ejemplo, el bisonte americano
@@ -129,7 +129,7 @@ Los restos fósiles dan testimonio de animales que han habitado en
 zonas diferentes a las que hoy habitan. Un ejemplo son los primitivos
 camellos, que migraron de América del Norte a África y a Eurasia,
 pero los de América perecieron.</p>
-<imagen src="CS_08_10_CO_img_03_small.jpg">
+<imagen src="CS_08_10_CO_IMG03_small.jpg">
 <p>La familia <negritacursiva>Camelidae</negritacursiva> es originaria
 de Norteamérica durante el <negrita>Eoceno tardío</negrita>, hace
 unos 40 millones de año. Durante el <negrita>Plioceno</negrita> y
@@ -316,7 +316,8 @@ id="S2_CS_08_10_CO_662C06A67B824C37B902B988537E838F">
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso060&amp;IdRecurso=RES-D05A0E9CC2B3417EAA4F9115F9254E46"
->Refuerza tu aprendizaje: Los conceptos básicos de biogeografía</enlace>
+>Refuerza tu aprendizaje: Los conceptos básicos de biogeografía</enlace><?Pub
+Caret -3?>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_08_10_CO_D23F1A72FD5B4D13855300EEE8F14DF3">
 <seccion1Titulo>Las regiones biogeográficas</seccion1Titulo>
@@ -337,9 +338,11 @@ destino="http://wwf.panda.org/es/nuestro_planeta/ecorregiones/mapas/"
 width="64*"/></colgroup>
 <tbody>
 <tr>
-<td align="center">Zonas o Regiones Biogeográficas</td>
-<td align="center">Superficie (km<superindice>2</superindice>)</td>
-<td align="center">Localización</td>
+<td align="center"><negrita>Zonas o Regiones Biogeográficas</negrita
+></td>
+<td align="center"><negrita>Superficie (km<superindice>2</superindice
+>)</negrita></td>
+<td align="center"><negrita>Localización</negrita></td>
 </tr>
 <tr>
 <td>Paleártica</td>
@@ -523,7 +526,7 @@ mediterráneos.</p>
 >región neártica</negrita>.</p>
 <profundiza>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso100&amp;IdRecurso=RES-A0E0D99496324DEBA084A374F951E1B5"
+destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso250&amp;IdRecurso=RES-A0E0D99496324DEBA084A374F951E1B5"
 >La ruptura de Pangea</enlace>
 </profundiza><seccion2
 id="S2_CS_08_10_CO_FD4702C483844B3B87985281649382C9">
@@ -1191,8 +1194,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso190&amp;IdRecurso=RES-0379EC
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso210&amp;IdRecurso=RES-45DA18ED5DBD44EBBDBF6E97BE04F4B2"
->Competencias: estudio de las especies endémicas en las regiones biogeográficas</enlace><?Pub
-Caret -1?>
+>Competencias: estudio de las especies endémicas en las regiones biogeográficas</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_10_CO_Recurso200&amp;IdRecurso=RES-000F6B5256E2417B8AD7FF29DE0A6D31"
 >Proyecto: estudio de los ecosistemas</enlace>
