@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<libro id="CS_09_12_CO">
+  <libroTitulo>Las ciudades y el urbanismo</libroTitulo>
+  <seccion1 id="S1_CS_09_12_CO_CFCF0F5B0F68434F9509D123DF3476FA">
+    <seccion1Titulo>¿Qué es una ciudad?</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_09_12_CO_img_01_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso010&amp;IdRecurso=RES-D4DF59DE5F9842F7A2DAFCC692F7EAA1">Los rasgos principales de la ciudad</enlace>
+      </profundiza>
+      <seccion2 id="S2_CS_09_12_CO_F9B75C8AF2544FDF8D579728AD880780">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_02_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso020&amp;IdRecurso=RES-2BD5EC574A3A47EDB9C381E0D375F9F2">Refuerza tu aprendizaje: ¿Qué es una ciudad?</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_12_CO_4A848E29E41C4EFA8AD72BA69B322F12">
+    <seccion1Titulo>La forma y funciones de la ciudad</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CS_09_12_CO_11E0018C52E34D06AD13F2B36B0CEAF6">
+        <seccion2Titulo>La trama urbana y los tipos de planos</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_03_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso030&amp;IdRecurso=RES-2FD272E3FCFA4AE8A216B0034FB176EF">Procedimiento: comentar e interpretar un plano urbano</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_04_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso040&amp;IdRecurso=RES-5CF927F7DA4446238505279E0362927B">Distingue los distintos planos urbanos</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_05_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso050&amp;IdRecurso=RES-EA9373696A23499C852E16AEC24D1A54">Identifica las ventajas e inconvenientes de los distintos planos urbanos</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_09_12_CO_FDE2B0A1E27E4A8BB06B430E440A128E">
+        <seccion2Titulo>Las funciones urbanas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_06_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso060&amp;IdRecurso=RES-28AEBFD287E04637BD2907E10CDCFDF8">Reconoce las principales funciones del espacio urbano</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_07_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso070&amp;IdRecurso=RES-9C8A6F3E522B4B41917C4C46BB0FB2AB">Reconoce las partes de una ciudad</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_08_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso080&amp;IdRecurso=RES-AAD2ED2244E544528BF6F8F62492CC73">Refuerza tu aprendizaje: La forma y funciones de las ciudades</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_12_CO_15F320A271D74F778EE698D99D587F1A">
+    <seccion1Titulo>El urbanismo y su evolución</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CS_09_12_CO_E1AA593A40454AEB93B30B9241F67A53">
+        <seccion2Titulo>La ciudad postindustrial</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_09_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso090&amp;IdRecurso=RES-130247EDA7CC43D08CAC6E4162DBD97A">¿Qué es el urbanismo?</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_10_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso100&amp;IdRecurso=RES-7708BAED51484C14985AD854B7E968CC">Fenómenos urbanos en la actualidad</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_11_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso110&amp;IdRecurso=RES-972A9D6B373A4FDF81920EB3F451D0AA">Refuerza tu aprendizaje: El urbanismo y su evolución</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_13_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso130&amp;IdRecurso=RES-A6F022EEFFD645D5B0ED3BD281289B7F">Refuerza tu aprendizaje: Las grandes ciudades en el mundo actual</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_16_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso160&amp;IdRecurso=RES-B2AE8D4F3DDF4688834529FCF69D5E0B">Refuerza tu aprendizaje: Los problemas de la ciudad</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_12_CO_3CA2712CC068485CB060406CE0C13243">
+    <seccion1Titulo>Las grandes ciudades en el mundo actual</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_09_12_CO_img_12_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso120&amp;IdRecurso=RES-A208129118F440EDAE7CB5CAC866697B">La población urbana en el mundo</enlace>
+      </profundiza>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_12_CO_3BFE9DF42CFE4B93B83900F84467D7C2">
+    <seccion1Titulo>Los problemas sociales y medioambientales de la ciudad</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_09_12_CO_img_14_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso140&amp;IdRecurso=RES-2D5F85E937DC4AF490D6676F1CCE5A99">Problemas sociales y medioambientales en la ciudad</enlace>
+      </profundiza>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_09_12_CO_img_15_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso150&amp;IdRecurso=RES-2AA0291807904619879401F7C20F9936">Relaciona problemas urbanos y posibles soluciones</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_12_CO_89C03DFCD4DB410A84F8DA0CE8CB9ACB">
+    <seccion1Titulo>Competencias</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_09_12_CO_img_17_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso170&amp;IdRecurso=RES-8152ADB634C848B280FE1BC1757F7157">Competencias: comentario e interpretación de un plano urbano</enlace>
+      </practica>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_09_12_CO_img_18_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso180&amp;IdRecurso=RES-87837F58B863427E80EDCB3E19879834">Proyecto: análisis de la relación entre plano y problemas urbanos</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <masinformacion id="MI_CS_09_12_CO_E61061DC616340FF8DAC27F02E30E528">
+    <mapaconceptual>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso200&amp;IdRecurso=RES-85FCC7E9096D48C89CCF78B977CBDDEC">Mapa Conceptual</enlace>
+    </mapaconceptual>
+    <autoevaluate>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso210&amp;IdRecurso=RES-BD9103ECB6A345E2B8898E9617183382">Evaluación</enlace>
+    </autoevaluate>
+    <enlacesreferencia>
+      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+    </enlacesreferencia>
+  </masinformacion>
+</libro>

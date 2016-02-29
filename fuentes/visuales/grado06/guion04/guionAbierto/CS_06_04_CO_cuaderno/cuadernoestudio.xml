@@ -1,509 +1,648 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_06_04_CO">
-  <libroTitulo>Civilizaciones de la Antigüedad: India y China</libroTitulo>
-  <seccion1 id="S1_CS_06_04_CO_F45905833BCB4B3691A9BE754A7792A5">
-    <seccion1Titulo>India en la Antigüedad</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_06_04_CO_16B8F112836B464FB172182FB0B055F9">
-        <seccion2Titulo>Evolución histórica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_01_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso010&amp;IdRecurso=RES-07FC1CD89D5C4293800CE7B3FEB5B62D">Video como media principal - 01</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso020&amp;IdRecurso=RES-B5BF83DDE3334A209225446F757FE782">Video como media principal - 02</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso030&amp;IdRecurso=RES-1B86E46C0C4C4C6895BC315E9A2FCF1B">Recurso M1C-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_04_CO_BD45268073034A9E8BC741B6A1DB2454">
-        <seccion2Titulo>Organización económica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_04_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso040&amp;IdRecurso=RES-DBA9C57139F744009BC1D6C5E7368CB9">Recurso M5D-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_04_CO_00243E08915E497FBC6D5EF7B8698500">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso050&amp;IdRecurso=RES-F853E89A30874930BBECB25116D459BD">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_04_CO_33407B365AAC4FC496021DA3B3D48F1C">
-    <seccion1Titulo>Los aportes culturales de India en la Antigüedad</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_04_CO_img_06_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso060&amp;IdRecurso=RES-77B9DC02FAD3495D90C6838199A929FE">Recurso M5A-01</enlace>
-      </practica>
-      <seccion2 id="S2_CS_06_04_CO_76A3A9E6DBF4417ABFEF0A5EEFE990E6">
-        <seccion2Titulo>La religión de India en la Antigüedad</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_07_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso070&amp;IdRecurso=RES-8EF282233AEC4F61B7C4567989D0F96F">Recurso F4-01</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_08_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_09_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso090&amp;IdRecurso=RES-1BC9A6BE1B8E48FF9EB6873213642196">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_04_CO_10EE385B1A61402F9354A239B47B6D7B">
-    <seccion1Titulo>China en la Antigüedad</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_06_04_CO_9FB9B4C4CD8F4208BB91909CB1C1C219">
-        <seccion2Titulo>El medio geográfico</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_10_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso100&amp;IdRecurso=RES-CB6BF7958299455587B2C5DD0B986DE9">Recurso M2A-01</enlace>
-          </practica>
-          <seccion3 id="S3_CS_06_04_CO_BCFC3DF43B0340BABF792DEFAC871A4C">
-            <seccion3Titulo>Dinastía Zhou (1122 - 221 a. C.)</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_04_CO_img_11_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_06_04_CO_EF02CBC770D1415E92773766D05C3A08">
-            <seccion3Titulo>Dinastía Ch’in (221-206 a. C.)</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_04_CO_img_12_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso120&amp;IdRecurso=RES-70A81DD29CCF4652A1054DE9590E5F40">Video como media principal - 03</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_06_04_CO_E5109E106F554AC38BF33947B9C69D60">
-            <seccion3Titulo>Dinastía Han (206 a. C. – 220 d. C.)</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_04_CO_img_13_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_04_CO_CB29E3FBA3BC4380A91310A0FCDBEFF6">
-        <seccion2Titulo>Organización política y social</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_14_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso140&amp;IdRecurso=RES-F6898C2C248E48F5A6496F39A4C5570B">Recurso M5D-02</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso150&amp;IdRecurso=RES-BD12FBFDA0FA406D8ABE47027E217599">Recurso M1B-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_16_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso160&amp;IdRecurso=RES-A057B8D3A0BB48AD8BC7C087FE9D9BD6">Recurso M5B-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_17_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso170&amp;IdRecurso=RES-8BD44A7CDD194FE787214D28B2D4CB07">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_04_CO_D74983BB191D4CE298C592EA32DDC624">
-    <seccion1Titulo>Los aportes culturales de China en la Antigüedad</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_04_CO_img_18_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <seccion2 id="S2_CS_06_04_CO_9B9AB0C0FD1A4AC197D674A604A9F154">
-        <seccion2Titulo>La religión de China en la Antigüedad</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_19_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso190&amp;IdRecurso=RES-08CA7F4BCE614957B373244BEF3C42A5">Video como media principal - 04</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_20_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso200&amp;IdRecurso=RES-B16CD3F2735A4FCA841924E91A169710">Recurso M2C-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_04_CO_img_21_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso210&amp;IdRecurso=RES-B063485C7B974AFFB7B0648DD0813805">Recurso M101A-04</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_04_CO_7439267A094A486899F9C45D188AF090">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_04_CO_img_22_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso220&amp;IdRecurso=RES-C18EA3C4A0F44396A3B7123E977DA0EA">Recurso M102AB-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_04_CO_img_23_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso230&amp;IdRecurso=RES-A4C6EBDF4E7343D6A284BC264EE5EE54">Recurso F13-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_06_04_CO_7306A86726AD45C7A16E9C3CA87C5C2A">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso250&amp;IdRecurso=RES-6841BD9A7B004A718A80754FCC1398A0">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso260&amp;IdRecurso=RES-4A29CDDA3DB449CF834FFD8CB475DE35">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Civilizaciones de la Antigüedad: India y China</libroTitulo>
+<seccion1 id="S1_CS_06_04_CO_F45905833BCB4B3691A9BE754A7792A5">
+<seccion1Titulo>India en la Antigüedad</seccion1Titulo>
+<seccion1Texto>
+<p>Desde tiempos remotos la Península de Indostán fue poblada por
+migraciones provenientes de Occidente. Los primeros pobladores entraron
+a la península por el delta del río <negrita>Indo</negrita>. Eran
+hombres y mujeres llamados <negrita>drávidas</negrita>, de pequeña
+estatura, tez oscura y cabello crespo, cuya forma de vida era primitiva.
+Llega luego en el siglo XX a. C. una rama de los pueblos <negrita
+>arios</negrita>: pastores nómadas que ingresaron a la región del
+valle del Indo por el valle de Kabul y dominaron y esclavizaron a
+los drávidas. Estos pueblos continuaron migrando hacia el sur.</p>
+<recuerda><recuerdaTexto>
+<p>Los <negrita>drávidas</negrita> fueron los primeros pobladores
+de la India; luego los arios provenientes de Occidente llegaron al
+valle del río Indo y los desplazaron, sometiéndolos y reduciéndolos
+a la <negrita>servidumbre</negrita>.</p>
+</recuerdaTexto></recuerda>
+<p>Los pueblos que conquistaron la península fueron artífices de grandes
+transformaciones culturales, religiosas y políticas.</p>
+<seccion2 id="S2_CS_06_04_CO_16B8F112836B464FB172182FB0B013G0">
+<seccion2Titulo>El medio geográfico</seccion2Titulo>
+<seccion2Texto>
+<p>La India es una península ubicada en el centro de <negrita>Asia
+meridional</negrita>. Limita al norte con las montañas del Himalaya,
+y comprende, de occidente a oriente, la región del Indo; limita al
+sur con el océano Índico; al oriente con el río Brahmaputra y el golfo
+de Bengala; al occidente con los montes Hindu-Kush y el mar de Omán.</p>
+<imagen src="CS_06_04_CO_IMG01_small.jpg">
+<p>La Península de la India, ubicada en el centro de Asia meridional,
+fue el escenario de la civilización India. En el valle del Indo y
+sus afluentes (territorio que hoy ocupa Pakistán) florecieron importantes
+centros urbanos como Harappa, Mohenho Daro, Lothal, Dholavira, Ganeriwala
+y Rakhigarhi.</p>
+</imagen>
+<p>La región del Indo brindó a los primeros pobladores de la India
+fertilidad y suelos apropiados para el desarrollo de la agricultura
+en su curso superior, pero en su curso inferior era seca y poco productiva.
+La región del desierto de Thar y el valle del río Ganges, con clima
+cálido, suelos húmedos y vegetación copiosa debido a las lluvias periódicas
+típicas del clima monzón se hacía inclemente en una época del año,
+por lo tanto las actividades económicas debían acondicionarse.</p>
+<p>El centro de la península, con llanuras fértiles, permitió un <negrita
+>sedentarismo</negrita> basado en la <negrita>agricultura</negrita
+> y la <negrita>ganadería</negrita>. El sur, seco y rocoso, brindó <negrita
+>minerales</negrita> y <negrita>metales</negrita>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_04_CO_16B8F112836B464FB172182FB0B055F9">
+<seccion2Titulo>Evolución histórica</seccion2Titulo>
+<seccion2Texto>
+<p>Las migraciones de occidente dan origen a los periodos históricos
+de la civilización. Se caracterizan por el dominio de los pueblos
+invasores sobre los establecidos.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso010&amp;IdRecurso=RES-07FC1CD89D5C4293800CE7B3FEB5B62D"
+>Civilización del Indo</enlace>
+</profundiza>
+<table border="1"><caption>Periodos históricos de la civilización
+India en la Antigüedad</caption><colgroup><col width="17*"/><col
+width="17*"/><col width="55*"/></colgroup>
+<tbody>
+<tr>
+<td align="center">PERIODOS</td>
+<td align="center">DURACIÓN</td>
+<td align="center">CARACTERÍSTICAS</td>
+</tr>
+<tr>
+<td><negrita>Mohenjo- daro y Harappa</negrita></td>
+<td>2500 - 1500 a. C</td>
+<td>• Gobiernos monárquicos y aristocráticos.<br/>• Construcciones
+de adobe, madera y pajas. Inventaron el ladrillo.<br/>• Sociedades
+estratificadas.<br/>• Economía basada en la agricultura.<br/>• Hallazgos
+de monedas similares a las mesopotámicas<enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=130251&amp;ruta=Buscador"
+> [VER]</enlace>.</td>
+</tr>
+<tr>
+<td><negrita>Védico</negrita></td>
+<td>1500 - 1000 a. C.</td>
+<td>• Los arios conquistan el norte de la India y someten a los drávidas.<br
+/>• Introducen el caballo y los conocimientos de la metalurgia, la
+carpintería y las técnicas de navegación.<br/>• Incorporan a la nueva
+cultura textos sagrados llamados <negrita>Vedas</negrita>.<br/>• Definen
+la sociedad en <negrita>castas</negrita> o estamentos sociales jerarquizados
+y dominados por los <negrita>brahmanes</negrita>, sacerdotes que ostentaron
+el poder político<enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=139617&amp;ruta=Buscador"
+> [VER]</enlace>.</td>
+</tr>
+<tr>
+<td><negrita>Brahmánico</negrita></td>
+<td>1000 - 321 a. C.</td>
+<td>• Adoptan el <negrita>hinduismo</negrita> como su religión, dirigidos
+por los brahmanes y desarrollan una cultura más avanzada.<br/>• Hacia
+el siglo V a. C., el <negrita>budismo</negrita>, religión proveniente
+de los pueblos del Himalaya desplaza el hinduismo y toma fuerza en
+toda la civilización.</td>
+</tr>
+<tr>
+<td><negrita>Imperios</negrita></td>
+<td>321 a. C. - 535</td>
+<td>• El poder de los brahmanes se debilita y pueblos del Himalaya
+enfrentan a la cultura aria.<br/>• Se forman reinos y dominios como
+los <negrita>Mauria</negrita> (al sur de la península<enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=90241&amp;ruta=Buscador"
+> [VER]</enlace>.<br/>• Durante el siglo V se inicia la invasión de
+los <negrita>hunos</negrita>, pueblo <negrita>mongol</negrita> que
+pone fin a la civilización.</td>
+</tr>
+</tbody>
+</table>
+<imagen src="CS_06_04_CO_IMG02_small.jpg">
+<p><negrita>Mohenjo-Daro</negrita> es un yacimiento arqueológico en <negrita
+>Pakistán</negrita> situado a orillas del Indo, en la provincia del
+Sind. Fue una importante sociedad urbana que floreció en el valle
+del Indo entre el III y II milenio a. C. La reconstrucción arqueológica
+ha revelado el plano urbanístico de la ciudad con edificios públicos
+y religiosos en la zona alta, y con viviendas, almacenes y tiendas
+en la parte inferior. Fue declarada Patrimonio de la Humanidad en
+1980.</p>
+</imagen>
+<imagen src="CS_06_04_CO_IMG03_small.jpg">
+<p><negrita>Harappa</negrita> es un yacimiento prehistórico del valle
+del Indo (2500-1700 a. C.). Alberga una ciudad de planta cuadrangular
+con un retículo de calles regular, bloques de viviendas de ladrillo
+de dos o más pisos, sistema de alcantarillado y silos; estaba dominada
+por la acrópolis, donde se concentraban los edificios públicos.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso020&amp;IdRecurso=RES-B5BF83DDE3334A209225446F757FE782"
+>Imperio Maurya</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso030&amp;IdRecurso=RES-1B86E46C0C4C4C6895BC315E9A2FCF1B"
+>Los periodos históricos de India en la Antigüedad</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_04_CO_BD45268073034A9E8BC741B6A1DB3565">
+<seccion2Titulo>Organización política y social</seccion2Titulo>
+<seccion2Texto>
+<p>La sociedad india estuvo dirigida por <negrita>gobiernos monárquicos</negrita
+>. Durante el dominio de los Vedas, los reyes eran también jefes militares
+cuyo poder estaba limitado por dos asambleas. Bajo el gobierno de
+los <negrita>brahmanes</negrita>, el poder político fue considerado
+divino por la interpretación de los libros sagrados, los Vedas.</p>
+<p>Derivada del poder divino, se estructuró la sociedad en <negrita
+>castas</negrita> o sectores sociales rígidos y muy bien diferenciados.
+Los arios mantenían sometido al pueblo bajo prejuicios raciales y <negrita
+>étnicos</negrita> para preservar su poder político y religioso.</p>
+<imagen ampliable="no" src="CS_06_04_CO_IMG04_small.jpg">
+<p>Estructura de la sociedad india bajo el dominio de los arios.</p>
+</imagen>
+<destacado><destacadoTitulo>El sistema de castas en la India</destacadoTitulo>
+<destacadoTexto>
+<p>El <negrita>hinduismo</negrita> estableció el sistema de castas
+en la India hace más de 2 500 años. Según este <negrita>orden sagrado
+de la sociedad</negrita>, las personas nacen en una de las castas
+de <negrita>brahmanes</negrita>, <negrita>chatrias</negrita>, <negrita
+>vaisias</negrita>, <negrita>sudras</negrita> y <negrita>parias</negrita
+> y no pueden ascender a otro nivel.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_04_CO_BD45268073034A9E8BC741B6A1DB2454">
+<seccion2Titulo>Organización económica</seccion2Titulo>
+<seccion2Texto>
+<p>La base de la economía de la India en la Antigüedad fue la agricultura.
+Los arios crearon <negrita>aldeas agrícolas</negrita> que, con la
+especialización del trabajo, permitieron el desarrollo de la <negrita
+>ganadería de bovinos y caballos</negrita>, la <negrita>metalurgia</negrita
+> y el <negrita>comercio</negrita>. También surgieron los carpinteros,
+artesanos y comerciantes. Las castas sociales se especializaron en
+actividades económicas que las diferenciaban entre sí.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso040&amp;IdRecurso=RES-DBA9C57139F744009BC1D6C5E7368CB9"
+>La sociedad y la economía de India en la Antigüedad</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_04_CO_00243E08915E497FBC6D5EF7B8698500">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso050&amp;IdRecurso=RES-F853E89A30874930BBECB25116D459BD"
+>Refuerza tu aprendizaje: India en la Antigüedad</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_04_CO_33407B365AAC4FC496021DA3B3D48F1C">
+<seccion1Titulo>Los aportes culturales de India en la Antigüedad</seccion1Titulo>
+<seccion1Texto>
+<p>El pueblo indio aportó al mundo grandes conocimientos; entre ellos
+se destacan: en la ciencia, la <negrita>numeración decimal</negrita
+>, la aritmética y el <negrita>álgebra</negrita>; en la literatura,
+los poemas épicos como el <negrita>Mahabarata</negrita> y el <negrita
+>Ramayana</negrita>, atribuidos al poeta Vyasa, y también los Vedas,
+libros sagrados arios, todos escritos en sánscrito, idioma sagrado
+que significa “perfecto”.</p>
+<p>En el arte se destacaron las esculturas, pinturas y grandes construcciones
+de templos, además de obras musicales y artes marciales<enlace
+destino="https://youtu.be/Xib4CnElyyI"> [VER]</enlace>.</p>
+<imagen ampliable="no" src="CS_06_04_CO_IMG05_small.jpg">
+<p>Pintura de Brahma. Los hindúes trabajaron ideas religiosas, tradiciones
+y costumbres cotidianas.</p>
+</imagen>
+<imagen src="CS_06_04_CO_IMG06_small.jpg">
+<p>Los hindúes se destacaron por las construcciones monumentales de
+las <negrita>pagodas</negrita> o templos, decorados con imágenes religiosas,
+actividades diversas en las que se destaca la <negrita>policromía</negrita
+>.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso060&amp;IdRecurso=RES-77B9DC02FAD3495D90C6838199A929FE"
+>Aportes culturales de la civilización de India en la Antigüedad</enlace>
+</practica><seccion2
+id="S2_CS_06_04_CO_76A3A9E6DBF4417ABFEF0A5EEFE990E6">
+<seccion2Titulo>La religión de India en la Antigüedad</seccion2Titulo>
+<seccion2Texto>
+<p>Los pueblos originarios fueron <negrita>animistas</negrita>, es
+decir, tenían dioses para las fuerzas de la naturaleza. Con la llegada
+de los arios se inicia la religión <negrita>védica</negrita> de carácter <negrita
+>politeísta</negrita>. Surge así el <negrita>brahmanismo</negrita
+>, por ser de dominio de los sacerdotes llamados brahmanes, quienes
+tenían el poder político, religioso, socioeconómico y científico.
+Posteriormente se impone el <negrita>budismo</negrita>, que enfrenta
+la rigidez y el dogmatismo brahmánico<enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=554616&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>El <negrita>hinduismo</negrita> fue la forma más estructurada del
+vedismo y brahmanismo<enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=8337&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_04_CO_IMG07_small.jpg">
+<p>Estatua de Buda, príncipe Shatriya, llamado el iluminado. Propone
+acabar con el sufrimiento y alcanzar el <negrita>nirvana</negrita
+>, un estado de perfección.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso070&amp;IdRecurso=RES-8EF282233AEC4F61B7C4567989D0F96F"
+>Amplía tus conocimientos: Religiones de la India</enlace>
+</profundiza>
+<imagen src="CS_06_04_CO_IMG08_small.jpg">
+<p>Distribución de las distintas tendencias del hinduismo en el territorio
+indio. A partir del año 800 el hinduismo se dividió en diversas ramas.
+La religión hindú está estrechamente ligada a la tradición de la India.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso080&amp;IdRecurso=RES"
+>Las religiones en la India de la Antigüedad</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_04_CO_00243E08915E497FBC6D5EF7B8699600">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso090&amp;IdRecurso=RES-1BC9A6BE1B8E48FF9EB6873213642196"
+>Refuerza tu aprendizaje: Los aportes culturales de India en la Antigüedad</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_04_CO_10EE385B1A61402F9354A239B47B6D7B">
+<seccion1Titulo>China en la Antigüedad</seccion1Titulo>
+<seccion1Texto>
+<p>En el territorio que hoy ocupa la República Popular China, hace
+varios milenios habitaron pueblos creadores de una civilización majestuosa
+que desarrolló la escritura, la matemática, la astronomía, la medicina,
+la filosofía, entre otras ciencias, y dejó a la humanidad inventos
+importantes como la <negrita>brújula</negrita>, el <negrita>papel</negrita
+>, la <negrita>tinta</negrita>, la <negrita>imprenta</negrita> y la <negrita
+>pólvora</negrita>.</p>
+<p>Desde sus orígenes, la civilización china tuvo que enfrentar invasiones
+de diversos pueblos, pero su cultura se mantuvo intacta y antes que
+sucumbir a sus enemigos, logró absorberlos y obtener el mayor provecho.</p>
+<recuerda><recuerdaTexto>
+<p>Durante la Edad Antigua, en China se desarrolló una importante
+civilización que dejó al mundo inventos importantes y conocimientos
+en el campo de la ciencia.</p>
+</recuerdaTexto></recuerda>
+<imagen src="CS_06_04_CO_img_09_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<seccion2 id="S2_CS_06_04_CO_9FB9B4C4CD8F4208BB91909CB1C1C219">
+<seccion2Titulo>El medio geográfico</seccion2Titulo>
+<seccion2Texto>
+<p>China es un amplio territorio conformado por diversos paisajes;
+al norte se encuentran las estepas de <negrita>Mongolia</negrita> y
+el desierto de <negrita>Gobi</negrita>; el sur está cubierto de espesas
+junglas; al occidente se encuentran los montes <negritacursiva>Tsin-Ling</negritacursiva
+>, <negrita>Kuen Lun</negrita>, la cordillera del <negrita>Himalaya</negrita
+> y la meseta del <negrita>Tíbet</negrita>, y al oriente, en el océano
+Pacífico, están el <negrita>mar Amarillo</negrita> y el <negrita>mar
+Meridional de la China</negrita>.</p>
+<p>Las llanuras de los ríos <negritacursiva>Hoang-ho</negritacursiva
+> o río Amarillo, y <negritacursiva>Yang-Tse-Kiang</negritacursiva
+> o río Azul constituyen el escenario geográfico en el que se desarrolló
+la milenaria civilización china.</p>
+<imagen src="CS_06_04_CO_IMG10_small.jpg">
+<p>En Asia, en los valles de los ríos <negritacursiva>Hoang-ho</negritacursiva
+> y <negritacursiva>Yang-Tse-Kiang</negritacursiva> surgió la milenaria
+civilización china. Las barreras naturales que la rodeaban la mantuvieron
+aislada por muchos siglos del resto del mundo.</p>
+</imagen>
+<p>Los pueblos que habitaron China durante la Edad Antigua tuvieron
+que afrontar el rigor de la condiciones del clima, lo que los obligó
+a construir <negrita>diques</negrita> de contención para proteger
+los cultivos en épocas de lluvia y <negrita>canales de riego</negrita
+> para abastecerse de agua en los tiempos de sequía. Estas obras posibilitaron
+el abastecimiento de productos agrícolas y el crecimiento de la población.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso100&amp;IdRecurso=RES-CB6BF7958299455587B2C5DD0B986DE9"
+>La antigua civilización china </enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_04_CO_CB29E3FBA3BC4380A91310A0FCDBDGG7">
+<seccion2Titulo>Evolución histórica</seccion2Titulo>
+<seccion2Texto>
+<p>En Asia se han descubierto fósiles de antecesores al hombre actual
+con cerca de 500 000 años de antigüedad, el más representativo es
+el <negritacursiva>Hombre de Pekín</negritacursiva>. Científicos afirman
+que sus descendientes habitaron el lugar hace unos 50 000 años, vivieron
+en <negrita>cavernas</negrita>, elaboraron <negrita>herramientas</negrita
+> y <negrita>dominaron el fuego</negrita>.</p>
+<imagen ampliable="no" src="CS_06_04_CO_IMG10_small.jpg">
+<p>Al suroeste de Pekín en el yacimiento de <negritacursiva>Zhoukoudian</negritacursiva
+> fueron encontrados restos fósiles conocidos como el <negritacursiva
+>Hombre de Pekín</negritacursiva>, que datan de hace 500 000 a 250
+000 años. Son restos de más de 40 individuos que se han considerado
+de gran valor arqueológico para desentrañar la evolución de la humanidad.
+Desaparecieron en la <negrita>Segunda Guerra Mundial</negrita> cuando
+fueron trasladados a Estados Unidos.</p>
+</imagen>
+<p>Entre el 7000 y el 1600, en el periodo <negrita>Neolítico</negrita
+>, descendientes del género del <cursiva>hombre de Pekín</cursiva
+> perfeccionaron su organización social, sus conocimientos del medio
+y desarrollaron la agricultura en las llanuras fluviales.</p>
+<p>Con el paso del tiempo, otros pueblos procedentes de diversos lugares
+de Asia confluyeron en la llanura del <negritacursiva>Hoahg-ho</negritacursiva
+> o río Amarillo, hecho que originó mezclas culturales que hicieron
+posible que a mediados del tercer milenio a. C. surgiera en China
+la civilización.</p>
+<p>En la historia de la antigua civilización china se distinguen las
+dinastías <negritacursiva>Shang, Zhou</negritacursiva>, <negritacursiva
+>Ch’in</negritacursiva> y <negritacursiva>Han</negritacursiva>, que
+gobernaron entre 1766 a. C. y 220.</p>
+<recuerda><recuerdaTexto>
+<p>La civilización china surgió en los valles de los ríos <negrita
+>Hoang-ho</negrita> y <negrita>Yang-Tse-Kiang</negrita> a mediados
+del tercer milenio a. C.</p>
+</recuerdaTexto></recuerda><seccion3
+id="S3_CS_06_04_CO_BCFC3DF43B0340BABF792DEFAC872B5D">
+<seccion3Titulo>Dinastía Shang (1766 - 1122 a. C.)</seccion3Titulo>
+<seccion3Texto>
+<p>En este periodo la sociedad estaba organizada en <negrita>señoríos</negrita
+> que concentraban el poder político, económico, religioso y militar
+y obedecían a un <negrita>emperador</negrita>, que ejercía un relativo
+poder sobre sus súbditos.</p>
+<p>Esta sociedad desarrolló la <negrita>escritura</negrita>, creó
+un <negrita>calendario</negrita>, construyó <negrita>canales de riego</negrita
+> y rindió culto a numerosos dioses aunque su principal deidad fue <negritacursiva
+>Shang-Ti</negritacursiva> el dios supremo, creador del universo.
+Por esta época, la sociedad china trabajó el hueso, el jade, el marfil
+y el bronce.</p>
+<imagen ampliable="no" src="CS_06_04_CO_IMG11_small.jpg">
+<p>En la antigua sociedad china <negritacursiva>Shang-Ti</negritacursiva
+> era el dios supremo de la naturaleza y la humanidad, gobernante
+de los espíritus ancestrales que actuaban bajo sus órdenes. En los
+comienzos de la China dinástica <cursiva>Shang-Ti</cursiva> nunca
+era representado; las primeras imágenes aparecieron con el <negrita
+>taoísmo</negrita>.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_04_CO_BCFC3DF43B0340BABF792DEFAC871A4C">
+<seccion3Titulo>Dinastía Zhou (1122 - 221 a. C.)</seccion3Titulo>
+<seccion3Texto>
+<p>El pueblo <cursiva>Zhou</cursiva>, procedente del occidente, derrocó
+a la dinastía <cursiva>Shang</cursiva> y bajo su gobierno expandieron
+la cultura por el sur y el oriente del territorio. Los emperadores <cursiva
+>Zhou</cursiva> no establecieron un control absoluto del territorio
+de la sociedad, lo que favoreció el surgimiento de numerosos <negrita
+>principados</negrita> que se hacían la guerra por imponer su autoridad.</p>
+<p>En esta época penetró el <negrita>budismo</negrita> y surgieron
+importantes filósofos como <negrita>Confucio</negrita> y <negrita
+>Lao-tse</negrita>, fundador del <negrita>taoísmo</negrita>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso110&amp;IdRecurso=RES"
+>Pensamiento de Confucio y de Lao-tse</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_04_CO_EF02CBC770D1415E92773766D05C3A08">
+<seccion3Titulo>Dinastía Ch’in (221 - 206 a. C.)</seccion3Titulo>
+<seccion3Texto>
+<p>La dinastía <negrita>Ch’in</negrita> da lugar al primer imperio
+centralizado en la historia de China. El emperador <negritacursiva
+>Chi Huang Ti</negritacursiva> impuso su poder en todo el territorio,
+unificó la escritura y el sistema de leyes, redistribuyó las tierras,
+ordenó la construcción de caminos y canales de irrigación, pero su
+mayor obra fue la construcción de la <negrita>Gran Muralla</negrita
+> para proteger el territorio de las invasiones de los pueblos del
+norte<enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=92539&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_04_CO_IMG12_small.jpg">
+<p>La <negrita>Gran Muralla</negrita>, considerada la mayor fortificación
+del mundo, se extiende por el norte de China a lo largo de 6 000 km;
+tiene entre cinco y diez metros de altura y tramos en que su espesor
+abarca los siete metros. La parte superior es un camino empedrado
+con puestos de vigilancia para anunciar la presencia de invasores
+como los <negrita>hunos</negrita> y los <negrita>mongoles</negrita
+>. En 1987 la Unesco la declaró <negrita>Patrimonio de la humanidad</negrita
+>.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso120&amp;IdRecurso=RES-70A81DD29CCF4652A1054DE9590E5F40"
+>Crónica de la Dinastía Ch’in</enlace>
+</profundiza></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_04_CO_E5109E106F554AC38BF33947B9C69D60">
+<seccion3Titulo>Dinastía Han (206 a. C. – 220 d. C.)</seccion3Titulo>
+<seccion3Texto>
+<p>Los gobernantes de la dinastía <cursiva>Han</cursiva> expandieron
+el territorio hacia Asia central e impusieron un rígido control administrativo.
+Esta etapa se caracterizó por el afianzamiento del gobierno imperial
+cuyo sistema se mantuvo hasta comienzos del siglo XX. Fue también
+una época de gran desarrollo de la cultura y el comercio. Se consolidaron
+como religiones representativas el <negrita>budismo</negrita>, el <negrita
+>confucianismo</negrita> y el <negrita>taoísmo</negrita>.</p>
+<p>El siglo III se caracterizó por ininterrumpidas guerras civiles
+que llevaron a la división del imperio en varios reinos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso130&amp;IdRecurso=RES"
+>Las dinastías chinas</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_04_CO_CB29E3FBA3BC4380A91310A0FCDBEFF6">
+<seccion2Titulo>Organización política y social</seccion2Titulo>
+<seccion2Texto>
+<p>Durante la mayor parte de la Edad Antigua, China se constituyó
+en un <negrita>Estado feudal</negrita> gobernado por un rey. Extensos
+territorios del Estado eran administrados por <negrita>príncipes vasallos</negrita
+> con total autoridad sobre sus feudos, pero sometidos a la soberanía
+de su rey, a quien debían pagar importantes <negrita>tributos</negrita
+> y apoyar con sus <negrita>ejércitos</negrita>.</p>
+<imagen ampliable="no" src="CS_06_04_CO_IMG13_small.jpg">
+<p>Rey <negrita>Wu de Zhou</negrita>, fue el primer gobernante de
+la dinastía Zhou y se le atribuye la organización de China en un <negrita
+>Estado feudal</negrita> que se prolongó durante cuatro siglos.</p>
+</imagen>
+<p>Entre el siglo V a. C. y el año 221 a. C., China vivió la etapa
+conocida como <negrita>Periodo de los Reinos Combatientes</negrita
+>, caracterizado por continuas guerras por el poder; esta etapa culminó
+con el sometimiento del territorio a la autoridad absoluta del primer
+emperador <negrita>Qin Shi Huang</negrita>, fundador de la dinastía <negrita
+>Qin</negrita>.</p>
+<p>Desde entonces, los emperadores de China fueron reconocidos por
+su pueblo como <negrita>hijos del cielo</negrita> y como tal, obligados
+a ejecutar el buen gobierno para garantizar la prosperidad. Cuando
+esto no ocurría, se pensaba que el emperador había perdido la protección
+del cielo y lo apartaban de su cargo.</p>
+<imagen ampliable="no" src="CS_06_04_CO_IMG14_small.jpg">
+<p><negrita>Qin Shi Huang</negrita> se autoproclamó primer emperador
+de China en el año 221 a. C. Bajo su gobierno unificó el territorio,
+la moneda, la escritura y el sistema de pesas y medidas, construyó
+caminos y canales para conectar el territorio y facilitar el desplazamiento
+de tropas. A su muerte en el 210 a. C. fue enterrado en un mausoleo
+junto con el ejército de <negrita>soldados de terracota</negrita><enlace
+destino="http://www.nationalgeographic.com.es/articulo/historia/secciones/7638/monumental_mausoleo_los_guerreros_xian.html?_page=2"
+> [VER]</enlace>.</p>
+</imagen>
+<p>Tras la muerte de <negrita>Qin Shi Huang</negrita> se proclamó
+la dinastía <negrita>Han</negrita>, que conservó la esencia económica
+y política del gobierno del primer emperador como sello de identidad
+de la sociedad china.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso140&amp;IdRecurso=RES-F6898C2C248E48F5A6496F39A4C5570B"
+>El gobierno de China en la Antigüedad</enlace>
+</practica>
+<p>La sociedad china era rigurosamente estratificada; estaba dirigida
+por el <negrita>emperador</negrita> y su <negrita>corte imperial</negrita
+>, conformada por nobles, altos mandos militares y miembros del alto
+clero. Seguía en orden la clase de los <negrita>mandarines</negrita
+> encargados de la administración del Estado; luego estaba la <negrita
+>clase media</negrita> integrada por funcionarios del gobierno, militares,
+comerciantes y artesanos. La clase social mayoritaria estaba conformada
+por <negrita>campesinos</negrita>, que debían obediencia a un noble
+o a un mandarín. También había algunos campesinos libres y una minoría
+de <negrita>esclavos</negrita> capturados en las guerras.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso150&amp;IdRecurso=RES-BD12FBFDA0FA406D8ABE47027E217599"
+>La sociedad de China en la Antigüedad</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_04_CO_CB29E3FBA3BC4380A91310A0FCDBCAA2">
+<seccion2Titulo>Organización económica</seccion2Titulo>
+<seccion2Texto>
+<p>En la Edad Antigua, la base de la economía de China fue la <negrita
+>agricultura</negrita>, en la que destaca el cultivo de arroz, centeno,
+trigo, sorgo y frutas. Para asegurar su fuente de sustento, los gobernantes
+dirigieron la construcción de numerosos canales que facilitaban las
+labores de riego, permitían controlar las inundaciones y servían como
+vía de transporte para los productos.</p>
+<p>Otro importante renglón de la economía fue la explotación de <negrita
+>hierro</negrita>, la industria de la fundición para forjar armas,
+carruajes y herramientas y la producción de <negrita>cerámica</negrita
+> y <negrita>porcelana</negrita>.</p>
+<p>China mantuvo por más de tres mil años el monopolio de la fabricación
+de <negrita>seda</negrita>, producto de gran importancia económica
+que transportaban en enormes caravanas a través de la llamada <negrita
+>ruta de la seda</negrita>. Este producto fue usado como moneda para
+la obtención de caballos, oro y piedras preciosas<enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=152943&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso160&amp;IdRecurso=RES-A057B8D3A0BB48AD8BC7C087FE9D9BD6"
+>La ruta de la seda</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_04_CO_CB29E3FBA3BC4380A91310A0FCDBDBB4">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso170&amp;IdRecurso=RES-8BD44A7CDD194FE787214D28B2D4CB07"
+>Refuerza tu aprendizaje: China en la Antigüedad</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_04_CO_D74983BB191D4CE298C592EA32DDC624">
+<seccion1Titulo>Los aportes culturales de China en la Antigüedad</seccion1Titulo>
+<seccion1Texto>
+<p>La civilización china de la Antigüedad tuvo un <negrita>gran desarrollo</negrita
+> en diversos campos de la ciencia, la filosofía, las matemáticas,
+la astronomía, la arquitectura y la medicina. Destacan <negrita>inventos</negrita
+> como la escritura, el papel, la imprenta, la tinta, la pólvora,
+el compás, la brújula, la acupuntura, entre otros.</p>
+<destacado><destacadoTitulo>Inventos chinos</destacadoTitulo>
+<destacadoTexto>
+<p>En la <negrita>Edad Antigua</negrita>, además de la <negrita>brújula</negrita
+>, el <negrita>papel</negrita>, la <negrita>pólvora</negrita>, la <negrita
+>imprenta</negrita> y la <negrita>porcelana</negrita>, los chinos
+inventaron la <negrita>seda</negrita> y  guardaron celosamente el
+secreto para su fabricación durante tres mil años.</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso180&amp;IdRecurso=RES"
+>Inventos de China en la Antigüedad</enlace>
+</practica><seccion2
+id="S2_CS_06_04_CO_9B9AB0C0FD1A4AC197D674A604A9F154">
+<seccion2Titulo>La religión de China en la Antigüedad</seccion2Titulo>
+<seccion2Texto>
+<p>En China coexistieron el <negrita>taoísmo</negrita>, el <negrita
+>confucianismo</negrita> y el <negrita>budismo</negrita>. <negrita
+>Lao-Tse</negrita> fue el creador del taoísmo, doctrina que establece
+la existencia del <negrita>yin</negrita> o fuerza femenina, negativa;
+el <negrita>yang</negrita> o fuerza masculina, positiva y el <negrita
+>tao</negrita>, la fuerza conciliadora. Según esta doctrina la reflexión
+debe permitir encontrar el camino hacia la santidad eterna, la inmortalidad
+y la plenitud<enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=122911&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso190&amp;IdRecurso=RES-08CA7F4BCE614957B373244BEF3C42A5"
+>Religiones de China y Japón </enlace>
+</profundiza>
+<imagen src="CS_06_04_CO_IMG15_small.jpg">
+<p><negrita>Lao-Tse</negrita> nació al sur de China en el 694 a. C.
+Enseñó que la felicidad se alcanza cuando se <negrita>dominan los
+deseos</negrita> y se <negrita>practican las virtudes</negrita> de
+la verdad, la honestidad, la justicia y la piedad<enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=8719&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+</imagen>
+<p><negrita>Confucio</negrita> exaltó el respeto a los ancianos, las
+tradiciones, los muertos y la unidad de la familia. Los principios
+del confucianismo se asentaron en la práctica de la lealtad, sinceridad,
+obediencia, respeto y cortesía<enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=68688&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_04_CO_IMG16_small.jpg">
+<p><negrita>Confucio</negrita> (551 a. C.-479 a. C.) fue el creador
+de un <negrita>sistema moral</negrita> según el cual la sociedad alcanza
+la paz y la prosperidad cuando sus gobernantes obran con justicia
+y sabiduría, y ganan la obediencia y el respeto de sus súbditos.</p>
+</imagen>
+<imagen src="CS_06_04_CO_IMG17_small.jpg">
+<p>Ideas de la doctrina confucianista y principales textos que la
+componen.</p>
+</imagen>
+<p>El budismo, fundado por <negrita>Sidarta Gautama</negrita> en <negrita
+>India</negrita> hace cerca de 2 500 años, penetró en China bajo la
+dinastía Zhou e influyó en el ámbito político, filosófico, artístico
+y científico.</p>
+<imagen ampliable="no" src="CS_06_04_CO_IMG18_small.jpg">
+<p>Según el <negrita>budismo</negrita>, el camino para <negrita>extinguir
+el sufrimiento</negrita> consiste en encontrar la sabiduría, practicar
+la conducta ética y cultivar la mente y los sentimientos a través
+de la <negrita>meditación</negrita>, la <negrita>atención</negrita
+> y la <negrita>conciencia</negrita>.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso200&amp;IdRecurso=RES-B16CD3F2735A4FCA841924E91A169710"
+>Religiones en China en la Antigüedad</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_04_CO_9B9AB0C0FD1A4AC197D674A604A9G265">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso210&amp;IdRecurso=RES-B063485C7B974AFFB7B0648DD0813805"
+>Refuerza tu aprendizaje: Los aportes culturales de China en la Antigüedad</enlace>
+</profundiza></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_04_CO_7439267A094A486899F9C45D188AF090">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso220&amp;IdRecurso=RES-C18EA3C4A0F44396A3B7123E977DA0EA"
+>Competencias: comentario sobre la Gran Muralla china</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso230&amp;IdRecurso=RES-A4C6EBDF4E7343D6A284BC264EE5EE54"
+>Proyecto: análisis de los principios que rigen el budismo</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_06_04_CO_7306A86726AD45C7A16E9C3CA87C5C2A"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso250&amp;IdRecurso=RES-6841BD9A7B004A718A80754FCC1398A0"
+>Mapa conceptual del tema Civilizaciones de la Antigüedad: India y
+China</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_04_CO_Recurso260&amp;IdRecurso=RES-4A29CDDA3DB449CF834FFD8CB475DE35"
+>Evalúa tus conocimientos sobre el tema Civilizaciones de la Antigüedad:
+India y China</enlace></autoevaluate><enlacesreferencia>
+<enlace
+destino="http://www.elportaldelaindia.com/El_Portal_de_la_India_Antigua/Religiones_de_la_India.html"
+>El portal de la India Antigua</enlace>
+<enlace destino="https://www.youtube.com/watch?v=PsalIysnT1g">Diana
+Uribe – Historia de la India</enlace>
+<enlace
+destino="http://china.globalasia.com/cultura-china/historia-de-china/"
+>Historia de China</enlace>
+</enlacesreferencia></masinformacion></libro>

@@ -2,7 +2,6 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="CS_06_05_CO">
 <libroTitulo>América precolombina</libroTitulo>
 <seccion1 id="S1_CS_06_05_CO_FAEFCDB3528841D3B27C00C1D130F7D3">
@@ -112,7 +111,7 @@ la Polinesia y <negrita>quechua</negrita> del Perú en palabras como <cursiva
 >kumara</cursiva> (camote), <cursiva>uno</cursiva> (agua), <cursiva
 >pucara</cursiva> (fortaleza) y en otros aspectos culturales, como
 la pachamanca, la talla o palo cavador, los cultivos, los dioses y
-las leyendas.</p>
+las leyendas.</p><?Pub Caret 81?>
 <imagen ampliable="no" src="CS_06_05_CO_IMG05_small.jpg">
 <p>Réplica de la balsa Kon-Tiki que utilizó Thor Heyerdahl en la expedición
 que hizo del Callao (Perú) a Tuamotú (Polinesia) para probar que era
@@ -125,8 +124,7 @@ posible viajar de la Polinesia a América en las embarcaciones de la
 de Bering y el océano Pacífico en búsqueda de regiones que les brindaran
 condiciones favorables de subsistencia, abundantes animales de <negrita
 >caza</negrita>, frutos para la <negrita>recolección</negrita>, fuentes
-de agua y ríos para la <negrita>pesca</negrita>, entre otros.</p><?Pub
-Caret -2?>
+de agua y ríos para la <negrita>pesca</negrita>, entre otros.</p>
 </recuerdaTexto></recuerda><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso020&amp;IdRecurso=RES-8E7435122852454A8906F1A76839DA93"
