@@ -1,468 +1,401 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!--Arbortext, Inc., 1988-2015, v.4002-->
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
 <libro id="CS_09_12_CO">
-<libroTitulo>Las ciudades y el urbanismo</libroTitulo>
-<seccion1 id="S1_CS_09_12_CO_CFCF0F5B0F68434F9509D123DF3476FA">
-<seccion1Titulo>¿Qué es una ciudad?</seccion1Titulo>
-<seccion1Texto>
-<p>En la actualidad, la mayor parte de la población mundial vive en <negrita
->ciudades</negrita>. Conocer qué es una ciudad, de qué modo se organiza
-y cuál ha sido la evolución del espacio urbano a lo largo de la historia
-ayuda a comprender cómo el <negrita>mundo actual</negrita>, sumido
-en pleno proceso de <negrita>globalización</negrita>, está formado
-por una <negrita>red urbana</negrita> que se extiende por todo el
-planeta.</p>
-<p>Una ciudad es aquel centro de población estable definido por su <negrita
->elevado número de habitantes</negrita> y su <negrita>alta densidad
-de población</negrita>, así como por sus <negrita>edificios</negrita
-> e <negrita>infraestructuras de comunicaciones</negrita>, y en el
-que predominan las actividades propias del <negrita>sector secundario</negrita
->. En la actualidad, la mayor parte de la población mundial vive en
-ciudades<enlace
-destino="http://aulaplaneta.planetasaber.com/AulaSaberHA/ficha.aspx?ficha=13673"
-> [VER]</enlace> y terciario<enlace
-destino="http://aulaplaneta.planetasaber.com/AulaSaberHA/ficha.aspx?ficha=13703"
-> [VER]</enlace>.</p>
-<imagen src="CS_09_12_CO_IMG01_small.jpg">
-<p><negrita>Nueva York</negrita> es una de las más grandes ciudades
-del mundo. En su <negrita>área metropolitana</negrita>, de la que
-también forman parte ciudades como Jersey City, Newark o New Rochelle,
-viven más de <negrita>veinte millones de personas</negrita>.</p>
-</imagen>
-<p>Según el número de habitantes, las ciudades se clasifican en:</p>
-<listaSinNumerar>
-<listaElemento><negrita>Pequeñas</negrita>: mayor de 10 000 habitantes.</listaElemento>
-<listaElemento><negrita>Medianas</negrita>: > de 50 000 habitantes.</listaElemento>
-<listaElemento><negrita>Grandes</negrita>: > de 200 000 habitantes.</listaElemento>
-</listaSinNumerar>
-<p>Hay que tener en cuenta que el criterio numérico para definir el
-tamaño de las ciudades varía según el país.</p>
-<recuerda><recuerdaTexto>
-<p>La densidad de población es el volumen de población que ocupa un
-determinado espacio. Se expresa en habitantes por kilómetro cuadrado
-(hab. / km<superindice>2</superindice>).</p>
-</recuerdaTexto></recuerda><profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso010&amp;IdRecurso=RES-D4DF59DE5F9842F7A2DAFCC692F7EAA1"
->Los rasgos principales de la ciudad</enlace>
-</profundiza><seccion2
-id="S2_CS_09_12_CO_F9B75C8AF2544FDF8D579728AD880780">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso020&amp;IdRecurso=RES-2BD5EC574A3A47EDB9C381E0D375F9F2"
->Refuerza tu aprendizaje: ¿Qué es una ciudad?</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_09_12_CO_4A848E29E41C4EFA8AD72BA69B322F12">
-<seccion1Titulo>La forma y funciones de la ciudad</seccion1Titulo>
-<seccion1Texto>
-<p>El espacio urbano no puede analizarse solo como una concentración
-de población. Este es un ente vivo que ha evolucionado a lo largo
-del tiempo tanto en su forma como en las funciones y actividades que
-se desarrollan en su interior.</p>
-<seccion2 id="S2_CS_09_12_CO_11E0018C52E34D06AD13F2B36B0CEAF6">
-<seccion2Titulo>La trama urbana y los tipos de planos</seccion2Titulo>
-<seccion2Texto>
-<p>La <negrita>trama urbana</negrita>, es decir, la forma como se
-distribuyen y organizan las calles y plazas de las ciudades, es el
-resultado de factores diversos (geográficos, históricos y sociales).</p>
-<destacado><destacadoTitulo>Los elementos de la morfología urbana</destacadoTitulo>
-<destacadoTexto>
-<p>Las <negrita>calles</negrita> comunican las distintas partes de
-la ciudad y alinean los edificios, mientras que las <negrita>plazas</negrita
-> son espacios destinados a la <negrita>vida comunitaria</negrita
->. Junto con  estos dos elementos básicos, también deben tenerse en
-cuenta los <negrita>barrios</negrita>, como pequeñas unidades dentro
-del espacio urbano.</p>
-</destacadoTexto></destacado>
-<p>Aunque en un principio los primeros núcleos urbanos crecieron de
-forma desordenada, con el paso del tiempo se amplió su espacio mediante
-una <negrita>planificación ordenada</negrita> que suele concretarse
-en dos <negrita>modelos urbanísticos</negrita>:</p>
-<listaSinNumerar>
-<listaElemento>El <negrita>plano ortogonal</negrita>: la trama urbana
-se asemeja a una cuadrícula. Las calles, rectilíneas, se cruzan de
-forma perpendicular.</listaElemento>
-<listaElemento>El <negrita>plano radiocéntrico</negrita>: la trama
-urbana se asemeja a la rueda de una bicicleta. Desde el centro surgen
-distintas calles que se prolongan de forma radial.</listaElemento>
-</listaSinNumerar>
-<recuerda><recuerdaTexto>
-<p><negrita>El plano</negrita> es la <negrita>representación gráfica</negrita
-> de la trama urbana de cualquier ciudad o población. A partir de
-los planos podemos, en muchas ocasiones, conocer algunos datos sobre
-la historia de la ciudad.</p>
-</recuerdaTexto></recuerda>
-<imagen src="CS_09_12_CO_IMG02_small.jpg">
-<p>El <negrita>Ensanche de Barcelona</negrita>, proyectado por <negrita
->Ildefonso Cerdà</negrita> en 1859, presenta un <negrita>plano ortogonal</negrita
-> con calles paralelas al mar cortadas por calles perpendiculares.
-Hay dos avenidas diagonales (la Meridiana y la Diagonal) que lo atraviesan.</p>
-</imagen>
-<imagen src="CS_09_12_CO_IMG03_small.jpg">
-<p>La <negrita>ampliación de París</negrita>, proyectada por el urbanista
-francés <negrita>Georges-Eugène Haussmann</negrita> en la segunda
-mitad del siglo XIX, fue diseñada a partir de un <negrita>plano radiocéntrico</negrita
->. Desde la famosa <negrita>plaza de l’Étoile</negrita>, parten de
-forma radial distintas vías (avenida Marceau, avenida de los Campos
-Elíseos, bulevar Haussmann, etc.).</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso030&amp;IdRecurso=RES-2FD272E3FCFA4AE8A216B0034FB176EF"
->Procedimiento: comentar e interpretar un plano urbano</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso040&amp;IdRecurso=RES-5CF927F7DA4446238505279E0362927B"
->Distingue los distintos planos urbanos</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso050&amp;IdRecurso=RES-EA9373696A23499C852E16AEC24D1A54"
->Identifica las ventajas e inconvenientes de los distintos planos
-urbanos</enlace>
-</practica></seccion2Texto></seccion2><seccion2
-id="S2_CS_09_12_CO_FDE2B0A1E27E4A8BB06B430E440A128E">
-<seccion2Titulo>Las funciones urbanas</seccion2Titulo>
-<seccion2Texto>
-<p>Desde sus orígenes, las ciudades han tenido distintas funciones,
-además de la <negrita>función residencial</negrita>. Estas están determinadas,
-sobre todo, por factores socioeconómicos. Podemos distinguir las siguientes <negrita
->funciones urbanas</negrita>: comercial y financiera, administrativa
-y política, industrial, turística, cultural, universitaria, militar
-y religiosa.</p>
-<p>Debemos tener en cuenta que las ciudades no ejercen una sola función,
-sino que pueden tener varios cometidos a la vez, los cuales se desarrollan
-en distintas zonas del espacio urbano. Además, algunas de estas funciones
-pueden cambiar a lo largo del tiempo.</p>
-<imagen ampliable="no" src="CS_09_12_CO_IMG04_small.jpg">
-<p>Las ciudades cumplen varias <negrita>funciones urbanas</negrita
->, lo cual suele concretarse en su <negrita>distribución espacial</negrita
->. Así, podemos distinguir dentro de la propia ciudad <negrita>distintas
-zonas urbanas</negrita>: residenciales, comerciales, industriales,
-culturales, turísticas, de ocio, etc. En <negrita>Shanghái</negrita
-> (China), por ejemplo, la principal arteria comercial es el <negrita
->barrio de Nankín</negrita>.</p>
-</imagen>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso060&amp;IdRecurso=RES-28AEBFD287E04637BD2907E10CDCFDF8"
->Reconoce las principales funciones del espacio urbano</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso070&amp;IdRecurso=RES-9C8A6F3E522B4B41917C4C46BB0FB2AB"
->Reconoce las partes de una ciudad</enlace>
-</practica></seccion2Texto></seccion2><seccion2
-id="S2_CS_09_12_CO_FDE2B0A1E27E4A8BB06B430E440A039F">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso080&amp;IdRecurso=RES-AAD2ED2244E544528BF6F8F62492CC73"
->Refuerza tu aprendizaje: La forma y funciones de las ciudades</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_09_12_CO_15F320A271D74F778EE698D99D587F1A">
-<seccion1Titulo>El urbanismo y su evolución</seccion1Titulo>
-<seccion1Texto>
-<p>El urbanismo surgió como disciplina en el siglo XIX para encargarse
-de la <negrita>ordenación del espacio urbano</negrita>. Para ello,
-es preciso acometer tres acciones básicas: planificar, construir y
-transformar.</p>
-<p>Sin embargo, desde los orígenes de la civilización ha existido
-una preocupación por ordenar los espacios comunes y adaptarlos a las
-necesidades políticas, económicas, sociales y culturales de sus habitantes.</p>
-<p>Las ciudades pueden clasificarse según distintos criterios, aunque
-de acuerdo con el marco temporal en el que se desarrollaron, podemos
-distinguir tres clases de ciudades: <negrita>preindustriales</negrita
->, <negrita>industriales</negrita> y <negrita>postindustriales</negrita
->.</p>
-<seccion2 id="S2_CS_09_12_CO_E1AA593A40454AEB93B30B9241F68B64">
-<seccion2Titulo>La ciudad preindustrial</seccion2Titulo>
-<seccion2Texto>
-<p>Hasta la segunda mitad del siglo XVIII y principios del siglo XIX,
-la actividad económica y social de las ciudades giró en torno a las <negrita
->actividades agrarias</negrita>. Aunque existía el <negrita>comercio</negrita
-> y la <negrita>industria artesanal</negrita>, esta estuvo supeditada
-a la agricultura y a la ganadería.</p>
-<seccion3 id="S3_CS_09_12_CO_E1AA593A40454AEB93B30B9241F63A08">
-<seccion3Titulo>Las primeras ciudades</seccion3Titulo>
-<seccion3Texto>
-<p>El <negrita>desarrollo de la agricultura</negrita> y de la <negrita
->ganadería</negrita> y la <negrita>sedentarización</negrita> de la
-población fueron determinantes para la aparición de las primeras ciudades
-en torno al V milenio a. C. en <negrita>Mesopotamia</negrita> (valles
-del Tigris y el Éufrates), <negrita>Egipto</negrita> (valle del Nilo),
-la <negrita>India</negrita> (valle del Indo) y <negrita>China</negrita
-> (región del río Amarillo).</p>
-<imagen src="CS_09_12_CO_IMG05_small.jpg">
-<p>Una de las primeras ciudades del mundo fue <negrita>Mohenjo-Daro</negrita
-> (Larkana, Pakistán), situada a orillas del río Indo. Vivió su periodo
-de mayor esplendor entre los años 2500 y 1500 a. C. Los <negrita>edificios
-públicos</negrita> y los <negrita>templos</negrita> se situaban en
-la parte alta, mientras que las <negrita>viviendas</negrita> y <negrita
->almacenes</negrita> se encontraban en la parte baja.</p>
-</imagen>
-</seccion3Texto></seccion3><seccion3
-id="S3_CS_09_12_CO_E1AA593A40454AEB93B30B9241F65C19">
-<seccion3Titulo>La ciudad antigua: Grecia y Roma</seccion3Titulo>
-<seccion3Texto>
-<p>En sus orígenes, las <negrita>polis griegas</negrita> crecieron
-de forma desordenada. No fue hasta el siglo V a. C., en plena época
-clásica, cuando <negrita>Hipódamo de Mileto</negrita> creó el <negrita
->plano ortogonal</negrita> o <negrita>hipodámico</negrita> con base
-en un trazado geométrico de las calles y una distribución racional
-de los espacios públicos. La vida pública se desarrollaba en una gran
-plaza pública: el <negrita>ágora</negrita>.</p>
-<imagen ampliable="no" src="CS_09_12_CO_IMG06_small.jpg">
-<p>El <negrita>plano ortogonal</negrita> o <negrita>hipodámico</negrita
-> fue utilizado por el arquitecto y urbanista griego <negrita>Hipódamo
-de Mileto</negrita> en el siglo V a. C., aunque su uso se generalizó
- en el siglo IV a. C., cuando se aplicó en las ciudades fundadas por <negrita
->Alejandro Magno</negrita>.</p>
-</imagen>
-<p>Las <negrita>ciudades romanas</negrita> también siguieron el plano
-ortogonal en sus nuevas fundaciones, aunque, a diferencia de las griegas,
-tenían <negrita>dos amplias avenidas</negrita> (el cardo y el decumano)
-que se cruzaban de manera transversal y daban lugar a una gran plaza
-central: el <negrita>foro</negrita>.</p>
-<p>Los romanos también crearon <negrita>sistemas de abastecimiento
-de agua</negrita> y <negrita>alcantarillado</negrita>, <negrita>baños
-públicos</negrita> y <negrita>edificios</negrita> destinados al <negrita
->ocio</negrita> y al <negrita>espectáculo</negrita> en las afueras
-de las ciudades (anfiteatros, circos, etc.).</p>
-<recuerda><recuerdaTexto>
-<p>Las ciudades romanas quedaron unidas a través de una extensa <negrita
->red de calzadas</negrita> que permitieron comunicar los distintos
-puntos del Imperio. De ahí la frase: “Todos los caminos llevan a Roma”.</p>
-</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
-id="S3_CS_09_12_CO_E1AA593A40454AEB93B30B9241F66D31">
-<seccion3Titulo>La ciudad medieval</seccion3Titulo>
-<seccion3Texto>
-<p>Durante la Edad Media, las ciudades surgieron a partir de núcleos
-que habían crecido en torno a un <negrita>castillo</negrita> o <negrita
->torre defensiva</negrita>. Estaban rodeadas de murallas y en su interior,
-las calles, irregulares y estrechas, se organizaban alrededor de un
-punto central, casi siempre la iglesia.</p>
-<p>A partir del siglo XI, gracias a un aumento de la producción agrícola
-y un crecimiento de la población, se produjo un renacer del mundo
-urbano y las ciudades crecieron nutriéndose de la llegada de inmigrantes
-procedentes del campo. Se tuvieron que construir <negrita>nuevos barrios</negrita
-> (burgos) y ampliar el perímetro de la muralla. En el interior, aunque
-se mantuvo un plano irregular, se construyeron nuevos edificios: <negrita
->ayuntamientos</negrita>, <negrita>catedrales</negrita>, <negrita
->lonjas</negrita>, <negrita>palacios urbanos</negrita>, etc.</p>
-<imagen src="CS_09_12_CO_IMG07_small.jpg">
-<p>La ciudad de <negrita>Rothenburg ob der Tauber</negrita> (Baviera,
-Alemania) conserva aún parte de su <negrita>aspecto medieval</negrita
->, patente en su <negrita>casco histórico</negrita> (murallas, palacios,
-iglesias y viviendas).</p>
-</imagen>
-</seccion3Texto></seccion3><seccion3
-id="S3_CS_09_12_CO_E1AA593A40454AEB93B30B9241F67F45">
-<seccion3Titulo>La ciudad renacentista y barroca</seccion3Titulo>
-<seccion3Texto>
-<p>A lo largo de los siglos XVI, XVII y XVIII, cambió la concepción
-del espacio urbano. Se propuso una organización más racional del entramado
-urbano a partir de un <negrita>plano radiocéntrico</negrita> y de
-un <negrita>trazado circular</negrita> o <negrita>poligonal</negrita
-> de la ciudad.</p>
-<imagen src="CS_09_12_CO_IMG08_small.jpg">
-<p>El único proyecto renacentista de <negrita>ciudad ideal</negrita
-> que llegó a realizarse fue el de <negrita>Palma Nova</negrita> (1593),
-ideado por <negrita>Vincenzo Scamozzi</negrita>. Se trataba de una
-pequeña ciudad de <negrita>plano radiocéntrico</negrita> protegida
-por una muralla en forma de estrella.</p>
-</imagen>
-<p>Durante el <negrita>Renacimiento</negrita> y el <negrita>Barroco</negrita
->, se trazaron calles rectilíneas, avenidas, edificios monumentales
-y se potenciaron los espacios públicos.</p>
-</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
-id="S2_CS_09_12_CO_E1AA593A40454AEB93B30B9241F65B74">
-<seccion2Titulo>La ciudad industrial</seccion2Titulo>
-<seccion2Texto>
-<p>La <negrita>Revolución Industrial</negrita> (segunda mitad del
-siglo XVIII y siglo XIX) transformó de forma radical las ciudades,
-las cuales tuvieron que hacer frente a la llegada masiva de población,
-que constituyó la clase obrera empleada en las <negrita>fábricas</negrita
->. Tras una primera etapa de <negrita>crecimiento desordenado</negrita
-> y de la aparición de <negrita>suburbios obreros</negrita>, se inició
-la construcción de nuevos <negrita>barrios residenciales</negrita
-> o <negrita>ensanches</negrita>, planificados atendiendo a las necesidades
-del momento.</p>
-<imagen src="CS_09_12_CO_IMG09_small.jpg">
-<p>La obra del dibujante y pintor francés <negrita>Gustave Doré</negrita
-><cursiva> Las primeras ciudades obreras inglesas</cursiva> (1876),
-permite hacernos una idea de cómo fueron las <negrita>primeras ciudades
-industriales</negrita> y las condiciones en las que vivía la <negrita
->clase trabajadora</negrita>.</p>
-</imagen>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_09_12_CO_E1AA593A40454AEB93B30B9241F67A53">
-<seccion2Titulo>La ciudad postindustrial</seccion2Titulo>
-<seccion2Texto>
-<p>La <negrita>ciudad actual</negrita> o <negrita>posmoderna</negrita
-> responde a la transformación vivida por la economía durante la segunda
-mitad del siglo XX. Durante este periodo, la mano de obra empleada
-en la industria ha disminuido, mientras que el sector de servicios
-se ha convertido en la principal actividad económica.</p>
-<p>Hoy en día, las ciudades han experimentado una gran expansión,
-se han construido <negrita>nuevos barrios residenciales</negrita>,
-las industrias se han trasladado a <negrita>polígonos industriales</negrita
-> situados en la periferia y se han desarrollado importantes <negrita
->redes de transporte</negrita> y <negrita>comunicaciones</negrita
->.</p>
-<imagen src="CS_09_12_CO_IMG10_small.jpg">
-<p>En algunas grandes ciudades, como Londres, se han desarrollado
-espacios en los que se concentra la mayor parte de la actividad comercial
-y financiera conocidos como <negrita>Central Business District (CBD)</negrita
-> o simplemente como <negrita>City</negrita>.</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso090&amp;IdRecurso=RES-130247EDA7CC43D08CAC6E4162DBD97A"
->¿Qué es el urbanismo?</enlace>
-</profundiza>
-<p>El crecimiento de las ciudades a lo largo de la segunda mitad del
-siglo XX propició una <negrita>extensión de los límites urbanos</negrita
-> más allá de los propios límites administrativos. Esto originó la
-aparición de <negrita>áreas metropolitanas</negrita>, <negrita>conurbaciones</negrita
-> y grandes <negrita>vías de comunicación</negrita> para facilitar
-la movilidad de las personas, entre otros fenómenos urbanos.</p>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso100&amp;IdRecurso=RES-7708BAED51484C14985AD854B7E968CC"
->Fenómenos urbanos en la actualidad</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
-id="S2_CS_09_12_CO_E1AA593A40454AEB93B30B9241F68E06">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso110&amp;IdRecurso=RES-972A9D6B373A4FDF81920EB3F451D0AA"
->Refuerza tu aprendizaje: El urbanismo y su evolución</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_09_12_CO_3CA2712CC068485CB060406CE0C13243">
-<seccion1Titulo>Las grandes ciudades en el mundo actual</seccion1Titulo>
-<seccion1Texto>
-<p>En el inicio del siglo XXI, la población urbana continúa creciendo,
-mientras que de forma paralela la población rural disminuye. Suele
-decirse que vivimos en un mundo de ciudades, aunque existen ciertas
-zonas en las que podemos encontrar grandes aglomeraciones urbanas
-donde viven varios millones de personas: las <negrita>megalópolis</negrita
->.</p>
-<table border="1"><caption>Las grandes megalópolis</caption><colgroup>
-<col/><col/><col/></colgroup>
-<tbody>
-<tr>
-<td>CIUDAD</td>
-<td>POBLACIÓN</td>
-<td>EXTENSIÓN</td>
-</tr>
-<tr>
-<td><negrita>Mumbai</negrita> (India)</td>
-<td align="right">11 914 398 habitantes</td>
-<td align="right">438 km<superindice>2</superindice></td>
-</tr>
-<tr>
-<td><negrita>São Paulo</negrita> (Brasil)</td>
-<td align="right">10 838 581 habitantes</td>
-<td align="right">1525 km<superindice>2</superindice></td>
-</tr>
-<tr>
-<td><negrita>Ciudad de México</negrita> (México)</td>
-<td align="right">8 851 080 habitantes</td>
-<td align="right">1485 km<superindice>2</superindice></td>
-</tr>
-<tr>
-<td><negrita>Tokio</negrita> (Japón)</td>
-<td align="right">8 483 050 habitantes</td>
-<td align="right">2187 km<superindice>2</superindice></td>
-</tr>
-<tr>
-<td><negrita>Nueva York</negrita> (Estados Unidos)</td>
-<td align="right">8 008 278 habitantes</td>
-<td align="right">1214 km<superindice>2</superindice></td>
-</tr>
-</tbody>
-</table>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso120&amp;IdRecurso=RES-A208129118F440EDAE7CB5CAC866697B"
->La población urbana en el mundo</enlace>
-</profundiza><seccion2
-id="S2_CS_09_12_CO_E1AA593A40454AEB93B30B9241F65A59">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso130&amp;IdRecurso=RES-A6F022EEFFD645D5B0ED3BD281289B7F"
->Refuerza tu aprendizaje: Las grandes ciudades en el mundo actual</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_09_12_CO_3BFE9DF42CFE4B93B83900F84467D7C2">
-<seccion1Titulo>Los problemas sociales y medioambientales de la ciudad</seccion1Titulo>
-<seccion1Texto>
-<p>La urbanización y el crecimiento de las grandes ciudades han traído
-consigo una serie de problemas sociales y medioambientales que se
-presentan como un reto para abordar durante el siglo XXI.</p>
-<table border="1"><caption>Los problemas urbanos</caption><colgroup>
-<col/><col/></colgroup>
-<tbody>
-<tr>
-<td>PROBLEMAS SOCIALES</td>
-<td>PROBLEMAS MEDIOAMBIENTALES</td>
-</tr>
-<tr>
-<td>- El acceso a la vivienda.<br/>- La seguridad.<br/>- La movilidad.<br
-/>- La pobreza y la exclusión social.<br/>- Los barrios degradados.<br
-/>- Desigualdades en el acceso a los equipamientos públicos.</td>
-<td>- El consumo de energía.<br/>- El consumo de recursos hídricos.<br
-/>- La gestión de los residuos.<br/>- La contaminación atmosférica. <br
-/>- La contaminación acústica.<br/>- La contaminación lumínica.</td>
-</tr>
-</tbody>
-</table>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso140&amp;IdRecurso=RES-2D5F85E937DC4AF490D6676F1CCE5A99"
->Problemas sociales y medioambientales en la ciudad</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso150&amp;IdRecurso=RES-2AA0291807904619879401F7C20F9936"
->Relaciona problemas urbanos y posibles soluciones</enlace>
-</practica><seccion2
-id="S2_CS_09_12_CO_E1AA593A40454AEB93B30B9241F63C20">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso160&amp;IdRecurso=RES-B2AE8D4F3DDF4688834529FCF69D5E0B"
->Refuerza tu aprendizaje: Los problemas de la ciudad</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_09_12_CO_89C03DFCD4DB410A84F8DA0CE8CB9ACB">
-<seccion1Titulo>Competencias</seccion1Titulo>
-<seccion1Texto>
-<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso170&amp;IdRecurso=RES-8152ADB634C848B280FE1BC1757F7157"
->Competencias: comentario e interpretación de un plano urbano</enlace><?Pub
-Caret -2?>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso180&amp;IdRecurso=RES-87837F58B863427E80EDCB3E19879834"
->Proyecto: análisis de la relación entre plano y problemas urbanos</enlace>
-</practica></seccion1Texto></seccion1><masinformacion
-id="MI_CS_09_12_CO_E61061DC616340FF8DAC27F02E30E528"><mapaconceptual>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso200&amp;IdRecurso=RES-85FCC7E9096D48C89CCF78B977CBDDEC"
->Mapa conceptual sobre el tema Las ciudades y el urbanismo</enlace>
-</mapaconceptual><autoevaluate><enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso210&amp;IdRecurso=RES-BD9103ECB6A345E2B8898E9617183382"
->Evalúa tus conocimientos sobre el tema Las ciudades y el urbanismo</enlace>
-</autoevaluate><enlacesreferencia>
-<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-</enlacesreferencia></masinformacion></libro>
+  <libroTitulo>Las ciudades y el urbanismo</libroTitulo>
+  <seccion1 id="S1_CS_09_12_CO_CFCF0F5B0F68434F9509D123DF3476FA">
+    <seccion1Titulo>¿Qué es una ciudad?</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_09_12_CO_img_01_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso010&amp;IdRecurso=RES-D4DF59DE5F9842F7A2DAFCC692F7EAA1">Los rasgos principales de la ciudad</enlace>
+      </profundiza>
+      <seccion2 id="S2_CS_09_12_CO_F9B75C8AF2544FDF8D579728AD880780">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_02_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso020&amp;IdRecurso=RES-2BD5EC574A3A47EDB9C381E0D375F9F2">Refuerza tu aprendizaje: ¿Qué es una ciudad?</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_12_CO_4A848E29E41C4EFA8AD72BA69B322F12">
+    <seccion1Titulo>La forma y funciones de la ciudad</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CS_09_12_CO_11E0018C52E34D06AD13F2B36B0CEAF6">
+        <seccion2Titulo>La trama urbana y los tipos de planos</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_03_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso030&amp;IdRecurso=RES-2FD272E3FCFA4AE8A216B0034FB176EF">Procedimiento: comentar e interpretar un plano urbano</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_04_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso040&amp;IdRecurso=RES-5CF927F7DA4446238505279E0362927B">Distingue los distintos planos urbanos</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_05_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso050&amp;IdRecurso=RES-EA9373696A23499C852E16AEC24D1A54">Identifica las ventajas e inconvenientes de los distintos planos urbanos</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_09_12_CO_FDE2B0A1E27E4A8BB06B430E440A128E">
+        <seccion2Titulo>Las funciones urbanas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_06_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso060&amp;IdRecurso=RES-28AEBFD287E04637BD2907E10CDCFDF8">Reconoce las principales funciones del espacio urbano</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_07_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso070&amp;IdRecurso=RES-9C8A6F3E522B4B41917C4C46BB0FB2AB">Reconoce las partes de una ciudad</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_08_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso080&amp;IdRecurso=RES-AAD2ED2244E544528BF6F8F62492CC73">Refuerza tu aprendizaje: La forma y funciones de las ciudades</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_12_CO_15F320A271D74F778EE698D99D587F1A">
+    <seccion1Titulo>El urbanismo y su evolución</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CS_09_12_CO_E1AA593A40454AEB93B30B9241F67A53">
+        <seccion2Titulo>La ciudad postindustrial</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_09_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso090&amp;IdRecurso=RES-130247EDA7CC43D08CAC6E4162DBD97A">¿Qué es el urbanismo?</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_10_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso100&amp;IdRecurso=RES-7708BAED51484C14985AD854B7E968CC">Fenómenos urbanos en la actualidad</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_11_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso110&amp;IdRecurso=RES-972A9D6B373A4FDF81920EB3F451D0AA">Refuerza tu aprendizaje: El urbanismo y su evolución</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_13_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso130&amp;IdRecurso=RES-A6F022EEFFD645D5B0ED3BD281289B7F">Refuerza tu aprendizaje: Las grandes ciudades en el mundo actual</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_09_12_CO_img_16_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso160&amp;IdRecurso=RES-B2AE8D4F3DDF4688834529FCF69D5E0B">Refuerza tu aprendizaje: Los problemas de la ciudad</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_12_CO_3CA2712CC068485CB060406CE0C13243">
+    <seccion1Titulo>Las grandes ciudades en el mundo actual</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_09_12_CO_img_12_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso120&amp;IdRecurso=RES-A208129118F440EDAE7CB5CAC866697B">La población urbana en el mundo</enlace>
+      </profundiza>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_12_CO_3BFE9DF42CFE4B93B83900F84467D7C2">
+    <seccion1Titulo>Los problemas sociales y medioambientales de la ciudad</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_09_12_CO_img_14_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso140&amp;IdRecurso=RES-2D5F85E937DC4AF490D6676F1CCE5A99">Problemas sociales y medioambientales en la ciudad</enlace>
+      </profundiza>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_09_12_CO_img_15_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso150&amp;IdRecurso=RES-2AA0291807904619879401F7C20F9936">Relaciona problemas urbanos y posibles soluciones</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_09_12_CO_89C03DFCD4DB410A84F8DA0CE8CB9ACB">
+    <seccion1Titulo>Competencias</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_09_12_CO_img_17_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso170&amp;IdRecurso=RES-8152ADB634C848B280FE1BC1757F7157">Competencias: comentario e interpretación de un plano urbano</enlace>
+      </practica>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_09_12_CO_img_18_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso180&amp;IdRecurso=RES-87837F58B863427E80EDCB3E19879834">Proyecto: análisis de la relación entre plano y problemas urbanos</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <masinformacion id="MI_CS_09_12_CO_E61061DC616340FF8DAC27F02E30E528">
+    <mapaconceptual>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso200&amp;IdRecurso=RES-85FCC7E9096D48C89CCF78B977CBDDEC">Mapa Conceptual</enlace>
+    </mapaconceptual>
+    <autoevaluate>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso210&amp;IdRecurso=RES-BD9103ECB6A345E2B8898E9617183382">Evaluación</enlace>
+    </autoevaluate>
+    <enlacesreferencia>
+      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+    </enlacesreferencia>
+  </masinformacion>
+</libro>
