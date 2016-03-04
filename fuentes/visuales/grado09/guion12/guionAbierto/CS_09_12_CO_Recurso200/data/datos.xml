@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mapa aprid="mapa">
+  <copyright>(c) Editorial Planeta</copyright>
+  <version>1.0</version>
+  <objeto>
+    <ref>00</ref>
+    <texto>Las ciudades y el urbanismo</texto>
+    <hijos>10</hijos>
+    <padre />
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>10</ref>
+    <texto />
+    <hijos>20,21,22,23</hijos>
+    <padre>00</padre>
+    <siz>14</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>20</ref>
+    <texto>Proceso de
+urbanización</texto>
+    <hijos>30</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>21</ref>
+    <texto>Ciudades</texto>
+    <hijos>31</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>22</ref>
+    <texto>Fenómenos 
+urbanos actuales</texto>
+    <hijos>32</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>23</ref>
+    <texto>Problemas
+urbanos</texto>
+    <hijos>33</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto>evoluciona</texto>
+    <hijos>40,41,42,43,44</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>Mesopotamia
+y Egipto</texto>
+    <hijos>50</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>Grecia
+y Roma</texto>
+    <hijos>51</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>edad
+media</texto>
+    <hijos>52</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>43</ref>
+    <texto>renacimiento
+y barroco</texto>
+    <hijos>53</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>44</ref>
+    <texto>ciudad
+industrial</texto>
+    <hijos>54</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto />
+    <hijos>60</hijos>
+    <padre>40</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>· murallas
+· campos alrededor
+· canales de riego</texto>
+    <hijos />
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>0</cen>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto />
+    <hijos>61</hijos>
+    <padre>41</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>plano ortogonal
+o hipodámico</texto>
+    <hijos />
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto />
+    <hijos>62</hijos>
+    <padre>42</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto>· murallas
+· plano irregular</texto>
+    <hijos />
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>0</cen>
+  </objeto>
+  <objeto>
+    <ref>53</ref>
+    <texto />
+    <hijos>63</hijos>
+    <padre>43</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>· plano
+  radiocéntrico
+· espacios más amplios
+· nuevos edificios</texto>
+    <hijos />
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>0</cen>
+  </objeto>
+  <objeto>
+    <ref>54</ref>
+    <texto />
+    <hijos>64</hijos>
+    <padre>44</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>· demolición de 
+  las murallas
+· ensanches
+· nuevos edificios
+  y equipamientos</texto>
+    <hijos />
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>0</cen>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>se definen por</texto>
+    <hijos>45,46,47</hijos>
+    <padre>21</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>45</ref>
+    <texto>función</texto>
+    <hijos>55</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>46</ref>
+    <texto>actividad
+económica</texto>
+    <hijos>56</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>47</ref>
+    <texto>población</texto>
+    <hijos>57</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>55</ref>
+    <texto />
+    <hijos>65</hijos>
+    <padre>45</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>· residencial
+· comercial
+· administrativa
+· industrial
+· cultural</texto>
+    <hijos />
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>0</cen>
+  </objeto>
+  <objeto>
+    <ref>56</ref>
+    <texto>se dividen en</texto>
+    <hijos>66</hijos>
+    <padre>46</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>· sector
+  secundario
+· sector
+  terciario</texto>
+    <hijos />
+    <padre>56</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>0</cen>
+  </objeto>
+  <objeto>
+    <ref>57</ref>
+    <texto>se clasifican en</texto>
+    <hijos>67</hijos>
+    <padre>47</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>67</ref>
+    <texto>· pequeña: 
+  &gt; 10.000 hab.
+· mediana:
+  &gt; 50.000 hab.
+· grande:
+  &gt; 200.000 hab.</texto>
+    <hijos />
+    <padre>57</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>0</cen>
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto>se clasifican en</texto>
+    <hijos>48</hijos>
+    <padre>22</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>48</ref>
+    <texto>· área metropolitana
+· conurbación
+· periurbanización 
+· rururbanización 
+· grandes vías de
+  comunicación</texto>
+    <hijos />
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>0</cen>
+  </objeto>
+  <objeto>
+    <ref>33</ref>
+    <texto>de naturaleza</texto>
+    <hijos>49,4A</hijos>
+    <padre>23</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>49</ref>
+    <texto>social</texto>
+    <hijos>58</hijos>
+    <padre>33</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>4A</ref>
+    <texto>medioambiental</texto>
+    <hijos>59</hijos>
+    <padre>33</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>58</ref>
+    <texto />
+    <hijos>68</hijos>
+    <padre>49</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>68</ref>
+    <texto>· precio de
+  la vivienda
+· viviendas
+  vacías
+· pobreza
+· chabolismo
+· barrios
+  degradados</texto>
+    <hijos />
+    <padre>58</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>0</cen>
+  </objeto>
+  <objeto>
+    <ref>59</ref>
+    <texto />
+    <hijos>69</hijos>
+    <padre>4A</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>1</cen>
+  </objeto>
+  <objeto>
+    <ref>69</ref>
+    <texto>· consumo de
+  energía
+· residuos
+· contaminación
+  atmosférica
+· contaminación
+  lumínica
+· contaminación
+  acústica</texto>
+    <hijos />
+    <padre>59</padre>
+    <siz>0</siz>
+    <negcur />
+    <cen>0</cen>
+  </objeto>
+</mapa>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-85FCC7E9096D48C89CCF78B977CBDDEC</identificador>
+  <loid>CS_09_12_CO_Recurso200</loid>
+  <titulo>Mapa conceptual</titulo>
+  <descripcion>Mapa conceptual del tema Las ciudades y el urbanismo</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Estudio</acciondidactica>
+  <competencia>Competencia para aprender a aprender</competencia>
+  <competencias>
+    <descriptor>1_3_5</descriptor>
+    <descriptor>7_2_4</descriptor>
+    <descriptor>4_2_2</descriptor>
+    <descriptor>1_2_4</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Mapa conceptual</tipomedia>
+  <conceptos>
+    <concepto>ciudad</concepto>
+    <concepto>urbanismo</concepto>
+    <concepto>urbanización</concepto>
+    <concepto>urbano</concepto>
+    <concepto>rural</concepto>
+    <concepto>plano urbano</concepto>
+    <concepto>plano radiocéntrico</concepto>
+    <concepto>plano ortogonal</concepto>
+    <concepto>plano hipodámico</concepto>
+    <concepto>plano regular</concepto>
+    <concepto>plano irregular</concepto>
+    <concepto>ensanche</concepto>
+    <concepto>función política</concepto>
+    <concepto>función económica</concepto>
+    <concepto>función administrativa</concepto>
+    <concepto>función industrial</concepto>
+    <concepto>polígono industrial</concepto>
+    <concepto>industria</concepto>
+    <concepto>función cultural</concepto>
+    <concepto>sector económico</concepto>
+    <concepto>sector primario</concepto>
+    <concepto>sector secundario</concepto>
+    <concepto>sector terciario</concepto>
+    <concepto>sector servicios</concepto>
+    <concepto>pueblo</concepto>
+    <concepto>fenómeno urbano</concepto>
+    <concepto>área metropolitana</concepto>
+    <concepto>conurbación</concepto>
+    <concepto>periurbanización</concepto>
+    <concepto>rururbanización</concepto>
+    <concepto>pobreza</concepto>
+    <concepto>chabolismo</concepto>
+    <concepto>energía</concepto>
+    <concepto>consumo</concepto>
+    <concepto>residuo</concepto>
+    <concepto>contaminación</concepto>
+  </conceptos>
+</metadata>
