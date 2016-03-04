@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="1" clase="c" aprid="m1c">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Avances y retrocesos de la economía colombiana desde mediados del siglo XX</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M1C]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Relaciona las siguientes frases sobre la economía colombiana durante la segunda mitad del siglo XX.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="6">
+    <cuestion>
+      <pregunta><![CDATA[Durante la segunda mitad del siglo XX Colombia vivió un gran crecimiento económico]]></pregunta>
+      <respuesta><![CDATA[pero fue un crecimiento desigual, que no atajó la pobreza sino que estimuló la inequidad económica.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[A mediados del siglo XX la mayoría de los trabajadores se dedicaban a labores agrícolas, ]]></pregunta>
+      <respuesta><![CDATA[que por su escasa tecnología generaban baja productividad e ingresos salariales muy bajos.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[A finales del siglo XX los indicadores económicos muestran una mejoría notable en todos los rubros]]></pregunta>
+      <respuesta><![CDATA[aumentó sustancialmente el ingreso per cápita, la escolaridad y la esperanza de vida de la población.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[El crecimiento urbano se dio por la expulsión de gran cantidad de población rural por medios violentos. ]]></pregunta>
+      <respuesta><![CDATA[las ciudades se llenaron de desplazados que armaron barrios de invasión: los cinturones de miseria.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Gran parte de las tierras baldías del oriente del país fueron ocupadas por colonos huidos de otras regiones]]></pregunta>
+      <respuesta><![CDATA[donde al mismo tiempo, los grandes latifundios iban extendiéndose a costa de las tierras abandonadas.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Los procesos de apertura económica y las privatizaciones de empresas estatales]]></pregunta>
+      <respuesta><![CDATA[permitieron el aumento de las importaciones y la consecuente la desindustrialización del país.]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0"/>
+</motor>
