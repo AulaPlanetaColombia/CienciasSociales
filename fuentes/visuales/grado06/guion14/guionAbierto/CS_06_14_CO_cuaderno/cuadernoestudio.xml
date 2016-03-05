@@ -1,836 +1,1268 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_06_14_CO">
-  <libroTitulo>Civilizaciones de la Antigüedad: Grecia y Roma</libroTitulo>
-  <seccion1 id="S1_CS_06_14_CO_A66D102994BF4E598536B15371AA7933">
-    <seccion1Titulo>Grecia en la Antigüedad</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_14_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso010&amp;IdRecurso=RES-1F36B5A6742E49B6A5B1FDD20D3EC3B5">Video como media principal - 01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_06_14_CO_E1A98DCDEF75418CB9C3452E063B01EA">
-        <seccion2Titulo>Evolución histórica de la civilización griega</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso020&amp;IdRecurso=RES-CD00838A1C4A4B08BC304E265C1E2A1C">Creta y Micenas</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso030&amp;IdRecurso=RES-81D36D8834EB4C70BC07FA0766CD867C">Refuerza tu aprendizaje: La cuna de la civilización occidental</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_14_CO_199BAAD66A07477792F07CEBB545E320">
-        <seccion2Titulo>La época arcaica (siglos VIII – VI a.C.)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_06_14_CO_319C1AA202CB45B7872E2791C2FB5789">
-            <seccion3Titulo>Las polis griegas</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_04_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_05_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso050&amp;IdRecurso=RES-2DA6E46B04EF43DA922FC4DA857BEF0C">Interpreta un mapa histórico</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_06_14_CO_341EDE5FFA7146E4AF67A5C3BFAF4935">
-            <seccion3Titulo>Las colonizaciones griegas</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_06_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_14_CO_888AE54939DF49B5A643D79A3C84C898">
-        <seccion2Titulo>La época clásica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_06_14_CO_39FDEF24513C468683B726BDD4A606EF">
-            <seccion3Titulo>Atenas</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_07_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso070&amp;IdRecurso=RES-B34F2DF1195141A69D37AFCFF33DCED3">La época clásica: la democracia ateniense</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_06_14_CO_9A58F888DBDF4B55A52348719301C570">
-            <seccion3Titulo>Esparta</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_08_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso080&amp;IdRecurso=RES-3676FE0D48A344C68D752EAE735F01DC">Identifica las diferencias entre Atenas y Esparta</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_14_CO_6E5EFD0E52B349FEAB6FAF2804A20660">
-        <seccion2Titulo>La época helenística</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_06_14_CO_6EE85490CF8745868B1C5AB77D06C478">
-            <seccion3Titulo>El Imperio de Alejandro Magno</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_09_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso090&amp;IdRecurso=RES-2E62B626940446C5878A06428DA0DBAA">La época helenística</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_06_14_CO_4B823F7AE43C42BBB3A4974871CD6CF6">
-            <seccion3Titulo>Los reinos helenísticos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_10_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso100&amp;IdRecurso=RES-77C526B48BD5437D83E7101EB0667B10">Identifica los rasgos del período helenístico</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_14_CO_ECAD44B3D5DC444F967745656F63F7A2">
-    <seccion1Titulo>La cultura en la antigua Grecia</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_06_14_CO_04FBDE865B3C496AB2D5CB931DC89430">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_11_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso110&amp;IdRecurso=RES-2FA8C16F228A49A8BB3A96A54C1C84E2">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_14_CO_BB3DFB90A0EC4BECB4542CAB0A6E2E82">
-        <seccion2Titulo>La religión en la antigua Grecia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_14_CO_99AEE193B5224F70A5D863108D03A940">
-        <seccion2Titulo>La ciencia y las letras en la antigua Grecia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso130&amp;IdRecurso=RES-4FE49C76074F4AA9B8105ED3134C6CB4">El legado cultural griego</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_14_CO_B97CF056577E40A5AA0968A45DA358B0">
-        <seccion2Titulo>El arte griego</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_06_14_CO_899C7B002D284C3B84660BFDFC435BC2">
-            <seccion3Titulo>La pintura y la cerámica griegas</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_14_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso140&amp;IdRecurso=RES-21512DE9300247BB81D969E6F0571743">El arte griego</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_15_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso150&amp;IdRecurso=RES-A08A80C2EB30402285F0C6CCC17A8414">Conoce el arte y la cultura de la Grecia antigua</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_16_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso160&amp;IdRecurso=RES-C9AA237E8DB848AA8CC0C5531FD7B838">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_14_CO_364FCDF370584F91A302D2B068356671">
-    <seccion1Titulo>Roma en la Antigüedad</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_14_CO_img_17_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso170&amp;IdRecurso=RES-50A0933E301A4069BD60BB6EF2E6D73D">Los orígenes de la civilización romana</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_06_14_CO_F5D73A76BD434D1695BB9892F75D1A8E">
-        <seccion2Titulo>La monarquía (753 a. C.-509 a. C)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_18_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_14_CO_E32C49DC975E44DBB8178CDFFE5527AB">
-        <seccion2Titulo>La República romana (509-27 a. C.)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_19_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso190&amp;IdRecurso=RES-8A1CD86C800C4E97980F7A15D36EAFC3">La República romana</enlace>
-          </profundiza>
-          <seccion3 id="S3_CS_06_14_CO_411FA25B737C48FFBB09F3059D8311F8">
-            <seccion3Titulo>La expansión de Roma</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_20_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso200&amp;IdRecurso=RES-101641A8FE534DBD80C7CA7432FC2089">Las guerras púnicas</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_14_CO_FDE922304750411EA374FE826DEEB88A">
-        <seccion2Titulo>El Imperio romano (27 a. C.-476)</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_21_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso210&amp;IdRecurso=RES-B505D60EED574DE48FA64A535B5CB53E">El Imperio romano</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_22_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso220&amp;IdRecurso=RES-7DA29F7E299F480DBCAC38F7E046117B">Conoce los hechos clave de la historia de Roma</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_14_CO_A98249B1D3784FE6B2FAFB406986B338">
-        <seccion2Titulo>La sociedad en la antigua Roma</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_23_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso230&amp;IdRecurso=RES-4C8A4601AF614B07AB57098534C5551B">La sociedad romana</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_24_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso240&amp;IdRecurso=RES-826136B6E24C40438CD769C713CE2B7F">Conoce la sociedad romana</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_25_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_26_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso260&amp;IdRecurso=RES-838543B3120A47998F0CB3C9D78B0182">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_14_CO_BA1AB87BC30448E1967E21DE1888E105">
-    <seccion1Titulo>La cultura en la antigua Roma</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_06_14_CO_711EE7D3513643B09B4560D955BB2263">
-        <seccion2Titulo>La religión en la antigua Roma</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_06_14_CO_096B31DDAD1B4B369977314C1BB9FF96">
-            <seccion3Titulo>La mitología romana</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_27_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso270&amp;IdRecurso=RES-A3A0C6FC166447F58D586C066EBC3DBD">La mitología en Roma</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_28_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso280&amp;IdRecurso=RES-C2070B43A4774AD68772B0F50347C874">Reconoce el papel de la religión romana</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_06_14_CO_3B702C62134646BC9F0B6817BCD9B22D">
-            <seccion3Titulo>El cristianismo</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_29_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso290&amp;IdRecurso=RES-B4E2F433ED00469E942A314556FED9FF">Los primeros siglos del cristianismo</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_30_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso300&amp;IdRecurso=RES-2D8019BDBFBA4154A14B3B9BC98CEA3E">Interpreta la evolución del cristianismo</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_14_CO_86BA60A7749D4D60A9833649AC635E20">
-        <seccion2Titulo>El arte en la antigua Roma</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_31_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso310&amp;IdRecurso=RES-A6CAA326B0A64954A5EF2E2F7393D911">El arte romano</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_32_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso320&amp;IdRecurso=RES-E69153A1C9D54EC0B98A655ADB4D0D61">Reconoce las principales muestras de arte romano</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_14_CO_847B4480221841BCB97C827DBECE0B41">
-        <seccion2Titulo>La Ciudad romana en la Antigüedad</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_14_CO_img_33_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso330&amp;IdRecurso=RES-3CE74096D65B44928F6DDEFF8227674D">La ciudad romana</enlace>
-          </profundiza>
-          <seccion3 id="S3_CS_06_14_CO_8971C12239E04E82AB585D71B4C8E225">
-            <seccion3Titulo>Consolidación</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_06_14_CO_img_34_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso340&amp;IdRecurso=RES-66977CB61166427FB5C1CD15319B5876">Recurso M101A-04</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_14_CO_2699FD80BDFE4843945E4A7A74BA5C1E">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_14_CO_img_35_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso350&amp;IdRecurso=RES-7FBF698ACCFF41E39272604746F0BAA7">Competencias: comentario de una obra de arte de la Roma antigua</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_14_CO_img_36_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso360&amp;IdRecurso=RES-B36C3B03C2D547B79DB84377741FEF89">Proyecto: análisis del legado romano</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_06_14_CO_2F9BC9E4420E4AFDA04E632383D48826">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso380&amp;IdRecurso=RES-E675D0D04F304B2697F093B9F41507A5">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso390&amp;IdRecurso=RES-0669C7CF7601497BAEC8754DBF829917">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Civilizaciones de la Antigüedad: Grecia y Roma</libroTitulo>
+<seccion1 id="S1_CS_06_14_CO_A66D102994BF4E598536B15371AA7933">
+<seccion1Titulo>Grecia en la Antigüedad</seccion1Titulo>
+<seccion1Texto>
+<p>Grecia antigua se considera la cuna de la <negrita>civilización
+occidental</negrita>. Los antiguos griegos fueron una de las primeras
+grandes civilizaciones de la Edad Antigua y a ellos debemos la <negrita
+>democracia</negrita>, la <negrita>filosofía</negrita> y el <negrita
+>teatro</negrita>, entre otros aportes. La civilización griega antigua
+se formó en el sur de la Península Balcánica, en las islas del Egeo
+y en las costas de Asia Menor (Turquía). Desde allí se extendió por
+todo el <negrita>Mediterráneo</negrita> y por la costa del mar Negro.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso010&amp;IdRecurso=RES-1F36B5A6742E49B6A5B1FDD20D3EC3B5"
+>Grecia</enlace>
+</profundiza><seccion2
+id="S2_CS_06_14_CO_E1A98DCDEF75418CB9C3452E063B01EA">
+<seccion2Titulo>Orígenes de la civilización griega (2700-1200 a. C.)</seccion2Titulo>
+<seccion2Texto>
+<p>El origen de la civilización griega se remonta a mediados del III
+milenio a. C., en la etapa final de la <negrita>Edad de Bronce</negrita
+>.</p>
+<seccion3 id="S3_CS_06_14_CO_319C1AA202CB45B7872E2791C2FB4690">
+<seccion3Titulo>La civilización minoica (2700- 1400 a. C.)</seccion3Titulo>
+<seccion3Texto>
+<p>La civilización minoica (2700-1400 a. C.) tuvo como centro la isla
+de <negrita>Creta</negrita>. Gracias a su situación en el Mediterráneo
+pudo establecer <negrita>contactos comerciales</negrita> con Egipto,
+Chipre y Próximo Oriente. Estas relaciones hicieron que la isla se
+convirtiera en un gran foco económico y que se construyeran grandes
+complejos como el <negrita>palacio de Cnosos</negrita>. La invasión
+de los <negrita>aqueos</negrita>, procedentes del norte, puso fin
+a esta civilización.</p>
+<imagen ampliable="no" src="CS_06_14_CO_IMG01_small.jpg">
+<p>El descubrimiento del <negrita>palacio de Cnosos</negrita>, por
+el arqueólogo <negrita>Arthur Evans</negrita>, supuso el principio
+del estudio de la civilización minoica. La complejidad de las construcciones
+evocó a Evans el mito del rey Minos y el laberinto; de ahí que la
+civilización cretense también sea conocida como <negrita>minoica</negrita
+>.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_319C1AA202CB45B7872E2791C2FB0674">
+<seccion3Titulo>La civilización micénica (2000-1200 a. C.)</seccion3Titulo>
+<seccion3Texto>
+<p>La llegada de los aqueos a la Grecia continental (Peloponeso) y
+su fusión con la población autóctona dieron lugar a la <negrita>civilización
+micénica</negrita> (2000-1200 a. C.). Era un <negrita>pueblo guerrero</negrita
+> que dominaba el territorio construyendo grandes <negrita>palacios
+fortificados</negrita> como el de <negrita>Micenas</negrita>.</p>
+<imagen src="CS_06_14_CO_IMG02_small.jpg">
+<p><negrita>Agamenón</negrita>, el mítico rey de <negrita>Micenas</negrita
+>, llegó a tener un gran poder entre los príncipes aqueos, por lo
+que fue escogido líder de la expedición contra Troya. Según la leyenda,
+sacrificó a su hija Ifigenia para contar con el favor de los dioses.</p>
+</imagen>
+<p>Los aqueos colonizaron Sicilia y el sur de Italia, y se extendieron
+por el Egeo, donde acabaron con la civilización minoica (1400 a. C.).
+También fundaron colonias en las costas de Asia Menor y tomaron la
+mítica ciudad de <negrita>Troya</negrita> hacia el año 1280 a. C.</p>
+<p>No obstante, la invasión de los <negrita>dorios</negrita> (1200
+a. C.), procedentes de Europa central, puso fin al mundo micénico.</p>
+<p>Para conocer mejor a los dorios te animamos a consultar la información
+que ofrece la Universidad de Almería<enlace
+destino="http://www.ual.es/personal/fjgarcia/His_1_3_b.htm"> [VER]</enlace
+>.</p>
+<destacado><destacadoTitulo>Aqueos (bronce) frente a dorios (hierro)</destacadoTitulo>
+<destacadoTexto>
+<p>Los <negrita>aqueos</negrita> eran un pueblo procedente del centro
+de Europa, que se desarrolló plenamente durante la <negrita>Edad de
+Bronce</negrita>.</p>
+<p>Los <negrita>dorios</negrita>, por su parte, eran un pueblo de
+la Edad de Hierro. Gracias a la superioridad de su <negrita>armamento</negrita
+>, lograron imponerse a los aqueos.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso020&amp;IdRecurso=RES-CD00838A1C4A4B08BC304E265C1E2A1C"
+>Creta y Micenas</enlace>
+</profundiza><recuerda><recuerdaTexto>
+<p>La invasión de los dorios, un pueblo de Europa central, no solo
+supuso el fin de la civilización micénica, sino que también abrió
+un periodo de decadencia y de atraso conocido como la <negrita>edad
+oscura</negrita> (siglos XII-VIII a. C.). Durante esta etapa el comercio
+se paralizó, las ciudades se aislaron y la escritura desapareció.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso030&amp;IdRecurso=RES-81D36D8834EB4C70BC07FA0766CD867C"
+>Refuerza tu aprendizaje: La cuna de la civilización occidental</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_14_CO_199BAAD66A07477792F07CEBB545E320">
+<seccion2Titulo>La época arcaica (siglos VIII – VI a.C.)</seccion2Titulo>
+<seccion2Texto>
+<p>A partir del siglo VIII a. C., la historia de Grecia se divide
+en tres periodos. La <negrita>época arcaica</negrita> (siglos VIII-VI
+a. C.) es la primera de estas etapas. Durante aquel periodo se construyeron
+las primeras <negrita>polis</negrita> y <negrita>colonias griegas</negrita
+>.</p>
+<seccion3 id="S3_CS_06_14_CO_319C1AA202CB45B7872E2791C2FB5789">
+<seccion3Titulo>Las polis griegas</seccion3Titulo>
+<seccion3Texto>
+<p>Los griegos o helenos se organizaron en pequeños distritos alrededor
+de una <negrita>polis</negrita> o <negrita>ciudades-Estado</negrita
+>. Estas contaban con un gobierno, leyes, ejército y moneda propios.
+Eran entidades independientes, aunque compartían religión, lengua
+y cultura. El espacio geográfico ocupado por los griegos recibía el
+nombre de <negrita>Hélade</negrita><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=94713&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<recuerda><recuerdaTexto>
+<p>Los griegos antiguos se llamaban a sí mismos <negrita>helenos</negrita
+>, y a su país, <negrita>Hélade</negrita>. Estos nombres derivan de <negrita
+>Heleno</negrita>, héroe mítico y padre de los jefes de las principales
+tribus griegas. Los términos <cursiva>griego</cursiva> y <cursiva
+>Grecia</cursiva> proceden del nombre de la tribu de los graii, habitantes
+del oeste de Grecia.</p>
+<p>En la misma época también se configuró la estructura de las polis
+griegas, las cuales contaban con varios elementos comunes, como la <negrita
+>acrópolis</negrita> (recinto fortificado) y el <negrita>ágora</negrita
+> (espacio abierto considerado el centro de la vida política y económica
+de la polis).</p>
+</recuerdaTexto></recuerda>
+<imagen src="CS_06_14_CO_IMG03_small.jpg">
+<p>La <negrita>acrópolis</negrita> era, en su origen, una ciudadela
+fortificada donde la población podía reunirse y resistir en caso de
+agresión. En Atenas, la acrópolis adquirió el aspecto de un núcleo
+sagrado de santuarios y templos durante el siglo V a. C.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso040&amp;IdRecurso=RES-C84477AD4CFE446AA18AB460775C9FC0"
+>La época arcaica: el origen de la polis</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso050&amp;IdRecurso=RES-2DA6E46B04EF43DA922FC4DA857BEF0C"
+>Interpreta un mapa histórico</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_341EDE5FFA7146E4AF67A5C3BFAF4935">
+<seccion3Titulo>Las colonizaciones griegas</seccion3Titulo>
+<seccion3Texto>
+<p>El <negrita>aumento de la población</negrita>, la <negrita>escasez
+de tierras de cultivo</negrita>, los <negrita>enfrentamientos sociales</negrita
+> y el deseo de <negrita>expansión comercial</negrita> llevó a los
+griegos a explorar el <negrita>Mediterráneo</negrita> y a establecer <negrita
+>colonias</negrita> en todas sus costas<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=8&amp;idpil=000LHX01&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>En la Península Ibérica, por ejemplo, los griegos fundaron <negrita
+>Emporion</negrita> (Empúries), <negrita>Hemeroscopeion</negrita> (Dénia)
+o <negrita>Mainaké</negrita> (cerca de Málaga).</p>
+<p>En estos territorios se intercambiaban productos como el <negrita
+>vino</negrita>, el <negrita>aceite</negrita> y la <negrita>cerámica</negrita
+> por <negrita>cereales</negrita>, <negrita>pieles</negrita>, <negrita
+>metales</negrita> y otras <negrita>materias primas</negrita>. Los
+habitantes de las colonias compartían la misma lengua, cultura y religión
+que los griegos del Mediterráneo oriental. Aunque poco a poco se fueron
+independizando, mantuvieron las relaciones comerciales con sus <negrita
+>metrópolis</negrita>.</p>
+<recuerda><recuerdaTexto>
+<p>El término griego <negritacursiva>metrópolis</negritacursiva> significa
+“ciudad principal”. En el contexto de la colonización griega, las
+metrópolis eran las ciudades de origen de los fundadores de las distintas
+colonias. Así, la metrópolis de Massalia (Marsella) era Focea, una
+ciudad jónica situada en Asia Menor.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso060&amp;IdRecurso=RES-3A210A575B8C40E5BE9940AB6DF06188"
+>La colonización griega</enlace>
+</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_14_CO_888AE54939DF49B5A643D79A3C84C898">
+<seccion2Titulo>La época clásica (siglos V-IV a. C.)</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>época clásica</negrita> (siglos V-IV a. C.) fue el
+momento de máximo esplendor de la cultura griega. Las formas políticas,
+el arte, la literatura y la filosofía alcanzaron su plenitud, aunque
+fue un periodo complejo en el que los griegos se enfrentaron a graves
+conflictos bélicos.</p>
+<seccion3 id="S3_CS_06_14_CO_39FDEF24513C468683B726BDD4A606EF">
+<seccion3Titulo>Las guerras médicas</seccion3Titulo>
+<seccion3Texto>
+<p>En el siglo V a. C., el <negrita>Imperio persa</negrita> atacó
+algunas polis griegas en Asia Menor. Esto desencadenó el estallido
+de las <negrita>guerras médicas</negrita> (494-479 a. C.), las cuales
+concluyeron con la victoria griega.</p>
+<p>Al acabar el conflicto, <negrita>Atenas</negrita> se convirtió
+en la polis más poderosa de Grecia. Como tal, se puso al frente de
+la <negrita>liga de Delos</negrita>, una confederación de polis creada
+para protegerse de la amenaza persa.</p>
+<recuerda><recuerdaTexto>
+<p>Los griegos usaban el término “medo” para referirse a los persas;
+de ahí que se hable de guerras médicas.</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>La liga de
+Delos</destacadoTitulo><destacadoTexto>
+<p>La liga de Delos fue una <negrita>organización militar</negrita
+> liderada por <negrita>Atenas</negrita> y creada para hacer frente
+a una posible invasión persa. Cada polis tenía que aportar una <negrita
+>cantidad económica</negrita> a cambio de la <negrita>ayuda militar</negrita
+> del resto, en caso necesario. El tesoro se custodiaba en la isla
+de Delos.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_9A58F888DBDF4B55A52348719301D681">
+<seccion3Titulo>Atenas</seccion3Titulo>
+<seccion3Texto>
+<p>Tras las guerras médicas, Atenas se convirtió en la <negrita>principal
+potencia</negrita> griega del momento. Se afianzó la <negrita>democracia</negrita
+> gracias a las reformas políticas y durante esta etapa vivió el periodo
+de mayor esplendor de su historia.</p>
+<imagen src="CS_06_14_CO_IMG04_small.jpg">
+<p>La antigua ciudad de <negrita>Delfos</negrita> era famosa en todo
+el mundo griego por el santuario de Apolo. Allí se encontraba el <negrita
+>oráculo</negrita>, al que durante siglos acudieron los griegos en
+busca de consejo. Tras la victoria de Atenas en la batalla de Maratón
+(490 a. C.), la ciudad construyó el tesoro de los atenienses para
+albergar las ofrendas de sus habitantes al templo de Delfos.</p>
+</imagen>
+<p><negrita>La sociedad ateniense</negrita></p>
+<p>La sociedad ateniense estaba formada por distintos grupos, aunque
+solo los <negrita>ciudadanos</negrita> gozaban de todos los derechos.
+Para ello, debían cumplirse dos condiciones: ser hombre mayor de veinte
+años y ser hijo de padre y madre ateniense.</p>
+<p>Las <negrita>mujeres</negrita>, <negrita>metecos</negrita> (extranjeros,
+normalmente comerciantes y artesanos) y <negrita>esclavos</negrita
+> (el grupo más numeroso), por el contrario, carecían de derechos
+políticos.</p>
+<p><negrita>La democracia ateniense</negrita></p>
+<p>Uno de los mayores aportes de la Atenas clásica fue una forma nueva
+de gobierno: la <negrita>democracia</negrita>. Esta alcanzó su forma
+definitiva bajo el mando de Pericles (461-429 a. C.), quien otorgó
+al ciudadano medio la <negrita>participación directa</negrita> en
+el gobierno de la polis.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso070&amp;IdRecurso=RES-B34F2DF1195141A69D37AFCFF33DCED3"
+>La época clásica: la democracia ateniense</enlace>
+</profundiza></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_9A58F888DBDF4B55A52348719301C570">
+<seccion3Titulo>Esparta</seccion3Titulo>
+<seccion3Texto>
+<p>La ciudad de <negrita>Esparta</negrita>, situada en la península
+del Peloponeso, fue fundada a finales del siglo IX a. C. Dentro del
+mundo griego constituyó una peculiaridad en lo que se refiere a su
+organización y estructura social. Además, mantuvo una <negrita>rivalidad
+permanente</negrita> con la ciudad de Atenas.</p>
+<p><negrita>La sociedad espartana</negrita></p>
+<p>La sociedad en Esparta estaba marcada por profundas diferencias
+entre los distintos grupos que la componían. Los <negrita>espartiatas</negrita
+> eran hijos de padre y madre espartana. Los hombres eran educados
+para la guerra desde niños y eran los únicos que podían gozar de derechos
+políticos y del control de la tierra.</p>
+<p>Por debajo de este grupo minoritario, se situaban los <negrita
+>periecos</negrita> (campesinos, artesanos y comerciantes), que pagaban
+impuestos, y los <negrita>ilotas</negrita> (esclavos propiedad del
+Estado), que no tenían derechos políticos.</p>
+<imagen src="CS_06_14_CO_IMG05_small.jpg">
+<p>En Esparta, la <negrita>sociedad de hoplitas</negrita> (de guerreros)
+obligaba a los ciudadanos, propietarios de la tierra, a prestar servicio
+militar y a vivir en comunidad desde la infancia y hasta después de
+casarse.</p>
+</imagen>
+<destacado><destacadoTitulo>Las mujeres espartanas</destacadoTitulo>
+<destacadoTexto>
+<p>Las <negrita>mujeres espartanas</negrita> gozaban de una relativa
+libertad y autonomía que les permitía ocuparse de algunas actividades
+fuera del hogar. Sin embargo, no podían participar en la vida política
+de la ciudad.</p>
+</destacadoTexto></destacado>
+<p><negrita>La oligarquía espartana</negrita></p>
+<p>Esparta se regía por un <negrita>sistema oligárquico</negrita>,
+es decir, por un gobierno controlado por una minoría<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=553446&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>Aunque la ciudad estaba gobernada por <negrita>dos reyes</negrita
+>, el poder real residía en el <negrita>consejo de ancianos</negrita
+> (gerusia). Este, a su vez, era elegido por la <negrita>asamblea
+de ciudadanos</negrita> (apella), formada por los espartiatas mayores
+de treinta años.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso080&amp;IdRecurso=RES-3676FE0D48A344C68D752EAE735F01DC"
+>Identifica las diferencias entre Atenas y Esparta</enlace>
+</practica><destacado><destacadoTitulo>La guerra del Peloponeso</destacadoTitulo>
+<destacadoTexto>
+<p>La rivalidad entre Esparta y Atenas acabó desembocando en el estallido
+de la <negrita>guerra del Pelopones</negrita>o (431-404 a. C.), que
+terminó con la derrota de Atenas. Con ello se iniciaba la hegemonía
+de Esparta en Grecia, aunque aquella acabó siendo contestada por el
+resto de polis griegas.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3></seccion2Texto>
+</seccion2><seccion2
+id="S2_CS_06_14_CO_6E5EFD0E52B349FEAB6FAF2804A20660">
+<seccion2Titulo>La época helenística (siglos IV-I a. C.)</seccion2Titulo>
+<seccion2Texto>
+<p>En el año 338 a. C., <negrita>Filipo II rey de Macedonia</negrita
+>, tras conquistar Atenas y Tebas, logró el control del resto de las
+polis griegas. Al morir, fue sucedido por su hijo <negrita>Alejandro</negrita
+>, quien consolidó los dominios de su padre y amplió los límites de
+sus territorios hasta crear en pocos años uno de los imperios más
+extensos de la Antigüedad. A este periodo se le denomina la <negrita
+>época helenística</negrita>, caracterizada por la expansión de la
+cultura griega.</p>
+<seccion3 id="S3_CS_06_14_CO_6EE85490CF8745868B1C5AB77D06C478">
+<seccion3Titulo>El Imperio de Alejandro Magno</seccion3Titulo>
+<seccion3Texto>
+<p>Tras la muerte de su padre y con apenas veinte años, <negrita>Alejandro
+Magno</negrita> se convirtió en rey (336-323 a. C.). Fue educado por
+uno de los filósofos más influyentes de la época, Aristóteles, quien
+lo instruyó en moral, política, medicina y poesía. A esta formación
+se suman sus grandes dotes como <negrita>estratega militar</negrita
+>, que lo llevaron a la construcción del <negrita>Imperio helenístico</negrita
+>.</p>
+<p>Alejandro Magno emprendió una serie de campañas militares donde
+conquistó los territorios de Siria, Fenicia, Egipto, Mesopotamia y
+Persia; así, la extensión del Imperio abarcó desde el río Nilo hasta
+el río Indo. Además, a lo largo de su Imperio fundó varias ciudades
+con el nombre de <negrita>Alejandría</negrita>, siendo la de Egipto,
+con su importante biblioteca, la más célebre.</p>
+<imagen src="CS_06_14_CO_IMG06_small.jpg">
+<p>Gracias a las numerosas victorias militares sobre distintos pueblos, <negrita
+>Alejandro Magno</negrita> llegó a gobernar el <negrita>Imperio más
+extenso de la Antigüedad</negrita>.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso090&amp;IdRecurso=RES-2E62B626940446C5878A06428DA0DBAA"
+>La época helenística</enlace>
+</profundiza></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_4B823F7AE43C42BBB3A4974871CD6CF6">
+<seccion3Titulo>Los reinos helenísticos</seccion3Titulo>
+<seccion3Texto>
+<p>La muerte de Alejandro Magno (323 a. C.) hizo que el Imperio que
+había creado se dividiese en distintos <negrita>reinos helenísticos</negrita
+> gobernados por sus generales. La cultura griega se difundió por
+estos territorios y se mezcló con la propia de las distintas regiones.
+Los reinos helenísticos resistieron hasta que fueron ocupados por
+el <negrita>Imperio romano</negrita><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=7&amp;idpil=IN000230&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso100&amp;IdRecurso=RES-77C526B48BD5437D83E7101EB0667B10"
+>Identifica los rasgos del período helenístico</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_14_CO_6E5EFD0E52B349FEAB6FAF2804A21771">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso110&amp;IdRecurso=RES-2FA8C16F228A49A8BB3A96A54C1C84E2"
+>Refuerza tu aprendizaje: Grecia en la Antigüedad</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_14_CO_ECAD44B3D5DC444F967745656F63F7A2">
+<seccion1Titulo>La cultura en la antigua Grecia</seccion1Titulo>
+<seccion1Texto>
+<p>Nuestra cultura debe mucho al legado de la Grecia antigua, una
+civilización de la que somos herederos. Los tratados de los filósofos,
+de los matemáticos, de los médicos y de otros sabios griegos hicieron
+posible el desarrollo de la ciencia, la técnica y la cultura a partir
+de la Edad Moderna.</p>
+<seccion2 id="S2_CS_06_14_CO_04FBDE865B3C496AB2D5CB931DC80541">
+<seccion2Titulo>La mitología griega</seccion2Titulo>
+<seccion2Texto>
+<p>La religión estaba presente en todas las expresiones culturales.
+La sociedad griega era politeísta. El panteón griego estaba compuesto,
+entre otras divinidades, por los doce dioses olímpicos. Entre ellos
+se encontraban <negrita>Zeus</negrita>, el dios supremo, así como <negrita
+>Poseidón</negrita>, <negrita>Hades</negrita>, <negrita>Atenea</negrita
+> y <negrita>Afrodita</negrita>.</p>
+<imagen src="CS_06_14_CO_IMG07_small.jpg">
+<p><negrita>Zeus</negrita> era la divinidad suprema de la mitología
+griega. Dios de la luz, el cielo, el rayo y la tormenta. Junto a él,
+habitaban en el Olimpo otros dioses como Hestia, Hera, Ares, Afrodita,
+etc.</p>
+</imagen>
+<p>La <negrita>mitología</negrita> ofrecía una explicación sobre el
+mundo a través de una serie de historias fabulosas sobre los dioses,
+semidioses y héroes de la Antigüedad.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso120&amp;IdRecurso=RES-C1FB0F0DAF7348BEA04D002A0E1B31DB"
+>Conoce la mitología de la antigua Grecia</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_14_CO_04FBDE865B3C496AB2D5CB931DC84541">
+<seccion2Titulo>Las ciencias y las letras en la antigua Grecia</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>filosofía</negrita> griega representa la base del pensamiento
+occidental. Entre sus máximos exponentes se encuentran <negrita>Sócrates</negrita
+>, <negrita>Aristóteles</negrita> y <negrita>Platón</negrita>.</p>
+<p><negrita>Heródoto</negrita> fue el padre de la historiografía,
+mientras que <negrita>Estrabón</negrita> fue el iniciador de la geografía.
+ También hubo científicos importantes, como el matemático <negrita
+>Arquímedes</negrita> o el médico <negrita>Hipócrates</negrita>.</p>
+<p>En el campo de la <negrita>literatura</negrita> destacó <negrita
+>Homero</negrita>, autor de la <cursiva>Ilíada</cursiva> y la <cursiva
+>Odisea</cursiva>. Además, los griegos fueron los padres del teatro.
+Destacaron autores como <negrita>Eurípides</negrita>, <negrita>Esquilo</negrita
+> y <negrita>Aristófanes</negrita>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso130&amp;IdRecurso=RES-4FE49C76074F4AA9B8105ED3134C6CB4"
+>El legado cultural griego</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_14_CO_04FBDE865B3C496AB2D5CB931DC84782">
+<seccion2Titulo>El arte griego</seccion2Titulo>
+<seccion2Texto>
+<p>En el arte, el ideal de belleza griego estaba basado en la <negrita
+>proporción</negrita>, la <negrita>armonía</negrita> y el <negrita
+>equilibrio</negrita>, principios comunes a todas las manifestaciones
+artísticas.</p>
+<seccion3 id="S3_CS_06_14_CO_4B823F7AE43C42BBB3A4974871CD1AD7">
+<seccion3Titulo>La arquitectura griega</seccion3Titulo>
+<seccion3Texto>
+<p>Los edificios más importantes eran los <negrita>templos</negrita
+>, que tenían una planta rectangular, estaban rodeados de columnas
+y en algunos casos cubiertos por un tejado a dos aguas<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=11&amp;idpil=001DUA01&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_14_CO_IMG08_small.jpg">
+<p>El mayor exponente del arte griego es el <negrita>Partenón de Atenas</negrita
+>. Este, situado en la <negrita>Acrópolis</negrita>, era un templo
+dedicado a la diosa Atenea. Se trata de un gran <negrita>edificio
+de orden dórico</negrita> con un <negrita>recinto jónico en su interior</negrita
+>; acogía una estatua colosal de la diosa.</p>
+</imagen>
+<p>En arquitectura se desarrollaron tres <negrita>órdenes</negrita
+><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=11&amp;idpil=001DUB01&amp;ruta=Buscador"
+> [VER]</enlace>:</p>
+<listaSinNumerar>
+<listaElemento>El <negrita>orden dórico</negrita>: sencillo y robusto.</listaElemento>
+<listaElemento>El <negrita>orden jónico</negrita>: más delicado y
+ornamental. Capiteles decorados con volutas.</listaElemento>
+<listaElemento>El <negrita>orden corintio</negrita>: capiteles decorados
+con hojas de acanto.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_14_CO_IMG09_small.jpg">
+<p>El <negrita>orden dórico</negrita> tuvo una gran difusión, pero
+los complejos cálculos que debían hacer los arquitectos favorecieron
+el triunfo del <negrita>orden jónico</negrita>. Sus elementos decorativos
+estaban inspirados en modelos orientales. El <negrita>orden corintio</negrita
+> se diferenciaba del jónico por tener mayor altura y por el diseño
+del capitel.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_4B823F7AE43C42BBB3A4974871CD2BE8">
+<seccion3Titulo>La escultura griega</seccion3Titulo>
+<seccion3Texto>
+<p>La escultura griega tuvo como temática central el cuerpo humano,
+que sirvió para representar a divinidades, héroes y mortales.</p>
+<p>En el <negrita>periodo arcaico</negrita>, las esculturas se definían
+por su <negrita>rigidez</negrita> y parecido con el arte egipcio.</p>
+<p>Asimismo, en la <negrita>época clásica</negrita> se perfeccionaron
+las técnicas y las figuras se volvieron más naturales. Destacan por
+su <negrita>simetría</negrita>, <negrita>armonía</negrita> y <negrita
+>equilibrio</negrita>.</p>
+<p>Por último, en <negrita>época helenística</negrita> se alcanzó
+la perfección técnica y las figuras se definían por su <negrita>expresividad</negrita
+> y <negrita>dramatismo</negrita>.</p>
+<imagen src="CS_06_14_CO_img_10_small.jpg">
+<p>La conocida <negrita>Venus de Milo</negrita> (hacia 100 a. C.)
+es uno de los mejores ejemplos de la escultura griega del <negrita
+>periodo helenístico</negrita>. Se trata de una pieza de mármol de
+dos metros de altura que representa a la diosa <negrita>Afrodita</negrita
+>. Fue encontrada en 1880 en la isla griega de <negrita>Melos</negrita
+> o <negrita>Milo</negrita>.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>En la evolución del arte escultórico griego se distinguen <negrita
+>tres periodos</negrita>:</p>
+<listaSinNumerar>
+<listaElemento>El <negrita>periodo arcaico (650-480 a. C.)</negrita
+>: se caracterizaba por una gran rigidez y un gran parecido con el
+arte egipcio.</listaElemento>
+<listaElemento>El <negrita>periodo clásico (480-323 a. C.)</negrita
+>: definido por la simetría, la armonía y el equilibrio.</listaElemento>
+<listaElemento>El <negrita>periodo helenístico (323-31 a. C.)</negrita
+>: destaca por su expresividad y su dramatismo.</listaElemento>
+</listaSinNumerar>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_899C7B002D284C3B84660BFDFC431FF3">
+<seccion3Titulo>La pintura y la cerámica griegas</seccion3Titulo>
+<seccion3Texto>
+<p>En pintura destacan el <negrita>mural</negrita> y la <negrita>cerámica</negrita
+>, que podía ser de figuras negras sobre fondo rojo o bien de figuras
+rojas sobre fondo negro.</p>
+<imagen src="CS_06_14_CO_img_11_small.jpg">
+<p>La <negrita>cerámica griega</negrita> es muy característica y fácilmente
+identificable. Gracias a las pinturas griegas encontradas se ha podido
+saber más sobre la mitología y la vida cotidiana en la Grecia antigua.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso140&amp;IdRecurso=RES-21512DE9300247BB81D969E6F0571743"
+>El arte griego</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso150&amp;IdRecurso=RES-A08A80C2EB30402285F0C6CCC17A8414"
+>Conoce el arte y la cultura de la Grecia antigua</enlace>
+</practica>
+<table border="1"><caption>La civilización griega</caption><colgroup>
+<col width="16*"/><col width="16*"/><col width="46*"/></colgroup>
+<tbody>
+<tr>
+<td>CRONOLOGÍA</td>
+<td>ÉPOCA</td>
+<td>HECHOS DESTACADOS</td>
+</tr>
+<tr>
+<td rowspan="2">2700-1200 a. C.</td>
+<td rowspan="2">Los primeros griegos</td>
+<td>La civilización minoica (2700-1400 a. C.).</td>
+</tr>
+<tr>
+<td>La civilización micénica (2000-1200 a. C.).</td>
+</tr>
+<tr>
+<td>Siglos XII-VIII a. C.</td>
+<td>La edad oscura</td>
+<td>La invasión doria. Etapa de decadencia y de retraso.</td>
+</tr>
+<tr>
+<td rowspan="4">Siglos VIII - VI a. C.</td>
+<td rowspan="4">La época arcaica</td>
+<td>El desarrollo de las ciudades-Estado o polis griegas.</td>
+</tr>
+<tr>
+<td>Los primeros juegos olímpicos (776 a. C.).</td>
+</tr>
+<tr>
+<td>Las colonizaciones griegas (a partir del siglo VIII a. C.).</td>
+</tr>
+<tr>
+<td>La liga del Peloponeso (siglo VI a. C.).</td>
+</tr>
+<tr>
+<td rowspan="3">Siglos V - IV a. C.</td>
+<td rowspan="3">La época clásica</td>
+<td>Las guerras médicas (494 - 479 a. C.).</td>
+</tr>
+<tr>
+<td>La democracia ateniense.</td>
+</tr>
+<tr>
+<td>La guerra del Peloponeso (431-404 a. C.).</td>
+</tr>
+<tr>
+<td rowspan="3">Siglos IV - I a. C.</td>
+<td rowspan="3">La época helenística</td>
+<td>El Imperio de Alejandro Magno (336-323 a. C.).</td>
+</tr>
+<tr>
+<td>Los reinos helenísticos (a partir de 323 a. C.).</td>
+</tr>
+<tr>
+<td>La conquista romana de Grecia (146 a. C.).</td>
+</tr>
+</tbody>
+</table>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_14_CO_04FBDE865B3C496AB2D5CB931DC89430">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso160&amp;IdRecurso=RES-C9AA237E8DB848AA8CC0C5531FD7B838"
+>Refuerza tu aprendizaje: La cultura en la antigua Grecia</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_14_CO_364FCDF370584F91A302D2B068356671">
+<seccion1Titulo>Roma en la Antigüedad</seccion1Titulo>
+<seccion1Texto>
+<p>La civilización romana fue una de las grandes sociedades de la
+Antigüedad. Roma llegó a convertirse en un gran imperio que dominó
+todo el Mediterráneo y buena parte de Europa occidental.</p>
+<p>La supremacía de este imperio se mantuvo durante más de un milenio
+y todavía hoy, muchos siglos después, podemos encontrar rastros del
+legado romano. Estudiar la civilización romana nos permitirá entender
+el origen de muchas de nuestras tradiciones y, en definitiva, de nuestra
+cultura.</p>
+<imagen src="CS_06_14_CO_IMG12_small.jpg">
+<p>La historia de la Roma antigua duró más de doce siglos. A lo largo
+de ese tiempo pasó por tres etapas distintas: la <negrita>monarquía</negrita
+> (siglo VIII-509 a. C.), la <negrita>República</negrita> (509-27
+a. C.) y el <negrita>Imperio</negrita> (27 a. C.-476). Durante esta
+etapa se sucedieron distintas dinastías de emperadores y se ampliaron
+los límites territoriales. Los bajorrelieves de la columna Trajana
+(año 113) conmemoran la victoria de Trajano frente a los dacios.</p>
+</imagen>
+<p>En el I milenio a. C., la <negrita>Península Itálica</negrita> estaba
+habitada por distintos pueblos:</p>
+<p>Al norte del río Tíber se situaban los <negrita>etruscos</negrita
+>.</p>
+<p>En el centro, en las llanuras ribereñas del mar <negrita>tirreno</negrita
+>, se asentaban <negrita>sabinos</negrita>, <negrita>latinos</negrita
+>, y <negrita>volscos</negrita>; en el interior, los <negrita>itálicos</negrita
+>; en los <negrita>Apeninos</negrita>, los <negrita>ecuos</negrita
+>; en la llanura del <negrita>mar Adriático</negrita>, en el <negrita
+>centro</negrita>, los <negrita>samnitas</negrita>.</p>
+<p>El sur de la Península Itálica recibía el nombre de <negrita>Magna
+Grecia</negrita>, pues en esta zona abundaban las <negrita>colonias
+griegas</negrita><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=8&amp;idpil=000L9M01&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso170&amp;IdRecurso=RES-50A0933E301A4069BD60BB6EF2E6D73D"
+>Los orígenes de la civilización romana</enlace>
+</profundiza><recuerda><recuerdaTexto>
+<p>Recuerda la numeración:</p>
+<listaSinNumerar>
+<listaElemento>I = 1 (y II = 2, III = 3)</listaElemento>
+<listaElemento>V = 5 (IV = 4, VI = 6, VII = 7 y VIII = 8)</listaElemento>
+<listaElemento>X = 10 (IX = 9, XI = 11, XII = 12, XIII = 13, XIV =
+14, XX = 20, XXX = 30)</listaElemento>
+<listaElemento>L = 50 (XL = 40, LX = 60, LXX = 70, LXXX = 80)</listaElemento>
+<listaElemento>C = 100 (XC = 90, CC = 200, CCC = 300)</listaElemento>
+<listaElemento>D = 500 (CD = 400, DC = 600, DCC = 700, DCCC = 800)</listaElemento>
+<listaElemento>M = 1000 (CM = 900, MM = 2000)</listaElemento>
+</listaSinNumerar>
+<p>Por ejemplo: <cursiva>siglo IV</cursiva> se lee como “siglo cuarto”; <cursiva
+>siglo XVI</cursiva> se lee como “siglo dieciséis”.</p>
+</recuerdaTexto></recuerda><seccion2
+id="S2_CS_06_14_CO_F5D73A76BD434D1695BB9892F75D2B9A">
+<seccion2Titulo>La fundación de Roma</seccion2Titulo>
+<seccion2Texto>
+<p>Roma se fundó en el siglo VIII a. C. en el <negrita>Lacio</negrita
+>, una región del centro de la Península Itálica. Aunque el <negrita
+>mito</negrita> atribuye la fundación de la ciudad a los gemelos <negrita
+>Rómulo</negrita> y <negrita>Remo</negrita> en el año 753 a. C., los
+historiadores consideran que esta se produjo a partir de la unión
+de distintas tribus de la zona en torno a la primera mitad del siglo
+VIII a. C.</p>
+<imagen src="CS_06_14_CO_IMG13_small.jpg">
+<p>Los romanos explicaban sus orígenes mediante la leyenda de los <negrita
+>gemelos Rómulo</negrita> y <negrita>Remo</negrita>, hijos de Marte
+y fundadores de Roma. Con un dios como fundador de su civilización,
+podían dar un origen divino a su ciudad.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_14_CO_F5D73A76BD434D1695BB9892F75D1A8E">
+<seccion2Titulo>La monarquía (753 a. C.-509 a. C.)</seccion2Titulo>
+<seccion2Texto>
+<p>La primera forma de organización política de Roma fue la <negrita
+>monarquía</negrita> (753-509 a. C.). La ciudad tuvo siete reyes,
+aparte del fundador, Rómulo: tres de origen sabino y tres de origen
+etrusco.</p>
+<p>La sociedad quedó dividida desde muy pronto en dos grupos: los <negrita
+>patricios</negrita> (grandes propietarios de tierras y rebaños) y
+los <negrita>plebeyos</negrita> (campesinos, comerciantes y artesanos).</p>
+<recuerda><recuerdaTexto>
+<p>Los <negrita>patricios</negrita> formaban un grupo minoritario
+con gran <negrita>poder político y económico</negrita>. Se organizaban
+en el Senado, una asamblea de 300 miembros que tenía como objetivo
+limitar el poder del rey.</p>
+<p>Los <negrita>plebeyos</negrita> estaban sometidos políticamente
+a los patricios.</p>
+</recuerdaTexto></recuerda>
+<p>Tarquino el Soberbio (534-509 a. C.) expandió los límites de Roma
+sobre la región del Lacio, pero su gobierno tiránico y los intentos
+de limitar el poder de los patricios llevaron a la aristocracia romana
+a rebelarse contra la monarquía. Tras derrocarlo proclamaron la <negrita
+>República romana</negrita> (509 a. C.).</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso180&amp;IdRecurso=RES-3545B37C4EFA4ED9B9A6F4B84019DD34"
+>La monarquía romana</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_14_CO_E32C49DC975E44DBB8178CDFFE5527AB">
+<seccion2Titulo>La República romana (509-27 a. C.)</seccion2Titulo>
+<seccion2Texto>
+<p>Durante el periodo republicano (509-27 a. C.), se consolidaron
+las <negrita>instituciones</negrita> y Roma se extendió sobre la Península
+Itálica y el <negrita>Mediterráneo</negrita><enlace
+destino="https://youtu.be/DXnnP5J1rD0"> [VER]</enlace>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso190&amp;IdRecurso=RES-8A1CD86C800C4E97980F7A15D36EAFC3"
+>La República romana</enlace>
+</profundiza><seccion3
+id="S3_CS_06_14_CO_411FA25B737C48FFBB09F3059D8311F8">
+<seccion3Titulo>La expansión de Roma</seccion3Titulo>
+<seccion3Texto>
+<p>A partir del siglo IV a. C., Roma inició un proceso de conquistas
+que la llevó a convertirse en la principal <negrita>potencia</negrita
+> de su época<enlace
+destino="http://recursos.cnice.mec.es/latingriego/Palladium/latin/esl141ca5.php"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_14_CO_IMG14_small.jpg">
+<p><negrita>Palmira</negrita>, un <negrita>reino clientelar de Rom</negrita
+>a, fue un importante <negrita>centro comercial</negrita> entre Oriente
+y Occidente. En 269, la reina <negrita>Zenobia</negrita> rompió sus
+lazos con Roma e intentó extender su dominio sobre Asia Menor, Palestina
+y Egipto. Sin embargo, tras ser derrotada por el emperador <negrita
+>Lucio Domicio Aureliano</negrita> (270), Palmira fue ocupada por
+el Imperio romano.</p>
+</imagen>
+<p>Esta expansión fue posible gracias al desarrollo de un gran <negrita
+>ejército</negrita> muy bien organizado. Una vez asegurado el control
+de la Península Itálica, la República se lanzó a la conquista del <negrita
+>Mediterráneo occidental</negrita>, un espacio que se disputaba con <negrita
+>Cartago</negrita>. Tras su victoria sobre los cartagineses, Roma
+conquistó Macedonia, Grecia, Asia Menor, Palestina y Egipto. Con ello
+se aseguraba el control del <negrita>Mediterráneo oriental</negrita
+>. Siguieron las conquistas de la Galia y Britania.</p>
+<recuerda><recuerdaTexto>
+<p>En su expansión por la Península Itálica, los romanos se enfrentaron
+con algunos de los pueblos que la habitaban. En el contexto de la
+lucha por el control del territorio tuvieron lugar las <negrita>guerras
+latinas</negrita> y las <negrita>guerras samnitas</negrita>, en las
+que Roma se impuso a aquellos pueblos.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_411FA25B737C48FFBB09F3059D8322A4">
+<seccion3Titulo>Las guerras púnicas</seccion3Titulo>
+<seccion3Texto>
+<p>En su proceso de expansión por el Mediterráneo, los romanos se
+enfrentaron a los <negrita>cartagineses</negrita> en una serie de
+tres conflictos conocidos como <negrita>guerras púnicas</negrita> (264-146
+a. C.). La victoria de Roma sobre Cartago dio a los romanos el control
+sobre el <negrita>Mediterráneo occidental</negrita>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso200&amp;IdRecurso=RES-101641A8FE534DBD80C7CA7432FC2089"
+>Las guerras púnicas</enlace>
+</profundiza></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_411FA25B737C48FFBB09F3059D8355B7">
+<seccion3Titulo>La crisis de la República</seccion3Titulo>
+<seccion3Texto>
+<p>Las últimas décadas de la República se caracterizaron por una gran <negrita
+>inestabilidad política</negrita> y <negrita>social</negrita>. Las
+guerras de expansión llevaron muchas riquezas a Roma de las que solo
+se beneficiaron militares y patricios, mientras que otros sectores
+sociales, como los campesinos, una vez terminada la guerra, quedaron
+empobrecidos y sin tierras. Esto generó una serie de <negrita>levantamientos</negrita
+>, <negrita>revueltas sociales</negrita> y <negrita>rebeliones de
+esclavos</negrita>.</p>
+<p>Por otro lado, las desavenencias provocadas por la implantación
+de una ley de reforma agraria propuesta por los <negrita>hermanos
+Graco</negrita> (finales del siglo II a. C.) desembocaron en una larga <negrita
+>guerra civil</negrita> entre los dos grupos políticos más importantes.</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_14_CO_FDE922304750411EA374FE826DEEB88A">
+<seccion2Titulo>El Imperio romano (27 a. C.-476)</seccion2Titulo>
+<seccion2Texto>
+<p>Tras la muerte de César, se creó un <negrita>segundo triunvirato</negrita
+> (43 a. C.) entre los generales <negrita>Octavio</negrita>, <negrita
+>Marco Antonio</negrita> y <negrita>Lépido</negrita>. Sin embargo,
+estos acabaron enfrentándose por el poder. Finalmente, Octavio, hijo
+adoptivo de Julio César, se impuso a Marco Antonio, a quien derrotó
+en la <negrita>batalla de Actium</negrita> (31 a. C.)<enlace
+destino="https://youtu.be/UQ1UjBdsp9k"> [VER]</enlace>.</p>
+<seccion3 id="S3_CS_06_14_CO_411FA25B737C48FFBB09F3059D8333C13">
+<seccion3Titulo>La formación del Imperio</seccion3Titulo>
+<seccion3Texto>
+<p>Octavio impuso un nuevo sistema de gobierno tras derrotar a sus
+enemigos en la guerra civil: el <negrita>Imperio</negrita> (27 a.
+C.-476)<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=553051&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_14_CO_IMG15_small.jpg">
+<p>Cayo <negrita>Julio César Octavio Augusto</negrita> fue el primer
+emperador de Roma después de ser adoptado por su tío <negrita>Julio
+César</negrita> (45 a. C.). Tras la <negrita>batalla de Actium</negrita
+> (31 a. C.), en la que se impuso a <negrita>Marco Antonio</negrita
+>, extendió su poder a todo el imperio. En el año 27 a. C. recibió
+el título de <negritacursiva>Augustus</negritacursiva>, el cual ostentaría
+la mayor parte de emperadores a partir de entonces.</p>
+</imagen>
+<p>Con él se abrió un largo periodo conocido como <negritacursiva
+>pax romana</negritacursiva>, marcado por la estabilidad interna y
+la prosperidad. Esta posibilitó la <negrita>romanización</negrita
+> de los territorios de Roma, es decir, la difusión de la lengua,
+las leyes, las costumbres y la cultura romanas en los territorios
+conquistados por el Imperio.</p>
+<recuerda><recuerdaTexto>
+<p><negrita>Octavio</negrita> adoptó los títulos de <negritacursiva
+>Augustus</negritacursiva> (el “elegido de los dioses”) y <negritacursiva
+>princeps senatus</negritacursiva> como el primero de los ciudadanos.
+Asumió el poder militar con el título de <negritacursiva>imperator</negritacursiva
+> y se convirtió en la principal autoridad religiosa como <negritacursiva
+>pontifex maximus</negritacursiva>, es decir, acumulaba todo el poder
+en su persona.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso210&amp;IdRecurso=RES-B505D60EED574DE48FA64A535B5CB53E"
+>El Imperio romano</enlace>
+</profundiza></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_411FA25B737C48FFBB09F3059D8322D49">
+<seccion3Titulo>La organización del Imperio</seccion3Titulo>
+<seccion3Texto>
+<p>Con Augusto, las viejas instituciones republicanas (Senado, magistrados
+y comicios) pasaron a tener un papel simbólico, pues el emperador
+tendió a acumular todo el poder (militar, civil y religioso). Aunque
+el cargo no era hereditario, la mayoría de emperadores designó a sus
+hijos como sucesores.</p>
+<p>El territorio del Imperio se dividía en <negrita>provincias</negrita
+> administradas por enviados del emperador. Aquellas contribuían al
+mantenimiento del Estado y del ejército pagando <negrita>altos impuestos</negrita
+>.</p>
+<p>Para poder proteger mejor las fronteras, se construyó una línea
+de fortificaciones o <negrita>limes</negrita> para defenderlas de
+las invasiones bárbaras o extranjeras.</p>
+<imagen src="CS_06_14_CO_IMG16_small.jpg">
+<p>El <negrita>muro de Adriano</negrita>, en el Reino Unido, es un
+ejemplo de las fortificaciones que construían los romanos para defender
+las fronteras del Imperio.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_411FA25B737C48FFBB09F3059D8388E34">
+<seccion3Titulo>La expansión del Imperio</seccion3Titulo>
+<seccion3Texto>
+<p>En el siglo II se llevaron a su máxima extensión las fronteras
+del Imperio tras conquistar <negrita>Dacia</negrita> (Rumania), <negrita
+>Armenia</negrita> y el <negrita>Reino parto</negrita> (convertido
+en las provincias de Mesopotamia y Asiria).</p>
+<imagen src="CS_06_14_CO_IMG17_small.jpg">
+<p>A lo largo de varios siglos, las <negrita>conquistas militares
+romanas</negrita> reunieron bajo una misma administración política
+todos los pueblos situados a orillas del <negrita>mar Mediterráneo</negrita
+>.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso220&amp;IdRecurso=RES-7DA29F7E299F480DBCAC38F7E046117B"
+>Conoce los hechos clave de la historia de Roma</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_3B702C62134646BC9F0B6817BCD9C33A">
+<seccion3Titulo>La crisis del Imperio</seccion3Titulo>
+<seccion3Texto>
+<p>El <negrita>bajo Imperio</negrita> (siglos III-V) fue una <negrita
+>época de decadencia</negrita> motivada por la presión de los <negrita
+>pueblos bárbaros</negrita> sobre las fronteras del Imperio, el <negrita
+>aumento del poder del ejército</negrita>, las <negrita>luchas</negrita
+> y <negrita>revueltas internas</negrita>, y la <negrita>crisis económica</negrita
+>.</p>
+<imagen src="CS_06_14_CO_img_18_small.jpg">
+<p>Con el fin de proteger mejor las fronteras romanas, el emperador
+Teodosio dividió el Imperio entre sus hijos en el año 395: <negrita
+>Honorio</negrita> recibió el <negrita>Imperio romano de Occidente</negrita
+> y <negrita>Flavio Arcadio</negrita>, el <negrita>Imperio romano
+de Oriente</negrita>.</p>
+</imagen>
+<p>A comienzos del siglo V, una serie de <negrita>pueblos germánicos</negrita
+> atravesaron las fronteras del Imperio y se establecieron en su parte
+occidental, donde fueron surgiendo distintos <negrita>reinos independientes</negrita
+>.</p>
+<p>Finalmente, en el año 476, <negrita>Rómulo Augústulo</negrita> subió
+al poder; fue el último emperador romano de Occidente. Este hecho
+marcó el paso de la Edad Antigua a la Edad Media<enlace
+destino="https://youtu.be/w6EhtSWECPk"> [VER]</enlace>.</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_14_CO_A98249B1D3784FE6B2FAFB406986B338">
+<seccion2Titulo>La sociedad en la antigua Roma</seccion2Titulo>
+<seccion2Texto>
+<p>Roma era una sociedad muy desigual. Existían grandes diferencias
+tanto a nivel de riqueza como de derechos políticos. La sociedad romana
+se dividía en dos grupos:</p>
+<listaSinNumerar>
+<listaElemento>Los <negrita>ciudadanos</negrita>: <negrita>patricios</negrita
+> (políticos, militares y comerciantes) y <negrita>plebeyos</negrita
+> (comerciantes, artesanos y campesinos). Tenían todos los derechos,
+no pagaban impuestos y estaban protegidos por las leyes.</listaElemento>
+<listaElemento>Los <negrita>no ciudadanos</negrita>: <negrita>extranjeros</negrita
+>, <negrita>libertos</negrita> (antiguos esclavos) y <negrita>esclavos</negrita
+>. Carecían de derechos políticos. </listaElemento>
+</listaSinNumerar>
+<p>Las <negrita>mujeres</negrita>, a pesar de sus orígenes o riqueza,
+no podían participar de la vida política. Se consideraba que su función
+fundamental era la de criar a los hijos y siempre dependían de un
+hombre.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso230&amp;IdRecurso=RES-4C8A4601AF614B07AB57098534C5551B"
+>La sociedad romana</enlace>
+</profundiza><seccion3
+id="S3_CS_06_14_CO_096B31DDAD1B4B369977314C1BB9AA17">
+<seccion3Titulo>Las instituciones romanas</seccion3Titulo>
+<seccion3Texto>
+<p>Las <negrita>principales instituciones</negrita> y <negrita>cargos</negrita
+> de la República romana eran:</p>
+<listaSinNumerar>
+<listaElemento>Los <negrita>comicios</negrita>: asambleas que reunían
+a todos los ciudadanos para intervenir en los asuntos políticos. Los <negrita
+>comicios centuriados</negrita> elegían a los magistrados superiores
+y decidían si se declaraba o no la guerra. </listaElemento>
+<listaElemento>Los <negrita>magistrados</negrita>: altos cargos del
+Estado escogidos por los comicios para desempeñar <negrita>funciones
+políticas</negrita>, <negrita>económicas</negrita> y <negrita>militares</negrita
+>.</listaElemento>
+<listaElemento>El <negrita>Senado</negrita>: <negrita>órgano rector</negrita
+> de la vida política y de la sociedad romanas. Tenía competencias
+en materia ejecutiva, legislativa y judicial. Sus miembros ocupaban
+el cargo de forma vitalicia. </listaElemento>
+</listaSinNumerar>
+<p>En la sociedad romana las mujeres no eran consideradas ciudadanas.
+Esto significaba que, a pesar de sus orígenes o riqueza, no podían
+participar en la vida política o ir a la guerra.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso240&amp;IdRecurso=RES-826136B6E24C40438CD769C713CE2B7F"
+>Conoce la sociedad romana</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_14_CO_711EE7D3513643B09B4560D955BB3374">
+<seccion2Titulo>La economía romana</seccion2Titulo>
+<seccion2Texto>
+<p>Las actividades económicas más importantes en la Roma antigua eran
+la agricultura, la minería y el comercio.</p>
+<seccion3 id="S3_CS_06_14_CO_096B31DDAD1B4B369977314C1BB9BB28">
+<seccion3Titulo>La agricultura y las explotaciones agrícolas</seccion3Titulo>
+<seccion3Texto>
+<p>La agricultura era la base de la economía romana. Los principales
+cultivos eran los <negrita>cereales</negrita>, la <negrita>vid</negrita
+> y el <negrita>olivo</negrita>. Las <negrita>frutas</negrita> y <negrita
+>hortalizas</negrita> también eran importantes y ocupaban un lugar
+destacado en la <negrita>dieta romana</negrita>.</p>
+<p>Además, los romanos introdujeron innovaciones técnicas como el <negrita
+>arado</negrita>, el <negrita>molino</negrita>, la <negrita>prensa
+de aceite</negrita> y <negrita>vino</negrita>, así como nuevos <negrita
+>sistemas de regadío</negrita>.</p>
+<imagen src="CS_06_14_CO_IMG19_small.jpg">
+<p>El <negrita>olivo</negrita>, la <negrita>vid</negrita> y los <negrita
+>cereales</negrita> constituían la base de la agricultura romana.</p>
+</imagen>
+<p>Junto a las pequeñas propiedades campesinas existían <negrita>grandes
+latifundios</negrita> trabajados por <negrita>esclavos</negrita>.
+La <negrita>villa</negrita> era el centro de estas explotaciones agrícolas.
+Estaba formada por la <negrita>vivienda del propietario</negrita> y
+por una <negrita>serie de dependencias</negrita> e <negrita>instalaciones
+de trabajo</negrita> (cuadras, talleres, almacenes, herrería, etc.).</p>
+<recuerda><recuerdaTexto>
+<p>El <negrita>sistema esclavista</negrita> era la base de la economía
+romana. Los esclavos constituían la mano de obra básica. Podían ser
+prisioneros de guerra o hijos de esclavos, y desempeñaban las tareas
+más duras en el campo y en las minas. Algunos de ellos eran obligados
+a divertir al pueblo en el circo como gladiadores.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_096B31DDAD1B4B369977314C1BB9CC39">
+<seccion3Titulo>El comercio</seccion3Titulo>
+<seccion3Texto>
+<p>Gracias al <negrita>periodo de paz</negrita> vivido durante los
+primeros siglos del Imperio, se produjo un importante desarrollo de
+las <negrita>relaciones comerciales</negrita> por todo el territorio
+romano. Este, a su vez, extendió el uso de la <negrita>moneda</negrita
+>.</p>
+<p>Asimismo, la extensa <negrita>red de calzadas</negrita> permitía
+comunicar Roma con sus provincias, mientras que el control romano
+del Mediterráneo hacía del <negrita>comercio marítimo</negrita> una
+actividad segura.</p>
+<recuerda><recuerdaTexto>
+<p>Los <negrita>productos agrícolas</negrita> eran vendidos en las
+ciudades cercanas, mientras que otros productos, como <negrita>metales</negrita
+>, <negrita>pieles</negrita>, <negrita>maderas</negrita>, <negrita
+>aceites</negrita>, <negrita>manufacturas</negrita>, etc., llegaban
+a viajar miles de kilómetros hasta los mercados de destino.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso250&amp;IdRecurso=RES-95A1F1B02443441694E867C150957552"
+>Identifica los principales rasgos de la dieta romana</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_14_CO_711EE7D3513643B09B4560D955BB0041">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso260&amp;IdRecurso=RES-838543B3120A47998F0CB3C9D78B0182"
+>Refuerza tu aprendizaje: Roma en la Antigüedad</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_14_CO_BA1AB87BC30448E1967E21DE1888E105">
+<seccion1Titulo>La cultura en la antigua Roma</seccion1Titulo>
+<seccion1Texto>
+<p>La cultura romana fue la sucesora de la griega. Sin embargo, no
+se contentó con la herencia de Grecia, sino que también incorporó
+elementos de las culturas orientales. La gran expansión del Imperio
+fue el vehículo para difundir su legado y así llegar hasta nosotros. </p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion2 id="S2_CS_06_14_CO_711EE7D3513643B09B4560D955BB2263">
+<seccion2Titulo>La religión en la antigua Roma</seccion2Titulo>
+<seccion2Texto>
+<p>La religión romana, que ocupaba un lugar importante en la sociedad,
+se definía por su <negrita>sincretismo</negrita> (mezcla de creencias
+o elementos de distintas religiones). La influencia de los pueblos
+con los que estuvo en contacto Roma fue muy importante, aunque los
+romanos no olvidaron sus antiguas creencias en las <negrita>fuerzas
+de la naturaleza</negrita> (<cursiva>numina</cursiva>). También adoraban
+a sus <negrita>antepasados</negrita> (<cursiva>manes</cursiva>) y
+a los <negrita>espíritus domésticos</negrita> (<cursiva>lares</cursiva
+>).</p>
+<seccion3 id="S3_CS_06_14_CO_096B31DDAD1B4B369977314C1BB9FF96">
+<seccion3Titulo>La mitología romana</seccion3Titulo>
+<seccion3Texto>
+<p>En la Roma antigua se practicaba una <negrita>religión politeísta</negrita
+>, es decir, se creía en distintos dioses. La <negrita>influencia
+griega</negrita> fue muy importante y los romanos adoptaron muchas
+de sus divinidades, pero con nombres distintos: <negrita>Júpiter</negrita
+> (Zeus), <negrita>Marte</negrita> (Ares), <negrita>Venus</negrita
+> (Afrodita), <negrita>Neptuno</negrita> (Poseidón), etc.</p>
+<recuerda><recuerdaTexto>
+<p>Los emperadores romanos fueron divinizados y se les rendía culto
+en los templos dedicados a ellos, del mismo modo que al resto de dioses.
+El <negrita>culto al emperador</negrita> buscaba asegurar el <negrita
+>respeto</negrita> de las poblaciones del Imperio donde el soberano
+no tenía presencia física. </p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso270&amp;IdRecurso=RES-A3A0C6FC166447F58D586C066EBC3DBD"
+>La mitología en Roma</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso280&amp;IdRecurso=RES-C2070B43A4774AD68772B0F50347C874"
+>Reconoce el papel de la religión romana</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_3B702C62134646BC9F0B6817BCD9B22D">
+<seccion3Titulo>El cristianismo</seccion3Titulo>
+<seccion3Texto>
+<p><negrita>Jesús de Nazaret</negrita> vivió durante el siglo I en
+Palestina, un territorio ocupado por aquel entonces por el Imperio
+romano. En sus prédicas defendía una <negrita>religión monoteísta</negrita
+> basada en el <negrita>amor a Dios</negrita> y <negrita>al prójimo</negrita
+>. Además, proclamaba la igualdad de todas las personas ante Dios
+y prometía la <negrita>vida eterna</negrita> a sus seguidores.</p>
+<p>A pesar de la <negrita>persecución</negrita> a la que se vio expuesto,
+el cristianismo continuó expandiéndose. En el siglo IV la situación
+de los cristianos cambió: <negrita>Constantino I</negrita> reconoció
+la <negrita>libertad religiosa</negrita> (313) y <negrita>Teodosio
+I</negrita> hizo del cristianismo la <negrita>religión oficial</negrita
+> y <negrita>única</negrita> del Imperio.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso290&amp;IdRecurso=RES-B4E2F433ED00469E942A314556FED9FF"
+>Los primeros siglos del cristianismo</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso300&amp;IdRecurso=RES-2D8019BDBFBA4154A14B3B9BC98CEA3E"
+>Interpreta la evolución del cristianismo</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_14_CO_86BA60A7749D4D60A9833649AC635E20">
+<seccion2Titulo>El arte en la antigua Roma</seccion2Titulo>
+<seccion2Texto>
+<p>Los romanos recogieron el legado cultural griego y supieron adaptarlo
+a sus necesidades en todos los campos: la cultura, la ciencia, la
+técnica y el arte.</p>
+<seccion3 id="S3_CS_06_14_CO_3B702C62134646BC9F0B6817BCD9A77A">
+<seccion3Titulo>La ciencia y la cultura</seccion3Titulo>
+<seccion3Texto>
+<p>La cultura romana se transmitió gracias al proceso de <negrita
+>romanización</negrita> que <negrita>difundió</negrita> la lengua,
+las leyes, las costumbres y la cultura romanas en los territorios
+conquistados.</p>
+<p>Los romanos se caracterizaron por su sentido práctico.</p>
+<listaSinNumerar>
+<listaElemento>Fueron excelentes ingenieros y eso les permitió construir
+obras como los acueductos o puentes de gran tamaño. </listaElemento>
+<listaElemento>En el campo del derecho, llegaron a legislar sobre
+muchos aspectos y algunos de los principios jurídicos que establecieron
+todavía se usan hoy en día.</listaElemento>
+</listaSinNumerar>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_14_CO_3B702C62134646BC9F0B6817BCD9D55B">
+<seccion3Titulo>El arte romano</seccion3Titulo>
+<seccion3Texto>
+<p>El arte romano se difundió desde Roma por la Península Itálica,
+el Mediterráneo y el resto de territorios del Imperio. Estuvo muy
+influido por el <negrita>arte etrusco</negrita> y <negrita>griego</negrita
+>. </p>
+<listaSinNumerar>
+<listaElemento>En la arquitectura, los romanos construyeron numerosas
+obras y edificios de gran tamaño: <negrita>calzadas</negrita>, <negrita
+>acueductos</negrita>, <negrita>puentes</negrita>, <negrita>anfiteatros</negrita
+>, <negrita>teatros</negrita>, <negrita>circos</negrita>, <negrita
+>arcos de triunfo</negrita>, <negrita>termas</negrita>, <negrita>basílicas</negrita
+> y <negrita>templos</negrita>.</listaElemento>
+<listaElemento>La escultura romana se definía por su <negrita>realismo</negrita
+>. Las principales creaciones escultóricas fueron los <negrita>retratos</negrita
+>, los <negrita>relieves</negrita> y los <negrita>sarcófagos</negrita
+>.</listaElemento>
+<listaElemento>La pintura de murales y los mosaicos romanos decoraban
+palacios y casas particulares, por lo que se utilizaban colores vivos
+para representar escenas realistas.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_14_CO_IMG20_small.jpg">
+<p>La monumentalidad de la <negrita>arquitectura romana</negrita> se
+puede apreciar en las grandes construcciones que encontramos diseminadas
+por todo el Imperio, como sucede con el <negrita>teatro de Mérida</negrita
+>.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>En la actualidad conocemos cómo era la <negrita>escultura griega</negrita
+> por las <negrita>copias romanas</negrita>, pues las originales se
+perdieron o se destruyeron, como sucede con el <cursiva>Doríforo</cursiva
+> de Policleto y el <cursiva>Discóbolo</cursiva> de Mirón.</p>
+</recuerdaTexto></recuerda>
+<imagen src="CS_06_14_CO_IMG21_small.jpg">
+<p>Muy influido por el arte etrusco y griego, el <negrita>arte romano</negrita
+> conserva, al lado de grandes obras arquitectónicas, una gran profusión
+de <negrita>mosaicos</negrita>, <negrita>frescos</negrita> y <negrita
+>esculturas</negrita>. Fresco procedente de la Villa de los Misterios,
+en Pompeya (Italia).</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso310&amp;IdRecurso=RES-A6CAA326B0A64954A5EF2E2F7393D911"
+>El arte romano</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso320&amp;IdRecurso=RES-E69153A1C9D54EC0B98A655ADB4D0D61"
+>Reconoce las principales muestras de arte romano</enlace>
+</practica>
+<table border="1"><caption>La civilización romana</caption><colgroup>
+<col width="29*"/><col width="69*"/></colgroup>
+<tbody>
+<tr>
+<td>CRONOLOGÍA</td>
+<td>HECHOS DESTACADOS</td>
+</tr>
+<tr>
+<td>753 a. C.</td>
+<td><negrita>Fundación de Roma</negrita> (<cursiva>Ab urbe condita</cursiva
+>). </td>
+</tr>
+<tr>
+<td>753-509 a. C. </td>
+<td><negrita>Monarquía</negrita> romana.</td>
+</tr>
+<tr>
+<td>509-27 a. C. </td>
+<td><negrita>República</negrita> romana.</td>
+</tr>
+<tr>
+<td>509-287 a. C.</td>
+<td><negrita>Revuelta plebeya</negrita>.</td>
+</tr>
+<tr>
+<td>Siglo V a. C. </td>
+<td>La <negrita>Ley de las Doce Tablas</negrita> equipara en derechos
+a patricios y plebeyos.</td>
+</tr>
+<tr>
+<td>264-146 a. C.</td>
+<td><negrita>Guerras púnicas</negrita>: conflicto entre Roma y Cartago.</td>
+</tr>
+<tr>
+<td>Siglo II a. C. </td>
+<td>Los <negrita>hermanos Graco</negrita> intentaron llevar a cabo
+reformas agrarias para repartir las tierras entre los más pobres.</td>
+</tr>
+<tr>
+<td>Siglo I </td>
+<td>Nacimiento del <negrita>cristianismo</negrita>.</td>
+</tr>
+<tr>
+<td>48 a. C. </td>
+<td><negrita>Julio César</negrita> se proclama <negrita>dictador</negrita
+> y asume todo el poder.</td>
+</tr>
+<tr>
+<td>27 a. C. </td>
+<td><negrita>Cayo Julio César Octavio Augusto</negrita> se proclama <negrita
+>emperador</negrita>.</td>
+</tr>
+<tr>
+<td>27 a. C.-476 </td>
+<td><negrita>Imperio romano</negrita>.</td>
+</tr>
+<tr>
+<td>313 </td>
+<td>El <negrita>edicto de Milán</negrita> de <negrita>Constantino
+I</negrita> autoriza el cristianismo.</td>
+</tr>
+<tr>
+<td>380 </td>
+<td><negrita>Teodosio I el Grande</negrita> convierte el cristianismo
+en la <negrita>religión oficial</negrita>.</td>
+</tr>
+<tr>
+<td>395 </td>
+<td><negrita>División del Imperio</negrita>.</td>
+</tr>
+<tr>
+<td>476</td>
+<td><negrita>Fin del Imperio romano de Occidente</negrita>.</td>
+</tr>
+</tbody>
+</table>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_14_CO_847B4480221841BCB97C827DBECE0B41">
+<seccion2Titulo>La Ciudad romana en la Antigüedad</seccion2Titulo>
+<seccion2Texto>
+<p>El mundo urbano tenía una gran importancia en la Roma antigua.
+Las ciudades eran c<negrita>entros políticos</negrita>, <negrita>administrativos</negrita
+> y <negrita>económicos</negrita> donde se desarrollaban actividades
+artesanales y comerciales, religiosas, culturales y lúdicas<enlace
+destino="http://aliso.pntic.mec.es/agalle17/cultura_clasica/fundacion/fundacion.html"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_14_CO_IMG22_small.jpg">
+<p>El <negrita>anfiteatro de Flavio</negrita> en Roma, más conocido
+como <negrita>Coliseo</negrita>, fue inaugurado por <negrita>Tito</negrita
+> en el año 80. Tenía capacidad para albergar <negrita>100 000 espectadores</negrita
+>, los cuales acudían a ver espectáculos como las <negrita>luchas
+de gladiadores</negrita>.</p>
+</imagen>
+<p>Los romanos difundieron su modelo urbano por todo el Imperio y
+en su territorio se alzaron nuevas ciudades rodeadas de <negrita>murallas</negrita
+> siguiendo el modelo de la capital. Su trazado presentaba un <negrita
+>plano ortogonal</negrita>, es decir, en forma de cuadrícula.</p>
+<p>Entre los principales edificios de las ciudades romanas se cuentan
+los <negrita>templos</negrita> y la <negrita>basílica</negrita>, situados
+en el foro (centro político, religioso y comercial de la ciudad).
+Junto con estos, también destacan instalaciones dedicadas al ocio
+y el cuidado personal, como el <negrita>teatro</negrita>, el <negrita
+>anfiteatro</negrita>, el <negrita>circo</negrita>, las <negrita>termas</negrita
+>, etc.</p>
+<p>Las ciudades romanas también contaban con avanzados <negrita>sistemas
+de canalización</negrita> (acueductos, presas, depósitos, etc.) y
+de <negrita>alcantarillado</negrita>.</p>
+<imagen src="CS_06_14_CO_IMG23_small.jpg">
+<p>Las <negrita>ínsulas</negrita> o <negritacursiva>insulae</negritacursiva
+> eran casas de vecinos de la pequeña burguesía urbana romana, mientras
+que la <negrita>casa</negrita> o <negritacursiva>domus</negritacursiva
+> era la vivienda individual en la que residían las familias acomodadas.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso330&amp;IdRecurso=RES-3CE74096D65B44928F6DDEFF8227674D"
+>La ciudad romana</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2>
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso340&amp;IdRecurso=RES-66977CB61166427FB5C1CD15319B5876"
+>Refuerza tu aprendizaje: La cultura en la Antigua Roma</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_14_CO_2699FD80BDFE4843945E4A7A74BA5C1E">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso350&amp;IdRecurso=RES-7FBF698ACCFF41E39272604746F0BAA7"
+>Competencias: comentario de una obra de arte de la Roma antigua</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso360&amp;IdRecurso=RES-B36C3B03C2D547B79DB84377741FEF89"
+>Proyecto: análisis del legado romano</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_06_14_CO_2F9BC9E4420E4AFDA04E632383D48826"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso380&amp;IdRecurso=RES-E675D0D04F304B2697F093B9F41507A5"
+>Mapa conceptual del tema Civilizaciones de la Antigüedad: Grecia
+y Roma</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_14_CO_Recurso390&amp;IdRecurso=RES-0669C7CF7601497BAEC8754DBF829917"
+>Evalúa tus conocimientos sobre el tema Civilizaciones de la Antigüedad:
+Grecia y Roma</enlace></autoevaluate><enlacesreferencia>
+<enlace
+destino="http://recursos.cnice.mec.es/latingriego/Palladium/griego/esg141ca1.php"
+>Un gran resumen sobre Grecia y su legado</enlace>
+<enlace
+destino="http://recursostic.educacion.es/kairos/web/ensenanzas/eso/antigua/roma_01_01.html"
+>Sobre la civilización romana</enlace>
+<enlace destino="http://historia-roma.com/">Una historia sencilla
+de la antigua Roma</enlace>
+</enlacesreferencia></masinformacion></libro>
