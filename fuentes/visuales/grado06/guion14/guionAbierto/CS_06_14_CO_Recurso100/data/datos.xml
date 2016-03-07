@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Identifica los rasgos del periodo helenístico</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[cs_07_09_08]]></referencia>
+    <id_reg><![CDATA[10]]></id_reg>
+    <motor><![CDATA[M5b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Después de ver el video, escoge la respuesta correcta para cada pregunta.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[¿En qué año llegó al poder Alejandro Magno?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000421_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="348 a.C." correcta="0"/>
+        <respuesta contestacion="336 a.C." correcta="1"/>
+        <respuesta contestacion="336" correcta="0"/>
+        <respuesta contestacion="359 a.C." correcta="0"/>
+        <respuesta contestacion="280 a.C." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Hasta dónde llegó el Imperio helenístico?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000421_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Hispania." correcta="0"/>
+        <respuesta contestacion="Babilonia." correcta="0"/>
+        <respuesta contestacion="Desembocadura del Indo." correcta="1"/>
+        <respuesta contestacion="Egipto." correcta="0"/>
+        <respuesta contestacion="Creta." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿A qué poderoso imperio se enfrentó Alejandro Magno?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000421_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Imperio sirio." correcta="0"/>
+        <respuesta contestacion="Imperio romano." correcta="0"/>
+        <respuesta contestacion="Imperio persa." correcta="1"/>
+        <respuesta contestacion="Imperio helenístico." correcta="0"/>
+        <respuesta contestacion="Imperio fenicio." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Contra qué lugar preparaba Alejandro Magno una campaña militar antes de morir?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000421_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Egipto." correcta="0"/>
+        <respuesta contestacion="Mesopotamia." correcta="0"/>
+        <respuesta contestacion="Arabia." correcta="1"/>
+        <respuesta contestacion="La India." correcta="0"/>
+        <respuesta contestacion="No estaba preparando ninguna campaña." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué pasó con el imperio a la muerte de Alejandro Magno?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[DI000421_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Su primer hijo lo mantuvo unido." correcta="0"/>
+        <respuesta contestacion="Se dividió entre sus hijos." correcta="0"/>
+        <respuesta contestacion="Se dividió entre algunos de sus generales." correcta="1"/>
+        <respuesta contestacion="Los persas recuperaron el territorio." correcta="0"/>
+        <respuesta contestacion="Se fusionó con el Imperio romano." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce la mitología de la antigua Grecia</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[3]]></nivel>
+    <referencia><![CDATA[cs_07_09_10]]></referencia>
+    <id_reg><![CDATA[12]]></id_reg>
+    <motor><![CDATA[M5b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Después de ver el video escoge una respuesta para cada una de las preguntas sobre la cultura y la religión griega.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[¿Qué función tenía la mitología?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI002072_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Relatar fielmente la historia de los griegos." correcta="0"/>
+        <respuesta contestacion="Buscar las causas del origen del universo y de la vida humana." correcta="1"/>
+        <respuesta contestacion="Influir en el comercio." correcta="0"/>
+        <respuesta contestacion="Cantar canciones populares." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién fue el conocido autor que recuperó la tradición oral mitológica?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI002072_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Pericles" correcta="0"/>
+        <respuesta contestacion="Tucídides" correcta="0"/>
+        <respuesta contestacion="Homero" correcta="1"/>
+        <respuesta contestacion="Efialtes" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién era el esposo de Gea?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI002072_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Cronos" correcta="0"/>
+        <respuesta contestacion="Amor" correcta="0"/>
+        <respuesta contestacion="Urano" correcta="1"/>
+        <respuesta contestacion="Caos" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué dios mató a Cronos y se convirtió en padre de todos los dioses?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI002072_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Hades" correcta="0"/>
+        <respuesta contestacion="Hermes" correcta="0"/>
+        <respuesta contestacion="Apolo" correcta="0"/>
+        <respuesta contestacion="Zeus" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quiénes fueron los dramaturgos con más prestigio de la Grecia clásica?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VI002072_CO_LO.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Sófocles, Eurípides y Esquilo." correcta="1"/>
+        <respuesta contestacion="Sócrates, Platón y Aristóteles." correcta="0"/>
+        <respuesta contestacion="Pericles, Clístenes y Solón." correcta="0"/>
+        <respuesta contestacion="Sófocles, Sócrates y Solón." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>
