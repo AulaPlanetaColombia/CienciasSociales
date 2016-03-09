@@ -1,0 +1,280 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f1">
+<css><![CDATA[.defaultCSSBox2 {
+	background: #000000;
+}
+.defaultCSSBox3 {
+	background: #ffffff;
+}]]></css>
+<pantallas>
+<pantalla id="pantalla_5">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compSlider' id='diaporama_12' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' transMode='1' />
+<component _type='_compSliderNav' id='slidernav_11' x='45' y='526' width='162' height='37' alpha='1' visible='1' enabled='1' sliderId='diaporama_12' showHome='1' whiteButtons='1' mode='1' />
+</components>
+<animaciones>
+</animaciones>
+<slider id="diaporama_12">
+<pantalla id="pantalla_14">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_19' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='6' y='194' width='938' height='219' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:60px"><span style="font-family:georgia,serif">Los recursos naturales<br />
+no renovables</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_19">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_19' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='19' y='148' width='911' height='335' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Recursos minerales</span></span></span></p>
+
+<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Combustibles f&oacute;siles</span></span></span></p>
+
+<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Energ&iacute;a no renovable</span></span></span></p>
+
+<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Finitos</span></span></span></p>
+
+<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Reservas</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compCSSBox' id='fondo_20' x='262' y='153' width='425' height='292' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"texto_26":[],"texto_26.x":[{"time":0,"value":19,"easing":"Linear.EaseNone"}],"texto_26.y":[{"time":0,"value":148,"easing":"Linear.EaseNone"}],"texto_26.width":[{"time":0,"value":911,"easing":"Linear.EaseNone"}],"texto_26.height":[{"time":0,"value":335,"easing":"Linear.EaseNone"}],"texto_26.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}],"fondo_20":[],"fondo_20.x":[{"time":0,"value":262,"easing":"Linear.EaseNone"}],"fondo_20.y":[{"time":0,"value":153,"easing":"Linear.EaseNone"},{"time":2.305,"value":500,"easing":"Linear.EaseNone"}],"fondo_20.width":[{"time":0,"value":425,"easing":"Linear.EaseNone"}],"fondo_20.height":[{"time":0,"value":292,"easing":"Linear.EaseNone"}],"fondo_20.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_21">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_25' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_32.jpg' />
+<component _type='_compRichText' id='texto_26' x='103' y='39' width='391' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Petr&oacute;leo</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_26">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_25' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_37.jpg' />
+<component _type='_compRichText' id='texto_26' x='98' y='40' width='391' height='96' alpha='1' visible='1' enabled='1' scrollable='0' >
+<content><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Petr&oacute;leo</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='75' y='420' width='345' height='91' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:26px"><span style="font-family:verdana,geneva,sans-serif">&middot; Petroleros y oleoductos</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_30">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_25' x='0' y='-1' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_08_09_REC120_IMG01.jpg' />
+<component _type='_compRichText' id='texto_26' x='96' y='40' width='391' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Petr&oacute;leo</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='75' y='414' width='348' height='114' alpha='1' visible='1' enabled='1' scrollable='0' >
+<content><![CDATA[<p><span style="font-size:26px"><span style="font-family:verdana,geneva,sans-serif">&middot; Petroleros y oleoductos<br />
+&middot; Refiner&iacute;as</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_34">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_25' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_51.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='391' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Petr&oacute;leo</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='70' y='402' width='344' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:26px"><span style="font-family:verdana,geneva,sans-serif">&middot; Petroleros y oleoductos<br />
+&middot; Refiner&iacute;as<br />
+&middot; Industria petroqu&iacute;mica </span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_38">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_25' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_08_09_REC120_IMG02.jpg' />
+<component _type='_compRichText' id='texto_26' x='111' y='40' width='391' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Petr&oacute;leo</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='76' y='401' width='344' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:26px"><span style="font-family:verdana,geneva,sans-serif">&middot; Petroleros y oleoductos<br />
+&middot; Refiner&iacute;as<br />
+&middot; Industria petroqu&iacute;mica </span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_42">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_25' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_65.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='577' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Extracción de petróleo</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_46">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_25' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_69.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='265' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Gas</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_50">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_25' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_75.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='265' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Gas</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='636' y='56' width='332' height='247' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-size:26px"><span style="font-family:verdana,geneva,sans-serif">&middot; Gaseoductos<br />
+&middot; Materia prima<br />
+&middot; Recurso energ&eacute;tico</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_54">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_25' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_81.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='265' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Gas</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='637' y='56' width='332' height='247' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-size:26px"><span style="font-family:verdana,geneva,sans-serif">
+· Gaseoductos<br />
+· Materia prima<br />
+· Recurso energético<br />
+· Uso industrial<br />
+· Uso doméstico
+</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_58">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_25' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_85.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='391' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Carbón</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_62">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_25' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_90.jpg' />
+<component _type='_compCSSBox' id='fondo_20' x='117' y='369' width='230' height='46' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='391' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Carbón</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='125' y='357' width='233' height='66' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-size:26px"><span style="font-family:verdana,geneva,sans-serif">&middot; Materia prima</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_66">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_25' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_96.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='391' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Carb&oacute;n</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='125' y='357' width='344' height='112' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-size:26px"><span style="font-family:verdana,geneva,sans-serif">
+· Materia prima<br />
+· Recurso energético
+</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_70">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_19' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='19' y='202' width='911' height='217' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:60px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Qu&eacute; suceder&aacute;<br />
+cuando se agoten?</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</slider>
+</pantalla>
+</pantallas>
+<popups>
+</popups>
+</engine>

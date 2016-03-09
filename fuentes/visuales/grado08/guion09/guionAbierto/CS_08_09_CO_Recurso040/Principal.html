@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Los riesgos naturales</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+
+        <script src="extlib/createjs/2013_12_12/createjs-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/movieclip-0-7-1-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/zoom.js"></script>
+        <script src="js/principal.js"></script>
+
+          <script>
+            var canvas, stage, exportRoot, incremento,popupon;
+            window.onresize = function ()
+            {
+                onResize();
+            }
+                       
+            
+
+            function init() {
+
+                canvas = document.getElementById("canvas");
+                images = images || {};
+                if (navigator.userAgent.toLowerCase().indexOf("firefox") == -1)
+                    incremento = 0;
+                else
+                    incremento = 4;
+                var manifest = [
+                      {src:"images/_0008G601_OPT.jpg", id:"_0008G601_OPT"},
+		{src:"images/_000HQX01_OPT.jpg", id:"_000HQX01_OPT"},
+		{src:"images/_000MM801_OPT.jpg", id:"_000MM801_OPT"},
+		{src:"images/_0018OD01_OPT.jpg", id:"_0018OD01_OPT"},
+		{src:"images/_0018ON01_OPT.jpg", id:"_0018ON01_OPT"},
+		{src:"images/_0018OO01_OPT.jpg", id:"_0018OO01_OPT"},
+		{src:"images/_001GEN01_OPT.jpg", id:"_001GEN01_OPT"},
+		{src:"images/_001JI401_OPT.jpg", id:"_001JI401_OPT"},
+		{src:"images/_001KV801_OPT.jpg", id:"_001KV801_OPT"},
+		{src:"images/_001KVA01_OPT.jpg", id:"_001KVA01_OPT"},
+		{src:"images/_002ABK01_OPT.jpg", id:"_002ABK01_OPT"},
+		{src:"images/_002DRZ01_OPT.jpg", id:"_002DRZ01_OPT"},
+		{src:"images/_100633919_OPT.jpg", id:"_100633919_OPT"},
+		{src:"images/_100924415_OPT.jpg", id:"_100924415_OPT"},
+		{src:"images/_104784490_High.jpg", id:"_104784490_High"},
+		{src:"images/_104784490_OPT.jpg", id:"_104784490_OPT"},
+		{src:"images/_106397756_OPT.jpg", id:"_106397756_OPT"},
+		{src:"images/_90835337_OPT.jpg", id:"_90835337_OPT"},
+		{src:"images/_91056951_OPT.jpg", id:"_91056951_OPT"},
+		{src:"images/_92503681_High.jpg", id:"_92503681_High"},
+		{src:"images/_92503681_OPT.jpg", id:"_92503681_OPT"},
+		{src:"images/_92825999_OPT.jpg", id:"_92825999_OPT"},
+		{src:"images/_92889531_OPT.jpg", id:"_92889531_OPT"},
+		{src:"images/_93282463_OPT.jpg", id:"_93282463_OPT"},
+		{src:"images/_97849862_OPT.jpg", id:"_97849862_OPT"},
+		{src:"images/caballo_OPT.jpg", id:"caballo_OPT"},
+		{src:"images/dv118085_High.jpg", id:"dv118085_High"},
+		{src:"images/dv118085_OPT.jpg", id:"dv118085_OPT"},
+		{src:"images/escala.jpg", id:"escala"},
+		{src:"images/escala_High.jpg", id:"escala_High"},
+		{src:"images/huracan_High.jpg", id:"huracan_High"},
+		{src:"images/huracan_OPT.jpg", id:"huracan_OPT"},
+		{src:"images/inundacion_OPT.jpg", id:"inundacion_OPT"},
+		{src:"images/Maleta_Opt.png", id:"Maleta_Opt"},
+		,
+		{src:"images/terremotos.jpg", id:"terremotos"},
+		{src:"images/terremotos_Final.jpg", id:"terremotos_Final"},
+		{src:"images/terremotos_High.jpg", id:"terremotos_High"},
+		{src:"images/terremotos_ok.jpg", id:"terremotos_ok"},
+		{src:"images/tifon_OPT.jpg", id:"tifon_OPT"},
+		{src:"images/tsunami_High.jpg", id:"tsunami_High"},
+		{src:"images/tsunami_OPT.jpg", id:"tsunami_OPT"},
+		{src:"images/tsunami2_High.jpg", id:"tsunami2_High"},
+		{src:"images/tsunami2_OPT.jpg", id:"tsunami2_OPT"},
+		{src:"images/volcan_High.jpg", id:"volcan_High"},
+		{src:"images/volcan_High2.jpg", id:"volcan_High2"},
+		{src:"images/volcan_OPT.jpg", id:"volcan_OPT"},
+		{src:"images/zorro_OPT.jpg", id:"zorro_OPT"}
+                ];
+
+                var loader = new createjs.LoadQueue(false);
+                loader.addEventListener("fileload", handleFileLoad);
+                loader.addEventListener("complete", handleComplete);
+                loader.loadManifest(manifest);
+                loadXML();
+            }
+
+            function handleFileLoad(evt) {
+                if (evt.item.type == "image") {
+                    images[evt.item.id] = evt.result;
+                }
+            }
+            function putStage(myStage) {
+
+                if (exportRoot) {
+                    exportRoot.removeAllChildren();
+                }
+                exportRoot = myStage;
+                stage = new createjs.Stage(canvas);
+                stage.clear();
+                createjs.Ticker.removeAllEventListeners();
+                stage.autoClear = true; // This must be true to clear the stage.
+                stage.removeAllChildren();
+
+                stage.addChild(exportRoot);
+                stage.update();
+                stage.enableMouseOver();
+                onResize();
+                createjs.Ticker.setFPS(24);
+                createjs.Ticker.addEventListener("tick", stage);
+            }
+            function handleComplete() {
+                var child = document.getElementById("loading");
+                if (child != null)
+                    child.parentNode.removeChild(child);
+                putStage(new lib.frame1())
+
+            }
+            function loadXML() {
+                xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("GET", "data/datos.xml", false);
+                xmlhttp.send();
+                xmlDoc = xmlhttp.responseXML;
+                x = xmlDoc.getElementsByTagName("XMLDatos")[0].childNodes;
+                y = xmlDoc.getElementsByTagName("XMLDatos")[0].firstChild;
+                for (i = 0; i < x.length; i++)
+                {
+                    if (y.nodeType == 1)
+                    {//Process only element nodes (type 1)
+                        j = xmlDoc.getElementsByTagName(y.nodeName)[0].childNodes[0]
+                        textos[y.nodeName] = j.nodeValue;
+                    }
+                    y = y.nextSibling;
+                }
+            }
+        </script>
+    </head>
+
+    <body onload="init();" onorientationchange="onResize();" style="background-color:#FFFFFF" ><div id="loading" align="center" style="position: absolute;top:50%;left:50%;width:400px;margin-left:-200px;height:300px;margin-top:-150px;" ><img src="images/status.gif"/></div>
+        <canvas id="canvas" width="950" height="608" style="background-color:transparent"></canvas>
+    </body>
+</html>

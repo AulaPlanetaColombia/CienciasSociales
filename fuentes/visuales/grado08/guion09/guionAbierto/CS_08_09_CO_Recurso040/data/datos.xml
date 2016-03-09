@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMLDatos aprid="F">
+  <titulo>Los riesgos naturales</titulo>
+  <btngeol><![CDATA[Riesgos geológicos]]></btngeol>
+  <btnclimat><![CDATA[Riesgos climáticos]]></btnclimat>
+  <btngeocli><![CDATA[Riesgos geoclimáticos]]></btngeocli>
+  <titgeol><![CDATA[Riesgos geológicos]]></titgeol>
+  <btnterre><![CDATA[Terremotos]]></btnterre>
+  <btntsu><![CDATA[Tsunamis]]></btntsu>
+  <btnvolca><![CDATA[Volcanes]]></btnvolca>
+  <titerre><![CDATA[Terremotos]]></titerre>
+  <titmap><![CDATA[Zonas de actividad sísmica]]></titmap>
+  <titescala><![CDATA[Escalas sísmicas]]></titescala>
+  <titgrandest><![CDATA[Grandes terremotos]]></titgrandest>
+  <lista_grandest><![CDATA[<ul><li>Ecuador,<b class="naranja"> 8,8</b> (1906).</li><li>Kamchatka, URSS <b class="naranja"> 9</b> (1952).</li><li>Chile, <b class="naranja"> 9,5</b> (1960).</li><li>Alaska, EEUU, <b class="naranja"> 9,2</b> (1964).</li><li>Indonesia, <b class="naranja"> 9</b> (2004).</li><li> Indonesia, <b class="naranja"> 8,7</b> (2005).</li><li> Chile, <b class="naranja"> 8,8</b> (2010).</li><li>Japón, <b class="naranja"> 9</b> (2011). </li><li>Nepal, <b class="naranja"> 7,9</b> (2005).</li></ul>]]></lista_grandest>
+  <titsun><![CDATA[Tsunamis]]></titsun>
+  <textsun_1><![CDATA[<ul><li>Tsu: puerto o bahía.</li><li>Nami: ola.</li></ul>]]></textsun_1>
+  <textsun_2><![CDATA[<ul><li>Terremotos > 6,5 escala de Richter.</li><li>Olas de hasta 700 km/h.</li><li>Olas de hasta 20 m de altura.</li></ul>]]></textsun_2>
+  <textsun_3><![CDATA[¿Qué hacer?<ul><li>Alejarse de la costa.</li><li>Situarse en una zona elevada.</li></ul>]]></textsun_3>
+  <titgrantsun><![CDATA[Grandes tsunamis]]></titgrantsun>
+  <listgrantsun><![CDATA[<ul class="estre"><li>Krakatoa, Indonesia (1883).</li>
+<li>Grand Banks, Canadá (1929). </li><li>Islas Aleutianas, Alaska, EEUU (1946).</li>
+<li> Kamchatka, URSS (1952). </li>
+<li> Chile (1960).</li><li>Prince William Sound, Alaska, EEUU (1964).</li>
+<li>Hawai, EEUU (1975).</li><li>Papúa Nueva Guinea (1998).</li><li> Sudeste asiático (2004).</li>
+<li>Japón (2011).</li></ul>]]></listgrantsun>
+  <titvolc><![CDATA[Volcanes]]></titvolc>
+  <textvol><![CDATA[<ul><li>Modifican el paisaje.</li></ul>]]></textvol>
+  <textvol2><![CDATA[<ul><li>Modifican el paisaje.</li><li>Riesgo para las poblaciones cercanas.</li></ul>]]></textvol2>
+  <titerupc><![CDATA[Erupciones históricas]]></titerupc>
+  <listvol><![CDATA[<ul class="estre"><li>Krakatoa, Indonesia (1883).</li><li>Santa María, Guatemala (1902).</li><li>Montagne Pelée, Martinica (1902). </li><li> Gunung Kelud, Indonesia (1911).</li><li> Mount Lamington, Papúa y Nueva Guinea (1951) .</li><li>Santa Helena, EEUU (1980). </li><li>El Chichonal, México (1982).</li><li>Galungung, Indonesia (1982-83). </li><li>Nevado del Ruiz, Colombia (1985). </li><li> Lago Nyos, Camerún (1986).</li></ul>]]></listvol>
+  <titclimat><![CDATA[Riesgos climáticos]]></titclimat>
+  <btnhur><![CDATA[Huracanes, tifones
+y ciclones]]></btnhur>
+  <btnsequia><![CDATA[Sequías]]></btnsequia>
+  <tithura><![CDATA[Huracanes, tifones y ciclones]]></tithura>
+  <tithuracanes><![CDATA[Huracanes]]></tithuracanes>
+  <texthura><![CDATA[<ul><li>América Central.</li></ul>]]></texthura>
+  <tithuradest><![CDATA[Huracanes más destructivos.]]></tithuradest>
+  <listahuradest><![CDATA[<ul><li>Hugo (1989).</li><li>Andrew (1992).</li><li>Mitch (1998). </li><li>Wilma (2005). </li><li>Katrina (2005).</li></ul>]]></listahuradest>
+  <titifones><![CDATA[Tifones]]></titifones>
+  <textifones><![CDATA[<ul><li>Pacífico occidental y mar de la China.</li></ul>]]></textifones>
+  <titciclones><![CDATA[Ciclones]]></titciclones>
+  <texciclones><![CDATA[<ul><li>Índico y sur del Pacífico.</li></ul>]]></texciclones>
+  <titseq><![CDATA[Sequías]]></titseq>
+  <texseq><![CDATA[<ul><li>Escasez de lluvias.</li></ul>]]></texseq>
+  <texseq2><![CDATA[<ul><li>Escasez de lluvias.</li><li>Aridez del terreno.</li></ul>]]></texseq2>
+  <texseq3><![CDATA[<ul><li>Escasez de lluvias.</li><li>Aridez del terreno.</li><li>Desertización.</li></ul>]]></texseq3>
+  <titgeoclimat><![CDATA[Riesgos geoclimáticos]]></titgeoclimat>
+  <btninun><![CDATA[Inundaciones]]></btninun>
+  <btnincen><![CDATA[Incendios]]></btnincen>
+  <titinun><![CDATA[Inundaciones]]></titinun>
+  <texinun><![CDATA[<ul><li> Lluvias intensas en poco tiempo.</li><li>Habituales en algunos climas.</li></ul>]]></texinun>
+  <titcamb><![CDATA[Inundaciones y cambio climático]]></titcamb>
+  <texcamb><![CDATA[<ul><li> Reino Unido (2000, 2007).</li><li>Europa central (2002, 2006, 2010).</li></ul>]]></texcamb>
+  <titincen><![CDATA[Incendios]]></titincen>
+  <texincen><![CDATA[<ul><li>Rayos y altas temperaturas.</li></ul>]]></texincen>
+  <texincen2><![CDATA[<ul><li>Rayos y altas temperaturas.</li><li>Acción humana: provocados o involuntarios.</li></ul>]]></texincen2>
+  <texincen3><![CDATA[<ul><li>Rayos y altas temperaturas.</li><li>Acción humana: provocados o involuntarios.</li><li>Desencadenan la erosión del suelo.</li></ul>]]></texincen3>
+  <btnpractica><![CDATA[PRACTICA]]></btnpractica>
+  <btnsolucion><![CDATA[SOLUCIÓN]]></btnsolucion>
+
+	
+	Riesgos geoclimáticos
+</XMLDatos>

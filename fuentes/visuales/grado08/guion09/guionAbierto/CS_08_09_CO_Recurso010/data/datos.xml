@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XMLDatos aprid="F">
+  <titulo>La Tierra: un gran ecosistema</titulo>
+  <img1>Selva</img1>
+  <img2>Costa caribe</img2>
+  <img3>Sabana</img3>
+  <img4>Polar</img4>
+  <como>¿Cómo se relacionan entre sí?</como>
+  <selecciona>Selecciona una imagen</selecciona>
+  <btnpractica><![CDATA[PRACTICA]]></btnpractica>
+  <btnsolucion><![CDATA[SOLUCIÓN]]></btnsolucion>
+</XMLDatos>
