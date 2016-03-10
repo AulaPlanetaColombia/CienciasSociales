@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="3" clase="a" aprid="m3a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo/>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M3A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Relaciona las diferentes etapas de la desmembración de Pangea con las épocas correspondientes.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <sonidoaimagen cantidad="5">
+    <cuestion>
+      <imagen etiqueta=""><![CDATA[image_43.jpg]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Hace 225 millones de años"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta=""><![CDATA[image_29.png]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Hace 135 millones de años"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta=""><![CDATA[image_23.png]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Hace 65 millones de años"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta=""><![CDATA[image_9.png]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Actualidad"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta=""><![CDATA[image_35.png]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Hace 205 millones de años"/>
+      </respuestas>
+    </cuestion>
+  </sonidoaimagen>
+</motor>

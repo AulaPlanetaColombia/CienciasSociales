@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f1">
+<css><![CDATA[.defaultCSSBox2 {
+	background: #000000;
+}
+.defaultCSSBox3 {
+	background: #ffffff;
+}]]></css>
+<pantallas>
+<pantalla id="pantalla_5">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compSlider' id='diaporama_12' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' transMode='1' />
+<component _type='_compSliderNav' id='slidernav_11' x='45' y='526' width='162' height='37' alpha='1' visible='1' enabled='1' sliderId='diaporama_12' showHome='1' whiteButtons='0' mode='1' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+<slider id="diaporama_12">
+<pantalla id="pantalla_14">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_26' x='6' y='40' width='938' height='137' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:31px"><span style="font-family:georgia,serif">La ruptura de Pangea</span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_20' x='82' y='145' width='785' height='333' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_66.jpg' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_30">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_26' x='111' y='18' width='767' height='68' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Hace 225 millones de años</span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_20' x='111' y='116' width='728' height='362' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_43.jpg' />
+<component _type='_compIconButton' id='iconbutton_24' x='226' y='526' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconInfoButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_open("pantalla_25")]]></event>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_25">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_26' x='111' y='18' width='767' height='68' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Hace 205 millones de a&ntilde;os</span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_20' x='111' y='116' width='728' height='362' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_35.png' />
+<component _type='_compRichText' id='texto_19' x='465' y='187' width='142' height='59' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align: center;"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Laurasia</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_29' x='349' y='365' width='142' height='59' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Gondwana</span></span></p>
+]]></content>
+</component>
+<component _type='_compIconButton' id='iconbutton_24' x='226' y='526' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconInfoButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_open("pantalla_47")]]></event>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_30">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_26' x='111' y='18' width='767' height='68' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Hace 135 millones de a&ntilde;os</span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_20' x='111' y='116' width='728' height='362' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_29.png' />
+<component _type='_compIconButton' id='iconbutton_24' x='226' y='526' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconInfoButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_open("pantalla_51")]]></event>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_34">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_26' x='111' y='18' width='767' height='68' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Hace 65 millones de a&ntilde;os</span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_20' x='111' y='116' width='728' height='362' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_23.png' />
+<component _type='_compIconButton' id='iconbutton_24' x='226' y='526' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconInfoButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_open("pantalla_55")]]></event>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_38">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_26' x='111' y='18' width='767' height='68' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Actualidad</span></span></p>
+]]></content>
+</component>
+<component _type='_compImage' id='image_20' x='111' y='116' width='728' height='362' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='1' image='data/imagenes/image_9.png' />
+<component _type='_compIconButton' id='iconbutton_24' x='226' y='526' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconInfoButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_open("pantalla_59")]]></event>
+</component>
+<component _type='_compRoundButton' id='roundbutton_44' x='725' y='523' width='180' height='40' alpha='1' visible='1' enabled='1' cssClass='roundTextButton' group='-1'>
+<content><![CDATA[ACTIVIDAD]]></content>
+<event id='onClick' language='DO'><![CDATA[popup_open('pantalla_151')]]></event>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</slider>
+</pantalla>
+</pantallas>
+<popups>
+<pantalla id="pantalla_25">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_72' x='1' y='496' width='947' height='112' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compCSSBox' id='fondo_46' x='99' y='-1' width='849' height='118' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compIconButton' id='iconbutton_24' x='867' y='45' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_close()]]></event>
+</component>
+<component _type='_compRichText' id='texto_26' x='111' y='18' width='752' height='138' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Hace 225 millones de años, la superficie terrestre era una masa continental de enormes dimensiones que comprendía todas las tierras emergidas.</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_19' x='325' y='474' width='299' height='59' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Pangea</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_47">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_46' x='95' y='1' width='853' height='118' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compIconButton' id='iconbutton_24' x='867' y='45' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_close()]]></event>
+</component>
+<component _type='_compRichText' id='texto_26' x='111' y='18' width='752' height='138' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:19px"><span style="font-family:verdana,geneva,sans-serif">A partir del Tri&aacute;sico superior, es decir, hace unos 205 millones de a&ntilde;os, la masa continental se empez&oacute; a dividir en dos, dando origen a los continentes de Laurasia al norte y de Gondwana al sur, separados por el mar de Tetis.</span></span></p>
+]]></content>
+</component>
+<component _type='_compCSSBox' id='fondo_72' x='1' y='496' width='947' height='112' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_51">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_46' x='93' y='1' width='855' height='118' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compIconButton' id='iconbutton_24' x='867' y='45' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_close()]]></event>
+</component>
+<component _type='_compRichText' id='texto_26' x='111' y='18' width='752' height='138' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:19px"><span style="font-family:verdana,geneva,sans-serif">A finales del Jur&aacute;sico, comenz&oacute; a abrirse el Atl&aacute;ntico central, separ&aacute;ndose Norteam&eacute;rica de Europa y &Aacute;frica. M&aacute;s tarde, en el Cret&aacute;cico superior, el Atl&aacute;ntico sur empez&oacute; a abrirse cerca de la actual Sud&aacute;frica.</span></span></p>
+]]></content>
+</component>
+<component _type='_compCSSBox' id='fondo_72' x='1' y='496' width='947' height='112' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_55">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_46' x='86' y='1' width='862' height='118' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compIconButton' id='iconbutton_24' x='867' y='45' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_close()]]></event>
+</component>
+<component _type='_compRichText' id='texto_26' x='111' y='18' width='732' height='138' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:18px"><span style="font-family:verdana,geneva,sans-serif">La fragmentaci&oacute;n gradual separ&oacute; a &Aacute;frica de Sudam&eacute;rica y de la Ant&aacute;rtida, mientras la India derivaba hacia el norte, acerc&aacute;ndose a Asia. Norteam&eacute;rica y Eurasia permanecieron unidas, al igual que Australia y la Ant&aacute;rtida, que ya ocupaba su latitud actual.</span></span></p>
+]]></content>
+</component>
+<component _type='_compCSSBox' id='fondo_72' x='1' y='496' width='947' height='112' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_59">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_46' x='91' y='1' width='857' height='118' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compIconButton' id='iconbutton_24' x='867' y='45' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_close()]]></event>
+</component>
+<component _type='_compRichText' id='texto_26' x='111' y='18' width='734' height='138' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:19px"><span style="font-family:verdana,geneva,sans-serif">Finalmente, la India impact&oacute; contra Asia y se form&oacute; la cordillera del Himalaya. Australia se separ&oacute; de la Ant&aacute;rtida y el resto de los continentes ocuparon sus posiciones actuales.</span></span></p>
+]]></content>
+</component>
+<component _type='_compCSSBox' id='fondo_72' x='1' y='496' width='947' height='112' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_151">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_214' x='1' y='84' width='867' height='608' alpha='1' visible='1' enabled='1' cssClass='bkWhite' />
+<component _type='_compCSSBox' id='fondo_211' x='83' y='0' width='867' height='608' alpha='1' visible='1' enabled='1' cssClass='bkWhite' />
+<component _type='_compActivity' id='activity_187' x='77' y='81' width='800' height='512' alpha='1' visible='1' enabled='1' src='bg_10_02_recurso030_m3a.zip' />
+<component _type='_compIconButton' id='iconbutton_188' x='876' y='44' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_close()]]></event>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</popups>
+</engine>
