@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f7b"><main layout="8">
-<title>La evolución político-administrativa en el Nuevo Reino de Granada</title>
+<title>La evolución político-administrativa en la Nueva Granada</title>
 <footer>Selecciona una imagen</footer>
 </main>
 <sections>
 <section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_07_06_REC10_IMG09n.jpg" border="0">
+<menuImage path="CS_07_06_REC10_IMG01.jpg" border="0">
 <title><![CDATA[Fundación y primeras gobernaciones]]></title>
 </menuImage>
 <pages>
@@ -21,7 +21,7 @@
 <p>&nbsp;</p>
 ]]></description>
 <images>
-<image path="CS_07_06_REC10_IMG07n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG07a.jpg">
+<image path="CS_07_06_REC10_IMG04n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG04a.jpg">
 <title><![CDATA[]]></title>
 </image>
 </images>
@@ -42,9 +42,14 @@
 	</li>
 	<li>Los espa&ntilde;oles abandonaron el lugar.&nbsp;<br />
 	&nbsp;</li>
-	<li>Los ind&iacute;genas destruyeron la poblaci&oacute;n que hab&iacute;a.</li>
+	<li>Los ind&iacute;genas destruyeron el poblado.</li>
 </ul>
 ]]></description>
+<images>
+<image path="CS_07_06_REC10_IMG05n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG05a.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
 </page>
 <page i="0" visible="true" color="">
 <title>Santa María Antigua del Darién</title>
@@ -53,11 +58,11 @@
 	&nbsp;</li>
 	<li>Vasco N&uacute;&ntilde;ez de Balboa asumi&oacute;&nbsp;el mando.<br />
 	&nbsp;</li>
-	<li>Balboa negoci&oacute;&nbsp;con la poblaci&oacute;n ind&iacute;gena para evitar que pasara lo que hab&iacute;a ocurrido con&nbsp;<strong>San Sebasti&aacute;n de Urab&aacute;</strong>.</li>
+	<li>Balboa negoci&oacute;&nbsp;con la poblaci&oacute;n ind&iacute;gena para evitar que pasara lo mismo que&nbsp;con&nbsp;<strong>San Sebasti&aacute;n de Urab&aacute;</strong>.</li>
 </ul>
 ]]></description>
 <images>
-<image path="CS_07_06_REC10_IMG08n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG08a.jpg">
+<image path="CS_07_06_REC10_IMG06n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG06a.jpg">
 <title><![CDATA[]]></title>
 </image>
 </images>
@@ -73,7 +78,7 @@
 </ul>
 ]]></description>
 <images>
-<image path="CS_07_06_REC10_IMG09n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG09a.jpg">
+<image path="CS_07_06_REC10_IMG07n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG07a.jpg">
 <title><![CDATA[]]></title>
 </image>
 </images>
@@ -85,9 +90,14 @@
 <ul>
 	<li>Gobernaci&oacute;n, que inclu&iacute;a todo el <strong>territorio de la costa desde el cabo de la Vela hasta el actual Panam&aacute;</strong>,&nbsp;excepto&nbsp;Veraguas.<br />
 	&nbsp;</li>
-	<li>Se nombr&oacute; a <strong>Pedrarias D&aacute;vila</strong>&nbsp;gobernador y capit&aacute;n general de Castilla del Oro (1513).&nbsp;Pedrarias lleg&oacute; a la regi&oacute;n con espa&ntilde;oles que ten&iacute;an&nbsp;experiencia militar,&nbsp;artesanos, cirujanos y mujeres</li>
+	<li>Se nombr&oacute; a <strong>Pedrarias D&aacute;vila</strong>&nbsp;gobernador y capit&aacute;n general de Castilla del Oro (1513).&nbsp;Pedrarias lleg&oacute; a la regi&oacute;n con espa&ntilde;oles que ten&iacute;an&nbsp;experiencia militar,&nbsp;artesanos, cirujanos y mujeres.</li>
 </ul>
 ]]></description>
+<images>
+<image path="CS_07_06_REC10_IMG08n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG08a.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
 </page>
 <page i="0" visible="true" color="">
 <title>La gobernación de Santa Marta</title>
@@ -103,7 +113,7 @@
 </ul>
 ]]></description>
 <images>
-<image path="CS_07_06_REC10_IMG10n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG10a.jpg">
+<image path="CS_07_06_REC10_IMG09n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG09a.jpg">
 <title><![CDATA[]]></title>
 </image>
 </images>
@@ -117,29 +127,29 @@
 </ul>
 ]]></description>
 <images>
-<image path="CS_07_06_REC10_IMG11n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG11a.jpg">
+<image path="CS_07_06_REC10_IMG10n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG10a.jpg">
 <title><![CDATA[]]></title>
 </image>
 </images>
 </page>
 </pages>
 </section><section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_07_06_REC10_IMG12n.jpg" border="0">
+<menuImage path="CS_07_06_REC10_IMG02.jpg" border="0">
 <title><![CDATA[Fundación de la Real Audiencia]]></title>
 </menuImage>
 <pages>
 <page i="0" visible="true" color="">
 <title>La Real Audiencia de la Nueva Granada</title>
 <description><![CDATA[<ul>
-	<li><strong>La primera Audiencia del Nuevo Mundo fue la de Santo Domingo</strong>, de esta&nbsp;depend&iacute;a el Nuevo Reino de Granada. Este fue el <strong>principal tribunal legislativo, administrativo y judicial, que ten&iacute;a autoridad sobre gobernadores y virreyes</strong>.<br />
-	​</li>
-	<li>Los distancia entre la sede de ese tribunal y el Nuevo Reino era muy grande, lo que&nbsp;hac&iacute;a dif&iacute;cil&nbsp;controlar&nbsp;la labor&nbsp;de los gobernadores, de los alcaldes mayores&nbsp;y la conducta de los encomenderos.<br />
+	<li><strong>La primera Audiencia del Nuevo Mundo fue la de Santo Domingo</strong>, de esta&nbsp;depend&iacute;a el Nuevo Reino de Granada.&nbsp;Este fue el principal tribunal legislativo, administrativo y judicial, que ten&iacute;a autoridad sobre gobernadores y virreyes.​<br />
 	&nbsp;</li>
-	<li>La Corona organiz&oacute; un cuerpo colegiado de cinco <strong>oidores</strong>.&nbsp;El primero hac&iacute;a las tareas de fiscal y los otros cuatro eran auditores que se desplazaban por todo el territorio para hacer&nbsp;asambleas judiciales itinerantes. Esos eran los <strong>visitadores</strong>.</li>
+	<li>La gran&nbsp;distancia entre la sede&nbsp;y el Nuevo Reino era muy grande, lo que&nbsp;hac&iacute;a dif&iacute;cil&nbsp;controlar&nbsp;la labor&nbsp;de los gobernadores, de los alcaldes mayores&nbsp;y la conducta de los encomenderos.<br />
+	&nbsp;</li>
+	<li>La Corona organiz&oacute; un cuerpo colegiado de cinco <strong>oidores</strong>.&nbsp;El primero hac&iacute;a las tareas de fiscal y los otros cuatro&nbsp;eran los <strong>visitadores</strong>.</li>
 </ul>
 ]]></description>
 <images>
-<image path="CS_07_06_REC10_IMG12n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG12a.jpg">
+<image path="CS_07_06_REC10_IMG11n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG11a.jpg">
 <title><![CDATA[Casa de la Real Audiencia en la plaza mayor de Santafé de Bogotá]]></title>
 </image>
 </images>
@@ -152,6 +162,11 @@
 	<li>Puesto que Armend&aacute;riz no hizo lo que la Corona le ped&iacute;a, para esta&nbsp;fue&nbsp;evidente&nbsp;que deb&iacute;a crear una&nbsp;autoridad m&aacute;s&nbsp;fuerte y m&aacute;s cercana al Nuevo Reino de Granada.&nbsp;Por esto cre&oacute;&nbsp;la<strong> Audiencia de Santaf&eacute;&nbsp;de Bogot&aacute; en 1549</strong>.</li>
 </ul>
 ]]></description>
+<images>
+<image path="CS_07_06_REC10_IMG12n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG12a.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
 </page>
 <page i="0" visible="true" color="">
 <title>Presidentes letrados (1564-1605)</title>
@@ -161,32 +176,6 @@
 	<li>El primer presidente letrado, llamado as&iacute; por su <strong>preparaci&oacute;n en jurisprudencia</strong>, fue <strong>Andr&eacute;s D&iacute;az Venero de Leyva </strong>en <strong>1564</strong>, quien le quit&oacute; poder a los oidores para concentrarlo en &eacute;l.&nbsp;</li>
 </ul>
 ]]></description>
-</page>
-<page i="0" visible="true" color="">
-<title>Presidentes militares (1605-1719)</title>
-<description><![CDATA[<ul>
-	<li>A partir de 1605, fueron nombrados como presidentes de la Audiencia <strong>funcionarios con carrera militar</strong>, por lo que les llamaban presidentes&nbsp;<em>de capa y espada</em>, puesto que se necesitaba despejar algunos territorios de&nbsp;comunidades ind&iacute;genas que opon&iacute;an resistencia.<br />
-	&nbsp;</li>
-	<li>El primer presidente militar fue <strong>Juan de Borda, </strong>quien pele&oacute; contra los<strong> indios pijaos</strong>. Sus sucesores fueron Sancho Gir&oacute;n y Mart&iacute;n de Saavedra Guzm&aacute;n, quienes condenados por diferentes delitos fueron exiliados a&nbsp;Espa&ntilde;a.</li>
-</ul>
-]]></description>
-</page>
-</pages>
-</section><section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_07_06_REC10_IMG13n.jpg" border="0">
-<title><![CDATA[Etapa del Virreinato]]></title>
-</menuImage>
-<pages>
-<page i="0" visible="true" color="">
-<title>El Virreinato de la Nueva Granada</title>
-<description><![CDATA[<ul>
-	<li>A finales del XVII la extracci&oacute;n de plata en el Virreinato del Per&uacute; decay&oacute;, la Corona busc&oacute; entonces nuevos lugares donde hubiese oro y plata, y los encontr&oacute; en la Real Audiencia de la Nueva Granada (Choc&oacute;, Barbacoas, Antioquia y Pat&iacute;a).<br />
-	&nbsp;</li>
-	<li>La Real Audiencia de la Nueva Granada ten&iacute;a tambi&eacute;n un <strong>gran potencial agr&iacute;cola </strong>y sus<strong> puertos </strong>eran importantes para el comercio <strong>entre Espa&ntilde;a y Am&eacute;rica</strong>.<br />
-	&nbsp;</li>
-	<li>Esta Real Audiencia se vuelve&nbsp;importante, as&iacute; que el 29 de abril de <strong>1717 </strong>se la convierte en el<strong> Virreinato de la Nueva Granada</strong>, y se establece como capital a Santa Fe de Bogot&aacute;. Este virreinato estaba conformado por las Audiencias de Santa Fe, Venezuela, Quito y Panam&aacute;</li>
-</ul>
-]]></description>
 <images>
 <image path="CS_07_06_REC10_IMG13n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG13a.jpg">
 <title><![CDATA[]]></title>
@@ -194,24 +183,65 @@
 </images>
 </page>
 <page i="0" visible="true" color="">
+<title>Presidentes militares (1605-1719)</title>
+<description><![CDATA[<ul>
+	<li>A partir de 1605, fueron nombrados como presidentes de la Audiencia <strong>funcionarios con carrera militar</strong>, por lo que les llamaban presidentes&nbsp;<em>de capa y espada</em>, puesto que se necesitaba despejar algunos territorios de&nbsp;comunidades ind&iacute;genas que opon&iacute;an resistencia.<br />
+	&nbsp;</li>
+	<li>El primer presidente militar fue <strong>Juan de Borda, </strong>quien luch&oacute;&nbsp;contra los<strong> indios pijaos</strong>. Sus sucesores fueron Sancho Gir&oacute;n y Mart&iacute;n de Saavedra Guzm&aacute;n, quienes condenados por diferentes delitos fueron exiliados a&nbsp;Espa&ntilde;a.</li>
+</ul>
+]]></description>
+<images>
+<image path="CS_07_06_REC10_IMG14n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG14a.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="CS_07_06_REC10_IMG03.jpg" border="0">
+<title><![CDATA[Etapa del Virreinato]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
 <title>El Virreinato de la Nueva Granada</title>
 <description><![CDATA[<ul>
-	<li>El virreinato estuvo en cabeza del virrey, quien se consideraba un r<strong>epresentante del rey de Espa&ntilde;a en Am&eacute;rica</strong>. Sus funciones fueron las de:
+	<li>A finales del XVII la extracci&oacute;n de plata en el Virreinato del Per&uacute; decay&oacute;, la Corona encontr&oacute; oro y plata&nbsp;en la Real Audiencia de la Nueva Granada (Choc&oacute;, Barbacoas, Antioquia y Pat&iacute;a).<br />
+	&nbsp;</li>
+	<li>La Real Audiencia de la Nueva Granada ten&iacute;a <strong>gran potencial agr&iacute;cola </strong>y<strong>&nbsp;puertos</strong>&nbsp;importantes para el comercio <strong>entre Espa&ntilde;a y Am&eacute;rica</strong>.<br />
+	&nbsp;</li>
+	<li>El 29 de abril de <strong>1717 </strong>la Real Audiencia<strong>&nbsp;</strong>se convirti&oacute;&nbsp;en el<strong> Virreinato de la Nueva Granada</strong>,&nbsp;conformado por las Audiencias de Santa Fe, Venezuela, Quito y Panam&aacute;.</li>
+</ul>
+]]></description>
+<images>
+<image path="CS_07_06_REC10_IMG15n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG15a.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>El Virreinato de la Nueva Granada</title>
+<description><![CDATA[<ul>
+	<li>Las funciones&nbsp;del virrey&nbsp;fueron:
 	<ul>
-		<li>Gobernar la provincia</li>
+		<li>Gobernar la provincia.</li>
 		<li>Presidir la Audiencia, los cabildos y las capitan&iacute;as generales.</li>
-		<li>Velar por los derechos tanto de espa&ntilde;oles como de ind&iacute;genas.</li>
+		<li>Velar por los derechos&nbsp;de espa&ntilde;oles e&nbsp;ind&iacute;genas.</li>
 		<li>Nombrar funcionarios.</li>
-		<li>Controlar las funciones de la Real Hacienda.</li>
+		<li>Controlar&nbsp;la Real Hacienda.</li>
 		<li>Desarrollar obras p&uacute;blicas.</li>
-		<li>Fundaci&oacute;n de ciudades.</li>
-		<li>Mediar entre la Iglesia cat&oacute;lica y la Corona espa&ntilde;ola.<br />
+		<li>Fundar&nbsp;ciudades.</li>
+		<li>Mediar entre la Iglesia&nbsp;y la Corona.<br />
 		&nbsp;</li>
 	</ul>
 	</li>
 	<li>El virrey <strong>no ten&iacute;a injerencia directa en la impartici&oacute;n de justicia.</strong></li>
 </ul>
 ]]></description>
+<images>
+<image path="CS_07_06_REC10_IMG16n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG16a.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
 </page>
 <page i="0" visible="true" color="">
 <title>La capitanía y el cabildo</title>
@@ -221,6 +251,11 @@
 	<li>El <strong>cabildo</strong> fue el principal <strong>organismo de gobierno local en las ciudades</strong>. El cabildo estaba conformado por corregidores y alcaldes vecinos de la ciudad, que se encargaban de administrar, dictar disposiciones,&nbsp;fiscalizar la econom&iacute;a y controlar el comercio.</li>
 </ul>
 ]]></description>
+<images>
+<image path="CS_07_06_REC10_IMG17n.jpg" border = "0" pathbig="CS_07_06_REC10_IMG17a.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
 </page>
 </pages>
 </section></sections>

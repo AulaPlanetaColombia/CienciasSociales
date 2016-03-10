@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f7b"><main layout="2">
-<title>La economía en el Nuevo Reino de Granada</title>
+<title>La economía en la Nueva Granada</title>
 <footer>Escoge una imagen</footer>
 </main>
 <sections>
@@ -20,7 +20,7 @@
 </page>
 <page i="0" visible="true" color="">
 <title>Las haciendas</title>
-<description><![CDATA[<p><span style="font-size:20px">Por su parte, las haciendas fueron&nbsp;<strong>grandes extensiones</strong> de tierra pero dedicadas a la <strong>agricultura,</strong> com&uacute;nmente con cultivos de <strong>algod&oacute;n y ca&ntilde;a de&nbsp;az&uacute;car</strong>.</span></p>
+<description><![CDATA[<p><span style="font-size:20px">Fueron&nbsp;<strong>grandes extensiones</strong> de tierra dedicadas a la <strong>agricultura,</strong> com&uacute;nmente con cultivos de <strong>tabaco</strong>,&nbsp;<strong>algod&oacute;n</strong>,<strong> quina </strong>y<strong> a&ntilde;il</strong>.</span></p>
 ]]></description>
 <images>
 <image path="CS_07_06_REC60_IMG06n.jpg" border = "0" pathbig="CS_07_06_REC60_IMG06a.jpg">
@@ -46,11 +46,9 @@
 <pages>
 <page i="0" visible="true" color="">
 <title>​La agricultura</title>
-<description><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">La agricultura fue una de las m&aacute;s importantes&nbsp;<br />
-actividades econ&oacute;micas desarrolladas durante la </span></span><br />
+<description><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">La agricultura fue una de las&nbsp;actividades econ&oacute;micas m&aacute;s importantes desarrolladas durante la </span></span><br />
 <span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">Colonia, los principales productos que se cultivaron<br />
-y&nbsp;que se destinaron a la exportaci&oacute;n fueron la&nbsp;<strong>ca&ntilde;a de<br />
-az&uacute;car</strong>, el&nbsp;<strong>tabaco</strong>, los&nbsp;<strong>tub&eacute;rculos</strong>&nbsp;y las&nbsp;<strong>hortalizas</strong>.</span></span></p>
+y&nbsp;que se destinaron a la exportaci&oacute;n fueron&nbsp;<strong>tabaco</strong>, <strong>quina</strong> y <strong>a&ntilde;il</strong>.&nbsp;</span></span></p>
 ]]></description>
 <images>
 <image path="CS_07_06_REC60_IMG08n.jpg" border = "0" pathbig="CS_07_06_REC60_IMG08a.jpg">
@@ -60,9 +58,9 @@ az&uacute;car</strong>, el&nbsp;<strong>tabaco</strong>, los&nbsp;<strong>tub&ea
 </page>
 <page i="0" visible="true" color="">
 <title>La ganadería</title>
-<description><![CDATA[<p><span style="font-size:20px">L</span><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">os espa&ntilde;oles que llegaron a Am&eacute;rica trajeron sus&nbsp;<strong>animales dom&eacute;sticos</strong>; el poseer animales y criarlos se convirti&oacute;, en el Nuevo Mundo, en una <strong>actividad&nbsp;importante</strong>, al punto que ser due&ntilde;o de un hato o&nbsp;poseer reba&ntilde;os fue socialmente m&aacute;s interesante&nbsp;que dedicarse a la agricultura.&nbsp;</span></span></p>
+<description><![CDATA[<p><span style="font-size:20px">L</span><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">os espa&ntilde;oles que llegaron a Am&eacute;rica trajeron vacunos, ovinos, porcinos y aves de corral para el consumo dom&eacute;stico.&nbsp;</span></span></p>
 
-<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Con el tiempo se dio</span></span><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&nbsp;un&nbsp;cambio en el uso del <strong>suelo</strong>, porque&nbsp;la cr&iacute;a de los animales importados por los espa&ntilde;oles (reses, ovejas, caballos)&nbsp;necesitaban grandes provisiones de pastos para poder subsistir.&nbsp;</span></span><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Los <strong>ind&iacute;genas aprendieron a manejar el ganado vacuno</strong> e incluso llegaron a ser propietarios de algunas reses.</span></span></p>
+<p>&nbsp;</p>
 ]]></description>
 <images>
 <image path="CS_07_06_REC60_IMG09n.jpg" border = "0" pathbig="CS_07_06_REC60_IMG09a.jpg">
@@ -72,11 +70,11 @@ az&uacute;car</strong>, el&nbsp;<strong>tabaco</strong>, los&nbsp;<strong>tub&ea
 </page>
 <page i="0" visible="true" color="">
 <title>La minería</title>
-<description><![CDATA[<p><span style="font-size:20px">La actividad minera se centr&oacute;&nbsp;en la extracci&oacute;n de&nbsp;</span><strong><span style="font-size:20px">oro</span>&nbsp;</strong><span style="font-size:20px">especialmente durante el siglo XVI y la primera mitad del siglo XVII, momento a partir del cual decay&oacute; su explotaci&oacute;n por el agotamiento de los yacimientos.&nbsp;</span></p>
+<description><![CDATA[<p><span style="font-size:20px">La actividad minera fue la m&aacute;s importante en la Nueva Granada a comienzos de la Colonia. Se centr&oacute;&nbsp;en la extracci&oacute;n de&nbsp;</span><strong><span style="font-size:20px">oro</span>&nbsp;</strong><span style="font-size:20px">especialmente durante el siglo XVI y la primera mitad del siglo XVII, momento a partir del cual decay&oacute; su explotaci&oacute;n por el agotamiento de las minas.&nbsp;</span></p>
 
-<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">En ciertas&nbsp;regiones del Nuevo Reino de Granada la obligaci&oacute;n del trabajo minero fue tan grande, que en algunos poblados <strong>los encomenderos solo prescind&iacute;an de&nbsp;las mujeres, los ni&ntilde;os y de&nbsp;los ancianos</strong>.</span></span></p>
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">En la&nbsp;Nueva&nbsp;Granada se explotaron minas de oro en la regi&oacute;n del Pac&iacute;fico y en la regi&oacute;n Andina.&nbsp;&nbsp;Tambi&eacute;n se explotaron las minas de <strong>esmeraldas</strong> en&nbsp;Somondoco y&nbsp;Muzo.</span></span></p>
 
-<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">La obligaci&oacute;n minera la desempe&ntilde;aban los <strong>indios</strong> bajo control de mayordomos&nbsp;blancos o mayordomos ind&iacute;genas. Unos y otros <strong>hac&iacute;an trabajar a los mitayos&nbsp;hasta el agotamiento</strong> e incluso la muerte.</span></span></p>
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">El trabajo minero recay&oacute; </span></span><span style="font-family:verdana,geneva,sans-serif; font-size:20px">en</span><span style="font-family:verdana,geneva,sans-serif; font-size:20px">&nbsp;los&nbsp;</span><strong>indios</strong><span style="font-family:verdana,geneva,sans-serif; font-size:20px">&nbsp;y&nbsp;</span><span style="font-family:verdana,geneva,sans-serif; font-size:20px">posteriormente</span><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&nbsp;en los <strong>esclavos negros</strong>.</span></span></p>
 ]]></description>
 <images>
 <image path="CS_07_06_REC60_IMG10n.jpg" border = "0" pathbig="CS_07_06_REC60_IMG10a.jpg">
@@ -86,23 +84,27 @@ az&uacute;car</strong>, el&nbsp;<strong>tabaco</strong>, los&nbsp;<strong>tub&ea
 </page>
 <page i="0" visible="true" color="">
 <title>Las artesanías</title>
-<description><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">La participaci&oacute;n de indios y mestizos en los <strong>obrajes</strong>, que eran f&aacute;bricas de artesan&iacute;as,&nbsp;tejidos, zapatos, cueros, y&nbsp;plater&iacute;a, entre otras, estaba <strong>controlada por las leyes</strong> y por las ordenanzas; es posible&nbsp;que entre los aprendices y los oficiales hubiese, ocasionalmente, alg&uacute;n&nbsp;ind&iacute;gena, pero a este <strong>le era imposible hacerse&nbsp;maestro</strong>.&nbsp;</span></span></p>
+<description><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Los&nbsp;mestizos trabajaban en los <strong>obrajes</strong>, que eran f&aacute;bricas de artesan&iacute;as,&nbsp;tejidos, loza y&nbsp;cueros. Esta actividad&nbsp;estaba regulada<strong>&nbsp;por&nbsp;leyes</strong> y&nbsp;ordenanzas.&nbsp;</span></span></p>
 
-<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">En la iglesia parroquial de&nbsp;<strong>Pasca</strong> (Cundinamarca)&nbsp;hay&nbsp;dos piezas&nbsp;importantes:&nbsp;</span></span></p>
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">En la iglesia parroquial de&nbsp;<strong>Pasca</strong>&nbsp;(Cundinamarca) se conservan&nbsp;dos piezas&nbsp;importantes:&nbsp;</span></span></p>
 
-<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">-El&nbsp;<strong>estandarte de la virgen Mar&iacute;a</strong>&nbsp;</span></span></p>
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">-El&nbsp;<strong>estandarte de la Virgen Mar&iacute;a</strong>&nbsp;</span></span></p>
 
-<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">-El <strong>collar de oro de la virgen de la Encarnaci&oacute;n</strong></span></span></p>
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">-El <strong>collar de oro de la Virgen de la Encarnaci&oacute;n</strong></span></span></p>
 ]]></description>
 <images>
-<image path="imagenDummy-MotorF.jpg" border = "0" pathbig="imagenDummy-MotorF.jpg">
+<image path="CS_07_06_REC60_IMG11n.jpg" border = "0" pathbig="CS_07_06_REC60_IMG11a.jpg">
 <title><![CDATA[]]></title>
 </image>
 </images>
 </page>
 <page i="0" visible="true" color="">
 <title>Las misiones de los jesuitas en los Llanos Orientales</title>
-<description><![CDATA[<p><span style="font-size:20px">Dado que los espa&ntilde;oles no se interesaron por la zona de los Llanos Orientales, enviaron a los <strong>jesuitas para que efectuaran misiones</strong>; el eje de la actividad econ&oacute;mica de estas fue el trabajo comunitario del <strong>cultivo de las tierras</strong>. Lo producido se destin&oacute; a satisfacer las necesidades de quienes viv&iacute;an en dichas misiones o para&nbsp;cuidar a las viudas, ni&ntilde;os, ancianos y desvalidos; y para comprar otros suministros, enseres y objetos que la misi&oacute;n requiriera. <strong>Las tierras fueron divididas en dos grandes porciones</strong>: <strong>Campo de Dios</strong> (zona en la que se&nbsp;trabajaba y se produc&iacute;a) y <strong>Campo de hombre</strong> (zona de vivienda de los miembros de la comunidad).</span></p>
+<description><![CDATA[<p><span style="font-size:20px">Los espa&ntilde;oles no se interesaron en colonizar los Llanos Orientales. All&iacute; las&nbsp;<strong>misiones</strong>&nbsp;<strong>jesuitas&nbsp;</strong>organizaron&nbsp;el<strong> trabajo agr&iacute;cola de las comunidades ind&iacute;genas</strong>. </span></p>
+
+<p><span style="font-size:20px">El producto de esta labor&nbsp;se destin&oacute; a satisfacer las necesidades de&nbsp;viudas, ni&ntilde;os, ancianos y desvalidos. </span></p>
+
+<p><span style="font-size:20px">Las tierras fueron divididas en dos grandes porciones: <strong>Campo de Dios</strong> (zona en la que se&nbsp;trabajaba y se produc&iacute;a) y <strong>Campo de hombre</strong> (zona de vivienda de los miembros de la comunidad).</span></p>
 ]]></description>
 <images>
 <image path="CS_07_06_REC60_IMG12n.jpg" border = "0" pathbig="CS_07_06_REC60_IMG12a.jpg">
@@ -118,7 +120,9 @@ az&uacute;car</strong>, el&nbsp;<strong>tabaco</strong>, los&nbsp;<strong>tub&ea
 <pages>
 <page i="0" visible="true" color="">
 <title>La encomienda</title>
-<description><![CDATA[<p><span style="font-size:20px">La encomienda fue una instituci&oacute;n que otorg&oacute; a un espa&ntilde;ol,&nbsp;<strong>encomendero</strong>, la tarea de proteger a un grupo de ind&iacute;genas a cambio de su servicio en el trabajo de las minas y en las actividades agr&iacute;colas, ellos por su parte pagaban al se&ntilde;or encomendero un<strong>&nbsp;tributo</strong>&nbsp;en especie proveniente de dicho trabajo.</span></p>
+<description><![CDATA[<p><span style="font-size:20px">La encomienda fue una instituci&oacute;n que otorg&oacute; a un espa&ntilde;ol,&nbsp;<strong>encomendero</strong>, la tarea de evangelizar y&nbsp;proteger a un grupo de ind&iacute;genas a cambio de su servicio en el trabajo agr&iacute;cola&nbsp;y en labores dom&eacute;sticas.&nbsp;</span></p>
+
+<p><span style="font-size:20px">Los ind&iacute;genas&nbsp;pagaban al&nbsp;encomendero un<strong>&nbsp;tributo</strong>&nbsp;en especie.</span></p>
 ]]></description>
 <images>
 <image path="CS_07_06_REC60_IMG13n.jpg" border = "0" pathbig="CS_07_06_REC60_IMG13a.jpg">
@@ -128,7 +132,9 @@ az&uacute;car</strong>, el&nbsp;<strong>tabaco</strong>, los&nbsp;<strong>tub&ea
 </page>
 <page i="0" visible="true" color="">
 <title>Los resguardos</title>
-<description><![CDATA[<p><span style="font-size:20px">Fueron tierras destinadas&nbsp;al&nbsp;<em>resguardo</em>&nbsp;de la poblaci&oacute;n ind&iacute;gena, en la que se les mantuvo aislados del resto de la sociedad&nbsp;a fin de evitar su corrupci&oacute;n y explotaci&oacute;n, pero en donde pod&iacute;an ser f&aacute;cilmente adoctrinados en el catolicismo por comunidades religiosas como los <strong>jesuitas</strong>&nbsp;o&nbsp;<strong>dominicos</strong>.</span></p>
+<description><![CDATA[<p><span style="font-size:20px">Fueron tierras entregadas a las comunidades ind&iacute;genas destinadas&nbsp;al <strong>aparente resguardo</strong>&nbsp;de la poblaci&oacute;n. </span></p>
+
+<p><span style="font-size:20px">En los resguardos&nbsp;se les mantuvo <strong>aislados</strong> del resto de la sociedad&nbsp;a fin de <strong>evitar su extinci&oacute;n</strong>,&nbsp;<strong>adoctrinados</strong> en el catolicismo por comunidades religiosas como los jesuitas&nbsp;o&nbsp;dominicos y facilitar la <strong>explotaci&oacute;n</strong> de la mano de obra y&nbsp;el <strong>cobro de los tributos</strong>.</span></p>
 ]]></description>
 <images>
 <image path="CS_07_06_REC60_IMG14n.jpg" border = "0" pathbig="CS_07_06_REC60_IMG14a.jpg">
@@ -149,14 +155,12 @@ az&uacute;car</strong>, el&nbsp;<strong>tabaco</strong>, los&nbsp;<strong>tub&ea
 <page i="0" visible="true" color="">
 <title>La esclavitud</title>
 <description><![CDATA[<p><span style="font-size:20px">La esclavitud de <strong>la poblaci&oacute;n africana</strong> se origin&oacute; por<br />
-la reducci&oacute;n de los ind&iacute;genas a causa de la excesiva<br />
-explotaci&oacute;n y abusos que cometieron contra ellos<br />
-los espa&ntilde;oles. Para evitar su total desaparici&oacute;n,<br />
-ya que la&nbsp;Iglesia intervino a su favor, los espa&ntilde;oles desarrollaron un&nbsp;<strong>comercio triangular</strong>&nbsp;entre &Aacute;frica,<br />
-la pen&iacute;nsula ib&eacute;rica y Am&eacute;rica para importar esclavos,<br />
-a cambio de materias primas. La econom&iacute;a esclavista<br />
-se desarroll&oacute; especialmente en&nbsp;<strong>las minas</strong>, <strong>los</strong>&nbsp;<strong>cultivos<br />
-extensivos de ca&ntilde;a de az&uacute;car&nbsp;y algod&oacute;n</strong>.</span></p>
+la r&aacute;pida disminuci&oacute;n de la poblaci&oacute;n ind&iacute;gena.&nbsp;</span></p>
+
+<p><span style="font-size:20px">Los espa&ntilde;oles desarrollaron un&nbsp;<strong>comercio triangular</strong>&nbsp;entre <strong>&Aacute;frica</strong>,<br />
+la <strong>pen&iacute;nsula Ib&eacute;rica</strong> y <strong>Am&eacute;rica</strong> para importar esclavos y exportar&nbsp;materias primas. </span></p>
+
+<p><span style="font-size:20px">La econom&iacute;a esclavista&nbsp;se desarroll&oacute; especialmente en&nbsp;<strong>las minas, los cultivos y en el trabajo dom&eacute;stico</strong>.&nbsp;</span></p>
 
 <div>&nbsp;</div>
 ]]></description>
@@ -174,7 +178,11 @@ extensivos de ca&ntilde;a de az&uacute;car&nbsp;y algod&oacute;n</strong>.</span
 <pages>
 <page i="0" visible="true" color="">
 <title>El comercio marítimo</title>
-<description><![CDATA[<p><span style="font-size:20px">Este comercio se desarroll&oacute; entre el&nbsp;<strong>puerto de Cartagena de Indias</strong>, principal puerto del virreinato, y el&nbsp;<strong>puerto de C&aacute;diz</strong>&nbsp;en Espa&ntilde;a. Este comercio favoreci&oacute; el surgimiento de una burgues&iacute;a capitalista y el desarrollo de la&nbsp;<strong>Flota de Indias</strong>, conocida tambi&eacute;n como la&nbsp;<em>Flota del Tesoro Espa&ntilde;ol</em>. Para el control del comercio mar&iacute;timo Espa&ntilde;a cre&oacute;&nbsp;tempranamente, en 1503, la&nbsp;<strong>Casa de Contrataci&oacute;n de Sevilla</strong>,&nbsp;que se encarg&oacute; del recaudo de impuestos y dar&nbsp;autorizaci&oacute;n para comerciar. El comercio mar&iacute;timo consolid&oacute; el&nbsp;<strong>mercantilismo</strong>&nbsp;al transportar grandes cantidades de oro y plata hacia Espa&ntilde;a.</span></p>
+<description><![CDATA[<p><span style="font-size:20px">Este comercio colonial se desarroll&oacute; entre <strong>Cartagena de Indias</strong>&nbsp;y<strong>&nbsp;C&aacute;diz</strong>&nbsp;en Espa&ntilde;a y&nbsp;consolid&oacute;&nbsp;el&nbsp;</span><strong>mercantilismo.</strong><span style="font-size:20px">&nbsp;&nbsp;</span></p>
+
+<p><span style="font-size:20px">Favoreci&oacute; el enriquecimiento de espa&ntilde;oles y criollos&nbsp;y el desarrollo de la&nbsp;<strong>Flota de Indias</strong>, conocida tambi&eacute;n como la&nbsp;<em>Flota del Tesoro Espa&ntilde;ol</em>. </span></p>
+
+<p><span style="font-size:20px">La&nbsp;<strong>Casa de Contrataci&oacute;n de Sevilla </strong>fue creada en 1503<strong>&nbsp;</strong>por la<strong> </strong>Corona espa&ntilde;ola<strong>&nbsp;</strong>para controlar toda actividad comercial entre Espa&ntilde;a y la Nueva Granada.&nbsp;&nbsp;</span></p>
 ]]></description>
 <images>
 <image path="CS_07_06_REC60_IMG17n.jpg" border = "0" pathbig="CS_07_06_REC60_IMG17a.jpg">
@@ -184,21 +192,29 @@ extensivos de ca&ntilde;a de az&uacute;car&nbsp;y algod&oacute;n</strong>.</span
 </page>
 <page i="0" visible="true" color="">
 <title>El monopolio comercial</title>
-<description><![CDATA[<p><span style="font-size:20px">Con el fin de controlar completamente el comercio entre Espa&ntilde;a y sus colonias y poder manejar los precios de los productos de manera aut&oacute;noma en Europa,&nbsp;se estableci&oacute; un monopolio comercial en el que les estaba prohibido a los espa&ntilde;oles y criollos comerciar sus productos con otros estados. Este monopolio llev&oacute; al surgimiento del&nbsp;<strong>contrabando</strong>, m&eacute;todo con el cual los comerciantes buscaron burlar&nbsp;las leyes de la Corona y pudieron trasladar&nbsp;sus productos a otros mercados.&nbsp;</span></p>
+<description><![CDATA[<p><span style="font-size:20px">Espa&ntilde;a estableci&oacute; el <strong>monopolio comercial</strong> con&nbsp;el fin de:</span></p>
+
+<ul>
+	<li><span style="font-size:20px">Controlar por completo el comercio entre Espa&ntilde;a y la Nueva Granada.</span></li>
+	<li><span style="font-size:20px">Fijar&nbsp;los precios de los productos.</span></li>
+	<li><span style="font-size:20px">Prohibir&nbsp;a los espa&ntilde;oles y criollos el libre comercio.</span></li>
+	<li><span style="font-size:20px">Favorecer exclusivamente el enriquecimiento de la Corona.</span></li>
+</ul>
+
+<p><span style="font-size:20px">El&nbsp;monopolio comercial favoreci&oacute; el&nbsp;<strong>contrabando</strong>.<strong>&nbsp;</strong></span></p>
 ]]></description>
 <images>
 <image path="CS_07_06_REC60_IMG18n.jpg" border = "0" pathbig="CS_07_06_REC60_IMG18a.jpg">
-<title><![CDATA[etalle de Muelles del puerto de Marsella con mercancías depositadas, 1754, obra de Claude Josep Vernet (Museo de la Marina, París, Francia)]]></title>
+<title><![CDATA[Detalle de Muelles del puerto de Marsella con mercancías depositadas, 1754, obra de Claude Josep Vernet (Museo de la Marina, París, Francia)]]></title>
 </image>
 </images>
 </page>
 <page i="0" visible="true" color="">
 <title>Los impuestos</title>
 <description><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif">La&nbsp;<strong>Casa de Contrataci&oacute;n de Sevilla</strong>&nbsp;fue la encargada<br />
-de administrar los impuestos coloniales, inicialmente<br />
-el&nbsp;<strong>Quinto real</strong>, derivados de las actividades econ&oacute;micas, fundamentalmente del comercio, a fin de enriquecer las arcas de la Corona espa&ntilde;ola. Estos se recaudaban en la Nueva Granada a trav&eacute;s de la <strong>Real Hacienda</strong>.</span></p>
+de administrar los impuestos coloniales destinados al enriquecimiento&nbsp;de la Corona espa&ntilde;ola. Estos se recaudaban en la Nueva Granada a trav&eacute;s de la <strong>Real Hacienda</strong>.</span></p>
 
-<div><span style="font-family:verdana,geneva,sans-serif">Algunos de los impuestos que se aplicaron a cada una de las actividades econ&oacute;micas de la colonia fueron:</span></div>
+<div><span style="font-family:verdana,geneva,sans-serif">Algunos&nbsp;impuestos cobrados por la Corona fueron:</span></div>
 
 <ul>
 	<li><span style="font-family:verdana,geneva,sans-serif">La alcabala</span></li>
