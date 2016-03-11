@@ -2,6 +2,7 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_08_10_CO">
 <libroTitulo>Regiones biogeográficas del mundo</libroTitulo>
 <seccion1 id="S1_CS_08_10_CO_737B24BFE55A4061AE83DCD1A366DC80">
@@ -194,28 +195,28 @@ sabanas y desiertos.</listaElemento>
 <p><negrita>Biomas acuáticos</negrita>. Ecosistemas que se desarrollan
 bajo condiciones abióticas, como la salinidad, la profundidad y el
 movimiento del agua. Se reconocen dos grandes biomas: </p>
+<p><cursiva>Los biomas de agua dulce</cursiva>. Su biota está determinada
+por el <negrita>volumen</negrita> y la <negrita>velocidad</negrita
+> del movimiento del agua. Se divide en dos: </p>
 <listaSinNumerar>
-<listaElemento><cursiva>Los biomas de agua dulce</cursiva>. Su biota
-está determinada por el <negrita>volumen</negrita> y la <negrita>velocidad</negrita
-> del movimiento del agua. Se divide en dos: <listaSinNumerar>
 <listaElemento>Los <negrita>lénticos</negrita>, es decir, de poco
 movimiento, como lagos, lagunas, humedales.</listaElemento>
 <listaElemento>Los <negrita>lóticos</negrita>, son corrientes dadas
 por la pendiente del terreno, que incluye torrentes y ríos.</listaElemento>
-</listaSinNumerar><?Pub Caret -1?></listaElemento>
-<listaElemento><cursiva>Los biomas marinos</cursiva>. Son mares y
-océanos caracterizados por las corrientes promovidas por los vientos
-(oleaje), la temperatura y la salinidad. Se diferencian en tres ecosistemas: <listaSinNumerar>
+</listaSinNumerar>
+<p><cursiva>Los biomas marinos</cursiva>. Son mares y océanos caracterizados
+por las corrientes promovidas por los vientos (oleaje), la temperatura
+y la salinidad. Se diferencian en tres ecosistemas:</p>
+<listaSinNumerar>
 <listaElemento>El litoral, cercanos a las costas.</listaElemento>
 <listaElemento>Los bentónicos, corresponde a los fondos marinos.</listaElemento>
 <listaElemento>Los pelágicos, o mar abierto.</listaElemento>
-</listaSinNumerar></listaElemento>
 </listaSinNumerar>
 <p>Muchos de los lugares más ricos en biodiversidad en la Tierra son
 también aquellos en los que tanto personas como ecosistemas son los
 más <negrita>vulnerables</negrita> al cambio climático. La <negrita
 >adaptación climática</negrita> es un proceso que ayuda a las comunidades
-y los ecosistemas a enfrentar el cambio climático.</p>
+y los ecosistemas a enfrentar el cambio climático.</p><?Pub Caret -2?>
 <destacado><destacadoTitulo>Biomas y cambio climático</destacadoTitulo>
 <destacadoTexto>
 <p>La pérdida continua de la biodiversidad es una preocupación fundamental
@@ -463,23 +464,24 @@ destino="http://ocw.unican.es/ciencias-sociales-y-juridicas/biogeografia/materia
 <listaElemento>El australiano, el oceánico y el antártico</listaElemento>
 </listaSinNumerar>
 <p>Cada uno de estos reinos agrupa varias regiones biogeográficas:</p>
-<listaNumerada>
-<listaElemento>El reino holártico<listaSinNumerar>
+<p>1. El reino holártico</p>
+<listaSinNumerar>
 <listaElemento>Región paleártica</listaElemento>
 <listaElemento>Región neártica</listaElemento>
-</listaSinNumerar></listaElemento>
-<listaElemento>El reino paleotrópico<listaSinNumerar>
+</listaSinNumerar>
+<p>2. El reino paleotrópico</p>
+<listaSinNumerar>
 <listaElemento>Región afrotropical, con dos subregiones: África subsahariana
 y Madagascar</listaElemento>
 <listaElemento>Región indomalaya</listaElemento>
 <listaElemento>Región neotropical</listaElemento>
-</listaSinNumerar></listaElemento>
-<listaElemento>Los reinos australiano, oceánico y antártico<listaSinNumerar>
+</listaSinNumerar>
+<p>3. Los reinos australiano, oceánico y antártico</p>
+<listaSinNumerar>
 <listaElemento>Región australasia</listaElemento>
 <listaElemento>Región oceánica</listaElemento>
 <listaElemento>Región antártica</listaElemento>
-</listaSinNumerar></listaElemento>
-</listaNumerada>
+</listaSinNumerar>
 <imagen src="CS_08_10_CO_IMG08_small.jpg">
 <p>Cada reino agrupa distintas regiones. Las regiones paleártica y
 neártica pertenecen al reino holártico. Las regiones afrotropical,
