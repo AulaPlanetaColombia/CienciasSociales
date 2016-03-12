@@ -3,7 +3,7 @@
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_09_12_CO">
-<libroTitulo>Las ciudades y el urbanismo</libroTitulo>
+<libroTitulo>Las ciudades y el urbanismo</libroTitulo><?Pub Caret -3?>
 <seccion1 id="S1_CS_09_12_CO_CFCF0F5B0F68434F9509D123DF3476FA">
 <seccion1Titulo>¿Qué es una ciudad?</seccion1Titulo>
 <seccion1Texto>
@@ -18,12 +18,9 @@ planeta.</p>
 >elevado número de habitantes</negrita> y su <negrita>alta densidad
 de población</negrita>, así como por sus <negrita>edificios</negrita
 > e <negrita>infraestructuras de comunicaciones</negrita>, y en el
-que predominan las actividades propias del <negrita>sector secundario</negrita
->. En la actualidad, la mayor parte de la población mundial vive en
-ciudades<enlace
-destino="http://aulaplaneta.planetasaber.com/AulaSaberHA/ficha.aspx?ficha=13673"
-> [VER]</enlace> y terciario<enlace
-destino="http://aulaplaneta.planetasaber.com/AulaSaberHA/ficha.aspx?ficha=13703"
+que predominan las actividades propias del <negrita>sector secundario
+y terciario</negrita><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=8&amp;idpil=000LJZ01&amp;ruta=Buscador"
 > [VER]</enlace>.</p>
 <imagen src="CS_09_12_CO_IMG01_small.jpg">
 <p><negrita>Nueva York</negrita> es una de las más grandes ciudades
@@ -450,8 +447,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso160&amp;IdRecurso=RES-B2AE8D
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso170&amp;IdRecurso=RES-8152ADB634C848B280FE1BC1757F7157"
->Competencias: comentario e interpretación de un plano urbano</enlace><?Pub
-Caret -2?>
+>Competencias: comentario e interpretación de un plano urbano</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso180&amp;IdRecurso=RES-87837F58B863427E80EDCB3E19879834"
 >Proyecto: análisis de la relación entre plano y problemas urbanos</enlace>
@@ -464,5 +460,11 @@ destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso200&amp;IdRecurso=RES-85FCC7
 destino="/LoIdRedirect.aspx?LoId=CS_09_12_CO_Recurso210&amp;IdRecurso=RES-BD9103ECB6A345E2B8898E9617183382"
 >Evalúa tus conocimientos sobre el tema Las ciudades y el urbanismo</enlace>
 </autoevaluate><enlacesreferencia>
-<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+<enlace destino="https://populationpyramid.net/es/mundo/2015/">Sitio
+web para consultar pirámides de población.</enlace>
+<enlace destino="http://www.unfpa.org.co/">Fondo de Población de las
+Naciones Unidas (UNFPA).</enlace>
+<enlace
+destino="http://www.cepal.org/es/estimaciones-proyecciones-poblacion-largo-plazo-1950-2100"
+>Cepal - Estimaciones y proyecciones de población a largo plazo 1950-2100.</enlace>
 </enlacesreferencia></masinformacion></libro>
