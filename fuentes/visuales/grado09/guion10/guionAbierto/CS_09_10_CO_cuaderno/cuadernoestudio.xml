@@ -131,8 +131,7 @@ que nos indica la cantidad de nacidos al año, por cada 1000 habitantes.</p>
 <p>Por ejemplo: en una localidad viven 1500 personas y en el año han
 nacido 20 niños. Si queremos calcular cuál ha sido la tasa bruta de
 natalidad, tendremos que hacer la siguiente operación:</p>
-<p><negrita>(20 / 1500) • 1000 = 0,013 • 1000 = 13,3 %</negrita></p><?Pub
-Caret 43?>
+<p><negrita>(20 / 1500) • 1000 = 0,013 • 1000 = 13,3 %</negrita></p>
 <p>Según este resultado, la <negrita>tasa bruta de natalidad</negrita
 > ha sido de 13,3 nacimientos por cada 1000 habitantes.</p>
 </destacadoTexto></destacado>
@@ -142,7 +141,7 @@ ricos) suelen presentar una <negrita>baja tasa de natalidad</negrita
 <listaSinNumerar>
 <listaElemento>Se tiene el primer hijo a una edad más avanzada.</listaElemento>
 <listaElemento>Hay una tendencia a tener menos hijos.</listaElemento>
-<listaElemento>El alto coste de la vida.</listaElemento>
+<listaElemento>El alto costo de la vida.</listaElemento>
 </listaSinNumerar>
 <p>En los <negrita>países poco desarrollados</negrita> (países pobres),
 en cambio, se da una <negrita>alta tasa de natalidad</negrita>, lo
@@ -222,11 +221,7 @@ de muchos lugares se concentra en zonas pobladas desde la Antigüedad
 tiende a concentrarse en lugares donde abundan los recursos naturales
 y zonas urbanas con industrias y servicios.</listaElemento>
 </listaSinNumerar>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_10_CO_Recurso050&amp;IdRecurso=RES-CADB0219458C455CA0637204AD7A0E46"
->Identifica la distribución de la población mundial</enlace>
-</practica><profundiza>
+<profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_10_CO_Recurso060&amp;IdRecurso=RES-49D5ECFD89754223802CA048A73AC23B"
 >La población del mundo</enlace>
@@ -302,7 +297,8 @@ destino="/LoIdRedirect.aspx?LoId=CS_09_10_CO_Recurso090&amp;IdRecurso=RES-3BC8A3
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_10_CO_Recurso100&amp;IdRecurso=RES-80BEFE4CF19044CF8BBDBCD31985AEC0"
->Refuerza tu aprendizaje: Las estructuras de la población</enlace>
+>Refuerza tu aprendizaje: La distribución de la población mundial</enlace><?Pub
+Caret -2?>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_09_10_CO_41ED37F3CEB34679937573EF9215030D">
 <seccion1Titulo>Los movimientos migratorios</seccion1Titulo>
