@@ -288,7 +288,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_09_10_CO_Recurso080&amp;IdRecurso=RES-F4C138
 </profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_10_CO_Recurso090&amp;IdRecurso=RES-3BC8A364244E4755B07F4667D6FFC43F"
->Interpreta pirámides de población</enlace>
+>Interpreta pirámides de población</enlace><?Pub Caret -2?>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_CS_09_10_CO_1B7A6351C33641918F80237A041C0053">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -297,8 +297,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_09_10_CO_Recurso090&amp;IdRecurso=RES-3BC8A3
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_09_10_CO_Recurso100&amp;IdRecurso=RES-80BEFE4CF19044CF8BBDBCD31985AEC0"
->Refuerza tu aprendizaje: La distribución de la población mundial</enlace><?Pub
-Caret -2?>
+>Refuerza tu aprendizaje: La distribución de la población mundial</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_09_10_CO_41ED37F3CEB34679937573EF9215030D">
 <seccion1Titulo>Los movimientos migratorios</seccion1Titulo>
