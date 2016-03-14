@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<libro id="CS_06_12_CO">
+  <libroTitulo>Las normas en las primeras sociedades</libroTitulo>
+  <seccion1 id="S1_CS_06_12_CO_F25DD115C7F84628A743C21175A6FC58">
+    <seccion1Titulo>Las normas y la vida social</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_06_12_CO_img_01_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso010&amp;IdRecurso=RES-C8FD8850FC664587854B67BB2B52B970">Recurso F4-01</enlace>
+      </profundiza>
+      <seccion2 id="S2_CS_06_12_CO_03B0BF96E2C948058E89DF76AB8446F1">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_12_CO_img_02_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso020&amp;IdRecurso=RES-CD47EEAD43A74279849FAE73E4990578">Recurso M101A-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_12_CO_3FCDD5F73FE64BF6B3FB3C4BB1F7A60A">
+    <seccion1Titulo>Clases de normas</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CS_06_12_CO_D3B64350BFB64D67A5531AD8A2D933AB">
+        <seccion2Titulo>Las normas religiosas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_12_CO_img_03_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso030&amp;IdRecurso=RES-8B6672959DB64B2C8A49272D922379C9">Recurso M5D-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_12_CO_A2E84D811C8B48BEA1AD5849BB1E36CB">
+        <seccion2Titulo>Las normas sociales</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_12_CO_img_04_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso040&amp;IdRecurso=RES-55F37C92BC7843DDB45B5832C6938E09">Video como media principal - 01</enlace>
+          </profundiza>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_12_CO_55BE49F3AE6E4FD7AF19E4543D340E24">
+        <seccion2Titulo>Las normas jurídicas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_12_CO_img_05_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso050&amp;IdRecurso=RES-22D082AD817A4FB79FBD867710E5BB48">Video como media principal - 02</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_12_CO_img_06_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso060&amp;IdRecurso=RES-D4F34316B4FA4621AE6A157829A31ED7">Recurso M101A-02</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_12_CO_F6B79E8BF1D040AC916136C9330A74EC">
+    <seccion1Titulo>Normas en la Edad Antigua</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CS_06_12_CO_B1944BB691BA4D2999D5E115FD5D3D80">
+        <seccion2Titulo>Normas en la Antigua Mesopotamia</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_12_CO_img_07_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_12_CO_EB66B8534E474AD0BE7279AA334116D8">
+        <seccion2Titulo>Normas en el Antiguo Egipto</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_12_CO_img_08_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso030&amp;IdRecurso=RES-8B6672959DB64B2C8A49272D922379C9">Recurso M5D-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_12_CO_E4247BDF5D224B368D25F9C3772A2D06">
+        <seccion2Titulo>Normas en la Antigua China</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_12_CO_img_09_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso090&amp;IdRecurso=RES-6325A4D0DC964A66A964F28D8E6CB666">Recurso M2A-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_12_CO_02AA495202F041598FEE50A484DC0F73">
+        <seccion2Titulo>Normas en la Antigua Grecia</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_12_CO_img_10_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso100&amp;IdRecurso=RES-66B6CAFF304144E5A25509AB888C9652">Recurso M1C-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_06_12_CO_40376246785C4BDB96E4C5609F85F324">
+        <seccion2Titulo>Normas en la Antigua Roma</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_12_CO_img_11_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_12_CO_img_12_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso120&amp;IdRecurso=RES-24679754727C4C2F9B593ED08BCD56F4">Recurso M101A-03</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_06_12_CO_img_15_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso110&amp;IdRecurso=RES-A692BEC79AD146FAB5DC3049FB1F36FF">Recurso F10-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_12_CO_C7A1E2D7DFD94F55A3ED515568D7C1CF">
+    <seccion1Titulo>Normas en América precolombina</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_06_12_CO_img_13_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso130&amp;IdRecurso=RES-AB8396F3F08243198804FFFD4AFB0B3A">Recurso F8-01</enlace>
+      </profundiza>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_06_12_CO_img_14_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_06_12_CO_589DBEB891324298BFD6EB0114AC209C">
+    <seccion1Titulo>Competencias</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_06_12_CO_img_16_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso160&amp;IdRecurso=RES-DC4AA1A1BF9F4354B48BCB8EB0029C5F">Recurso M101A-04</enlace>
+      </practica>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_06_12_CO_img_17_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso170&amp;IdRecurso=RES-F300ADD9913F404CA785E222823A7D59">Recurso F13-01</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <masinformacion id="MI_CS_06_12_CO_630C54B73878423E89D2192AF09E932B">
+    <mapaconceptual>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso190&amp;IdRecurso=RES-F622A6AC59B34F46A4A8127F7E6297CB">Mapa Conceptual</enlace>
+    </mapaconceptual>
+    <autoevaluate>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso200&amp;IdRecurso=RES-98711768F3A6477CAAED51B66F3621C0">Evaluación</enlace>
+    </autoevaluate>
+    <enlacesreferencia>
+      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+    </enlacesreferencia>
+  </masinformacion>
+</libro>

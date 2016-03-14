@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<libro id="CS_08_12_CO">
+  <libroTitulo>La democracia</libroTitulo>
+  <seccion1 id="S1_CS_08_12_CO_8E178A7022E44393BF19E893C6A9FDE2">
+    <seccion1Titulo>El gobierno</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CS_08_12_CO_5496D3EDED084431A8961B1A8C00FE0B">
+        <seccion2Titulo>El sentido del gobierno</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_08_12_CO_img_01_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_08_12_CO_DD3C029A4B384AC0BD9B05F02E5F0A4F">
+        <seccion2Titulo>Las formas de gobierno</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_08_12_CO_img_02_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso010&amp;IdRecurso=RES-F200E32AB02749EA8CD76751EFBF379C">Recurso F6-01</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_08_12_CO_img_03_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_08_12_CO_0CFAD2E62B0F43BC80262C0E8607B7E3">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_08_12_CO_img_04_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso030&amp;IdRecurso=RES-0AD9E7871C6B4CB0ADA4248E45B0364E">Recurso M101A-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_08_12_CO_9C99735BC5D84E0FA41736CC39B50010">
+    <seccion1Titulo>El gobierno democrático</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_08_12_CO_img_05_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso040&amp;IdRecurso=RES-70725D9836D541669BEA80E56EA573A1">Recurso M2B-01</enlace>
+      </practica>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_08_12_CO_img_06_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <seccion2 id="S2_CS_08_12_CO_F9554B8CF1E04FD99B540D7E15ED7AD1">
+        <seccion2Titulo>El surgimiento de la democracia</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_08_12_CO_img_07_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso060&amp;IdRecurso=RES-14918DB6D0334C22AC17DCCE06EF2667">Recurso M12A-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_08_12_CO_DA425AAB2BD34E99AD23D256251C5502">
+        <seccion2Titulo>Los principios de la democracia</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_08_12_CO_img_08_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso070&amp;IdRecurso=RES-F9C63D2D4F014CF79EA8BFAD1C1D55A2">El funcionamiento del Estado democrático</enlace>
+          </profundiza>
+        </seccion2Texto>
+      </seccion2>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_08_12_CO_img_09_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <seccion2 id="S2_CS_08_12_CO_CA9C97916A44441A9AE7434C245715CD">
+        <seccion2Titulo>Los tipos de democracia</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_08_12_CO_img_10_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso090&amp;IdRecurso=RES-61AE70F0C4C34DAD818C397D36D64F05">Recurso M1C-01</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_08_12_CO_img_11_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso100&amp;IdRecurso=RES-298CA7F75248450FBE54BE3ACD4471ED">Refuerza tu aprendizaje: Los fundamentos del Estado democrático</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_08_12_CO_46117B21272E4A8B849C22A1D6E3CA8D">
+    <seccion1Titulo>La participación ciudadana</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_08_12_CO_img_12_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso110&amp;IdRecurso=RES-72A71C56AEF840D29DC39C556A09E234">Recurso F10B-01</enlace>
+      </practica>
+      <seccion2 id="S2_CS_08_12_CO_CCA0459509A54F35BB071B165D195D7C">
+        <seccion2Titulo>Los elementos y valores para la participación ciudadana</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_08_12_CO_img_13_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso120&amp;IdRecurso=RES-35B181961D90435C83D95FD61AE7FF93">Recurso M2C-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_08_12_CO_2355FD508F914550ADC65C22BFA198E8">
+        <seccion2Titulo>Los tipos de participación ciudadana</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_08_12_CO_img_14_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso130&amp;IdRecurso=RES-530E5FBC2F1B437384D0833D9D5D1D7D">Recurso M5A-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_08_12_CO_7923E4CA298C4B6B8904A0B815DF57BA">
+        <seccion2Titulo>La participación ciudadana en Colombia</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CS_08_12_CO_0B3FE70794B941AFB46DB08C84F12ACC">
+            <seccion3Titulo>Los mecanismos de participación ciudadana en Colombia</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CS_08_12_CO_img_15_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <profundiza>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso140&amp;IdRecurso=RES-8DF4AED4888346A0931DB667811E44D6">Recurso F7-01</enlace>
+              </profundiza>
+            </seccion3Texto>
+          </seccion3>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_08_12_CO_img_17_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso160&amp;IdRecurso=RES-D1335F161EFD4D7686B6D86E2A0898DA">Recurso M101A-02</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CS_08_12_CO_img_16_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso150&amp;IdRecurso=RES-349A1745FDC446B1A0A84115EF6DEF73">Recurso M5D-01</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_08_12_CO_538164F905814EC6AED58E5740AA3C6F">
+    <seccion1Titulo>Competencias</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CS_08_12_CO_0F4D83EC875B4AAEBDFD61860EB1F807">
+        <seccion2Titulo>Competenecias</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_08_12_CO_img_18_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso170&amp;IdRecurso=RES-F0338307762945A493E5DC40AB45FD7A">Recurso M102AB-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_08_12_CO_71DB1F1FE5BF41378ACF6B7FCEDDB178">
+        <seccion2Titulo>Proyecto</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CS_08_12_CO_img_19_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso180&amp;IdRecurso=RES-936B3EA0918E4C429A218CDFC83F56D1">Proyecto: investigación sobre la historia de la democracia</enlace>
+          </profundiza>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <masinformacion id="MI_CS_08_12_CO_911B119887124981AE592A8650A1C173">
+    <mapaconceptual>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso200&amp;IdRecurso=RES-37624E02CC9A4781A283BCE197992E09">Mapa Conceptual</enlace>
+    </mapaconceptual>
+    <autoevaluate>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso210&amp;IdRecurso=RES-C1E6DBA730B046E786036B224B08E46A">Evaluación</enlace>
+    </autoevaluate>
+    <enlacesreferencia>
+      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+    </enlacesreferencia>
+  </masinformacion>
+</libro>

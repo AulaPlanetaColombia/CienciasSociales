@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f8">
+<main title="Un recorrido por el paisaje de América" bkColor="#FFFFFF" titleColor="#000000" theme="black" buttonsWidth="220" buttonsHeight="42" trans="">
+<default>
+<img path="CS_07_08_REC10_IMG01.jpg" x="300" y="100" width="" height=""/>
+</default><buttons>
+<button title="La tundra polar">
+<img path="CS_07_08_REC10_IMG02.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Los bosques de coníferas">
+<img path="CS_07_08_REC10_IMG03.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Las praderas estadounidenses">
+<img path="CS_07_08_REC10_IMG04.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Los volcanes de Centroamérica">
+<img path="CS_07_08_REC10_IMG05.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Las llanuras venezolanas">
+<img path="CS_07_08_REC10_IMG06.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="La selva amazónica">
+<img path="CS_07_08_REC10_IMG07.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="El desierto de Atacama">
+<img path="CS_07_08_REC10_IMG08.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Hielos continentales">
+<img path="CS_07_08_REC10_IMG09.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+</buttons>
+</main>
+<practica actividad="m2b.zip" boton="Practica" boton2="">
+</practica></engine>

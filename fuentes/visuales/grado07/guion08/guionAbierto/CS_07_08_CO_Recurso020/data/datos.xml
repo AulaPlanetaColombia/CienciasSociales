@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f1">
+<css><![CDATA[.defaultCSSBox2 {
+	background: #000000;
+}
+.defaultCSSBox3 {
+	background: #ffffff;
+}]]></css>
+<pantallas>
+<pantalla id="pantalla_5">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compSlider' id='diaporama_12' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' transMode='1' />
+<component _type='_compSliderNav' id='slidernav_11' x='45' y='526' width='162' height='37' alpha='1' visible='1' enabled='1' sliderId='diaporama_12' showHome='1' whiteButtons='1' mode='1' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+<slider id="diaporama_12">
+<pantalla id="pantalla_14">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_19' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='6' y='244' width='938' height='162' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:50px"><span style="font-family:georgia,serif">El relieve de América</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_19">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_19' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='19' y='245' width='911' height='117' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:50px">América del Norte</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_19">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_19' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compImage' id='image_23' x='189' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25090.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_24">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25136.png' />
+<component _type='_compImage' id='image_28' x='646' y='317' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/3.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":246,"easing":"Linear.EaseNone"},{"time":0.965,"value":646,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":17,"easing":"Linear.EaseNone"},{"time":0.965,"value":317,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_29">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='182' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25194.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='708' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">Las&nbsp;cataratas del Ni&aacute;gara</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='113' y='106' width='768' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Situadas entre Estados Unidos y Canad&aacute;, al sur del lago Ontario.<br />
+Se dividen en la catarata canadiense y la catarata americana.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compCSSBox' id='fondo_19' x='261' y='500' width='619' height='44' alpha='0.3' visible='0' enabled='0' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_21' x='165' y='492' width='705' height='85' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">¿Sabes cuál es la altura de las cataratas del Niágara?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_33">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25136.png' />
+<component _type='_compImage' id='image_28' x='321' y='249' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/4.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":621,"easing":"Linear.EaseNone"},{"time":1,"value":321,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":549,"easing":"Linear.EaseNone"},{"time":1,"value":249,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_37">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='182' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25298.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='708' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">Las monta&ntilde;as Rocosas</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='110' y='106' width='768' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Se extienden entre Alaska y M&eacute;xico.<br />
+El monte Elbert, con sus 4399 m, es su cumbre m&aacute;s alta.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='165' y='492' width='705' height='85' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">¿Sabes cuál es la longitud de la cordillera?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_41">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25136.png' />
+<component _type='_compImage' id='image_28' x='330' y='417' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/1.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":730,"easing":"Linear.EaseNone"},{"time":0.995,"value":330,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":117,"easing":"Linear.EaseNone"},{"time":0.995,"value":417,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_45">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='182' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25402.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='708' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">La meseta&nbsp;del Colorado</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='113' y='106' width='768' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Se extienden sobre un territorio en el que la erosi&oacute;n de areniscas rojizas ha producido&nbsp;formas muy peculiares, como el Monument Valley.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='136' y='492' width='734' height='85' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">¿Sabes qué pueblo indígena es originario de esta zona?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_49">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25136.png' />
+<component _type='_compImage' id='image_28' x='261' y='467' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/1.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":561,"easing":"Linear.EaseNone"},{"time":0.98,"value":261,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":267,"easing":"Linear.EaseNone"},{"time":0.98,"value":467,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_53">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='182' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25506.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='385' y='500' width='495' height='44' alpha='0.2' visible='0' enabled='0' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='708' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">El desierto de Sonora</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='114' y='106' width='768' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Por su extensi&oacute;n, superior a 300&nbsp;000 km&sup2;, es uno de los desiertos m&aacute;s grandes del planeta. </span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='373' y='483' width='497' height='85' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><span style="color:#FFFFFF"><strong><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Sabes sobre qu&eacute; territorios se extiende?</span></span></strong></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_57">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_19' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='19' y='245' width='911' height='117' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:50px">América Central</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_61">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_19' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compImage' id='image_23' x='0' y='17' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25603.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_65">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25649.png' />
+<component _type='_compImage' id='image_28' x='641' y='313' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/3.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":146,"easing":"Linear.EaseNone"},{"time":1.01,"value":646,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":-117,"easing":"Linear.EaseNone"},{"time":1.01,"value":317,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_69">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='182' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25704.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='708' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">Las Antillas</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='113' y='106' width='768' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Se dividen en dos grandes grupos: las Grandes Antillas o Antillas Mayores y las Pequeñas Antillas o Antillas Menores.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='136' y='492' width='734' height='85' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">¿Conoces cuál es la cumbre más alta del archipiélago?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_73">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25754.png' />
+<component _type='_compImage' id='image_28' x='300' y='264' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/1.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_77">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='182' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25809.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='708' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">El volc&aacute;n Atitl&aacute;n</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='111' y='106' width='768' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Con sus 3537 m es uno de los volcanes m&aacute;s importantes de la regi&oacute;n.<br />
+Su cr&aacute;ter mide 280 m de di&aacute;metro.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='136' y='492' width='734' height='85' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">¿Sabes cuál es la profundidad de su cráter?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_81">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_19' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='19' y='245' width='911' height='117' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:50px">Am&eacute;rica del Sur</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_85">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_19' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compImage' id='image_23' x='187' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25905.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_89">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25951.png' />
+<component _type='_compImage' id='image_28' x='241' y='230' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/4.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":541,"easing":"Linear.EaseNone"},{"time":0.985,"value":241,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":530,"easing":"Linear.EaseNone"},{"time":0.985,"value":230,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_93">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='182' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_26006.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='708' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">El Chimborazo</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='113' y='106' width='820' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Con sus 6272 m es la cumbre m&aacute;s alta de Ecuador.<br />
+Su amplia cima est&aacute; cubierta por un casquete glaciar del que parten 16 brazos. </span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='136' y='492' width='734' height='85' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">¿Sabes quién lo ascendió por primera vez?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_97">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25951.png' />
+<component _type='_compImage' id='image_28' x='415' y='136' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/2.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":115,"easing":"Linear.EaseNone"},{"time":1,"value":415,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":436,"easing":"Linear.EaseNone"},{"time":1,"value":136,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_101">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='182' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_26110.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='708' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">El macizo de las Guayanas</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='113' y='106' width='820' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Los tepuis son formaciones sedimentarias con altas paredes verticales<br>
+y cataratas de gran altitud.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='136' y='492' width='734' height='85' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">¿Sabes cuál es su catarata más famosa?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_105">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25951.png' />
+<component _type='_compImage' id='image_28' x='347' y='388' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/1.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":647,"easing":"Linear.EaseNone"},{"time":1.01,"value":347,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":188,"easing":"Linear.EaseNone"},{"time":1.015,"value":388,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_109">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='182' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_26214.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='708' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">La cordillera de Ausangate</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='113' y='106' width='820' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Es una estribaci&oacute;n de la cordillera de Carabaya.<br />
+El Ausangate, con 6384 m, es su cumbre m&aacute;s alta.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='136' y='492' width='734' height='85' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">¿Por qué es importante para los quechuas?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_113">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_26263.png' />
+<component _type='_compImage' id='image_28' x='328' y='179' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/1.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":628,"easing":"Linear.EaseNone"},{"time":0.995,"value":328,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":-79,"easing":"Linear.EaseNone"},{"time":0.99,"value":179,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_117">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='182' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_26318.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='708' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">El desierto de Atacama</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='113' y='106' width='820' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Se extiende de norte a sur a lo largo de 1100 km.<br />
+Destaca el salar de Atacama, un dep&oacute;sito de litio, potasio y b&oacute;rax.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='136' y='492' width='734' height='85' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">¿Sabes cuánto ocupa el salar de Atacama?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_121">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_26368.png' />
+<component _type='_compImage' id='image_28' x='447' y='288' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/1.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":747,"easing":"Linear.EaseNone"},{"time":1,"value":447,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":88,"easing":"Linear.EaseNone"},{"time":1,"value":288,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_125">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='-1' y='181' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_27997.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='708' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">La pampa argentina</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='113' y='106' width='820' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Situada sobre el macizo continental de Brasilia, es una extensa estepa de tierras f&eacute;rtiles al este y suelos &aacute;ridos al oeste.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compCSSBox' id='fondo_19' x='544' y='500' width='322' height='40' alpha='0.1' visible='0' enabled='0' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_21' x='119' y='490' width='734' height='85' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><span style="color:#FFFFFF"><strong><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Sabes qu&eacute; es un gaucho?</span></span></strong></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+</slider>
+</pantalla>
+</pantallas>
+<popups>
+</popups>
+</engine>

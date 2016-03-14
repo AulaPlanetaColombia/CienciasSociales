@@ -1,0 +1,9 @@
+[module]
+id=m2b
+desc=Motor M2b
+aprid=m2b
+version=1.0
+folder=motor
+entrypoint=principal.html
+dependencies=
+

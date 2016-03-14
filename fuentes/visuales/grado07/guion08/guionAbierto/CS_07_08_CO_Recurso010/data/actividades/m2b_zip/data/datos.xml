@@ -1,0 +1,36 @@
+<motor tipo="2" clase="b" aprid="M2B">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Identifica los elementos característicos del paisaje en América</titulo>
+    <area>2</area>
+    <nivel>2</nivel>
+    <referencia><![CDATA[Q81KI]]></referencia>
+    <idreg><![CDATA[259]]></idreg>
+    <motor><![CDATA[M2B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Lee atentamente el siguiente párrafo y complétalo con las palabras faltantes.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <sonido/>
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[[*] es uno de los contientes con mayor variedad de [*] del mundo según la variedad del clima. Es notorio cómo muchos de estos paisaje se repiten en todo el cotinente. Algunos como las [*] podemos encontrarlas en Norteamérica y en Sudamérica; por ejemplo en Colombia, Venezuela y Argentina, donde se llaman [*].Si bien el [*] es la selva [*] de mayor extensión y [*] del mundo, también hay algunas en [*] que alternan su paisaje con la mayor extensión de [*] en todo el Planeta.En los extremos más al norte y sur encontramos paisajes llanos y abiertos, con una [*] muy escasa, con fríos altísimos y una [*] majestuosa: al norte, osos polares y renos, al sur encontramos [*] y lobos marinos. ]]></pregunta>
+      <respuestas>
+        <respuesta orden="1" correccionSinMayusculas="1" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0"><![CDATA[América]]></respuesta>
+        <respuesta orden="2" correccionSinMayusculas="1" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0"><![CDATA[paisajes]]></respuesta>
+        <respuesta orden="3" correccionSinMayusculas="1" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0"><![CDATA[llanuras]]></respuesta>
+        <respuesta orden="4" correccionSinMayusculas="1" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0"><![CDATA[pampas]]></respuesta>
+        <respuesta orden="5" correccionSinMayusculas="1" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0"><![CDATA[Amazonas]]></respuesta>
+        <respuesta orden="6" correccionSinMayusculas="1" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0"><![CDATA[tropical ]]></respuesta>
+        <respuesta orden="7" correccionSinMayusculas="1" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0"><![CDATA[biodiversidad ]]></respuesta>
+        <respuesta orden="8" correccionSinMayusculas="1" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0"><![CDATA[Centroamérica]]></respuesta>
+        <respuesta orden="9" correccionSinMayusculas="1" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0"><![CDATA[volcanes]]></respuesta>
+        <respuesta orden="10" correccionSinMayusculas="1" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0"><![CDATA[vegetación]]></respuesta>
+        <respuesta orden="11" correccionSinMayusculas="1" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0"><![CDATA[fauna]]></respuesta>
+        <respuesta orden="12" correccionSinMayusculas="1" correccionSinPuntuacion="0" correccionSinPuntuacionFinal="0"><![CDATA[pingüinos]]></respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <textofalso cantidad="0"/>
+</motor>
