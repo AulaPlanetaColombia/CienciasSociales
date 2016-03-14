@@ -2,7 +2,6 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="CS_09_10_CO">
 <libroTitulo>Demografía</libroTitulo>
 <seccion1 id="S1_CS_09_10_CO_157731C4C12449E3A64BF2E51699577D">
@@ -264,19 +263,18 @@ tipos de pirámide.</p>
 <td align="center">CARACTERÍSTICAS</td>
 </tr>
 <tr>
-<td><imagen src="CS_09_10_CO_IMG06.jpg"></imagen></td>
+<td><imagen src="CS_09_10_CO_IMG06_small.jpg"></imagen></td>
 <td><negrita>Forma de parasol</negrita></td>
-<td>- Población joven.<br/><?Pub Caret 0?>- Representativa de países
-en vías de desarrollo.</td>
+<td>- Población joven.<br/>- Representativa de países en vías de desarrollo.</td>
 </tr>
 <tr>
-<td><imagen src="CS_09_10_CO_IMG07.jpg"></imagen></td>
+<td><imagen src="CS_09_10_CO_IMG07_small.jpg"></imagen></td>
 <td><negrita>Forma de urna</negrita></td>
 <td>- Población en proceso de envejecimiento.<br/>- Propia de países
 en vías de desarrollo.</td>
 </tr>
 <tr>
-<td><imagen src="CS_09_10_CO_IMG08.jpg"></imagen></td>
+<td><imagen src="CS_09_10_CO_IMG08_small.jpg"></imagen><?Pub Caret -1?></td>
 <td><negrita>Forma de ojiva</negrita></td>
 <td>- Población envejecida.<br/>- Típica de países desarrollados.</td>
 </tr>
