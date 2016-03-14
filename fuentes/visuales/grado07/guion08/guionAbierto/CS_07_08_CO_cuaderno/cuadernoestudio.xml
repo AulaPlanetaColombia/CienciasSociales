@@ -2,7 +2,6 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="CS_07_08_CO">
 <libroTitulo>Geografía física y humana de América, Oceanía y la Antártida</libroTitulo>
 <seccion1 id="S1_CS_07_08_CO_046CBBA187CE4A7DA2D8434208CA0316">
@@ -154,12 +153,12 @@ insectos, aves y algunos mamíferos como los ratones</td>
 </tr>
 </tbody>
 </table>
-<imagen src="CS_07_08_CO_IMG01_small.jpg">
+<imagen ampliable="no" src="CS_07_08_CO_IMG01_small.jpg">
 <p>Entre las principales unidades del relieve norteamericano se cuentan
 las montañas Rocosas, las Grandes Llanuras, los montes Apalaches y
 el altiplano de México.</p>
 </imagen>
-<imagen src="CS_07_08_CO_IMG02_small.jpg">
+<imagen ampliable="no" src="CS_07_08_CO_IMG02_small.jpg">
 <p>Entre las principales unidades del relieve suramericano se cuentan
 la cordillera de los Andes, el macizo de las Guayanas, la meseta del
 Mato Grosso, la pampa y la Patagonia.</p>
@@ -201,14 +200,15 @@ de la vertiente atlántica en <negrita>América del Sur</negrita> más
 importantes son el <negrita>Amazonas</negrita> (el más caudaloso del
 mundo), el <negrita>Negro</negrita>, el <negrita>Madeira</negrita
 >, el <negrita>São Francisco</negrita>, el <negrita>Paraná</negrita
->, el <negrita>Uruguay</negrita> y el <negrita>Paraguay</negrita>.</listaElemento>
+>, el <negrita>Uruguay</negrita> y el <negrita>Paraguay</negrita>.</listaElemento><?Pub
+Caret 215?>
 </listaSinNumerar>
-<imagen src="CS_07_08_CO_IMG03_small.jpg">
+<imagen ampliable="no" src="CS_07_08_CO_IMG03_small.jpg">
 <p>En <negrita>América</negrita> hay una gran cantidad de ríos caudalosos.
 El Mississippi, por ejemplo, recorre 3778 km (o 5970 km si se considera
 el Missouri-Red Rock). Es el río más largo de América del Norte.</p>
 </imagen>
-<imagen src="CS_07_08_CO_IMG04_small.jpg">
+<imagen ampliable="no" src="CS_07_08_CO_IMG04_small.jpg">
 <p>El Amazonas (6280 km) es el segundo río más largo del mundo, aunque
 es el más caudaloso.</p>
 </imagen>
@@ -248,7 +248,7 @@ costas septentrionales de América y Groenlandia.</listaElemento>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_08_CO_Recurso090&amp;IdRecurso=RES-CA44A3A4C9A84E52ADCDD253A97E99AB"
->Ríos, lagos y mares de América</enlace><?Pub Caret -2?>
+>Ríos, lagos y mares de América</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_08_CO_Recurso100&amp;IdRecurso=RES-0BB7D9065CB3495FAB351C18047D496F"
 >Sitúa los distintos ríos americanos</enlace>
@@ -915,11 +915,6 @@ su centro se encuentra el <negrita>Polo Sur geográfico</negrita>.</p>
 capa de hielo cubre el continente y solo el 2 % del territorio aflora
 a la superficie.</p>
 </imagen>
-<imagen src="CS_07_08_CO_IMG13_small.jpg">
-<p>La Antártida se encuentra ubicada en el Polo Sur y presenta una
-temperatura media de -58 °C, es el continente más frío y seco de la
-Tierra.</p>
-</imagen>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_08_CO_Recurso220&amp;IdRecurso=RES-D1A4DA5C011A47B7BFF5DB55410D4C2A"
@@ -936,6 +931,11 @@ de islas cubiertas por una capa de hielo que alcanza un espesor entre
 >. Destaca la <negrita>península Antártica</negrita> o <negrita>Tierra
 de Graham</negrita> y los <negrita>golfos</negrita> que forman el <negrita
 >mar de Wedell</negrita> y el <negrita>mar de Ross</negrita>.</p>
+<imagen src="CS_07_08_CO_IMG13_small.jpg">
+<p>La Antártida se encuentra ubicada en el Polo Sur y presenta una
+temperatura media de -58 °C, es el continente más frío y seco de la
+Tierra.</p>
+</imagen>
 <seccion3 id="S3_CS_07_08_CO_E07CF220151344D5BC4502748B384676">
 <seccion3Titulo>Relieve</seccion3Titulo>
 <seccion3Texto>
@@ -958,7 +958,7 @@ periferia la temperatura oscila entre los -25 y los 0 °C.</p>
 meses al igual que la noche y el día. Durante el invierno, por las
 bajas temperaturas se produce un mayor congelamiento de las aguas
 y el continente se dobla en tamaño.</p>
-<imagen src="CS_07_08_CO_IMG14_small.jpg">
+<imagen ampliable="no" src="CS_07_08_CO_IMG14_small.jpg">
 <p><negrita>Banquisa de Ross en el mar de Ross</negrita>. Durante
 el invierno, las extremas temperaturas hacen que la superficie del
 mar que rodea al continente de la Antártida se congele y forme una
@@ -1039,11 +1039,11 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_08_CO_Recurso230&amp;IdRecurso=RES-B6E42E
 <p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_08_CO_Recurso240&amp;IdRecurso=RES-2AE24BE6F5894B20BDCEC846A1DC8734"
+destino="/LoIdRedirect.aspx?LoId=CS_07_08_CO_Recurso290&amp;IdRecurso=RES-9F1FEB0999C544D8B72E00E7CA093319"
 >Competencias: análisis de la pirámide de población de un país de
 Oceanía</enlace>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_08_CO_Recurso250&amp;IdRecurso=RES-928E0A51AA714A0B96244D4C6B81CA92"
+destino="/LoIdRedirect.aspx?LoId=CS_07_08_CO_Recurso300&amp;IdRecurso=RES-545936033FBD4836B1D1024D24E92EB9"
 >Proyecto: estudio de la Amazonía</enlace>
 </practica></seccion1Texto></seccion1><masinformacion
 id="MI_CS_07_08_CO_2D6B4F1A0DAA4B378BBA3464CFF8A14E"><mapaconceptual>
