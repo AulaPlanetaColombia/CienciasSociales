@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f8">
+<main title="La diversidad étnica del continente americano" bkColor="#FFFFFF" titleColor="#000000" theme="black" buttonsWidth="220" buttonsHeight="42" trans="">
+<default>
+<img path="CS_07_08_CO_REC120_IMG01.jpg" x="300" y="100" width="" height=""/>
+</default><buttons>
+<button title="Indígenas">
+<img path="CS_07_08_CO_REC120_IMG02.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Afrodescendientes">
+<img path="CS_07_08_CO_REC120_IMG03.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Judíos">
+<img path="CS_07_08_CO_REC120_IMG04.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Mestizos">
+<img path="CS_07_08_CO_REC120_IMG05.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Pardos">
+<img path="CS_07_08_CO_REC120_IMG06.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Orientales">
+<img path="CS_07_08_CO_REC120_IMG07.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Europeos">
+<img path="CS_07_08_CO_REC120_IMG08.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+</buttons>
+</main>
+<masinfo>
+<pantalla1><![CDATA[<p><strong>Problem&aacute;ticas actuales</strong></p>
+
+<ul>
+	<li>Las poblaciones ind&iacute;genas contempor&aacute;neas&nbsp;luchan por conservar sus tradiciones, en medio de los avances y de la modernidad de una sociedad que tiende a&nbsp;olvidarlos.</li>
+	<li>Los esclavos que llegaron a Am&eacute;rica fueron capturados en &Aacute;frica subsahariana y sus descendientes han sido&nbsp;transmisores de&nbsp;cultura, religi&oacute;n, m&uacute;sica y&nbsp;tradiciones africanas que han aportado a lo que es&nbsp;la identidad del&nbsp;latinoamericano.&nbsp;Sin embargo, contin&uacute;a siendo un grupo marginal en muchos de los pa&iacute;ses&nbsp;en los que viven.</li>
+	<li>Hubo dos oleadas migratorias de&nbsp;poblaci&oacute;n jud&iacute;a hacia&nbsp;Am&eacute;rica.&nbsp;La primera&nbsp;proced&iacute;a de la Pen&iacute;nsula Ib&eacute;rica y lleg&oacute;&nbsp;junto con las empresas colonizadoras; la segunda, que proven&iacute;a&nbsp;mayoritariamente de Europa oriental, hu&iacute;a de la persecuci&oacute;n sistem&aacute;tica de la que fue v&iacute;ctima en la Segunda Guerra Mundial.</li>
+</ul>
+
+<p>&nbsp;</p>
+]]></pantalla1>
+<pantalla2><![CDATA[<ul>
+	<li>Mucha&nbsp;de la poblaci&oacute;n latinoamericana es fruto del mestizaje&nbsp;que se ha dado de manera natural desde la llegada de los espa&ntilde;oles en el siglo XV, y a lo largo de los siglos ha continuado en ese proceso de multiculturalismo, no sin reproducir problem&aacute;ticas raciales y&nbsp;xen&oacute;fobas que siguen generando formas de discriminaci&oacute;n.</li>
+	<li>El t&eacute;rmino adecuado para hablar de los descendientes de un padre blanco y otro afroamericano&nbsp;es el&nbsp;vocablo antiguo&nbsp;&ldquo;pardo&rdquo;, no mulato, puesto que el origen de este sustantivo hace referencia a la &ldquo;mula&rdquo;. Nominar a una persona con cierto tipo de nombres o calificarla con adjetivos peyorativos&nbsp;son, hist&oacute;ricamente, formas frecuentes de discriminar y marginar a poblaciones que son distintas a una mayor&iacute;a o a una minor&iacute;a con poder.</li>
+	<li>Entre 1868 y 1912, Jap&oacute;n viv&iacute;a un proceso de modernizaci&oacute;n que provoc&oacute; grandes cambios, entre ellos una reforma agraria, un aumento importante de los impuestos por la tenencia de la tierra que llev&oacute; a que muchas familias las perdieran. Por otro lado, los cambios tecnol&oacute;gicos vinculados con la agricultura, hicieron que muchos peque&ntilde;os agricultores no pudieran competir con los grandes productores. Una cosa y otra llev&oacute; a la quiebra de muchos y a la falta de trabajo. Los jornaleros y antiguos due&ntilde;os de tierras comenzaron a migrar hacia Europa, Norteam&eacute;rica y Suram&eacute;rica.</li>
+</ul>
+]]></pantalla2>
+</masinfo>
+</engine>
