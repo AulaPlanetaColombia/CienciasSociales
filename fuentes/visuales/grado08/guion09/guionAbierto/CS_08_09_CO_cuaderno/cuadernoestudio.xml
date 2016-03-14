@@ -119,8 +119,8 @@ municipio de Armero (Tolima). La fuerza de la <negrita>avalancha</negrita
 destino="http://www.eltiempo.com/colombia/otras-ciudades/30-anos-despues-de-la-tragedia-en-armero/16424492"
 > [VER]</enlace>.</p>
 </imagen>
-<p>Asimismo, los <negrita>riesgos climáticos</negrita> son aquellos
-que se relacionan con la atmósfera:</p>
+<p>Los <negrita>riesgos climáticos</negrita> son aquellos que se relacionan
+con la atmósfera:</p>
 <listaSinNumerar>
 <listaElemento>Los <negrita>huracanes</negrita>, <negrita>tifones</negrita
 > y <negrita>ciclones</negrita>: hacen referencia al mismo fenómeno,
@@ -290,9 +290,9 @@ disolventes, etc.</listaElemento>
 <listaElemento>El <negrita>gas natural</negrita>: compuesto de gases
 que suele encontrarse en yacimientos de petróleo. Se usa, por ejemplo,
 para hacer funcionar las calderas domésticas.</listaElemento>
-<listaElemento>El <negrita>carbón</negrita>: elemento sólido (puede
-ser fósil o artificial), de color negro o marrón, ligero y utilizado
-como combustible.</listaElemento>
+<listaElemento>El <negrita>carbón</negrita>: elemento sólido, de color
+negro o marrón, utilizado como combustible. Si es de origen vegetal,
+es madera quemada; si es de origen mineral, son antiguos fósiles solidificados.</listaElemento>
 </listaSinNumerar>
 <destacado><destacadoTitulo>El petróleo: fuente de energía</destacadoTitulo>
 <destacadoTexto>
@@ -332,8 +332,8 @@ los países ricos en estos productos no se beneficien de ello.</listaElemento>
 los recursos naturales y energéticos es la causa de multitud de guerras
 y conflictos sociales en los países en los que se extraen.</listaElemento>
 <listaElemento>Un <negrita>aumento de la contaminación</negrita>:
-la cantidad de CO<superindice>2</superindice> que los combustibles
-fósiles generan es la causa, entre otros fenómenos, del efecto invernadero
+la cantidad de CO<subindice>2</subindice> que los combustibles fósiles
+generan es la causa, entre otros fenómenos, del efecto invernadero
 y del cambio climático.</listaElemento>
 </listaSinNumerar>
 <p>Desde la década de 1970, se ha ido generando entre la sociedad
@@ -344,11 +344,11 @@ la Tierra</negrita>. Esta sirvió para hacer un pacto entre países
 ricos y pobres. Los primeros debían reducir tanto el consumo de recursos
 como la generación de residuos. Los segundos se comprometían a proteger
 sus ecosistemas.</p>
-<p>Debido a ello, ese mismo año se firmó el <negrita>protocolo de
-Kyoto</negrita>. Este estableció las emisiones máximas de CO<superindice
->2</superindice> por país para combatir el <negrita>cambio climático</negrita
->, aunque la realidad es que la mayoría de países no lo están cumpliendo.
-Conoce algunos de los acuerdos y convenios más importantes<enlace
+<p>Debido a ello, en 1997 se firmó el <negrita>protocolo de Kyoto</negrita
+>. Este estableció las emisiones máximas de CO<subindice>2</subindice
+> por país para combatir el <negrita>cambio climático</negrita>, aunque
+la realidad es que la mayoría de países no lo están cumpliendo. Conoce
+algunos de los acuerdos y convenios más importantes<enlace
 destino="http://centroandinodeintegracion.org/protocolos-medio-ambiente/"
 > [VER]</enlace>.</p>
 <destacado><destacadoTitulo>El COP21</destacadoTitulo><destacadoTexto>
@@ -401,6 +401,10 @@ es un recurso que se puede regenerar si no se consume de manera muy
 acelerada. Por ejemplo, la caza indiscriminada de animales silvestres
 como el cocodrilo para la obtención de la piel lo han llevado al borde
 de la extinción.</listaElemento>
+<listaElemento>El <negrita>calor</negrita>: proveniente de núcleo
+de la Tierra, es emanado por volcanes, aguas termales, fumarolas y
+géiseres. Es la fuente para la energía <negrita>geotérmica</negrita
+>.</listaElemento>
 </listaSinNumerar>
 <recuerda><recuerdaTexto>
 <p>El <negrita>agua</negrita> es un recurso renovable aunque escaso,
@@ -498,9 +502,9 @@ orgánicos, como el estiércol, restos vegetales o fangos de depuradoras,
 entre otras materias.</p>
 </imagen>
 <p>Si los humanos quieren seguir habitando el planeta durante muchos
-años, debe preservar el medio ambiente y hacer uso racional de los
-recursos naturales. La actitud diaria debe ir enfocada a cuidar la
-Tierra, ya que, en caso contrario, nos autodestruiremos.</p>
+años, se debe preservar el medio ambiente y hacer uso racional de
+los recursos naturales. La actitud diaria debe ir enfocada a cuidar
+la Tierra, ya que, en caso contrario, nos autodestruiremos.</p>
 <imagen src="CS_08_09_CO_IMG14_small.jpg">
 <p>Es importante fomentar el desarrollo sostenible utilizando energías
 renovables, moderando el consumo o reciclando, entre otras muchas
@@ -540,21 +544,15 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_09_CO_Recurso250&amp;IdRecurso=RES-291811
 destino="/LoIdRedirect.aspx?LoId=CS_08_09_CO_Recurso240&amp;IdRecurso=RES-010F260022474CDCB8645515AF234D29"
 >Evalúa tus conocimientos sobre el tema Los ecosistemas y el medio
 ambiente</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://cambioclimaticoglobal.com/">El cambio climático
+en el mundo.</enlace>
+<enlace destino="http://www.greenpeace.org/colombia/es/">Greenpeace
+Colombia.</enlace>
 <enlace
-destino="http://www.elmundo.es/elmundo/2002/graficos/ago/s4/elnino.html"
->Un “niño malo”: el fenómeno del ENSO, interactivo sobre este fenómeno
-climático ofrecido por el diario El Mundo.</enlace>
-<enlace
-destino="http://www.wwf.es/que_hacemos/cambio_climatico/?gclid=CNfcjrzNnLYCFUnMtAodtTIAwQ"
->“La punta del iceberg de un modelo insostenible”, artículo sobre
-el cambio climático ofrecido por World Wildlife Fund (WWF).</enlace>
-<enlace
-destino="http://www.sigpad.gov.co/sigpad/archivos/GESTIONDELRIESGOWEB.pdf"
->Web 03</enlace>
-<enlace
-destino="http://www.unperiodico.unal.edu.co/dper/article/inundaciones-en-colombia-un-desastre-que-no-es-natural.html"
->Web 04</enlace>
-<enlace
-destino="http://www.sigpad.gov.co/sigpad/archivos/GESTIONDELRIESGOWEB.pdf"
->Web 05</enlace>
+destino="http://wwf.panda.org/wwf_news/?231190/El-sol-brilla-para-las-energas-renovables-en-Amrica-Latina"
+>Energías renovables en América Latina, de WWF.</enlace>
+<enlace destino="https://vimeo.com/43866542">Romeo Langlois. Documental
+sobre minería y sus efectos "Pour tout l'or de Colombie".</enlace>
+<enlace destino="http://ccqc.pangea.org/cast/sosteni/soscast.htm"
+>El desarrollo sostenible.</enlace>
 </enlacesreferencia></masinformacion></libro>

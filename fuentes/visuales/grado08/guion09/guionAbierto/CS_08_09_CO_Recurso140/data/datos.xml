@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f1">
+<css><![CDATA[.defaultCSSBox2 {
+	background: #000000;
+}
+.defaultCSSBox3 {
+	background: #ffffff;
+}]]></css>
+<pantallas>
+<pantalla id="pantalla_5">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compSlider' id='diaporama_12' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' transMode='1' />
+<component _type='_compSliderNav' id='slidernav_11' x='45' y='526' width='162' height='37' alpha='1' visible='1' enabled='1' sliderId='diaporama_12' showHome='1' whiteButtons='1' mode='1' />
+</components>
+<animaciones>
+</animaciones>
+<slider id="diaporama_12">
+<pantalla id="pantalla_14">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_19' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='6' y='194' width='938' height='219' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:60px"><span style="font-family:georgia,serif">Los recursos naturales<br>renovables</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_19">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_19' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='19' y='131' width='911' height='335' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Agua</span></span></span></p>
+
+<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Vegetales</span></span></span></p>
+
+<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Animales</span></span></span></p>
+
+<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Energ&iacute;a renovable</span></span></span></p>
+
+<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Ilimitados</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compCSSBox' id='fondo_20' x='262' y='144' width='425' height='292' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"fondo_20":[],"fondo_20.x":[{"time":0,"value":262,"easing":"Linear.EaseNone"}],"fondo_20.y":[{"time":0,"value":144,"easing":"Linear.EaseNone"},{"time":1.995,"value":444,"easing":"Linear.EaseNone"}],"fondo_20.width":[{"time":0,"value":425,"easing":"Linear.EaseNone"}],"fondo_20.height":[{"time":0,"value":292,"easing":"Linear.EaseNone"}],"fondo_20.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_23">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_32.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='391' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Agua</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_28">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_37.jpg' />
+<component _type='_compRichText' id='texto_20' x='359' y='30' width='511' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Energ&iacute;a hidr&aacute;ulica</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_32">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_43.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='577' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Energía hidroeléctrica</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_36">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_49.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='577' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Sol</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_40">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_54.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='577' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Energ&iacute;a solar</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_44">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_60.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='577' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Energ&iacute;a solar</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_48">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_62.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='391' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Viento</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_52">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_67.jpg' />
+<component _type='_compRichText' id='texto_20' x='431' y='40' width='439' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Energía eólica</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_56">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_72.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='404' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Energía eólica</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_60">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_76.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='404' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Vegetales</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_64">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_82.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='404' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Alimento</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_68">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_86.jpg' />
+<component _type='_compRichText' id='texto_21' x='557' y='468' width='313' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Compost</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_72">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_91.jpg' />
+<component _type='_compRichText' id='texto_21' x='230' y='467' width='640' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Biomasa y biocombustibles</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_76">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_08_09_REC140_IMG01.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='404' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Fuentes t&eacute;rmicas</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_80">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_08_09_REC140_IMG02.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='404' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Energ&iacute;a geot&eacute;rmica</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_84">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_27' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_96.jpg' />
+<component _type='_compRichText' id='texto_21' x='310' y='227' width='330' height='171' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:50px"><span style="color:rgb(255, 255, 255)"><span style="font-family:verdana,geneva,sans-serif">&iquest;Cu&aacute;l es su futuro?</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</slider>
+</pantalla>
+</pantallas>
+<popups>
+</popups>
+</engine>
