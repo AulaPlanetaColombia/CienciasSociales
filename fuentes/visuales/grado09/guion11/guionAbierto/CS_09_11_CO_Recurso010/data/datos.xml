@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f8">
+<main title="La utilidad de los censos" bkColor="#FFFFFF" titleColor="#000000" theme="black" buttonsWidth="220" buttonsHeight="42" trans="fade">
+<default>
+<img path="stock-photo-large-group-of-people-gathered-together-in-the-shape-of-growing-graph-arrow-237596851.jpg" x="300" y="100" width="" height=""/>
+</default><buttons>
+<button title="Indicadores demográficos">
+<img path="poblaci%C3%B3n%20por%20sexo.png" x="" y="" width="" height="" anim=""/>
+<audio path="rec audio1.mp3"/></button>
+<button title="Condiciones de vida">
+<img path="COLOMBIA_-_Departamentos_por_PIB_Per_Capita_2011_US$.png" x="" y="" width="" height="" anim=""/>
+<audio path="rec audio 2.mp3"/></button>
+<button title="Actividad económica">
+<img path="C%C3%BAcuta,_Colombia_-_Poblaci%C3%B3n_ocupada.png" x="" y="" width="" height="" anim=""/>
+<audio path="rec audio 3.mp3"/></button>
+<button title="Densidad de población">
+<img path="Poblacion_bogota.JPG" x="" y="" width="" height="" anim=""/>
+<audio path="rec audio 4.mp3"/></button>
+<button title="Etnias y grupos humanos">
+<img path="Poblacion%20indigena.png" x="" y="" width="" height="" anim=""/>
+<audio path="rec audio 5.mp3"/></button>
+</buttons>
+</main>
+<practica actividad="" boton="Practica" boton2="">
+<pantalla1><![CDATA[<p>&nbsp;</p>
+
+<p>Investiga en qu&eacute; fechas se han realizado los &uacute;ltimos dos&nbsp;censos en Colombia. b&uacute;scalos y extrae de ellos sus datos m&aacute;s significativos. Construye un cuadro comparativo en el que especifiques seg&uacute;n cada censo:</p>
+
+<ul>
+	<li>Densidad de poblaci&oacute;n.</li>
+	<li>Distribuci&oacute;n de la poblaci&oacute;n a lo largo del territorio.</li>
+	<li>Conformaci&oacute;n de la poblaci&oacute;n (sexo y edades).</li>
+</ul>
+
+<p>Para encontrar la informaci&oacute;n puedes consultar el siguientes sitio web:</p>
+
+<p>http://www.dane.gov.co/index.php/cultura-estadistica</p>
+
+<p>&nbsp;</p>
+
+<p>Una vez hayas construido el cuadro comparativo, elabora una hip&oacute;tesis sobre las causas que originaron las diferencias&nbsp;que encontraste.</p>
+
+<p>&nbsp;</p>
+]]></pantalla1>
+</practica><masinfo>
+<pantalla1><![CDATA[<p><strong>&iquest;Qu&eacute; es y para qu&eacute;&nbsp;sirve&nbsp;un censo?</strong></p>
+
+<p>El censo es un&nbsp;<strong>conteo</strong>&nbsp; estad&iacute;stico&nbsp;que brinda informaci&oacute;n sobre la <strong>cantidad</strong> y las <strong>caracter&iacute;sticas</strong> de la <strong>poblaci&oacute;n</strong> de un lugar determinado.</p>
+
+<p>Los censos se contruyen con datos que dejan conocer como est&aacute; conformada una poblaci&oacute;n, en aspectos como:</p>
+
+<ul>
+	<li><strong>Edad y sexo: </strong>los censos permiten conocer el grado de envejecimiento y el &iacute;ndice de masculinidad que tiene una poblaci&oacute;n.</li>
+	<li><strong>Etnia:&nbsp;</strong>los censos permiten conocer c&oacute;mo se compone la poblaci&oacute;n en t&eacute;rminos de su&nbsp;origen&nbsp;(mestizos,&nbsp;blancos,&nbsp;afrocolombianos,&nbsp;ind&iacute;genas, otros grupos como los rom).&nbsp;</li>
+	<li><strong>Ocupaci&oacute;n y empleo:</strong> los censos&nbsp;permiten conocer los niveles de <strong>ocupaci&oacute;n</strong>, as&iacute; como las &aacute;reas en las que se desempe&ntilde;an las personas.</li>
+	<li><strong>Calidad de vida: </strong>los censos permiten conocer c&oacute;mo vive<strong> </strong>la poblaci&oacute;n&nbsp;seg&uacute;n la composici&oacute;n de sus <strong>hogares</strong>, el acceso a <strong>servicios p&uacute;blicos</strong> y la satisfacci&oacute;n de sus <strong>necesidades b&aacute;sicas</strong>.</li>
+	<li><strong>Nivel educativo:</strong>&nbsp;los censos permiten conocer qu&eacute; tan significativo es el <strong>acceso</strong> a la <strong>educaci&oacute;n</strong> preescolar,&nbsp;b&aacute;sica primaria, secundaria&nbsp;y superior.</li>
+	<li><strong>Tasas de crecimiento:</strong> los censos permiten entender cu&aacute;l es la relaci&oacute;n que hay entre <strong>nacimientos</strong> y <strong>muertes</strong>, asi como entre&nbsp;<strong>migrantes</strong> e <strong>inmigrantes</strong>. Esta relaci&oacute;n ayuda a calcular las necesidades que tiene la poblaci&oacute;n dado que muestra si esta tiende a aumentar o disminuir.&nbsp;</li>
+	<li><strong>Densidad de la poblaci&oacute;n:</strong> los censos permiten saber c&oacute;mo se distribuyen los habitantes en un territorio determinado, mostrando cu&aacute;ntos <strong>habitantes</strong> <strong>hay por kil&oacute;metro cuadrado</strong> y cu&aacute;les son los lugares m&aacute;s poblados.</li>
+</ul>
+
+<p>&nbsp;</p>
+]]></pantalla1>
+<pantalla2><![CDATA[<div>&nbsp;</div>
+
+<div>
+<p><strong>&iquest;Qu&eacute; es y para qu&eacute;&nbsp;sirve&nbsp;un censo?</strong></p>
+
+<p>Al conocer c&oacute;mo se conforma y vive su poblaci&oacute;n, un pa&iacute;s puede&nbsp;<strong>planear</strong> y dise&ntilde;ar&nbsp;<strong>estrategias</strong> de soluci&oacute;n orientadas a <strong>mejorar</strong> la calidad de vida de sus habitantes.</p>
+
+<p>Estos estudios poblacionales se realizan con determinada periodicidad para garantizar un conocimiento suficiente de las condiciones en que vive la poblaci&oacute;n y facilitar, as&iacute;, la puesta en marcha de <strong>pol&iacute;ticas</strong> orientadas al <strong>control</strong> <strong>demogr&aacute;fico</strong>, al acceso a <strong>servicios</strong>, <strong>vivienda</strong>,&nbsp;<strong>infraestructura</strong> y <strong>educaci&oacute;n</strong>.&nbsp;</p>
+</div>
+]]></pantalla2>
+</masinfo>
+</engine>

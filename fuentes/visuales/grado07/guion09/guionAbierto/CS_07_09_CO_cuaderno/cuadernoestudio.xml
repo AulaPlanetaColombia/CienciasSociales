@@ -1,428 +1,1202 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_07_09_CO">
-  <libroTitulo>Geografía física  de Colombia</libroTitulo>
-  <seccion1 id="S1_CS_07_09_CO_568B0D7354684A88A9C4616122ABFD2C">
-    <seccion1Titulo>La posición geográfica y astronómica de Colombia</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_07_09_CO_CE6031855F6746C7BCD40B784065EAE0">
-        <seccion2Titulo>La posición astronómica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_09_CO_img_01_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso010&amp;IdRecurso=RES-359B9E84EA0C4ECDB12A6FAF34198E76">Recurso F4-01</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_09_CO_40705AB05FE2497583A397E0B009B4BF">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_09_CO_img_02_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso020&amp;IdRecurso=RES-51970738643B4E7298180D855EBA3BCA">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_09_CO_36D1645B61C74451B275D9CB4ABD2913">
-    <seccion1Titulo>El paisaje geográfico de Colombia</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_07_09_CO_5C7A4EEF3F8C457CA6CA9DECB0CF3B8F">
-        <seccion2Titulo>La intervención del paisaje en Colombia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_09_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_09_CO_img_04_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso040&amp;IdRecurso=RES-FF389BBE441C4D329E526369A548C37A">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_09_CO_B59CCAED79FB4824A70112815FD93672">
-    <seccion1Titulo>Geomorfología de Colombia</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_07_09_CO_FC0BBE3173F24C7D9FBC41A0AFBE4D7D">
-        <seccion2Titulo>La historia geológica de Colombia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_09_CO_img_05_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso050&amp;IdRecurso=RES-DE9A0668333E4E658F029726EF718C99">Recurso F8-01</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_09_CO_img_06_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_09_CO_892BE78A81A94EE6ACD9BED00B2515D8">
-        <seccion2Titulo>El relieve de Colombia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_09_CO_img_07_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <seccion3 id="S3_CS_07_09_CO_2E6ED034F7BD4A18BA73A79B8184FEC2">
-            <seccion3Titulo>Región insular</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_09_CO_img_08_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso080&amp;IdRecurso=RES-89384FDED34940098288496C3BDE67D6">Recurso M8A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_07_09_CO_22A244BD28EB458E9F3C2DF5C79F39A8">
-            <seccion3Titulo>Cordilleras andinas</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_09_CO_img_09_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso090&amp;IdRecurso=RES-D9C60DC5A09F4AE0BD1C92F50D2C21BD">Recurso M8A-02</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_09_CO_img_10_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso100&amp;IdRecurso=RES-659C137F86C946EBBD9E128AA6E044BC">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_09_CO_0A19B71C1A6B42898A39FF5C4D61F8FE">
-    <seccion1Titulo>Hdrografía de Colombia</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_09_CO_img_11_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso110&amp;IdRecurso=RES-AD066BBD26D74DA5B521ED6223208136">Recurso F10B-02</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_07_09_CO_DC4DE9F677C94FEC9AEEE5F2C3C662B6">
-        <seccion2Titulo>Vertiente del Amazonas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_09_CO_img_12_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso120&amp;IdRecurso=RES-EE19B0202F9A416F9E9ABB3694FB19F7">Recurso M1C-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_09_CO_677A475B97DE4FA29E759EDD3C8D78FF">
-        <seccion2Titulo>Lagunas ciénagas y embalses</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_09_CO_img_13_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso130&amp;IdRecurso=RES-41ADFDEA46CD4307BA7030BB6AC8FB64">Recurso M1D-05</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_09_CO_img_14_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso140&amp;IdRecurso=RES-FE0F9856BE104112AF678303938025E2">Recurso M101A-04</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_09_CO_F4824133607F4F4097138D68CFB6CEED">
-    <seccion1Titulo>Climatología de Colombia</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_07_09_CO_0952CF414CE84D19BDDC14870921147C">
-        <seccion2Titulo>La clasificación de los climas en Colombia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_09_CO_img_15_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso150&amp;IdRecurso=RES-5C293B6979D8448690F6C8CD71D593FF">Recurso F7B-02</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_09_CO_img_16_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso160&amp;IdRecurso=RES-07C89F7835054F7D9C72A6C761BFF01C">Recurso M101A-06</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_09_CO_760A99E71D824035B1C9EE468FC22E20">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_09_CO_img_17_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso170&amp;IdRecurso=RES-4593C21A8EBE4A0ABD9F4BF61EDE3232">Competencias: elaboración de un mapa físico de España</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_09_CO_img_18_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso180&amp;IdRecurso=RES-70E64F02A91B4EBBBAB3B6448B644549">Proyecto: estudio del territorio y de las actividades económicas</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_07_09_CO_3566F67AC253475EB104437F9E363DE0">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso200&amp;IdRecurso=RES-D50DA26C844C47FB9FE3FA1AFB8EDCCC">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso210&amp;IdRecurso=RES-F715FEC418A94FDC85F3D71037D0E6CE">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Geografía física de Colombia</libroTitulo>
+<seccion1 id="S1_CS_07_09_CO_568B0D7354684A88A9C4616122ABFD2C">
+<seccion1Titulo>La posición geográfica y astronómica de Colombia</seccion1Titulo>
+<seccion1Texto>
+<p>Todo lugar en la superficie terrestre tiene una <negrita>posición
+geográfica</negrita> respecto a los territorios que lo rodean, y se
+indica según los puntos cardinales. Además tiene una <negrita>posición
+astronómica</negrita> que se determina según la longitud y la latitud.</p>
+<seccion2 id="S2_CS_07_09_CO_CE6031855F6746C7BCD40B784065DBF1">
+<seccion2Titulo>La posición geográfica</seccion2Titulo>
+<seccion2Texto>
+<p>El territorio de Colombia está ubicado en el extremo suroccidental
+de América del Sur y tiene como límites, al occidente el <negrita
+>océano Pacífico</negrita>, al noroccidente a <negrita>Panamá</negrita
+>, al norte el <negrita>mar Caribe</negrita>, al nororiente a la <negrita
+>República Bolivariana de Venezuela</negrita>, <negrita>Brasil</negrita
+> al suroriente, y <negrita>Ecuador</negrita> y <negrita>Perú</negrita
+> al sur.</p>
+<p>La posición estratégica de Colombia en América le permite ser un
+puente comercial entre Norteamérica, Suramérica y el resto del mundo;
+además, el hecho de poseer costas en dos océanos permite la construcción
+de puertos pesqueros y comerciales, así como la exploración y explotación
+de los recursos marinos.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_07_09_CO_CE6031855F6746C7BCD40B784065EAE0">
+<seccion2Titulo>La posición astronómica</seccion2Titulo>
+<seccion2Texto>
+<p>La posición astronómica de Colombia corresponde a la ubicación
+del territorio respecto a las distancias de latitud y longitud.</p>
+<p>El territorio continental de Colombia está enmarcado dentro de
+los 12º 27' 46" de <negrita>latitud norte</negrita> en Punta Gallinas,
+La Guajira, el punto más septentrional de América del Sur, y los 4º
+13' 30" de <negrita>latitud sur</negrita> en la confluencia de la
+quebrada San Antonio con el río Amazonas, a los 66º 50' 54" de <negrita
+>longitud occidental</negrita> y en el río Negro, en el departamento
+de Guainía, frente a la llamada Piedra del Cocuy o Cucui y los 79º
+0' 23" <negrita>longitud oriental</negrita> en Punta Manglares en
+el departamento de Nariño.</p>
+<p>Con respecto a la latitud, Colombia recibe luz solar directa durante
+todo el año, con dos épocas de máximas temperaturas en junio y diciembre,
+y dos épocas de lluvias en marzo y septiembre. Estos fenómenos son
+variables de acuerdo con factores como la altitud y los vientos.</p>
+<imagen ampliable="no" src="CS_07_09_CO_IMG01_small.jpg">
+<p>Colombia posee una posición geográfica estratégica como punto de
+comunicación terrestre, marítima y aérea mundial, así como para la
+geopolítica internacional.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso010&amp;IdRecurso=RES-359B9E84EA0C4ECDB12A6FAF34198E76"
+>La posición geoastronómica de Colombia y sus consecuencias</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_09_CO_40705AB05FE2497583A397E0B009B4BF">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso020&amp;IdRecurso=RES-51970738643B4E7298180D855EBA3BCA"
+>Refuerza tu aprendizaje: La posición geográfica y astronómica de
+Colombia</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_09_CO_36D1645B61C74451B275D9CB4ABD2913">
+<seccion1Titulo>El paisaje geográfico de Colombia</seccion1Titulo>
+<seccion1Texto>
+<p>El paisaje geográfico es un área, región o espacio de la superficie
+terrestre donde las interacciones de los fenómenos físicos, biológicos
+y humanos determinan unas características propias.</p>
+<p>Las características de nuestro territorio son muy diversas debido
+a su posición geográfica, a la influencia del clima y a la intervención
+directa de las actividades económicas, políticas y culturales.</p>
+<seccion2 id="S2_CS_07_09_CO_5C7A4EEF3F8C457CA6CA9DECB0CF3B8F">
+<seccion2Titulo>El paisaje natural y cultural en Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>El <negrita>paisaje natural</negrita> hace referencia al espacio
+físico que no ha sido impactado o transformado por la acción del ser
+humano.</p>
+<imagen src="CS_07_09_CO_IMG02_small.jpg">
+<p>Pocos paisajes reúnen la belleza, misterios y majestuosidad como
+la <negrita>ensenada</negrita> de Utría. El <negrita>Parque Nacional
+Ensenada de Utría</negrita> se encuentra ubicado en la costa norte
+del Pacífico colombiano en el departamento del Chocó. Es considerado
+como uno de los parques más <negrita>biodiversos</negrita> del mundo.
+La ensenada de Utría cuenta con una gran variedad de <negrita>ecosistemas</negrita
+>, como son <negrita>estuarios</negrita>, <negrita>manglares</negrita
+> y <negrita>arrecifes coralinos</negrita>, y una gran cantidad de
+hectáreas de océano, que comprende fondo marino y <negrita>litoral</negrita
+>.</p>
+</imagen>
+<p>El <negrita>paisaje cultural</negrita> es el resultado de la intervención
+y modificación del paisaje natural hecho por el ser humano a través
+de la construcción de viviendas, edificios, caminos, el cultivo de
+la tierra, la tala de árboles, entre otras acciones.</p>
+<imagen ampliable="no" src="CS_07_09_CO_IMG03_small.jpg">
+<p><negrita>Bogotá</negrita> es la ciudad capital de Colombia y Distrito
+Capital. Ubicada en el <negrita>departamento</negrita> de Cundinamarca,
+en el centro del país y en la región conocida como la sabana de Bogotá,
+que es parte del <negrita>altiplano cundiboyacense</negrita>. Hace
+parte de la <negrita>formación montañosa</negrita> ubicada en la <negrita
+>cordillera Oriental de los Andes</negrita>. Bogotá es la tercera
+capital más alta de América del Sur, con una altura promedio de 2625
+metros sobre el nivel del mar. </p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>El paisaje geográfico, cultural o humano hace referencia al espacio
+físico intervenido por la acción humana, transformando el paisaje
+natural parcial o totalmente. Por ejemplo, la construcción de pueblos
+y ciudades, vías de comunicación, construcciones para la explotación
+minera, transformación de bosques en áreas de cultivo y pastoreo.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_09_CO_5C7A4EEF3F8C457CA6CA9DECB0CF1A1A">
+<seccion2Titulo>La intervención del paisaje en Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>En la geografía de nuestro país se encuentran paisajes intervenidos
+y modificados en las regiones urbanas: municipios, pueblos, veredas
+y caseríos, donde los medios de comunicación terrestres, como los
+caminos y carreteras, modifican los elementos de la naturaleza, para
+adaptarlos a las necesidades económicas y políticas del Estado.</p>
+<p>En las diversas regiones del país también se encuentran paisajes
+poco intervenidos o no intervenidos. Estos, como los parques naturales
+y las reservas forestales e hídricas, son protegidos para la conservación
+de especies de flora y fauna.</p>
+<p>El comportamiento productivo sin control (cultivos, cosechas, exploración
+y explotación minera) genera efectos irreparables, como el agotamiento,
+la erosión, la salinidad del suelo, el mal empleo de abonos, fertilizantes,
+pesticidas, la actividad industrial, comercial y del transporte.</p>
+<imagen src="CS_07_09_CO_IMG04_small.jpg">
+<p>Los efectos nocivos de la explotación de los recursos mineros disminuyen
+las posibilidades de vida en nuestro planeta.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso030&amp;IdRecurso=RES-D8ECE737570E428FB84ED9BFEC97D4D6"
+>La intervención del paisaje en Colombia</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_09_CO_5C7A4EEF3F8C457CA6CA9DECB0CF2B2B">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso040&amp;IdRecurso=RES-FF389BBE441C4D329E526369A548C37A"
+>Refuerza tu aprendizaje: El paisaje geográfico de Colombia</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_09_CO_B59CCAED79FB4824A70112815FD93672">
+<seccion1Titulo>La geomorfología de Colombia</seccion1Titulo>
+<seccion1Texto>
+<p>La geomorfología estudia las diversas formas de la superficie terrestre
+como resultado de la acción de fuerzas internas, por ejemplo, los
+movimientos orogénicos, epirogénicos y el vulcanismo, y de fuerzas
+externas, como los fenómenos atmosféricos y climáticos.</p>
+<p>El paisaje físico de Colombia se enmarca, igual que cualquier lugar
+del planeta, en el origen de la <negrita>corteza terrestre</negrita
+>. Presenta un alto grado de complejidad y diversidad producto de
+una larga historia <negrita>geológica</negrita>, que se relaciona
+con el estudio del origen del planeta, <negrita>bioclimática</negrita
+>, que examina la relación del clima y las diversas formas de vida,
+y <negrita>geomorfológica</negrita>, a través del estudio de las formas
+de la superficie terrestre en las que ha interactuado el ser humano
+en sociedad.</p>
+<seccion2 id="S2_CS_07_09_CO_FC0BBE3173F24C7D9FBC41A0AFBE4D7D">
+<seccion2Titulo>La historia geológica de Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>La historia geológica de Colombia dio origen a la diversidad de
+formas de la superficie: las llanuras, mesetas, montañas, nevados,
+valles, entre otras. Estas formas son el resultado de un proceso muy
+largo de continuos cambios generados por el movimiento de la corteza
+terrestre (tectonismo), que nunca se detiene, originado por fuerzas
+internas y externas. Estas fuerzas han dado origen a las formas existentes,
+a las rocas y minerales que las componen<enlace
+destino="http://geoportal.igac.gov.co/mapas_de_colombia/IGAC/Tematicos2012/RegionesGeograficas.pdf"
+> [VER]</enlace>.</p>
+<p>Durante el <negrita>Precámbrico</negrita> se formó el escudo Guayanés,
+al oriente de nuestro país. A lo largo del tiempo, durante el <negrita
+>Paleozoico</negrita>, por la erosión del macizo o escudo se fueron
+depositando grandes cantidades de sedimentos en la cuenca occidental
+y al finalizar esta era se produce un fuerte levantamiento que origina
+la formación de la sierra de la Macarena, la cordillera Central y
+las prolongaciones de la sierra nevada de Santa Marta y los montes
+de la Guajira.</p>
+<p>Al finalizar el <negrita>Mesozoico</negrita> se produce el levantamiento
+de la cordillera Occidental, y a mediados del <negrita>Cenozoico</negrita
+> se forma la cordillera Oriental entre el escudo Guayanés y la cordillera
+Central, que antes ocupaba un mar interior. Durante este periodo la
+región presenta constantes regresiones y transgresiones marinas que
+dan origen a la formación de los relieves periféricos de la llanura
+del Caribe.</p>
+<p>Las llanuras del Caribe y del Pacífico, los valles interandinos,
+las estribaciones de la cordillera Oriental y la llanura del Orinoco
+terminaron su formación también en el <negrita>Cenozoico</negrita
+>. Durante la era <negrita>Antropozoica</negrita> se presenta la modelación
+del actual relieve de Colombia. Se destaca en este periodo la acción
+de los glaciares que cubren las cimas de las altas montañas y su posterior
+deshielo, hecho que produjo valles y lagos de origen glacial.</p>
+<imagen src="CS_07_09_CO_IMG05_small.jpg">
+<p>Mapa oficial del Ministerio de Minas y Petróleo.</p>
+</imagen>
+<p>Colombia está situada en la esquina noroccidental de la placa Sudamericana,
+sitio de choque entre la <negrita>placa oceánica del Pacífico</negrita
+> (<negrita>placa de Nazca</negrita>) y la <negrita>placa continental
+Sudamericana</negrita>. En el mar Caribe también está la <negrita
+>placa del Caribe</negrita>, que penetra en el continente a una velocidad
+de 1 a 2 cm por año, y la del Pacífico, que alcanza una velocidad
+mayor de 6 cm por año.</p>
+<imagen src="CS_07_09_CO_IMG06_small.jpg">
+<p>Según el Estudio General de Amenaza Sísmica para Colombia (<negrita
+>Ingeominas</negrita>, 1997) el territorio nacional se divide en tres
+tipos de amenaza sísmica: alta, media y baja. Bogotá está ubicada
+en una zona de amenaza sísmica media.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso050&amp;IdRecurso=RES-DE9A0668333E4E658F029726EF718C99"
+>Historia geológica de Colombia</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso060&amp;IdRecurso=RES-DF73046BE54F4052868D953E7926D73F"
+>Conoce la historia geológica de Colombia</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_09_CO_892BE78A81A94EE6ACD9BED00B2515D8">
+<seccion2Titulo>El relieve de Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>El <negrita>relieve geográfico</negrita> contempla una variedad
+de formas de la superficie terrestre y de las costas marítimas y oceánicas
+producto de los efectos de los movimientos internos de la Tierra y
+de factores externos, como las condiciones climáticas y la acción
+del ser humano.</p>
+<p>Colombia abarca costas, islas, montañas, cordilleras, valles interandinos
+y llanuras. Es un país privilegiado por poseer diversidad de formas
+del relieve y por sus efectos en la vida de las comunidades. El relieve
+define los recursos naturales propios y a partir de ellos la población
+los explora y utiliza para su supervivencia y desarrollo económico
+y cultural<enlace
+destino="http://geoportal.igac.gov.co/mapas_de_colombia/IGAC/Tematicos2012/MapaFisico.pdf"
+> [VER]</enlace>.</p>
+<imagen ampliable="no" src="CS_07_09_CO_IMG07_small.jpg">
+<p>El relieve colombiano define unidades o regiones costeras, de llanuras,
+valles y montañas.</p>
+</imagen>
+<p>Las montañas y cordilleras definen los pisos térmicos que permiten
+una gran variedad de temperaturas, y con ellas, de flora y fauna,
+que influyen en las actividades productivas agrícolas y ganaderas
+específicas: cultivos de frutales, de tubérculos, de leguminosas,
+de hortalizas y de pastos para diversas producciones pecuarias, como
+el ganado vacuno, lanar, caprino y porcino, entre otros.</p>
+<p>Las grandes llanuras y valles y los ríos que los recorren permiten
+el desarrollo de la ganadería extensiva e intensiva y la pesca doméstica
+e industrial. De igual manera, las costas facilitan la construcción
+de puertos comerciales y turísticos como Buenaventura, Tumaco, Barranquilla,
+Santa Marta y Cartagena.</p>
+<p>La belleza de los paisajes geográficos convierte a nuestro país
+en un destino turístico de importancia mundial.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso070&amp;IdRecurso=RES-53C2B047CA264C89BA82A4EE3DCD0436"
+>Características del relieve de Colombia</enlace>
+</profundiza><seccion3
+id="S3_CS_07_09_CO_2E6ED034F7BD4A18BA73A79B8184EDB1">
+<seccion3Titulo>La llanura del Caribe</seccion3Titulo>
+<seccion3Texto>
+<p>La llanura del Caribe abarca la costa Atlántica con 1600 km de
+longitud, y se extiende desde cabo Tiburón, en la frontera con Panamá,
+hasta cabo Castilletes en el límite con Venezuela. Hacia el interior
+continental llega hasta las estribaciones de las cordilleras andinas.</p>
+<p>Está dividida en cinco sectores, en los que se presentan alternadamente
+acantilados y playas o costas bajas. Comprende los departamentos de
+La Guajira, Magdalena, Atlántico, Bolívar, Sucre, Córdoba y el Urabá
+antioqueño.</p>
+<table border="1"><caption>Sectores de la llanura del Caribe</caption>
+<colgroup><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>SECTOR</negrita></td>
+<td align="center"><negrita>CARACTERÍSTICAS</negrita></td>
+<td align="center"><negrita>ACCIDENTES COSTEROS</negrita></td>
+</tr>
+<tr>
+<td>1. Sector de Urabá</td>
+<td>Costa baja, pantanosa y selvática.</td>
+<td>Cabo Tiburón, golfo de Urabá, bahía Colombia y punta Arenas.</td>
+</tr>
+<tr>
+<td>2. Sector de sabana</td>
+<td>Costa amplia de playas, sabanas y cocoteros.</td>
+<td>Punta Arboleto, golfo de Morrosquillo, Punta de San Bernardo,
+bahía de Barbacoas, isla Tierra Bomba y bahía de Cartagena.</td>
+</tr>
+<tr>
+<td>3. Sector magdalenense</td>
+<td>Costa baja de sabana, cenagosa.</td>
+<td>Punta Piedras, bahía Galerazamba, bocas de Ceniza, ciénaga de
+Santa Marta.</td>
+</tr>
+<tr>
+<td>4. Sector de la sierra</td>
+<td>Costa alta, por la proximidad de la Sierra Nevada de Santa Marta.</td>
+<td>Ancón de Concha y punta Pacheco.</td>
+</tr>
+<tr>
+<td>5. Sector de La Guajira</td>
+<td>Costa baja y arenosa semidesértica.</td>
+<td>Bahía Manaure, punta Carrizal, cabo de la Vela, bahía Portete,
+punta Coco, punta Cañón, bahía Honda, punta Soldado, punta Aguja,
+punta Gallinas, cabo Falso, cabo Chichibacoa, punta Espada, punta
+Arenas y bahía Cocineta.</td>
+</tr>
+</tbody>
+</table>
+<imagen src="CS_07_09_CO_IMG08_small.jpg">
+<p>Ilustración de la costa Atlántica.</p>
+</imagen>
+<p>La <negrita>planicie del Caribe</negrita> se extiende a lo largo
+de la costa Caribe desde las estribaciones de la serranía del Darién
+en la frontera con Panamá hasta la península de la Guajira. Al occidente
+de la planicie litoral se interrumpe por la <negrita>serranía de San
+Jacinto</negrita> o <negrita>montes de María</negrita> (cadena montañosa
+baja), en los departamentos de Bolívar y Sucre, dispuestas de sur
+a norte y donde la mayor elevación es el <negrita>cerro Maco</negrita
+> (1200 m ). Al suroccidente está el valle del <negrita>río Sinú</negrita
+>.</p>
+<p>En el departamento del Atlántico se presentan montañas bajas y
+a la altura de Piojó está la mayor elevación (900 m).</p>
+<p>Continuando hacia el norte se interrumpe por el <negrita>macizo</negrita
+> de la <negrita>Sierra Nevada de Santa Marta</negrita>. Esta se levanta
+desde el mar Caribe hasta Chundúa o <negrita>La Horqueta</negrita
+> a 5775 m (picos <negrita>Cristóbal Colón</negrita> y <negrita>Simón
+Bolívar</negrita>), que es la montaña más elevada de Colombia.</p>
+<p>Al oriente y suroriente se encuentra el valle del río <negrita
+>Ranchería</negrita> o <negrita>Calancala</negrita>, que llega al
+mar Caribe. Por el flanco suroriental nace el río <negrita>Cesar</negrita
+>, que desemboca en el Magdalena. Estos valles ocupan una depresión
+tectónica.</p>
+<p>En la península de la Guajira se presentan pocas elevaciones aisladas.
+Las principales elevaciones son: <negrita>Jarara</negrita>, <negrita
+>Cocinas</negrita> y la <negrita>serranía de Macuira</negrita>. Estas
+son importantes para la región por favorecer un mínimo de precipitaciones.</p>
+<imagen src="CS_07_09_CO_IMG09_small.jpg">
+<p>La <negrita>serranía de Macuira</negrita> es la más elevada de
+la <negrita>península de la Guajira</negrita>, con una altura de 900
+m.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_09_CO_2E6ED034F7BD4A18BA73A79B8184DFD3">
+<seccion3Titulo>La llanura del Pacífico</seccion3Titulo>
+<seccion3Texto>
+<p>La <negrita>llanura del Pacífico</negrita> se extiende desde el
+suroccidente hasta el noroccidente del país y al occidente de la cordillera
+Occidental, interpuesta entre la cordillera Occidental al oriente
+y la serranía del Darién (frontera con Panamá) y la serranía del Baudó.
+Es una franja relativamente angosta de unos 50 km<superindice>2</superindice
+>. Su suelo es de formación sedimentaria de origen marino y fluvial,
+cubierto por una capa vegetal copiosa (selvática) producto de las
+altas temperaturas y abundantes precipitaciones.</p>
+<imagen src="CS_07_09_CO_IMG10_small.jpg">
+<p>Ilustración de la costa del Pacífico colombiano.</p>
+</imagen>
+<p>En la parte septentrional se halla la planicie de los valles de
+los ríos <negrita>Atrato</negrita> y <negrita>León</negrita>, en los
+departamentos de Antioquia y Chocó. Esta planicie drena hacia el mar
+Caribe.</p>
+<p>La llanura está enmarcada por la costa del Pacífico, que tiene
+una longitud de 1300 km. Se extiende desde el límite con Panamá, cerca
+de punta Ardita, hasta la desembocadura del río Mataje, en la bahía
+de Ancón de Sardinas, ubicada en el departamento de Nariño. En esta
+costa se encuentran los departamentos del Chocó, Valle del Cauca,
+Cauca y Nariño.</p>
+<p>La costa del Pacífico comprende dos sectores con costas geomorfológicamente
+contrastantes. Una costa alta montañosa, que se extiende desde la
+frontera con Panamá hasta el sur en cabo Corrientes, y una costa baja,
+que va desde cabo Corrientes hasta la bahía de Ancón de Sardinas en
+la frontera con Ecuador.</p>
+<table border="1"><caption>Sectores de la costa del Pacífico</caption>
+<colgroup><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td><negrita>SECTOR</negrita></td>
+<td><negrita>CARACTERÍSTICAS</negrita></td>
+<td><negrita>ACCIDENTES COSTEROS</negrita></td>
+</tr>
+<tr>
+<td>1. Costa alta</td>
+<td>Costa alta con topografía montañosa, formada por rocas ígneas
+y sedimentarias. Presencia de acantilados, cubierta por denso bosque
+de selva húmeda, que se extiende hasta el nivel de la marea alta.<br
+/><br/>Además de los acantilados se presentan de manera alternante
+playas y zona de manglar. </td>
+<td>Punta Ardita, bahía Humbolt, bahía Aguacate, punta Cruces, bahía
+Cupica, punta Solano, ensenada de Utría, golfo de Tribugá, ensenada
+de Nuquí y cabo Corrientes.</td>
+</tr>
+<tr>
+<td>2. Costa baja</td>
+<td>Llanura baja dominada por zonas inundables, pantanosas, deltas,
+ciénagas, islas costeras, extensas playas y grandes zonas de manglar.</td>
+<td>Bahía Cuevita, boca Baudó, bahía Docampadó, boca Venado, punta
+Chirambiré, ssla Cacagual, boca San Juan, punta Magdalena, bahía de
+Buenaventura, golfo de Tortugas, isla Cajambre, punta Bodega, punta
+Coco, punta Guapi, bahía de Timbiquí, bahía Guapo, isla Gorgona, punta
+Reyes, punta Guascama, punta Cascajal, rada de Tumaco, cabo Manglares,
+bahía de Ancón de Sardinas.</td>
+</tr>
+</tbody>
+</table>
+<imagen src="CS_07_09_CO_IMG11_small.jpg">
+<p>El <negrita>río Atrato</negrita> es el más caudaloso de Colombia.
+Nace en el <negrita>cerro del Plateado</negrita> en la cordillera
+Occidental y desemboca en el <negrita>golfo de Urabá</negrita> en
+el mar Caribe.</p>
+</imagen>
+<p>La <negrita>serranía del Baudó</negrita> es un sistema montañoso
+bajo. Su mayor elevación es el <negrita>Alto del Buey</negrita> (1400
+m), situado al norte de la desembocadura del río Baudó en el departamento
+del Chocó. Se dirige en sentido sur-norte hacia Panamá y se prolonga
+en la provincia del Darién, en donde constituye la <negrita>serranía
+del Limón</negrita> o <negrita>del Pirre</negrita>. Este conjunto
+montañoso ha sido denominado <negrita>cordillera de la Costa</negrita
+>.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_09_CO_2E6ED034F7BD4A18BA73A79B8184FEC2">
+<seccion3Titulo>Región insular</seccion3Titulo>
+<seccion3Texto>
+<p>La región insular de Colombia abarca islas y archipiélagos en el
+mar Caribe y en el océano Pacífico.</p>
+<p>En el mar Caribe de Colombia se encuentran las islas de San Andrés,
+Providencia y Santa Catalina, el archipiélago de San Bernardo, las
+islas del Rosario y la isla de Salamanca.</p>
+<p>El conjunto de <negrita>San Andrés</negrita>, <negrita>Providencia</negrita
+> y <negrita>Santa Catalina</negrita> forma un departamento de Colombia,
+que corresponde al archipiélago del mismo nombre, y lo conforma un
+conjunto de islas, cayos e islotes de origen coralino: <negrita>Serrana</negrita
+>, <negrita>Serranilla</negrita>, <negrita>Bajo Nuevo</negrita>, <negrita
+>Quitasueño</negrita>, <negrita>Roncador</negrita>, <negrita>del Suroeste</negrita
+> y <negrita>Albuquerque</negrita>, localizados sobre una plataforma
+volcánica.</p>
+<p>El relieve de <negrita>San Andrés</negrita> está conformado por
+rocas de <negrita>sedimento calizo</negrita> reciente, y Providencia
+tiene su origen en un <negrita>volcán andesítico</negrita> extinto
+durante el periodo del <negrita>Mioceno</negrita>. <negrita>Santa
+Catalina</negrita> está separada de <negrita>Providencia</negrita
+> por un estrecho de 150 metros de ancho.</p>
+<p>El Estado colombiano mantiene un conflicto jurídico con Nicaragua
+por la posesión de este archipiélago. La disputa del territorio lleva
+más de tres décadas, cuando Nicaragua rompió unilateralmente el tratado
+Esguerra-Bárcenas de 1928, donde se definieron límites territoriales
+y patrimoniales. En este conflicto han intervenido organismos internaciones
+como la <negrita>Corte Internacional de Justicia (CIJ)</negrita> con
+sede La Haya, Países Bajos<enlace
+destino="http://www.cancilleria.gov.co/content/el-caso-nicaragua-vs-colombia-relativo-al-archipi%C3%A9lago-de-san-andr%C3%A9s"
+> [VER]</enlace>.</p>
+<imagen ampliable="no" src="CS_07_09_CO_IMG12_small.jpg">
+<p>El <negrita>archipiélago</negrita> de <negrita>San Andrés y Providencia</negrita
+> es un lugar estratégico para Colombia en el campo turístico, económico
+y ecológico.</p>
+</imagen>
+<p>El <negrita>archipiélago de San Bernardo</negrita> es un conjunto
+de diez islas que suman una superficie de 255 km<superindice>2</superindice
+>, aproximadamente. Es un extenso complejo de <negrita>arrecifes</negrita
+> de origen coralino localizado frente a las costas del departamento
+de Sucre<enlace
+destino="http://www.imeditores.com/banocc/golfos/fotos.php?id=132"
+> [VER]</enlace>.</p>
+<p>Las <negrita>islas del Rosario</negrita> son un archipiélago formado
+por 28 islas, ubicadas frente a las costas del departamento de Bolívar
+a la misma latitud de <negrita>Barú</negrita>. Son islas de origen
+coralino de diferentes profundidades.</p>
+<p>Junto con las <negrita>islas de San Bernardo</negrita>, las <negrita
+>islas del Rosario</negrita> fueron integradas al <negrita>Sistema
+de Parques Nacionales Naturales de Colombia (SPNNC)</negrita> por
+su riqueza natural. Es la formación de arrecife de coral más extensa
+y con mayor diversidad y desarrollo de la costa continental del Caribe
+colombiano.</p>
+<imagen ampliable="no" src="CS_07_09_CO_IMG13_small.jpg">
+<p>Para salvar a las tortugas marinas del <negrita>Parque Corales
+del Rosario y San Bernardo</negrita>, involucran a la población motivándola
+a la conservación de la vida silvestre.</p>
+</imagen>
+<p>La <negrita>isla de Salamanca</negrita> está ubicada en el departamento
+del Magdalena. Es un agregado de pequeñas islas de origen sedimentario,
+formadas por <negrita>acumulación de sedimentos</negrita> del <negrita
+>delta</negrita> del río Magdalena, sobre el fondo de una antigua
+bahía. Estas islas están comunicadas por canales y forman una barrera
+que separa la <negrita>ciénaga Grande de Santa Marta</negrita>, del
+mar Caribe.</p>
+<imagen src="CS_07_09_CO_IMG14_small.jpg">
+<p>La <negrita>isla de Salamanca</negrita> fue declarada por la Organización
+de las Naciones Unidas para la Educación, la Ciencia y la Cultura
+(<negrita>Unesco</negrita>) como “Reserva de la Biosfera” en el año
+2000. Es de gran importancia como sitio de descanso y alimentación
+de aves migratorias. Figura en el Sistema de PNNC como “Vía Parque
+Isla de Salamanca”, ya que desde la carretera que comunica Barranquilla
+con Santa Marta se puede contemplar el conjunto de playones, ciénagas
+y bosque de manglar.</p>
+</imagen>
+<p>En el océano Pacífico de Colombia se encuentran el archipiélago
+de Gorgona y Gorgonilla y la isla de Malpelo.</p>
+<p>El <negrita>archipiélago de Gorgona y Gorgonilla</negrita> son
+islas de origen oceánico y volcánico, formadas en el <negrita>Cretáceo</negrita
+>. Pertenecen a la jurisdicción de Guapi, departamento del Cauca.
+Al nororiente se encuentra el islote Rocas de Hornos, separado de
+Gorgona por el “paso del Horno”, y al suroccidente el islote El Viudo.
+Las aguas de Gorgona tienen profundidades de hasta 85 metros que la
+separan de la zona costera continental.</p>
+<imagen src="CS_07_09_CO_IMG15_small.jpg">
+<p>Mapa de la isla Gorgona.</p>
+</imagen>
+<p>Este archipiélago tiene gran importancia desde el punto de vista <negrita
+>biogeográfico</negrita> y <negrita>ecológico</negrita>. Forma parte
+del <negrita>Sistema de Parques Nacionales Naturales de Colombia</negrita
+>.</p>
+<p>El <negrita>Parque Gorgona</negrita> representa la zona más importante
+de <negrita>anidación</negrita> y <negrita>crianza</negrita> de las
+especies de aves marinas <negrita>migratorias</negrita>, también por
+su relación con varias especies, entre ellas la <negrita>ballena yubarta</negrita
+>. Es conocida como la <negrita>“Isla ciencia”</negrita> por su potencial
+en investigación científica.</p>
+<imagen src="CS_07_09_CO_IMG16_small.jpg">
+<p>Uno de los grandes atractivos de la isla Gorgona es su vegetación
+y la visita que anualmente hace la <negrita>ballena yubarta o jorobada</negrita
+> a la isla.</p>
+</imagen>
+<p>La <negrita>isla de Malpelo</negrita> es la cúspide de una <negrita
+>cordillera volcánica</negrita> llamada <negrita>“Dorsal de Malpelo”</negrita
+>. Se encuentra ubicada a 490 km. de la costa de Buenaventura y allí
+se distinguen claramente dos ecosistemas: uno terrestre y otro marino.</p>
+<p>Está rodeada de 11 islotes de tamaño pequeño, que presentan <negrita
+>acantilados</negrita> que se extienden hasta los 180 metros de profundidad.
+También hay algunas <negrita>fallas geológicas</negrita> en la isla,
+tanto terrestres como submarinas.</p>
+<p>Durante todo el año, en los alrededores de la isla pueden observarse
+concentraciones de más de 300 tiburones martillo, entre otras muchas
+especies oceánicas que esta isla alberga, por esto el gobierno colombiano
+en 1995 la declara área protegida en la categoría de <negrita>Santuario
+de Fauna y Flora (SFF)</negrita>. En el año 2002 fue reconocida como
+“Zona Marina Especialmente Sensible” por la <negrita>Organización
+Marítima Internacional (OMI)</negrita>. En 2006, la Unesco la declaró
+como “Sitio de Patrimonio Mundial Natural”, y como “Área de Importancia
+para la Conservación de las Aves” por la <negrita>BirdLife International</negrita
+>.</p>
+<p>Es una de las islas más visitadas del Pacífico cada año por científicos
+y buzos de todo el mundo. Está vigilada permanentemente por personal
+de la <negrita>Armada Nacional de Colombia</negrita>.</p>
+<imagen src="CS_07_09_CO_IMG17_small.jpg">
+<p><negrita>Alcatraz de Nazca</negrita> sobre las costas y <negrita
+>acantilados</negrita> de la isla de Malpelo.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso080&amp;IdRecurso=RES-89384FDED34940098288496C3BDE67D6"
+>Identifica características de las llanuras costeras e islas de Colombia</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_07_09_CO_22A244BD28EB458E9F3C2DF5C79F10B9">
+<seccion3Titulo>La llanura del Orinoco</seccion3Titulo>
+<seccion3Texto>
+<p><negrita>La llanura del Orinoco</negrita>, conocida en nuestro
+país como los <negrita>Llanos Orientales</negrita> por su ubicación
+en el territorio, se caracteriza por su relieve plano con algunas
+ondulaciones o desniveles como en la región del Vaupés, donde se encuentran
+varios cerros, mesetas y largos filos como parte de la estructura
+del macizo Guayanés, que tienen inclinación desde el piedemonte de
+la cordillera Oriental hacia el río Orinoco y continúan en los llanos
+de la Orinoquia venezolana formando <negrita>terrazas escalonadas</negrita
+>.</p>
+<p>Los desniveles de la superficie de la llanura y la estructura de
+sus rocas dificultan la navegación de los ríos que se desvían hacia
+el norte y hacia el sur, buscando las zonas o llanuras aluviales que
+sus cauces y caudales han formado.</p>
+<imagen src="CS_07_09_CO_IMG18_small.jpg">
+<p>Llanos Orientales de la Orinoquia colombiana.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_09_CO_22A244BD28EB458E9F3C2DF5C79F21C0">
+<seccion3Titulo>La llanura del Amazonas</seccion3Titulo>
+<seccion3Texto>
+<p>La llanura del <negrita>Amazonas</negrita> se diferencia de la
+del Orinoco por la cobertura vegetal constituida esencialmente por
+enormes selvas. El límite con la Orinoquia se basa en un criterio
+biogeográfico y ecológico (región amazónica selvática) más que al
+límite tradicionalmente definido por el <negrita>río Guaviare</negrita
+>. La Amazonia se extiende desde las selvas del oriente y sur del <negrita
+>río Vichada</negrita>, hasta la confluencia del <negrita>río Ariari</negrita
+>, y desde allí hasta las estribaciones del sur de la cordillera Oriental.</p>
+<imagen src="CS_07_09_CO_IMG19_small.jpg">
+<p>La <negrita>Amazonia</negrita> se ha visto afectada por la tala
+y quema llevada a cabo para la agricultura y la ganadería extensiva.</p>
+</imagen>
+<p>La llanura presenta algunas formaciones de relieves ondulados y
+aislados.</p>
+<p>La <negrita>sierra de la Macarena</negrita> se encuentra anexa
+al piedemonte andino, al suroriente del departamento del Meta. Se
+extiende sobre unos 120 km en dirección norte-sur, cuyas mayores elevaciones
+exceden los 2000 m. Tiene una estructura geológica intermedia entre
+el <negrita>macizo Guayanés</negrita> y la cordillera Oriental.</p>
+<p>Al sur del río Guaviare aparecen afloramientos rocosos, mesas,
+cerros-islas (<cursiva>inselbergs</cursiva>), que interrumpen la uniformidad
+de la planicie. Son de gran interés por las peculiaridades de su flora
+y fauna. El conjunto que alcanza la mayor extensión y elevación es
+la <negrita>serranía de Chiribiquete</negrita> y las <negrita>mesas
+de Iguaje</negrita>, donde la mayor elevación es de 1300 m. Están
+situados entre el sur del departamento del Guaviare y el departamento
+del Caquetá.</p>
+<imagen src="CS_07_09_CO_IMG20_small.jpg">
+<p>El río <negrita>Caño Cristales</negrita> nace en la <negrita>serranía
+de la Macarena</negrita>. Su coloración rojiza es por las plantas
+acuáticas que tiene en su lecho rocoso.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_09_CO_22A244BD28EB458E9F3C2DF5C79F39A8">
+<seccion3Titulo>Las cordilleras andinas</seccion3Titulo>
+<seccion3Texto>
+<p>Las cordilleras colombianas recorren el territorio desde el extremo
+suroccidental, donde las cordilleras ecuatorianas se unen al entrar
+a nuestro territorio en el <negrita>nudo de los Pastos</negrita> (complejo
+de conjunto de volcanes y cuencas de gran altura) y se divide en dos
+cordilleras: Occidental y Central, continuando hacia el norte y centro
+oriente; más adelante, desde el <negrita>macizo Colombiano</negrita
+> se levanta la cordillera Oriental.</p>
+<p>El nudo de los Pastos y las cordilleras iniciaron su levantamiento
+a partir del periodo <negrita>Cretáceo</negrita> y terminan su proceso
+en el <negrita>Terciario</negrita> o <negrita>Cenozoico</negrita>,
+paralelamente se presenta el hundimiento de los sectores periféricos,
+como los valles interandinos y sus cuencas hidrográficas, junto con
+la formación de los <negrita>glaciares</negrita> que cubren las regiones
+altas de las cordilleras (encima de los 3000 metros). Hace aproximadamente
+20 000 años empezó el deshielo.</p>
+<p>Las formaciones recientes (del Cretáceo y el Cenozoico) se consideran
+de alta sismicidad y activación volcánica.</p>
+<p>La <negrita>cordillera Occidental</negrita> se desprende de la
+Central en el <negrita>nudo de los Pastos</negrita> o <negrita>Huaca</negrita
+>, en el sector fronterizo con Ecuador. Continúa en dirección septentrional
+hasta el <negrita>nudo de Paramillo del Sinú</negrita>, en el departamento
+de Antioquia, donde se desprenden tres ramales en dirección sur-norte.
+Estos son (en orden de este a oeste): la <negrita>serranía de Ayapel</negrita
+>, interpuesta entre los valles de los ríos Cauca y San Jorge (tributarios
+del río Magdalena), <negrita>la serranía de San Jerónimo</negrita
+>, interpuesta entre los cursos superiores de los ríos San Jorge y
+Sinú, y la <negrita>serranía de Abibe</negrita>, al oeste del valle
+del Sinú, cuyas estribaciones inferiores llegan al litoral caribeño.</p>
+<p>La Occidental es la menos elevada de las tres cordilleras andinas
+de Colombia, pero alcanza alturas superiores a los 4000 m. La máxima
+altura se encuentra en los <negrita>farallones de Cali</negrita> (4280
+m). En la parte meridional está formada por material volcánico y su
+principal característica es la discontinuidad por la presencia de
+depresiones que la atraviesan.</p>
+<imagen src="CS_07_09_CO_IMG21_small.jpg">
+<p>Los farallones de Cali son un plegamiento de formaciones rocosas.</p>
+</imagen>
+<imagen src="CS_07_09_CO_IMG22_small.jpg">
+<p>El <negrita>volcán nevado del Ruiz</negrita> está ubicado entre
+los departamentos de Caldas y Tolima. Es el volcán más septentrional
+del c<negrita>inturón volcánico de los Andes</negrita> y ha estado
+activo durante cerca de dos millones de años, desde el <negrita>Pleistoceno
+temprano</negrita> o el <negrita>Plioceno tardío</negrita>.</p>
+</imagen>
+<p>La <negrita>cordillera Central</negrita> es una prolongación septentrional
+de la cordillera Real de Ecuador, y desde la frontera colombo-ecuatoriana
+hasta el <negrita>macizo de Almaguer</negrita> constituye la <negrita
+>divisoria</negrita> continental entre los <negrita>drenajes</negrita
+> del océano Atlántico y del Pacífico.</p>
+<p>Es la más elevada de las tres cordilleras. La vertiente oriental
+sobre el río Magdalena es más amplia que la vertiente occidental sobre
+el río Cauca. Tiene una gran actividad volcánica. Presenta algunos
+nevados permanentes, como los <negrita>volcanes nevados del Ruiz</negrita
+> (5400 m), <negrita>Santa Isabel</negrita> (4900 m), <negrita>Tolima</negrita
+> (5200 m) <negrita>Huila</negrita> (5365 m) y <negrita>Pan de Azúcar</negrita
+> (sierra de los Coconucos, 5000 m).</p>
+<p>Al norte sobre el área antioqueña, la cordillera pierde altura
+por la depresión de varios ramales en forma de abanico, terminando
+en la <negrita>serranía de San Lucas</negrita> en el departamento
+de Bolívar.</p>
+<imagen src="CS_07_09_CO_IMG23_small.jpg">
+<p>Mapa de la <negrita>serranía de San Lucas</negrita>.</p><?Pub Caret -2?>
+</imagen>
+<p>El <negrita>valle del río Cauca</negrita> está formado por una
+serie de fosas tectónicas e interpuestas por las cordilleras Central
+y Occidental. Tiene un recorrido en la dirección suroccidente- norte-nororiente.
+Desemboca en la margen izquierda del río Magdalena (del que es su
+principal afluente), formando un gran delta que corresponde a una
+fosa tectónica, la <negrita>depresión Momposina</negrita>.</p>
+<p>Al sur del valle del Cauca, separado por un ramal montañoso (la
+cuchilla del Tambo o dintel de Popayán), se encuentra otro valle interandino,
+el alto valle del río Patía, que corresponde a otra fosa tectónica
+(depresión). El Patía es tributario del océano Pacífico y su valle
+corta hacia el occidente la cordillera Occidental, en la denominada <negrita
+>Hoz de Minamá</negrita> o <negrita>Quiebra del Patía</negrita>.</p>
+<imagen src="CS_07_09_CO_IMG24_small.jpg">
+<p>El <negrita>río Cauca</negrita> nace en el macizo Colombiano a
+poca distancia de la <negrita>laguna El Buey</negrita>.</p>
+</imagen>
+<p>La <negrita>cordillera Oriental</negrita> se origina en el nudo
+de Almaguer al suroccidente del país, como un ramal de la cordillera
+Central. El recorrido se dirige hacia el nororiente hasta el <negrita
+>macizo del Tamá</negrita> o <negrita>Táchira</negrita>, en frontera
+con Venezuela. Después de la <negrita>depresión del Táchira</negrita
+> o <negrita>Burbúa</negrita> se divide en dos ramales: uno se prolonga
+hacia el nororiente formando la <negrita>cordillera de Mérida</negrita
+> (ubicada en territorio venezolano), y el otro ramal, la <negrita
+>serranía de Perijá</negrita> o <negrita>los Motilones</negrita>,
+incluyendo los <negrita>montes de Oca</negrita> y <negrita>sierra
+Negra</negrita>, se prolonga hacia el norte y termina al sur de la
+península de la Guajira en el <negrita>alto de Cedro</negrita>.</p>
+<p>La cordillera Oriental es la más ancha de las tres cordilleras,
+presenta valles transversales y a la altura de Neiva se produce una
+depresión, la de Uribe (1840 m), siendo la más baja. Hacia el norte
+sigue el <negrita>macizo o páramo de Sumapaz</negrita> con una altura
+media de 3500 a 4000 m. A partir de allí, la cordillera se ensancha
+formando altiplanicies como la Sabana de Bogotá, rodeada de cordones
+montañosos que alcanzan hasta los 3300 m.</p>
+<p>Este ensanchamiento termina en un valle transversal muy profundo
+de origen tectónico: el <negrita>río Chicamocha</negrita> (también
+llamado Chulo, Gallinazo, Sogamoso o Sube). Las cimas más elevadas
+se hallan en el sector de la <negrita>sierra Nevada del Cocuy</negrita
+> (Chita o Güicán) en el pico Ritacuba con 5330 m.</p>
+<p>En el departamento de Norte de Santander, entre la cordillera de
+Mérida y la serranía de Perijá, se halla la <negrita>cuenca del río
+Catatumbo</negrita>, que drena al lago de Maracaibo en Venezuela.</p>
+<imagen src="CS_07_09_CO_IMG25_small.jpg">
+<p>La <negrita>cresta</negrita> de la <negrita>cordillera Oriental</negrita
+> separa las cuencas del Amazonas y el Orinoco, que drenan sus aguas
+al océano Atlántico, de la <negrita>cuenca</negrita> del río Magdalena,
+que desemboca en mar Caribe.</p>
+</imagen>
+<p>El <negrita>valle del río Magdalena</negrita> está formado por
+una serie de depresiones o fosas tectónicas y está flanqueado al occidente
+por la cordillera Oriental, y al oriente, por la cordillera Central.</p>
+<p>Para la navegación el río se ha dividido en tres zonas: alta, media
+y baja. El alto Magdalena es una caída rápida de agua, no navegable
+(100 km), con muy pocos afluentes importantes. El curso medio llega
+hasta Puerto Nare, en Antioquia (a 640 km de recorrido). El río se
+desplaza sobre un valle más extenso y muy fértil. Recibe numerosos
+afluentes que aumentan su caudal.</p>
+<p>Los 810 km restantes son de recorrido más lento, con muchos depósitos
+de sedimentos y forma numerosos <negrita>meandros</negrita>, que dan
+origen a <negrita>caños</negrita>, <negrita>ciénagas</negrita> y <negrita
+>playones</negrita>. A esta altura se forma la <negrita>depresión
+Momposina</negrita>, donde el río se bifurca en dos brazos: el de
+Loba y el de Mompós, que crean una gran extensión cenagosa.</p>
+<p>Al llegar a la costa se explaya y forma la <negrita>ciénaga Grande
+de Santa Marta</negrita>. Un antiguo brazo del río, al occidente,
+fue rehabilitado para construir el canal del Dique, que desemboca
+en el mar Caribe al sur de Cartagena, y el canal principal termina
+en bocas de Ceniza en el departamento del Atlántico, donde forma un
+delta y descarga toneladas de sedimento en el Caribe.</p>
+<imagen src="CS_07_09_CO_IMG26_small.jpg">
+<p>El <negrita>río Magdalena</negrita> tiene su origen en la laguna
+de La Magdalena, en el <negrita>valle de las Papas</negrita> a 3600
+m, en el departamento del Huila y hace un recorrido de 1550 m.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso090&amp;IdRecurso=RES-D9C60DC5A09F4AE0BD1C92F50D2C21BD"
+>Reconoce características del relieve plano y quebrado de Colombia </enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_09_CO_DC4DE9F677C94FEC9AEEE5F2C3C673C7">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso100&amp;IdRecurso=RES-659C137F86C946EBBD9E128AA6E044BC"
+>Refuerza tu aprendizaje: Geomorfología y relieve de Colombia</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_09_CO_0A19B71C1A6B42898A39FF5C4D61F8FE">
+<seccion1Titulo>La hidrografía de Colombia</seccion1Titulo>
+<seccion1Texto>
+<p>Por las forma del relieve, Colombia es un país rico en recursos
+hídricos.</p>
+<p>A grandes rasgos, los ríos de Colombia se pueden agrupar en función
+del lugar donde desembocan. Las cinco grandes masas de agua en donde
+los ríos vierten sus caudales son: océano Pacífico, mar Caribe, río
+Amazonas, río Orinoco y lago de Maracaibo. A esta distribución se
+le conoce como <negrita>vertiente</negrita>.</p>
+<p>Las principales fuentes de <negrita>agua dulce</negrita> provienen
+de los picos de las altas montañas, que generalmente por el deshielo
+dan origen a ríos y forman depósitos de agua como lagunas.</p>
+<table border="1"><colgroup><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Centros hidrográficos</negrita></td>
+<td align="center"><negrita>Ubicación</negrita></td>
+<td align="center"><negrita>Nacimiento de los ríos</negrita></td>
+</tr>
+<tr>
+<td>Macizo Colombiano o nudo de Almaguer (estrella fluvial o esponja
+hídrica de Colombia), posee 65 lagunas y más de 15 páramos.</td>
+<td>Cordillera Central, departamento del Cauca.</td>
+<td>Magdalena, Cauca, Patía y Caquetá.</td>
+</tr>
+<tr>
+<td>Cerro de Caramanta.</td>
+<td>Cordillera Occidental.</td>
+<td>San Juan, San Juan antioqueño, Risaralda y algunos afluentes del
+Atrato.</td>
+</tr>
+<tr>
+<td>Nudo de los Pastos o de Huaca.</td>
+<td>Sur del departamento de Nariño.</td>
+<td>Putumayo, Mira y algunos afluentes del Patía.</td>
+</tr>
+<tr>
+<td>Nudo de Paramillo.</td>
+<td>Bifurcación de la cordillera Occidental, departamentos de Antioquia
+y Córdoba.</td>
+<td>Sinú, León, San Jorge y Riosucio.</td>
+</tr>
+<tr>
+<td>Páramo de Sumapaz.</td>
+<td>Cordillera Oriental, departamento de Cundinamarca. </td>
+<td>Guayabero, que al unirse con el Ariari forma el Guaviare; otros
+afluentes de los ríos Meta y Guaviare; Sumapaz y Cabrera, que son
+afluentes del Magdalena.</td>
+</tr>
+<tr>
+<td>Páramo de Guachaneque.</td>
+<td>Cordillera Oriental, norte de Cundinamarca.</td>
+<td>Ríos Bogotá, Upía, Sogamoso, Blanco, Guatiquía, Negro, Opón, entre
+otros.</td>
+</tr>
+<tr>
+<td>Nudo de Santurbán.</td>
+<td>Cordillera Oriental, donde se bifurca en la región de los Santanderes.</td>
+<td>Zulia, Lebrija; afluentes del Catatumbo y del Arauca.</td>
+</tr>
+<tr>
+<td>Sierra Nevada de Santa Marta (fuente de 35 cuencas hidrográficas).</td>
+<td>Región del Caribe.</td>
+<td>Cesar, Ranchería, Aracataca, Fundación, Ariguaní, Guatapurí.</td>
+</tr>
+</tbody>
+</table>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso110&amp;IdRecurso=RES-AD066BBD26D74DA5B521ED6223208136"
+>Características de la hidrografía de Colombia</enlace>
+</profundiza><seccion2
+id="S2_CS_07_09_CO_DC4DE9F677C94FEC9AEEE5F2C3C662B6">
+<seccion2Titulo>Las vertientes hidrográficas de Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>Colombia hidrográficamente está dividida en cinco vertientes, áreas
+hidrográficas o macrocuencas:</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>vertiente</negrita> del Caribe.</listaElemento>
+<listaElemento>La <negrita>vertiente</negrita> del Pacífico.</listaElemento>
+<listaElemento>La <negrita>vertiente</negrita> del Orinoco.</listaElemento>
+<listaElemento>La <negrita>vertiente</negrita> del Catatumbo.</listaElemento>
+<listaElemento>La <negrita>vertiente</negrita> del Amazonas.</listaElemento>
+</listaSinNumerar>
+<imagen ampliable="no" src="CS_07_09_CO_IMG27_small.jpg">
+<p>El mapa muestra la riqueza <negrita>hídrica</negrita> de Colombia.</p>
+</imagen>
+<seccion3 id="S3_CS_07_09_CO_22A244BD28EB458E9F3C2DF5C79F40B9">
+<seccion3Titulo>La vertiente del Caribe</seccion3Titulo>
+<seccion3Texto>
+<p>Es la <negrita>vertiente</negrita> más importante del país por
+recorrer de sur a norte el territorio. Se desarrolla un gran intercambio
+entre las regiones por donde pasa, activando la economía a través
+de la navegación. Es alimentada por los ríos que nacen en las tres
+cordilleras y que corren los grandes valles interandinos, así por
+los que nacen en la Sierra Nevada de Santa Marta. La mayoría son afluentes
+del río Magdalena.</p>
+<p>La vertiente del Caribe tiene una extensión de 363 878 km<superindice
+>2</superindice>. Los ríos más importantes son:  el Magdalena, donde
+confluyen los ríos Saldaña, Negro, Sumapaz, Bogotá, San Jorge, Cauca,
+Carare, Sogamoso, Chicamocha, Lebrija, Guarinó, Lagunilla, La Miel
+y Cesar. Otros ríos como el Atrato y Sinú, son de escasa longitud
+y recorren zonas de <negrita>alta pluviosidad</negrita>, que los hace
+bastante <negrita>caudalosos</negrita>.</p>
+<p>El sistema fluvial de la <negrita>cuenca Magdalena-Cauca</negrita
+> es el más importante de Colombia por su gran extensión y por la
+riqueza económica de las tierras que recorren.</p>
+<p>La <negrita>cuenca del río Atrato</negrita> es la principal vía
+de comunicación del Chocó. En relación con su longitud es uno de los
+ríos más <negrita>caudalosos</negrita> del mundo. Nace en el <negrita
+>cerro Plateado</negrita> y recorre en dirección sur-norte el valle
+húmedo localizado entre la cordillera Occidental y la serranía del
+Baudó. Vierte sus aguas al golfo de Urabá. Los afluentes más destacados
+son el río <negrita>Sucio</negrita>, el <negrita>Murrí</negrita>,
+el <negrita>Arquía</negrita> y el <negrita>Truandó</negrita>. Es una
+cuenca rica en oro, madera y es una región fértil.</p>
+<p>La <negrita>cuenca de la Sierra Nevada de Santa Marta y La Guajira</negrita
+>, por su cercanía al mar y por la pendiente de la sierra, se caracteriza
+por tener ríos cortos y torrentosos, aprovechables para el regadío
+y la producción hidroeléctrica. Los principales ríos son el <negrita
+>Fundación</negrita>, el <negrita>Ranchería</negrita> o <negrita>Riohacha</negrita
+> y el <negrita>Cesar</negrita>.</p>
+<imagen src="CS_07_09_CO_IMG28_small.jpg">
+<p>El río <negrita>Ranchería</negrita> es una arteria fluvial importante
+para el departamento de <negrita>La Guajira</negrita>.</p>
+</imagen>
+<p>La <negrita>cuenca del río Sinú</negrita> ocupa el tercer lugar
+en importancia, después del Magdalena y el Cauca en la vertiente del
+Caribe. Es una cuenca rica en ganadería vacuna y una de las regiones
+más fértiles de Colombia. Nace en el <negrita>nudo de Paramillo</negrita
+> y se divide en dos brazos: el <negrita>Lara</negrita> y el <negrita
+>caño Burge</negrita>, que se unen en el municipio de Lorica.</p>
+<imagen src="CS_07_09_CO_IMG29_small.jpg">
+<p><negrita>Desembocadura</negrita> del río <negrita>Sinú</negrita
+>.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_09_CO_22A244BD28EB458E9F3C2DF5C79F76D9">
+<seccion3Titulo>La vertiente del Pacífico</seccion3Titulo>
+<seccion3Texto>
+<p>La vertiente del Pacífico tiene una extensión de 76 500 km<superindice
+>2</superindice> y está formada por más de 240 ríos. Se caracterizan
+por ser relativamente <negrita>cortos</negrita> y bastante caudalosos,
+pues descienden de las serranías hasta llegar al océano. Nacen en
+la cordillera Occidental y la Serranía de Baudó,<negrita> barreras
+naturales</negrita> de los vientos oceánicos, lo que origina altas
+precipitaciones y alimenta el caudal de los ríos de esta vertiente.</p>
+<p>Las cuencas de esta vertiente la constituyen los ríos <negrita
+>Mira</negrita>, <negrita>Patía</negrita>, <negrita>San Juan</negrita
+>, <negrita>Baudó</negrita> y otras cuencas menores, como <negrita
+>Guapi</negrita> y <negrita>Micay</negrita>.</p>
+<p>La <negrita>cuenca del río San Juan</negrita> es la más importante
+de la vertiente del Pacífico, es el segundo río en extensión del Pacífico
+colombiano y el más caudaloso del Pacífico suramericano. Desemboca
+formando un extenso delta que arrastra abundante sedimentos. Entre
+los afluentes más importantes están los ríos <negrita>Pimadó</negrita
+>, <negrita>Tamaná</negrita>, <negrita>Sipí</negrita> y <negrita>Calima</negrita
+>.</p>
+<p>La <negrita>cuenca del río Patía</negrita> es la más extensa de
+la vertiente del Pacífico de Colombia y de Suramérica. Es un río de
+montaña y llanura, nace en el <negrita>nudo de los Pastos</negrita
+> y su recorrido va en dirección norte-sur. Sus principales afluentes
+son los ríos <negrita>Mamaconde</negrita>, <negrita>Juanambú</negrita
+>, <negrita>Mayo</negrita> y <negrita>Telembí</negrita>.</p>
+<p>La <negrita>cuenca del río Baudó</negrita> es la más pequeñas de
+la hoyas hidrográficas del Chocó. En su recorrido recibe las aguas
+de 112 afluentes, entre ríos, quebradas y arroyos. Otros ríos de esta
+cuenca desembocan directamente al Pacífico, como los ríos <negrita
+>Nuquí</negrita>, <negrita>Juradó</negrita> y <negrita>Valle</negrita
+>.</p>
+<imagen src="CS_07_09_CO_IMG30_small.jpg">
+<p>El río <negrita>Baudó</negrita> atraviesa algunos municipios del
+departamento del Chocó, como el Alto Baudó y el Bajo Baudó.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_09_CO_22A244BD28EB458E9F3C2DF5C79F65C8">
+<seccion3Titulo>La vertiente del Orinoco</seccion3Titulo>
+<seccion3Texto>
+<p>Abarca los Llanos Orientales y los ríos vierten sus aguas al río
+Orinoco. Incluye grandes ríos, como el <negrita>Guaviare</negrita
+>, el <negrita>Meta</negrita>, el <negrita>Arauca</negrita>, y otros
+más pequeños, como el <negrita>Tomo</negrita> y el <negrita>Vichada</negrita
+>. La mayoría de los ríos de esta vertiente nacen en la cordillera
+Oriental, descienden a la llanura y se explayan formando amplias <negrita
+>zonas de inundación</negrita>.</p>
+<p>La <negrita>cuenca del río Meta</negrita> es la  principal de los
+Llanos Orientales. La mayor parte de este río es navegable, por lo
+que es de gran utilidad para el comercio de esta extensa región y
+con Venezuela. Sus principales afluentes son los ríos <negrita>Cravo
+Sur</negrita>, <negrita>Casanare</negrita>, <negrita>Cusiana</negrita
+>, <negrita>Upía</negrita>, <negrita>Manacacías</negrita>, entre otros.</p>
+<p>La <negrita>cuenca del río Guaviare</negrita> se caracteriza por
+poseer ríos de selva con muchos raudales que dificultan la navegación.
+Su principal afluente es el río <negrita>Inírida</negrita>.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_09_CO_22A244BD28EB458E9F3C2DF5C79F64B7">
+<seccion3Titulo>La vertiente del Catatumbo</seccion3Titulo>
+<seccion3Texto>
+<p>Es la más pequeña de las vertientes, la atraviesan ríos de poca
+longitud que drenan al <negrita>lago Maracaibo</negrita> en Venezuela.
+Los ríos recorren en un corto trecho a Colombia, siendo el más importante
+el <negrita>Catatumbo</negrita>. Esta es una cuenca selvática con
+gran riqueza en fauna y flora, y sus principales afluentes son los
+ríos <negrita>Zulia</negrita> y <negrita>Sardinata</negrita>.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_07_09_CO_22A244BD28EB458E9F3C2DF5C79F53A6">
+<seccion3Titulo>La vertiente del Amazonas</seccion3Titulo>
+<seccion3Texto>
+<p>Es la mayor vertiente del mundo y a Colombia le corresponde cerca
+de 332 000 km2, y en ella están los ríos más largos del país. Los
+ríos de esta vertiente tienen un caudal considerable, pero su navegación
+se dificulta porque el suelo presenta desniveles que forman <negrita
+>raudales</negrita> o <negrita>rápidos</negrita>.</p>
+<p>Los ríos bañan la región selvática de la Amazonia colombiana, reciben
+aportes de diferentes caños que forman ciénagas y pantanos a lo largo
+de todo su curso. Los principales ríos son <negrita>Putumayo</negrita
+>, <negrita>Caquetá</negrita>, <negrita>Vaupés</negrita> y <negrita
+>Guainía</negrita>.</p>
+<p>La <negrita>cuenca del río Vaupés</negrita> nace de la confluencia
+de los ríos <negrita>Itilla</negrita> y <negrita>Unilla</negrita>,
+y se caracteriza por su gran caudal. En una longitud de 1000 km recibe
+los afluentes de los ríos <negrita>Tuy</negrita>, <negrita>Cuduyarí</negrita
+>, <negrita>Papurí</negrita> y <negrita>Queratí</negrita>.</p>
+<p>La <negrita>cuenca del río Putumayo</negrita> nace en el <negrita
+>nudo de los Pastos</negrita>, recorre 2000 km, de los cuales 1500
+km pertenecen a Colombia. Su principal afluente es el río <negrita
+>Guamués</negrita>.</p>
+<p>La <negrita>cuenca del río Caquetá</negrita> recorre 2200 km, de
+los cuales 1200 km corresponden a Colombia. Es navegable unos 1700
+km, interrumpidos por los <negrita>rápidos del Araracuara</negrita
+>. Sus principales afluentes son los ríos <negrita>Orteguaza</negrita
+>, <negrita>Caguán</negrita>, <negrita>Apaporis</negrita>, <negrita
+>Yarí</negrita>, <negrita>Cahuinarí</negrita>, <negrita>Igara-Paraná</negrita
+>.</p>
+<p>La <negrita>cuenca del río Amazonas</negrita> está formada por
+el segundo río más largo del mundo con 6762 km, de este recorrido
+a Colombia le corresponden solo 116 km, al sur del <negrita>trapecio
+amazónico</negrita>, donde marca límite natural con Brasil.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso120&amp;IdRecurso=RES-EE19B0202F9A416F9E9ABB3694FB19F7"
+>Identifica aspectos destacados de las verientes hidrográficas de
+Colombia</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_09_CO_677A475B97DE4FA29E759EDD3C8D78FF">
+<seccion2Titulo>Las lagunas, ciénagas y embalses</seccion2Titulo>
+<seccion2Texto>
+<p>Los depósitos de agua que posee Colombia se denominan lagunas.
+Se ubican en las altas montañas y son de poca extensión y profundidad.
+Colombia posee más de 1800 lagunas, que constituyen una importante
+reserva hídrica para el país.</p>
+<p>Las lagunas más importantes son:</p>
+<listaSinNumerar>
+<listaElemento>Laguna de <negrita>La Cocha</negrita>, en el departamento
+de Nariño, a 2760 m.</listaElemento>
+<listaElemento>Laguna de <negrita>Tota</negrita> ,en el departamento
+de Boyacá, a 3000 m</listaElemento>
+<listaElemento>Laguna del <negrita>Otún</negrita>, en el departamento
+de Risaralda.</listaElemento>
+<listaElemento>Laguna de <negrita>La Magdalena</negrita> en el Macizo
+Colombiano.</listaElemento>
+<listaElemento>Laguna del <negrita>Buey</negrita>, en el Macizo Colombiano.</listaElemento>
+<listaElemento>Laguna de <negrita>Fúquene</negrita>, en los departamentos
+de Cundinamarca y Boyacá.</listaElemento>
+<listaElemento>Laguna de <negrita>Suesca</negrita>, en Cundinamarca.</listaElemento>
+<listaElemento>Laguna de <negrita>Guatavita</negrita>, en Cundinamarca.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_07_09_CO_IMG31_small.jpg">
+<p>La <negrita>laguna de Tota</negrita> es la más grande del país.
+Posee una playa natural (<negrita>Playa Blanca</negrita>) que está
+a la mayor altura sobre el nivel del mar en Colombia.</p>
+</imagen>
+<p>Las <negrita>ciénagas</negrita> constituyen depósitos de agua no
+estancada, más extensas que las lagunas. Sus aguas provienen de los
+ríos que las forman al atravesar las zonas más bajas y amplias de
+la llanura del Caribe. En Colombia se distinguen tres regiones cenagosas:
+las llanuras del Bajo Magdalena, la baja llanura del río Atrato y
+la baja llanura del río Sinú.</p>
+<p>Son importantes recursos hídricos para las regiones, porque en
+ellas se realizan actividades pesqueras y agrícolas que abastecen
+a las poblaciones vecinas. Entre las más importantes están las ciénagas
+de <negrita>Zapatosa</negrita>, <negrita>ciénaga Grande de Santa Marta</negrita
+>, <negrita>Pajaral</negrita>, <negrita>Tesca</negrita>, <negrita
+>Grande del Sinú</negrita>, <negrita>Ayapel</negrita> y <negrita>Lorica</negrita
+>.</p>
+<p>Los embalses, o también llamados lagos artificiales o represas,
+son depósitos de agua estancada artificialmente proveniente del caudal
+de uno o varios ríos que confluyen. Entre las más importantes para
+la producción de energía eléctrica del país están: <negrita>La Regadera</negrita
+>, <negrita>Muña</negrita>, <negrita>Neusa</negrita>, <negrita>Sisga</negrita
+> y <negrita>Tominé</negrita> en Cundinamarca, que además surten de
+agua a Bogotá. En el Valle del Cauca: <negrita>Calima</negrita> y <negrita
+>Anchicayá</negrita>; en Antioquia: <negrita>Riogrande</negrita> y <negrita
+>Guadalupe</negrita>; en el Tolima: <negrita>Prado</negrita>; en el
+Huila: <negrita>Betania</negrita> y <negrita>El Quimbo</negrita>;
+en Atlántico: <negrita>Guájaro</negrita>; en Boyacá: <negrita>Chivor</negrita
+> o Santa María, que es la mayor de todas.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso130&amp;IdRecurso=RES-41ADFDEA46CD4307BA7030BB6AC8FB64"
+>Reconoce características de las ciénagas y embalses del territorio
+colombiano</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_09_CO_0952CF414CE84D19BDDC14870921258D">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso140&amp;IdRecurso=RES-FE0F9856BE104112AF678303938025E2"
+>Refuerza tu aprendizaje: Hidrografía de Colombia</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_09_CO_F4824133607F4F4097138D68CFB6CEED">
+<seccion1Titulo>La climatología de Colombia</seccion1Titulo>
+<seccion1Texto>
+<p>Colombia presenta una gran variedad climática en relación con su
+ubicación en la zona de <negrita>latitudes bajas</negrita>, la forma
+del <negrita>relieve</negrita> o <negrita>altitud</negrita> y los <negrita
+>factores atmosféricos</negrita> (intensidad de la <negrita>radiación
+solar</negrita>, <negrita>temperatura</negrita>, <negrita>precipitaciones</negrita
+>, sistemas de <negrita>vientos</negrita> y <negrita>humedad atmosférica</negrita
+>) de carácter local y los vientos alisios (planetarios).</p>
+<seccion2 id="S2_CS_07_09_CO_0952CF414CE84D19BDDC14870921147C">
+<seccion2Titulo>Los factores del clima en Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>En relación con  la <negrita>latitud</negrita>, Colombia muestra
+un periodo de luz solar diaria con poca variación durante el año,
+pues la diferencia de los <negrita>solsticios</negrita> (días más
+cortos y más largos del año) es apenas de 29’ y 16,5” en el extremo
+meridional del país (desembocadura de la quebrada San Antonio) y de
+86’ y 14,4” en el extremo septentrional (Punta Gallinas).</p>
+<p>Los máximos totales de horas de sol por año se presentan en la
+península de la Guajira y los valores mínimos de <negrita>brillo solar</negrita
+> en las áreas de selvas nubladas (Las Palomas en Manizales) y de
+selvas húmedas cálidas.</p>
+<p>La <negrita>temperatura media</negrita> tiene poca variación durante
+el año, pues el promedio de variación entre los meses más fríos y
+más cálidos es menor a 5 ºC, es decir que el clima es <negrita>isotérmico</negrita
+>.</p>
+<p>La oscilación diaria de temperatura del aire es mucho mayor; por
+ejemplo, en los páramos con días despejados puede marcar hasta 20
+ºC en el día y en las noches registrar heladas.</p>
+<p>Con la <negrita>altitud</negrita> la temperatura disminuye en las
+zonas montañosas, pues por cada 100 metros que se asciende en una
+montaña esta disminuye entre 0,55 y 0,66 ºC, lo que determina los <negrita
+>pisos térmicos</negrita>. Colombia, por tener tres cordilleras, posee
+diferentes pisos térmicos desde el nivel del mar (cálido húmedo y
+cálido seco) hasta nevado, pasando por los pisos templado y frío.</p>
+<p>Las <negrita>heladas nocturnas</negrita> son usuales entre los
+3800 y 4000 m e inclusive a los 2500 m durante días claros seguidos
+de noches despejadas, que se presentan durante los veranos o temporadas
+de sequía.</p>
+<p>La <negrita>precipitación atmosférica</negrita> en Colombia se
+manifiesta en forma de lluvia, granizo o pedrisco, nieve y condensación
+de nieblas.</p>
+<p>La cuantía anual de precipitaciones varía desde un mínimo de 150
+mm registrado en San José de bahía Honda, en el departamento de La
+Guajira, hasta 13 600 mm registrados en Tutunendó en el Chocó, lo
+que hace de este departamento una de las zonas más lluviosas del mundo.</p>
+<p>La periodicidad de las lluvias está determinada por la posición
+del país en la <negrita>Zona de Confluencia Intertropical (ZCI)</negrita
+>; es decir, zona de confluencia de los vientos <negrita>alisios del
+hemisferio norte</negrita>, que soplan hacia el suroccidente y <negrita
+>alisios del hemisferio sur</negrita>, que soplan hacia el nororiente.
+Es una zona de confluencia de vientos y no de emisión de vientos.</p>
+<p>Estos vientos soplan a baja altura cargados de humedad y al encontrarse
+crean una zona de <negrita>baja presión atmosférica</negrita> que
+favorece el ascenso de las nubes, su enfriamiento y condensación de
+vapor con la consiguiente precipitación.</p>
+<p>En las áreas donde se encuentra la <negrita>ZCI</negrita> el tiempo
+es <negrita>ciclónico</negrita>, es decir, tiempo lluvioso, nublado
+y fresco. Al desplazarse esta zona el tiempo se hace <negrita>anticiclónico</negrita
+>, es decir, seco, despejado y cálido. En resumen, al trasladarse
+la ZCI hacia el norte o hacia el sur, determina la aparición de temporadas
+lluviosas o secas.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_07_09_CO_0952CF414CE84D19BDDC14870921429F">
+<seccion2Titulo>La clasificación de los climas en Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>Colombia está ubicada sobre la <negrita>línea del Ecuador</negrita
+> y en la <negrita>Zona Intertropical</negrita>. Los climas de las
+regiones varían de acuerdo con las diferentes altitudes sobre el nivel
+del mar. Los climas de altitud o de alta montaña tropical están definidos
+por los pisos térmicos: cálido, húmedo de tierras templadas y frías,
+húmedo de tierra fría y páramo, y nieve y hielos tropicales.</p>
+<p>La clasificación de los climas de latitud son: clima superhúmedo
+de selva ecuatorial, húmedo, de sabana, de desierto y de estepa.</p>
+<imagen src="CS_07_09_CO_IMG32_small.jpg">
+<p>Climas de altitud y latitud en Colombia.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso150&amp;IdRecurso=RES-5C293B6979D8448690F6C8CD71D593FF"
+>La diversidad climática en Colombia</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_09_CO_0952CF414CE84D19BDDC14870921218E">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso160&amp;IdRecurso=RES-07C89F7835054F7D9C72A6C761BFF01C"
+>Refuerza tu aprendizaje: La clasificación de los climas en Colombia</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_09_CO_760A99E71D824035B1C9EE468FC22E20">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso170&amp;IdRecurso=RES-4593C21A8EBE4A0ABD9F4BF61EDE3232"
+>Competencias: elaboración de un mapa físico de Colombia</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso180&amp;IdRecurso=RES-70E64F02A91B4EBBBAB3B6448B644549"
+>Proyecto: estudio del territorio y de las actividades económicas</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_07_09_CO_3566F67AC253475EB104437F9E363DE0"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso200&amp;IdRecurso=RES-D50DA26C844C47FB9FE3FA1AFB8EDCCC"
+>Mapa conceptual del tema Geografía física de Colombia</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso210&amp;IdRecurso=RES-F715FEC418A94FDC85F3D71037D0E6CE"
+>Evalúa tus conocimientos sobre el tema Geografía física de Colombia</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://seisan.sgc.gov.co/RSNC/index.php/material-educativo/conceptos-basicos"
+>Movimientos sísmicos en Colombia</enlace>
+<enlace destino="http://www.astromia.com/tierraluna/origentierra.htm"
+>Origen de la Tierra</enlace>
+<enlace
+destino="http://www.ideam.gov.co/web/ecosistemas/georfologia-colombia"
+>Geomorfología de Colombia</enlace>
+<enlace destino="http://www.cioh.org.co/derrotero">Costas e islas
+de Colombia</enlace>
+</enlacesreferencia></masinformacion></libro>

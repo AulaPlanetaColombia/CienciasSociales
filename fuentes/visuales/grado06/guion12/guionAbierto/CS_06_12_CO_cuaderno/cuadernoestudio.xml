@@ -1,398 +1,796 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_06_12_CO">
-  <libroTitulo>Las normas en las primeras sociedades</libroTitulo>
-  <seccion1 id="S1_CS_06_12_CO_F25DD115C7F84628A743C21175A6FC58">
-    <seccion1Titulo>Las normas y la vida social</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_12_CO_img_01_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso010&amp;IdRecurso=RES-C8FD8850FC664587854B67BB2B52B970">Recurso F4-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_06_12_CO_03B0BF96E2C948058E89DF76AB8446F1">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_12_CO_img_02_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso020&amp;IdRecurso=RES-CD47EEAD43A74279849FAE73E4990578">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_12_CO_3FCDD5F73FE64BF6B3FB3C4BB1F7A60A">
-    <seccion1Titulo>Clases de normas</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_06_12_CO_D3B64350BFB64D67A5531AD8A2D933AB">
-        <seccion2Titulo>Las normas religiosas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_12_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso030&amp;IdRecurso=RES-8B6672959DB64B2C8A49272D922379C9">Recurso M5D-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_12_CO_A2E84D811C8B48BEA1AD5849BB1E36CB">
-        <seccion2Titulo>Las normas sociales</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_12_CO_img_04_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso040&amp;IdRecurso=RES-55F37C92BC7843DDB45B5832C6938E09">Video como media principal - 01</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_12_CO_55BE49F3AE6E4FD7AF19E4543D340E24">
-        <seccion2Titulo>Las normas jurídicas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_12_CO_img_05_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso050&amp;IdRecurso=RES-22D082AD817A4FB79FBD867710E5BB48">Video como media principal - 02</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_12_CO_img_06_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso060&amp;IdRecurso=RES-D4F34316B4FA4621AE6A157829A31ED7">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_12_CO_F6B79E8BF1D040AC916136C9330A74EC">
-    <seccion1Titulo>Normas en la Edad Antigua</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_06_12_CO_B1944BB691BA4D2999D5E115FD5D3D80">
-        <seccion2Titulo>Normas en la Antigua Mesopotamia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_12_CO_img_07_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_12_CO_EB66B8534E474AD0BE7279AA334116D8">
-        <seccion2Titulo>Normas en el Antiguo Egipto</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_12_CO_img_08_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso030&amp;IdRecurso=RES-8B6672959DB64B2C8A49272D922379C9">Recurso M5D-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_12_CO_E4247BDF5D224B368D25F9C3772A2D06">
-        <seccion2Titulo>Normas en la Antigua China</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_12_CO_img_09_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso090&amp;IdRecurso=RES-6325A4D0DC964A66A964F28D8E6CB666">Recurso M2A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_12_CO_02AA495202F041598FEE50A484DC0F73">
-        <seccion2Titulo>Normas en la Antigua Grecia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_12_CO_img_10_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso100&amp;IdRecurso=RES-66B6CAFF304144E5A25509AB888C9652">Recurso M1C-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_12_CO_40376246785C4BDB96E4C5609F85F324">
-        <seccion2Titulo>Normas en la Antigua Roma</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_12_CO_img_11_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_12_CO_img_12_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso120&amp;IdRecurso=RES-24679754727C4C2F9B593ED08BCD56F4">Recurso M101A-03</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_12_CO_img_15_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso110&amp;IdRecurso=RES-A692BEC79AD146FAB5DC3049FB1F36FF">Recurso F10-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_12_CO_C7A1E2D7DFD94F55A3ED515568D7C1CF">
-    <seccion1Titulo>Normas en América precolombina</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_12_CO_img_13_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso130&amp;IdRecurso=RES-AB8396F3F08243198804FFFD4AFB0B3A">Recurso F8-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_12_CO_img_14_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_12_CO_589DBEB891324298BFD6EB0114AC209C">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_12_CO_img_16_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso160&amp;IdRecurso=RES-DC4AA1A1BF9F4354B48BCB8EB0029C5F">Recurso M101A-04</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_12_CO_img_17_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso170&amp;IdRecurso=RES-F300ADD9913F404CA785E222823A7D59">Recurso F13-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_06_12_CO_630C54B73878423E89D2192AF09E932B">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso190&amp;IdRecurso=RES-F622A6AC59B34F46A4A8127F7E6297CB">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso200&amp;IdRecurso=RES-98711768F3A6477CAAED51B66F3621C0">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Las normas en las primeras sociedades</libroTitulo>
+<seccion1 id="S1_CS_06_12_CO_F25DD115C7F84628A743C21175A6FC58">
+<seccion1Titulo>Las normas y la vida social</seccion1Titulo>
+<seccion1Texto>
+<p>Los seres humanos han convivido con otros a lo largo de su historia.
+Ha sido la experiencia de la humanidad desde la organización de pequeños
+grupos integrados por primates hace más de seis millones de años hasta
+las sociedades actuales con una población de más de 7000 millones
+de personas.</p>
+<imagen ampliable="no" src="CS_06_12_CO_IMG01_small.jpg">
+<p>Desde los orígenes de la humanidad se comenzó a regular la vida
+social con el fin de asegurar la supervivencia.</p>
+</imagen>
+<p>Para generar una convivencia pacífica entre los integrantes de
+la sociedad se regulan los comportamientos humanos a través de <negrita
+>normas</negrita> que contienen <negrita>obligaciones</negrita>, expresan <negrita
+>mandatos</negrita> o <negrita>prohibiciones</negrita>, determinan <negrita
+>sanciones</negrita> y se deben obedecer<enlace
+destino="http://www.educatina.com/educacion-civica/sociedad/formacion-ciudadana/la-convivencia/normas-de-convivencia-video"
+> [VER]</enlace>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso010&amp;IdRecurso=RES-C8FD8850FC664587854B67BB2B52B970"
+>Normas y sociedades humanas</enlace>
+</profundiza><recuerda><recuerdaTexto>
+<p>La convivencia pacífica implica acordar normas entre los miembros
+de la comunidad.</p>
+</recuerdaTexto></recuerda><seccion2
+id="S2_CS_06_12_CO_03B0BF96E2C948058E89DF76AB8446F1">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso020&amp;IdRecurso=RES-CD47EEAD43A74279849FAE73E4990578"
+>Refuerza tu aprendizaje: Las normas y la vida social</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_12_CO_3FCDD5F73FE64BF6B3FB3C4BB1F7A60A">
+<seccion1Titulo>Clases de normas</seccion1Titulo>
+<seccion1Texto>
+<p>Las normas que regulan la vida humana son de diversas clases: religiosas,
+morales, sociales y jurídicas. Los tipos de normas designan <negrita
+>órdenes normativas</negrita> de la conducta humana, ya que buscan
+regular lo que hace o deja de hacer.</p>
+<p>Como persona se está sometido a varios tipos de normas. Por ejemplo,
+Juan Pérez, colombiano, católico, conservador, miembro del club de
+lectores de la Biblioteca Nacional, padre de familia y empleado de
+una empresa de transporte, está regido por las leyes colombianas,
+las normas del catolicismo, las normas del partido político, las del
+club al que está afiliado, las normas sociales de urbanidad vigentes
+y el reglamento interno de la empresa en la que trabaja.</p>
+<imagen src="CS_06_12_CO_IMG02_small.jpg">
+<p>Los seres humanos al organizarse socialmente adoptaron diferentes
+tipos de normas que, en las primeras sociedades humanas, comenzaron
+a regular la conducta entre ellos, con la divinidad y los gobernantes.</p>
+</imagen>
+<p>Estos son ejemplos de las clases de normas mencionadas:</p>
+<listaSinNumerar>
+<listaElemento>Para un miembro de la Iglesia católica: “Participar
+en la misa los domingos y fiestas de guardar”, es una norma <negrita
+>religiosa</negrita>.</listaElemento>
+<listaElemento>Para las relaciones entre los seres humanos: “Lo que
+una persona no desea que le hagan, no debe hacerlo a los demás”, es
+una norma <negrita>moral</negrita>.</listaElemento>
+<listaElemento>En un grupo en un momento de su historia: “Los hombres
+al saludar deben quitarse el sombrero e inclinar la cabeza”, es una
+norma <negrita>social</negrita>.</listaElemento>
+<listaElemento>En el Código Penal para castigar el homicidio: “El
+que matare a otro incurrirá en prisión de 13 a 25 años”, es una norma <negrita
+>jurídica</negrita>.</listaElemento>
+</listaSinNumerar>
+<p>Hay conductas que están reguladas por diferentes clases de normas
+y hay órdenes normativas que no regulan ciertas conductas:</p>
+<p>“No matar” es una conducta que <negrita>regula</negrita> la vida
+social. Igualmente está en las normas religiosas: “no matarás”. Moralmente
+se considera la “vida sagrada”. Desde las normas jurídicas se consagra
+el delito denominado “homicidio”. En estos casos las normas coinciden
+en la protección de la vida humana como valor y derecho.</p>
+<p>Hay casos en los cuales a un orden normativo no le interesa regular
+una conducta. “Saludar al entrar a un sitio” es importante desde el
+punto de vista de la urbanidad, pero no es relevante desde el derecho.
+“Dar el diezmo” o “confesarse” es una norma religiosa que se vive
+en comunidades cristianas y en religiones como la judía o musulmana,
+pero no tiene trascendencia jurídica.</p>
+<recuerda><recuerdaTexto>
+<p>Las normas son de diversas clases y tienen distintos fines, por
+eso es necesario conocerlas y cumplirlas.</p>
+</recuerdaTexto></recuerda><seccion2
+id="S2_CS_06_12_CO_D3B64350BFB64D67A5531AD8A2D933AB">
+<seccion2Titulo>Las normas religiosas</seccion2Titulo>
+<seccion2Texto>
+<p>Las religiones tienen como objeto regular la relación de los creyentes
+con Dios o los dioses. En ellas se encuentran <negrita>creencias</negrita
+>, <negrita>ritos</negrita>, <negrita>ceremonias</negrita>, lugares
+destinados al culto, festividades y autoridades responsables de las
+comunidades. Por eso se establecen normas que deben cumplir quienes
+pertenecen a ellas por ser consideradas reveladas por la divinidad<enlace
+destino="https://www.youtube.com/watch?v=RXvsNk64uLc"> [VER]</enlace
+>.</p>
+<p>Las siguientes regulaciones son ejemplos de normas religiosas:</p>
+<listaSinNumerar>
+<listaElemento>En el <negrita>judaísmo</negrita> hay normas que van
+desde “creer solo en Dios” o “No hacerse esculturas para adorarle”,
+hasta las que se refieren a la prohibición de comer cosas impuras
+(reptiles terrestres o marinos, etc.).</listaElemento>
+<listaElemento>En el <negrita>cristianismo</negrita> se encuentran
+los mandamientos de la Iglesia (“confesar los pecados mortales al
+menos una vez al año, y en peligro de muerte”; “Ayunar el Miércoles
+de Ceniza y el Viernes Santo”).</listaElemento>
+<listaElemento>En la religión <negrita>musulmana</negrita> se tienen
+normas para la realización de las oraciones (cinco veces al día y
+mirando hacia la Meca), hacer obras de caridad y dar limosna, ayunar
+durante el ramadán, y peregrinar a La Meca.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_06_12_CO_IMG03_small.jpg">
+<p>Zoroastrismo, hinduismo, jainismo, budismo, confucionismo, taoísmo,
+sintoísmo, judaísmo, cristianismo, islamismo son religiones que se
+practican en el mundo. Unas son monoteístas, creen en un solo Dios.
+Otras son politeístas, creen en muchos dioses. Algunas desaparecieron
+con el paso del tiempo, mientras otras se continúan practicando.</p>
+</imagen>
+<p>Frente a las normas religiosas es importante tener en cuenta:</p>
+<listaNumerada>
+<listaElemento>Es esencial la <negrita>motivación personal</negrita
+> que tiene quien cumple la norma y su realización efectiva.</listaElemento>
+<listaElemento>Las obligaciones que tienen los miembros de una religión
+no confieren facultades para exigir a otros su cumplimiento.</listaElemento>
+<listaElemento>Las religiones señalan castigos por no hacerlo: desde
+la expulsión del grupo hasta aquellos que se señalan para después
+de la muerte.</listaElemento>
+</listaNumerada>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso030&amp;IdRecurso=RES-8B6672959DB64B2C8A49272D922379C9"
+>Conoce las principales religiones y sus normas</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_12_CO_A2E84D811C8B48BEA1AD5849BB1E36CB">
+<seccion2Titulo>Las normas sociales</seccion2Titulo>
+<seccion2Texto>
+<p>Las sociedades buscan la mejor forma de vida más allá de los grupos
+religiosos, las ideologías políticas o las tradiciones culturales.
+Para ello, señalan normas y valores que tienen como objeto resaltar
+la esencia de todos como miembros de la humanidad.</p>
+<p>Las normas morales se centran en la <negrita>dignidad</negrita
+> de todos y en el <negrita>respeto</negrita> de la vida, incluyendo
+no solo a los seres humanos sino a los demás seres vivos de la naturaleza.</p>
+<p>El pilar de las normas morales es la llamada regla de oro: <negrita
+>“No hacer a otros lo que no te gustaría que te hicieran a ti”</negrita
+>, que refleja la empatía que se puede sentir por los seres humanos
+en situaciones concretas, es decir, la capacidad de ponerse en los
+“zapatos” del otro.</p>
+<imagen src="CS_06_12_CO_IMG04_small.jpg">
+<p>La búsqueda de una moralidad común que respete al ser humano y
+alcance el bien y la justicia ha recorrido la historia desde los griegos
+hasta hoy.</p>
+</imagen>
+<p>Con respecto a las normas morales, es necesario tener en cuenta:</p>
+<listaNumerada>
+<listaElemento><negrita>No</negrita> son <negrita>impuestas</negrita
+>, sino que son obedecidas desde el convencimiento interior de cada
+persona, su autonomía y libertad.</listaElemento>
+<listaElemento>Las obligaciones que se siguen no confieren facultades
+frente a otros para exigirles el comportamiento que se considera bueno.</listaElemento>
+<listaElemento>Son las personas quienes examinan lo que hacen y pueden
+recompensarse o sancionarse.</listaElemento>
+</listaNumerada>
+<p>Aunque hay bastante cercanía entre las normas religiosas y las
+morales, no todas las normas morales son religiosas o pueden darse
+normas religiosas que se consideren inmorales. Por ejemplo, algunas
+religiones antiguas determinaban la necesidad de sacrificios para
+mantener la protección de una divinidad.</p>
+<p>La <negrita>ética</negrita> como disciplina estudia o reflexiona
+las <negrita>normas morales</negrita> que se adoptan en una sociedad
+y los valores en las que se fundamentan<enlace
+destino="https://www.youtube.com/watch?v=sQ_DWG34UOE"> [VER]</enlace
+>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_12_CO_55BE49F3AE6E4FD7AF19E4543D340E24">
+<seccion2Titulo>Las normas jurídicas</seccion2Titulo>
+<seccion2Texto>
+<p>Las normas sociales son llamadas <negrita>convencionalismos</negrita
+> sociales, reglas de trato social o de <negrita>urbanidad</negrita
+>.</p>
+<p>Son creadas por un grupo social determinado con el objetivo de
+procurar una convivencia adecuada desde el decoro, la decencia y la
+cortesía, llamadas <negrita>“buenas maneras”</negrita>.</p>
+<p>Se adoptan de forma general a través de la costumbre, es decir,
+de su repetición. Eso hace que continúen, cambien o se supriman con
+el paso del tiempo<enlace
+destino="https://www.youtube.com/watch?v=owxKNiQ-pkU"> [VER]</enlace
+>.</p>
+<p>En el siglo XIX en la Urbanidad de Carreño se consideraba de mala
+educación “levantarse en la noche a satisfacer necesidades corporales”
+o “detener a una persona en la calle”. Actualmente se consideran normas
+sociales “saludar al llegar a un sitio y despedirse al salir de él”
+y “ceder el asiento en el transporte público a personas mayores”,
+entre otras.</p>
+<imagen src="CS_06_12_CO_IMG05_small.jpg">
+<p>Para comprender las reglas sociales es importante estudiar la cultura
+de los grupos que las crean, su historia y el tiempo en que estuvieron
+vigentes.</p>
+</imagen>
+<p>Frente a los convencionalismos sociales es importante tener en
+cuenta:</p>
+<listaNumerada>
+<listaElemento>Se imponen a los miembros de un determinado grupo social
+por pertenecer a él.</listaElemento>
+<listaElemento>Importa la realización externa de la conducta regulada
+más que la intención de quien la cumple.</listaElemento>
+<listaElemento>Las obligaciones impuestas a los miembros del grupo
+social no confieren facultades para obligar a otros a cumplirlas.</listaElemento>
+<listaElemento>Cuando se genera un incumplimiento se puede presentar
+una presión del grupo que lleva a la exclusión como sanción social.</listaElemento>
+</listaNumerada>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso040&amp;IdRecurso=RES-55F37C92BC7843DDB45B5832C6938E09"
+>Derecho de familia</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_12_CO_B1944BB691BA4D2999D5E115FD5D4E91">
+<seccion2Titulo>Las normas jurídicas</seccion2Titulo>
+<seccion2Texto>
+<p>En las sociedades se crean normas jurídicas que prescriben, prohíben,
+autorizan o permiten determinadas conductas. Cuando nos referimos
+a ellas estamos en el campo del <negrita>derecho</negrita>, entendido
+como conjunto de normas que regulan la conducta de una persona frente
+a otra.</p>
+<p>Organizan la convivencia pacífica entre las personas en una sociedad
+desde valores como la <negrita>justicia</negrita> y la <negrita>seguridad</negrita
+>. Igualmente, su aplicación se vincula al Estado como institución
+al gobernar a la población en un territorio determinado.</p>
+<p>El derecho organiza el poder político al establecer sus funciones,
+órganos que las ejercen, competencias que poseen e integra a la sociedad
+al señalar fines colectivos. De ese modo su ejercicio se torna legal<enlace
+destino="https://www.youtube.com/watch?v=pg0Q-dpDrWA"> [VER]</enlace
+>.</p>
+<imagen src="CS_06_12_CO_IMG06_small.jpg">
+<p>Observamos el derecho de muchas formas: leyes, códigos, resoluciones,
+decretos, contratos, etc. Su importancia está en lo que regulan y
+en su obligatorio cumplimiento.</p>
+</imagen>
+<p>Frente a las normas jurídicas es importante tener en cuenta:</p>
+<listaNumerada>
+<listaElemento>Lo que importa es que se realice la conducta regulada.</listaElemento>
+<listaElemento>Se imponen deberes y se confieren facultades, lo que
+implica que al cumplir lo señalado se puede exigir a otros su cumplimiento. </listaElemento>
+<listaElemento>Las crea e impone el Estado y puede obligar a cumplirlas
+de forma coactiva, es decir, mediante el empleo de la fuerza o violencia
+legítima que toma el Estado.</listaElemento>
+</listaNumerada>
+<recuerda><recuerdaTexto>
+<p>Como miembros de la sociedad tenemos la obligación de cumplir diferentes
+normas. De esa forma, la convivencia es posible entre familiares,
+amigos, vecinos, compatriotas o extranjeros.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso050&amp;IdRecurso=RES-22D082AD817A4FB79FBD867710E5BB48"
+>Del derecho medieval a la Revolución francesa</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_12_CO_EB66B8534E474AD0BE7279AA334127A9">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso060&amp;IdRecurso=RES-D4F34316B4FA4621AE6A157829A31ED7"
+>Refuerza tu aprendizaje: Clases de normas</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_12_CO_F6B79E8BF1D040AC916136C9330A74EC">
+<seccion1Titulo>Normas en la Edad Antigua</seccion1Titulo>
+<seccion1Texto>
+<p>Hacer un recorrido por las primeras civilizaciones de la humanidad
+y las principales normas que se adoptaron, implica tener en cuenta
+la importancia que tuvo el paso de organizaciones nómadas a sedentarias.</p>
+<p>La construcción de asentamientos humanos y la invención de la escritura
+trajeron cambios en el gobierno de las personas, la administración
+de justicia, las relaciones sociales y la producción de bienes agrícolas
+y su intercambio.</p>
+<p>Alrededor de esas actividades se generó una <negrita>organización
+social piramidal</negrita> que puso en la cúspide al gobernante y
+sus funcionarios, a los sacerdotes de la religión de la ciudad y a
+las familias fundadoras del poblado. El <negrita>poder político</negrita
+> se mezcló con el <negrita>religioso</negrita>. Los grandes centros
+de poder fueron el palacio de gobierno y el templo, y desde ellos
+se crearon normas para los súbditos.</p>
+<imagen ampliable="no" src="CS_06_12_CO_IMG07_small.jpg">
+<p>Tres comunes denominadores de las normas en la Antigüedad se pueden
+resaltar en principio: su carácter religioso, el poder social de las
+clases altas y la <negrita>ley del Talión</negrita> como base.</p>
+</imagen>
+<seccion2 id="S2_CS_06_12_CO_B1944BB691BA4D2999D5E115FD5D3D80">
+<seccion2Titulo>Normas en la antigua Mesopotamia</seccion2Titulo>
+<seccion2Texto>
+<p>Mesopotamia fue el escenario del surgimiento, esplendor y decadencia
+de las primeras ciudades y los primeros imperios en la historia humana.
+La fértil “tierra entre ríos” fue propicia para consolidar comunidades
+agrícolas que permitieran la construcción de ciudades y aseguraran
+la supervivencia colectiva.</p>
+<p>Desde las primeras ciudades de Sumer en Mesopotamia meridional
+en el siglo IV a. C, especialmente Ur, Uruk y Lagash, pasando por
+los Imperios acadio, babilonio, asirio y persa, se generó una administración
+de ciudades y reinos que conocemos a través de tablillas de arcilla
+o de inscripciones en piedra.</p>
+<p>El <negrita>código legal</negrita> más antiguo del mundo fue producto
+del rey babilónico <negrita>Hammurabi</negrita>, quien gobernó Mesopotamia
+en el siglo XVIII a. C. (1792-1750 a. C.). El código, recopilación
+de leyes vigentes en sus dominios territoriales, contiene 282, grabadas
+en una piedra y difundidas por los territorios del Imperio babilónico
+por los funcionarios imperiales.</p>
+<imagen src="CS_06_12_CO_IMG08_small.jpg">
+<p>Las leyes 196 y 197 del Código de Hammurabi son ejemplo de la <negrita
+>ley del Talión</negrita>: “Si un hombre libre vació el ojo de un
+hijo de hombre libre, se vaciará su ojo”, y, “Si quebró un hueso de
+un hombre, se quebrará su hueso”. Concreción del dicho, “el que la
+hace, la paga”.</p>
+</imagen>
+<p>El código se basó en el principio: <negrita>“ojo por ojo, diente
+por diente”</negrita>. Esta regla, conocida posteriormente como <negrita
+>ley del Talión</negrita>, implicaba que la persona que cometía un
+delito debía ser castigada sometiéndola a la misma conducta.</p>
+<p>Algunas características del código de Hammurabi son la <negrita
+>variedad de temas</negrita> incluidos, la forma concreta de regular
+casos, la severidad de las penas impuestas, la importancia de la pena
+económica y la asignación de la pena según la clase social a la que
+se pertenecía<enlace
+destino="http://www.educatina.com/historia/edad-antigua/oriente-proximo/imperio-paleo-babilonico-video"
+> [VER]</enlace>.</p>
+<recuerda><recuerdaTexto>
+<p>La casta sacerdotal tuvo gran poder en la Antigüedad debido al
+carácter religioso de las normas. En muchas ocasiones se enfrentaron
+al poder político y conjuraron contra este.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso070&amp;IdRecurso=RES-7368BFD65B2B4AACB8FD9311F35188B8"
+>Del código de Hammurabi al derecho romano</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_12_CO_E4247BDF5D224B368D25F9C3772A9A17">
+<seccion2Titulo>Normas del pueblo hebreo</seccion2Titulo>
+<seccion2Texto>
+<p>Uno de los pueblos que surgió en el antiguo Oriente es el llamado <negrita
+>Israel</negrita> (para los judíos) o hebreo (para los gentiles),
+y se inició con la llamada de Dios al patriarca <negrita>Abraham</negrita
+> para que saliera de su casa y su tierra, siguiendo la promesa divina
+de formar un gran pueblo y llegar a la tierra prometida.</p>
+<p>Así comenzó la historia de “una gran nación”. Uno de los hitos
+que se produjo para las tribus de Israel fue su llegada al poderoso
+Egipto y su liberación de estas tierras en el siglo XIII a. C. (hacia
+el año 1250 a. C).</p>
+<p>Según lo señalado en la <negrita>Torá</negrita>, escritura sagrada
+del pueblo de Israel, fue durante esta experiencia que le fueron entregados
+a Moisés, en el Monte Sinaí, los <negrita>Mandamientos</negrita> y
+se selló la <negrita>alianza</negrita> entre Dios y su pueblo.</p>
+<p>Igualmente se dictaron normas que regularon la vida de los israelitas
+y que se consignaron en los Libros del <negrita>Éxodo</negrita> y <negrita
+>Deuteronomio</negrita>.</p>
+<imagen ampliable="no" src="CS_06_12_CO_IMG09_small.jpg">
+<p>En el Deuteronomio se puede leer: “Estos son los mandamientos,
+preceptos y normas que Yahveh vuestro Dios ha mandado enseñaros para
+que los pongáis en práctica en la tierra a la que vais a pasar para
+tomarla en posesión, a fin de que temas a Yahveh tu Dios, guardando
+todos los preceptos y mandamientos que yo te prescribo hoy, tú, tu
+hijo y tu nieto, todos los días de tu vida, y así se prolonguen tus
+días”.</p>
+</imagen>
+<p>El centro de los Mandamientos lo constituye el reconocimiento de <negrita
+>Dios</negrita> como el único. Por eso se incluyen prohibiciones frente
+a los dioses de otros pueblos (“No tengas otros dioses aparte de mí”).
+Igualmente se señala la obligación de honrar a los padres y una serie
+de prohibiciones, como no matar, no robar, no mentir, no codiciar
+bienes ajenos, etc.</p>
+<p><negrita>Jesús de Nazaret</negrita> fue un judío que, en el siglo
+I, fue crucificado por los romanos. Sus seguidores se conocen como <negrita
+>cristianos</negrita> y su legado es fundamental en la cultura occidental.
+Por eso el <negrita>judeocristianismo</negrita> se considera uno de
+los pilares, al lado de la cultura grecorromana, de la historia universal.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_12_CO_EB66B8534E474AD0BE7279AA334116D8">
+<seccion2Titulo>Normas en el antiguo Egipto</seccion2Titulo>
+<seccion2Texto>
+<p>Uno de los textos que permiten conocer las normas que rigieron
+la sociedad del antiguo Egipto es el llamado <negritacursiva>Libro
+de los muertos</negritacursiva>. En medio de una cultura marcada por
+la muerte, una religión con muchos dioses y las monumentales construcciones,
+el libro se constituyó en un conjunto de instrucciones para el difunto
+en su viaje al más allá.</p>
+<p>En uno de los apartes se refiere al juicio de <negrita>Osiris</negrita
+>, quien juzga las acciones que realizó el muerto en su vida. Si estas
+fueron justas, se le premiaba con la vida nueva, el paraíso. Por el
+contrario, si sus actos atentaban contra los otros seres humanos,
+se le condenaba y su alma era devorada.</p>
+<p>No son muchos los documentos jurídicos que han llegado hasta la
+actualidad. Se destaca la <negrita>Estela de Gizeh</negrita> (compraventa
+de una casa entre el 2700 y 2400 a. C.) y el <negrita>Decreto de Horemheb</negrita
+>, promulgado en el siglo XIII a. C., en el que se regulaban procedimientos
+para administrar justicia.</p>
+<imagen src="CS_06_12_CO_IMG10_small.jpg">
+<p>Las leyes que regulaban la vida en Egipto estaban ligadas a la
+voluntad del faraón en lo social, administrativo, gubernamental y
+religioso. La complejidad de los imperios proyectó la necesidad de
+legislar para amplios territorios.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>La divinidad estuvo presente en las civilizaciones antiguas, que
+creían en diferentes dioses. Solo pocas experiencias religiosas condujeron
+a los pueblos a creer en un solo Dios.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso080&amp;IdRecurso=RES-0DD05703F67546D1B4D9F30E7CA49077"
+>Conoce las leyes del Antiguo Egipto</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_12_CO_E4247BDF5D224B368D25F9C3772A2D06">
+<seccion2Titulo>Normas en la antigua China</seccion2Titulo>
+<seccion2Texto>
+<p>La civilización china se remonta al año 3000 a. C. Su origen confunde
+el mito y la leyenda alrededor de emperadores y señores que se enfrentaban
+de forma permanente por el control territorial absoluto.</p>
+<p>Su historia pasó por la consolidación de los llamados <negrita
+>Reinos Guerreros</negrita> o <negrita>Combatientes</negrita> y el
+desmoronamiento del régimen social, lo que dio lugar a diferentes
+corrientes filosóficas que se desarrollaron a partir de <negrita>Lao
+Tsé</negrita>, fundador de la religión <negrita>taoísta</negrita> y
+redactor del <cursiva>Tao Te King</cursiva>, y <negrita>Confucio</negrita
+>. En ambos casos encontramos ejemplos de normas sociales y políticas.</p>
+<imagen src="CS_06_12_CO_IMG11_small.jpg">
+<p>“¡Sigue el sendero del corazón! ¡Sé afable! ¡Di solo la verdad!
+¡Dirige observando el principio de mantener la tranquilidad! Cada
+acción debe ser factible y oportuna. Quien no procura estar delante
+de los otros puede evitar muchos errores”, se lee en el <cursiva>Tao</cursiva
+>.</p>
+</imagen>
+<p>En el <cursiva>Tao Te King</cursiva>, cuyo objetivo es expresar
+reglas para mantener la <negrita>unidad con todo</negrita>, se puede
+leer: “La persona sabia no tiene motivos egoístas. Ella vive de acuerdo
+con los intereses de los demás. A los buenos, yo les hago el bien;
+a los malos, yo también les deseo el bien”.</p>
+<p>El libro tiene <negrita>normas religiosas</negrita> con un alto
+contenido moral referido a la “verdadera vida”, al camino que debe
+seguirse. <negrita>Vive en amor</negrita>, es la conclusión de este
+texto que señala: “¡Libérate de la violencia hacia los otros!”.</p>
+<p>Confucio no solo se preocupó por la <negrita>moralidad</negrita
+> en las relaciones sociales basadas en la <negrita>bondad</negrita
+>. Al ser funcionario gubernamental, se dirigió al gobernante, que
+debe regir la conducta de sus súbditos con su ejemplo bondadoso, piadoso
+y justo. </p>
+<imagen ampliable="no" src="CS_06_12_CO_IMG12_small.jpg">
+<p>El gobierno es bueno cuando hace felices a los que viven bajo él
+y atrae a los que viven lejos, aconsejó Confucio a los gobernantes,
+a quienes consideraba que debían ser ejemplo de virtudes para sus
+súbditos.</p>
+</imagen>
+<p>Con la reunificación china entre los siglos IV y III a. C. y el
+triunfo de la Dinastía Han, se centralizó el poder político, se estableció
+una rígida estructura de funcionarios públicos y se impuso un <negrita
+>código penal</negrita> para los súbditos, que se basó en la <negrita
+>ley del Talión</negrita>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso090&amp;IdRecurso=RES-6325A4D0DC964A66A964F28D8E6CB666"
+>Identifica normas y códigos legales en la Antigua China</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_12_CO_02AA495202F041598FEE50A484DC2D84">
+<seccion2Titulo>Normas en la antigua India</seccion2Titulo>
+<seccion2Texto>
+<p>En la región del <negrita>Indo</negrita> se levantó una de las
+más ricas civilizaciones, cuna de religiones como el <negrita>hinduismo</negrita
+>, el <negrita>budismo</negrita> y hombres santos. Los relatos sobre
+la iluminación de <negrita>Sidarta Gautama</negrita> (más conocido
+como <negrita>Buda</negrita>) recorren su historia.</p>
+<p>El <negrita>budismo</negrita> generó una forma de existencia para
+la liberación del sufrimiento y de los deseos. Para ello propuso el
+camino intermedio, el <negrita>camino óctuple</negrita>: conocimiento
+recto, intención recta, hablar recto, acción recta, ocupación recta,
+esfuerzo recto, atención recta y recogimiento recto.</p>
+<imagen ampliable="no" src="CS_06_12_CO_IMG13_small.jpg">
+<p>En el <negritacursiva>Dhammapada</negritacursiva> se condensan
+enseñanzas de Buda, quien expresó: “Los que se deleitan en la verdad
+duermen pacíficamente, con el espíritu limpio. Los sabios siempre
+obtienen placer de la verdad expuesta por los nobles”.</p>
+</imagen>
+<p>El <negritacursiva>Código</negritacursiva> (o las <negritacursiva
+>Leyes</negritacursiva>) <negritacursiva>de Manu</negritacursiva> compiló
+alrededor del siglo III a. C. antiguas tradiciones y costumbres sagradas
+de la India. También incluyó normas y conductas como las siguientes: </p>
+<p>“El hombre que consiente en la muerte de un animal, el que lo mata,
+el que lo corta en pedazos, el comprador, el vendedor, el que prepara
+la carne, el que la sirve, en fin, el que la come, están mirados como
+partícipes en el crimen”.</p>
+<imagen src="CS_06_12_CO_IMG14_small.jpg">
+<p>Se puede leer: “Que el maestro espiritual (gurú), después de haber
+iniciado a su discípulo con la investidura del cordón sagrado, le
+enseñe primero las reglas de la pureza, las buenas costumbres, el
+mantenimiento del fuego sagrado y los deberes piadosos de la mañana,
+del mediodía y de la tarde”. Lo religioso siempre está presente.</p>
+</imagen><?Pub Caret -2?>
+<recuerda><recuerdaTexto>
+<p>La mayoría de textos normativos antiguos tienen un contenido moral
+importante que busca la realización de la vida buena mediante la bondad,
+la compasión y la práctica de la virtud.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_12_CO_02AA495202F041598FEE50A484DC0F73">
+<seccion2Titulo>Normas en la antigua Grecia</seccion2Titulo>
+<seccion2Texto>
+<p>En la historia griega del pensamiento se destaca su búsqueda de
+la sabiduría, la <negrita>filosofía</negrita>. Su legado recorre diferentes
+sistemas de pensamiento que exploraron el cosmos, la naturaleza, el
+ser humano y la organización social y política, y dejaron normas sobre
+la <negrita>forma de vivir</negrita> (estoicos, epicúreos, socráticos,
+platónicos, entre otros).</p>
+<p>La pregunta que orientó la polis como comunidad política es la
+base para observar las diferentes normas que, con el tiempo, se fueron
+creando. Cuál es la <negrita>mejor forma para gobernar la ciudad</negrita
+>, es lo que buscaron responder desde diferentes escuelas de pensamiento
+y desde experiencias prácticas de gobierno.</p>
+<p>El logro más importante de Grecia, en este sentido, fue la invención
+de la <negrita>democracia</negrita> frente a formas monárquicas o
+aristocráticas de poder para instaurar la participación, el fortalecimiento
+de la vida política y el sometimiento de los ciudadanos a la ley.</p>
+<imagen src="CS_06_12_CO_IMG15_small.jpg">
+<p>La <negrita>filosofía</negrita> se preguntó fundamentalmente sobre
+la mejor manera de <negrita>convivir</negrita> pacíficamente. Para
+ello se indagó sobre las diferentes formas en las que el poder político
+se organizó y los acontecimientos históricos que generaron su aparición,
+esplendor, crisis y caída (monarquía, tiranía, aristocracia, oligarquía,
+democracia, demagogia).</p>
+</imagen>
+<p>Se destacan en la organización política ateniense las <negrita
+>leyes de Dracón</negrita> (siglo VII a. C.), la <negrita>Constitución
+de Solón</negrita> (siglo VI a. C.) y las <negrita>reformas de Pericles</negrita
+> en el llamado siglo de oro de la antigüedad griega.</p>
+<p>Socialmente, las normas que regían la conducta estaban dadas por
+los grupos que la componían. Eran muy diversas, pues dependían de
+cada polis. No obstante, se destaca como un rasgo común la hospitalidad
+y el banquete, como lugar de encuentro y discusión.</p>
+<imagen src="CS_06_12_CO_IMG16_small.jpg">
+<p>Para perpetuar los logros alcanzados en la vida griega, fue importante
+la educación de los jóvenes a quienes se transmitían los conocimientos,
+la historia, los grandes héroes y sus hazañas. Se señaló en el <negrita
+>discurso fúnebre de Pericles</negrita>: “De la educación de sus hijos,
+desde este momento hasta su juventud, se hará cargo la ciudad. Tal
+es la provechosa corona que ella impone a estas víctimas, y a los
+que ellas dejan, como premio de tan valerosas hazañas”.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso100&amp;IdRecurso=RES-66B6CAFF304144E5A25509AB888C9652"
+>Conoce normas y legisladores de la Antigua Grecia </enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_12_CO_40376246785C4BDB96E4C5609F85F324">
+<seccion2Titulo>Normas en la antigua Roma</seccion2Titulo>
+<seccion2Texto>
+<p>Desde su fundación en el siglo VIII a. C. hasta la destrucción
+del Imperio romano en el año 476, Roma vivió la búsqueda de estabilidad
+pasando por la monarquía, siguiendo con la república y culminando
+con el imperio.</p>
+<p>La ciudad, <negrita>civitas</negrita>, se convirtió en lugar de
+confrontaciones entre ciudadanos patricios y plebeyos, y entre estos
+y los extranjeros. Las guerras fueron cruentas y terminaron con la
+expansión de un Imperio que dominó con sus <negrita>instituciones</negrita
+> la vida de los ciudadanos y de aquellos a quienes sometió.</p>
+<p>El <negrita>derecho</negrita> fue su gran legado a la humanidad.
+La regulación de instituciones como el matrimonio, la tutela de los
+hijos, la compraventa, las hipotecas, las sucesiones, entre otras,
+siguen estando presentes en los <negrita>códigos modernos de derecho
+civil</negrita>. También en el <negrita>derecho público</negrita> sus
+instituciones son clave.</p>
+<imagen src="CS_06_12_CO_IMG17_small.jpg">
+<p>La vida romana reflejó su grandeza institucional en su vida republicana
+y en los legados del Senado, el cual, compuesto por 300 miembros,
+tomaba las decisiones legales más importantes: hacer la guerra, pactar
+la paz, gobernar las provincias, decretar honores y regular asuntos
+religiosos, entre otras.</p>
+</imagen>
+<p>Se pueden destacar algunas normativas:</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>Ley de las XII Tablas</negrita> (entre
+451 y 449 a. C.), tuvo como sustento la protección del patrimonio,
+la autoridad del padre de familia, la regulación de actos civiles
+y mercantiles y el castigo a los que cometieran infracciones. Nuevamente,
+la <negrita>ley del Talión</negrita> fue su base.<br/>En uno de los
+textos puede leerse: “Si alguno rompiese a otro algún miembro, queda
+sujeto a la pena del Talión, a no ser que pactasen otra cosa el ofensor
+y el ofendido”.  Esta norma aplicaba para todos los ciudadanos romanos,
+por eso se lee: “A ningún ciudadano puede concedérsele privilegios
+especiales”. No obstante, señalaba prohibiciones para que los patricios
+y plebeyos no se mezclaran: “Los patricios no pueden contraer matrimonio
+con los plebeyos”.</listaElemento>
+<listaElemento>En el <negrita>Corpus Iuris Civilis</negrita> o <negrita
+>Código de Justiniano</negrita> (534) se codificaron las leyes existentes
+con una <negrita>base jurídica</negrita> para los súbditos del Imperio.
+En cuatro partes o contenidos se regularon la propiedad, la sucesión
+intestada, las obligaciones, los contratos y la familia. Igualmente,
+las interpretaciones realizadas por los principales juristas romanos.</listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso110&amp;IdRecurso=RES-A692BEC79AD146FAB5DC3049FB1F36FF"
+>El Derecho romano</enlace>
+</practica><destacado><destacadoTitulo>El legado occidental</destacadoTitulo>
+<destacadoTexto>
+<p>El judeocristianismo y la cultura e instituciones grecorromanas
+definieron el rumbo de Occidente en sus bases: los Mandamientos como
+normas religiosas, la filosofía y sus escuelas, la democracia y la
+república, y el derecho.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_12_CO_40376246785C4BDB96E4C5609F85B435">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso120&amp;IdRecurso=RES-24679754727C4C2F9B593ED08BCD56F4"
+>Refuerza tu aprendizaje: Normas en la Edad Antigua</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_12_CO_C7A1E2D7DFD94F55A3ED515568D7C1CF">
+<seccion1Titulo>Normas en América precolombina</seccion1Titulo>
+<seccion1Texto>
+<p>Con la llegada de los españoles a América, se inició la conquista
+y colonia del Nuevo Mundo. Quienes llegaron a estas tierras encontraron
+civilizaciones avanzadas y magníficas. En estas culturas lo religioso
+representaba sus creencias, conservaba el cuidado de sus dioses y
+determinaba los ritos, según lo establecido en el calendario.</p>
+<p>La destrucción proveniente de la Conquista hizo perder vestigios
+de lo construido por estas civilizaciones, a quienes los conquistadores
+consideraban paganos e idólatras y era necesario “convertir a la religión
+católica”<enlace
+destino="http://www.educatina.com/historia/historia-de-america/introduccion-a-las-culturas-precolombinas/las-culturas-clasicas-el-surgimiento-de-los-estados-video"
+> [VER]</enlace>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso130&amp;IdRecurso=RES-AB8396F3F08243198804FFFD4AFB0B3A"
+>Sistemas normativos en América precolombina</enlace>
+</profundiza><seccion2
+id="S2_CS_06_12_CO_40376246785C4BDB96E4C5609F85D812">
+<seccion2Titulo>Normas en la civilización azteca</seccion2Titulo>
+<seccion2Texto>
+<p>El Imperio azteca, asentado en la ciudad de Tenochtitlán (siglo
+XIV), floreció hasta su destrucción a manos del conquistador Hernán
+Cortés y su ejército en tiempos del soberano Moctezuma (siglo XVI).</p>
+<p>Lo religioso marcó esta civilización en sus creencias, en los sacrificios
+humanos a los dioses y en el canibalismo ritual al comer el corazón
+de los vencidos, igualmente en la vida cotidiana.</p>
+<p>Para estudiar el derecho de los aztecas se ha recurrido a diferentes
+fuentes: <negrita>Leyes del Numa</negrita> (siglo XV), <negrita>Leyes
+de Nezahualcóyotl</negrita> o algunos <negrita>códices</negrita> como
+el <negrita>Mendocino</negrita>, <negrita>Quinatzin</negrita> o <negrita
+>Florentino</negrita>, elaborados para que en España se conocieran
+las costumbres sociales del pueblo azteca, sus fiestas religiosas
+y su organización política, entre otras.</p>
+<imagen ampliable="no" src="CS_06_12_CO_IMG18_small.jpg">
+<p>En los códices se encuentran pintados los delitos y las sanciones
+a los cuales se sometía el pueblo azteca.</p>
+</imagen>
+<p>Los <negrita>códices</negrita> se refieren a las cuestiones <negrita
+>penales y civiles</negrita>, la severidad de sus castigos, la pertenencia
+a estamentos sociales como criterio para las sanciones y la forma
+de administración de justicia.</p>
+<p>Se castigaban conductas como el robo, la embriaguez pública, la
+blasfemia, el fraude contra la comunidad, el homicidio, el falso testimonio,
+la brujería, el adulterio, las lesiones personales y la venganza privada,
+entre otros.</p>
+<p>La aplicación de las <negrita>sanciones</negrita> la hacían jueces,
+tribunales o juntas, dependiendo de la conducta. La pena común era
+la muerte por ahorcamiento, lapidación, decapitación o empalamiento,
+pero también la esclavitud del delincuente para reparar a la familia
+del perjudicado o la confiscación de sus bienes.</p>
+<recuerda><recuerdaTexto>
+<p>Las civilizaciones de Mesoamérica proyectan los grandes adelantos
+que se dieron en el continente antes de la llegada de los europeos
+y constituyen el vestigio de los desarrollos. Verlos sin el prejuicio
+que se ha construido frente a lo “indígena” es necesario en sociedades
+plurales.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_12_CO_40376246785C4BDB96E4C5609F85D857">
+<seccion2Titulo>Normas en la civilización maya</seccion2Titulo>
+<seccion2Texto>
+<p>El Imperio maya surgió hacia el año 2500 a. C. y desapareció en
+el siglo IX d. C. Las razones para el abandono de sus ciudades fueron
+las sequías prolongadas, el deterioro de la agricultura, las hambrunas
+provocadas y las revueltas internas que se produjeron.</p>
+<imagen ampliable="no" src="CS_06_12_CO_IMG19_small.jpg">
+<p>“Tal fue el origen de los Eminentes-Consejeros, de las dignidades
+de cada clan hoy”, se lee en el <negritacursiva>Popol Vuh, Libro del
+Consejo</negritacursiva>, el cual fue clave para la vida de los mayas,
+tanto para nobles como plebeyos.</p>
+</imagen>
+<p>Como aconteció con los aztecas, las <negrita>normas de derecho</negrita
+> regulaban diversos aspectos de la vida cotidiana, especialmente
+lo relativo a las cuestiones civiles (matrimonio, familia, compraventa,
+sucesiones, procedimientos, etc.).</p>
+<p>Lo relativo a castigos y su relación con la pertenencia a clases
+sociales es común denominador. Por un lado, porque buscaban evitar
+la comisión futura de los hechos y, por el otro, por su jerarquía
+social.</p>
+<p>En el <negrita>derecho azteca</negrita> es importante el <negrita
+>dolo</negrita>, es decir, si hubo la intención de dañar o no. También
+resalta la no revisión de las decisiones de quien juzgaba, la ejecución
+inmediata de la sentencia y los procedimientos, que eran públicos
+y breves.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_12_CO_40376246785C4BDB96E4C5609F85A921">
+<seccion2Titulo>Normas en la civilización inca</seccion2Titulo>
+<seccion2Texto>
+<p>El Imperio inca se consolidó hacia el siglo XV con el dominio de
+pueblos andinos desde el sur de Colombia hasta el norte de Chile,
+hasta que fue conquistado por Francisco Pizarro en 1532. <negrita
+>Machu Picchu</negrita> es la ciudad en la que se puede observar su
+grandeza.</p>
+<imagen src="CS_06_12_CO_IMG20_small.jpg">
+<p>La cultura inca opuso resistencia continua contra los españoles
+que la pretendieron conquistar. El más importante de estos episodios
+fue el protagonizado por Túpac Amaru.</p>
+</imagen>
+<p>Uno de los rasgos más importantes del <negrita>derecho incaico</negrita
+> es que no estaba escrito, sino basado en las costumbres que se vivían
+en la sociedad y buscaba proteger la organización política. </p>
+<p>Su <negrita>transmisión</negrita> fue <negrita>oral</negrita> a
+través de dichos, refranes o sentencias jurídicas. De esa forma los
+miembros de la comunidad indígena aprendieron las conductas que se
+castigaban, especialmente las penales, y las clases a las cuales se
+aplicaba.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_12_CO_40376246785C4BDB96E4C5609F85B57A">
+<seccion2Titulo>Normas de los chibchas en Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>La cultura chibcha estaba integrada por los pueblos tairona y muisca.
+Los chibchas presentaron un importante desarrollo agrícola (cultivaron
+maíz, papa, arracacha) y mantuvieron un intenso comercio. También
+crearon <negrita>leyes</negrita> que regían su vida social.</p>
+<p>Las <negrita>normas penales</negrita> castigaban con la muerte
+a quien mataba o cometía incesto y sancionaban a quien huía de la
+guerra o cometía adulterio con el repudio social. El robo era castigado
+con la amputación de la mano o quemándosela. </p>
+<seccion3 id="S3_CS_06_12_CO_40376246785C4BDB96E4C5609F85F132">
+<seccion3Titulo>Normas de la cultura tairona</seccion3Titulo>
+<seccion3Texto>
+<p>Los taironas adoraban el Sol, la Luna, las estrellas y los muertos.
+Su religión, a diferencia de los muiscas, no los reprimía, por tanto <negrita
+>no existían normas morales</negrita>.</p>
+<p>De ahí que la holgazanería pudiera ser una falta grave, mientras
+que el homosexualismo, el incesto y la poligamia no constituyeron
+delito. Para castigar a un infractor, se le llevaba a una casa ceremonial
+y se le hacía tejer mantas.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_12_CO_40376246785C4BDB96E4C5609F85E591">
+<seccion3Titulo>Normas de la cultura muisca</seccion3Titulo>
+<seccion3Texto>
+<p>Los muiscas tenían un sistema complejo de normas morales, políticas
+y sociales que se transmitían oralmente en el <negrita>Código de Nemequene</negrita
+>, que se inscribió dentro del derecho indígena precolombino.</p>
+<p>Se penalizaba el incesto y se debía indemnizar por el mal ocasionado.
+Existía la <negrita>pena de muerte</negrita> para casos como el soborno,
+el hurto, el homicidio, la violación y la deserción de la guerra.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso140&amp;IdRecurso=RES-8C3D28B491D54D869745641F6A8AF781"
+>Conoce normas que rigieron las sociedades precolombinas</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_12_CO_40376246785C4BDB96E4C5609F85C746">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso150&amp;IdRecurso=RES-133B2CB3EE2D4237827D7422C62729FE"
+>Refuerza tu aprendizaje: Normas en América precolombina</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_12_CO_589DBEB891324298BFD6EB0114AC209C">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso160&amp;IdRecurso=RES-DC4AA1A1BF9F4354B48BCB8EB0029C5F"
+>Competencias: estudio de las normas en la antigua Esparta</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso170&amp;IdRecurso=RES-F300ADD9913F404CA785E222823A7D59"
+>Proyecto: análisis de la vigencia de las normas de los pueblos antiguos
+en la sociedad actual</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_06_12_CO_630C54B73878423E89D2192AF09E932B"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso190&amp;IdRecurso=RES-F622A6AC59B34F46A4A8127F7E6297CB"
+>Mapa conceptual del tema Las normas en las primeras sociedades</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_12_CO_Recurso200&amp;IdRecurso=RES-98711768F3A6477CAAED51B66F3621C0"
+>Evalúa tus conocimientos sobre el tema Las normas en las primeras
+sociedades</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">WEB 01</enlace>
+<enlace destino="http://www.aulaplaneta.com">WEB 02</enlace>
+<enlace destino="http://www.aulaplaneta.com">WEB 03</enlace>
+</enlacesreferencia></masinformacion></libro>
