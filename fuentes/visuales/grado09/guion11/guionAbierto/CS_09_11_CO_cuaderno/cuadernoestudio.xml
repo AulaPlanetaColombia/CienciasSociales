@@ -1,485 +1,1273 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_09_11_CO">
-  <libroTitulo>La población en Colombia</libroTitulo>
-  <seccion1 id="S1_CS_09_11_CO_3F45B0D3374442A3B84362F033BAB13E">
-    <seccion1Titulo>Cambios de la población colombiana</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_11_CO_img_01_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso010&amp;IdRecurso=RES-EB2C312648A749B9BAB5C6B04A799603">Recurso F8-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_09_11_CO_BB2FD16118D448E79C12F19B06700CFF">
-        <seccion2Titulo>Tamaño de la población y crecimiento demográfico</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_11_CO_img_02_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso020&amp;IdRecurso=RES-8CE9B69B125C4DB09A741886B2111071">Recurso M5D-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_11_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <seccion3 id="S3_CS_09_11_CO_920745F87A4A455BAD331175C0B94483">
-            <seccion3Titulo>El primer censo moderno y la transición demográfica</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_11_CO_img_04_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso030&amp;IdRecurso=RES-A1E716EC6864417F99CDAD86F0FBC5BF">Recurso M2C-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_11_CO_3FA57A96AC9A4AD88E3B027A0EB1C04B">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_11_CO_img_05_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso040&amp;IdRecurso=RES-C41402ED0CCC4982AF859511C6C3F784">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_11_CO_4349630D073B4824846954945998AC58">
-    <seccion1Titulo>La población colombiana en el siglo XXI</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_11_CO_img_06_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso050&amp;IdRecurso=RES-E19D12677847413386C87162E09F8074">Recurso F10-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_09_11_CO_377B12DEE91C4B7DB188E5CFBADD982D">
-        <seccion2Titulo>La estructura demográfica en Colombia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_09_11_CO_96A8476E484040D29D20D476BE3D7D47">
-            <seccion3Titulo>Composición de la población por sexo</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_11_CO_img_07_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso060&amp;IdRecurso=RES-3BFCD1F915B048138789DFC6F2A33A99">Recurso M5A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_09_11_CO_5D4A5F7D04464B6DB3BBEBBD57B42B0F">
-            <seccion3Titulo>Índice de masculinidad</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_11_CO_img_08_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_09_11_CO_98C26E6DA4B34A0291C57CEE6DB2B277">
-            <seccion3Titulo>Índice de envejecimiento y la relación niño-mujer</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_11_CO_img_09_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso070&amp;IdRecurso=RES-3389E107023F4DC5937CEEEAA1059385">Recurso M2A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_09_11_CO_54CC1FED77D24C89BBD2F40DA94FFD23">
-            <seccion3Titulo>Pertenencia étnica</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_11_CO_img_10_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso080&amp;IdRecurso=RES-975B3239872C44198FAA152A1DB14508">Recurso M5C-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_09_11_CO_5B3ACA59D8FD4114919BEB6919056B0C">
-            <seccion3Titulo>Tasa de alfabetismo</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_11_CO_img_11_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso090&amp;IdRecurso=RES-43175B9FB36F4864A1154353FBE3AA6A">Recurso M1C-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_11_CO_img_12_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso100&amp;IdRecurso=RES-1CD8984D231D45BB820946023E02089A">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_11_CO_94A67E2E1DD9408A9A1F245A57255455">
-    <seccion1Titulo>La distribución de la población colombiana</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_09_11_CO_038B86FC333F409E8814687CEC49AFBB">
-        <seccion2Titulo>La población colombiana en el siglo XIX</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_11_CO_img_13_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso110&amp;IdRecurso=RES-06C7B00D10EF4102BE1E8AA78C7C35F5">Recurso F10B-01</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_09_11_CO_4CBD7268FA38441FAD36E53D59956160">
-        <seccion2Titulo>La densidad de la población colombiana</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_11_CO_img_14_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_11_CO_img_15_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso130&amp;IdRecurso=RES-76F973791FF84750A29433AF98575B99">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_11_CO_AD500F36FC8E402987FA9B1D736DB229">
-    <seccion1Titulo>El fenómeno migratorio</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_11_CO_img_16_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <seccion2 id="S2_CS_09_11_CO_4D8CB9ED22574B7A8B89EA5D07D7B2C9">
-        <seccion2Titulo>Las migraciones en la historia de Colombia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_09_11_CO_2C2606D8C971477081D5693AC4B79711">
-            <seccion3Titulo>Las migraciones en el siglo XIX</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_09_11_CO_img_17_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_09_11_CO_img_20_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso160&amp;IdRecurso=RES-4F3B02FEAB634164B35AB866D3016635">Recurso M101A-04</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_11_CO_img_18_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso150&amp;IdRecurso=RES-3D5C08AA08B2467F8149BF88D7C28722">Recurso M1C-02</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_11_CO_img_19_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_09_11_CO_34F82A1321CD44028A8213BA4DC237AD">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_09_11_CO_img_21_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso170&amp;IdRecurso=RES-4FAB89E7FA9741A082BF9B9AA7135474">Recurso M102AB-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_09_11_CO_C484B4D8A2744075B60768E45F00E0D6">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso200&amp;IdRecurso=RES-1172D41601624B8EBCDC3E30507B2AF6">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso210&amp;IdRecurso=RES-6863BB24170441EDBE48DFFA15F10DAB">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>La población en Colombia</libroTitulo>
+<seccion1 id="S1_CS_09_11_CO_3F45B0D3374442A3B84362F033BAB13E">
+<seccion1Titulo>Cambios de la población colombiana</seccion1Titulo>
+<seccion1Texto>
+<p><negrita>El censo de población</negrita> es un <negrita>registro
+oficial</negrita> que da cuenta de la <negrita>cantidad de habitantes
+en un territorio</negrita>. Es una medición cuantitativa sobre diferentes
+criterios acerca de los individuos: sexo, edad, estado civil, pertenencia
+étnica, condición socioeconómica, entre otros.</p>
+<p>Con los resultados del censo se realiza un análisis estadístico
+para comprender las <negrita>dinámicas demográficas</negrita> y establecer
+conclusiones sobre los <negrita>comportamientos de una población</negrita
+>, en un periodo determinado.</p>
+<imagen src="CS_09_11_CO_IMG01_small.jpg">
+<p>El Departamento Administrativo Nacional de Estadística es la entidad
+encargada de realizar los censos nacionales de población desde mediados
+del siglo XX.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso010&amp;IdRecurso=RES-EB2C312648A749B9BAB5C6B04A799603"
+>La utilidad de los censos</enlace>
+</profundiza><seccion2
+id="S2_CS_09_11_CO_BB2FD16118D448E79C12F19B06700CFF">
+<seccion2Titulo>Tamaño de la población y crecimiento demográfico</seccion2Titulo>
+<seccion2Texto>
+<p>En los últimos tres siglos ha aumentado de manera notable el número
+de habitantes en Colombia. Al finalizar la época colonial, según el
+censo del año <negrita>1778</negrita>, en el <negrita>Virreinato de
+la Nueva Granada</negrita> la población total era <negrita>menor a
+un millón de habitantes</negrita>.</p>
+<p>Para el <negrita>siglo XIX</negrita> el tamaño de la población <negrita
+>aumentó lentamente</negrita> porque los <negrita>conflictos internos</negrita
+> y las <negrita>epidemias</negrita> afectaron a un gran número de
+habitantes.</p>
+<p>Durante el <negrita>siglo XX</negrita> la población colombiana
+experimentó un <negrita>fenómeno de transición demográfica</negrita
+> y de <negrita>explosión urbana</negrita>, debido al proceso de modernización
+del país. Para el año <negrita>2016 Colombia</negrita> se acerca a
+los <negrita>48 millones de habitantes</negrita>.</p>
+<p>En cuanto al número de pobladores, <negrita>Colombia</negrita> ocupa
+el <negrita>cuarto lugar</negrita> frente a otros países del <negrita
+>continente</negrita>. <negrita>Estados Unidos</negrita>, <negrita
+>Brasil</negrita> y <negrita>México</negrita> ocupan los <negrita
+>primeros lugares</negrita> en la actualidad.</p>
+<imagen src="CS_09_11_CO_IMG02_small.jpg">
+<p>La población mundial alcanza los 6000 millones de habitantes. Colombia
+es el tercer país más poblado de Latinoamérica y el cuarto del continente.</p>
+</imagen>
+<destacado><destacadoTitulo>Factores de crecimiento demográfico</destacadoTitulo>
+<destacadoTexto>
+<p>La <negrita>modernización</negrita> de un país trae crecimiento
+industrial y urbano. Ambos procesos contribuyen al <negrita>aumento
+de población</negrita> urbana. La presión de las industrias requiere
+la reproducción de la mano de obra y por ello se estimula el aumento
+de habitantes urbanos.</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso020&amp;IdRecurso=RES-8CE9B69B125C4DB09A741886B2111071"
+>Conoce el crecimiento demográfico en Colombia</enlace>
+</practica><seccion3
+id="S3_CS_09_11_CO_920745F87A4A455BAD331175C0B95594">
+<seccion3Titulo>Los primeros registros de población en Colombia</seccion3Titulo>
+<seccion3Texto>
+<p>En 1819 se instauró la Gran Colombia y el territorio de la Nueva
+Granada estaba conformado por 17 provincias. El <negrita>primer censo
+general del siglo XIX</negrita> se realizó en <negrita>1825</negrita
+>. Se estableció que <negrita>1 228 259 personas</negrita> habitaban
+en ese territorio.</p>
+<imagen src="CS_09_11_CO_IMG03_small.jpg">
+<p>El territorio de la Nueva Granada a mitad del siglo XIX. </p>
+</imagen>
+<p>Luego de la disolución de la Gran Colombia (1830), Francisco de
+Paula Santander ordenó la ejecución de un <negrita>segundo censo (1835)</negrita
+>. En diez años, la población aumentó casi los quinientos mil habitantes.
+El total fue de <negrita>1 741 036 personas</negrita>.</p>
+<p>Ese mismo año se contó el número de nacimientos y fallecimientos.
+De <negrita>1834 a 1835</negrita> aproximadamente <negrita>nacieron
+72 000</negrita> personas y <negrita>30 000 fallecieron</negrita>.
+De <negrita>1845 a 1846</negrita> <negrita>nacieron</negrita> alrededor
+de <negrita>78 000 personas</negrita> y <negrita>fallecieron 38 000</negrita
+>.</p>
+<p>Los presidentes de la Nueva Granada estimaron la realización de <negrita
+>censos cada ocho años</negrita>, pero a partir de 1839 sucedieron
+una serie de <negrita>conflictos</negrita> que afectaron esta periodización:
+las guerras civiles que se prolongaron hasta finales de siglo y más
+tarde la guerra de los Mil Días impidieron conocer realmente cómo
+había aumentado la población.</p>
+<imagen src="CS_09_11_CO_IMG04_small.jpg">
+<p>Con la Constitución de Rionegro se conformaron los Estados Unidos
+de Colombia. En 1886 el país se llamó oficialmente República de Colombia.</p>
+</imagen>
+<p><negrita>El último censo</negrita> de la primera mitad del siglo
+XIX se efectuó en <negrita>1843</negrita>. Ese año había <negrita
+>1 931 684 habitantes</negrita>. En <negrita>1851</negrita> la población
+se acercaba a <negrita>2 240 000 personas</negrita> y luego de la
+Constitución de Rionegro (<negrita>1863</negrita>) la población alcanzó
+los <negrita>2 600 000 habitantes</negrita>.</p>
+<p>Para <negrita>finales del siglo XIX</negrita> se realizó un último
+censo (<negrita>1870</negrita>). La población estimada fue de <negrita
+>2 890 637 personas</negrita>. Treinta y cinco años después se contabilizó
+nuevamente a la población del país.</p>
+<p>Durante este periodo, el crecimiento de la población fue lento.
+A lo largo de los años la <negrita>proporción de nacimientos</negrita
+> se mantuvo <negrita>constante</negrita>, pero <negrita>aumentó la
+tasa de mortalidad</negrita>, debido a las guerras civiles y la presencia
+de epidemias como la varicela.</p>
+<destacado><destacadoTitulo>Mortalidad, guerras y enfermedades</destacadoTitulo>
+<destacadoTexto>
+<p>En nuestro país, durante el siglo XIX la población creció lentamente
+debido a las guerras civiles y a las epidemias que estas trajeron.</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso030&amp;IdRecurso=RES-A1E716EC6864417F99CDAD86F0FBC5BF"
+>Causas del crecimiento demográfico</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_09_11_CO_920745F87A4A455BAD331175C0B94483">
+<seccion3Titulo>El primer censo moderno y la transición demográfica</seccion3Titulo>
+<seccion3Texto>
+<p>La República de Colombia se creó a finales del siglo XIX, con la
+Constitución de 1886. Luego en 1903 ocurrió la <negrita>separación
+de Panamá</negrita> y el país adquirió otra <negrita>configuración
+territorial</negrita>.</p>
+<p>En <negrita>1905</negrita> se realizó el <negrita>primer censo
+del siglo XX</negrita>. La población superaba los <negrita>4 millones</negrita
+>. Un <negrita>segundo censo</negrita> se realizó en <negrita>1912</negrita
+>. Este censo pretendía abarcar cada casa o lugar habitado, pero los
+resultados fueron parciales: <negrita>5 472 604 habitantes</negrita
+><enlace destino="http://www.one.gob.do/Estadisticas/301/censo-1935"
+> [VER]</enlace>.</p>
+<p>En <negrita>1938</negrita> se efectuó el <negrita>primer censo
+moderno</negrita>, ya que <negrita>la tecnología suplantó el proceso
+manual</negrita>. Se emplearon <negrita>máquinas tabuladoras</negrita
+> que contaban las <negrita>tarjetas perforadas</negrita> con información
+de la población.</p>
+<p>Entre los departamentos, municipios, corregimientos y centros poblados
+(veredas y caseríos) de la República de Colombia había un total de <negrita
+>8 701 816 habitantes</negrita>.</p>
+<imagen src="CS_09_11_CO_IMG05_small.jpg">
+<p>En 1938 se realizó el primer censo moderno. Se emplearon máquinas
+tabuladoras de la empresa “International” hoy conocida como IBM.</p>
+</imagen>
+<p>A partir de la <negrita>segunda mitad del siglo XX</negrita> se
+efectuaron un total de cinco censos generales de población, en: <negrita
+>1951</negrita>, <negrita>1964</negrita>, <negrita>1973</negrita>, <negrita
+>1985</negrita> y <negrita>1993</negrita>. Este periodo se conoce
+como la <negrita>transición demográfica</negrita> por el aumento de
+la cantidad de habitantes:</p>
+<listaSinNumerar>
+<listaElemento>Para el <negrita>censo de 1951</negrita> había un total
+de <negrita>11 548 172 habitantes</negrita>.</listaElemento>
+<listaElemento>En <negrita>1964</negrita> la población aumentó a <negrita
+>más de 17 millones de personas</negrita>.</listaElemento>
+<listaElemento>En <negrita>1973</negrita> el total fue de <negrita
+>19 735 286 personas</negrita>.</listaElemento>
+<listaElemento>Para <negrita>1985</negrita> la población colombiana
+ya <negrita>superaba los 27 millones de personas</negrita>. </listaElemento>
+<listaElemento><negrita>El último censo del siglo XX</negrita> se
+realizó en <negrita>1993</negrita> y se contabilizó una población
+de <negrita>33 109 840 personas</negrita>.</listaElemento>
+</listaSinNumerar>
+<p>La causa del <negrita>crecimiento de la población</negrita> fue
+el <negrita>descenso de la tasa de mortalidad</negrita>, porque mejoraron
+las condiciones de salud para los habitantes, lo cual aumentó su esperanza
+de vida:</p>
+<listaSinNumerar>
+<listaElemento>A principios de siglo, <negrita>por cada mil habitantes
+fallecían 23</negrita>, y la esperanza de vida se situaba en <negrita
+>los 37 años para los hombres y 42 años para las mujeres</negrita
+>.</listaElemento>
+<listaElemento>A finales de siglo, <negrita>por cada mil habitantes
+fallecían 7 de ellos</negrita>, y la esperanza de <negrita>vida aumentó
+a 64 años para los hombres y 73 para las mujeres</negrita>.</listaElemento>
+<listaElemento>En la mitad del siglo, debido al repunte de la <negrita
+>violencia</negrita> (década de los cincuenta), la <negrita>tasa de
+mortalidad era de 20 por mil</negrita>.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_09_11_CO_IMG06_small.jpg">
+<p>La tasa de mortalidad varía para cada país y responde a diferentes
+factores. En Colombia, ha descendido en las últimas décadas. Fuente:
+Dane.</p>
+</imagen>
+<p>Además, <negrita>la tasa de natalidad</negrita> varió a lo largo
+de ese siglo y disminuyó:</p>
+<listaSinNumerar>
+<listaElemento>En las tres primeras décadas nacían <negrita>42 habitantes
+por cada 1000</negrita>.</listaElemento>
+<listaElemento>De <negrita>1930 a 1960</negrita> la tasa de natalidad
+fue de <negrita>45 por mil</negrita>.</listaElemento>
+<listaElemento>Para finalizar el siglo <negrita>descendió a 28 por
+mil</negrita>.</listaElemento>
+</listaSinNumerar>
+<p>Esto hallaba relación con la <negrita>tasa de fecundidad</negrita
+>. A <negrita>principios de siglo</negrita> había <negrita>6 hijos
+por cada mujer</negrita>, mientras para el año <negrita>1993</negrita
+> la tasa descendió a <negrita>3 hijos por mujer</negrita>.</p>
+<p>La <negrita>transición demográfica</negrita> fue el cambio de altas
+a bajas tasas de mortalidad y natalidad, lo que permitió un crecimiento
+paulatino: la población crecía alrededor de 2 % anual.</p>
+<recuerda><recuerdaTexto>
+<p>La <negrita>modernización</negrita> tuvo un papel importante en
+la <negrita>transición demográfica</negrita>, porque inició un proceso
+de <negrita>urbanización</negrita>, <negrita>disminuyó el trabajo
+en el campo</negrita>, hubo <negrita>educación</negrita> para mayor
+cantidad de personas y <negrita>la mujer</negrita> tuvo mayor <negrita
+>participación laboral</negrita>.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3></seccion2Texto>
+</seccion2><seccion2
+id="S2_CS_09_11_CO_3FA57A96AC9A4AD88E3B027A0EB1C04B">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso040&amp;IdRecurso=RES-C41402ED0CCC4982AF859511C6C3F784"
+>Refuerza tu aprendizaje: Cambios de la población colombiana</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_11_CO_4349630D073B4824846954945998AC58">
+<seccion1Titulo>La población colombiana en el siglo XXI</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso050&amp;IdRecurso=RES-E19D12677847413386C87162E09F8074"
+>La población colombiana en el siglo XXI</enlace>
+</profundiza>
+<p>El primer censo nacional de población del siglo XXI se realizó
+en el año <negrita>2005</negrita> y se contabilizaron <negrita>42
+888 592 personas</negrita>.</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>tasa de natalidad</negrita> se ubicó en <negrita
+>21 nacimientos por cada mil habitantes</negrita>.</listaElemento>
+<listaElemento>La <negrita>tasa de fecundidad</negrita> descendió
+a aproximadamente <negrita>2 hijos por mujer</negrita>.</listaElemento>
+<listaElemento>La <negrita>tasa de mortalidad</negrita> se ubicó en <negrita
+>6 por mil</negrita>.</listaElemento>
+<listaElemento>Y <negrita>la esperanza de vida</negrita> para los <negrita
+>hombres</negrita> se ubicó en los <negrita>70 años</negrita>, mientras
+que para las <negrita>mujeres</negrita> fue de 77.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_09_11_CO_IMG07_small.jpg">
+<p>Para el año 2005 Colombia presentaba una tasa de natalidad de 21
+por mil.</p>
+</imagen>
+<p>Actualmente, el DANE estima que la población del país está sobre
+los 48 millones de habitantes, pero la <negrita>tasa de crecimiento
+ha disminuido a 1,3 %</negrita>. Esto quiere decir que cada año la
+población aumenta entre 45 000 a 50 000 individuos.</p>
+<p>Se proyecta que para el año 2020 la tasa de crecimiento disminuirá
+a 1,09 %, y la población podrá llegar a ser de 50 912 429 habitantes.</p>
+<seccion2 id="S2_CS_09_11_CO_377B12DEE91C4B7DB188E5CFBADD982D">
+<seccion2Titulo>La estructura demográfica en Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>Para determinar la <negrita>estructura demográfica de la población</negrita
+> se tiene en cuenta la <negrita>distribución por sexo y edad</negrita
+>. Con ella se pueden evidenciar las principales diferencias entre
+los grupos poblacionales y entre géneros.</p>
+<p><negrita>La pirámide de población</negrita> es una representación
+gráfica de la <negrita>estructura poblacional</negrita>. Los principales
+tipos de pirámides son: expansivas, estacionarias o constrictivas.</p>
+<listaSinNumerar>
+<listaElemento>Las <negrita>pirámides expansivas o progresivas</negrita
+> son aquellas con una base ancha y una cúspide estrecha, ya que hay
+mayor población joven y las tasas de mortalidad y natalidad son altas.</listaElemento>
+<listaElemento>En las <negrita>pirámides estacionarias o estancadas</negrita
+> tanto la base como la cúspide son similares. Ellas representan una
+mayoría de población vieja, donde las tasas de mortalidad y fecundidad
+son bajas.</listaElemento>
+<listaElemento>Las <negrita>pirámides constrictivas o regresivas</negrita
+> muestran una cúspide más ancha que la base. Esto quiere decir que
+hay una tasa de natalidad muy baja, por lo cual la población envejece
+continuamente. </listaElemento>
+</listaSinNumerar>
+<imagen src="CS_09_11_CO_IMG08_small.jpg">
+<p>Las pirámides de población pueden ser expansivas, estacionarias
+o regresivas.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>En Colombia, las pirámides de población aparecieron como representación
+gráfica, a partir del primer censo moderno (1938).</p>
+</recuerdaTexto></recuerda><seccion3
+id="S3_CS_09_11_CO_96A8476E484040D29D20D476BE3D7D47">
+<seccion3Titulo>Distribución de la población por sexo</seccion3Titulo>
+<seccion3Texto>
+<p>En los últimos tres siglos se han presentado diferentes cambios
+en la distribución de la población por sexo y edad en Colombia.</p>
+<p>A principios del <negrita>siglo XIX</negrita>, en <negrita>1835</negrita
+>, aunque la población no se discriminaba por grupos de edad, la <negrita
+>población femenina era superior</negrita> a la masculina. Esta proporción
+se mantuvo casi igual hasta finales de siglo, porque los hombres tenían
+mayor participación en las guerras.</p>
+<table border="1"><colgroup align="center"><col/><col/><col/><col/>
+</colgroup>
+<tbody>
+<tr>
+<td><negrita>Censo</negrita></td>
+<td><negrita>Hombres</negrita></td>
+<td><negrita>Mujeres</negrita></td>
+<td><negrita>Total de población</negrita></td>
+</tr>
+<tr>
+<td><negrita>1835</negrita></td>
+<td>804 749</td>
+<td>876 386</td>
+<td align="right"><negrita>1 681 135</negrita></td>
+</tr>
+<tr>
+<td><negrita>1843</negrita></td>
+<td>924 531</td>
+<td>1 007 153</td>
+<td align="right"><negrita>1 931 684</negrita></td>
+</tr>
+</tbody>
+</table>
+<p>En el primer <negrita>censo moderno (1938)</negrita> la población
+fue discriminada por <negrita>sexo</negrita> y grupos de <negrita
+>edad</negrita>. Los resultados fueron los siguientes:</p>
+<table border="1"><colgroup><col width="33*"/><col width="33*"/><col
+width="33*"/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Grupos de edad</negrita></td>
+<td align="center"><negrita>Hombres</negrita></td>
+<td align="center"><negrita>Mujeres</negrita></td>
+</tr>
+<tr>
+<td>Menores de 7 años</td>
+<td align="center">924 551</td>
+<td align="center">911 072</td>
+</tr>
+<tr>
+<td>7 - 14 años</td>
+<td align="center">924 050</td>
+<td align="center">893 262</td>
+</tr>
+<tr>
+<td>15 -  19 años</td>
+<td align="center">421 327</td>
+<td align="center">471 992</td>
+</tr>
+<tr>
+<td>20 - 59 años</td>
+<td align="center">1 839 718</td>
+<td align="center">1 876 476</td>
+</tr>
+<tr>
+<td>Mayores de 60 años</td>
+<td align="center">200 511</td>
+<td align="center">234 082</td>
+</tr>
+<tr>
+<td><negrita>Totales:</negrita></td>
+<td align="center"><negrita>4 310 157</negrita></td>
+<td align="center"><negrita>4 386 884</negrita></td>
+</tr>
+<tr>
+<td><negrita>Total de población:</negrita></td>
+<td align="center" colspan="2"><negrita>8 697 041</negrita></td>
+</tr>
+</tbody>
+</table>
+<p>Los <negrita>menores de 15</negrita> años representaban el <negrita
+>45 %</negrita> de la población y las personas <negrita>mayores de
+60 años</negrita> se aproximaban al <negrita>5 %</negrita>. La <negrita
+>población adulta representaba el 50 %</negrita> del total. Para esa
+época <negrita>la pirámide poblacional</negrita> presentaba una forma <negrita
+>expansiva o progresiva</negrita>.</p>
+<p>En la <negrita>segunda mitad del siglo XX</negrita>, la pirámide
+de población tuvo pequeñas variaciones en cuanto a los grupos de edad:</p>
+<table border="1"><colgroup><col/><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Grupos de edad</negrita></td>
+<td align="center"><negrita>1951</negrita></td>
+<td align="center"><negrita>1973</negrita></td>
+<td align="center"><negrita>1993</negrita></td>
+</tr>
+<tr>
+<td><negrita>De 0 a 14 años</negrita></td>
+<td align="center">42,78 %</td>
+<td align="center">44,78 %</td>
+<td align="center">34,59 %</td>
+</tr>
+<tr>
+<td><negrita>15 - 64 años</negrita></td>
+<td align="center">54,42 %</td>
+<td align="center">52,36 %</td>
+<td align="center">61,14 %</td>
+</tr>
+<tr>
+<td><negrita>Mayores de 65 años</negrita></td>
+<td align="center">2,8 %</td>
+<td align="center">2,86 %</td>
+<td align="center">4,27 %</td>
+</tr>
+</tbody>
+</table>
+<p>Poco a poco la <negrita>pirámide poblacional</negrita> fue adquiriendo
+una forma más constrictiva, ya que los índices de <negrita>fecundidad
+y natalidad</negrita> iban <negrita>disminuyendo</negrita>, mientras
+la <negrita>esperanza de vida aumentaba</negrita>. Además, la proporción
+entre hombres y mujeres se fue equiparando:</p>
+<table border="1"><colgroup><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Censo</negrita></td>
+<td align="center"><negrita>Hombres</negrita></td>
+<td align="center"><negrita>Mujeres</negrita></td>
+</tr>
+<tr>
+<td align="center"><negrita>1951</negrita></td>
+<td align="center">46,1 %</td>
+<td align="center">53,9 %</td>
+</tr>
+<tr>
+<td align="center"><negrita>1973</negrita></td>
+<td align="center">48,5 %</td>
+<td align="center">51,5 %</td>
+</tr>
+<tr>
+<td align="center"><negrita>1993</negrita></td>
+<td align="center">49,2 %</td>
+<td align="center">50,8 %</td>
+</tr>
+</tbody>
+</table>
+<p>Para el año <negrita>2005</negrita>, <negrita>la pirámide de población</negrita
+> de Colombia ha mantenido un perfil similar. El <negrita>49 %</negrita
+> de la población es <negrita>masculina</negrita> y el <negrita>51
+% femenina</negrita>. De acuerdo con los grupos de edad tenemos que:</p>
+<table border="1"><colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Grupos de edad</negrita></td>
+<td align="center"><negrita>2005</negrita></td>
+</tr>
+<tr>
+<td><negrita>De 0 a 14 años</negrita></td>
+<td align="center">31 %</td>
+</tr>
+<tr>
+<td><negrita>15 - 64 años</negrita></td>
+<td align="center">60 %</td>
+</tr>
+<tr>
+<td><negrita>Mayores de 65 años</negrita></td>
+<td align="center">8,9 %</td>
+</tr>
+</tbody>
+</table>
+<imagen src="CS_09_11_CO_IMG09_small.jpg">
+<p>Los cálculos de la población colombiana para el año 2025 indican
+que hay una tasa de natalidad muy baja, por lo cual la población envejece
+continuamente.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso060&amp;IdRecurso=RES-3BFCD1F915B048138789DFC6F2A33A99"
+>Pirámide poblacional de Colombia</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_09_11_CO_5D4A5F7D04464B6DB3BBEBBD57B42B0F">
+<seccion3Titulo>Índice de masculinidad</seccion3Titulo>
+<seccion3Texto>
+<p>Otro dato que permite caracterizar el comportamiento demográfico
+de una población es el índice de masculinidad. Es la <negrita>relación
+entre el número de hombres respecto al de mujeres</negrita>.</p>
+<p>Para el último censo de población (<negrita>2005</negrita>) el
+índice de masculinidad era de <negrita>97 hombres por cada 100 mujeres</negrita
+>. Según proyecciones del DANE <negrita>en el año 2020</negrita>, <negrita
+>el índice de masculinidad se mantendrá igual: 97 hombres por cada
+100 mujeres</negrita>. Esto responde, en primer lugar, a causas biológicas
+pero también al aumento de la mortalidad masculina.</p>
+<recuerda><recuerdaTexto>
+<p><negrita>Cada departamento</negrita> del país presenta un <negrita
+>índice de masculinidad propio</negrita>. Con este índice se puede
+observar cómo se dinamizan los fenómenos migratorios. Por lo general,
+en las <negrita>áreas rurales el índice de masculinidad es mayor</negrita
+> porque las mujeres tienden a emigrar.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CS_09_11_CO_98C26E6DA4B34A0291C57CEE6DB2B277">
+<seccion3Titulo>Índice de envejecimiento y la relación niño-mujer</seccion3Titulo>
+<seccion3Texto>
+<p>El <negrita>índice de envejecimiento</negrita> expresa la <negrita
+>relación</negrita> entre la cantidad de <negrita>adultos mayores</negrita
+> (mayores de 65 años) frente a la cantidad de <negrita>niños y jóvenes</negrita
+> de una población (menores de 15 años).</p>
+<p>Para el año 2005 había en Colombia 29 adultos mayores por 100 niños
+o jóvenes. En 1993, 21 adultos mayores por 100 niños o jóvenes. El
+Ministerio de Salud, con base en el DANE, proyectó que <negrita>para
+el año 2020 este índice aumentará a 50 adultos mayores por cada 100
+niños o jóvenes</negrita>.</p>
+<p>Estas cifras contribuyen a <negrita>definir políticas públicas</negrita
+>, con el fin de garantizar mayor atención a la población en <negrita
+>salud</negrita> o <negrita>seguridad social</negrita>.</p>
+<imagen src="CS_09_11_CO_IMG10_small.jpg">
+<p>Si el índice de envejecimiento de un país aumenta, los gastos de
+bienestar social para la población de adultos mayores también se incrementan.
+Habría inconvenientes con las pensiones y la cantidad de población
+trabajadora. Además se podrían establecer políticas para aumentar
+la tasa de natalidad.</p>
+</imagen>
+<p>La <negrita>relación niño-mujer (RM)</negrita> es un cálculo de
+los <negrita>niños o niñas menores a 5 años y la cantidad de mujeres
+en edad fértil</negrita>: de 15 a 49 años. Además halla relación con
+la tasa de fecundidad y permite comprender el crecimiento de la población.</p>
+<p>En el año <negrita>1985</negrita> la RM era de <negrita>52,6 niños
+y niñas por cada 100 mujeres</negrita>. Mientras para el <negrita
+>2005</negrita> la <negrita>RM ha disminuido a 38 niños y niñas por
+cada 100 mujeres</negrita><enlace
+destino="http://www.cepal.org/cgi-bin/getprod.asp?xml=/celade/noticias/paginas/4/47494/P47494.xml&amp;xsl=/celade/tpl/p18f.xsl&amp;base=/celade/tpl/top-bottom_ind.xsl"
+> [VER]</enlace>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso070&amp;IdRecurso=RES-3389E107023F4DC5937CEEEAA1059385"
+>Características de la composición de la  población colombiana por
+sexo y edad</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_09_11_CO_54CC1FED77D24C89BBD2F40DA94FFD23">
+<seccion3Titulo>Pertenencia étnica</seccion3Titulo>
+<seccion3Texto>
+<p>La medición de la pertenencia étnica <negrita>ha variado</negrita
+> a lo largo del tiempo. Si bien con la <negrita>Conquista española</negrita
+> disminuyó la población nativa, también aumentó la cantidad de población
+de otros continentes e inició un proceso de mestizaje.</p>
+<p>Durante el siglo XIX, el censo de <negrita>1835</negrita> contabilizó
+a <negrita>111 130 habitantes</negrita> pertenecientes a diferentes
+tribus <negrita>indígenas</negrita>. En la provincia de Pasto se concentraba
+la mayoría de la población, 70 900 indígenas: coreguajes, andaquíes,
+makaguajes, huitotos, guaques, entre otras.</p>
+<p>Ese mismo año se contabilizó a <negrita>la población negra</negrita
+>. Había un total de <negrita>39 390 esclavos</negrita> entre hombres
+y mujeres, el resto de la población era blanca o mestiza. No fue sino
+hasta <negrita>1843</negrita> que <negrita>la población esclava disminuyó</negrita
+>.</p>
+<imagen src="CS_09_11_CO_IMG11_small.jpg">
+<p>Desde la época colonial en el continente americano se estableció
+un sistema de castas entre la población debido al mestizaje.</p><?Pub
+Caret -2?>
+</imagen>
+<p>De acuerdo con la primera <negrita>Ley de Manumisión</negrita> (1821),
+en la que se dio libertad a los hijos de esclavas, el censo de 1843
+se propuso principalmente para contabilizar la población negra, ya
+fuera esclava, libre de nacimiento o fugitiva y cimarrona:</p>
+<listaSinNumerar>
+<listaElemento><negrita>1 904 906 eran personas libres y 26 778 se
+mantenían como esclavos</negrita>. Las provincias con mayor cantidad
+de población esclava eran: Cauca, Popayán y Buenaventura. </listaElemento>
+<listaElemento><negrita>La población indígena</negrita>, considerada
+como salvaje, casi alcanzaba los <negrita>200 000 mil</negrita> habitantes.
+Pasto continuaba como la provincia con mayor cantidad de población.
+Le seguían Riohacha con 55 000 y Casanare con 16 000<enlace
+destino="http://www.banrepcultural.org/node/123392"> [VER]</enlace
+>.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_09_11_CO_IMG12_small.jpg">
+<p>La primera Ley de Manumisión se decretó en 1821, y en 1851 se abolió
+la esclavitud.</p>
+</imagen>
+<p>Para <negrita>1938</negrita>, en los resultados generales del censo
+se incluyó una población de <negrita>4 775 indígenas</negrita>, de
+los cuales 2 606 eran hombres y 2 169 mujeres. Apenas a <negrita>finales
+del siglo XX</negrita> tomó <negrita>relevancia</negrita> la <negrita
+>pertenencia étnica</negrita> y la garantía de derechos para dicha
+población.</p>
+<p>A partir de la Constitución de 1991, el estudio de la población
+indígena o negra en el país ha sido más profundo. Para el censo de <negrita
+>1993</negrita>:</p>
+<listaSinNumerar>
+<listaElemento>Se contabilizaron <negrita>532 233 indígenas</negrita
+>.</listaElemento>
+<listaElemento>Los grupos mayoritarios eran de las etnias nasa, wayú
+y embera.</listaElemento>
+<listaElemento><negrita>La población negra</negrita> correspondía
+a <negrita>502 343 personas</negrita>, entre negros, cimarrones y
+raizales.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_09_11_CO_IMG13_small.jpg">
+<p>La población embera es uno de los grupos étnicos mayoritarios según
+el censo del año 2005.</p>
+</imagen>
+<p>Para el censo del año <negrita>2005</negrita>, <negrita>de los
+42 millones de personas</negrita>:</p>
+<listaSinNumerar>
+<listaElemento>El <negrita>10,52 % de la población era negra, mulata
+o afrocolombiana</negrita>. Aproximadamente, <negrita>4 millones de
+habitantes</negrita>.</listaElemento>
+<listaElemento><negrita>1 392 623 personas</negrita>, el <negrita
+>3,43 %</negrita> del total era <negrita>indígena</negrita>.</listaElemento>
+<listaElemento><negrita>Los raizales</negrita> del archipiélago de
+San Andrés: <negrita>30 565 personas</negrita>, el 0,02 % de la población.</listaElemento>
+<listaElemento>Y <negrita>7 470 palenqueros</negrita> de San Basilio
+y <negrita>4 858 Rom</negrita>, comúnmente conocidos como gitanos.</listaElemento>
+</listaSinNumerar>
+<p>La distribución por grupos de edad de la población perteneciente
+a grupos étnicos es:</p>
+<table border="1"><colgroup><col/><col/><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center" rowspan="2"><negrita>Grupos de edad</negrita></td>
+<td align="center" colspan="2"><negrita>Población indígena</negrita
+></td>
+<td align="center" colspan="2"><negrita>Población afrocolombiana</negrita
+></td>
+</tr>
+<tr>
+<td align="center"><negrita>1993</negrita></td>
+<td align="center"><negrita>2005</negrita></td>
+<td align="center"><negrita>1993</negrita></td>
+<td align="center"><negrita>2005</negrita></td>
+</tr>
+<tr>
+<td><negrita>0-14 años</negrita></td>
+<td align="center">45,1 %</td>
+<td align="center">39,5 %</td>
+<td align="center">44,0 %</td>
+<td align="center">33,4 %</td>
+</tr>
+<tr>
+<td><negrita>15-59 años</negrita></td>
+<td align="center">49,1 %</td>
+<td align="center">53,1 %</td>
+<td align="center">50,1 %</td>
+<td align="center">59,1 %</td>
+</tr>
+<tr>
+<td><negrita>Mayor de 60 años</negrita></td>
+<td align="center">5,8 %</td>
+<td align="center">7,4 %</td>
+<td align="center">5,9 %</td>
+<td align="center">7,5 %</td>
+</tr>
+</tbody>
+</table>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso080&amp;IdRecurso=RES-975B3239872C44198FAA152A1DB14508"
+>Características de la composición étnica de la población colombiana</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_09_11_CO_5B3ACA59D8FD4114919BEB6919055C1D">
+<seccion3Titulo>La población y la economía</seccion3Titulo>
+<seccion3Texto>
+<p>La población en <negrita>edad de trabajar</negrita> (PET), la población <negrita
+>económicamente activa</negrita> (PEA) y la población <negrita>económicamente
+inactiva</negrita> (PEI) son otros indicadores demográficos que permiten
+conocer las dinámicas de población.</p>
+<p>En Colombia para el año <negrita>2005</negrita> la población en
+edad de trabajar (<negrita>PET</negrita>) era de <negrita>33 913 548
+personas</negrita>. Mientras <negrita>20 199 370 habitantes</negrita
+> representaban la <negrita>PEA</negrita>, y la <negrita>PEI</negrita
+>, <negrita>13 714 172 personas</negrita><enlace
+destino="http://www.mintrabajo.gov.co/empleo/indicadores-del-mercado-laboral.html"
+> [VER]</enlace>.</p>
+<recuerda><recuerdaTexto>
+<p>Los indicadores relacionados con la <negrita>PET</negrita>, la <negrita
+>PEA</negrita> y el <negrita>PEI</negrita> tienen relación con el
+tipo de actividad económica que realizan los habitantes y las condiciones
+socioeconómicas.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CS_09_11_CO_5B3ACA59D8FD4114919BEB6919056B0C">
+<seccion3Titulo>La tasa de alfabetismo</seccion3Titulo>
+<seccion3Texto>
+<p>Entre otros indicadores está la <negrita>tasa de alfabetismo</negrita
+>, que mide la <negrita>cantidad de personas</negrita> que saben <negrita
+>leer</negrita> y <negrita>escribir</negrita>. Este cálculo también
+permite establecer políticas públicas para mejorar las condiciones
+educativas de los habitantes.</p>
+<p>La tasa de alfabetismo en Colombia ha aumentado de la forma siguiente:</p>
+<table border="1"><colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Censo</negrita></td>
+<td align="center"><negrita>Alfabetismo</negrita></td>
+</tr>
+<tr>
+<td align="center">1964</td>
+<td align="center">72 %</td>
+</tr>
+<tr>
+<td align="center">1973</td>
+<td align="center">82 %</td>
+</tr>
+<tr>
+<td align="center">1993</td>
+<td align="center">90 %</td>
+</tr>
+<tr>
+<td align="center">2005</td>
+<td align="center">91 %</td>
+</tr>
+</tbody>
+</table>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso090&amp;IdRecurso=RES-43175B9FB36F4864A1154353FBE3AA6A"
+>Relaciones entre la estructura demográfica y la economía del país</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_09_11_CO_038B86FC333F409E8814687CEC49BDCC">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso100&amp;IdRecurso=RES-1CD8984D231D45BB820946023E02089A"
+>Refuerza tu aprendizaje: La población colombiana en el siglo XXI</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_11_CO_94A67E2E1DD9408A9A1F245A57255455">
+<seccion1Titulo>La distribución de la población colombiana</seccion1Titulo>
+<seccion1Texto>
+<p>Colombia es un país con una <negrita>extensión territorial</negrita
+> de <negrita>2 070 408 km<superindice>2</superindice></negrita>,
+su área continental es de 1 141 748 km<superindice>2</superindice
+> y su territorio de soberanía marítima es de 928 660. Entre los <negrita
+>países latinoamericanos</negrita>, se clasifica como un país de <negrita
+>tamaño medio</negrita>.</p>
+<p>La división político-administrativa hace de Colombia un país compuesto
+por 32 departamentos, 1101 municipios, 5 distritos, 20 territorios
+especiales biodiversos y fronterizos, 755 resguardos indígenas y 116
+territorios colectivos de comunidades negras.</p>
+<imagen ampliable="no" src="CS_09_11_CO_IMG14_small.jpg">
+<p>En la región Pacífica, Caribe e Insular se concentra la mayor cantidad
+de población afrocolombiana y los territorios colectivos de comunidades
+negras.</p>
+</imagen>
+<p>El país se divide en <negrita>seis regiones geográficas</negrita
+>: <negrita>Insular</negrita>, <negrita>Caribe</negrita>, <negrita
+>Pacífico</negrita>, <negrita>Andina</negrita>, <negrita>Orinoquia</negrita
+> y <negrita>Amazonia</negrita>. La mayor cantidad de población está
+en la región Andina.</p>
+<seccion2 id="S2_CS_09_11_CO_038B86FC333F409E8814687CEC49AFBB">
+<seccion2Titulo>La población colombiana en el siglo XIX</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso110&amp;IdRecurso=RES-06C7B00D10EF4102BE1E8AA78C7C35F5"
+>Cambios en el poblamiento de las regiones de Colombia</enlace>
+</profundiza>
+<p>En el <negrita>siglo XIX</negrita> la mayoría de la población se
+concentraba en la cordillera Oriental del área Andina. Las provincias
+con mayor cantidad de población eran <negrita>Bogotá</negrita>, <negrita
+>Tunja</negrita> y <negrita>Antioquia</negrita>.</p>
+<p>Luego seguían Cartagena, Santa Marta, Pasto, Popayán y Pamplona,
+porque aún se mantenía el patrón de asentamiento y económico de la
+época colonial.</p>
+<p>En ese siglo, la costa Atlántica, los centros aledaños al río Magdalena
+y a Popayán perdieron gran número de habitantes debido a las guerras.
+En esa época <negrita>la economía de Colombia se centraba en lo rural
+y artesanal, así como su red comercial de exportación</negrita>.</p>
+<p><negrita>La cordillera Central</negrita> de la región Andina fue
+poblada paulatinamente a finales del siglo XIX, <negrita>con el auge
+del café</negrita>. La ganadería se extendió por las llanuras de la
+región Caribe y de las sabanas orientales.</p>
+<imagen src="CS_09_11_CO_IMG15_small.jpg">
+<p>El auge del café se inició con la colonización de las tierras vírgenes
+de la cordillera Central a finales del siglo XIX.</p>
+</imagen>
+<p>Hubo <negrita>colonización</negrita> de tierras vírgenes hacia
+el <negrita>oeste del país</negrita>, lo cual ocasionó el desarrollo
+del área del <negrita>Pacífico</negrita>, conectando Cali con Buenaventura.
+También poco a poco <negrita>los llanos orientales y el norte de la
+selva amazónica</negrita>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso120&amp;IdRecurso=RES-BBA4C651135841FAAD3384AC9D28E8F8"
+>Conoce aspectos de la transformación de la población en Colombia
+desde el siglo XIX</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_11_CO_4CBD7268FA38441FAD36E53D59957271">
+<seccion2Titulo>El crecimiento urbano en el siglo XX</seccion2Titulo>
+<seccion2Texto>
+<p>En el censo de <negrita>1905</negrita> la distribución de la población
+era la siguiente:</p>
+<table border="1"><colgroup><col/><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Departamento</negrita></td>
+<td align="center"><negrita>Habitantes</negrita></td>
+<td align="center"><negrita>Departamento</negrita></td>
+<td align="center"><negrita>Habitantes</negrita></td>
+</tr>
+<tr>
+<td>Antioquia</td>
+<td align="center">673 270</td>
+<td>Santander</td>
+<td align="center">561 117</td>
+</tr>
+<tr>
+<td>Boyacá</td>
+<td align="center">280 419</td>
+<td>Tolima</td>
+<td align="center">220 157</td>
+</tr>
+<tr>
+<td>Caldas</td>
+<td align="center">185 786</td>
+<td>Quesada</td>
+<td align="center">240 747</td>
+</tr>
+<tr>
+<td>Cauca</td>
+<td align="center">485 516</td>
+<td>Intendencia del Chocó</td>
+<td align="center">54 156</td>
+</tr>
+<tr>
+<td>Cundinamarca</td>
+<td align="center">279 649</td>
+<td>Intendencia de la Guajira</td>
+<td align="center">75 795</td>
+</tr>
+<tr>
+<td>Galán</td>
+<td align="center">221 257</td>
+<td>Territorio Nacional del Meta</td>
+<td align="center">8 662</td>
+</tr>
+<tr>
+<td>Huila</td>
+<td align="center">143 848</td>
+<td>Tundama</td>
+<td align="center">241 341</td>
+</tr>
+<tr>
+<td>Magdalena</td>
+<td align="center">123 548</td>
+<td>Distrito Capital</td>
+<td align="center">127 835</td>
+</tr>
+<tr>
+<td>Nariño</td>
+<td align="center">256 415</td>
+<td align="right" colspan="2"><negrita>Total: 4 179 518</negrita></td>
+</tr>
+</tbody>
+</table>
+<p>En <negrita>1912</negrita>, <negrita>Antioquia</negrita>, <negrita
+>Cundinamarca</negrita> y <negrita>Boyacá</negrita> concentraban la
+mayor cantidad de población. Posteriormente, el patrón de distribución
+cambió.</p>
+<p>Hasta la década de los <negrita>años treinta</negrita> había mayor
+población rural que urbana. <negrita>La población urbana</negrita
+> se situaba en las principales ciudades conformadas en red, desde
+el siglo XIX: <negrita>Bogotá-Medellín-Cali</negrita>, el triángulo
+de oro.</p>
+<imagen ampliable="no" src="CS_09_11_CO_IMG16_small.jpg">
+<p>La mayor cantidad de la población en Colombia se concentra en Bogotá,
+el departamento de Antioquia y a lo largo de la región Andina.</p>
+</imagen>
+<p>Para la segunda mitad del siglo XX se inició un proceso de modernización.
+Se desarrollaron redes viales, se integraron los mercados regionales
+a la par de la industrialización en cuatro ciudades principales: <negrita
+>Bogotá</negrita>, <negrita>Medellín</negrita>, <negrita>Cali</negrita
+> y <negrita>Barranquilla</negrita>.</p>
+<p>En <negrita>1973</negrita> hubo un cambio notable en cuanto a la
+cantidad de población y su lugar de residencia. De los <negrita>19
+735 286 habitantes</negrita>, el <negrita>63,6 % se situaba en las
+zonas urbanas</negrita> mientras el <negrita>36,4 % en las zonas rurales</negrita
+>. Desde este periodo <negrita>inició la explosión urbana</negrita
+>.</p>
+<p>Luego, en <negrita>1993</negrita>, los habitantes en áreas urbanas
+alcanzaron el 69 %. En <negrita>Bogotá</negrita>, <negrita>Medellín</negrita
+>, <negrita>Cali</negrita> y <negrita>Barranquilla</negrita> se concentraba
+el <negrita>45 % de la población urbana</negrita> del país. En cambio
+la <negrita>población rural</negrita> descendió un <negrita>30 %</negrita
+> en todo el territorio nacional.</p>
+<imagen ampliable="no" src="CS_09_11_CO_IMG17_small.jpg">
+<p>En las áreas metropolitanas se concentra la mayor cantidad de población
+a partir de la segunda mitad del siglo XX.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_11_CO_4CBD7268FA38441FAD36E53D59952459">
+<seccion2Titulo>El crecimiento urbano en el siglo XXI</seccion2Titulo>
+<seccion2Texto>
+<p>Según el último censo de población (<negrita>2005</negrita>), el <negrita
+>75 %</negrita> de la población colombiana se concentra en <negrita
+>áreas urbanas</negrita>, para un total de <negrita>32 millones de
+personas</negrita>. El <negrita>41,4 %</negrita> del total de población
+se sitúa en <negrita>Bogotá, D.C.</negrita>, <negrita>Medellín</negrita
+>, <negrita>Barranquilla</negrita>, <negrita>Cali</negrita> y <negrita
+>Cartagena</negrita>.</p>
+<imagen src="CS_09_11_CO_IMG18_small.jpg">
+<p>La explosión demográfica en la ciudad de Bogotá se inició a partir
+de la segunda mitad del siglo XX.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Debido a esto, <negrita>Colombia</negrita> en la actualidad <negrita
+>es un país de primacía urbana</negrita>. La mayor cantidad de población
+se concentra en la ciudad de Bogotá.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_11_CO_4CBD7268FA38441FAD36E53D59956160">
+<seccion2Titulo>La densidad de la población colombiana</seccion2Titulo>
+<seccion2Texto>
+<p>Otro de los indicadores para entender los patrones de asentamiento
+humano es la densidad poblacional. Un cálculo entre la <negrita>cantidad
+de habitantes y la superficie territorial</negrita>. Se expresa en
+habitantes (hab.) por kilómetro cuadrado (km<superindice>2</superindice
+>).</p>
+<imagen src="CS_09_11_CO_IMG19_small.jpg">
+<p>Bogotá es la ciudad con mayor densidad poblacional de Colombia.</p>
+</imagen>
+<p>Según el censo de <negrita>2005</negrita>, la densidad poblacional
+en el país se aproxima a <negrita>38 hab./km<superindice>2</superindice
+></negrita>. En la actualidad se estima que ya alcanza los 42 hab./km<superindice
+>2</superindice>. Este cálculo ha variado a lo largo del tiempo:</p>
+<table border="1" width="529"><colgroup><col width="49*"/><col
+width="48*"/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Año</negrita></td>
+<td align="center"><negrita>Hab./km<superindice>2</superindice></negrita
+></td>
+</tr>
+<tr>
+<td align="center"><negrita>1938</negrita></td>
+<td align="center">7,6</td>
+</tr>
+<tr>
+<td align="center"><negrita>1973</negrita></td>
+<td align="center">20,1</td>
+</tr>
+<tr>
+<td align="center"><negrita>1993</negrita></td>
+<td align="center">29,0</td>
+</tr>
+<tr>
+<td align="center"><negrita>2005</negrita></td>
+<td align="center">37,6</td>
+</tr>
+</tbody>
+</table>
+<p>Para cada territorio, ya sea departamento, municipio, resguardo
+o ciudad, la densidad poblacional es diferente. Por ejemplo:</p>
+<table border="1" width="529"><colgroup><col width="49*"/><col
+width="48*"/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Territorios</negrita></td>
+<td align="center"><negrita>Hab./km<superindice>2</superindice></negrita
+></td>
+</tr>
+<tr>
+<td align="left"><negrita>Bogotá</negrita></td>
+<td align="center">16 470 hab./km<superindice>2</superindice></td>
+</tr>
+<tr>
+<td align="left"><negrita>Departamento de Antioquia/zona urbana</negrita
+></td>
+<td align="center">11 366 hab./km<superindice>2</superindice></td>
+</tr>
+<tr>
+<td align="left"><negrita>Departamento del Vichada/zona urbana</negrita
+></td>
+<td align="center">1822 hab./km<superindice>2</superindice></td>
+</tr>
+<tr>
+<td align="left"><negrita>Departamento del Vichada/zona rural</negrita
+></td>
+<td align="center">Menos de 1 hab./km<superindice>2</superindice></td>
+</tr>
+<tr>
+<td align="left"><negrita>Departamento de Amazonas/zona urbana</negrita
+></td>
+<td align="center">2 424 hab./km<superindice>2</superindice></td>
+</tr>
+<tr>
+<td align="left"><negrita>Departamento de Amazonas/zona rural</negrita
+></td>
+<td align="center">Menos de 1 hab./km<superindice>2</superindice></td>
+</tr>
+</tbody>
+</table>
+<p>En cada región del país la distribución de la población es distinta,
+por ejemplo:</p>
+<table border="1"><colgroup><col/><col/><col/><col/><col/><col/>
+</colgroup>
+<tbody>
+<tr>
+<td><negrita>Región</negrita></td>
+<td><negrita>Amazonia</negrita></td>
+<td><negrita>Andina</negrita></td>
+<td><negrita>Caribe e Insular</negrita></td>
+<td><negrita>Orinoquia</negrita></td>
+<td><negrita>Pacífico</negrita></td>
+</tr>
+<tr>
+<td><negrita>Total población</negrita></td>
+<td align="center">1 034 757</td>
+<td align="center">30 057 952</td>
+<td align="center">9 375 632</td>
+<td align="center">1 277 800</td>
+<td align="center">1 142 451</td>
+</tr>
+<tr>
+<td><negrita>Porcentaje sobre el total de la población</negrita></td>
+<td align="center">2,4 %</td>
+<td align="center">70,1 %</td>
+<td align="center">21,9 %</td>
+<td align="center">3 %</td>
+<td align="center">2,7 %</td>
+</tr>
+<tr>
+<td><negrita>Densidad poblacional</negrita></td>
+<td align="center">2,3 hab./km2</td>
+<td align="center">109,8 hab./km2</td>
+<td align="center">72,9 hab./km2</td>
+<td align="center">5,9 hab./km2</td>
+<td align="center">14,6 hab./km2</td>
+</tr>
+</tbody>
+</table>
+<p>La <negrita>desigual distribución</negrita> de la población del
+país obedece a diferentes causas. Una de ellas es la percepción sobre
+una mejor calidad de vida por la existencia de mayores fuentes de
+empleo en las ciudades, el acceso a servicios de salud o educativos,
+así como también el abandono del conflicto armado en ciertas zonas
+del país.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_09_11_CO_4D8CB9ED22574B7A8B89EA5D07D7E3D0">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso130&amp;IdRecurso=RES-76F973791FF84750A29433AF98575B99"
+>Refuerza tu aprendizaje: La distribución de la población colombiana</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_11_CO_AD500F36FC8E402987FA9B1D736DB229">
+<seccion1Titulo>El fenómeno migratorio</seccion1Titulo>
+<seccion1Texto>
+<p>El <negrita>desplazamiento de la población</negrita>, de un lugar
+de origen a otro de destino, se conoce como <negrita>migración</negrita
+>. El aspecto más importante de este fenómeno es el cambio de residencia
+habitual de los individuos.</p>
+<p>El proceso migratorio presenta dos puntos de vista: la <negrita
+>emigración</negrita> y la <negrita>inmigración</negrita>. La <negrita
+>emigración</negrita> se refiere a la salida de población y la inmigración
+es el ingreso de población hacia un territorio determinado.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso130&amp;IdRecurso=RES-76F973791FF84750A29433AF98576C00"
+>Las migraciones de colombianos y su impacto</enlace>
+</profundiza>
+<p>Colombia ha vivido diferentes migraciones por distintas causas:</p>
+<table border="1"><colgroup><col width="30*"/><col width="69*"/>
+</colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Causas</negrita></td>
+<td align="center"><negrita>Situación</negrita></td>
+</tr>
+<tr>
+<td><negrita>Catástrofes naturales</negrita></td>
+<td>El desplazamiento de la población se origina a raíz de <negrita
+>fenómenos naturales</negrita> que hacen <negrita>inhabitable el lugar
+de origen</negrita> (por un tiempo determinado o de por vida): inundaciones,
+sequías, tsunamis, terremotos, erupciones volcánicas, epidemias, entre
+otras.</td>
+</tr>
+<tr>
+<td><negrita>Políticas</negrita></td>
+<td>La población se desplaza debido a <negrita>crisis políticas</negrita
+> en un territorio específico, ya sea que <negrita>las decisiones
+gubernamentales afecten la calidad de vida de los habitantes o haya
+riesgo para la vida</negrita> de los individuos. En este caso los
+migrantes pueden ser exiliados políticos, si su vida se encuentra
+en peligro. </td>
+</tr>
+<tr>
+<td><negrita>Culturales</negrita></td>
+<td>Se refiere al momento en que una persona emigra debido al <negrita
+>sentido de pertenencia e identidad hacia un territorio y la sociedad
+que lo habita</negrita>. Los factores involucran las costumbres, el
+idioma, la religión o valores sociales. </td>
+</tr>
+<tr>
+<td><negrita>Socioeconómicas</negrita></td>
+<td>La migración se produce <negrita>cuando el individuo decide sobre
+su desarrollo socioeconómico, al buscar mejores condiciones laborales
+o remuneración</negrita> que aumente su calidad de vida.</td>
+</tr>
+<tr>
+<td><negrita>Bélicas-conflictos</negrita></td>
+<td>Corresponde al desplazamiento de la población <negrita>cuando
+ocurren guerras o enfrentamientos entre diferentes actores en conflicto</negrita
+>.</td>
+</tr>
+</tbody>
+</table>
+<seccion2 id="S2_CS_09_11_CO_4D8CB9ED22574B7A8B89EA5D07D7B2C9">
+<seccion2Titulo>Las migraciones en la historia de Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>Durante los últimos tres siglos el <negrita>fenómeno migratorio</negrita
+> en Colombia ha sido <negrita>dinámico</negrita>. El ingreso de inmigrantes
+data de la época de la Conquista. Las migraciones internas han sucedido
+en diferentes etapas, destacándose el éxodo rural a mediados del siglo
+XX.</p>
+<p>También tenemos las <negrita>migraciones intra e interdepartamentales</negrita
+>, de acuerdo con los niveles de desarrollo y las condiciones de vida
+que ofrecen diferentes territorios.</p>
+<p>De igual manera la problemática del <negrita>desplazamiento forzado</negrita
+> es un tipo de migración sujeta al conflicto interno de actores armados
+que continúa hasta nuestros días.</p>
+<seccion3 id="S3_CS_09_11_CO_2C2606D8C971477081D5693AC4B79711">
+<seccion3Titulo>Las migraciones en el siglo XIX</seccion3Titulo>
+<seccion3Texto>
+<p>A <negrita>finales del siglo XIX</negrita> una de las migraciones
+más destacada fue el <negrita>ingreso de población árabe</negrita
+>, proveniente del imperio turco-otomano. Países que hoy se conocen
+como Líbano, Siria, Palestina y Jordania.</p>
+<p>Las causas de su emigración respondían a factores políticos y económicos.
+La población árabe se situó principalmente en <negrita>los territorios
+de la costa Atlántica</negrita>, en ciudades como Barranquilla, Santa
+Marta, Cartagena, Montería, Sincelejo y Maicao.</p>
+<imagen src="CS_09_11_CO_IMG20_small.jpg">
+<p>La influencia de la inmigración árabe a Colombia abarcó también
+la religión.</p>
+</imagen>
+<p>Esta población contribuyó al impulso del <negrita>comercio y la
+industria</negrita> al norte del país. Además ejerció influencia con
+la religión musulmana.</p>
+<p>Para esta época ingresaron, además, <negrita>judíos</negrita> del
+mundo árabe, los <negrita>mizrajíes</negrita> y los <negrita>asquenazíes</negrita
+> de Europa del Este. Ellos se situaron principalmente en Barranquilla,
+Valledupar, Bogotá, Cali y Medellín.</p>
+<p>De igual forma hubo inmigrantes de las Antillas, específicamente
+población judía de Curazao. Las guerras de independencia tuvieron
+apoyo económico de esta población y otra de las influencias de la
+población judía fue la religión hebrea.</p>
+<p>Las migraciones internas en el territorio sucedieron a lo largo
+de este siglo, aunque no existe un registro oficial de dicha información.
+Es necesario destacar que en ese siglo los conflictos internos implicaban
+un movimiento de la población.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_09_11_CO_2C2606D8C971477081D5693AC4B70822">
+<seccion3Titulo>El éxodo rural del siglo XX y las migraciones internacionales</seccion3Titulo>
+<seccion3Texto>
+<p>Durante el siglo XX la migración más destacada fue <negrita>el
+éxodo rural</negrita>, desde la década de los años treinta. Paulatinamente
+esto generó un proceso de <negrita>explosión urbana</negrita>, que
+se consolidó en la segunda mitad del siglo.</p>
+<p>El éxodo rural se originó a raíz de la <negrita>disminución</negrita
+> de los <negrita>precios</negrita> de los productos <negrita>agrícolas</negrita
+>, hecho que afectó las exportaciones. Así, la población se vio obligada
+a abandonar poco a poco el campo, para buscar mejores condiciones
+de vida en áreas urbanas.</p>
+<p>A esto se le sumó el periodo de <negrita>la violencia de los años
+cincuenta</negrita>. Los enfrentamientos entre liberales y conservadores
+ocasionaron la creación de <negrita>guerrillas rurales</negrita>.
+La población que habitaba el campo fue desplazándose hacia cabeceras
+municipales y grandes ciudades.</p>
+<imagen src="CS_09_11_CO_IMG21_small.jpg">
+<p>El éxodo rural fue el desplazamiento a gran escala de población
+campesina del país.</p>
+</imagen>
+<p>Una de las consecuencias de este desplazamiento masivo fue el <negrita
+>aumento de la pobreza</negrita> y el desarrollo de <negrita>actividades
+económicas ilegales</negrita>. Debido a que mucha población rural
+no accedió a empleos formales, se dedicó a ejercer actividades informales.</p>
+<p>Entre <negrita>1964 y 1973</negrita> los <negrita>departamentos
+expulsores</negrita> de población fueron: Boyacá, Caldas, Cundinamarca,
+Tolima, Huila, Risaralda, Quindío, Magdalena, Chocó, Cauca, Nariño
+y Santander.</p>
+<p>A partir de la década del <negrita>setenta</negrita>, la migración
+campesina se agudizó. La violencia se centró en el Caquetá y en el
+Magdalena Medio, donde hubo conflictos entre el Ejército y la guerrilla.</p>
+<p>Además inició el asentamiento de población en zonas de <negrita
+>cultivo de coca</negrita>, empleada para el narcotráfico.</p>
+<p>Desde esta época <negrita>Bogotá</negrita> se caracteriza como
+la <negrita>ciudad receptora</negrita> de mayor cantidad de población
+migrante.</p>
+<imagen src="CS_09_11_CO_IMG22_small.jpg">
+<p>Bogotá es la ciudad más poblada de Colombia, en ella habitan más
+de 6 millones de personas.</p>
+</imagen>
+<p>Durante este siglo también se presentó <negrita>movimiento de población
+entre los países limítrofes con Colombia</negrita>. Este tipo de migración
+respondió a <negrita>causas económicas</negrita>. Hubo tanto inmigración
+de extranjeros en las fronteras como emigración de colombianos a través
+de ellas.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso150&amp;IdRecurso=RES-3D5C08AA08B2467F8149BF88D7C28722"
+>Las migraciones en Colombia desde el siglo XX</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_09_11_CO_2C2606D8C971477081D5693AC4B72933">
+<seccion3Titulo>La migración y el desplazamiento forzado en Colombia</seccion3Titulo>
+<seccion3Texto>
+<p>En cuanto a la <negrita>migración interna</negrita>, en el último
+censo de población (2005) aproximadamente <negrita>14 millones</negrita
+> de personas habían migrado. El <negrita>42,8 %</negrita> de estas
+dentro del mismo departamento de origen (<negrita>migración intradepartamental</negrita
+>).</p>
+<p>En Guaviare, Cundinamarca, Meta y Risaralda se ubica la mayor cantidad
+de población no nativa, debido a las dinámicas económicas de los sectores
+agrícola o petrolero. En su mayoría la migración es estacionaria,
+los individuos permanecen por periodos laborales.</p>
+<p>Entre las <negrita>causas de desplazamiento, más del 40 %</negrita
+> de la población manifestó <negrita>“lo familiar”</negrita>. Esta
+situación se presenta porque el jefe de hogar se desplaza en busca
+de una mejor calidad de vida para su grupo familiar.</p>
+<p>Sin embargo, en diferentes lugares del país la situación de orden
+público representa un riesgo para los habitantes, y aunque el <negrita
+>desplazamiento</negrita> sea <negrita>forzado</negrita>, la población
+no manifiesta dicho motivo.</p>
+<imagen src="CS_09_11_CO_IMG23_small.jpg">
+<p>El desplazamiento forzado en Colombia ha estado presente desde
+el siglo XX y es una de las mayores problemáticas sociales de la población
+colombiana.</p>
+</imagen>
+<p>Los principales <negrita>departamentos expulsores</negrita> de
+esta población eran: Guaviare, Putumayo, Caquetá, Arauca, Vaupés,
+Vichada, Chocó y Guainía. Los <negrita>departamentos receptores</negrita
+>: Quindío, Risaralda, Huila, Meta, Cundinamarca, Atlántico y Valle
+del Cauca.</p>
+<p>Para los colombianos la <negrita>migración internacional</negrita
+> ha sido constante. En el periodo 2000-2005 emigraron aproximadamente
+800 000 personas. Los principales países de destino son: Estados Unidos,
+España, Venezuela y Ecuador.</p>
+<p>Para el censo del año <negrita>2005</negrita>, en Colombia se registraron <negrita
+>109 971</negrita> personas provenientes de diferentes países, como
+residentes temporales o permanentes. En su mayoría de Venezuela, Estados
+Unidos y Ecuador.</p>
+<p>En el año 2014, Migración Colombia, órgano que ejerce control sobre
+el flujo migratorio, publicó un boletín estadístico con información
+sobre el movimiento de extranjeros. Al país ingresaron 2 051 918 extranjeros
+de diferentes partes del mundo. Tan solo 43 221 de ellos ingresaron
+como residentes.</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_09_11_CO_4D8CB9ED22574B7A8B89EA5D07D7A1E0">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso160&amp;IdRecurso=RES-4F3B02FEAB634164B35AB866D3016635"
+>Refuerza tu aprendizaje: El fenómeno migratorio</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_09_11_CO_34F82A1321CD44028A8213BA4DC237AD">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso170&amp;IdRecurso=RES-4FAB89E7FA9741A082BF9B9AA7135474"
+>Competencias: comparar las estructuras de población de los grupos
+étnicos de Colombia</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso180&amp;IdRecurso=RES-5D04F0E05C72484B864A7F33960BD1B5"
+>Proyecto: investigación sobre los conflictos generados por el desplazamiento
+forzado en Colombia</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_09_11_CO_C484B4D8A2744075B60768E45F00E0D6"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso200&amp;IdRecurso=RES-1172D41601624B8EBCDC3E30507B2AF6"
+>Mapa conceptual del tema La población en Colombia</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso210&amp;IdRecurso=RES-6863BB24170441EDBE48DFFA15F10DAB"
+>Evalúa tus conocimientos sobre el tema La población en Colombia</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://www.dane.gov.co/censo/files/libroCenso2005nacional.pdf"
+>Página del Departamento Administrativo Nacional de Estadística. Censo
+de 2005.</enlace>
+<enlace destino="https://www.dane.gov.co/reloj/reloj_animado.php"
+>Contador de población del Dane.</enlace>
+<enlace destino="http://www.banrep.gov.co/es/poblacion">Sitio del
+Banco de la República sobre la población colombiana.</enlace>
+</enlacesreferencia></masinformacion></libro>
