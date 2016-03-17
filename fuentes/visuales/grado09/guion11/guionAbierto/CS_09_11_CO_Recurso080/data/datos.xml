@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="5" clase="c" aprid="m5c">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Características de la composición étnica de la población colombiana</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5C]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Escucha el audio acerca de las características de la población étnica colombiana y responde las preguntas escogiendo la respuesta correcta.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="9">
+    <cuestion>
+      <enunciado><![CDATA[¿Desde qué momento se comienza a alterar la estructura poblacional de América?]]></enunciado>
+      <explicacion><![CDATA[Cristobal Colón llega a América en nombre de los reyes de España. El texto menciona que con el arribo de Colón se altera el poblamiento del nuevo mundo. ]]></explicacion>
+      <sonido><![CDATA[audio_m.mp3]]></sonido>
+      <respuestas>
+        <respuesta contestacion="Desde la llegada de los españoles." correcta="1"/>
+        <respuesta contestacion="Desde la independencia de las colonias españolas." correcta="0"/>
+        <respuesta contestacion="Desde la colonización inglesa de norteamerica." correcta="0"/>
+        <respuesta contestacion="Desde la introducción masiva de población africana." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Para los indígenas americanos ¿Cuál fue el resultado de los tres siglos de colonización europea?]]></enunciado>
+      <explicacion><![CDATA[El texto menciona que durante el dominio colonial "la población nativa descendió dramáticamente y su cultura se vio amenazada por la imposición cultural de occidente"]]></explicacion>
+      <sonido><![CDATA[audio_m.mp3]]></sonido>
+      <respuestas>
+        <respuesta contestacion="Descenso de población e imposición cultural europea." correcta="1"/>
+        <respuesta contestacion="Respeto a las tradiciones y diálogo cultural." correcta="0"/>
+        <respuesta contestacion="Intercambio de saberes y adquisición de la lengua." correcta="0"/>
+        <respuesta contestacion="Introducción de la agricultura y la tecnología." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es el presidente que declara la libertad de los esclavizados en Colombia?]]></enunciado>
+      <explicacion><![CDATA[Durante el gobierno de López, el Congreso dictó la ley el 21 de mayo de 1851 por medio de la cual los esclavos quedarían libres a partir del 1 de enero de 1852.]]></explicacion>
+      <sonido><![CDATA[audio_m.mp3]]></sonido>
+      <respuestas>
+        <respuesta contestacion="Simón Bolívar." correcta="0"/>
+        <respuesta contestacion="Tomás Cipriano de Mosquera." correcta="0"/>
+        <respuesta contestacion="José Hilario López." correcta="1"/>
+        <respuesta contestacion="Rafael Núñez." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿De qué año es la ley que regía a los indígenas y determinaba “la manera como deben ser gobernados los salvajes que vayan reduciéndose a la vida civilizada”?]]></enunciado>
+      <explicacion><![CDATA[La Ley era la número 89 de 1890. Fue declarada inexequible en 1996 por la Corte Constitucional.]]></explicacion>
+      <sonido><![CDATA[audio_m.mp3]]></sonido>
+      <respuestas>
+        <respuesta contestacion="1890" correcta="1"/>
+        <respuesta contestacion="1933" correcta="0"/>
+        <respuesta contestacion="1886" correcta="0"/>
+        <respuesta contestacion="1990" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Dónde se vieron materializadas las luchas de indígenas y afrocolombianos por sus derechos?]]></enunciado>
+      <explicacion><![CDATA[La Constitución de 1991 reconoce a los grupos étnicos derechos colectivos y establece mecanismos para su protección. ]]></explicacion>
+      <sonido><![CDATA[audio_m.mp3]]></sonido>
+      <respuestas>
+        <respuesta contestacion="En la Constitución de 1991." correcta="1"/>
+        <respuesta contestacion="En la reforma constitucional de 1936." correcta="0"/>
+        <respuesta contestacion="En la Constitución de 1886." correcta="0"/>
+        <respuesta contestacion="En la reforma constitucional de 1957." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles son los grupos étnicos conocidos de Colombia, además de los indígenas y los afrocolombianos?]]></enunciado>
+      <explicacion><![CDATA[En Colombia existen cuatro grupos etnicos: indígenas, afrocolombianos o negros, Rom o gitanos y raizales del archipiélago de San Andrés. ]]></explicacion>
+      <sonido><![CDATA[audio_m.mp3]]></sonido>
+      <respuestas>
+        <respuesta contestacion="Raizal y Rom." correcta="1"/>
+        <respuesta contestacion="Huitoto y Caribe." correcta="0"/>
+        <respuesta contestacion="Muisca y Rom." correcta="0"/>
+        <respuesta contestacion="Negro y Raizal." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles problemas afrontan actualmente los grupos étnicos en Colombia?]]></enunciado>
+      <explicacion><![CDATA[Algunos grupos étnicos colombianos afrontan problemas relacionados con la tenencia de la tierra y la pobreza. ]]></explicacion>
+      <sonido><![CDATA[audio_m.mp3]]></sonido>
+      <respuestas>
+        <respuesta contestacion="Desnutrición, despojo de tierras y analfabetismo." correcta="1"/>
+        <respuesta contestacion="Desempleo, hacinamiento y analfabetismo." correcta="0"/>
+        <respuesta contestacion="Desplazamiento forzado, desempleo y pobreza." correcta="0"/>
+        <respuesta contestacion="Pobreza, desnutrición y analfabetismo." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Por qué es importante que Colombia reconozca a los grupos étnicos que habitan en su territorio?]]></enunciado>
+      <explicacion><![CDATA[La existencia de estos pueblos es benéfica para la nación, porque cada cultura es una experiencia histórica de vida colectiva diferente. ]]></explicacion>
+      <sonido><![CDATA[audio_m.mp3]]></sonido>
+      <respuestas>
+        <respuesta contestacion="Porque implican diversas formas de entender la vida." correcta="1"/>
+        <respuesta contestacion="Porque todos los colombianos somos exactamente iguales." correcta="0"/>
+        <respuesta contestacion="Porque el país puede ser sancionado internacionalmente." correcta="0"/>
+        <respuesta contestacion="Para promover el turismo internacional hacia el país." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuando llegaron los primeros ROM (Gitanos) a América?]]></enunciado>
+      <explicacion><![CDATA[En los primeros viajes a América, se reclutaron como tripulantes a gente de las minorías indeseables para la corona: Gitanos, judios y arabes.]]></explicacion>
+      <sonido><![CDATA[audio_m.mp3]]></sonido>
+      <respuestas>
+        <respuesta contestacion="En el primer viaje de Colón." correcta="0"/>
+        <respuesta contestacion="En el segundo viaje de Colón." correcta="0"/>
+        <respuesta contestacion="En el tercer viaje de Colón." correcta="1"/>
+        <respuesta contestacion="En el cuarto viaje de Colón." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>20</temps>
+</motor>
