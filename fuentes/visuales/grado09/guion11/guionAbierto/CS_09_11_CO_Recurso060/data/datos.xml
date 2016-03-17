@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="5" clase="a" aprid="m5a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Pirámide poblacional de Colombia</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Observa la imagen con atención y responde a las preguntas:]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="4">
+    <cuestion>
+      <enunciado><![CDATA[¿En qué rango de edad se encuentra la mayor cantidad de habitantes?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[piramide.png]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="30-34 años " correcta="0"/>
+        <respuesta contestacion="20-24 años" correcta="1"/>
+        <respuesta contestacion="40-44 años" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué segmento de la población se encuentra el menor número de habitantes?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[piramide.png]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="Adultos jóvenes." correcta="0"/>
+        <respuesta contestacion="Niños." correcta="0"/>
+        <respuesta contestacion="Adultos mayores." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es la característica del porcentaje más alto de la población colombiana?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[piramide.png]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="Son jóvenes." correcta="1"/>
+        <respuesta contestacion="Son ancianos." correcta="0"/>
+        <respuesta contestacion="Son niños." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En relación con la natalidad, ¿Qué muestra la base de la pirámide?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[piramide.png]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="Los nacimientos han aumentado." correcta="0"/>
+        <respuesta contestacion="Los nacimientos se mantienen constantes." correcta="0"/>
+        <respuesta contestacion="Los nacimientos han disminuido." correcta="1"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

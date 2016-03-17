@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="1" clase="c" aprid="m1c">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo/>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M1C]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa frases con sentido relacionando los contenidos de la columna izquierda con los de la derecha.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="5">
+    <cuestion>
+      <pregunta><![CDATA[El crecimiento de la población urbana.]]></pregunta>
+      <respuesta><![CDATA[Ha sido el resultado de procesos de urbanización, industrialización y desplazamientos.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[El descenso en la tasa de natalidad.]]></pregunta>
+      <respuesta><![CDATA[Se relaciona con programas educativos de planificación familiar y prevención.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[En los estudios poblacionales la pirámide poblacional.]]></pregunta>
+      <respuesta><![CDATA[Se utiliza para realizar una representación de la conformación de la población por sexo y edad. ]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[En Colombia existen diferentes grupos étnicos.]]></pregunta>
+      <respuesta><![CDATA[Se caracterizan por tener tradiciones, lengua y creencias propias.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Es una característica de la población colombiana.]]></pregunta>
+      <respuesta><![CDATA[Mestiza y diversa como resultado de los procesos históricos del país.]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0"/>
+</motor>
