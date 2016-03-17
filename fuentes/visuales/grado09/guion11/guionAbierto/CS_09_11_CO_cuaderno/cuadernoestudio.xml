@@ -16,7 +16,7 @@ criterios acerca de los individuos: sexo, edad, estado civil, pertenencia
 para comprender las <negrita>dinámicas demográficas</negrita> y establecer
 conclusiones sobre los <negrita>comportamientos de una población</negrita
 >, en un periodo determinado.</p>
-<imagen src="CS_09_11_CO_IMG01_small.jpg">
+<imagen ampliable="no" src="CS_09_11_CO_IMG01_small.jpg">
 <p>El Departamento Administrativo Nacional de Estadística es la entidad
 encargada de realizar los censos nacionales de población desde mediados
 del siglo XX.</p>
@@ -539,8 +539,7 @@ hasta <negrita>1843</negrita> que <negrita>la población esclava disminuyó</neg
 >.</p>
 <imagen src="CS_09_11_CO_IMG11_small.jpg">
 <p>Desde la época colonial en el continente americano se estableció
-un sistema de castas entre la población debido al mestizaje.</p><?Pub
-Caret -2?>
+un sistema de castas entre la población debido al mestizaje.</p>
 </imagen>
 <p>De acuerdo con la primera <negrita>Ley de Manumisión</negrita> (1821),
 en la que se dio libertad a los hijos de esclavas, el censo de 1843
@@ -557,7 +556,7 @@ Le seguían Riohacha con 55 000 y Casanare con 16 000<enlace
 destino="http://www.banrepcultural.org/node/123392"> [VER]</enlace
 >.</listaElemento>
 </listaSinNumerar>
-<imagen src="CS_09_11_CO_IMG12_small.jpg">
+<imagen ampliable="no" src="CS_09_11_CO_IMG12_small.jpg">
 <p>La primera Ley de Manumisión se decretó en 1821, y en 1851 se abolió
 la esclavitud.</p>
 </imagen>
@@ -763,13 +762,8 @@ de la cordillera Central a finales del siglo XIX.</p>
 el <negrita>oeste del país</negrita>, lo cual ocasionó el desarrollo
 del área del <negrita>Pacífico</negrita>, conectando Cali con Buenaventura.
 También poco a poco <negrita>los llanos orientales y el norte de la
-selva amazónica</negrita>.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso120&amp;IdRecurso=RES-BBA4C651135841FAAD3384AC9D28E8F8"
->Conoce aspectos de la transformación de la población en Colombia
-desde el siglo XIX</enlace>
-</practica></seccion2Texto></seccion2><seccion2
+selva amazónica</negrita>.</p><?Pub Caret -3?>
+</seccion2Texto></seccion2><seccion2
 id="S2_CS_09_11_CO_4CBD7268FA38441FAD36E53D59957271">
 <seccion2Titulo>El crecimiento urbano en el siglo XX</seccion2Titulo>
 <seccion2Texto>
@@ -1005,11 +999,11 @@ por ejemplo:</p>
 </tr>
 <tr>
 <td><negrita>Densidad poblacional</negrita></td>
-<td align="center">2,3 hab./km2</td>
-<td align="center">109,8 hab./km2</td>
-<td align="center">72,9 hab./km2</td>
-<td align="center">5,9 hab./km2</td>
-<td align="center">14,6 hab./km2</td>
+<td align="center">2,3 hab./km<superindice>2</superindice></td>
+<td align="center">109,8 hab./km<superindice>2</superindice></td>
+<td align="center">72,9 hab./km<superindice>2</superindice></td>
+<td align="center">5,9 hab./km<superindice>2</superindice></td>
+<td align="center">14,6 hab./km<superindice>2</superindice></td>
 </tr>
 </tbody>
 </table>
@@ -1040,11 +1034,6 @@ habitual de los individuos.</p>
 >emigración</negrita> y la <negrita>inmigración</negrita>. La <negrita
 >emigración</negrita> se refiere a la salida de población y la inmigración
 es el ingreso de población hacia un territorio determinado.</p>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_09_11_CO_Recurso130&amp;IdRecurso=RES-76F973791FF84750A29433AF98576C00"
->Las migraciones de colombianos y su impacto</enlace>
-</profundiza>
 <p>Colombia ha vivido diferentes migraciones por distintas causas:</p>
 <table border="1"><colgroup><col width="30*"/><col width="69*"/>
 </colgroup>
@@ -1116,7 +1105,7 @@ como Líbano, Siria, Palestina y Jordania.</p>
 La población árabe se situó principalmente en <negrita>los territorios
 de la costa Atlántica</negrita>, en ciudades como Barranquilla, Santa
 Marta, Cartagena, Montería, Sincelejo y Maicao.</p>
-<imagen src="CS_09_11_CO_IMG20_small.jpg">
+<imagen ampliable="no" src="CS_09_11_CO_IMG20_small.jpg">
 <p>La influencia de la inmigración árabe a Colombia abarcó también
 la religión.</p>
 </imagen>

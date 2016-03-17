@@ -1,29 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f8">
-<main title="La utilidad de los censos" bkColor="#FFFFFF" titleColor="#000000" theme="black" buttonsWidth="220" buttonsHeight="42" trans="fade">
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f8">
+<main title="La utilidad de los censos" bkColor="#FFFFFF" titleColor="#000000" theme="black" buttonsWidth="220" buttonsHeight="52" trans="fade">
 <default>
-<img path="stock-photo-large-group-of-people-gathered-together-in-the-shape-of-growing-graph-arrow-237596851.jpg" x="300" y="100" width="" height=""/>
+<img path="CS_09_11_CO_REC010_IMG01.jpg" x="300" y="100" width="" height=""/>
 </default><buttons>
 <button title="Indicadores demográficos">
-<img path="poblaci%C3%B3n%20por%20sexo.png" x="" y="" width="" height="" anim=""/>
-<audio path="rec audio1.mp3"/></button>
+<img path="CS_09_11_CO_REC010_IMG02.png" x="" y="" width="" height="" anim=""/>
+<audio path="rec_audio1.mp3"/></button>
 <button title="Condiciones de vida">
-<img path="COLOMBIA_-_Departamentos_por_PIB_Per_Capita_2011_US$.png" x="" y="" width="" height="" anim=""/>
-<audio path="rec audio 2.mp3"/></button>
+<img path="CS_09_11_CO_REC010_IMG03.png" x="" y="" width="" height="" anim=""/>
+<audio path="rec_audio2.mp3"/></button>
 <button title="Actividad económica">
-<img path="C%C3%BAcuta,_Colombia_-_Poblaci%C3%B3n_ocupada.png" x="" y="" width="" height="" anim=""/>
-<audio path="rec audio 3.mp3"/></button>
+<img path="CS_09_11_CO_REC010_IMG04.png" x="" y="" width="" height="" anim=""/>
+<audio path="rec_audio3.mp3"/></button>
 <button title="Densidad de población">
-<img path="Poblacion_bogota.JPG" x="" y="" width="" height="" anim=""/>
-<audio path="rec audio 4.mp3"/></button>
+<img path="CS_09_11_CO_REC010_IMG05.JPG" x="" y="" width="" height="" anim=""/>
+<audio path="rec_audio4.mp3"/></button>
 <button title="Etnias y grupos humanos">
-<img path="Poblacion%20indigena.png" x="" y="" width="" height="" anim=""/>
-<audio path="rec audio 5.mp3"/></button>
+<img path="CS_09_11_CO_REC010_IMG06.png" x="" y="" width="" height="" anim=""/>
+<audio path="rec_audio5.mp3"/></button>
 </buttons>
 </main>
-<practica actividad="" boton="Practica" boton2="">
-<pantalla1><![CDATA[<p>&nbsp;</p>
-
-<p>Investiga en qu&eacute; fechas se han realizado los &uacute;ltimos dos&nbsp;censos en Colombia. b&uacute;scalos y extrae de ellos sus datos m&aacute;s significativos. Construye un cuadro comparativo en el que especifiques seg&uacute;n cada censo:</p>
+<practica actividad="ejercicio_0_m1c.zip" boton="Practica" boton2="">
+<pantalla1><![CDATA[<p>Investiga en qu&eacute; fechas se han realizado los &uacute;ltimos dos&nbsp;censos en Colombia. b&uacute;scalos y extrae de ellos sus datos m&aacute;s significativos. Construye un cuadro comparativo en el que especifiques seg&uacute;n cada censo:</p>
 
 <ul>
 	<li>Densidad de poblaci&oacute;n.</li>
@@ -34,8 +32,6 @@
 <p>Para encontrar la informaci&oacute;n puedes consultar el siguientes sitio web:</p>
 
 <p>http://www.dane.gov.co/index.php/cultura-estadistica</p>
-
-<p>&nbsp;</p>
 
 <p>Una vez hayas construido el cuadro comparativo, elabora una hip&oacute;tesis sobre las causas que originaron las diferencias&nbsp;que encontraste.</p>
 
