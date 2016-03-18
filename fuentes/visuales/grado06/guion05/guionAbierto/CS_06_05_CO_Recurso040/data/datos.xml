@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f6"><main layout="3">
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f6"><main layout="3">
 <title>Periodos históricos de los pueblos de América precolombina</title>
 <footer>Selecciona una imagen</footer>
 </main>
 <sections>
 <section i="0" star="false" hasSubsections="false">
-<menuImage path="Clovis_Point.jpg" border="0">
-<title><![CDATA[Paleoindio: 25000  a.n.e. a 10000 a.n.e.]]></title>
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[Paleoindio: 25000  a.n.e.</br>a 10000 a.n.e.]]></title>
 </menuImage>
 <pages>
 <page i="0" visible="true" color="">
@@ -13,20 +13,20 @@
 <description><![CDATA[<ul>
 	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Periodo del poblamiento de Am&eacute;rica. <strong>N&oacute;madas</strong> <strong>cazadores</strong> y <strong>recolectores</strong>. Organizados en <strong>bandas</strong> y <strong>clanes</strong>.</span></span></li>
 	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Cazadores de la Megafauna.</span></span></li>
-	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Elaboraron utensilios de piedra como puntas de lanza de la cultura Clovis (12000 &ndash; 9000 a.n.e.) [<a href="https://www.youtube.com/watch?v=4NtdjBzGoTU">VER</a>].</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Elaboraron utensilios de piedra como puntas de lanza de la cultura Clovis (12000&ndash;9000 a.n.e.) [<a href="https://www.youtube.com/watch?v=4NtdjBzGoTU" target="_blank">VER</a>].</span></span></li>
 	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Entre el 6000 y el 12000 se extinguieron m&aacute;s de 100 especies de mam&iacute;feros.</span></span></li>
 </ul>
 <span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Grupos humanos los de Clovis, Folsom (E.E.U.U.), Santa Elena (Ecuador) y Abra (Colombia).</span></span>]]></description>
 <images>
-<image path="Clovis_Point.jpg" border = "0" pathbig="Clovis_Point.jpg">
-<title><![CDATA[Punta Clovis hallazgos encontrados en 1933 oeste de los Estados Unidos]]></title>
+<image path="CS_06_05_REC40_IMG01n.jpg" border = "0" pathbig="CS_06_05_REC40_IMG01a.jpg">
+<title><![CDATA[Punta Clovis hallazgos encontrados en 1933 oeste de los Estados Unidos.]]></title>
 </image>
 </images>
 </page>
 </pages>
 </section><section i="0" star="false" hasSubsections="false">
-<menuImage path="El%20Altar%20del%20Fuego%20Sagrado%20-%20Caral.jpg" border="0">
-<title><![CDATA[Arcaico: 10000 a.n.e. a 3000 a.n.e.]]></title>
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[Arcaico: 10000 a.n.e.</br>a 3000 a.n.e.]]></title>
 </menuImage>
 <pages>
 <page i="0" visible="true" color="">
@@ -38,17 +38,17 @@
 	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Incremento en la producci&oacute;n de <strong>utensilios</strong> e <strong>instrumentos</strong> de <strong>piedra</strong>, <strong>madera</strong> y <strong>hueso</strong>. Inicios de la agricultura y la alfarer&iacute;a.</span></span></li>
 	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Hacia 3000 a.n.e. existi&oacute; una gran variedad de lenguas y sociedades.</span></span></li>
 </ul>
-<span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Culturas caracter&iacute;sticas fueron: Caral [<a href="https://www.youtube.com/watch?v=ONnVlK2gKH8">VER</a>], Ancash y Chinchorro, &nbsp;ubicadas en el actual Per&uacute;. En Colombia los hallazgos en Puerto Hormiga- Departamento de Bol&iacute;var.&nbsp;</span></span>]]></description>
+<span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Culturas caracter&iacute;sticas fueron: Caral [<a href="https://www.youtube.com/watch?v=ONnVlK2gKH8" target="_blank">VER</a>], Ancash y Chinchorro, ubicadas en el actual Per&uacute;. En Colombia los hallazgos en Puerto Hormiga- Departamento de Bol&iacute;var.&nbsp;</span></span>]]></description>
 <images>
-<image path="El%20Altar%20del%20Fuego%20Sagrado%20-%20Caral.jpg" border = "0" pathbig="El%20Altar%20del%20Fuego%20Sagrado%20-%20Caral.jpg">
-<title><![CDATA[Caral, Perú. La ciudad más antigua de América]]></title>
+<image path="CS_06_05_REC40_IMG02n.jpg" border = "0" pathbig="CS_06_05_REC40_IMG02a.jpg">
+<title><![CDATA[Caral, Perú. La ciudad más antigua de América.]]></title>
 </image>
 </images>
 </page>
 </pages>
 </section><section i="0" star="false" hasSubsections="false">
-<menuImage path="Escultura%20Olmecas,%20antiguo%20pueblo%20que%20habit%C3%B3%20el%20sur%20del%20golfo%20de%20M%C3%A9xico.jpg" border="0">
-<title><![CDATA[Formativo: 3000 a.n.e. a 500 d. C]]></title>
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[Formativo: 3000 a.n.e.</br>a 500 d. C]]></title>
 </menuImage>
 <pages>
 <page i="0" visible="true" color="">
@@ -60,18 +60,18 @@
 	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Se organizaron en <strong>sociedades jerarquizadas</strong> y teocr&aacute;ticas (gobernador como representante de los dioses).</span></span></li>
 </ul>
 
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Culturas representativas como los mayas; olmecas [<a href="https://www.youtube.com/watch?v=1dFCkL-AC-E">VER</a>] y chav&iacute;n del actual M&eacute;xico. Los Taironas en la Sierra Nevada de Santa Marta.</span></span></p>
+<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Culturas representativas como los mayas; olmecas [<a href="https://www.youtube.com/watch?v=1dFCkL-AC-E" target="_blank">VER</a>] y chav&iacute;n del actual M&eacute;xico. Los Taironas en la Sierra Nevada de Santa Marta.</span></span></p>
 ]]></description>
 <images>
-<image path="Escultura%20Olmecas,%20antiguo%20pueblo%20que%20habit%C3%B3%20el%20sur%20del%20golfo%20de%20M%C3%A9xico.jpg" border = "0" pathbig="Escultura%20Olmecas,%20antiguo%20pueblo%20que%20habit%C3%B3%20el%20sur%20del%20golfo%20de%20M%C3%A9xico.jpg">
-<title><![CDATA[  Figura de piedra de la cultura olmeca (Museo de Antropología de Jalapa, México)]]></title>
+<image path="CS_06_05_REC40_IMG03n.jpg" border = "0" pathbig="CS_06_05_REC40_IMG03a.jpg">
+<title><![CDATA[  Figura de piedra de la cultura olmeca</br>(Museo de Antropología de Jalapa, México).]]></title>
 </image>
 </images>
 </page>
 </pages>
 </section><section i="0" star="false" hasSubsections="false">
-<menuImage path="Pir%C3%A1mide%20del%20Sol.jpg" border="0">
-<title><![CDATA[Clásico: 500 d.n.e a 900 d.n.e]]></title>
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[Clásico: 500 d.n.e</br>a 900 d.n.e]]></title>
 </menuImage>
 <pages>
 <page i="0" visible="true" color="">
@@ -79,34 +79,40 @@
 <description><![CDATA[<ul>
 	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Primeras <strong>civilizaciones</strong> con <strong>centros urbanos </strong>complejos.</span></span></li>
 	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Las <strong>ciudades</strong> fueron planificadas y trazadas: fueron <strong>centros administrativos, religiosos, productivos</strong> y <strong>nodos comerciales</strong>.</span></span></li>
-	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">El comercio se consolid&oacute; y uni&oacute; las culturas mesoamericanas. <strong>Teotihuac&aacute;n [<a href="https://www.youtube.com/watch?v=XgnXAY_u2e8">VER</a>]</strong> fue una de las principales ciudades y centro de intercambio.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">El comercio se consolid&oacute; y uni&oacute; las culturas mesoamericanas. <strong>Teotihuac&aacute;n </strong>[<a href="https://www.youtube.com/watch?v=XgnXAY_u2e8" target="_blank">VER</a>] fue una de las principales ciudades y centro de intercambio.</span></span></li>
 	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">La <strong>religi&oacute;n</strong> tuvo un lugar fundamental en la <strong>estructura social</strong> y <strong>pol&iacute;tica</strong>.</span></span></li>
 	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Los <strong>sacerdotes</strong> ten&iacute;an <strong>conocimiento</strong> de la <strong>astronom&iacute;a</strong>.</span></span></li>
 </ul>
-<span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;"><strong>Culturas</strong> que alcanzaron este nivel de desarrollo: <strong>mayas </strong>territorios actuales de Guatemala, Belice, Honduras<strong>, </strong>Salvador y M&eacute;xico<strong>, Teotihuac&aacute;n &nbsp;</strong>en M&eacute;xico y<strong> Tiahuanaco </strong>actual Per&uacute;..</span></span>]]></description>
+<span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;"><strong>Culturas</strong> que alcanzaron este nivel de desarrollo: <strong>mayas </strong>territorios actuales de Guatemala, Belice, Honduras<strong>, </strong>Salvador y M&eacute;xico<strong>, Teotihuac&aacute;n &nbsp;</strong>en M&eacute;xico y<strong> Tiahuanaco </strong>actual Per&uacute;.</span></span>]]></description>
 <images>
-<image path="La%20calzada%20de%20los%20Muertos%20de%20Teotihuac%C3%A1n%20(estado%20de%20M%C3%A9xico).JPG" border = "0" pathbig="La%20calzada%20de%20los%20Muertos%20de%20Teotihuac%C3%A1n%20(estado%20de%20M%C3%A9xico).JPG">
+<image path="CS_06_05_REC40_IMG04n.jpg" border = "0" pathbig="CS_06_05_REC40_IMG04a.jpg">
 <title><![CDATA[]]></title>
 </image>
 </images>
 </page>
 </pages>
 </section><section i="0" star="false" hasSubsections="false">
-<menuImage path="Templo%20tolteca%20de%20Tlahuizcalpantecuhtli,%20ss.%20IX-XII,%20en%20Tula,%20M%C3%A9xico.jpg" border="0">
-<title><![CDATA[Posclásico: 900 d.n.e  a 1500 d.n.e]]></title>
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[Posclásico: 900 d.n.e</br>a 1500 d.n.e]]></title>
 </menuImage>
 <pages>
 <page i="0" visible="true" color="">
 <title>Características</title>
 <description><![CDATA[<ul>
-	<li style="text-align: justify;"><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size:23px;">Las civilizaciones expandieron su dominio y cultura sobre otros pueblos.</span></span></li>
-	<li style="text-align: justify;"><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size:23px;">La arquitectura adquiri&oacute; gran belleza, majestuosidad y perfecci&oacute;n en ciudades como Tula, Tenochtitl&aacute;n, Mitla, Cempoala, Chich&eacute;n Itz&aacute;, Cuzco, y Machu Picchu, entre otras.</span></span></li>
-	<li style="text-align: justify;"><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size:23px;">Se destacaron las civilizaciones Azteca e Inca.</span></span></li>
+	<li>
+	<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Las civilizaciones expandieron su dominio y cultura sobre otros pueblos.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La arquitectura adquiri&oacute; gran belleza, majestuosidad y perfecci&oacute;n en ciudades como Tula, Tenochtitl&aacute;n, Mitla, Cempoala, Chich&eacute;n Itz&aacute;, Cuzco, y Machu Picchu, entre otras.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Se destacaron las civilizaciones Azteca e Inca.</span></span></p>
+	</li>
 </ul>
 ]]></description>
 <images>
-<image path="Templo%20tolteca%20de%20Tlahuizcalpantecuhtli,%20ss.%20IX-XII,%20en%20Tula,%20M%C3%A9xico.jpg" border = "0" pathbig="Templo%20tolteca%20de%20Tlahuizcalpantecuhtli,%20ss.%20IX-XII,%20en%20Tula,%20M%C3%A9xico.jpg">
-<title><![CDATA[Templo tolteca de Tlahuizcalpantecuhtli, ss. IX-XII, en Tula, México]]></title>
+<image path="CS_06_05_REC40_IMG05n.jpg" border = "0" pathbig="CS_06_05_REC40_IMG05a.jpg">
+<title><![CDATA[Templo tolteca de Tlahuizcalpantecuhtli, ss. IX-XII, en Tula, México.]]></title>
 </image>
 </images>
 </page>
