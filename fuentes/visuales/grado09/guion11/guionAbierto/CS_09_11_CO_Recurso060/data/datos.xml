@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="5" clase="a" aprid="m5a">
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="a" aprid="m5a">
   <plataforma>
     <grado><![CDATA[2]]></grado>
     <titulo>Pirámide poblacional de Colombia</titulo>
@@ -18,8 +18,8 @@
     <cuestion>
       <enunciado><![CDATA[¿En qué rango de edad se encuentra la mayor cantidad de habitantes?]]></enunciado>
       <explicacion/>
-      <imagen><![CDATA[piramide.png]]></imagen>
-      <ampliacion/>
+      <imagen><![CDATA[CS_09_11_CO_REC060_IMG01n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_09_11_CO_REC060_IMG01a.jpg]]></ampliacion>
       <respuestas>
         <respuesta contestacion="30-34 años " correcta="0"/>
         <respuesta contestacion="20-24 años" correcta="1"/>
@@ -29,8 +29,8 @@
     <cuestion>
       <enunciado><![CDATA[¿En qué segmento de la población se encuentra el menor número de habitantes?]]></enunciado>
       <explicacion/>
-      <imagen><![CDATA[piramide.png]]></imagen>
-      <ampliacion/>
+      <imagen><![CDATA[CS_09_11_CO_REC060_IMG01n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_09_11_CO_REC060_IMG01a.jpg]]></ampliacion>
       <respuestas>
         <respuesta contestacion="Adultos jóvenes." correcta="0"/>
         <respuesta contestacion="Niños." correcta="0"/>
@@ -40,8 +40,8 @@
     <cuestion>
       <enunciado><![CDATA[¿Cuál es la característica del porcentaje más alto de la población colombiana?]]></enunciado>
       <explicacion/>
-      <imagen><![CDATA[piramide.png]]></imagen>
-      <ampliacion/>
+      <imagen><![CDATA[CS_09_11_CO_REC060_IMG01n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_09_11_CO_REC060_IMG01a.jpg]]></ampliacion>
       <respuestas>
         <respuesta contestacion="Son jóvenes." correcta="1"/>
         <respuesta contestacion="Son ancianos." correcta="0"/>
@@ -51,8 +51,8 @@
     <cuestion>
       <enunciado><![CDATA[En relación con la natalidad, ¿Qué muestra la base de la pirámide?]]></enunciado>
       <explicacion/>
-      <imagen><![CDATA[piramide.png]]></imagen>
-      <ampliacion/>
+      <imagen><![CDATA[CS_09_11_CO_REC060_IMG01n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_09_11_CO_REC060_IMG01a.jpg]]></ampliacion>
       <respuestas>
         <respuesta contestacion="Los nacimientos han aumentado." correcta="0"/>
         <respuesta contestacion="Los nacimientos se mantienen constantes." correcta="0"/>
