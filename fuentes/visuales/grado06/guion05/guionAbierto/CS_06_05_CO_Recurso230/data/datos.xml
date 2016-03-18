@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="102" clase="ab" aprid="m102ab">
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="102" clase="ab" aprid="m102ab">
   <plataforma>
     <grado><![CDATA[1]]></grado>
     <titulo>Competencias: cuadro comparativo de las culturas indígenas americanas</titulo>
@@ -11,8 +11,7 @@
   <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines, envíala para que pueda ser validada.]]></enunciado>
   <masinfo inicio="0"/>
   <textoupload/>
-  <adjunto/>
-  <url><![CDATA[http://image.slidesharecdn.com/incasmayasyaztecas-lucas4-120721154217-phpapp02/95/incas-mayas-y-aztecas-1-728.jpg?cb=1342903430]]></url>
+  <adjunto><![CDATA[Principal.html]]></adjunto>
+  <url/>
   <amano><![CDATA[0]]></amano>
-  <temps>60</temps>
 </motor>
