@@ -1,410 +1,940 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_06_06_CO">
-  <libroTitulo>Colombia precolombina</libroTitulo>
-  <seccion1 id="S1_CS_06_06_CO_0E06E56FC4CE433E98785F2A8254C44A">
-    <seccion1Titulo>El poblamiento de Colombia</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_06_CO_img_01_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso010&amp;IdRecurso=RES-C254F8AC933248ED9B16F91A9F3B0D62">Recurso F10-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_06_06_CO_6E2887A924E14C1F875A483521389DC7">
-        <seccion2Titulo>Etapas arqueológicas de Colombia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_06_CO_img_02_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_06_CO_69F0EF7AA03F4E6C90D7C711CBF355F9">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_06_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso030&amp;IdRecurso=RES-15222BEA2265454B92C85664DF94B24A">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_06_CO_4D80DDBE6C4145BC84F08E24F0842DE5">
-    <seccion1Titulo>La Familia Chibcha</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_06_CO_img_04_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso040&amp;IdRecurso=RES-CF7FE88D0D4242DD998774307899F943">Recurso F7-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_06_06_CO_B13F53745ED948A1B51A6A1504EE4DD8">
-        <seccion2Titulo>La cultura Tairona</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_06_CO_img_05_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso050&amp;IdRecurso=RES-AFA61CC96BCA4A13AFCD2F01FDA682D7">Recurso M11A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA1105E">
-        <seccion2Titulo>La cultura Muisca</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_06_CO_img_06_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_06_CO_img_07_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso070&amp;IdRecurso=RES-49CE2F6908784B5AA95EE7EA203D633E">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_06_CO_23D42A5699C44FEC8B2925887511C55E">
-    <seccion1Titulo>La Familia Caribe</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_06_CO_img_08_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso080&amp;IdRecurso=RES-D09727BAE5024215B43ACFF3E9C0C016">Recurso F10B-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_06_06_CO_7605194B6BAB4A2890ECA94DCDE8B0B0">
-        <seccion2Titulo>Otras culturas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_06_CO_img_09_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso090&amp;IdRecurso=RES-EC8CE3FC80AF4E1285D3C8AE194DDC8F">Recurso M1C-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_06_CO_img_10_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso100&amp;IdRecurso=RES-69274F818D9744C18DB885A5F80B315D">Recurso M101A-03</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_06_CO_img_12_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso120&amp;IdRecurso=RES-99D588C368D144DDB2F2E6AA0023D3AE">Recurso M101A-04</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_06_CO_0A5DB7FE9D2A4D8390F2FBBCBCE31AC9">
-    <seccion1Titulo>La Familia Arawak</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_06_CO_img_11_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso110&amp;IdRecurso=RES-2E2EFAA014764CBB8D1153665A995CF0">Recurso M5D-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_06_CO_02716141E2A3487A92F90695B2390873">
-    <seccion1Titulo>Las Culturas de San Agustín Tierradentro</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_06_CO_img_13_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso130&amp;IdRecurso=RES-605539D8E0E3400A94B0E147A2917A24">Recurso F4-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_06_06_CO_35EF8141BBB2452A979F53E47E8EE470">
-        <seccion2Titulo>Cultura San Agustín</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_06_CO_img_14_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso140&amp;IdRecurso=RES-7CBBB79D01EF4E02BF3C9B8F1377DCAD">Recurso M1C-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_06_06_CO_8592BA8F495C4BC39B4C8153E4B743E6">
-        <seccion2Titulo>Cultura Tierradentro</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_06_CO_img_15_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_06_06_CO_img_16_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso160&amp;IdRecurso=RES-72DDDC5FD39A4FD886762A5E6CDA195A">Recurso M101A-05</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_06_06_CO_A1329BAA858C47C3ACA262294C33BBEA">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_06_CO_img_17_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso170&amp;IdRecurso=RES-0FAED38F18304D138B2866C806AE2CF5">Recurso M102AB-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_06_06_CO_img_18_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso180&amp;IdRecurso=RES-28E9772C9F994199A5E4019EAE11AB77">Recurso F13-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_06_06_CO_606FCDB67841493DA87A08AEAA850FBE">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso200&amp;IdRecurso=RES-69770184A8BD4796B2DCF4077337008D">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso210&amp;IdRecurso=RES-6951FDDC13DF47D4AC7862B7A725004E">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Colombia precolombina</libroTitulo>
+<seccion1 id="S1_CS_06_06_CO_0E06E56FC4CE433E98785F2A8254C44A">
+<seccion1Titulo>El poblamiento de Colombia</seccion1Titulo>
+<seccion1Texto>
+<p>Los primeros grupos que habitaron el territorio colombiano llegaron
+entre el 14 000 y 12 000 a.C. Eran nómadas, dedicados a la caza, la
+pesca y la recolección. Miles de años después, estos pueblos inventaron
+la agricultura y con ella la vida sedentaria.</p>
+<p>Con el correr del tiempo, varias comunidades indígenas se agruparon
+en cacicazgos con una avanzada organización política y social, y otros
+evolucionaron hacia organizaciones más complejas, como la confederación
+de aldeas.</p>
+<destacado><destacadoTitulo>El término “precolombino”</destacadoTitulo>
+<destacadoTexto>
+<p>La <negrita>época precolombina</negrita> se refiere al periodo
+histórico de América anterior a la llegada de Cristóbal Colón. Hay
+quienes ubican su inicio en el siglo V a.C., cuando los primeros pobladores
+pertenecientes a la <negrita>familia chibcha</negrita>, ingresaron
+a través del <negrita>istmo</negrita> de <negrita>Panamá</negrita
+>.</p>
+</destacadoTexto></destacado>
+<imagen ampliable="no" src="CS_06_06_CO_IMG01_small.jpg">
+<p>No se puede situar con exactitud la presencia de los <negrita>pueblos
+originarios</negrita> en <negrita>América</negrita>. Sin embargo,
+evidencias arqueológicas indican que los primeros pobladores llegaron
+hacia el año 30 000 a.C. a América por causa de los cambios climáticos
+de la última glaciación.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso010&amp;IdRecurso=RES-C254F8AC933248ED9B16F91A9F3B0D62"
+>Primeros pobladores de Colombia</enlace>
+</profundiza><seccion2
+id="S2_CS_06_06_CO_6E2887A924E14C1F875A483521380ED8">
+<seccion2Titulo>Familias lingüísticas</seccion2Titulo>
+<seccion2Texto>
+<p>El actual territorio de Colombia fue poblado por grupos indígenas
+de diversas procedencias geográficas, lo que hizo que coexistieran
+diferentes familias lingüísticas amerindias. Las más extensas fueron
+la <negrita>chibcha</negrita>, la <negrita>caribe</negrita> y la <negrita
+>arawak</negrita>, aunque hubo otras familias lingüísticas, como la <negrita
+>guahibo</negrita>, la <negrita>quechua</negrita> y la <negrita>tupí-guaraní</negrita
+>, entre otras.</p>
+<imagen src="CS_06_06_CO_IMG02_small.jpg">
+<p>Después de la Conquista española, la mayor parte de las lenguas
+pertenecientes a las familias chibcha y caribe dejaron de hablarse
+y fueron sustituidas por el <negrita>castellano</negrita>.</p>
+</imagen>
+<p>Las culturas indígenas más importantes, y que contaron con <negrita
+>poblaciones más densas</negrita>, en su gran mayoría pertenecieron
+a las familias chibcha y caribe, ya que estas contaron con la ventaja
+de asentarse en las tierras fértiles de las <negrita>cordilleras andinas</negrita
+> y de la <negrita>planicie del Caribe</negrita>, lo que les facilitó
+la práctica de la agricultura y el aprovechamiento de una amplia variedad
+de recursos.</p>
+<p>La mayoría de las demás familias lingüísticas, que han sido practicadas
+por un número menor de personas, se extendieron principalmente en
+las regiones de la <negrita>Orinoquia</negrita> y la <negrita>Amazonia</negrita
+>. El aislamiento de estos grupos en los siglos posteriores a la llegada
+de los europeos los favoreció, y por ello siguen siendo practicadas
+hasta el día de hoy, a pesar de que ahora muchas de ellas se encuentran
+en <negrita>grave peligro de desaparecer</negrita>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_06_CO_6E2887A924E14C1F875A483521389DC7">
+<seccion2Titulo>Etapas arqueológicas de Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>arqueología</negrita> ha establecido etapas que permiten
+conocer la evolución cultural de los pueblos indígenas que ocuparon
+el territorio que hoy es Colombia.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso020&amp;IdRecurso=RES-2A4EFA1843694A8DB5C2A3931542CB45"
+>Conoce las etapas arqueológicas de Colombia</enlace>
+</practica>
+<table border="1"><colgroup><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>PERIODO</negrita></td>
+<td align="center"><negrita>CARACTERÍSTICAS</negrita></td>
+<td align="center"><negrita>VESTIGIOS, UTENSILIOS Y ACTIVIDADES</negrita
+></td>
+</tr>
+<tr>
+<td><negrita>PALEOINDIO</negrita><br/>16 000 a 14 000 a.C.</td>
+<td>Hordas de cazadores nómadas.</td>
+<td>Vestigios de herramientas y objetos:<br/>El <cursiva>Abra</cursiva
+>-Zipaquirá<br/>Hacienda Tequendama en Soacha Espinal y Manizales. </td>
+</tr>
+<tr>
+<td><negrita>ARCAICO</negrita><br/>3000 a.C.</td>
+<td>Nómadas estacionales.<br/>Pequeños grupos de cazadores y recolectores. </td>
+<td>Vestigios de conchal en:<br/>Puerto Hormiga<br/>Canal del Dique<br
+/>Vestigios en riberas de los ríos en la Amazonia, Orinoquia y la
+costa Pacífica.</td>
+</tr>
+<tr>
+<td><negrita>FORMATIVO</negrita><br/>1200 a 300 a.C.</td>
+<td>Cazadores y horticultores.<br/>Domesticación de la yuca y el maíz.</td>
+<td>Vestigios en:<br/>Malambo y Momil.</td>
+</tr>
+<tr>
+<td><negrita>FORMATIVO MEDIO</negrita><br/>300 a.C. al siglo XVI</td>
+<td>Grupos sedentarios con organización social más compleja. Se forman
+los primeros cacicazgos, que agrupan clanes.<br/>Cultivos de maíz,
+yuca, fríjol y algodón, desarrollo de la orfebrería, cestería, cerámica,
+tejidos y comercio.</td>
+<td>Culturas:<br/>Tairona<br/>Muisca<br/>Zenú<br/>Pijao<br/>Calima<br
+/>Páez<br/>Pasto y Quillacinga<br/>Tumaco<br/>San Agustín</td>
+</tr>
+<tr>
+<td><negrita>FORMATIVO</negrita> </td>
+<td>Formación de confederaciones de aldeas. Se desarrolla una estratificación
+social compleja y una mayor división del trabajo.<br/>Técnicas avanzadas
+de cultivo con la construcción de terrazas y sistemas de riego.</td>
+<td>Riberas de los ríos San Jorge y Sinú<br/>Altiplano cundiboyacense<br
+/>Sierra Nevada de Santa Marta.</td>
+</tr>
+</tbody>
+</table>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_06_CO_69F0EF7AA03F4E6C90D7C711CBF355F9">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso030&amp;IdRecurso=RES-15222BEA2265454B92C85664DF94B24A"
+>Refuerza tu aprendizaje: El poblamiento de Colombia</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_06_CO_4D80DDBE6C4145BC84F08E24F0842DE5">
+<seccion1Titulo>La familia chibcha</seccion1Titulo>
+<seccion1Texto>
+<p>La <negrita>familia chibcha</negrita> estuvo conformada por numerosas
+comunidades, entre las que se destacan los <negrita>tairona</negrita
+> y los <negrita>muiscas</negrita>.</p>
+<p>Estos grupos se extendieron principalmente en las estribaciones
+de la <negrita>cordillera Oriental</negrita> y la Sierra Nevada de
+Santa Marta, donde pudieron crear grandes aldeas y complejos ceremoniales.
+Allí también surgieron poderosos cacicazgos que dominaron extensas
+áreas.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso040&amp;IdRecurso=RES-CF7FE88D0D4242DD998774307899F943"
+>Los pueblos tairona y muisca</enlace>
+</profundiza><seccion2
+id="S2_CS_06_06_CO_B13F53745ED948A1B51A6A1504EE4DD8">
+<seccion2Titulo>La cultura tairona</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>cultura tairona</negrita>, hasta la llegada de los
+españoles a nuestro territorio, fue la cultura más avanzada que habitaba
+en la <negrita>región Caribe</negrita>. Sus principales logros se
+relacionaron con las <negrita>técnicas agrícolas</negrita>, la <negrita
+>manufactura textil</negrita>, la <negrita>alfarería</negrita>, la <negrita
+>orfebrería</negrita> y la <negrita>arquitectura</negrita>; en este
+último campo, se destacaron por la construcción de <negrita>caminos</negrita
+>, <negrita>puentes</negrita> y <negrita>terraplenes</negrita>, sobre
+los que edificaron grandes cabañas que les sirvieron como residencias
+y centros de culto.</p>
+<seccion3 id="S3_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA1214D">
+<seccion3Titulo>Ubicación espacio- temporal</seccion3Titulo>
+<seccion3Texto>
+<p>Los <negrita>taironas</negrita> habitaron las estribaciones de
+la <negrita>Sierra Nevada de Santa Marta</negrita>, entre los siglos
+XI y XII. A la llegada de los españoles a la costa Caribe de Colombia,
+las constantes persecuciones hicieron que los indígenas buscaran refugio
+en las partes más elevadas de la Sierra.</p>
+<imagen src="CS_06_06_CO_IMG03_small.jpg">
+<p>Entre 1599 y 1600, los españoles pusieron fin a la resistencia
+tairona y se produjo el aniquilamiento de su cultura. El antiguo espacio <negrita
+>tairona</negrita> es ocupado hoy en día por las etnias <negrita>kogui</negrita
+> y <negrita>arahuaco</negrita>.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA1326A">
+<seccion3Titulo>La sociedad</seccion3Titulo>
+<seccion3Texto>
+<p>El medio geográfico, selvático y montañoso, en donde se ubicaron
+los <negrita>taironas</negrita>, contribuyó a dispersar la población,
+lo cual llevó a su concentración en poblados pequeños divididos en
+barrios, que eran un grupo de casas o aldeas dependientes de otra
+población. Cada barrio tenía como máxima autoridad al <negrita>cacique</negrita
+>, y el conjunto de varios barrios tenía un <negrita>cacique principal</negrita
+>.</p>
+<p>En la base de la estructura social se encontraban los <negrita
+>especialistas de oficio</negrita>, como agricultores, artesanos y
+mercaderes. El esplendor de la <negrita>cultura tairona</negrita> tuvo
+que ver precisamente con la <negrita>especialización</negrita> de
+los gremios de <negrita>artesanos</negrita>, reflejada en la variedad
+de la cerámica doméstica y ritual, la orfebrería y la talla en piedra
+y hueso.</p>
+<p>Otro grupo era el de los <negrita>"manicatos"</negrita> o <negrita
+>guerreros</negrita>. Se destacaban por su fiereza y ocupaban una
+posición social elevada. Tenían un distintivo en su cabello. Usaban
+flechas generalmente envenenadas.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA1437B">
+<seccion3Titulo>El gobierno</seccion3Titulo>
+<seccion3Texto>
+<p>La <negrita>organización política</negrita> de los <negrita>taironas</negrita
+> se basaba en el <negrita>cacicazgo</negrita>, entendido como una
+gran federación de aldeas gobernadas por caciques que cumplían <negrita
+>funciones políticas</negrita>, <negrita>administrativas</negrita
+> y <negrita>religiosas</negrita>.</p>
+<p>Los cacicazgos se unieron y conformaron extensas federaciones de
+aldeas en las <negrita>provincias</negrita> de <negrita>Tayronaca</negrita
+> y <negrita>Betoma</negrita>, que a inicios del siglo XVI se encontraban
+organizadas en torno a dos <negrita>centros urbanos</negrita> importantes: <negrita
+>Bonda</negrita> y <negrita>Pocigüeica</negrita>. El primero, localizado
+en las tierras bajas, cerca de la actual ciudad de Santa Marta, y
+el segundo, situado en las faldas escarpadas de la Sierra Nevada.</p>
+<p>Los taironas no conformaron un gobierno unificado debido a que
+no tuvieron centros urbanos de mando y de poder único. Por otro lado,
+en cada aldea el <negrita>naoma</negrita> o <negrita>sacerdote mayor</negrita
+> carecía de autoridad ejecutiva, pero tenía un gran poder en las
+decisiones de las comunidades. Ejercía su ministerio en los centros
+ceremoniales situados en las partes altas de la sierra.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA1648C">
+<seccion3Titulo>La economía</seccion3Titulo>
+<seccion3Texto>
+<p>El <negrita>aprovechamiento</negrita> de la diversidad de <negrita
+>pisos térmicos</negrita> los llevó a una <negrita>especialización
+regional</negrita> sobre las actividades artesanales y de algunos
+productos alimenticios. La existencia de diferentes comunidades, que
+producían distintos bienes, también favoreció la práctica del intercambio
+entre ellas.</p>
+<p>La principal actividad económica de los taironas fue la agricultura,
+que gracias al cultivo de tierras situadas en los diferentes pisos
+térmicos, les permitió cosechar una gran diversidad de productos,
+como <negrita>maíz</negrita>, <negrita>yuca</negrita>, <negrita>algodón</negrita
+> y diversas frutas. Esta actividad fue complementada con la práctica
+de la <negrita>pesca</negrita> en el mar y de la <negrita>caza</negrita
+> en los bosques.</p>
+<p>Otras actividades destacadas fueron la <negrita>alfarería</negrita
+> y la <negrita>orfebrería</negrita>, ejecutadas por trabajadores
+especializados. En estas actividades lograron producir objetos con
+un alto grado de elaboración, los cuales eran empleados con fines
+rituales. Junto con estas tareas, la cultura tairona tuvo un gran
+dominio del manejo y la talla de grandes piedras, lo que le facilitó
+su uso en la construcción de <negrita>escalinatas</negrita>, <negrita
+>terraplenes</negrita> y <negrita>calzadas</negrita>.</p>
+<p>Además, los taironas aprovecharon diversas técnicas agrícolas,
+principalmente la construcción de <negrita>terrazas de cultivo y acueductos</negrita
+>, que les permitieron la explotación intensiva de las laderas de
+las montañas y producir grandes excedentes de alimentos, los cuales
+se intercambiaban con las demás comunidades.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA9259F">
+<seccion3Titulo>La religión</seccion3Titulo>
+<seccion3Texto>
+<p>Los taironas adoraron a múltiples dioses, los cuales estaban estrechamente
+relacionados con distintos fenómenos naturales y con la práctica de
+los diferentes oficios y labores. Sus principales deidades fueron <negrita
+>Gauteovan</negrita> (diosa madre) y <negrita>Peico</negrita> (dios
+civilizador, padre de la cultura tairona).</p>
+<p>En honor de estos dioses se practicaban diferentes rituales, que
+eran dirigidos por los naomas, o sacerdotes, en el interior de los
+centros ceremoniales, situados en las zonas más altas de la Sierra
+Nevada de Santa Marta. Algunas de las creencias y prácticas rituales
+de los taironas sobreviven en la actualidad, practicadas por sus descendientes.
+Entre estas se encuentran el <negrita>“mambeo”</negrita> o masticación
+de hojas de coca mezcladas con cal, que son guardadas en <negrita
+>poporos</negrita> o recipientes de oro y cobre, y la veneración de
+la tierra, como madre y ancestro de los pueblos que habitan la región.</p>
+<p>En cambio, otras prácticas, como los <negrita>rituales funerarios</negrita
+>, que incluían el entierro en bóvedas de piedra cubiertas de lajas,
+han desaparecido en la actualidad.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA9A37C">
+<seccion3Titulo>Avances culturales y científicos</seccion3Titulo>
+<seccion3Texto>
+<p>Las <negrita>técnicas de construcción</negrita> y el <negrita>uso
+de la piedra</negrita> fueron logros en los que sobresalieron los
+taironas. La nivelación de terrenos inclinados mediante la construcción
+de terraplenes y plataformas permitió edificar grandes <negrita>chozas
+circulares</negrita> (sin poste central) hechas de <negrita>madera</negrita
+> o <negrita>bahareque</negrita>. Algunas de estas chozas eran habitadas
+por un grupo familiar extenso, mientras que otras, las más grandes
+y mejor ubicadas, eran empleadas como centros ceremoniales de la comunidad.
+Para comunicar entre sí las diferentes aldeas, los taironas edificaron
+extensas <negrita>calzadas</negrita> empedradas y <negrita>escalinatas</negrita
+>, mientras que para facilitar la agricultura, construyeron <negrita
+>terrazas</negrita> y <negrita>canales de regadío</negrita>.</p>
+<p>La <negrita>orfebrería</negrita>, por su parte, revela la utilización
+de diferentes técnicas para la manipulación de los metales, como la <negrita
+>aleación de oro y cobre</negrita>, la <negrita>técnica de la cera
+perdida</negrita> y la <negrita>filigrana</negrita>, que les permitieron
+elaborar finas láminas y objetos macizos, como <negrita>anillos y
+colgantes</negrita>, que reproducían figuras <negrita>antropomorfas</negrita
+>.</p>
+<p>La <negrita>alfarería</negrita> tairona también revela un alto
+grado de experticia, ya que elaboraron <negrita>vasijas</negrita>, <negrita
+>copas y figuras antropomorfas</negrita> de gran calidad, que incluyeron
+acabados y decoraciones usando <negrita>pastillajes</negrita> y <negrita
+>pinturas polícromas</negrita> (de diferentes colores).</p>
+<imagen src="CS_06_06_CO_IMG04_small.jpg">
+<p>El yacimiento arqueológico <negrita>Buritaca</negrita> 200, también
+conocido como <negrita>Ciudad Perdida</negrita>, fue hallado intacto
+en <negrita>1976</negrita> y revela muchos de los avances de la cultura
+tairona en la construcción de calzadas, escalinatas y terraplenes.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso050&amp;IdRecurso=RES-AFA61CC96BCA4A13AFCD2F01FDA682D7"
+>Identifica avances culturales del pueblo tairona</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA1105E">
+<seccion2Titulo>La cultura muisca</seccion2Titulo>
+<seccion2Texto>
+<p>Muchos estudiosos consideran que la <negrita>cultura muisca</negrita
+> fue la más importante entre las que habitaron el territorio colombiano
+antes de la llegada de los españoles. Esta afirmación se basa en el
+hecho de que los muiscas contaron con la <negrita>población más numerosa
+y densa</negrita>, con la <negrita>estructura política más compleja</negrita
+> y con la <negrita>economía más diversificada</negrita> entre todas
+las culturas precolombinas del país.</p>
+<seccion3 id="S3_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA9B48D">
+<seccion3Titulo>Ubicación espacio-temporal</seccion3Titulo>
+<seccion3Texto>
+<p>Algunos investigadores ubican al grupo muisca como un pueblo que
+emigró al altiplano cundiboyacense entre el 5500 y 1000 a.C., y emparentado
+con los demás grupos de la familia lingüística chibcha localizados
+en el territorio (cunas, laches, chitareros, tunebas, taironas, guanes),
+que en la misma época emigraron desde Centroamérica siguiendo la costa
+del mar Caribe, a las estribaciones de los Andes y las riberas del
+Magdalena.</p>
+<imagen src="CS_06_06_CO_IMG05_small.jpg">
+<p>Los <negrita>muiscas</negrita> habitaron el <negrita>altiplano
+cundiboyacense</negrita> y el sur del <negrita>departamento</negrita
+> de <negrita>Santander</negrita> desde el siglo VI a.C. y a partir
+del siglo XIV, aproximadamente, constituyeron los poderosos cacicazgos
+que encontraron a su paso las huestes ibéricas.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA9C29E">
+<seccion3Titulo>La sociedad</seccion3Titulo>
+<seccion3Texto>
+<p>La sociedad muisca era sumamente compleja, compuesta por una élite
+en cuya cima estaban los <negrita>caciques</negrita>, líderes políticos
+y militares de las diferentes comunidades unidas por vínculos de parentesco <negrita
+>matrilineales</negrita> (transmitidos por vía materna); la autoridad
+de los caciques sobre su comunidad era tan grande que no estaba permitido
+que las demás personas los miraran a los ojos. De los caciques dependían
+los guechas o guerreros, quienes defendían el territorio común de
+las incursiones de otros pueblos o realizaban invasiones de territorios
+ubicados en los dominios de otros grupos.</p>
+<p>La élite también estuvo formada por los <negrita>jeques</negrita
+> o sacerdotes, quienes ejercían su oficio de por vida y se preparaban
+estrictamente para ello. Su función consistía en encabezar los rituales
+religiosos, como la realización de <negrita>sacrificios humanos</negrita
+>, la <negrita>inmersión</negrita> de los caciques en las lagunas,
+el rito de <negrita>“correr la tierra”</negrita> (carreras entre dos
+puntos de la geografía cundiboyacense), las <negrita>prácticas funerarias</negrita
+> o la <negrita>adoración</negrita> de sus dioses en sitios ceremoniales
+como las cimas de las montañas o las piedras pintadas. La preparación
+de los jeques consistía en la <negrita>práctica de ayunos</negrita
+>, el <negrita>encierro en sitios oscuros</negrita> o la <negrita
+>abstinencia sexual</negrita> durante periodos determinados.</p>
+<p>Después de estos grupos sociales, se situaban los <negrita>artesanos</negrita
+> especializados, como orfebres, alfareros, tejedores y fabricantes
+de tocados y joyas. Ellos transmitían en secreto sus conocimientos,
+y su labor tenía una importancia religiosa y simbólica.</p>
+<p>Por último, se situaba la <negrita>población campesina</negrita
+>, ligada entre sí por el parentesco. En su mayor parte se dedicaban
+a la agricultura, la pesca y la caza, y tenían que seguir las obligaciones
+y normas impuestas por la élite, además de pagar tributo y rendir
+obediencia a los caciques.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA9D40F">
+<seccion3Titulo>El gobierno</seccion3Titulo>
+<seccion3Texto>
+<p>La unidad política básica de la cultura muisca fue el <negrita
+>cacicazgo</negrita>, que reunía a diferentes comunidades que habitaban
+un territorio determinado. Los caciques, a su vez, se dividían en
+caciques de rango menor, que gobernaban pequeñas aldeas (<negrita
+>uta</negrita>) y los que gobernaban sobre un conjunto de aldeas ligado
+a una población más grande (<negrita>sybyn</negrita>).</p>
+<p>Los caciques heredaban su cargo por vía <negrita>matrilineal</negrita
+>, lo que significa que el heredero del cacicazgo no era el hijo del
+cacique sino el de su hermana.</p>
+<p>Los cacicazgos muiscas se organizaron en torno a grandes <negrita
+>confederaciones</negrita> políticas y militares, encabezadas por
+los líderes de los cacicazgos más destacados desde el punto de vista
+ancestral y religioso. Así, surgieron grandes confederaciones como
+la de <negrita>Sugamuxi</negrita> (encabezada por el Iraca, ligada
+al culto de Bochica), la de <negrita>Duitama</negrita> (guiada por
+el Tundama), y las dos más importantes, la de <negrita>Hunza</negrita
+> (dirigida por el Zaque) y la de <negrita>Bacatá</negrita> (liderada
+por el Zipa, ligada al culto de Xué). Estas últimas terminaron por
+someter la totalidad del territorio muisca y por llevar a cabo violentas
+guerras entre sí, con el fin de obtener el control de todo el territorio
+muisca.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA910AG">
+<seccion3Titulo>La economía</seccion3Titulo>
+<seccion3Texto>
+<p>Los <negrita>muiscas</negrita> fueron un <negrita>pueblo agricultor</negrita
+> y se destacaron por sus conocimientos sobre los ciclos de la lluvia,
+los cambios de la luna y las épocas más propicias para sembrar y cosechar.
+De igual manera disponían de herramientas y técnicas avanzadas para
+la práctica de la agricultura.</p>
+<p>La base de la <negrita>economía muisca</negrita> fue la <negrita
+>agricultura</negrita>, complementada por la pesca en los ríos y lagunas,
+y por la caza y la recolección en los bosques; cultivaron principalmente
+el maíz en sus múltiples variedades, por lo que se convirtió en la
+base de su alimentación. Sembraron otros productos, como papa, yuca,
+batata, calabaza, arracacha y gran variedad de frutas y hortalizas.</p>
+<p>Los muiscas sobresalieron como <negrita>comerciantes</negrita>,
+utilizando sus mercancías más valiosas, la sal y las mantas de algodón,
+como moneda, para obtener bienes que no producían, como el <negrita
+>algodón</negrita>, el <negrita>oro</negrita>, la <negrita>coca</negrita
+>, las <negrita>plumas de aves</negrita>, la <negrita>miel</negrita
+> y las <negrita>esmeraldas</negrita>. Ellos también fueron notables <negrita
+>alfareros</negrita> (actividad en la que se destacaba el cacicazgo
+de Ráquira) y elaboraron piezas zoomorfas, entre las que destacan
+figuras de animales a los que rendían culto, como ranas, lagartijas,
+armadillos y serpientes, que eran decoradas con motivos geométricos
+pintados o incisos.</p>
+<p>Además, se destacaron en la <negrita>orfebrería</negrita>, que
+poseía un enorme simbolismo religioso, por lo que sus objetos fueron
+destinados al uso ritual por parte de caciques y sacerdotes. Así,
+los muiscas fabricaron <negrita>collares</negrita>, <negrita>pendientes</negrita
+>, <negrita>narigueras</negrita>, <negrita>joyas</negrita> y <negrita
+>“tunjos”</negrita> o figurillas antropomorfas de carácter ceremonial;
+también emplearon técnicas como el <negrita>laminado</negrita>, la <negrita
+>cera perdida</negrita> y la aleación de oro y cobre (conocida como <negrita
+>tumbaga</negrita>) para elaborar sus objetos de metal.</p>
+<recuerda><recuerdaTexto>
+<p>Uno de los principales productos del comercio muisca fue la sal,
+considerada incluso como moneda en el intercambio comercial.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA921BA">
+<seccion3Titulo>La religión</seccion3Titulo>
+<seccion3Texto>
+<p>Los muiscas rindieron culto a una gran variedad de dioses, asociados
+con los fenómenos de la naturaleza y los astros. Los dioses más importantes
+fueron <negrita>Chiminigagua</negrita> (creador del mundo), <negrita
+>Chibchacún</negrita> (dios protector de los muiscas y sostenedor
+del mundo), <negrita>Xué</negrita> (el Sol), <negrita>Chía</negrita
+> (la Luna), <negrita>Bachué</negrita> (madre ancestral del pueblo
+muisca), <negrita>Bochica</negrita> (dios de la agricultura y de la
+civilización) y <negrita>Cuchaviva</negrita> (protector de madres
+y enfermos).</p>
+<destacado><destacadoTitulo>Costumbres muiscas</destacadoTitulo>
+<destacadoTexto>
+<p>Para honrar a sus dioses, los muiscas practicaron una serie de
+ceremonias que regían diferentes momentos de la vida humana, como
+el <negrita>nacimiento</negrita>, el <negrita>matrimonio</negrita
+>, la <negrita>muerte</negrita> y la <negrita>construcción de nuevas
+edificaciones</negrita>. Estas ceremonias, lideradas por los sacerdotes,
+incluían prácticas como los <negrita>sacrificios humanos</negrita
+>, la <negrita>ingesta de narcóticos</negrita>, el <negrita>ayuno</negrita
+> y la <negrita>entrega de ofrendas</negrita>. Su comportamiento cotidiano,
+a su vez, estaba regido por una serie de normas y lineamientos que
+debían cumplir de manera estricta, pues de lo contrario podían sufrir
+diferentes castigos, como el corte de sus cabelleras, la tortura y
+la muerte.</p>
+<p>Las ceremonias funerarias tuvieron un papel destacado y seguían
+un elaborado ritual, que incluía la construcción y distribución de
+la propia sepultura, el entierro del individuo con sus mejores atuendos
+y sus objetos más preciados y el sacrificio de algunos de sus seres
+más cercanos.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA932CB">
+<seccion3Titulo>Avances culturales y científicos</seccion3Titulo>
+<seccion3Texto>
+<p>Los muiscas realizaron importantes aportes en campos como la metalurgia,
+la astronomía y la alfarería.</p>
+<p>En cambio, las <negrita>edificaciones</negrita> de los muiscas
+fueron elaboradas con <negrita>caña</negrita> y <negrita>barro</negrita
+> en vez de piedra. Las chozas generalmente eran de dos formas: unas
+cónicas y otras rectangulares. Además de las casas existían otras
+clases de construcciones, como en las que habitaban los jefes de las
+confederaciones muiscas y los señores principales. Estas edificaciones
+estaban rodeadas por cercas y empalizadas que delimitaban el terreno
+de las aldeas. También construyeron templos, como el de <negrita>Sugamuxi</negrita
+> y el de <negrita>Goranchacha</negrita><enlace
+destino="http://www.banrepcultural.org/node/26259"> [VER]</enlace
+>.</p>
+<p>La <negrita>astronomía</negrita> tuvo fines religiosos, pues para
+los muiscas los astros se relacionaban con sus divinidades. Al mismo
+tiempo tuvo gran importancia para la agricultura, ya que dependía
+de la meteorología y los ciclos climáticos. Por ello, los muiscas
+elaboraron <negrita>calendarios</negrita> y edificaron centros ceremoniales
+desde donde observaron el cielo, como <negrita>“El infiernito”</negrita
+>, localizado en Villa de Leyva<enlace
+destino="http://pueblosoriginarios.com/sur/caribe/muisca/infiernito.html"
+> [VER]</enlace>.</p>
+<p>Por su parte, la <negrita>metalurgia</negrita> y la <negrita>alfarería</negrita
+> fueron sumamente elaboradas y produjeron objetos de enorme valor
+artístico, empleando técnicas complejas.</p>
+<imagen src="CS_06_06_CO_IMG06_small.jpg">
+<p>El sitio arqueológico <negrita>“El Infiernito”</negrita>, situado
+en Villa de Leyva, fue empleado como observatorio astronómico y sitio
+ceremonial por la cultura muisca.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso060&amp;IdRecurso=RES-929FD0489A57449D9269FD31224A49EE"
+>Reconoce características de las culturas tairona y muisca</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_06_CO_7605194B6BAB4A2890ECA94DCDE8C1C1">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso070&amp;IdRecurso=RES-49CE2F6908784B5AA95EE7EA203D633E"
+>Refuerza tu aprendizaje: La familia chibcha</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_06_CO_23D42A5699C44FEC8B2925887511C55E">
+<seccion1Titulo>La familia caribe</seccion1Titulo>
+<seccion1Texto>
+<p>El conjunto de pueblos denominado <negrita>familia caribe</negrita
+> ocupaba la parte <negrita>norte</negrita> de <negrita>Colombia</negrita
+>, el <negrita>noreste</negrita> de <negrita>Venezuela</negrita> y
+algunas <negrita>Antillas Menores</negrita>. En Colombia poblaron
+zonas de la Costa Atlántica y penetraron en los valles del Magdalena
+y el Cauca.</p>
+<p>Los españoles denominaron caribes a todos los grupos indígenas
+que ofrecían resistencia a su dominación y sostuvieron una lucha como
+medio de defensa contra la barbarie de la Conquista.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso080&amp;IdRecurso=RES-D09727BAE5024215B43ACFF3E9C0C016"
+>Los pueblos de la familia caribe</enlace>
+</profundiza><seccion2
+id="S2_CS_06_06_CO_7605194B6BAB4A2890ECA94DCDE8A1A1">
+<seccion2Titulo>La cultura sinú</seccion2Titulo>
+<seccion2Texto>
+<p>Esta cultura, que tuvo su auge entre los siglos II a. C. y XVI
+d. C., habitó en la cuenca de los ríos <negrita>Sinú</negrita> y <negrita
+>San Jorge</negrita>, en el actual <negrita>departamento de Córdoba</negrita
+>. Estos territorios, planos y ocupados por extensas <negrita>ciénagas</negrita
+>, fueron aprovechados de forma intensa por sus habitantes para la
+actividad agrícola.</p>
+<p>Para lograr este objetivo, los sinúes modificaron el terreno y
+construyeron extensos <negrita>canales de regadío</negrita> y <negrita
+>diques</negrita>, que desviaban el agua de ríos y ciénagas hacia
+los terrenos de cultivo, donde sembraron maíz, yuca y árboles frutales.
+La construcción y el mantenimiento de los canales permitió administrar
+los flujos de agua y controlar las inundaciones del terreno en beneficio
+propio, mediante el sistema de <negrita>“espinas de pescado”</negrita
+>, que les permitió disponer de terrenos elevados no inundables en
+la ribera de los ríos y las ciénagas, además de facilitar el drenaje
+y mantener un flujo continuo de agua entre los canales principales<enlace
+destino="http://www.banrepcultural.org/node/25844"> [VER]</enlace
+>.</p>
+<p>Esta cultura también explotó minas de oro y produjo una fina <negrita
+>orfebrería</negrita>, logrando objetos macizos de forma zoomorfa
+mediante la fundición del oro y la técnica de la cera perdida.</p>
+<p>Los sinúes estuvieron organizados alrededor de tres cacicazgos
+principales: el <negrita>Finzenú</negrita>, el <negrita>Panzenú</negrita
+> y el <negrita>Zenufana</negrita>. Este último tuvo el control de
+los yacimientos de oro, la principal fuente de riqueza y poder de
+esta cultura, y cuya explotación defendieron con especial dedicación.</p>
+<imagen src="CS_06_06_CO_IMG07_small.jpg">
+<p>La construcción de <negrita>diques</negrita> y <negrita>canales
+de regadío</negrita> en forma de <negrita>“espina de pescado”</negrita
+> hizo que la cultura sinú evitara el riesgo de inundaciones al construir
+sus edificios sobre los diques y mantener un drenaje de agua entre
+los canales y los demás cuerpos de agua de la zona.</p>
+</imagen><?Pub Caret -1?>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_06_CO_7605194B6BAB4A2890ECA94DCDE8F2F2">
+<seccion2Titulo>La cultura quimbaya</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>quimbayas</negrita> habitaron el curso medio del <negrita
+>río Cauca</negrita>, en los actuales departamentos de <negrita>Risaralda</negrita
+>, <negrita>Quindío</negrita> y <negrita>Caldas</negrita>.</p>
+<imagen src="CS_06_06_CO_IMG08_small.jpg">
+<p>La zona donde habitaron los quimbayas tenía suelos de origen volcánico,
+cuya fertilidad permitió a sus habitantes desarrollar una intensa
+actividad agrícola, cultivando <negrita>maíz</negrita>, <negrita>yuca</negrita
+>, <negrita>fríjol</negrita>, <negrita>ají</negrita> y diversas <negrita
+>frutas</negrita>.</p>
+</imagen>
+<p>Una de sus principales actividades económicas fue la explotación
+de oro y la <negrita>orfebrería</negrita>, en la que emplearon una
+amplia variedad de técnicas para fundir y moldear el mineral, y producir
+objetos macizos de gran valor artístico, como <negrita>adornos corporales</negrita
+>, <negrita>poporos</negrita>, <negrita>joyas</negrita> y <negrita
+>figuras antropomorfas y antropozoomorfas</negrita>, usadas con fines
+rituales. Por estos motivos, la orfebrería quimbaya es considerada
+como una de las mejores entre los pueblos indígenas prehispánicos
+de América.</p>
+<p>Otros recursos explotados intensamente fueron la <negrita>sal</negrita
+>, que se convirtió en producto de intercambio con otros pueblos,
+y la <negrita>guadua</negrita>, que les sirvió para construir casas,
+muros y empalizadas.</p>
+<p>Los quimbayas se organizaron en <negrita>cacicazgos</negrita> y
+nunca contaron con una autoridad centralizada. Dentro de los cacicazgos,
+los <negrita>guerreros</negrita> tuvieron un gran protagonismo, y
+se diferenciaron del resto de la población por medio de prácticas,
+como la <negrita>deformación craneal</negrita>, la <negrita>limadura
+de los dientes</negrita> y la <negrita>pintura corporal</negrita>,
+que los hacía ver más agresivos, feroces e imponentes ante sus enemigos.</p>
+<imagen ampliable="no" src="CS_06_06_CO_IMG09_small.jpg">
+<p>El <negrita>poporo quimbaya</negrita> es una pieza de arte precolombino
+del periodo quimbaya clásico. Se exhibe en el <negrita>Museo del Oro</negrita
+> de Bogotá.</p>
+</imagen>
+<destacado><destacadoTitulo>Funerales quimbayas</destacadoTitulo>
+<destacadoTexto>
+<p>Después de fallecer, los caciques quimbayas eran sepultados en <negrita
+>bóvedas subterráneas</negrita> con entrada vertical o lateral, y
+sus cuerpos eran depositados en vasijas, acompañados por sus objetos
+más preciados.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_06_CO_7605194B6BAB4A2890ECA94DCDE8E3E3">
+<seccion2Titulo>La cultura calima</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>cultura calima</negrita> habitó el actual <negrita
+>departamento de Valle del Cauca</negrita>. Se desarrolló entre 1600
+a. C. y la Conquista española, durante tres fases: el periodo <negrita
+>Ilama</negrita> (1600 - 200 a. C.), el <negrita>Yotoco</negrita> (200
+a. C.-1200 d. C.) y el <negrita>Sonso</negrita> (1200-1536)<enlace
+destino="http://www.sinic.gov.co/SINIC/ColombiaCultural/ColCulturalBusca.aspx?AREID=3&amp;SECID=8&amp;IdDep=76&amp;COLTEM=211"
+> [VER]</enlace>.</p>
+<imagen src="CS_06_06_CO_IMG10_small.jpg">
+<p>Por su ubicación, los calima pudieron basar su economía en la agricultura,
+con productos como <negrita>maíz</negrita>, <negrita>yuca</negrita
+>, <negrita>ahuyama</negrita>, <negrita>fríjol</negrita>, <negrita
+>ají</negrita>, <negrita>achiote</negrita>, <negrita>arracacha</negrita
+> y <negrita>guayaba</negrita>. Construyeron canales de regadío para
+aumentar el rendimiento de sus cultivos.</p>
+</imagen>
+<p>Las actividades más avanzadas de los calima fueron la orfebrería
+y la alfarería. Produjeron <negrita>diademas</negrita>, <negrita>narigueras</negrita
+>, <negrita>pendientes</negrita>, <negrita>pectorales</negrita> y <negrita
+>máscaras de oro</negrita> empleando la técnica de la cera perdida,
+y <negrita>ollas</negrita>, <negrita>copas</negrita>, <negrita>platos</negrita
+> y <negrita>vasijas</negrita> de cerámica, decorados con pinturas
+geométricas.</p>
+<p>En su momento de mayor auge, durante el periodo <negrita>Yotoco</negrita
+>, los calima contaron con una organización en <negrita>cacicazgos</negrita
+> y desarrollaron un amplio intercambio con las culturas vecinas mediante
+una extensa <negrita>red de caminos</negrita>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_06_CO_7605194B6BAB4A2890ECA94DCDE8D4D4">
+<seccion2Titulo>Otras culturas</seccion2Titulo>
+<seccion2Texto>
+<p>Los pueblos caribe, en particular los que habitaron las orillas
+del <negrita>río Magdalena</negrita> y sus afluentes, crearon diferentes
+culturas, que se destacaron por su carácter guerrero, por una organización
+social relativamente igualitaria y por la explotación y el intercambio
+de bienes, como <negrita>oro</negrita>, <negrita>esmeraldas</negrita
+> y <negrita>algodón</negrita>. Estos pueblos enfrentaron con valentía
+y fiereza a los muiscas y después a los españoles; entre ellos se
+destacaron los <negrita>pijaos</negrita>, <negrita>panches</negrita
+>, <negrita>motilones y muzos</negrita>.</p>
+<table border="1"><caption>PUEBLOS CARIBE</caption><colgroup><col
+width="20*"/><col width="79*"/></colgroup>
+<tbody>
+<tr>
+<td>PIJAOS</td>
+<td>Se ubicaron en la cordillera Central, en el <negrita>valle alto
+del río Magdalena y del río Cauca</negrita>.<br/>Destacaron por la
+explotación de minas de oro y el cultivo de algodón. Organizados en
+cacicazgos, formaron una confederación para enfrentar a los españoles.</td>
+</tr>
+<tr>
+<td>MUZOS</td>
+<td>Poblaron territorios de <negrita>Boyacá</negrita>, <negrita>Cundinamarca</negrita
+> y <negrita>Santander</negrita>. Explotaron las esmeraldas y cultivaron
+el algodón, que intercambiaron con los muiscas. Tuvieron numerosos
+enfrentamientos con este grupo y con los españoles, que invadieron
+varias veces su territorio para apoderarse de las minas de esmeraldas.</td>
+</tr>
+<tr>
+<td>PANCHES</td>
+<td>Se ubicaron inicialmente en la <negrita>costa Atlántica</negrita
+> y posteriormente poblaron la cuenca del <negrita>río Magdalena</negrita
+>, el <negrita>oriente del Tolima y occidente de Cundinamarca</negrita
+>. Enfrentaron repetidas veces a los muiscas; en lugar de estar organizados
+en cacicazgos permanentes, eran liderados de forma temporal por los
+guerreros más valientes.</td>
+</tr>
+<tr>
+<td>MOTILONES</td>
+<td>Su verdadero nombre es el de Barí, y recibieron el de motilones
+en la Conquista española. Habitaron la <negrita>hoya del río Catatumbo</negrita
+>, e impidieron la conquista de estos terrenos, invadiendo frecuentemente
+las poblaciones aledañas.</td>
+</tr>
+<tr>
+<td>CHOCOES</td>
+<td>Poblaron zonas del litoral Pacífico en el actual departamento
+de <negrita>Chocó</negrita>. Explotaban el oro, que intercambiaban
+con otros grupos indígenas. Fueron sometidos por los españoles a finales
+del siglo XVII.</td>
+</tr>
+<tr>
+<td>TURBACOS</td>
+<td>Se ubicaron en la <negrita>costa Caribe</negrita>, enfrentaron
+a su llegada a los exploradores españoles. Dominaron el área de la
+bahía de Cartagena.</td>
+</tr>
+<tr>
+<td>CALAMARES</td>
+<td>Habitaron el área de la bahía de Cartagena. Fueron sometidos a
+continuas expediciones españolas en busca de esclavos, lo que mermó
+en gran número su población.</td>
+</tr>
+</tbody>
+</table>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso090&amp;IdRecurso=RES-EC8CE3FC80AF4E1285D3C8AE194DDC8F"
+>Identifica características de la familia caribe</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_06_CO_7605194B6BAB4A2890ECA94DCDE8B0B0">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso100&amp;IdRecurso=RES-69274F818D9744C18DB885A5F80B315D"
+>Refuerza tu aprendizaje: La familia caribe</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_06_CO_0A5DB7FE9D2A4D8390F2FBBCBCE31AC9">
+<seccion1Titulo>La familia arawak</seccion1Titulo>
+<seccion1Texto>
+<p>La familia arawak estaba conformada por grupos indígenas que poblaron
+los llanos orientales, las estribaciones de la Sierra Nevada de Santa
+Marta, el valle de Upar y La Guajira.</p>
+<recuerda><recuerdaTexto>
+<p>La lengua de los wayú es el wayuunaiki; hoy en las escuelas se
+enseña como primera lengua, y el castellano, como segunda lengua.</p>
+</recuerdaTexto></recuerda><seccion2
+id="S2_CS_06_06_CO_35EF8141BBB2452A979F53E47E8EF581">
+<seccion2Titulo>La cultura wayú</seccion2Titulo>
+<seccion2Texto>
+<p>Habitaron la <negrita>península de la Guajira</negrita> desde tiempos
+precolombinos y están emparentados con otros grupos arawak que habitaron
+las costas venezolanas, como los <negrita>caquetíos</negrita>. Los
+wayú se dedicaron a actividades como la <negrita>explotación de sal</negrita
+> y la <negrita>extracción de perlas</negrita>, que intercambiaron
+con otros grupos indígenas de la región.</p>
+<p>Los wayú resistieron la Conquista española con gran éxito hasta
+finales del periodo colonial y adaptaron de estos las <negrita>armas
+de fuego</negrita> y el <negrita>uso del caballo</negrita>, así como
+el <negrita>pastoreo de cabras</negrita>, que se convirtió en su principal
+actividad económica, junto con la explotación de sal marina y el comercio
+(muchas veces ilegal) con buques extranjeros.</p>
+<p>Los wayú adoraron a dioses como <negrita>Mairewa</negrita> (dios
+creador) y <negrita>Yoruga</negrita> (dios de la muerte).</p>
+<p>Actualmente, forman la comunidad indígena más grande del país,
+conservan su propio idioma, el <negrita>wayuunaiki</negrita>, y siguen
+practicando el pastoreo de cabras y viviendo en <negrita>“rancherías”</negrita
+> o aldeas aisladas en el desierto.</p>
+<imagen src="CS_06_06_CO_IMG11_small.jpg">
+<p>El modo de vida wayú ha sido gravemente amenazado por la <negrita
+>minería de carbón</negrita> y el <negrita>contrabando</negrita> que
+se practican en sus territorios ancestrales, sometiéndolos a una situación
+de <negrita>pobreza y mortandad</negrita>.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_06_06_CO_35EF8141BBB2452A979F53E47E8EA692">
+<seccion2Titulo>Otras comunidades</seccion2Titulo>
+<seccion2Texto>
+<p>Los pueblos indígenas de la <negrita>Orinoquia</negrita> colombiana
+se asentaron allí como resultado de la migración que hace unos cinco
+mil años salió del Mato Grosso brasileño, en la primera <negrita>oleada
+migratoria</negrita> de individuos de la familia arawak con rumbo
+a las Antillas.</p>
+<p>Los primeros habitantes sufrieron el acoso de la familia caribe,
+que organizaba expediciones para despojar de sus bienes a los aborígenes
+o hacerlos esclavos, que llamaba <negrita>poitados</negrita>. Los
+pueblos <negrita>sedentarizados</negrita> de las riberas de los ríos
+eran los más afectados con estas arremetidas.</p>
+<seccion3 id="S3_CS_06_06_CO_728F98B0F1AE4345A5618C79DDA941DC">
+<seccion3Titulo>Los achagua</seccion3Titulo>
+<seccion3Texto>
+<p>La familia arawak estuvo representada en el llano por el grupo <negrita
+>achagua</negrita>, que ocupó el espacio comprendido entre los ríos
+Cojedes y Guaviare.</p>
+<p>Por su docilidad innata y fuerte vocación sedentaria, esta etnia
+fue la primera en adaptarse a la cultura occidental y dejó numerosos
+vocablos que enriquecen el hablar regional; de origen achagua son
+todos aquellos nombres que terminan en are, como Casanare, Guaviare
+e Iteviare<enlace
+destino="http://portalinfantil.mininterior.gov.co/sites/default/files/achaguas.pdf"
+> [VER]</enlace>.</p>
+<p>Después de haber sido la población más destacada de los llanos,
+tanto por su número como por su cultura y organización, hoy están
+reducidos a un grupo de 80 personas en Chavlovo-Umapo, sobre la margen
+derecha del alto Meta.</p>
+</seccion3Texto></seccion3><seccion3>
+<seccion3Titulo>Los piapoco</seccion3Titulo>
+<seccion3Texto>
+<p>Se ubicaron en la región comprendida entre los ríos Vichada y Guaviare.
+Muchos piapocos viven entre los sikuani, con quienes tradicionalmente
+hay relaciones de intercambio matrimonial.</p>
+<p>Otros grupos son los <negrita>arauca</negrita>, naturales de las
+cabeceras del río de su nombre; los <negrita>caquetío</negrita> o <negrita
+>tamud</negrita>, que moraron también en Arauca; los <negrita>chucuna</negrita
+>, que vivieron entre los ríos Meta y Manacacias; los <negrita>atures</negrita
+> y <negrita>maipures</negrita>, pescadores que dieron su nombre a
+las cataratas, y los <negrita>amarizana</negrita>, que parecen ser
+mestizos de los <negrita>sálivas</negrita>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso110&amp;IdRecurso=RES-2E2EFAA014764CBB8D1153665A995CF0"
+>Conoce características de la familia arawak</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_06_06_CO_35EF8141BBB2452A979F53E47E8EC703">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso120&amp;IdRecurso=RES-99D588C368D144DDB2F2E6AA0023D3AE"
+>Refuerza tu aprendizaje: La familia arawak</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_06_CO_02716141E2A3487A92F90695B2390873">
+<seccion1Titulo>Las culturas de San Agustín y Tierradentro</seccion1Titulo>
+<seccion1Texto>
+<p><negrita>San Agustín y Tierradentro</negrita> son complejos arqueológicos
+en los que numerosos pueblos de la región rendían culto a sus dioses
+y a sus muertos, por lo que no es posible referirse a un pueblo en
+particular. Estos lugares funcionaron como <negrita>sitios de culto</negrita
+> muchos siglos antes de la Conquista española, por lo que a la llegada
+de los europeos, estos lugares estaban abandonados.</p>
+<p>Su descubrimiento y exploración ha ocurrido desde comienzos del
+siglo XX y hoy en día son <negrita>parques arqueológicos</negrita
+> protegidos por el Gobierno colombiano a través del <negrita>ICANH</negrita
+> (Instituto Colombiano de Antropología e Historia), aunque algunas
+comunidades indígenas reivindican su jurisdicción sobre estos complejos.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso130&amp;IdRecurso=RES-605539D8E0E3400A94B0E147A2917A24"
+>Los centros ceremoniales de San Agustín y Tierradentro</enlace>
+</profundiza><seccion2
+id="S2_CS_06_06_CO_35EF8141BBB2452A979F53E47E8EE470">
+<seccion2Titulo>Complejo de San Agustín</seccion2Titulo>
+<seccion2Texto>
+<p>Este complejo arqueológico se localiza en el sur del departamento
+del Huila, en el curso superior del río Magdalena y cerca del piedemonte
+amazónico, por lo que se presume que los pueblos que habitaron esta
+zona tuvieron una gran influencia en la construcción del complejo<enlace
+destino="http://www.icanh.gov.co/?idcategoria=1235"> [VER]</enlace
+>.</p>
+<p>San Agustín funcionó como <negrita>sitio de culto</negrita> y <negrita
+>complejo funerario</negrita> entre los siglos XXIII a. C. y VIII
+d. C. Los hallazgos arqueológicos y el análisis de las esculturas
+en piedra que resguardan los sepulcros revelan la gran importancia
+de los chamanes o sacerdotes en estas sociedades, y la gran importancia
+que tuvo el <negrita>jaguar</negrita> en su cultura (muchas estatuas
+representan seres que combinan rasgos humanos y de jaguar). También
+se han encontrado similitudes con rasgos simbólicos de los pueblos
+indígenas mesoamericanos y amazónicos.</p>
+<p>Los antiguos habitantes de la región próxima a San Agustín vistieron
+taparrabos, portaron macanas y cultivaron productos, como yuca, chontaduro
+y maní. Además, los entierros revelan un amplio uso de adornos corporales,
+como collares, narigueras y diademas hechas de oro, conchas y piedra
+caliza.</p>
+<imagen src="CS_06_06_CO_IMG12_small.jpg">
+<p>Quienes construyeron el complejo de San Agustín eran muy buenos
+para trabajar la piedra. Estas enormes estatuas con fines religiosos
+y con mezcla de características antropomórficas y zoomórficas se caracterizan
+por su tamaño y diseño.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso140&amp;IdRecurso=RES-7CBBB79D01EF4E02BF3C9B8F1377DCAD"
+>Reconoce aspectos del trabajo de la piedra del complejo de San Agustín</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_06_CO_8592BA8F495C4BC39B4C8153E4B743E6">
+<seccion2Titulo>Complejo de Tierradentro</seccion2Titulo>
+<seccion2Texto>
+<p>El yacimiento arqueológico de Tierradentro, situado en el departamento
+del <negrita>Cauca</negrita>, cerca de límites con Huila y Tolima,
+se encuentra formado por una serie de hipogeos o <negrita>tumbas subterráneas</negrita
+>, talladas en piedra, a las cuales se accedía por escalinatas en
+forma de caracol. En su interior, las tumbas estaban decoradas con
+pinturas geométricas<enlace
+destino="http://www.icanh.gov.co/?idcategoria=1234"> [VER]</enlace
+>.</p>
+<p>El complejo de Tierradentro fue usado entre los años 600 y 900
+por un pueblo anterior a sus pobladores actuales. Este pueblo tuvo
+complejos <negrita>ritos funerarios</negrita>, que incluían el enterramiento
+de objetos valiosos junto con los cadáveres.</p>
+<p>Tierradentro muestra similitudes cronológicas y estilísticas con
+el complejo de San Agustín y es posible que ambos complejos estuvieran
+relacionados.</p>
+<imagen src="CS_06_06_CO_IMG13_small.jpg">
+<p>La estatuaria de Tierradentro tiene como características que era
+de piedra volcánica, simétrica y representa figuras hieráticas.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso150&amp;IdRecurso=RES-A56EBBA8D2B743599D26D18BFE9D14E1"
+>Analiza características del arte funerario del complejo de Tierradentro</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_06_CO_8592BA8F495C4BC39B4C8153E4B752D7">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso160&amp;IdRecurso=RES-72DDDC5FD39A4FD886762A5E6CDA195A"
+>Refuerza tu aprendizaje: Las culturas de San Agustín y Tierradentro</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_06_06_CO_A1329BAA858C47C3ACA262294C33BBEA">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso170&amp;IdRecurso=RES-0FAED38F18304D138B2866C806AE2CF5"
+>Competencias: comentario de un avance cultural de las comunidades
+precolombinas de Colombia</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso180&amp;IdRecurso=RES-28E9772C9F994199A5E4019EAE11AB77"
+>Proyecto: estudio del arte precolombino en Colombia</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_06_06_CO_606FCDB67841493DA87A08AEAA850FBE"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso200&amp;IdRecurso=RES-69770184A8BD4796B2DCF4077337008D"
+>Mapa conceptual del tema Colombia precolombina</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso210&amp;IdRecurso=RES-6951FDDC13DF47D4AC7862B7A725004E"
+>Evalúa tus conocimientos sobre el tema Colombia precolombina</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://www.banrepcultural.org/blaavirtual/historia/colhoy/colo4.htm"
+>Periodos históricos de Colombia precolombina.</enlace>
+<enlace
+destino="http://www.banrepcultural.org/blaavirtual/historia/hicol/hico3.htm"
+>Los pueblos indígenas del territorio colombiano.</enlace>
+<enlace
+destino="http://www.lenguasdecolombia.gov.co/mapalenguas/inicio.swf"
+>Lenguas de Colombia.</enlace>
+</enlacesreferencia></masinformacion></libro>
