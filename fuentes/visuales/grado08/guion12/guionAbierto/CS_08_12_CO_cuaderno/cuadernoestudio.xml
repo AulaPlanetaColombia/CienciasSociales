@@ -1,443 +1,766 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_08_12_CO">
-  <libroTitulo>La democracia</libroTitulo>
-  <seccion1 id="S1_CS_08_12_CO_8E178A7022E44393BF19E893C6A9FDE2">
-    <seccion1Titulo>El gobierno</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_08_12_CO_5496D3EDED084431A8961B1A8C00FE0B">
-        <seccion2Titulo>El sentido del gobierno</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_12_CO_img_01_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_12_CO_DD3C029A4B384AC0BD9B05F02E5F0A4F">
-        <seccion2Titulo>Las formas de gobierno</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_12_CO_img_02_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso010&amp;IdRecurso=RES-F200E32AB02749EA8CD76751EFBF379C">Recurso F6-01</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_12_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_12_CO_0CFAD2E62B0F43BC80262C0E8607B7E3">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_12_CO_img_04_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso030&amp;IdRecurso=RES-0AD9E7871C6B4CB0ADA4248E45B0364E">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_12_CO_9C99735BC5D84E0FA41736CC39B50010">
-    <seccion1Titulo>El gobierno democrático</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_12_CO_img_05_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso040&amp;IdRecurso=RES-70725D9836D541669BEA80E56EA573A1">Recurso M2B-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_12_CO_img_06_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <seccion2 id="S2_CS_08_12_CO_F9554B8CF1E04FD99B540D7E15ED7AD1">
-        <seccion2Titulo>El surgimiento de la democracia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_12_CO_img_07_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso060&amp;IdRecurso=RES-14918DB6D0334C22AC17DCCE06EF2667">Recurso M12A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_12_CO_DA425AAB2BD34E99AD23D256251C5502">
-        <seccion2Titulo>Los principios de la democracia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_12_CO_img_08_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso070&amp;IdRecurso=RES-F9C63D2D4F014CF79EA8BFAD1C1D55A2">El funcionamiento del Estado democrático</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_12_CO_img_09_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <seccion2 id="S2_CS_08_12_CO_CA9C97916A44441A9AE7434C245715CD">
-        <seccion2Titulo>Los tipos de democracia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_12_CO_img_10_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso090&amp;IdRecurso=RES-61AE70F0C4C34DAD818C397D36D64F05">Recurso M1C-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_12_CO_img_11_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso100&amp;IdRecurso=RES-298CA7F75248450FBE54BE3ACD4471ED">Refuerza tu aprendizaje: Los fundamentos del Estado democrático</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_12_CO_46117B21272E4A8B849C22A1D6E3CA8D">
-    <seccion1Titulo>La participación ciudadana</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_12_CO_img_12_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso110&amp;IdRecurso=RES-72A71C56AEF840D29DC39C556A09E234">Recurso F10B-01</enlace>
-      </practica>
-      <seccion2 id="S2_CS_08_12_CO_CCA0459509A54F35BB071B165D195D7C">
-        <seccion2Titulo>Los elementos y valores para la participación ciudadana</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_12_CO_img_13_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso120&amp;IdRecurso=RES-35B181961D90435C83D95FD61AE7FF93">Recurso M2C-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_12_CO_2355FD508F914550ADC65C22BFA198E8">
-        <seccion2Titulo>Los tipos de participación ciudadana</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_12_CO_img_14_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso130&amp;IdRecurso=RES-530E5FBC2F1B437384D0833D9D5D1D7D">Recurso M5A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_12_CO_7923E4CA298C4B6B8904A0B815DF57BA">
-        <seccion2Titulo>La participación ciudadana en Colombia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_08_12_CO_0B3FE70794B941AFB46DB08C84F12ACC">
-            <seccion3Titulo>Los mecanismos de participación ciudadana en Colombia</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_12_CO_img_15_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso140&amp;IdRecurso=RES-8DF4AED4888346A0931DB667811E44D6">Recurso F7-01</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_12_CO_img_17_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso160&amp;IdRecurso=RES-D1335F161EFD4D7686B6D86E2A0898DA">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_12_CO_img_16_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso150&amp;IdRecurso=RES-349A1745FDC446B1A0A84115EF6DEF73">Recurso M5D-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_12_CO_538164F905814EC6AED58E5740AA3C6F">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_08_12_CO_0F4D83EC875B4AAEBDFD61860EB1F807">
-        <seccion2Titulo>Competenecias</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_12_CO_img_18_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso170&amp;IdRecurso=RES-F0338307762945A493E5DC40AB45FD7A">Recurso M102AB-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_12_CO_71DB1F1FE5BF41378ACF6B7FCEDDB178">
-        <seccion2Titulo>Proyecto</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_12_CO_img_19_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso180&amp;IdRecurso=RES-936B3EA0918E4C429A218CDFC83F56D1">Proyecto: investigación sobre la historia de la democracia</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_08_12_CO_911B119887124981AE592A8650A1C173">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso200&amp;IdRecurso=RES-37624E02CC9A4781A283BCE197992E09">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso210&amp;IdRecurso=RES-C1E6DBA730B046E786036B224B08E46A">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>La democracia</libroTitulo>
+<seccion1 id="S1_CS_08_12_CO_8E178A7022E44393BF19E893C6A9FDE2">
+<seccion1Titulo>El gobierno</seccion1Titulo>
+<seccion1Texto>
+<p>Los seres humanos se han agrupado socialmente para alcanzar logros
+comunes. Pero como en toda sociedad convergen intereses diversos,
+los conflictos siempre están presentes. Por eso, las personas crearon
+el <negrita>gobierno</negrita>, que es una organización que permite
+liderar y dirigir a la sociedad, y asegurarse de que las normas comunes
+se cumplan para garantizar la convivencia.</p>
+<seccion2 id="S2_CS_08_12_CO_5496D3EDED084431A8961B1A8C00FE0B">
+<seccion2Titulo>El sentido del gobierno</seccion2Titulo>
+<seccion2Texto>
+<p>El <negrita>sentido del gobierno</negrita> es, básicamente, evitar
+la anarquía. Si las personas tuvieran libertad de acción para satisfacer
+sus intereses propios, sin ninguna regulación por parte del gobierno,
+muchas personas estarían desprotegidas y en riesgo de ser oprimidas
+por los más poderosos; reinaría el caos y la inseguridad.</p>
+<destacado><destacadoTitulo>¿Cuál es la función del gobierno?</destacadoTitulo>
+<destacadoTexto>
+<p>Los seres humanos depositan en el <negrita>gobierno</negrita> su
+confianza para que actúe como <negrita>guardián de los derechos y
+deberes de las personas</negrita>, y garantice así la consecución
+de los propósitos comunes que se tienen como sociedad.</p>
+</destacadoTexto></destacado>
+<p>Por ello, el gobierno tiene la potestad de hacer cumplir las normas
+que limitan el accionar de los miembros de la sociedad, y de <negrita
+>ejercer poder político y militar</negrita> para lograrlo.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_12_CO_DD3C029A4B384AC0BD9B05F02E5F0A4F">
+<seccion2Titulo>Las formas de gobierno</seccion2Titulo>
+<seccion2Texto>
+<p>No todas las sociedades o países se gobiernan de la misma manera.
+Las <negrita>formas de gobierno</negrita> se refieren a cómo se ejerce
+el gobierno, quién gobierna y las relaciones entre los órganos que
+dirigen políticamente al Estado.</p>
+<p>Las <negrita>formas clásicas de gobierno</negrita> son tres, según
+la clasificación que hizo Aristóteles de acuerdo con el <negrita>número
+de personas</negrita> que ejercen el poder político.</p>
+<table border="1"><colgroup><col width="30*"/><col width="69*"/>
+</colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>FORMA DE GOBIERNO</negrita></td>
+<td align="center"><negrita>NÚMERO DE PERSONAS QUE GOBIERNAN</negrita
+></td>
+</tr>
+<tr>
+<td align="center"><negrita>Monarquía</negrita></td>
+<td>Gobierno de <negrita>una sola persona</negrita>, que ha recibido
+el título de rey por vía hereditaria y lo delegará de la misma manera
+a su sucesor.</td>
+</tr>
+<tr>
+<td align="center"><negrita>Aristocracia</negrita></td>
+<td>Gobierno de <negrita>pocas personas</negrita>, quienes tienen
+las mejores cualidades de toda la comunidad para ejercer el poder
+político.</td>
+</tr>
+<tr>
+<td align="center"><negrita>Democracia</negrita></td>
+<td>Gobierno de <negrita>todos los ciudadanos</negrita>, cuyo poder
+se ejerce de manera directa o por representación. </td>
+</tr>
+</tbody>
+</table>
+<p>A pesar de que el deber de los gobernantes es buscar el <negrita
+>bien común</negrita>, en algunas ocasiones la realidad es otra, pues
+ciertos gobernantes le dan prioridad a sus intereses personales sobre
+los comunitarios. Cuando esto ocurre, las formas clásicas de gobierno
+se convierten en <negrita>formas imperfectas de gobierno</negrita
+>:</p>
+<table border="1"><colgroup><col width="26*"/><col width="27*"/><col
+width="35*"/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>FORMA DE GOBIERNO</negrita></td>
+<td align="center"><negrita>FORMA IMPERFECTA</negrita></td>
+<td align="center"><negrita>CARACTERÍSTICA</negrita></td>
+</tr>
+<tr>
+<td align="center">Monarquía</td>
+<td align="center"><negrita>Tiranía</negrita></td>
+<td>Gobierno de <negrita>una sola persona que abusa del poder</negrita
+> e impone sus mandatos por la fuerza o por superioridad.</td>
+</tr>
+<tr>
+<td align="center">Aristocracia</td>
+<td align="center"><negrita>Oligarquía</negrita></td>
+<td>Gobierno de un <negrita>grupo minoritario con poder o influencia
+sobre un sector</negrita> social, económico o político.</td>
+</tr>
+<tr>
+<td align="center">Democracia</td>
+<td align="center"><negrita>Demagogia</negrita></td>
+<td>Gobierno en que los <negrita>políticos buscan asentarse en el
+poder concediéndoles favores</negrita> a los ciudadanos.</td>
+</tr>
+</tbody>
+</table>
+<p>Las <negrita>formas actuales de gobierno</negrita> están relacionadas
+con las <negrita>formas de Estado</negrita>, que pueden ser autocráticas
+o democráticas.</p>
+<p>Las <negrita>formas de gobierno autocráticas</negrita> se caracterizan
+por tener:</p>
+<listaSinNumerar>
+<listaElemento>gobiernos arbitrarios, que favorecen a la minoría que
+los apoya.</listaElemento>
+<listaElemento>un gobernante que no ha sido escogido por los ciudadanos
+y que casi siempre es vitalicio.</listaElemento>
+<listaElemento>ausencia de mecanismos legales para hacer valer los
+derechos de la oposición.</listaElemento>
+<listaElemento>poderes sin separación.</listaElemento>
+</listaSinNumerar>
+<imagen ampliable="no" src="CS_08_12_CO_IMG01_small.jpg">
+<p>Las <negrita>formas de gobierno autocráticas</negrita> recurren
+a la <negrita>exaltación de la persona o grupo de personas</negrita
+> que detentan el poder, con el fin de reforzar su posición. <cursiva
+>Fotografía de Alejandro III, zar de Rusia, con su familia</cursiva
+>.</p>
+</imagen>
+<p>Entre las formas de gobierno autocráticas se cuentan la <negrita
+>monarquía absoluta</negrita> y los diferentes tipos de <negrita>dictadura</negrita
+> (<negrita>militar</negrita>,<negrita> personal y de partido</negrita
+>). En el mundo actual, un ejemplo de monarquía absoluta es Arabia
+Saudita, Sudán es un caso de dictadura militar, Cuba se cuenta como
+dictadura personal y China es un ejemplo de dictadura de partido.</p>
+<p>Por su parte, en las <negrita>formas de gobierno democráticas</negrita
+>:</p>
+<listaSinNumerar>
+<listaElemento>el pueblo es el soberano, es decir, el que tiene el
+poder.</listaElemento>
+<listaElemento>como es muy difícil que todas las personas ejerzan
+el poder directamente, eligen a unos representantes para que gobiernen
+en nombre del pueblo.</listaElemento>
+<listaElemento>se ofrece garantía para que todas las personas, sin
+importar su ideología, puedan expresar su opinión; incluso si pertenecen
+a la oposición o son minoría.</listaElemento>
+<listaElemento>por lo general, existe la división del poder político
+en diferentes ramas.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_08_12_CO_IMG02_small.jpg">
+<p>Las <negrita>formas de gobierno democráticas</negrita> son mayoritarias
+en el mundo actual.</p>
+</imagen>
+<p>Las formas de gobierno democráticas son el <negrita>sistema parlamentario</negrita
+>, como el del Reino Unido; el <negrita>sistema presidencial</negrita
+>, como el de Colombia; el <negrita>sistema semipresidencial</negrita
+>, como el de Francia; el <negrita>sistema directorial</negrita>,
+como el de Suiza; y la <negrita>monarquía parlamentaria</negrita>,
+como la de España.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso010&amp;IdRecurso=RES-F200E32AB02749EA8CD76751EFBF379C"
+>Las formas clásicas y actuales de gobierno</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso020&amp;IdRecurso=RES-705D8D40777449F8B8F20CCB88B937C7"
+>Diferencia las formas de gobierno más difundidas</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_12_CO_0CFAD2E62B0F43BC80262C0E8607B7E3">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso030&amp;IdRecurso=RES-0AD9E7871C6B4CB0ADA4248E45B0364E"
+>Refuerza tu aprendizaje: El gobierno</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_12_CO_9C99735BC5D84E0FA41736CC39B50010">
+<seccion1Titulo>El gobierno democrático</seccion1Titulo>
+<seccion1Texto>
+<p>Como se expuso en el tema anterior, la <negrita>democracia</negrita
+> es una de las tres formas clásicas de gobierno, de la cual se desprenden
+cinco de las formas de gobierno que operan en la actualidad. </p>
+<p>Etimológicamente, <negrita>democracia</negrita> proviene de las
+palabras griegas <cursiva>demos</cursiva>, que significa <cursiva
+>pueblo</cursiva>, y <cursiva>kratos</cursiva>, que significa <cursiva
+>poder</cursiva>. Por ello, se dice que la <negrita>democracia es
+el gobierno del pueblo</negrita>, o sea, la forma de gobierno que
+reconoce como fuente de poder a la sociedad misma.</p>
+<p>Esto posicionó a la democracia, desde sus inicios en la Grecia
+antigua, como uno de los pilares de la civilización occidental y de
+su cultura política.</p>
+<imagen ampliable="no" src="CS_08_12_CO_IMG03_small.jpg">
+<p>A través de la glorificación de sus éxitos militares contra los
+persas, el <negrita>gobierno de Pericles</negrita> asoció el imperialismo
+ateniense con las <negrita>formas sociales de la democracia</negrita
+>, y llegó a convertir la Liga de Delos en un instrumento para dominar
+a los supuestos aliados. <cursiva>Busto de Pericles, copia romana
+de un original del escultor Cresilas, de ca. 430 a.C. (Museos Vaticanos,
+Ciudad del Vaticano)</cursiva>.</p>
+</imagen>
+<p>En su <cursiva>Discurso fúnebre</cursiva> en honor de los primeros
+muertos de la guerra del Peloponeso, Pericles expresó: “Disfrutamos
+de un régimen político que no imita las leyes de los vecinos; más
+que imitadores de otros, en efecto, nosotros mismos servimos de modelo
+para algunos. En cuanto al nombre, puesto que la administración se
+ejerce en favor de la mayoría, y no de unos pocos, a este régimen
+se lo ha llamado democracia”.</p>
+<p>A pesar de tener una calificación política <negrita>positiva</negrita
+>, ser aceptada por muchos como <negrita>la mejor forma de gobierno</negrita
+>, haber sido exaltada por políticos, filósofos y politólogos desde
+sus valores y dimensiones, la democracia también ha generado recelos,
+miedos, deformaciones populistas mayoritarias y ataques por parte
+de regímenes políticos autocráticos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso040&amp;IdRecurso=RES-70725D9836D541669BEA80E56EA573A1"
+>Comprende el significado de la democracia</enlace>
+</practica><seccion2
+id="S2_CS_08_12_CO_F9554B8CF1E04FD99B540D7E15ED7AD1">
+<seccion2Titulo>El surgimiento de la democracia</seccion2Titulo>
+<seccion2Texto>
+<p>El camino hacia la democracia puede rastrearse desde el <negrita
+>siglo VI a.C.</negrita>, con las <negrita>reformas de Solón (legislador
+ateniense)</negrita>, <negrita>en el año 594 a.C.</negrita> En esta
+época, se daba una extrema concentración de la riqueza y el poder
+político estaba en manos de los más ricos, lo cual generó conflictos
+con los campesinos.</p>
+<imagen ampliable="no" src="CS_08_12_CO_IMG04_small.jpg">
+<p><negrita>Solón</negrita> (639 - 558 a. C.) buscó el equilibrio
+entre las clases sociales, limitando el poder de la aristocracia y
+transformando el criterio del <negrita>gobierno basado en el linaje</negrita
+> en un modelo llamado <negrita>timocracia</negrita>. Este consistió
+en la participación en el gobierno de quienes tenían <negrita>cierta
+capacidad productiva</negrita> en sus tierras o propiedades.</p>
+</imagen>
+<p>Con esta forma de gobierno (la timocracia) se abrió espacio para
+la participación de los estratos medios, pero se dejó de lado la opinión
+de los estratos más bajos. Conoce más sobre Solón<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=135818&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>Luego se dieron las <negrita>reformas de Clístenes (político ateniense)
+en el año 508 a.C.</negrita> Estas se enfocaron en la distribución
+de las tribus, el aumento de los miembros del Consejo a 500 y la <negrita
+>organización del país en</negrita><negritacursiva> demos</negritacursiva
+> (pueblos). Estos se volvieron fundamentales en la vida de los ciudadanos
+atenienses al convertirse en los <negrita>centros del poder político
+y de integración</negrita> de los habitantes. Conoce más sobre Clístenes<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=65554&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>Las reformas de Solón y Clístenes se consolidaron en el <negrita
+>gobierno de Pericles, en el siglo V a.C.</negrita> Durante su gobierno
+se acentuó la <negrita>identidad colectiva</negrita> desde la <negrita
+>pertenencia</negrita> a la ciudad, se fortaleció el <negrita>poder
+de la mayoría</negrita>, y se exaltó la virtud y el mérito para <negrita
+>alcanzar cargos públicos</negrita>.</p>
+<imagen src="CS_08_12_CO_IMG05_small.jpg">
+<p>En el auge de la civilización griega se establecieron los primeros
+cimientos de la <negrita>democracia</negrita> al definir <negrita
+>espacios</negrita>, como el <negrita>ágora (plaza pública)</negrita
+>, para permitir la <negrita>participación de los ciudadanos</negrita
+> en las decisiones colectivas.</p>
+</imagen>
+<p>En tiempos de la Grecia antigua, <negrita>la <cursiva>polis</cursiva
+> o ciudad</negrita> era la base para comprender la democracia pues,
+más que un lugar, era un <negrita>espacio para la convivencia</negrita
+>. La <cursiva>polis</cursiva> era el campo del que Aristóteles llamó
+el <cursiva>zoon politikon</cursiva> (animal político). En ella, se
+vivía como <negrita>ciudadano</negrita> a través de <negrita>virtudes
+éticas y políticas</negrita> (conocidas como <cursiva>areté</cursiva
+>) y deberes específicos. Sin embargo, para ser ciudadano existían
+ciertas condiciones: debían ser hijos de padre y madre ateniense,
+no esclavos ni mujeres.</p>
+<recuerda><recuerdaTexto>
+<p>En <cursiva>La Política</cursiva>, el filósofo Aristóteles mencionó
+que los únicos que no vivían en la <cursiva>polis</cursiva> eran los
+dioses o las bestias. De ahí que vivir en comunidad y crear normas
+para ello es propio de los seres humanos.</p>
+</recuerdaTexto></recuerda>
+<p>En este camino político, se consolidó la igualdad de los derechos
+otorgados a los ciudadanos (<cursiva>isonomía</cursiva>) y la igualdad
+del uso de la palabra en la Asamblea (<cursiva>isegoría</cursiva>).
+Esto fortaleció la comunidad y facilitó el buen gobierno (<negrita
+>eunomia</negrita>). </p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso050&amp;IdRecurso=RES-99817847F4FB4AA9A99190D029DB2CE7"
+>La época clásica: la democracia ateniense</enlace>
+</profundiza>
+<p>Posteriormente, entre los siglos IV a. C. y XVIII d. C., se dio
+un “largo eclipse”, en términos del politólogo italiano Giovanni Sartori.
+Lo llamó así por ser un periodo en el cual el ideal de gobierno fue
+la monarquía y el imperio, mas no la democracia.</p>
+<p>Pero hacia finales del <negrita>siglo XVIII y durante el siglo
+XIX</negrita>, se dio el <negrita>segundo momento histórico de la
+construcción de la democracia</negrita> con el <negrita>nacimiento
+de los Estados-nación modernos</negrita>, tanto en Europa como en
+América.</p>
+<destacado><destacadoTitulo>La democracia moderna</destacadoTitulo>
+<destacadoTexto>
+<p>A finales del siglo XVIII y durante el siglo XIX, la filosofía
+racionalista de la <negrita>Ilustración</negrita>, el movimiento <negrita
+>constitucionalista garantista</negrita> que defendía la <negrita
+>libertad</negrita> y las <negrita>revoluciones liberales</negrita
+> (en Inglaterra, Francia y América), permitieron <negrita>retomar
+la idea de la democracia de la Grecia clásica</negrita> para acabar
+con los regímenes monárquicos absolutistas.</p>
+</destacadoTexto></destacado>
+<p>La idea de la democracia ateniense fue la base de las revoluciones
+modernas, pues el pueblo, cansado de las imposiciones muchas veces
+arbitrarias de los monarcas, quería participar en el gobierno y hacer
+oír sus necesidades y opiniones.</p>
+<p>Por ello, recurrieron al modelo democrático de la Grecia antigua,
+según el cual los <negrita>ciudadanos</negrita> eran la <negrita>fuente
+del poder político y soberano</negrita>, en tanto eran <negrita>libres</negrita
+> y tenían la posibilidad de <negrita>elegir a sus representantes
+y controlar la justicia de sus decisiones</negrita>.</p>
+<imagen ampliable="no" src="CS_08_12_CO_IMG06_small.jpg">
+<p><negrita>Juan Jacobo Rousseau</negrita> (1712-1778), filósofo de
+la <negrita>Ilustración</negrita>, escribió en su obra llamada <negritacursiva
+>El contrato social</negritacursiva>: “El soberano puede, en primer
+lugar, confiar el depósito del gobierno a todo el pueblo o a su mayoría,
+de suerte que haya más ciudadanos magistrados que simples particulares.
+A esta <negrita>forma de gobierno</negrita> se da el nombre de <negrita
+>democracia</negrita>”. <cursiva>Jean-Jacques Rousseau, 1843, por
+Édouard Lacretelle (Palacio de Versalles, Francia)</cursiva>.</p>
+</imagen>
+<p>A partir de ese momento, la democracia se convirtió en la <negrita
+>forma de gobierno más difundida</negrita> en el mundo. Durante los
+siglos siguientes, son cada vez más los <negrita>colectivos</negrita
+> (como las mujeres, los niños, los indígenas, los afrodescendientes)
+que, apoyados en los principios democráticos, han logrado mejorar
+su calidad de vida a partir de <negrita>la defensa de sus derechos</negrita
+> en un marco de <negrita>pluralismo</negrita>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso060&amp;IdRecurso=RES-14918DB6D0334C22AC17DCCE06EF2667"
+>Organiza los hechos que dieron origen a la democracia</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_12_CO_DA425AAB2BD34E99AD23D256251C5502">
+<seccion2Titulo>Los principios de la democracia</seccion2Titulo>
+<seccion2Texto>
+<p>Aunque existen formas de gobierno democráticas con características
+diferentes (sistema parlamentario, sistema presidencial, sistema semipresidencial,
+sistema directorial y monarquía parlamentaria), todas comparten los <negrita
+>principios</negrita> sobre los cuales se erige una <negrita>democracia</negrita
+>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso070&amp;IdRecurso=RES-F9C63D2D4F014CF79EA8BFAD1C1D55A2"
+>El funcionamiento del Estado democrático</enlace>
+</profundiza>
+<p>El principio inicial es la <negrita>soberanía popular</negrita
+>, que le da la legitimidad al gobierno de ejercer su poder con el
+consentimiento de la sociedad. Esta idea reemplazó la noción del <negrita
+>poder soberano y absoluto</negrita> que tenía el rey, y que era incuestionable,
+pues se creía que había sido otorgado por Dios.</p>
+<p>El segundo principio es el de la <negrita>decisión de la mayoría</negrita
+>, el cual garantiza que las decisiones cuenten con el apoyo de la
+mayoría de la sociedad, cuando esta es tan numerosa que es imposible
+lograr un acuerdo total.</p>
+<p>El tercero es el del <negrita>respeto por los derechos de la minoría</negrita
+>, sin importar cuál sea la decisión de la mayoría. Tanto la mayoría
+como la minoría están cobijadas por los mismos derechos y deberes.</p>
+<imagen src="CS_08_12_CO_IMG07_small.jpg">
+<p>El cuarto principio, que está ligado con el anterior, es la <negrita
+>igualdad</negrita>, en tanto todos los ciudadanos son iguales frente
+a la ley, sin importar su raza, sexo, religión, ideología política
+o condición social y económica. <cursiva>La defensa de la igualdad
+de derechos de los trabajadores es una de las prioridades de la lucha
+sindical. Manifestación del 1° de Mayo en Almería (España), en 2002</cursiva
+>.</p>
+</imagen>
+<p>El quinto principio es la <negrita>libertad</negrita>, pues la
+democracia permite que todos los ciudadanos hagan aquello que no esté
+prohibido por la ley.</p>
+<p>El sexto es la <negrita>representatividad</negrita>. Esta consiste
+en el poder que tienen los ciudadanos para comisionar a otros para
+que los representen en algunos procesos de toma de decisiones. Los
+representantes deben asumir un compromiso político ante la comunidad
+que representan y, para ello, pueden especializarse en la actividad
+política.</p>
+<p>El séptimo es el principio de la <negrita>participación efectiva</negrita
+>, que les exige a los ciudadanos ir más allá de la representatividad
+y ejercer control atento a las acciones del gobierno, para asegurarse
+de que persigan el bienestar colectivo y la justicia.</p>
+<p>Por último, se encuentra el de la <negrita>división del poder político</negrita
+> en diferentes ramas: ejecutiva, legislativa y judicial, que garantiza
+que el poder no va a estar monopolizado por un sector político, sino
+que se dará un equilibrio de poderes en el gobierno.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso080&amp;IdRecurso=RES-AE42BAF36B5E42EBB761D7F1DC7E2618"
+>Describe el Estado democrático</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_12_CO_CA9C97916A44441A9AE7434C245715CD">
+<seccion2Titulo>Los tipos de democracia</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>participación</negrita> de los <negrita>ciudadanos</negrita
+> en las <negrita>decisiones públicas</negrita> es uno de los pilares
+de cualquier democracia. Según como esta se dé, la <negrita>democracia</negrita
+> puede clasificarse en <negrita>tres tipos</negrita>: <negrita>representativa</negrita
+>, <negrita>participativa</negrita> y <negrita>deliberativa</negrita
+>.</p>
+<p>Estos tipos de democracia <negrita>no son excluyentes</negrita
+> en un sistema democrático, sino que pueden darse según la situación
+que requiera la participación ciudadana, el número de ciudadanos que
+intervengan, las condiciones de la participación, etc.</p>
+<p>Por una parte, en la <negrita>democracia representativa</negrita
+>, los ciudadanos eligen a las personas que los <negrita>representarán
+en el gobierno</negrita>. Con base en un voto, los ciudadanos eligen
+al <negrita>candidato</negrita> que mejor representa sus ideas e intereses
+y confían en que él los hará valer en los diferentes ámbitos gubernamentales.</p>
+<destacado><destacadoTitulo>El voto programático</destacadoTitulo>
+<destacadoTexto>
+<p>Dado que el representante que se elige es la voz de la ciudadanía
+ante las decisiones de carácter público, el ciudadano debe hacer un <negrita
+>voto programático</negrita>. Esto implica conocer a cabalidad el
+programa de gobierno del representante, para hacerle seguimiento y
+rendición de cuentas y, si no lo cumple, exigirle que se retire del
+cargo.</p>
+</destacadoTexto></destacado>
+<p>Para que esto sea posible, las <negrita>elecciones</negrita> deben
+tener unas características concretas.</p>
+<table border="1"><colgroup><col/><col/><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Universalidad</negrita></td>
+<td align="center"><negrita>Igualdad</negrita></td>
+<td align="center"><negrita>Libertad</negrita></td>
+<td align="center"><negrita>Frecuencia</negrita></td>
+<td align="center"><negrita>Apertura</negrita></td>
+</tr>
+<tr>
+<td>Todo ciudadano tiene derecho a votar, sin ningún tipo de discriminación.</td>
+<td>Los votos de todos los ciudadanos tienen el mismo valor.</td>
+<td>El voto ciudadano debe realizarse sin coacción.</td>
+<td>Las votaciones deben ser periódicas para garantizar la renovación
+gubernamental.</td>
+<td>Además de votar, cualquier ciudadano puede presentarse para ser
+elegido.</td>
+</tr>
+</tbody>
+</table>
+<p>Los <negrita>partidos políticos</negrita> son elementos importantes
+en la dinámica de la democracia representativa. Estos son <negrita
+>organizaciones de carácter permanente</negrita> que <negrita>articulan
+los intereses</negrita> ciudadanos alrededor de unas ideologías políticas
+particulares. </p>
+<imagen src="CS_08_12_CO_IMG08_small.jpg">
+<p>Los <negrita>candidatos</negrita> se inscriben y son avalados por
+un determinado <negrita>partido político</negrita>, que agrupa intereses
+y necesidades similares a los suyos. <cursiva>El candidato del partido
+Alianza por el Cambio, Ricardo Martinelli, ondea una bandera panameña
+junto a sus seguidores, tras confirmarse su victoria en las elecciones
+presidenciales de 2009</cursiva>.</p>
+</imagen>
+<p>El <negrita>aval</negrita> que los partidos políticos les dan a
+los candidatos implica ciertas responsabilidades, como la de acompañarlos
+en la gestión cuando sean elegidos y hacer control de su administración
+para que cumplan con las <negrita>pautas ideológicas</negrita> del
+partido y las <negrita>promesas hechas a los ciudadanos</negrita> que
+representan.</p>
+<p>Por otra parte, en la <negrita>democracia participativa se les
+consulta directamente</negrita> a los ciudadanos por una decisión
+sobre la cual deben tomar por medio del voto. En otras ocasiones,
+los mismos ciudadanos pueden <negrita>proponer sus propias iniciativas</negrita
+> públicas por distintos canales. </p>
+<imagen ampliable="no" src="CS_08_12_CO_IMG09_small.jpg">
+<p>Los Estados democráticos ofrecen una serie de <negrita>mecanismos
+de participación</negrita>, que son herramientas que permiten que
+los ciudadanos expongan sus ideas y opiniones sobre los asuntos públicos,
+para que sean tomadas en consideración por los gobernantes. <cursiva
+>Estudiantes y profesores en una asamblea llevada a cabo en octubre
+de 2008 en la Universidad de Bolonia, Italia, para decidir las acciones
+contra el plan de reforma universitaria promovido por el gobierno
+italiano</cursiva>.</p>
+</imagen>
+<p>La <negrita>democracia participativa</negrita> también abre espacios
+de participación a los ciudadanos en el <negrita>control al poder
+público</negrita>. Esto asegura que la gestión de los servidores públicos
+se encamine hacia el bienestar general mediante el cumplimiento de
+sus funciones, y evita que en este proceso abusen de su poder o lo
+utilicen para satisfacer necesidades privadas.</p>
+<p>Cuando esta situación ocurre, el ciudadano tiene la obligación
+de <negrita>denunciar</negrita> el delito ante un juez penal, para
+que sea castigado. Igualmente, el ciudadano puede <negrita>presentar
+una queja</negrita> ante uno de los organismos de control gubernamental
+para que investigue la falta y tome medidas de sanción y corrección.</p>
+<destacado><destacadoTitulo>Las veedurías ciudadanas</destacadoTitulo>
+<destacadoTexto>
+<p>Si bien existen organismos de control en el sector oficial, algunos
+ciudadanos deciden complementar esta labor desde la sociedad civil.
+Para esto, se agrupan en <negrita>veedurías ciudadanas</negrita> y <negrita
+>vigilan la gestión pública</negrita> de personas y organizaciones,
+ejerciendo una participación más efectiva.</p>
+</destacadoTexto></destacado>
+<p>En algunos casos, los ciudadanos son convocados o convocan a sesiones
+de <negrita>deliberación</negrita> para escuchar a todos los <negrita
+>involucrados</negrita> en una <negrita>problemática pública</negrita
+>. Cuando son sesiones de carácter más local, es fácil que esta participación
+se haga de manera directa, como en el ágora de la polis griega; cuando
+involucran a más personas, cada sector elige a un representante, quien
+será su voz en la sesión.</p>
+<p>Este modelo se conoce como <negrita>democracia deliberativa</negrita
+>, porque en él todos los involucrados en un asunto público analizan
+la situación desde todos los puntos de vista posibles (deliberan)
+para, a partir de la <negrita>pluralidad</negrita>, obtener un diagnóstico
+sobre ella.</p>
+<imagen src="CS_08_12_CO_IMG10_small.jpg">
+<p>En la <negrita>deliberación</negrita>, a partir del diagnóstico
+del problema, los participantes proponen diferentes soluciones. Luego,
+en plenaria conversan y analizan los beneficios y las dificultades
+de cada una.</p>
+</imagen>
+<p>La <negrita>deliberación</negrita> permite contemplar un amplio
+panorama ofrecido por los implicados en el problema; las voces de
+todos son escuchadas y tenidas en cuenta. Esto permite que la solución,
+por la cual los participantes votan al final de la sesión, sea totalmente <negrita
+>consciente y razonada</negrita>, y busque <negrita>favorecer con
+justicia a la mayoría</negrita> de los involucrados.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso090&amp;IdRecurso=RES-61AE70F0C4C34DAD818C397D36D64F05"
+>Reconoce las características de los tipos de democracia</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_12_CO_CA9C97916A44441A9AE7434C245726DE">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso100&amp;IdRecurso=RES-298CA7F75248450FBE54BE3ACD4471ED"
+>Refuerza tu aprendizaje: Los fundamentos del Estado democrático</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_12_CO_46117B21272E4A8B849C22A1D6E3CA8D">
+<seccion1Titulo>La participación ciudadana</seccion1Titulo>
+<seccion1Texto>
+<p>Participar es “formar parte de algo”. Por ello, la <negrita>participación
+ciudadana</negrita> es el ejercicio que las personas de una comunidad
+política hacen al <negrita>expresar sus opiniones</negrita> sobre
+un asunto público y al <negrita>controlar las acciones</negrita> de
+sus representantes en el gobierno.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso110&amp;IdRecurso=RES-72A71C56AEF840D29DC39C556A09E234"
+>La democracia y la participación ciudadana</enlace>
+</profundiza><seccion2
+id="S2_CS_08_12_CO_CCA0459509A54F35BB071B165D195D7C">
+<seccion2Titulo>Los elementos y valores para la participación ciudadana</seccion2Titulo>
+<seccion2Texto>
+<p>Para que la participación ciudadana no se quede en una simple opinión,
+sino que sea verdaderamente útil en el ejercicio democrático, debe
+cumplir con ciertos elementos y valores:</p>
+<listaSinNumerar>
+<listaElemento>El <negrita>interés colectivo</negrita>, pues la participación
+ciudadana no se da sobre asuntos privados, sino sobre aquellos que
+son de incumbencia de toda una comunidad o de un sector social.</listaElemento>
+<listaElemento>La <negrita>pluralidad</negrita>, pues entre más puntos
+de vista sean incluidos en la participación, más competo será el abordaje
+de los problemas y las soluciones propuestas.</listaElemento>
+<listaElemento>La <negrita>argumentación</negrita> de los puntos de
+vista, lo cual implica contar con suficiente información sobre el
+asunto de interés colectivo, que permita sustentar las ideas en datos
+reales.</listaElemento>
+<listaElemento>El <negrita>respeto</negrita> por los demás puntos
+de vista, pues solo esto asegurará que todas las opiniones sean escuchadas
+y que no se descarte ningún argumento sin haber sido analizado.</listaElemento>
+<listaElemento>La <negrita>libertad</negrita> para expresar las ideas
+y opiniones sin ningún tipo de coacción, así como la de apoyar determinado
+punto de vista.</listaElemento>
+<listaElemento>La <negrita>igualdad</negrita> entre los ciudadanos
+que participan, y que valida las opiniones y acciones de todos de
+la misma forma, sin dar prevalencia a unos o demeritar las de otros.</listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso120&amp;IdRecurso=RES-35B181961D90435C83D95FD61AE7FF93"
+>Identifica los elementos y valores que permiten la participación
+ciudadana</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_12_CO_2355FD508F914550ADC65C22BFA198E8">
+<seccion2Titulo>Los tipos de participación ciudadana</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>participación</negrita> de los ciudadanos en los asuntos
+colectivos puede ser <negrita>directa o indirecta</negrita>.</p>
+<p>En la <negrita>participación directa</negrita>, los <negrita>ciudadanos
+toman directamente las decisiones</negrita> sobre algunos asuntos
+públicos. En la Grecia clásica, cuando surgió la democracia, este
+fue el tipo de participación que se desarrolló. Los ciudadanos se
+reunían en el ágora, y allí discutían los problemas de la comunidad
+y tomaban las decisiones que conducirían a su solución.</p>
+<p>Pero en la actualidad es muy difícil que todos los ciudadanos que
+componen un país se reúnan en un mismo lugar para conversar y tomar
+decisiones sobre los asuntos públicos. Por eso, se desarrolló la <negrita
+>participación indirecta</negrita>, en la cual los <negrita>ciudadanos
+no toman directamente las decisiones</negrita>, sino que le otorgan
+esta potestad a quienes se dedican de lleno al ejercicio de la política.
+Para ello, eligen a las personas que los <negrita>representarán</negrita
+> en el gobierno.</p><?Pub Caret 43?>
+<p>Tradicionalmente, se asocian las votaciones con la <negrita>participación
+indirecta</negrita>. Esto ocurre por la <negrita>estrecha relación</negrita
+> que existe entre la <negrita>participación indirecta y la democracia
+representativa</negrita>. Sin embargo, es un error considerar que
+las elecciones son un mero ejercicio de participación indirecta.</p>
+<imagen ampliable="no" src="CS_08_12_CO_IMG11_small.jpg">
+<p>No deja de haber <negrita>participación directa</negrita> cuando,
+por medio de las elecciones, los ciudadanos toman decisiones públicas
+relevantes y muy personales, sin la intervención de un representante.
+Por ejemplo, la decisión sobre una reforma constitucional. <cursiva
+>Carlos Filipe Ximenes Belo votando en las elecciones para la Asamblea
+Constituyente, celebradas en Timor Oriental en agosto de 2001</cursiva
+>.</p>
+</imagen>
+<p>Adicionalmente, existe <negrita>participación ciudadana directa</negrita
+> cuando los ciudadanos le presentan sus iniciativas o necesidades
+a la esfera gubernamental, por medio de diferentes <negrita>mecanismos
+de participación</negrita>. Asimismo, cuando ejercen su derecho a
+la <negrita>libre asociación y manifestación pública y pacífica</negrita
+>.</p>
+<p>Por último, se da una <negrita>participación directa</negrita> por
+parte de la ciudadanía cuando desarrolla funciones de <negrita>veeduría
+o control político</negrita>, para validar que los procedimientos
+de los funcionarios y organismos públicos son claros, correctos y
+justos.</p>
+<p>Así las cosas, la <negrita>soberanía popular</negrita>, pilar del
+ejercicio democrático, no podría darse en los tiempos actuales sin
+la conjugación y el complemento de los dos tipos de participación
+ciudadana.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso130&amp;IdRecurso=RES-530E5FBC2F1B437384D0833D9D5D1D7D"
+>La participación ciudadana directa e indirecta</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_12_CO_7923E4CA298C4B6B8904A0B815DF57BA">
+<seccion2Titulo>La participación ciudadana en Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>En <negrita>Colombia</negrita>, el panorama político de los <negrita
+>siglos XIX y XX</negrita> estuvo caracterizado por una marcada separación
+ideológica, representada en los <negrita>partidos Liberal y Conservador</negrita
+>. Estos tenían puntos claros de diferenciación, y exaltaron suficientes
+pasiones en la población para generar una enorme y prolongada guerra
+civil, que dejó como consecuencias destrucción, muerte y crisis económica.</p>
+<p>Para ese entonces, la <negrita>participación ciudadana</negrita
+> era únicamente <negrita>indirecta</negrita>, pues todas las iniciativas
+y necesidades de la población eran <negrita>canalizadas por los partidos
+políticos</negrita>, en primera instancia, y en segunda instancia,
+por los <negrita>representantes</negrita>. Estos eran elegidos por
+medio del <negrita>sufragio</negrita>, pero en aquella época no era
+universal sino que cada Constitución política, patrocinada por uno
+de los dos partidos, determinaba quiénes podían votar, por quiénes
+podían hacerlo y quiénes quedaban excluidos del proceso electoral.</p>
+<imagen src="CS_08_12_CO_IMG12_small.jpg">
+<p>Debido al malestar social generado por la situación de exclusión
+política en Colombia, se hizo necesario convocar a una <negrita>Asamblea
+Nacional Constituyente</negrita> que desembocó en la <negrita>Constitución
+Política de 1991</negrita>, la cual abrió las puertas a la <negrita
+>participación ciudadana</negrita> en el país.</p>
+</imagen>
+<p>La creación de la nueva Constitución Política hacia finales del
+siglo XX y que permanece vigente en Colombia, se caracterizó por la
+aplicación del principio del <negrita>pluralismo</negrita>, pues permitió
+que los asambleístas procedieran de <negrita>diferentes partidos y
+movimientos políticos</negrita> del país. De este modo, se fortaleció
+la <negrita>participación indirecta</negrita> y la <negrita>democracia
+representativa</negrita>, ya que distintos sectores sociales que hasta
+ese momento no eran tenidos en cuenta por ser minorías, se vieron
+representados en el gobierno.</p>
+<p>No obstante, la Constitución Política de 1991 es aún más reconocida
+por su aporte a la <negrita>participación directa</negrita> y al impulso
+de la <negrita>democracia participativa</negrita>, pues reglamentó
+los <negrita>mecanismos de participación ciudadana</negrita> y los
+erigió como un <negrita>derecho</negrita> de todos los colombianos. </p>
+<p>De esta forma, la democracia en Colombia garantiza que todos los
+ciudadanos tengan una posibilidad real, igual y libre de <negrita
+>participar efectivamente</negrita> en el gobierno, y que se cumplan
+los principios democráticos, como el de la <negrita>soberanía popular</negrita
+>.</p>
+<seccion3 id="S3_CS_08_12_CO_0B3FE70794B941AFB46DB08C84F12ACC">
+<seccion3Titulo>Los mecanismos de participación ciudadana en Colombia</seccion3Titulo>
+<seccion3Texto>
+<p>El <negrita>artículo 40</negrita> de la Constitución Política de
+1991 establece los medios para hacer efectivo el derecho de la participación
+ciudadana:</p>
+<listaSinNumerar>
+<listaElemento>Elegir y ser elegido.</listaElemento>
+<listaElemento>Tomar parte en elecciones, plebiscitos, referendos,
+consultas populares y otras formas de participación democrática.</listaElemento>
+<listaElemento>Constituir partidos, movimientos y agrupaciones políticas
+sin limitación alguna; formar parte de ellos libremente y difundir
+sus ideas y programas.</listaElemento>
+<listaElemento>Revocar el mandato de los elegidos en los casos y en
+la forma que establecen la Constitución y la ley.</listaElemento>
+<listaElemento>Tener iniciativa en las corporaciones públicas.</listaElemento>
+<listaElemento>Interponer acciones públicas en defensa de la Constitución
+y de la ley.</listaElemento>
+<listaElemento>Acceder al desempeño de funciones y cargos públicos,
+salvo los colombianos, por nacimiento o por adopción, que tengan doble
+nacionalidad. […] Las autoridades garantizarán la adecuada y efectiva
+participación de la mujer en los niveles decisorios de la Administración
+Pública.</listaElemento>
+</listaSinNumerar>
+<p>A su vez, el <negrita>artículo 103</negrita> establece los <negrita
+>mecanismos de participación</negrita> del pueblo colombiano en ejercicio
+de su soberanía: <negrita>voto, plebiscito, referendo, consulta popular,
+cabildo abierto, iniciativa legislativa y revocatoria del mandato</negrita
+>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso140&amp;IdRecurso=RES-8DF4AED4888346A0931DB667811E44D6"
+>Los mecanismos de participación de los colombianos</enlace>
+</profundiza>
+<p>En la práctica, unos mecanismos de participación han sido más empleados
+que otros. Esto se debe a su facilidad de aplicación, a los requisitos
+menos rigurosos que tienen, y a que han sido más impulsados por el
+gobierno y, por ende, conocidos por la ciudadanía. Es el caso del
+voto y del referendo. Sin embargo, todos los mecanismos son igualmente
+útiles.</p>
+<p>Su reglamentación se ha dado a través de las <negrita>Leyes Estatutarias</negrita
+>, como la <negrita>N.° 134 de 1994</negrita>, “por la cual se dictan
+normas sobre mecanismos de participación ciudadana”. Esta reguló la
+iniciativa popular legislativa y normativa, el referendo, la consulta
+popular (del orden nacional, departamental, distrital, municipal y
+local), la revocatoria del mandato, el plebiscito y el cabildo abierto.
+Igualmente, reguló la participación democrática de las organizaciones
+civiles.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso150&amp;IdRecurso=RES-349A1745FDC446B1A0A84115EF6DEF73"
+>Reconoce los mecanismos de participación ciudadana en Colombia</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_08_12_CO_7923E4CA298C4B6B8904A0B815DF18CD">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso160&amp;IdRecurso=RES-D1335F161EFD4D7686B6D86E2A0898DA"
+>Refuerza tu aprendizaje: La participación ciudadana</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_12_CO_538164F905814EC6AED58E5740AA3C6F">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso170&amp;IdRecurso=RES-F0338307762945A493E5DC40AB45FD7A"
+>Competencias: participa en un ejercicio deliberativo sobre un problema
+de la comunidad</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso180&amp;IdRecurso=RES-936B3EA0918E4C429A218CDFC83F56D1"
+>Proyecto: investigación sobre la historia de la democracia</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_08_12_CO_911B119887124981AE592A8650A1C173"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso200&amp;IdRecurso=RES-37624E02CC9A4781A283BCE197992E09"
+>Mapa conceptual del tema La democracia</enlace></mapaconceptual>
+<autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_12_CO_Recurso210&amp;IdRecurso=RES-C1E6DBA730B046E786036B224B08E46A"
+>Evalúa tus conocimientos sobre el tema La democracia</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://www.banrepcultural.org/blaavirtual/ayudadetareas/politica/democracia_sistema_politico"
+>La democracia como sistema político.</enlace>
+<enlace destino="http://obsdemocracia.org">Observatorio de la democracia.</enlace>
+<enlace
+destino="http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=330"
+>Ley 134 de 1994, por la cual se dictan normas de participación ciudadana.</enlace>
+</enlacesreferencia></masinformacion></libro>
