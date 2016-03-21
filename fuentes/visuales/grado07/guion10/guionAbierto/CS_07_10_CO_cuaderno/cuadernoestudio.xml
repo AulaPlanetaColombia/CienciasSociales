@@ -1,419 +1,727 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_07_10_CO">
-  <libroTitulo>El Estado</libroTitulo>
-  <seccion1 id="S1_CS_07_10_CO_BF90ECF1766148078155B35A4E0253C6">
-    <seccion1Titulo>Generalidades sobre el Estado</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_07_10_CO_8CB68E6EDEFA4CF4860C005C8E71DE86">
-        <seccion2Titulo>Los elementos del Estado</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_10_CO_img_01_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso010&amp;IdRecurso=RES-71BB6C7C6278473A87FBB6CE6675A799">El Estado y la nación</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_10_CO_img_02_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso020&amp;IdRecurso=RES-A7BB745313F047B3B7906E85AC9B99DD">Distingue entre Estado y nación</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_10_CO_5366B689CCE8415B99F28A61380D0C1D">
-        <seccion2Titulo>Las organizaciones supranacionales</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_10_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso030&amp;IdRecurso=RES-3454400EB8C344A9A15E6FEDE8C026ED">Recurso F10B-01</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_10_CO_img_04_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso040&amp;IdRecurso=RES-710E398C6F074AA2A4AC920E35126569">Refuerza tu aprendizaje: Las organizaciones supraestatales</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_10_CO_6C07875A92764246842E5E5F757F34F3">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_10_CO_img_05_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso050&amp;IdRecurso=RES-5C0C6393F87F47F09AAA91FC4745C5E0">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_10_CO_EA195E3AAF7243C492A2ACB33F5F986A">
-    <seccion1Titulo>Los orígenes y transformaciones del Estado</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_10_CO_img_06_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso060&amp;IdRecurso=RES-2B5139AC660C4FBC920C02F1A83F9568">Recurso F8-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_07_10_CO_405D3675155B434BB1D71EE8EE905D4D">
-        <seccion2Titulo>El Estado en la Edad Contemporánea</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_07_10_CO_66C23F32667442668EB4ACFBA72FDD06">
-            <seccion3Titulo>El Estado Social y Democrático de Derecho</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_10_CO_img_07_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso070&amp;IdRecurso=RES-AA977D770B5840E1B96352D40B36E27E">El funcionamiento del Estado democrático</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_10_CO_img_08_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso080&amp;IdRecurso=RES-182942611E3E4E5A9FE7C6D44BCB33BB">Describe el Estado democrático</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_07_10_CO_99BAEB4378F34382B23DCC33CE99D852">
-        <seccion2Titulo>El Estado en la Edad contemporánea</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_07_10_CO_CAD9CEAC5432420FA7D6449CE7C349B9">
-            <seccion3Titulo>El Estado totalitario</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_07_10_CO_img_09_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso090&amp;IdRecurso=RES-2ADD87A7A751407A94B57A08430C3486">Recurso M5A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_10_CO_img_10_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso100&amp;IdRecurso=RES-3F1462A253F94F1D85D19163810CEC29">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_10_CO_8890C8F4EECD41929ED5A5767A83AE45">
-    <seccion1Titulo>Las formas del Estado</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_10_CO_img_11_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso110&amp;IdRecurso=RES-72C38F5272CD4A6BA20261D8A1E8CB05">Los tipos de Estado</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_07_10_CO_1D28FFA3917A40F38153E74519CFCC5C">
-        <seccion2Titulo>El Estado totalitario</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_10_CO_img_12_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso120&amp;IdRecurso=RES-F405242641ED4D1BA9AC09BA139AB8C8">Reconoce los elementos que definen los distintos tipos de Estado</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_10_CO_img_13_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso130&amp;IdRecurso=RES-31F33B91080B477BAED50513E3A219C9">Refuerza tu aprendizaje: Los tipos de organización de los Estados</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_07_10_CO_img_16_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso160&amp;IdRecurso=RES-E026D7BEFF7E4D4FAEBCDA838A9F85DE">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_10_CO_E52D6BFB3E56461398150E058AEE7A17">
-    <seccion1Titulo>Colombia, un Estado Social de Derecho</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_10_CO_img_14_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso140&amp;IdRecurso=RES-1D1308C9BCF847CAADAC9A37B66615F4">Recurso F7-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_10_CO_img_15_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso150&amp;IdRecurso=RES-8980E112CE5B4A9D87F968F4C1F66D85">Recurso M2C-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_07_10_CO_D488D40D3DC24828B9BFA9F7C3C70088">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_10_CO_img_17_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso170&amp;IdRecurso=RES-47951A7E1FC548F881E463A1F08375BE">Competencias: estudio de la organización política de un Estado</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_07_10_CO_img_18_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso180&amp;IdRecurso=RES-D8E11BCA329847DBBA0541EAF8239C79">Proyecto: investigación sobre la historia de la democracia</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_07_10_CO_4C019C8823664176A64ED258F253E12C">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso200&amp;IdRecurso=RES-3B05D282A9EF494B9C5F146EE0989C34">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso210&amp;IdRecurso=RES-4CAB92874BA04417B5B1A66F02836C25">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>El Estado</libroTitulo>
+<seccion1 id="S1_CS_07_10_CO_BF90ECF1766148078155B35A4E0253C6">
+<seccion1Titulo>El Estado</seccion1Titulo>
+<seccion1Texto>
+<p>Las<negrita> sociedades humanas</negrita> han debatido a lo largo
+de la historia la cuestión del <negrita>ejercicio del poder político</negrita
+>. Las preguntas relativas a cómo se <negrita>organizan</negrita> y
+cómo se <negrita>gobiernan</negrita> las sociedades, son cuestiones
+a las que responde la <negrita>política</negrita> como actividad desde
+tiempos antiguos. A partir de ellas surgen los análisis de temas políticos
+diversos, como la organización de <negrita>clanes</negrita> en el
+Neolítico, el establecimiento de <negrita>reinos</negrita> en Sumer
+o Acad, el papel del <negrita>consejo de ancianos</negrita> en Fenicia,
+la formación de <negrita>imperios</negrita> como el asirio o el persa,
+la divinidad de los <negrita>faraones</negrita> en Egipto, así como
+las discusiones ciudadanas en la <negrita>polis</negrita> ateniense
+o en el <negrita>Senado</negrita> romano.</p>
+<imagen src="CS_07_10_CO_IMG01_small.jpg">
+<p>“Cuando examinamos los gobiernos, su índole y sus caracteres especiales
+o distintivos, la primera pregunta que nos hacemos, a propósito de
+la ciudad, es: ¿Qué es la ciudad?” (<cursiva>La Política</cursiva
+>, Aristóteles). (Busto de Aristóteles del siglo II, copia de un original
+griego de ca. 325 a. C. Museo Nacional Romano, Roma, Italia).</p>
+</imagen>
+<p>Los ejemplos, que se sitúan en la Antigüedad, evidencian la importancia
+que tiene en la vida humana el <negrita>poder político</negrita>,
+su <negrita>ejercicio</negrita> y <negrita>obediencia</negrita>.</p>
+<imagen src="CS_07_10_CO_IMG02_small.jpg">
+<p>La acumulación de poderes por parte de César, coronado como emperador,
+fue el detonante de la conspiración que llevaron a cabo senadores
+y que le costó la vida ante las puertas del Senado romano. (<cursiva
+>La muerte de César</cursiva>, por Vicenzo Camuccini, 1793-1798. Museo
+y Galería Nacional de Capodimonte, Nápoles, Italia).</p>
+</imagen>
+<p>Ampliar los conocimientos en relación con el poder y la dominación
+es importante, ya que nos permite acercarnos a la noción política
+de obediencia. Te recomendamos consultar este video publicado en la
+web<enlace destino="https://www.youtube.com/watch?v=CjrjGyVs3bI"> [VER]</enlace
+>.</p>
+<seccion2 id="S2_CS_07_10_CO_8CB68E6EDEFA4CF4860C005C8E71EF97">
+<seccion2Titulo>La definición de Estado</seccion2Titulo>
+<seccion2Texto>
+<p>Una de las definiciones más empleadas para referirse al Estado
+fue la del sociólogo alemán Max Weber (1864-1920):</p>
+<p><cursiva>“Comunidad humana que en el interior de un determinado
+territorio –el concepto de territorio es esencial en la definición–
+reclama para sí el monopolio de la coacción física legítima”</cursiva
+>.</p>
+<imagen src="CS_07_10_CO_IMG03_small.jpg">
+<p>“El Estado, como todas las asociaciones o entidades políticas que
+históricamente lo han precedido, es una relación de dominación de
+hombres sobre hombres, que se sostiene por medio de la violencia legítima”
+(<cursiva>El político y el científico</cursiva>, Max Weber).</p>
+</imagen>
+<p>En esta definición se observan tres elementos para comprender el <negrita
+>Estado</negrita> y su <negrita>realidad</negrita>: <negrita>población</negrita
+>, <negrita>territorio</negrita> y <negrita>poder público soberano</negrita
+>.</p>
+<p>Para avanzar en el análisis del Estado, es importante plantearse
+la pregunta: ¿es relevante el Estado en la vida diaria?</p>
+<p>La respuesta es, sin lugar a dudas, afirmativa. Al Estado se le
+encuentra en la calle: al observar un policía pidiendo la cédula,
+al estar detenidos al frente de un semáforo en rojo, al tomar un bus.
+El Estado está presente en los hogares: al firmar el contrato de arrendamiento,
+al pagar los recibos de los servicios públicos o sancionar la violencia
+intrafamiliar. El Estado sabe de nuestra existencia desde la cuna
+hasta la tumba: al registrar el nacimiento o la defunción de una persona.
+En todas esas situaciones el <negrita>Estado</negrita> está <negrita
+>presente</negrita>.</p>
+<imagen src="CS_07_10_CO_IMG04_small.jpg">
+<p>Los ciudadanos están obligados a pagar al Estado impuestos proporcionales
+a sus rentas salariales, su capital, patrimonio y actividades profesionales.</p>
+</imagen>
+<p>Si quieres ampliar tus conocimientos sobre el concepto de Estado
+consulta este video publicado en la web<enlace
+destino="https://www.youtube.com/watch?v=LyKfB7oaF60"> [VER]</enlace
+>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_07_10_CO_8CB68E6EDEFA4CF4860C005C8E71CA07">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso000&amp;IdRecurso="
+>Refuerza tu aprendizaje: El Estado</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_10_CO_EA195E3AAF7243C492A2ACB33F5F195B">
+<seccion1Titulo>Los elementos del Estado</seccion1Titulo>
+<seccion1Texto>
+<p>Los <negrita>elementos</negrita> del Estado como <negrita>persona
+jurídica</negrita> son:</p>
+<listaSinNumerar>
+<listaElemento>El <negrita>elemento territorial</negrita>: espacio
+en el que convive la población y el poder público ejerce su soberanía.</listaElemento>
+<listaElemento>El <negrita>elemento poblacional</negrita>: conglomerado
+humano que, conviviendo en el territorio, está sometido a la soberanía
+del poder público.</listaElemento>
+<listaElemento>El <negrita>poder público</negrita>: conjunto de instituciones
+que, en el territorio y sobre las personas, ejercen la autoridad estatal.</listaElemento>
+<listaElemento>El <negrita>reconocimiento internacional de la soberanía</negrita
+> del Estado.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_07_10_CO_IMG05_small.jpg">
+<p>El esplendor del Estado absolutista se resume en la famosa frase
+atribuida al rey Luis XIV de Francia (1638-1715): “El Estado soy yo”.
+(<cursiva>Luis XIV con traje real</cursiva>, 1701, por Hyacinthe Rigaud.
+Museo del Louvre, París, Francia).</p>
+</imagen>
+<destacado><destacadoTitulo>Estado y soberanía</destacadoTitulo>
+<destacadoTexto>
+<p>La soberanía estatal implica el poder de mando sobre una sociedad
+que se organiza políticamente.</p>
+</destacadoTexto></destacado><seccion2
+id="S2_CS_07_10_CO_8CB68E6EDEFA4CF4860C005C8E71DE86">
+<seccion2Titulo>El territorio</seccion2Titulo>
+<seccion2Texto>
+<p>El territorio es considerado el elemento físico, espacial o geográfico
+donde se asienta la población y en el que ejerce el Estado su soberanía.
+Actualmente, se hace énfasis en su construcción social y se destaca
+su <negrita>importancia</negrita> para el <negrita>desarrollo</negrita
+> y el mejoramiento de la calidad de vida de la población. Su extensión
+se fija en <negrita>tratados internacionales</negrita> que señalan
+las <negrita>fronteras políticas</negrita>. Una frontera política
+es una línea imaginaria que separa dos territorios contiguos, en especial
+dos países.</p>
+<destacado><destacadoTitulo>El territorio</destacadoTitulo>
+<destacadoTexto>
+<p>La noción de territorio aparece reflejada en muchos conceptos políticos,
+económicos y sociales: <cursiva>“Las fronteras territoriales son…”;
+“ocupamos el territorio”; “guerra de territorios”; “desarrollo territorial
+de la región”; “es un territorio rico en especies naturales”; “se
+explota el territorio”</cursiva>.</p>
+</destacadoTexto></destacado>
+<p>Aunque generalmente el territorio estatal es fijo y está determinado,
+este puede cambiar al <negrita>acrecentarse</negrita> o <negrita>disminuirse</negrita
+> por causas diversas, como las invasiones, ocupaciones o anexiones
+producto de las guerras; por motivo de decisiones judiciales de organismos
+internacionales; a través de cesiones realizadas por un Estado; y
+por otras causas, como divisiones o fusiones entre países –en ocasiones
+mutuamente acordadas–, desastres naturales y modificaciones geográficas
+del relieve.</p>
+<imagen src="CS_07_10_CO_IMG06_small.jpg">
+<p>En la guerra se ocupa el territorio. En el siglo XX se presentaron
+anexiones que generaron conflagraciones. Austria, Checoslovaquia o
+Polonia son ejemplos de ello. (<cursiva>La retirada de Dunkerque</cursiva
+>, mayo de 1940, por Ch. Cundall).</p>
+</imagen>
+<p>El territorio está compuesto por:</p>
+<listaSinNumerar>
+<listaElemento><negrita>El suelo</negrita>: superficie terrestre en
+la que se asienta la población y se ejerce la soberanía.</listaElemento>
+<listaElemento><negrita>El subsuelo</negrita>: espacio físico que
+se ubica debajo del suelo, el cual tiene forma de cono y cuyo vértice
+se encuentra en el centro de la Tierra.</listaElemento>
+<listaElemento><negrita>El espacio aéreo</negrita>: espacio físico
+que se ubica encima del territorio del Estado, y que incluye la órbita
+geoestacionaria, el espectro electromagnético y el espacio situado
+sobre el mar territorial.</listaElemento>
+<listaElemento><negrita>El mar territorial</negrita>: zona de mar
+adyacente a las aguas interiores y las costas del Estado que incluye
+el lecho y subsuelo marítimo. Su extensión es de 12 millas náuticas,
+aproximadamente 22 kilómetros, según la Convención de las Naciones
+Unidas sobre el Derecho del Mar.</listaElemento>
+<listaElemento><negrita>La zona contigua</negrita>: porción de mar
+situada inmediatamente después del mar territorial en la que el Estado
+tiene facultades de jurisdicción y fiscalización en materias migratoria,
+aduanera, fiscal, ambiental, sanitaria, de seguridad y de defensa
+nacional. No puede extenderse más allá de 24 millas marinas contadas
+desde las líneas de base a partir de las cuales se mide la anchura
+del mar territorial, según la Convención de las Naciones Unidas sobre
+el Derecho del Mar.</listaElemento>
+<listaElemento><negrita>La zona económica exclusiva</negrita>: área
+marina situada más allá del mar territorial y adyacente a este, donde
+el Estado tiene derechos para la explotación, conservación y administración
+de recursos naturales, tanto vivos como no vivos, del lecho y subsuelo
+del mar, y con respecto a otras actividades con miras a la exploración
+y explotación económicas de la zona, entre ellas, la producción de
+energía derivada del agua, de las corrientes y de los vientos. Según
+la Convención de las Naciones Unidas sobre el Derecho del Mar, la
+zona económica exclusiva no se podrá extender más allá de 200 millas
+marinas contadas desde las líneas de base a partir de las cuales se
+mide la anchura del mar territorial.</listaElemento>
+<listaElemento><negrita>La plataforma continental</negrita>: comprende
+el lecho y el subsuelo de las áreas submarinas o sumergidas bajo el
+mar, que se extienden más allá del mar territorial del Estado, mar
+adentro, hasta una distancia de 200 millas náuticas, contadas desde
+las líneas de base a partir de las cuales se mide la anchura del mar
+territorial –distancias definidas según la Convención de las Naciones
+Unidas sobre el Derecho del Mar–.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_07_10_CO_IMG07_small.jpg">
+<p>Los elementos del territorio del Estado son el suelo, el subsuelo,
+el espacio aéreo, la órbita geoestacionaria, el espectro electromagnético,
+el mar territorial, la zona contigua, la zona económica exclusiva
+y la plataforma continental. Aunque usualmente los gobiernos ejercen
+soberanía sobre estos elementos, en algunas ocasiones ocurren disputas
+entre distintos Estados en torno a un mismo territorio, como ocurre
+actualmente entre Israel y Palestina.</p>
+</imagen>
+<p>Es importante señalar que las <negrita>embajadas</negrita>, en
+su calidad de sedes de misiones diplomáticas, son consideradas por
+el Derecho Internacional Público como parte del <negrita>territorio
+del Estado anfitrión</negrita>, pero gozan de una inviolabilidad especial
+que impide que los agentes del Estado receptor o anfitrión puedan
+entrar en ellas sin permiso del jefe de la embajada o misión diplomática.
+Igualmente, para efectos de la aplicación de las leyes se consideran
+territorio del Estado las <negrita>naves privadas</negrita> en <negrita
+>alta mar</negrita> y las <negrita>militares</negrita> en <negrita
+>alta mar</negrita> o <negrita>aguas territoriales</negrita> que izan
+u ondean el respectivo pabellón nacional.</p>
+<imagen src="CS_07_10_CO_IMG08_small.jpg">
+<p>La presencia de embajadores es la principal garantía del reconocimiento
+de un Estado en el contexto internacional. Por ejemplo, en la fotografía,
+el dictador español Francisco Franco recibía en 1953 al embajador
+estadounidense, garantizando que su régimen era reconocido por el
+gobierno norteamericano.</p>
+</imagen>
+<destacado><destacadoTitulo>El territorio colombiano</destacadoTitulo>
+<destacadoTexto>
+<p><negrita>Artículo 101 de la Constitución Política de Colombia</negrita
+></p>
+<p>Los límites de Colombia son los establecidos en los tratados internacionales
+aprobados por el Congreso, debidamente ratificados por el Presidente
+de la República, y los definidos por los laudos arbitrales en que
+sea parte la Nación.</p>
+<p>Los límites señalados en la forma prevista por esta Constitución,
+solo podrán modificarse en virtud de tratados aprobados por el Congreso,
+debidamente ratificados por el Presidente de la República.</p>
+<p>Forman parte de Colombia, además del territorio continental, el
+archipiélago de San Andrés, Providencia, Santa Catalina y Malpelo,
+además de las islas, islotes, cayos, morros y bancos que le pertenecen.
+También son parte de Colombia, el subsuelo, el mar territorial, la
+zona contigua, la plataforma continental, la zona económica exclusiva,
+el espacio aéreo, el segmento de la órbita geoestacionaria, el espectro
+electromagnético y el espacio donde actúa, de conformidad con el Derecho
+nternacional o con las leyes colombianas a falta de normas internacionales.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso010&amp;IdRecurso=RES-71BB6C7C6278473A87FBB6CE6675A799"
+>El Estado y la nación</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_10_CO_5366B689CCE8415B99F28A61380D2D2E">
+<seccion2Titulo>La población</seccion2Titulo>
+<seccion2Texto>
+<p>La población es considerada el elemento humano o subjetivo del
+Estado que se asienta en el territorio y sobre quienes ejerce su poder
+soberano. Está conformada por los <negrita>nacionales</negrita> del
+Estado, vivan en el territorio o no, y por los <negrita>extranjeros</negrita
+> residenciados en el país o que están de paso por su territorio.
+Este alcance en la definición es importante para el <negrita>cumplimiento</negrita
+> de la <negrita>Constitución Política</negrita> y las <negrita>leyes</negrita
+> que rigen en un territorio, tal como se señala, por ejemplo, en
+el artículo 4.º de la Constitución Política de Colombia:</p>
+<recuerda><recuerdaTexto>
+<p>“La Constitución es norma de normas. En todo caso de incompatibilidad
+entre la Constitución y la ley u otra norma jurídica, se aplicarán
+las disposiciones constitucionales.</p>
+<p>Es deber de los nacionales y de los extranjeros en Colombia acatar
+la Constitución y las leyes, y respetar y obedecer a las autoridades”.</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>La población</destacadoTitulo>
+<destacadoTexto>
+<p>La noción de población aparece reflejada explícita o implícitamente
+en frases como las siguientes: <cursiva>“Los colombianos son alegres
+y festivos”; “se extraditó un colombiano a Estados Unidos”; “los colombianos
+se movilizan por la paz”; “muchos extranjeros vienen a conocer Colombia”;
+“la tradición católica es importante para la población”; “según el
+reloj de la población del DANE son 48 022 774 colombianos”</cursiva
+>.</p>
+</destacadoTexto></destacado>
+<imagen src="CS_07_10_CO_IMG09_small.jpg">
+<p>La población vive sus manifestaciones culturales. Alrededor del
+mundo los festivales, carnavales y ferias son espacios donde se vive
+la identidad. El carnaval de Venecia, uno de los más antiguos del
+planeta, expresa la tradición festiva de la cultura europea.</p>
+</imagen>
+<p>¿Cuál es la importancia de la población para el Estado? La respuesta
+se puede encontrar al identificar las características de las poblaciones
+y su relación con el Estado. De ser un conglomerado humano sobre el
+que se ejerce el poder político, la población se puede constituir
+en <negrita>nación</negrita> cuando se trata de una comunidad que
+habita un mismo territorio y que comparte rasgos de identidad propios
+y distintos a los de otras naciones.</p>
+<p>El <negrita>tiempo</negrita>, así como el <negrita>espacio territorial</negrita
+>, son claves en este proceso. El pasado y el presente se conjugan
+en una vida en común y en sentimientos de solidaridad que <negrita
+>identifican</negrita> a las personas, las unen y les permiten proyectar
+un futuro común. Se trata de <negrita>vínculos</negrita> que se establecen
+a partir de una <negrita>historia</negrita> compartida, de la <negrita
+>lengua</negrita> que se habla, de las <negrita>tradiciones</negrita
+> y <negrita>costumbres</negrita> que se forman, de la <negrita>etnia</negrita
+>. Así, se llega a identificar a las poblaciones que se convierten
+en naciones con sus diversas particularidades, sean estos argentinos,
+colombianos, venezolanos, chinos, japoneses, italianos, españoles
+o canadienses, por ejemplo.</p>
+<imagen src="CS_07_10_CO_IMG10_small.jpg">
+<p>El fútbol es una de las expresiones contemporáneas de la nacionalidad
+que se vive con más pasión. Brasil y los “torcedores” o hinchas, por
+ejemplo, vibran por su selección de fútbol y los clubes locales, convirtiendo
+a este deporte en uno de los elementos que los unen y los identifican.</p>
+</imagen>
+<destacado><destacadoTitulo>La población colombiana</destacadoTitulo>
+<destacadoTexto>
+<p><negrita>Artículo  96 de la Constitución Política de Colombia</negrita
+></p>
+<p>Son nacionales colombianos:</p>
+<listaNumerada>
+<listaElemento>Por nacimiento:<listaSinNumerar>
+<listaElemento>Los naturales de Colombia, que con una de dos condiciones:
+que el padre o la madre hayan sido naturales o nacionales colombianos
+o que, siendo hijos de extranjeros, alguno de sus padres estuviere
+domiciliado en la República en el momento del nacimiento y;</listaElemento>
+<listaElemento>Los hijos de padre o madre colombianos que hubieren
+nacido en tierra extranjera y luego se domiciliaren en territorio
+colombiano o registraren en una oficina consular de la República.</listaElemento>
+</listaSinNumerar></listaElemento>
+<listaElemento>Por adopción:<listaSinNumerar>
+<listaElemento>Los extranjeros que soliciten y obtengan carta de naturalización,
+de acuerdo con la ley, la cual establecerá los casos en los cuales
+se pierde la nacionalidad colombiana por adopción;</listaElemento>
+<listaElemento>Los latinoamericanos y del Caribe por nacimiento domiciliados
+en Colombia, que con autorización del Gobierno y de acuerdo con la
+ley y el principio de reciprocidad, pidan ser inscritos como colombianos
+ante la municipalidad donde se establecieren, y;</listaElemento>
+<listaElemento>Los miembros de los pueblos indígenas que comparten
+territorios fronterizos, con aplicación del principio de reciprocidad
+según tratados públicos.</listaElemento>
+</listaSinNumerar></listaElemento>
+</listaNumerada>
+<p>Ningún colombiano por nacimiento podrá ser privado de su nacionalidad.
+La calidad de nacional colombiano no se pierde por el hecho de adquirir
+otra nacionalidad. Los nacionales por adopción no estarán obligados
+a renunciar a su nacionalidad de origen o adopción. Quienes hayan
+renunciado a la nacionalidad colombiana podrán recobrarla con arreglo
+a la ley.</p>
+</destacadoTexto></destacado>
+<p>Es importante establecer la diferencia entre palabras que usamos
+indistintamente cuando nos referimos a la población: <negrita>pueblo</negrita
+>, <negrita>nacionales</negrita>, <negrita>ciudadanos</negrita>.</p>
+<listaSinNumerar>
+<listaElemento><negrita>Pueblo</negrita>: se emplea para designar
+a la población que, en momentos determinados, se expresa socialmente
+en la configuración del poder político. Se encuentra este alcance,
+por ejemplo, en frases como las siguientes: <cursiva>“el pueblo se
+pronunció el 20 de julio de 1810”; “el pueblo marchó a las urnas”;
+“en 1948 el pueblo derramó sangre ante el asesinato de Gaitán”; “en
+1991 el pueblo eligió la Asamblea Constituyente”</cursiva>. Hay una
+connotación política que apela, en ocasiones, a la revolución.</listaElemento>
+<listaElemento><negrita>Nacionales</negrita>: se usa para mostrar
+el <negrita>vínculo político y jurídico</negrita> entre un individuo
+y el Estado. Su expresión se da en una realidad: los nacionales son <negrita
+>titulares de mayores derechos</negrita> que aquellos que no son nacionales,
+es decir, que los extranjeros.<br/>Se han elaborado <negrita>sistemas</negrita
+> para determinar quién es nacional: <cursiva>ius sanguinis</cursiva
+>, para  el descendiente de padre o madre nacional de un Estado; <cursiva
+>ius soli</cursiva>, referido a quien nace en el territorio del Estado,
+sin importar la nacionalidad de sus padres; <cursiva>ius domicilii</cursiva
+>, para quien se domicilia en el territorio de un Estado. Los sistemas <negrita
+>se combinan</negrita>. En algunas legislaciones se permite la <negrita
+>nacionalidad múltiple</negrita> o <negrita>doble nacionalidad</negrita
+> y la posibilidad de renunciar a la nacionalidad y readquirirla.<br
+/>Un extranjero, es importante señalarlo, puede adquirir la nacionalidad
+de un Estado. Es lo que se denomina <negrita>naturalización</negrita
+>. De esa forma, esas personas obtienen los derechos que poseen los
+nacionales por nacimiento. Aunque, en ocasiones, con restricciones
+ligadas al acceso a cargos de elección ciudadana, por ejemplo, a la
+posibilidad de postularse para presidente o vicepresidente.<br/>La
+noción de nacionalidad aparece reflejada en frases como las siguientes:<cursiva
+> “De qué nacionalidad es”, “soy nacional de Ecuador”, “adquirí la
+nacionalidad colombiana”, “mi primo adquirió la nacionalidad americana”</cursiva
+>.</listaElemento>
+<listaElemento><negrita>Ciudadanía</negrita>: aunque este concepto
+se usa de muchas formas siempre se resalta el que se refiere al <negrita
+>ejercicio de derechos políticos</negrita>: <negrita>elegir</negrita
+> y <negrita>ser elegido</negrita>, participar en las <negrita>elecciones</negrita
+>, ejercer el voto. En los países este <negrita>estatus jurídico</negrita
+> está dado por la <negrita>mayoría de edad</negrita>. Por eso se
+puede ser, jurídicamente, nacional y no ciudadano, como ocurre en
+el caso de los niños. También se puede ser mayor de edad y no poder
+ejercer los derechos derivados de la ciudadanía, como ocurre en determinados
+eventos de comisión de delitos y por la decisión de un juez.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_07_10_CO_IMG11_small.jpg">
+<p>El ejercicio de los derechos políticos se expresa en las elecciones
+periódicas que se celebran en Estados democráticos. Elegir entre los
+candidatos que se presentan o presentarse como candidato, es manifestación
+de esta realidad. En la foto, el presidente de Bielorrusia Alyaksandr
+Lukashenka, junto a su hijo menor Nikolai, durante las elecciones
+parlamentarias celebradas en septiembre de 2012.</p>
+</imagen>
+<destacado><destacadoTitulo>La ciudadanía colombiana</destacadoTitulo>
+<destacadoTexto>
+<p><negrita>Artículo  98 de la Constitución Política de Colombia</negrita
+></p>
+<p>La ciudadanía se pierde de hecho cuando se ha renunciado a la nacionalidad,
+y su ejercicio se puede suspender en virtud de decisión judicial en
+los casos que determine la ley.</p>
+<p>Quienes hayan sido suspendidos en el ejercicio de la ciudadanía,
+podrán solicitar su rehabilitación.</p>
+<p><negrita>Parágrafo</negrita>. Mientras la ley no decida otra edad,
+la ciudadanía se ejercerá a partir de los dieciocho años.</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso020&amp;IdRecurso=RES-A7BB745313F047B3B7906E85AC9B99DD"
+>Distingue entre Estado y nación</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_10_CO_5366B689CCE8415B99F28A61380D0C1D">
+<seccion2Titulo>Las instituciones</seccion2Titulo>
+<seccion2Texto>
+<p>El poder público institucionalizado es considerado el <negrita
+>espacio formal</negrita> que regula la conducta de la población asentada
+en el territorio del Estado. Este poder se ve y siente, se vive, está
+presente y actúa. De ahí su importancia en la vida de la población
+y de la necesidad de su vigencia en todo el territorio nacional. Veamos
+algunas de sus características generales:</p>
+<listaSinNumerar>
+<listaElemento>El poder público institucionalizado se entiende como
+la capacidad que posee el Estado y sus instituciones para <negrita
+>tomar decisiones</negrita> y <negrita>hacerlas cumplir</negrita>,
+que sean efectivas y eficaces. Decisiones que toman la forma de <negrita
+>Derecho</negrita>, es decir, de normas jurídicas obligatorias para
+sus destinatarios. Ese es su elemento diferenciador frente a otras
+normas que rigen la conducta, como las morales, religiosas o sociales.</listaElemento>
+<listaElemento>El Estado puede recurrir a la <negrita>fuerza legítima</negrita
+> para garantizar que se cumplan o apliquen las normas que adoptan
+las instituciones del poder público y que configuran el Derecho. Para
+esto, se asigna al Estado el monopolio de la fuerza legítima, <negrita
+>monopolio</negrita> que posee frente a la <negrita>población</negrita
+> y rige en el <negrita>territorio</negrita> y que ha sido justificado
+desde diversas teorías, las más importantes de naturaleza contractualista.</listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>Las ramas del poder público</destacadoTitulo>
+<destacadoTexto>
+<p>La Presidencia de la República, el Congreso y la Rama Judicial
+representan las tres ramas del poder público. Encontramos referencias
+al poder público institucionalizado en frases como las siguientes: <cursiva
+>“El presidente de la República promulgó la Ley 1482 de 2011 para
+luchar contra la discriminación”; “el juez ordenó la captura de los
+delincuentes”; “el ejército dio de baja a varios delincuentes”; “el
+policía de tránsito impuso un comparendo a mi papá”; “mi mamá debe
+pagar el impuesto a la renta”; “el Congreso se posesionó el 20 de
+julio de 2014”</cursiva>.</p>
+</destacadoTexto></destacado>
+<imagen src="CS_07_10_CO_IMG12_small.jpg">
+<p>En los sistemas presidencialistas el poder del Estado se muestra
+a través de la institución presidencial. En la Constitución Política
+de Colombia se señala: “Artículo 188. El Presidente de la República
+simboliza la unidad nacional y al jurar el cumplimiento de la Constitución
+y de las leyes, se obliga a garantizar los derechos y libertades de
+todos los colombianos”.</p>
+</imagen>
+<p>El poder público institucionalizado posee un carácter <negrita
+>exclusivo</negrita>: solo lo puede ejercer el Estado en el territorio.
+Así mismo, tiene una naturaleza <negrita>excluyente</negrita>: ningún
+otro individuo, familia, grupo o comunidad puede tener igual o superior
+poder en el territorio.</p>
+<p>Debe resaltarse la <negrita>función organizativa de la Constitución
+Política</negrita>, en la cual se establece la estructura orgánica
+del Estado (ramas, órganos, funciones y competencias) y los valores,
+principios y derechos que debe realizar.</p>
+<destacado><destacadoTitulo>El poder público</destacadoTitulo>
+<destacadoTexto>
+<p><negrita>Artículo 113 de la Constitución Política de Colombia</negrita
+></p>
+<p>Son ramas del poder público, la legislativa, la ejecutiva y la
+judicial.</p>
+<p>Además de los órganos que las integran existen otros, autónomos
+e independientes, para el cumplimiento de las demás funciones del
+Estado. Los diferentes órganos del Estado tienen funciones separadas,
+pero colaboran armónicamente para la realización de sus fines.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso030&amp;IdRecurso=RES-3454400EB8C344A9A15E6FEDE8C026ED"
+>Objetivos de las organizaciones supranacionales</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_07_10_CO_6C07875A92764246842E5E5F757F15A4">
+<seccion2Titulo>La soberanía</seccion2Titulo>
+<seccion2Texto>
+<p>Hemos visto que el <negrita>Estado</negrita> ejerce internamente
+el <negrita>poder político</negrita> como soberano en un territorio.
+Ese reconocimiento a la soberanía estatal es uno de los elementos
+que se conocen como atributos de su existencia y realidad como persona
+jurídica. En el ámbito <negrita>externo</negrita>, en el de la comunidad
+internacional, se requiere que los <negrita>otros Estados</negrita
+> y los <negrita>organismos internacionales</negrita> relevantes lo
+reconozcan políticamente y que, por tanto, tenga derechos y cumpla
+obligaciones en el ámbito internacional.</p>
+<p>Este elemento ha tenido resonancia en el siglo XX en relación,
+entre otros casos, con el reconocimiento del Estado de Israel en 1948,
+la desintegración de la antigua Unión Soviética y su división en nuevos
+Estados independientes (como consecuencia de los procesos vividos
+desde 1985) o la de Yugoslavia (a partir de los sucesos acaecidos
+en 1990).</p>
+<p>También aparece este elemento en las peticiones de Palestina para
+ir avanzando en su reconocimiento como Estado y como país  observador
+en la ONU, y en el progresivo reconocimiento como Estado que ha ido
+logrando Kosovo por la comunidad internacional.. Recientemente, la
+subdivisión de Sudán en dos países fue otro momento en el que apareció
+el tema cuando la comunidad de Naciones reconoció a Sudán del Sur
+como nuevo Estado miembro de la ONU.</p>
+<destacado><destacadoTitulo>Relaciones internacionales</destacadoTitulo>
+<destacadoTexto>
+<p>Los Estados interactúan directamente entre sí o por medio de organismos
+multilaterales integrados por varios países. Todo esto constituye
+el universo de las relaciones internacionales. Un elemento relevante
+para que los Estados puedan existir como tales, es el reconocimiento
+de su soberanía en el contexto internacional. A diario, las relaciones
+internacionales entre Estados soberanos aparece reflejada en frases
+como las siguientes: <cursiva>“los presidentes de Colombia y Estados
+Unidos se reunieron”; “el embajador de Colombia en México habló sobre
+las relaciones comerciales entre los dos países”; “la ONU apoya el
+proceso de paz”; “una delegación diplomática del Perú fue recibida
+en el Congreso”; “se firmó un acuerdo de cooperación judicial entre
+Colombia y Brasil”; “el Congreso discute el Tratado de Libre Comercio
+suscrito entre Colombia y Corea del Sur”</cursiva>.</p>
+</destacadoTexto></destacado>
+<imagen src="CS_07_10_CO_IMG13_small.jpg">
+<p>“Las Naciones Unidas son una organización internacional fundada
+en 1945 tras la Segunda Guerra Mundial por 51 países que se comprometieron
+a mantener la paz y la seguridad internacionales, fomentar entre las
+naciones relaciones de amistad y promover el progreso social, la mejora
+del nivel de vida y los derechos humanos”, se señala en el sitio web
+de la Organización. Actualmente, la ONU tiene 193 Estados miembros
+y dos Estados observadores. En la fotografía, el Palacio de las Naciones
+Unidas en Ginebra, Suiza.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_07_10_CO_6C07875A92764246842E5E5F757F34F3">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso040&amp;IdRecurso=RES-710E398C6F074AA2A4AC920E35126569"
+>Identifica características de las organizaciones supranacionales</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso050&amp;IdRecurso=RES-5C0C6393F87F47F09AAA91FC4745C5E0"
+>Refuerza tu aprendizaje: Generalidades sobre el Estado</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_10_CO_EA195E3AAF7243C492A2ACB33F5F986A">
+<seccion1Titulo>Los orígenes y las transformaciones del Estado</seccion1Titulo>
+<seccion1Texto>
+<p>El <negrita>Estado moderno</negrita> tiene su origen en la <negrita
+>Edad Moderna</negrita>. Esa idea es clave, pues permite entenderlo
+como parte de los procesos históricos vividos en Europa occidental
+a partir del <negrita>siglo XV</negrita> en lo que se conoce como
+el <negrita>Renacimiento</negrita>.</p>
+<destacado><destacadoTitulo>Procesos históricos para el surgimiento
+del Estado en Europa</destacadoTitulo><destacadoTexto>
+<p>Varios procesos determinaron el surgimiento del Estado moderno.
+Entre los más relevantes están los siguientes: la recuperación demográfica,
+la expansión económica a partir de la consolidación del capitalismo
+y la formación de la burguesía, los desarrollos científicos y tecnológicos,
+los descubrimientos geográficos en los que se aventuraron exploradores
+y reinos, la división de la Iglesia católica, apostólica y romana
+–en el contexto de las Reformas luterana, calvinista y anglicana y
+la Contrarreforma papal de Trento–, las guerras de religión, los desarrollos
+de las ciudades, el resurgimiento del Derecho romano, la formación
+de sentimientos nacionales que identificaron a grupos humanos que
+desarrollaban conciencia de comunidad por la historia compartida,
+los lazos generados, la lengua usada, las creencias comunes.</p>
+</destacadoTexto></destacado>
+<p>Así las cosas, estudiar el origen del Estado moderno nos lleva
+necesariamente a recordar la forma como se organizó el <negrita>poder
+político</negrita> en la <negrita>Baja Edad Media</negrita>.</p>
+<imagen src="CS_07_10_CO_IMG14_small.jpg">
+<p>De forma paralela a la progresiva concentración de poder en manos
+de las monarquías, se crearon los primeros parlamentos. Uno de los
+más viejos de Europa es el Parlamento de Inglaterra, creado en 1213.</p>
+</imagen>
+<listaSinNumerar>
+<listaElemento>Por un lado, la organización estuvo marcada por el <negrita
+>ejercicio del poder</negrita> del <negrita>señor</negrita> en un <negrita
+>territorio</negrita>, que adoptó distintas modalidades, incluidos
+reinos, principados, feudos o ciudades. El señor administraba justicia
+para resolver los conflictos, fijaba impuestos a los pobladores y
+hasta llamaba a las armas en caso de guerra.</listaElemento>
+<listaElemento>Por otro lado, ese poder fue limitado por la presencia
+de <negrita>asambleas de carácter representativo</negrita> (cortes,
+parlamentos, Estados generales) que, en primer lugar, reclamaron los <negrita
+>privilegios estamentales</negrita> o de clase obtenidos a lo largo
+del tiempo y, en segundo lugar, apoyaron al señor en el gobierno del
+territorio.</listaElemento><?Pub Caret 51?>
+</listaSinNumerar>
+<p>Como se percibe, el carácter principal en esta experiencia política
+medieval es el de la <negrita>coexistencia territorial</negrita> de
+una <negrita>pluralidad</negrita> de <negrita>fuerzas</negrita> que
+se <negrita>reconocen</negrita>, <negrita>limitan</negrita> y crean <negrita
+>solidaridades</negrita> o <negrita>lealtades</negrita> comunes<enlace
+destino="https://www.youtube.com/watch?v=ttdPHD0qeGk"> [VER]</enlace
+>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso060&amp;IdRecurso=RES-2B5139AC660C4FBC920C02F1A83F9568"
+>Recurso F8-01</enlace>
+</profundiza><seccion2
+id="S2_CS_07_10_CO_405D3675155B434BB1D71EE8EE905D4D">
+<seccion2Titulo>El Estado en la Edad Contemporánea</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<seccion3 id="S3_CS_07_10_CO_66C23F32667442668EB4ACFBA72FDD06">
+<seccion3Titulo>El Estado Social y Democrático de Derecho</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso070&amp;IdRecurso=RES-AA977D770B5840E1B96352D40B36E27E"
+>El funcionamiento del Estado democrático</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso080&amp;IdRecurso=RES-182942611E3E4E5A9FE7C6D44BCB33BB"
+>Describe el Estado democrático</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_07_10_CO_99BAEB4378F34382B23DCC33CE99D852">
+<seccion2Titulo>El Estado en la Edad contemporánea</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<seccion3 id="S3_CS_07_10_CO_CAD9CEAC5432420FA7D6449CE7C349B9">
+<seccion3Titulo>El Estado totalitario</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso090&amp;IdRecurso=RES-2ADD87A7A751407A94B57A08430C3486"
+>Recurso M5A-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso100&amp;IdRecurso=RES-3F1462A253F94F1D85D19163810CEC29"
+>Recurso M101A-02</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+</seccion1Texto></seccion1><seccion1
+id="S1_CS_07_10_CO_8890C8F4EECD41929ED5A5767A83AE45">
+<seccion1Titulo>Las formas del Estado</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso110&amp;IdRecurso=RES-72C38F5272CD4A6BA20261D8A1E8CB05"
+>Los tipos de Estado</enlace>
+</profundiza><seccion2
+id="S2_CS_07_10_CO_1D28FFA3917A40F38153E74519CFCC5C">
+<seccion2Titulo>El Estado totalitario</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso120&amp;IdRecurso=RES-F405242641ED4D1BA9AC09BA139AB8C8"
+>Reconoce los elementos que definen los distintos tipos de Estado</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso130&amp;IdRecurso=RES-31F33B91080B477BAED50513E3A219C9"
+>Refuerza tu aprendizaje: Los tipos de organización de los Estados</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_10_CO_img_16_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso160&amp;IdRecurso=RES-E026D7BEFF7E4D4FAEBCDA838A9F85DE"
+>Recurso M101A-03</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_07_10_CO_E52D6BFB3E56461398150E058AEE7A17">
+<seccion1Titulo>Colombia, un Estado Social de Derecho</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso140&amp;IdRecurso=RES-1D1308C9BCF847CAADAC9A37B66615F4"
+>Recurso F7-01</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_10_CO_img_15_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso150&amp;IdRecurso=RES-8980E112CE5B4A9D87F968F4C1F66D85"
+>Recurso M2C-01</enlace>
+</practica></seccion1Texto></seccion1><seccion1
+id="S1_CS_07_10_CO_D488D40D3DC24828B9BFA9F7C3C70088">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_10_CO_img_17_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso170&amp;IdRecurso=RES-47951A7E1FC548F881E463A1F08375BE"
+>Competencias: estudio de la organización política de un Estado</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_07_10_CO_img_18_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso180&amp;IdRecurso=RES-D8E11BCA329847DBBA0541EAF8239C79"
+>Proyecto: investigación sobre la historia de la democracia</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_07_10_CO_4C019C8823664176A64ED258F253E12C"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso200&amp;IdRecurso=RES-3B05D282A9EF494B9C5F146EE0989C34"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso210&amp;IdRecurso=RES-4CAB92874BA04417B5B1A66F02836C25"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+</enlacesreferencia></masinformacion></libro>

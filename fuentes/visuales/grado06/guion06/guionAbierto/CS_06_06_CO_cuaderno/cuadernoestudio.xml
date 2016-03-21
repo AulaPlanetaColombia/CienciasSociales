@@ -72,11 +72,6 @@ id="S2_CS_06_06_CO_6E2887A924E14C1F875A483521389DC7">
 <p>La <negrita>arqueología</negrita> ha establecido etapas que permiten
 conocer la evolución cultural de los pueblos indígenas que ocuparon
 el territorio que hoy es Colombia.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso020&amp;IdRecurso=RES-2A4EFA1843694A8DB5C2A3931542CB45"
->Conoce las etapas arqueológicas de Colombia</enlace>
-</practica>
 <table border="1"><colgroup><col/><col/><col/></colgroup>
 <tbody>
 <tr>
@@ -499,12 +494,8 @@ artístico, empleando técnicas complejas.</p>
 en Villa de Leyva, fue empleado como observatorio astronómico y sitio
 ceremonial por la cultura muisca.</p>
 </imagen>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso060&amp;IdRecurso=RES-929FD0489A57449D9269FD31224A49EE"
->Reconoce características de las culturas tairona y muisca</enlace>
-</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
-<seccion2 id="S2_CS_06_06_CO_7605194B6BAB4A2890ECA94DCDE8C1C1">
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_06_06_CO_7605194B6BAB4A2890ECA94DCDE8C1C1">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
@@ -533,8 +524,8 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso080&amp;IdRecurso=RES-D09727
 id="S2_CS_06_06_CO_7605194B6BAB4A2890ECA94DCDE8A1A1">
 <seccion2Titulo>La cultura sinú</seccion2Titulo>
 <seccion2Texto>
-<p>Esta cultura, que tuvo su auge entre los siglos II a. C. y XVI
-d. C., habitó en la cuenca de los ríos <negrita>Sinú</negrita> y <negrita
+<p>Esta cultura, que tuvo su auge entre los siglos II a.C. y XVI d.
+C., habitó en la cuenca de los ríos <negrita>Sinú</negrita> y <negrita
 >San Jorge</negrita>, en el actual <negrita>departamento de Córdoba</negrita
 >. Estos territorios, planos y ocupados por extensas <negrita>ciénagas</negrita
 >, fueron aprovechados de forma intensa por sus habitantes para la
@@ -565,7 +556,7 @@ de regadío</negrita> en forma de <negrita>“espina de pescado”</negrita
 > hizo que la cultura sinú evitara el riesgo de inundaciones al construir
 sus edificios sobre los diques y mantener un drenaje de agua entre
 los canales y los demás cuerpos de agua de la zona.</p>
-</imagen><?Pub Caret -1?>
+</imagen>
 </seccion2Texto></seccion2><seccion2
 id="S2_CS_06_06_CO_7605194B6BAB4A2890ECA94DCDE8F2F2">
 <seccion2Titulo>La cultura quimbaya</seccion2Titulo>
@@ -617,9 +608,9 @@ id="S2_CS_06_06_CO_7605194B6BAB4A2890ECA94DCDE8E3E3">
 <seccion2Texto>
 <p>La <negrita>cultura calima</negrita> habitó el actual <negrita
 >departamento de Valle del Cauca</negrita>. Se desarrolló entre 1600
-a. C. y la Conquista española, durante tres fases: el periodo <negrita
->Ilama</negrita> (1600 - 200 a. C.), el <negrita>Yotoco</negrita> (200
-a. C.-1200 d. C.) y el <negrita>Sonso</negrita> (1200-1536)<enlace
+a.C. y la Conquista española, durante tres fases: el periodo <negrita
+>Ilama</negrita> (1600 - 200 a.C.), el <negrita>Yotoco</negrita> (200
+a.C.-1200 d. C.) y el <negrita>Sonso</negrita> (1200-1536)<enlace
 destino="http://www.sinic.gov.co/SINIC/ColombiaCultural/ColCulturalBusca.aspx?AREID=3&amp;SECID=8&amp;IdDep=76&amp;COLTEM=211"
 > [VER]</enlace>.</p>
 <imagen src="CS_06_06_CO_IMG10_small.jpg">
@@ -847,10 +838,10 @@ zona tuvieron una gran influencia en la construcción del complejo<enlace
 destino="http://www.icanh.gov.co/?idcategoria=1235"> [VER]</enlace
 >.</p>
 <p>San Agustín funcionó como <negrita>sitio de culto</negrita> y <negrita
->complejo funerario</negrita> entre los siglos XXIII a. C. y VIII
-d. C. Los hallazgos arqueológicos y el análisis de las esculturas
-en piedra que resguardan los sepulcros revelan la gran importancia
-de los chamanes o sacerdotes en estas sociedades, y la gran importancia
+>complejo funerario</negrita> entre los siglos XXIII a.C. y VIII d.
+C. Los hallazgos arqueológicos y el análisis de las esculturas en
+piedra que resguardan los sepulcros revelan la gran importancia de
+los chamanes o sacerdotes en estas sociedades, y la gran importancia
 que tuvo el <negrita>jaguar</negrita> en su cultura (muchas estatuas
 representan seres que combinan rasgos humanos y de jaguar). También
 se han encontrado similitudes con rasgos simbólicos de los pueblos
@@ -892,12 +883,8 @@ relacionados.</p>
 <imagen src="CS_06_06_CO_IMG13_small.jpg">
 <p>La estatuaria de Tierradentro tiene como características que era
 de piedra volcánica, simétrica y representa figuras hieráticas.</p>
-</imagen>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_06_06_CO_Recurso150&amp;IdRecurso=RES-A56EBBA8D2B743599D26D18BFE9D14E1"
->Analiza características del arte funerario del complejo de Tierradentro</enlace>
-</practica></seccion2Texto></seccion2><seccion2
+</imagen><?Pub Caret -2?>
+</seccion2Texto></seccion2><seccion2
 id="S2_CS_06_06_CO_8592BA8F495C4BC39B4C8153E4B752D7">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
