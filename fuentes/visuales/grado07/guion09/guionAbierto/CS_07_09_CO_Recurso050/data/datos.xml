@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f8">
+<main title="Evolución geológica de Colombia" bkColor="#FFFFFF" titleColor="#000000" theme="black" buttonsWidth="220" buttonsHeight="47" trans="fade">
+<default>
+<img path="CS_07_09_CO_REC050_IMG01.jpg" x="300" y="100" width="" height="450"/>
+</default><buttons>
+<button title="PRECÁMBRICO">
+<img path="CS_07_09_CO_REC050_IMG02.jpg" x="" y="" width="" height="450" anim=""/>
+</button>
+<button title="PALEOZOICA">
+<img path="CS_07_09_CO_REC050_IMG03.jpg" x="" y="" width="" height="450" anim=""/>
+</button>
+<button title="MESOZOICA">
+<img path="CS_07_09_CO_REC050_IMG04.png" x="" y="" width="" height="450" anim=""/>
+</button>
+<button title="MESOZOICA - Cretácico">
+<img path="CS_07_09_CO_REC050_IMG05.png" x="" y="" width="" height="450" anim=""/>
+</button>
+<button title="MESOZOICA -  Triásico">
+<img path="CS_07_09_CO_REC050_IMG06.jpg" x="" y="" width="" height="450" anim=""/>
+</button>
+<button title="CENOZOICA">
+<img path="CS_07_09_CO_REC050_IMG07.png" x="" y="" width="" height="450" anim=""/>
+</button>
+<button title="ANTROPOZOICA">
+<img path="CS_07_09_CO_REC050_IMG08.jpg" x="" y="" width="" height="450" anim=""/>
+</button>
+</buttons>
+</main>
+<masinfo>
+<pantalla1><![CDATA[<table border="1" cellpadding="1" cellspacing="1" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="text-align:center"><span style="font-size:17px"><span style="font-family:verdana,geneva,sans-serif"><strong>Eras</strong></span></span></td>
+			<td style="text-align:center"><span style="font-size:17px"><span style="font-family:verdana,geneva,sans-serif"><strong>Caracter&iacute;sticas</strong></span></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size:17px"><span style="font-family:verdana,geneva,sans-serif"><strong>Prec&aacute;mbrico</strong></span></span></td>
+			<td><span style="font-size:17px"><span style="font-family:verdana,geneva,sans-serif"><strong>Procesos orog&eacute;nicos y geol&oacute;gicos</strong>.&nbsp;El surgimiento de sus cordilleras obedece al <strong>choque de placas tect&oacute;nicas</strong> como son la de Nazca, Suramericana y Caribe. Emerge del mar la <strong>regi&oacute;n oriental</strong> colombiana, la otra parte del territorio&nbsp; yac&iacute;a en las profundidades del mar.</span></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size:17px"><span style="font-family:verdana,geneva,sans-serif"><strong>Paleozoico</strong></span></span></td>
+			<td><span style="font-size:17px"><span style="font-family:verdana,geneva,sans-serif">Procesos de <strong>sedimentaci&oacute;n</strong> y <strong>fosilizaci&oacute;n</strong> de la cordillera oriental, formaci&oacute;n de los n&uacute;cleos de las cordilleras central y oriental. Se conforma as&iacute; la zona oriental del territorio producto de <strong>material oce&aacute;nico</strong> bastante antiguo. Colisionan las <strong>placas de Nazca</strong> y <strong>suramericana</strong> produciendo <strong>procesos de subducci&oacute;n</strong>.</span></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size:17px"><span style="font-family:verdana,geneva,sans-serif"><strong>Mesozoico</strong></span></span></td>
+			<td><span style="font-size:17px"><span style="font-family:verdana,geneva,sans-serif">Durante el Cret&aacute;ceo, se consolida la formaci&oacute;n de la cordillera central e inicia la formaci&oacute;n del valle del Magdalena.&nbsp;El oc&eacute;ano Atl&aacute;ntico sur inicia su apertura cubriendo de <strong>sedimentos marinos</strong> territorios que hoy pertenecen a Cundinamarca y Santander. Gran parte del territorio ya se encuentra conformado, rico en <strong>sedimentos marinos</strong>, espacios pantanosos con formaci&oacute;n a su alrededor de monta&ntilde;as.</span></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size:17px"><span style="font-family:verdana,geneva,sans-serif"><strong>Cenozoico</strong></span></span></td>
+			<td><span style="font-size:17px"><span style="font-family:verdana,geneva,sans-serif">En el cuaternario,&nbsp;Conformaci&oacute;n del sistema monta&ntilde;oso colombiano, elevaci&oacute;n de la cordillera andina, glaciares en las zonas m&aacute;s altas y en otras una gran <strong>actividad volc&aacute;nicas</strong>.</span></span></td>
+		</tr>
+	</tbody>
+</table>
+]]></pantalla1>
+</masinfo>
+</engine>
