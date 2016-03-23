@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="5" clase="a" aprid="m5a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Inventos de India en la Antigüedad</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde las siguientes preguntas sobre el legado cultural de la antigua India.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles juegos son inventos de la antigua civilización de la India?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[img1.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="Las cartas y la oca." correcta="0"/>
+        <respuesta contestacion="El parqués y los dados." correcta="0"/>
+        <respuesta contestacion="El ajedrez y los dados.   " correcta="1"/>
+        <respuesta contestacion="El dominó y el mahjong. " correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La medicina tuvo grandes avances en las civilizaciones que surgieron en India durante la Edad Antigua. ¿En cuál tipo de cirugía destacaron?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[img2.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="Plástica" correcta="1"/>
+        <respuesta contestacion="Curativa" correcta="0"/>
+        <respuesta contestacion="Estética" correcta="0"/>
+        <respuesta contestacion="Ocular" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La sociedad de la India antigua inventó telas de]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[img3.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="algodón y lino.  " correcta="1"/>
+        <respuesta contestacion="seda y lana." correcta="0"/>
+        <respuesta contestacion="paño y algodón." correcta="0"/>
+        <respuesta contestacion="lino y yute." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Mohenjo-Daro y Harappa son importantes yacimientos arqueológicos que evidencian el desarrollo urbanístico de India en la Edad Antigua, porque permiten apreciar]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[img4.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="el uso de ladrillos y tejas de barro." correcta="0"/>
+        <respuesta contestacion="edificios hasta de cinco pisos de altura." correcta="0"/>
+        <respuesta contestacion="numerosos parques y plazas de mercado.  " correcta="0"/>
+        <respuesta contestacion="un complejo sistema de alcantarillado.     " correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El budismo nació en India en el siglo IV a.C., una de las Cuatro Nobles Verdades de esta filosofía es:]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[img5.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="La vida incluye sufrimiento y descontento.   " correcta="1"/>
+        <respuesta contestacion="Las personas deben buscar la felicidad." correcta="0"/>
+        <respuesta contestacion="La bondad conduce a la vida eterna." correcta="0"/>
+        <respuesta contestacion="La maldad es el origen de la reencarnación." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En la Antigüedad, la civilización de la India desarrolló importantes conocimientos matemáticos. Entre sus inventos destacan:]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[img6.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="los números arábigos y romanos." correcta="0"/>
+        <respuesta contestacion="el cero y los números binarios.   " correcta="1"/>
+        <respuesta contestacion="los números enteros y quebrados." correcta="0"/>
+        <respuesta contestacion="las fracciones y los decimales." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Durante la Edad Antigua, la civilización de la India desarrolló técnicas para elaborar objetos con:]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[img7.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="oro  y perlas." correcta="0"/>
+        <respuesta contestacion="cobre y esmeraldas." correcta="0"/>
+        <respuesta contestacion="plata y rubíes." correcta="0"/>
+        <respuesta contestacion="hierro y esmeraldas.    " correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Se considera que los libros Vedas fueron escritos en India hacia el año 6 000 a.C.; influyeron notablemente en la sociedad de la época por su contenido]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[img8.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="político y religioso." correcta="0"/>
+        <respuesta contestacion="filosófico y literario." correcta="0"/>
+        <respuesta contestacion="religioso y filosófico.    " correcta="1"/>
+        <respuesta contestacion="científico y cultural. " correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>
