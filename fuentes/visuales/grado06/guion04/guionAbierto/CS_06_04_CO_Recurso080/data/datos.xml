@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="8" clase="a" aprid="m8a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Las religiones de India en la Antigüedad</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M8A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde las siguientes preguntas sobre las religiones de India en la Edad Antigua.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="7">
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles son los dioses más importantes del Brahmanismo?]]></enunciado>
+      <imagen><![CDATA[img9.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[En el Brahmanismo, Brahma es el dios creador y sabio y Shiva la diosa de la destrucción y de la danza.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="Brahma y Shiva. " correcta="on"/>
+        <respuesta contestacion="Brahma y Buda." correcta="0"/>
+        <respuesta contestacion="Shiva y Visnú." correcta="0"/>
+        <respuesta contestacion="Visnú y Karma." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es la creencia de la vida y la muerte del Brahmanismo?]]></enunciado>
+      <imagen><![CDATA[img10.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[El Brahmanismo tiene como principio la reencarnación que finaliza cuando se llega a un estadio de purificación y profundización en el conocimiento.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="La vida después de la muerte." correcta="0"/>
+        <respuesta contestacion="La vida eterna." correcta="0"/>
+        <respuesta contestacion="La reencarnación." correcta="on"/>
+        <respuesta contestacion="La unión con Brahma." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es la importancia de los libros Veda?]]></enunciado>
+      <imagen><![CDATA[img11.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[Los libros sagrados Veda son la fuente para conocer y practicar el brahmanismo.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="Son los textos sagrados del Brahmanismo." correcta="on"/>
+        <respuesta contestacion="Contienen oraciones de las religiones de la India." correcta="0"/>
+        <respuesta contestacion="Guían a los seres humanos para alcanzar la eternidad." correcta="0"/>
+        <respuesta contestacion="Son los textos sagrados del Budismo." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Según el Brahmanismo, ¿cómo se podía ascender en el sistema de castas?]]></enunciado>
+      <imagen><![CDATA[img12.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[El Brahmanismo predica la posibilidad de reencarnar en un ser de una casta superior, si se cumplen estrictamente los preceptos religiosos.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="Reencarnando en un ser superior." correcta="0"/>
+        <respuesta contestacion="Siguiendo estrictamente las normas religiosas.   " correcta="on"/>
+        <respuesta contestacion="Sometiéndose a grandes sufrimientos." correcta="0"/>
+        <respuesta contestacion="Sometiéndose a grandes sufrimientos." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Siddharta Gautama, fue un príncipe de la India creador del Budismo que]]></enunciado>
+      <imagen><![CDATA[img13.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[El Budismo no tiene dioses, se fundamenta en la existencia del sufrimiento y la búsqueda del nirvana o manifestación de felicidad.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="es una religión politeísta." correcta="0"/>
+        <respuesta contestacion="es una religión monoteísta." correcta="0"/>
+        <respuesta contestacion="tiene a Buda como dios principal." correcta="0"/>
+        <respuesta contestacion="no tiene dios o autoridad suprema.   " correcta="on"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La doctrina budista mantuvo el principio de la reencarnación pero rechazó]]></enunciado>
+      <imagen><![CDATA[img14.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[La doctrina budista rechazó el sistema de castas al considerarlo como una creación de los Brahmanes para mantener dominada a la sociedad.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="el sistema de castas.  " correcta="on"/>
+        <respuesta contestacion="el nirvana." correcta="0"/>
+        <respuesta contestacion="la felicidad." correcta="0"/>
+        <respuesta contestacion="la salvación." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Buda predicó que cuando se alcanza la iluminación cesa el ciclo de reencarnaciones y se accede al nirvana. ¿Qué es el nirvana?]]></enunciado>
+      <imagen><![CDATA[img15.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[Para el Budismo, el nirvana es el estado en el que se supera el sufrimiento y se alcanza por las buenas prácticas que permiten alcanzar la iluminación.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="Un estado de profunda meditación en la vida y el dolor." correcta="0"/>
+        <respuesta contestacion="Un estado de gracia en el que no hay sufrimiento.  " correcta="on"/>
+        <respuesta contestacion="Un camino para llegar a la iluminación." correcta="0"/>
+        <respuesta contestacion="Una doctrina que predica que todo hombre puede ser buda." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>
