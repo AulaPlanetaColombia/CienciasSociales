@@ -1,566 +1,493 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_08_13_CO">
-  <libroTitulo>La Constitución Política</libroTitulo>
-  <seccion1 id="S1_CS_08_13_CO_4991ADB0F079487FA34DC68E3B303950">
-    <seccion1Titulo>La Constitución</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_08_13_CO_C922665CB4774BAB8C52F079E7ED9A68">
-        <seccion2Titulo>El concepto y los tipos de Constitución</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_01_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_13_CO_E11F0D0D6D1349CFA9418E3A1FDBB584">
-        <seccion2Titulo>El origen de las Constituciones</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_02_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso020&amp;IdRecurso=RES-7453C198F9E1462D9CAE8766A1217CCA">Recurso M2C-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_13_CO_EDF5AD8B494A42998040C0C1399DE43E">
-        <seccion2Titulo>Los gobiernos constitucionales</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso030&amp;IdRecurso=RES-312EA0B5B873450685640FB21E4349AD">Recurso M15A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_13_CO_132E41AB46BD488086F7B968F8733C75">
-        <seccion2Titulo>La transformación de las Constituciones</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_04_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_13_CO_F6FD71ED39C1422B92B62B47F0446DCF">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_05_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso050&amp;IdRecurso=RES-205DCC6A15F34375BE4FB4A52C330E4D">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_13_CO_80043BDA4A2240F3A2F3D2A9AC5573D3">
-    <seccion1Titulo>Las Constituciones colombianas del siglo XIX</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_13_CO_img_06_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso060&amp;IdRecurso=RES-98927E808B024347AFF48C63F0E4D21C">Recurso F10-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_08_13_CO_962FA8C2C1094195B3C1C3EE62C5CF83">
-        <seccion2Titulo>La Constitución de 1821</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_07_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_13_CO_C0553EDA16EC469385BDCC3960F11BEB">
-        <seccion2Titulo>La Constitución de 1831</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_08_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_13_CO_AE3E4524968B44BBA7322DB5F4CF72C7">
-        <seccion2Titulo>La Constitución de 1853</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_09_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_13_CO_648EF2B89D6947F4846891AD49071FAA">
-        <seccion2Titulo>La Constitución de 1858</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_10_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_13_CO_5F47FE0CF31147FF837A39EF9DC14F61">
-        <seccion2Titulo>La Constitución de 1863</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_11_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_13_CO_E3B5280B57BE40F1A6B7E982EF05FA0A">
-        <seccion2Titulo>La Constitución de 1886</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_12_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso070&amp;IdRecurso=RES-109E7BC9E64C45CAA72F7D2CFE96D637">Recurso M10A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_13_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso080&amp;IdRecurso=RES-4F47DE175D3E4231B5482AE434E9A7B0">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_13_CO_F08C2A473DB2429BB80BA441B7EB9EC5">
-    <seccion1Titulo>La Constitución Política de Colombia de 1991</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_08_13_CO_44650928718E4E05ADF2F59FE411A03D">
-        <seccion2Titulo>El surgimiento de la Constitución Política de 1991</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_14_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso090&amp;IdRecurso=RES-B8D87DC522E0464F8D6643DEE1465701">Recurso F10B-01</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_13_CO_07E781BE30F445CB9240C0A36017EB48">
-        <seccion2Titulo>Los objetivos de la Constitución Política de 1991</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_15_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_13_CO_9A752932B50F4154AA645147D191DFE2">
-        <seccion2Titulo>Los principios constitucionales</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_16_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso100&amp;IdRecurso=RES-D2A8F58EDEF647BC8A9B6E0A82FDEB19">Recurso M1C-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_13_CO_276EF26E47E54DF4BE1B395C915FC6FF">
-        <seccion2Titulo>Los derechos constitucionales</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_08_13_CO_06E74FBD967D4E239670A873D8D9057C">
-            <seccion3Titulo>Los derechos económicos, sociales y culturales</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_13_CO_img_17_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_13_CO_452476DEC5834AB0954CF155BE25DD32">
-            <seccion3Titulo>Los derechos colectivos y del ambiente</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_13_CO_img_18_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso110&amp;IdRecurso=RES-A72F6CA9844F41F2A340CE4E5D0AD995">Recurso M8A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_13_CO_C76E403F36174B5BA6C96827DF07C604">
-        <seccion2Titulo>La organización del Estado Social de Derecho en Colombia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_08_13_CO_399F4ED8992B4360957D0160D2C7CA72">
-            <seccion3Titulo>La división de poderes</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_13_CO_img_19_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso120&amp;IdRecurso=RES-2AD15FF393404FF291A3415177625DEB">Recurso F6-01</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_13_CO_img_20_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso130&amp;IdRecurso=RES-D0CA966507C141618307B9D18C1DEC1E">Recurso M5D-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_08_13_CO_262217A672DF4A8E924F8FED5E1D49E8">
-            <seccion3Titulo>Los órganos independientes</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_08_13_CO_img_21_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso140&amp;IdRecurso=RES-DE57969BBDF14DAE9FD56D788F6B685D">Recurso M1B-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_13_CO_img_22_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso150&amp;IdRecurso=RES-2943045EF63D4A8EB732ECEB41BA9209">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_13_CO_35B6B4D10CE34B7FBDEE48FB6E9A9732">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_13_CO_img_23_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso160&amp;IdRecurso=RES-CE833F67FCAE4B9B9C4A459E154ECE82">Recurso M102AB-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_13_CO_img_24_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso170&amp;IdRecurso=RES-AF0EDD38192C4C2A9FF683B5A92DEF15">Recurso F13-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_08_13_CO_7EC5034913294127A61BB55EEE157D4A">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso190&amp;IdRecurso=RES-C7AEF16BCA274AF7A1C2EDAB2FBF2C6D">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso200&amp;IdRecurso=RES-65011AB5CD694AFB9F98A18A30A22887">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>La Constitución Política</libroTitulo>
+<seccion1 id="S1_CS_08_13_CO_4991ADB0F079487FA34DC68E3B303950">
+<seccion1Titulo>La Constitución</seccion1Titulo>
+<seccion1Texto>
+<p>La <negrita>Constitución Política</negrita> es la <negrita>Ley
+Fundamental o Suprema</negrita> de cualquier Estado, es decir, la
+ley superior a todas las demás y con respecto a ella las otras deben
+ajustarse.</p>
+<p>Esto se debe a que, por lo general, las constituciones regulan
+los propósitos del gobierno, la forma como este toma decisiones, la
+organización estatal y territorial, las condiciones para ejercer la
+ciudadanía, los modos de participación política, los mecanismos de
+control político, entre otros aspectos.</p>
+<seccion2 id="S2_CS_08_13_CO_C922665CB4774BAB8C52F079E7ED9A68">
+<seccion2Titulo>El concepto y los tipos de Constitución</seccion2Titulo>
+<seccion2Texto>
+<p>El <negrita>concepto</negrita><negritacursiva> Constitución Política</negritacursiva
+> puede comprenderse a nivel jurídico o político. Sin embargo, las
+dos nociones son complementarias y le dan forma al verdadero sentido
+de una Constitución.</p>
+<p>A <negrita>nivel jurídico</negrita>, una Constitución Política
+es el marco normativo para la organización del régimen político y
+de las acciones de un gobierno. Esto quiere decir que la Constitución
+determina la <negrita>forma de Estado y de gobierno</negrita>.</p>
+<imagen src="CS_08_13_CO_IMG01_small.jpg">
+<p>En su artículo inicial, la Constitución Política de <negrita>China</negrita
+> consagra al país como un <negrita>Estado socialista de dictadura
+democrática popular</negrita>, dirigido por la clase obrera y basado
+en la alianza obrero-campesina.</p>
+</imagen>
+<p>Esta Ley Fundamental se caracteriza por:</p>
+<listaSinNumerar>
+<listaElemento><negrita>organizar al Estado</negrita>, estableciendo
+sus órganos, competencias y funciones.</listaElemento>
+<listaElemento><negrita>expresar los valores y principios</negrita
+> que estructuran la ideología política del Estado.</listaElemento>
+</listaSinNumerar>
+<p>A <negrita>nivel político</negrita>, una Constitución se comprende
+como la <negrita>garantía para evitar el abuso de poder</negrita>.
+Esto se debe a que establece límites a las acciones del gobierno.
+Por una parte, define qué puede o no hacer el gobierno; y por otra,
+determina la forma como puede hacerlo y si requiere del aval de la
+ciudadanía.</p>
+<p>Además, la noción política de la Constitución también consagra
+los <negrita>derechos y libertades fundamentales de los ciudadanos</negrita
+>, lo cual les ofrece protección ante el amplio poder del Estado.</p>
+<imagen src="CS_08_13_CO_IMG02_small.jpg">
+<p>En el artículo 16 de la <negrita>Declaración de los Derechos del
+Hombre y del Ciudadano</negrita> se identifica la <negrita>noción
+política</negrita> de la Constitución: “Toda sociedad en la cual no
+esté establecida la garantía de los derechos, ni determinada la separación
+de los poderes, carece de Constitución”. <cursiva>Declaración de los
+Derechos del Hombre y del Ciudadano (Museo Carnavalet, París, Francia</cursiva
+>).</p>
+</imagen>
+<p>En síntesis, políticamente la Constitución <negrita>regula las
+relaciones entre el Estado y los ciudadanos</negrita>, a través del
+establecimiento de deberes y derechos que deben cumplir tanto los
+gobernantes como los gobernados.</p>
+<p>Por otro lado, las constituciones pueden ser de <negrita>dos tipos</negrita
+>:</p>
+<table border="1"><colgroup><col width="30*"/><col width="69*"/>
+</colgroup>
+<tbody>
+<tr>
+<td><negrita>Consuetudinarias</negrita></td>
+<td>Están arraigadas por la práctica (costumbres y tradiciones) de
+lo que una sociedad determina que es su marco normativo fundamental.
+No están escritas.</td>
+</tr>
+<tr>
+<td><negrita>Escritas</negrita></td>
+<td>Están plasmadas en un documento y han sido formuladas por una
+autoridad competente. Sirven de mapa de ruta para un Estado, pues
+también expresan su proyecto de sociedad.</td>
+</tr>
+</tbody>
+</table>
+<p>Las constituciones políticas más antiguas fueron consuetudinarias,
+pero en la actualidad la mayoría de países tiene constituciones escritas.
+Sin embargo, se dice que Nueva Zelanda carece de Constitución escrita,
+a pesar de que es una monarquía parlamentaria cuya reina es Isabel
+II del Reino Unido; no obstante, su estructura estatal y gubernamental
+está contemplada en la Ley Constitucional de 1986.</p>
+<profundiza>
+<enlace>La importancia de las constituciones políticas</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_13_CO_E11F0D0D6D1349CFA9418E3A1FDBB584">
+<seccion2Titulo>El origen de las Constituciones</seccion2Titulo>
+<seccion2Texto>
+<p>A pesar de que se atribuye el origen de las constituciones al nacimiento
+del Estado moderno, desde la Antigüedad las sociedades han buscado
+consolidar un marco normativo que las rija. Estos son algunos casos.</p>
+<p>En el siglo XVIII a. C. se creó el <negrita>Código de Hammurabi</negrita
+>, que reguló aspectos económicos, familiares y de derecho civil en
+282 artículos. También estableció límites a los maltratos y abusos
+de los señores hacia sus esclavos y siervos. Asimismo, determinó las
+sanciones para quienes infringían la ley, aunque estas dependían de
+la clase social; así, entre más pobre era el infractor, más severo
+era el castigo.</p>
+<imagen src="CS_08_13_CO_IMG03_small.jpg">
+<p>El <negrita>Código de Hammurabi</negrita> fue un conjunto de leyes
+promulgado por Hammurabi, rey de Babilonia. Pretendió reflejar la
+idea del buen gobierno, ofreciendo ejemplos de casos jurídicos específicos.
+Se registró en una estela de piedra, con escritura cuneiforme.</p>
+</imagen>
+<p>En el siglo VI a. C. el rey Ciro de Persia, conocido como “el Grande”,
+conquistó la ciudad de Babilonia. Las leyes que impuso allí fueron
+grabadas en un cilindro de barro, conocido como el <negrita>Cilindro
+de Ciro</negrita>. En ellas se incluyeron la libertad para elegir
+la religión y la libertad de los esclavos.</p>
+<p>En el siglo XIII d. C. se escribió la <negrita>Carta Magna (<cursiva
+>Magna Charta Libertatum</cursiva>)</negrita>. Esta surgió en Inglaterra
+como medio para limitar los poderes excesivos del rey Juan I, quien
+se caracterizó por violar las leyes estipuladas por sus antecesores.
+Esta carta también definió las libertades y los derechos básicos de
+los súbditos.</p>
+<imagen src="CS_08_13_CO_IMG04_small.jpg">
+<p>La <negritacursiva>Magna Charta Libertatum</negritacursiva> fue
+promulgada como acto de concesión unilateral por el rey de Inglaterra
+Juan sin Tierra, el 19 de junio de 1215, para confirmar los derechos
+de la nobleza, la Iglesia y todos los “hombres libres” del reino frente
+al poder real.</p>
+</imagen>
+<p>En el siglo XVIII, específicamente en 1789, se creó la <negrita
+>Declaración de los Derechos del Hombre y del Ciudadano</negrita> como
+consecuencia de la revolución del pueblo francés contra la monarquía.
+El establecimiento de la república estuvo acompañado de una Constitución
+Política basada en el derecho de todos los ciudadanos (hombres, no
+mujeres) a la libertad, la propiedad y la seguridad.</p>
+<p>Y en 1791 surgió en Estados Unidos la <negrita>Carta de Derechos</negrita
+>, nombre con el que comúnmente se le conoce al grupo de las diez
+primeras enmiendas de la Constitución de Estados Unidos, que se crearon
+cuando los opositores a la Constitución declararon que esta no defendía
+correctamente las libertades humanas.</p>
+<imagen src="CS_08_13_CO_IMG05_small.jpg">
+<p>La <negrita>Carta de Derechos</negrita> de Estados Unidos incluye
+libertades que no se encuentran en el cuerpo principal de la Constitución
+Política, como la libertad religiosa, de expresión, de prensa y de
+reunión.</p>
+</imagen>
+<p>Así las cosas, las<negrita> revoluciones inglesa, francesa y americana</negrita
+> proyectaron el ideario constitucional de los demás países de Occidente.
+Incluso sirvieron como modelo para las nacientes repúblicas del siglo
+XIX, como las latinoamericanas, que acababan de dejar de ser colonias
+y se habían constituido como Estados independientes.</p>
+<destacado><destacadoTitulo>La influencia de las revoluciones en los
+modelos constitucionales</destacadoTitulo><destacadoTexto>
+<p>Del modelo <negrita>inglés</negrita> se tomaron los <negrita>límites</negrita
+> al monarca, así como las garantías a los ciudadanos. Del modelo <negrita
+>francés</negrita> se aprovechó la idea de una sociedad política forjada
+por la <negrita>igualdad</negrita> de todos ante la ley y el respeto
+a las <negrita>libertades</negrita> individuales. Y del modelo <negrita
+>norteamericano</negrita> se estableció, principalmente, la Constitución
+como <negrita>Ley Fundamental</negrita> y protectora de los <negrita
+>derechos y las libertades</negrita> de la ciudadanía.</p>
+</destacadoTexto></destacado>
+<p>Adicionalmente, durante el siglo XIX surgieron nuevas preocupaciones,
+como la de garantizar las condiciones materiales para la buena calidad
+de vida de los ciudadanos. Por ello, a partir de entonces las constituciones
+incluyeron aspectos relacionados con el trabajo y la seguridad social.</p>
+<p>De la misma forma, y ante las inquietudes de los ciudadanos por
+intervenir en la política durante el siglo XX, las constituciones
+han incluido mecanismos para la participación ciudadana, tanto individual
+como colectiva.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso020&amp;IdRecurso=RES-7453C198F9E1462D9CAE8766A1217CCA"
+>Reflexiona sobre el papel de las constituciones en las sociedades</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_13_CO_EDF5AD8B494A42998040C0C1399DE43E">
+<seccion2Titulo>Los gobiernos constitucionales</seccion2Titulo>
+<seccion2Texto>
+<p>A pesar de que actualmente la mayoría de los países tiene una Constitución,
+no todos ellos tienen gobiernos constitucionales.</p>
+<p>Un gobierno constitucional es aquel que se limita a lo que indica
+su Constitución. Por ello, un gobierno que incumple lo estipulado
+en la Ley Fundamental del Estado no puede llamarse constitucional,
+así tenga un documento llamado Constitución.</p>
+<p>Para que un gobierno sea considerado constitucional porque se somete
+a los mandatos constitucionales debe:</p>
+<listaSinNumerar>
+<listaElemento>Respetar los derechos individuales y colectivos de
+las personas.</listaElemento>
+<listaElemento>Mantener la organización del Estado propuesta en la
+Constitución, buscando el equilibrio de poderes para garantizar que
+no se presentará abuso de poder.</listaElemento>
+<listaElemento>Permitir la existencia de mecanismos de control, tanto
+por parte del gobierno como de la ciudadanía.</listaElemento>
+<listaElemento>Compartir el poder con los ciudadanos, ofreciendo los
+mecanismos necesarios para que participen en el juego político.</listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso030&amp;IdRecurso=RES-312EA0B5B873450685640FB21E4349AD"
+>Identifica las características del gobierno constitucional</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_13_CO_132E41AB46BD488086F7B968F8733C75">
+<seccion2Titulo>La transformación de las Constituciones</seccion2Titulo>
+<seccion2Texto>
+<p>Las constituciones no solo regulan la vida de una comunidad política,
+sino que también incluyen su proyecto social; es decir, se enfocan
+en el presente, pero sin dejar de lado una mirada hacia el futuro.</p>
+<p>Por ello, las constituciones políticas no pueden dejar de “reinventarse”
+o <negrita>transformarse</negrita>, según las <negrita>condiciones
+sociales cambiantes o las necesidades que surgen en las diversas comunidades
+con el paso del tiempo</negrita>. Sin embargo, debe darse el balance
+correcto entre estabilidad y cambio, ya que la Ley Fundamental, al
+ser la principal de un país, no puede variar con tanta frecuencia,
+pues esto dificultaría la gobernabilidad.</p>
+<imagen src="CS_08_13_CO_IMG06_small.jpg">
+<p>Cuando un gobierno constitucional desea transformar su Constitución,
+debe ser como <negrita>resultado de la voluntad popular</negrita>.</p>
+</imagen>
+<p>Cada Constitución contempla en su contenido los mecanismos para
+su propia transformación. Estos varían en cada país pero, por lo general,
+incluyen los siguientes elementos:</p>
+<listaSinNumerar>
+<listaElemento>Una iniciativa de reforma, que puede provenir del pueblo
+o de los gobernantes.</listaElemento>
+<listaElemento>Una Asamblea, representativa de la pluralidad ciudadana,
+encargada de proponer o redactar las reformas.</listaElemento>
+<listaElemento>Un Congreso o Cámara gubernamental, que evalúa y avala
+el nuevo documento o el fragmento reformado.</listaElemento>
+<listaElemento>Un mecanismo de participación ciudadana, por el que
+la ciudadanía vota a favor o en contra de la propuesta de transformación.</listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace>Conoce el proceso de reforma de una Constitución</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_13_CO_F6FD71ED39C1422B92B62B47F0446DCF">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso050&amp;IdRecurso=RES-205DCC6A15F34375BE4FB4A52C330E4D"
+>Refuerza tu aprendizaje: La Constitución</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_13_CO_80043BDA4A2240F3A2F3D2A9AC5573D3">
+<seccion1Titulo>Las constituciones colombianas del siglo XIX</seccion1Titulo>
+<seccion1Texto>
+<p>Desde el surgimiento de Colombia como una república libre del yugo
+español, han existido <negrita>bandos con ideologías diferentes</negrita
+> respecto a: la forma de organizar el territorio, la manera de gobernarlo,
+la estructura que debe tener el gobierno, quiénes son los ciudadanos,
+los derechos que pueden tener los ciudadanos, el nivel de involucramiento
+de la ciudadanía en asuntos de gobierno, etc.</p>
+<p>Los enfrentamientos constantes, principalmente entre <negrita>centralistas
+y federalistas</negrita>, y entre <negrita>conservadores y liberales</negrita
+>, hicieron que durante el <negrita>siglo XIX</negrita> el país <negrita
+>rompiera su balance de estabilidad y cambio constitucional</negrita
+>.</p>
+<p>Durante ese periodo, en el país se promulgaron <negrita>siete constituciones
+políticas</negrita> de orden nacional. Este fenómeno se presentó porque,
+cada vez que un bando vencía al otro y llegaba al poder, cambiaba
+la Constitución que había sido emitida por el bando vencido. Dado
+que esta serie de leyes fundamentales no representaba realmente el
+interés y las necesidades de la totalidad del pueblo colombiano, este
+siglo se caracterizó por numerosas y cruentas <negrita>guerras civiles</negrita
+>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso060&amp;IdRecurso=RES-98927E808B024347AFF48C63F0E4D21C"
+>Las constituciones del siglo XIX en Colombia</enlace>
+</profundiza><seccion2
+id="S2_CS_08_13_CO_962FA8C2C1094195B3C1C3EE62C5CF83">
+<seccion2Titulo>La Constitución de 1821</seccion2Titulo>
+<seccion2Texto>
+<p>Desde el grito de Independencia, en 1810, fueron muchos los partidarios
+de un gobierno <negrita>republicano y constitucional</negrita>, pero
+también muchos pretendieron establecer un gobierno de corte <negrita
+>monárquico</negrita>.</p><?Pub Caret 186?>
+<p>Una vez logrado el consenso de que la mejor opción para conservar
+la independencia era el establecimiento de una república, el debate
+estuvo entre <negrita>centralizar el poder o federarlo</negrita>.</p>
+<imagen src="CS_08_13_CO_IMG07_small.jpg">
+<p>En el Congreso de Angostura, Bolívar lideró la creación de la república
+de la <negrita>Gran Colombia</negrita>, conformada por el Virreinato
+de la Nueva Granada y la Capitanía General de Venezuela. En <negrita
+>1821</negrita> se convocó en Cúcuta al <negrita>Congreso Nacional
+Constituyente</negrita> para redactar la Constitución que regiría
+a la república.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_13_CO_C0553EDA16EC469385BDCC3960F11BEB">
+<seccion2Titulo>La Constitución de 1831</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_08_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_13_CO_AE3E4524968B44BBA7322DB5F4CF72C7">
+<seccion2Titulo>La Constitución de 1853</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_09_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_13_CO_648EF2B89D6947F4846891AD49071FAA">
+<seccion2Titulo>La Constitución de 1858</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_10_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_13_CO_5F47FE0CF31147FF837A39EF9DC14F61">
+<seccion2Titulo>La Constitución de 1863</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_11_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_13_CO_E3B5280B57BE40F1A6B7E982EF05FA0A">
+<seccion2Titulo>La Constitución de 1886</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_12_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso070&amp;IdRecurso=RES-109E7BC9E64C45CAA72F7D2CFE96D637"
+>Recurso M10A-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_13_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso080&amp;IdRecurso=RES-4F47DE175D3E4231B5482AE434E9A7B0"
+>Recurso M101A-02</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_13_CO_F08C2A473DB2429BB80BA441B7EB9EC5">
+<seccion1Titulo>La Constitución Política de Colombia de 1991</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<seccion2 id="S2_CS_08_13_CO_44650928718E4E05ADF2F59FE411A03D">
+<seccion2Titulo>El surgimiento de la Constitución Política de 1991</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_14_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso090&amp;IdRecurso=RES-B8D87DC522E0464F8D6643DEE1465701"
+>Recurso F10B-01</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_13_CO_07E781BE30F445CB9240C0A36017EB48">
+<seccion2Titulo>Los objetivos de la Constitución Política de 1991</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_15_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_13_CO_9A752932B50F4154AA645147D191DFE2">
+<seccion2Titulo>Los principios constitucionales</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_16_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso100&amp;IdRecurso=RES-D2A8F58EDEF647BC8A9B6E0A82FDEB19"
+>Recurso M1C-01</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_13_CO_276EF26E47E54DF4BE1B395C915FC6FF">
+<seccion2Titulo>Los derechos constitucionales</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<seccion3 id="S3_CS_08_13_CO_06E74FBD967D4E239670A873D8D9057C">
+<seccion3Titulo>Los derechos económicos, sociales y culturales</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_17_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_13_CO_452476DEC5834AB0954CF155BE25DD32">
+<seccion3Titulo>Los derechos colectivos y del ambiente</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_18_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso110&amp;IdRecurso=RES-A72F6CA9844F41F2A340CE4E5D0AD995"
+>Recurso M8A-01</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_08_13_CO_C76E403F36174B5BA6C96827DF07C604">
+<seccion2Titulo>La organización del Estado Social de Derecho en Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<seccion3 id="S3_CS_08_13_CO_399F4ED8992B4360957D0160D2C7CA72">
+<seccion3Titulo>La división de poderes</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_19_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso120&amp;IdRecurso=RES-2AD15FF393404FF291A3415177625DEB"
+>Recurso F6-01</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_20_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso130&amp;IdRecurso=RES-D0CA966507C141618307B9D18C1DEC1E"
+>Recurso M5D-01</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_08_13_CO_262217A672DF4A8E924F8FED5E1D49E8">
+<seccion3Titulo>Los órganos independientes</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_21_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso140&amp;IdRecurso=RES-DE57969BBDF14DAE9FD56D788F6B685D"
+>Recurso M1B-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_22_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso150&amp;IdRecurso=RES-2943045EF63D4A8EB732ECEB41BA9209"
+>Recurso M101A-03</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+</seccion1Texto></seccion1><seccion1
+id="S1_CS_08_13_CO_35B6B4D10CE34B7FBDEE48FB6E9A9732">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_23_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso160&amp;IdRecurso=RES-CE833F67FCAE4B9B9C4A459E154ECE82"
+>Recurso M102AB-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_13_CO_img_24_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso170&amp;IdRecurso=RES-AF0EDD38192C4C2A9FF683B5A92DEF15"
+>Recurso F13-01</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_08_13_CO_7EC5034913294127A61BB55EEE157D4A"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso190&amp;IdRecurso=RES-C7AEF16BCA274AF7A1C2EDAB2FBF2C6D"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso200&amp;IdRecurso=RES-65011AB5CD694AFB9F98A18A30A22887"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+</enlacesreferencia></masinformacion></libro>
