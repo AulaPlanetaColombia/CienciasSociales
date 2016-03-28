@@ -88,7 +88,7 @@ id="S2_CS_07_10_CO_8CB68E6EDEFA4CF4860C005C8E71CA07">
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso000&amp;IdRecurso="
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso220&amp;IdRecurso=RES-3A65649125564315926CD3EDF432F4B8"
 >Refuerza tu aprendizaje: El Estado</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_07_10_CO_EA195E3AAF7243C492A2ACB33F5F195B">
@@ -215,12 +215,12 @@ territorio del Estado las <negrita>naves privadas</negrita> en <negrita
 >alta mar</negrita> y las <negrita>militares</negrita> en <negrita
 >alta mar</negrita> o <negrita>aguas territoriales</negrita> que izan
 u ondean el respectivo pabellón nacional.</p>
-<imagen src="CS_07_10_CO_IMG08_small.jpg">
+<imagen ampliable="no" src="CS_07_10_CO_IMG08_small.jpg">
 <p>La presencia de embajadores es la principal garantía del reconocimiento
 de un Estado en el contexto internacional. Por ejemplo, en la fotografía,
 el dictador español Francisco Franco recibía en 1953 al embajador
 estadounidense, garantizando que su régimen era reconocido por el
-gobierno norteamericano.</p>
+gobierno norteamericano.</p><?Pub Caret -2?>
 </imagen>
 <destacado><destacadoTitulo>El territorio colombiano</destacadoTitulo>
 <destacadoTexto>
@@ -530,15 +530,16 @@ de la Organización. Actualmente, la ONU tiene 193 Estados miembros
 y dos Estados observadores. En la fotografía, el Palacio de las Naciones
 Unidas en Ginebra, Suiza.</p>
 </imagen>
-</seccion2Texto></seccion2><seccion2
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso040&amp;IdRecurso=RES-710E398C6F074AA2A4AC920E35126569"
+>Identifica características de las organizaciones supranacionales</enlace>
+</practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_07_10_CO_6C07875A92764246842E5E5F757F34F3">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso040&amp;IdRecurso=RES-710E398C6F074AA2A4AC920E35126569"
->Identifica características de las organizaciones supranacionales</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso050&amp;IdRecurso=RES-5C0C6393F87F47F09AAA91FC4745C5E0"
 >Refuerza tu aprendizaje: Generalidades sobre el Estado</enlace>
@@ -1125,7 +1126,7 @@ los gobiernos locales y se señala el modo de participación en los
 asuntos del gobierno central que se considera supremo.</p>
 <p>Ejemplos de Estados federales se encuentran en Estados Unidos,
 Alemania, Suecia, Argentina, Brasil, México, Venezuela, Canadá e India,
-entre otros.</p><?Pub Caret 63?>
+entre otros.</p>
 <imagen src="CS_07_10_CO_IMG27_small.jpg">
 <p>Este mapa muestra las diferentes Comunidades Autónomas en las que
 se divide España desde 1978. Cada una cuenta con organismos de gobierno
