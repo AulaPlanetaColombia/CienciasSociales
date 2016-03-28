@@ -2,6 +2,7 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_07_10_CO">
 <libroTitulo>El Estado</libroTitulo>
 <seccion1 id="S1_CS_07_10_CO_BF90ECF1766148078155B35A4E0253C6">
@@ -538,7 +539,6 @@ id="S2_CS_07_10_CO_6C07875A92764246842E5E5F757F34F3">
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso040&amp;IdRecurso=RES-710E398C6F074AA2A4AC920E35126569"
 >Identifica características de las organizaciones supranacionales</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_10_CO_Recurso050&amp;IdRecurso=RES-5C0C6393F87F47F09AAA91FC4745C5E0"
 >Refuerza tu aprendizaje: Generalidades sobre el Estado</enlace>
@@ -1075,7 +1075,7 @@ del Estado</negrita>.</p>
 <p>Durante gran parte de su historia republicana, Francia ha sido
 un Estado unitario, en el que el gobierno de las diferentes provincias
 y departamentos era manejado por las autoridades desde la capital,
-París.</p><?Pub Caret -2?>
+París.</p>
 </imagen>
 <seccion2 id="S2_CS_07_10_CO_1D28FFA3917A40F38153E74519CFEE7E">
 <seccion2Titulo>El Estado unitario</seccion2Titulo>
@@ -1125,7 +1125,7 @@ los gobiernos locales y se señala el modo de participación en los
 asuntos del gobierno central que se considera supremo.</p>
 <p>Ejemplos de Estados federales se encuentran en Estados Unidos,
 Alemania, Suecia, Argentina, Brasil, México, Venezuela, Canadá e India,
-entre otros.</p>
+entre otros.</p><?Pub Caret 63?>
 <imagen src="CS_07_10_CO_IMG27_small.jpg">
 <p>Este mapa muestra las diferentes Comunidades Autónomas en las que
 se divide España desde 1978. Cada una cuenta con organismos de gobierno
