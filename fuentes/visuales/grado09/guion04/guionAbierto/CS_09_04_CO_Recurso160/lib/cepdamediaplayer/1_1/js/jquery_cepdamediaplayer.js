@@ -2,7 +2,7 @@
  *
  * CEPDA Media Player - jQuery plugin basado en Acorn Media Player
  *
- * Versión 15.02.19.1
+ * Versión 15.10.08.1F
  *
  * Autores Acorn Media Player: www.ghinda.net 
  *														(stephenoldham y leslash en github.com)
@@ -334,6 +334,9 @@
 			// - BUG general Audios: Si recolocamos el audio, en vez de clonarlo, no recibimos evento de metadata...
 			// Debemos tener en cuenta estos temas:
 			// Si es iOS o es un audio, clonamos el nodo
+
+			// 18/2/2015 - cuando va incrustado, siempre hay que hacer el clone del node. En Chrome ha dejado
+			// de dar problemas... por lo que el bug anterior relativo a Chrome ya no afecta.
 			if (/*is_ios_browser || cepda.$self.is('audio')*/true) {
 				$wrapper[0].appendChild( cepda.$self[0].cloneNode(true) );
 				// Quitamos la media real y nos quedamos con el nuevo media/video dentro del contenedor
@@ -1030,16 +1033,20 @@
 				if (options.onToolbarChanged) {
 					options.onToolbarChanged(cepda, options);
 				}
+
+				// 8/10/2015 - en iOS 9, si usamos touchstart como evento de origen del playMedia(), el vídeo
+				// no arranca. En cambio si usamos click sí que lo hace.
+				// CAMBIAMOS 'touchstart' por 'click' siempre.
 				
 				// Click del botón play/pause
-				cepda.$playBtn.bind( (is_touch_device) ? 'touchstart' : 'click', playMedia);
+				cepda.$playBtn.bind( (is_touch_device) ? 'click' /*'touchstart'*/ : 'click', playMedia);
 				
 				// BIG Play button
 				if (options.bigBtnOn && !cant_show_big_play)
-					cepda.$bigBtn.bind( (is_touch_device) ? 'touchstart' : 'click', playMedia);
+					cepda.$bigBtn.bind( (is_touch_device) ? 'click' /*'touchstart'*/: 'click', playMedia);
 
 				if (document.createElement('video').canPlayType) {
-					cepda.$self.bind((is_touch_device) ? 'touchstart' : 'click', playMedia);
+					cepda.$self.bind((is_touch_device) ? 'click' /*'touchstart'*/: 'click', playMedia);
 				}
 
 				// Eventos del propio vídeo
