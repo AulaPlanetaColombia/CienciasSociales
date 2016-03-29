@@ -1,512 +1,438 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_08_11_CO">
-  <libroTitulo>Zonas biogeográficas de Colombia</libroTitulo>
-  <seccion1 id="S1_CS_08_11_CO_CAC8B678146541358BFEC7E4CB889AF5">
-    <seccion1Titulo>Los hábitats terrestres de Colombia</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_11_CO_img_01_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso010&amp;IdRecurso=RES-7EE50A034BA74E42BFDC0A2EF89ADDF9">Recurso F7B-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_11_CO_img_02_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <seccion2 id="S2_CS_08_11_CO_F41D83A58E604AB7BAC9E15201DF52C8">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso030&amp;IdRecurso=RES-72407E92D6B046B79F31B8F5EA18120E">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_11_CO_68CAE66D3BFF423292704DAC95C2B979">
-    <seccion1Titulo>La región biogeográfica insular</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_11_CO_img_04_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso040&amp;IdRecurso=RES-925E82F0FB824B8BA8DC751ADA6FB78B">Recurso F10B-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_08_11_CO_8C97BF4C99E045098DA6122BF2B7DC6D">
-        <seccion2Titulo>Territorios insulares oceánicos caribeños</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_05_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_11_CO_DAD66146970049F3BA7E26F9D4FDF4DE">
-        <seccion2Titulo>Territorios insulares oceánicos del Pacífico</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_06_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso050&amp;IdRecurso=RES-AFFE5AD1E46A4E77AA4831FFFA59781C">Recurso M10A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_07_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso060&amp;IdRecurso=RES-037B5442C54C4D8DB964BCAC16C76BE5">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_11_CO_F3A73A369956403E90AE87FB64CE57F7">
-    <seccion1Titulo>Las regiones biogeográficas del Caribe y del Pacífico</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_11_CO_img_08_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <seccion2 id="S2_CS_08_11_CO_E1ACFC45D58642C0A0D5409441B13169">
-        <seccion2Titulo>Cinturón árido pericaribeño</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_09_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_11_CO_D98A4F2E48E647D396E84FBE3F09CEEC">
-        <seccion2Titulo>Macizo de la Sierra Nevada de Santa Marta</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_10_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso080&amp;IdRecurso=RES-7061280453E34DF69D77CC13E1040355">Recurso M1C-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_11_CO_482EF44E7975426EAB8D1B85DDF179A5">
-        <seccion2Titulo>Provincia del Chocó – Magdalena</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_11_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso020&amp;IdRecurso=RES-4430A515FE1E49F4AF9D0833E55572F8">Recurso M2A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_12_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso100&amp;IdRecurso=RES-00E911A66F6B4FC29E3EBB9553C1933C">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_11_CO_6ADA1D45D2424CECBFA57E331D2E83A0">
-    <seccion1Titulo>Las regiones biogeográficas del Oriente</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_11_CO_img_13_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso110&amp;IdRecurso=RES-962BC2C97AD24EAFB5584313D3ED46F3">Recurso F4-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_08_11_CO_4493BD142A194185B3E043CF97038CB1">
-        <seccion2Titulo>Provincia de la Orinoquía</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_14_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_11_CO_6F14A7BF3A0D425384207F1257DFFD00">
-        <seccion2Titulo>Provincia de la Guyana</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_15_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso120&amp;IdRecurso=RES-9A7C64E440664F4F9EF69EC3BEB94809">Recurso M5A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_11_CO_4D2FAE413402435AA61214389D610BFE">
-        <seccion2Titulo>Provincia de la Amazonía</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_16_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_17_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso140&amp;IdRecurso=RES-E59669FEFBB84E85BEECC4349763A2A3">Recurso M101A-04</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_11_CO_F3B3FBE808D049A9B8D6AA8A5409FE63">
-    <seccion1Titulo>La región biogeográfica Norandina</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_11_CO_img_18_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso150&amp;IdRecurso=RES-FBA6CB1379814BECA9E9333449649DEB">Recurso F8-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_08_11_CO_A74111538C604832B6E5AB0CE4DD3199">
-        <seccion2Titulo>Provincia Altoandina</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_19_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_08_11_CO_232041CB2D1242C6A7D18465E9D6DCC4">
-        <seccion2Titulo>Provincia de los páramos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_20_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso050&amp;IdRecurso=RES-AFFE5AD1E46A4E77AA4831FFFA59781C">Recurso M10A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_08_11_CO_img_21_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso170&amp;IdRecurso=RES-343C5E2BDE204B8195CC2558D6371F47">Recurso M101A-05</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_08_11_CO_D69885D36AB646A7A2BD42E30F3584F1">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_11_CO_img_22_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso180&amp;IdRecurso=RES-89AC009E7A254F24B57D84FA90E6FDA9">Competencias: identificación de las especies en peligro</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_08_11_CO_img_23_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso190&amp;IdRecurso=RES-D1B8B2462AAC4E78B09C2996402AE5FF">Proyecto: investigación de la contaminación en nuestra localidad</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_08_11_CO_778D235F910E4413B95AAF529DAAC22B">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso210&amp;IdRecurso=RES-25A5FED6BE654FFE85AD0663F0C190DB">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso220&amp;IdRecurso=RES-B75BFFB297D546BFA0A476F133AE8F80">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Zonas biogeográficas de Colombia</libroTitulo>
+<seccion1 id="S1_CS_08_11_CO_CAC8B678146541358BFEC7E4CB889AF5">
+<seccion1Titulo>Los hábitats terrestres de Colombia</seccion1Titulo>
+<seccion1Texto>
+<p>Los <negrita>hábitats</negrita> de Colombia son muy variados y
+contienen gran <negrita>diversidad biológica</negrita>, de los que
+se obtienen bienes y servicios fundamentales para el bienestar social
+y el desarrollo económico y cultural del país.</p>
+<p>Conocer la <negrita>riqueza biológica</negrita> se convierte en
+campo obligado de primer orden para generar y proyectar <negrita>políticas
+de manejo</negrita> y <negrita>conservación</negrita> para el <negrita
+>desarrollo sostenible</negrita> del país, ya que parte de la biodiversidad
+aún está por descubrirse.</p>
+<imagen src="CS_08_11_CO_IMG01_small.jpg">
+<p>El ser humano existe gracias a que <negrita>aprovecha</negrita
+> en su vida cotidiana los beneficios de la <negrita>biodiversidad</negrita
+>, ya que provee su sustento y bienestar, suministrando alimentos,
+agua y materias primas. Sin embargo, la <negrita>biodiversidad</negrita
+> representa un abanico mucho más amplio de servicios que se desconocen
+o se subvaloran.</p>
+</imagen>
+<p>Los <negrita>hábitats</negrita> son unidades que obedecen a una
+estructura jerárquica, que va desde los grandes biomas, bioma, ecosistema
+y hábitat. Los hábitats terrestres de Colombia se encuentran distribuidos
+en cinco grandes <negrita>biomas</negrita> terrestres, con condiciones
+climáticas y geográficas generales dada por los pisos altitudinales:</p>
+<listaNumerada>
+<listaElemento>Biomas de montañas con páramos y selvas andinas.</listaElemento>
+<listaElemento>Biomas de selvas de tierras bajas y cálidas o selva
+lluviosa tropical.</listaElemento>
+<listaElemento>Bioma de bosque seco.</listaElemento>
+<listaElemento>Bioma de sabanas.</listaElemento>
+<listaElemento>Bioma de matorral desértico.</listaElemento>
+</listaNumerada>
+<p>Algunos <negrita>ecosistemas</negrita> se han <negrita>adaptado</negrita
+> a ambientes específicos y únicos, como son la <negrita>vegetación
+de matorrales xerófilos</negrita> de ambientes rocosos de los <negrita
+>tepuyes</negrita> amazónicos; los <negrita>médanos</negrita> o ambientes
+arenosos de las <negrita>sabanas del Orinoco</negrita>; <negrita>selvas</negrita
+> inundables, <negrita>bosques de galería</negrita>, <negrita>manglares</negrita
+> y <negrita>natales</negrita>; <negrita>bosques</negrita> pantanosos; <negrita
+>morichales</negrita> y <negrita>várzeas</negrita> e <negrita>igapos
+amazónicos</negrita>. Contienen especies endémicas de flora y fauna
+vulnerables a la extinción.</p>
+<p>Sobre el estudio de la biogeografía de Colombia es indispensable
+conocer y caracterizar la enorme diversidad biológica del país en
+relación con el ambiente físico, para entender la <negrita>distribución</negrita
+> de las especies en el tiempo y el espacio. Esto permite atender
+las necesidades y prioridades de manejo, conservación y <negrita>sostenibilidad</negrita
+> de la <negrita>biota</negrita><enlace
+destino="http://www.magiasalvaje.org/protagonistas/los-ecosistemas-de-colombia-magia-salvaje-456"
+> [VER]</enlace>.</p>
+<destacado><destacadoTitulo>La biota</destacadoTitulo><destacadoTexto>
+<p>La <negrita>biota</negrita> o comunidad biótica incluye todos los
+organismos vivos, desde los microorganismos hasta plantas y animales
+superiores, que habitan, interactúan y se interrelacionan en un ambiente
+físico particular. Por ejemplo, la biota natural de un arrecife la
+componen el plancton, los corales, peces, artrópodos, esponjas marinas,
+anémonas, etc.</p>
+</destacadoTexto></destacado>
+<p>La compleja evolución del territorio colombiano dio origen a una
+amplia diversidad de regiones con características particulares por
+su paisaje, relieve, clima, hidrología, geología y suelos, lo que
+permitió el establecimiento y desarrollo de especies de flora y fauna
+particulares para cada región. Por estar en la franja ecuatorial,
+Colombia pertenece a la <negrita>ecozona neotropical</negrita>. Conoce
+más sobre la biodiversidad del país<enlace
+destino="http://www.humboldt.org.co/es/biodiversidad/videos"> [VER]</enlace
+>.</p>
+<imagen src="CS_08_11_CO_IMG02_small.jpg">
+<p>El Macizo Colombiano es la región más grande de aguas nacientes,
+llamada “estrella fluvial”. Allí nacen los ríos Magdalena, Cauca,
+Caquetá y Patía. Es una región de gran riqueza paisajística dada por
+el relieve de altas cimas y valles profundos, con diferentes pisos
+térmicos y suelos fértiles. Por estas características geográficas
+es una región de gran diversidad y abundancia de fauna y flora.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso010&amp;IdRecurso=RES-7EE50A034BA74E42BFDC0A2EF89ADDF9"
+>Interactivo con los conceptos básicos</enlace>
+</profundiza><seccion2
+id="S2_CS_08_11_CO_F41D83A58E604AB7BAC9E15201DF63A9">
+<seccion2Titulo>Destrucción de los hábitats terrestres en Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>deforestación</negrita> constituye la causa principal
+de destrucción de hábitats en Colombia. Esta práctica se ha dado en
+el país desde épocas precolombinas, y como consecuencia los ecosistemas
+originales se han degradado o perdido, quedando las especies vegetales
+y animales <negrita>vulnerables</negrita>. Esto ha ocasionado su proceso
+de <negrita>extinción</negrita>. Lamentablemente, en la actualidad
+resulta difícil hacer un listado de las especies extintas en el país<enlace
+destino="http://animalesextincion.org/COLOMBIA"> [VER]</enlace>.</p>
+<imagen src="CS_08_11_CO_IMG03_small.jpg">
+<p>El <negrita>bosque seco</negrita> es el hábitat del <negrita>mico
+tití cabeciblanco</negrita>. Este bosque ocupaba 9 millones de hectáreas
+y actualmente quedan el 8 %, por lo cual es uno de los ecosistemas
+más amenazados del país y es la causa de que el mico tití se le considere
+una especie en peligro de extinción.</p>
+</imagen>
+<p>El problema de la extinción es <negrita>más severo</negrita> en
+el caso de las <negrita>plantas</negrita>. Hoy se sabe que un buen
+número de especies de plantas coleccionadas en el siglo pasado, en
+ regiones bien conocidas y que hoy están completamente deforestadas,
+han sido arrasadas y no se han vuelto a coleccionar en otros lugares.
+Aunque esto también se explica, en algunos casos, por los pocos esfuerzos
+que se realizan en <negrita>recolección</negrita>, <negrita>colección</negrita
+> y <negrita>sistematización</negrita>, evidentemente es probable
+que muchas de ellas se hayan perdido para siempre.</p>
+<p>Como ejemplo, dos especies de passiflora: <negritacursiva>P. mariquitensis</negritacursiva
+>, descrita y coleccionada por José Celestino Mutis, y <negritacursiva
+>P. azeroana</negritacursiva> descrita por el padre Lorenzo Uribe
+(solo se conserva un dibujo), en la región de Honda y Mariquita. En
+la actualidad no se registra en ninguna región del país.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_11_CO_F41D83A58E604AB7BAC9E15201DF74B0">
+<seccion2Titulo>Áreas protegidas</seccion2Titulo>
+<seccion2Texto>
+<p>Las áreas silvestres actúan como reguladores y amortiguadores de
+procesos microclimáticos, ciclos biogeoquímicos y fenómenos naturales.
+Además contienen las últimas reservas de germoplasmas naturales de
+la biota del territorio colombiano.</p>
+<destacado><destacadoTitulo>Áreas silvestres</destacadoTitulo>
+<destacadoTexto>
+<p>Es una porción del territorio nacional cuya capacidad potencial
+del uso de la tierra no permite una actividad productiva intensiva.
+Se restringe a prácticas de protección, conservación y manejo sostenible
+de los suelos, fuentes acuíferas y biota, que naturalmente estén presentes.
+Las áreas de protección y conservación son una categoría del uso de
+la tierra que debe contemplarse para el <negrita>Esquema Nacional
+de Ordenamiento Territorial</negrita>.</p>
+</destacadoTexto></destacado>
+<p>Las Áreas Silvestres Protegidas (ASP) se seleccionan, se delimitan
+y se protegen jurídicamente, con el propósito de integrarlas a un
+régimen especial de planificación y manejo que asegure su conservación.
+El conjunto de ASP administradas por el Estado o bajo su supervisión,
+constituye el Sistema Nacional de Áreas Silvestres Protegidas (SNASP)<enlace
+destino="https://www.youtube.com/watch?v=gRqCA7e2XrE"> [VER]</enlace
+>.</p>
+<recuerda><recuerdaTexto>
+<p><negrita>Parques Nacionales Naturales de Colombia</negrita> es
+una Unidad Administrativa Especial de orden nacional que se encarga
+de la administración y manejo del Sistema de Parques Nacionales Naturales
+y la coordinación del Sistema Nacional de Áreas Protegidas, adscrito
+al <negrita>Sector Ambiente y Desarrollo Sostenible</negrita>.</p>
+</recuerdaTexto></recuerda>
+<p>Para declarar un área protegida se considera lo siguiente:</p>
+<listaSinNumerar>
+<listaElemento>Representatividad biológica del área.</listaElemento>
+<listaElemento>Zona de  gran valor biológico por sus altos índices
+de biodiversidad.</listaElemento>
+<listaElemento>Zonas que contengan especies endémicas, raras, o de
+distribución reducida, que estén amenazadas, estén en riesgo de extinción
+o su hábitat esté en riesgo.</listaElemento>
+<listaElemento>Zonas que contengan especies endémicas, raras, o de
+distribución reducida, que estén amenazadas, estén en riesgo de extinción
+o su hábitat esté en riesgo.</listaElemento>
+<listaElemento>Zonas que provean servicios ecosistémicos, como regulación
+del clima, provisión de alimento, reducción y mitigación de riesgos
+naturales y protección de sitios con valor escénico o paisajístico.</listaElemento>
+<listaElemento>Áreas asociadas con etnias, culturas propias, vestigios
+arqueológicos o patrimonio histórico.</listaElemento>
+<listaElemento>Otras consideraciones, como los instrumentos de ordenamiento
+ambiental del territorio y la zonificación adoptada para las reservas
+forestales (Ley 2 de 1959).</listaElemento>
+</listaSinNumerar>
+<p>El Sistema de Parques Nacionales Naturales de Colombia guarda buena
+parte de la enorme riqueza natural y cultural del país en 54 áreas
+protegidas, que abarcan más de 11 % del territorio nacional y 1,28
+de la superficie marina. Revisa el mapa completo de áreas protegidas<enlace
+destino="http://www.parquesnacionales.gov.co/portal/wp-content/uploads/2014/01/Mapa-59-%C3%A1reas.pdf"
+> [VER]</enlace>.</p>
+<p>Según la Guía de Parques Nacionales Naturales de Colombia, las
+áreas protegidas se agrupan en cuatro regiones:</p>
+<table border="1"><colgroup><col width="37*"/><col width="62*"/>
+</colgroup>
+<tbody>
+<tr>
+<td>Región del Caribe</td>
+<td>5 Parques Nacionales Naturales (PNN)<br/>4 Santuarios de Fauna
+y Flora (SFF)<br/>1 Vía Parque (VP) Isla de Salamanca</td>
+</tr>
+<tr>
+<td>Región Andina</td>
+<td>20 PNN<br/>5 SFF<br/>1 Área Natural Única (ANU) Los Estoraques</td>
+</tr>
+<tr>
+<td>Región del Pacífico</td>
+<td>4 PNN<br/>1 SFF</td>
+</tr>
+<tr>
+<td>Región de la Amazonia y la Orinoquia</td>
+<td>10 PNN<br/>2 Reserva Nacional Natural (RNN)<br/>1 Santuario de
+Flora Plantas medicinales Orito Ingi-Ande</td>
+</tr>
+</tbody>
+</table>
+<profundiza>
+<enlace>Sistema Nacional de Áreas Silvestres Protegidas (SNASP)</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_11_CO_F41D83A58E604AB7BAC9E15201DF52C8">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso030&amp;IdRecurso=RES-72407E92D6B046B79F31B8F5EA18120E"
+>Recurso M101A-01</enlace><?Pub Caret -2?>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_11_CO_68CAE66D3BFF423292704DAC95C2B979">
+<seccion1Titulo>La región biogeográfica insular</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_04_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso040&amp;IdRecurso=RES-925E82F0FB824B8BA8DC751ADA6FB78B"
+>Recurso F10B-01</enlace>
+</profundiza><seccion2
+id="S2_CS_08_11_CO_8C97BF4C99E045098DA6122BF2B7DC6D">
+<seccion2Titulo>Territorios insulares oceánicos caribeños</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_05_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_11_CO_DAD66146970049F3BA7E26F9D4FDF4DE">
+<seccion2Titulo>Territorios insulares oceánicos del Pacífico</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_06_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso050&amp;IdRecurso=RES-AFFE5AD1E46A4E77AA4831FFFA59781C"
+>Recurso M10A-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_07_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso060&amp;IdRecurso=RES-037B5442C54C4D8DB964BCAC16C76BE5"
+>Recurso M101A-02</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_11_CO_F3A73A369956403E90AE87FB64CE57F7">
+<seccion1Titulo>Las regiones biogeográficas del Caribe y del Pacífico</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_08_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<seccion2 id="S2_CS_08_11_CO_E1ACFC45D58642C0A0D5409441B13169">
+<seccion2Titulo>Cinturón árido pericaribeño</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_09_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_11_CO_D98A4F2E48E647D396E84FBE3F09CEEC">
+<seccion2Titulo>Macizo de la Sierra Nevada de Santa Marta</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_10_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso080&amp;IdRecurso=RES-7061280453E34DF69D77CC13E1040355"
+>Recurso M1C-01</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_11_CO_482EF44E7975426EAB8D1B85DDF179A5">
+<seccion2Titulo>Provincia del Chocó – Magdalena</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_11_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso020&amp;IdRecurso=RES-4430A515FE1E49F4AF9D0833E55572F8"
+>Recurso M2A-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_12_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso100&amp;IdRecurso=RES-00E911A66F6B4FC29E3EBB9553C1933C"
+>Recurso M101A-03</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_11_CO_6ADA1D45D2424CECBFA57E331D2E83A0">
+<seccion1Titulo>Las regiones biogeográficas del Oriente</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_13_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso110&amp;IdRecurso=RES-962BC2C97AD24EAFB5584313D3ED46F3"
+>Recurso F4-01</enlace>
+</profundiza><seccion2
+id="S2_CS_08_11_CO_4493BD142A194185B3E043CF97038CB1">
+<seccion2Titulo>Provincia de la Orinoquía</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_14_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_11_CO_6F14A7BF3A0D425384207F1257DFFD00">
+<seccion2Titulo>Provincia de la Guyana</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_15_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso120&amp;IdRecurso=RES-9A7C64E440664F4F9EF69EC3BEB94809"
+>Recurso M5A-01</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_11_CO_4D2FAE413402435AA61214389D610BFE">
+<seccion2Titulo>Provincia de la Amazonía</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_16_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_17_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso140&amp;IdRecurso=RES-E59669FEFBB84E85BEECC4349763A2A3"
+>Recurso M101A-04</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_11_CO_F3B3FBE808D049A9B8D6AA8A5409FE63">
+<seccion1Titulo>La región biogeográfica Norandina</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_18_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso150&amp;IdRecurso=RES-FBA6CB1379814BECA9E9333449649DEB"
+>Recurso F8-01</enlace>
+</profundiza><seccion2
+id="S2_CS_08_11_CO_A74111538C604832B6E5AB0CE4DD3199">
+<seccion2Titulo>Provincia Altoandina</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_19_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_11_CO_232041CB2D1242C6A7D18465E9D6DCC4">
+<seccion2Titulo>Provincia de los páramos</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_20_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso050&amp;IdRecurso=RES-AFFE5AD1E46A4E77AA4831FFFA59781C"
+>Recurso M10A-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_21_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso170&amp;IdRecurso=RES-343C5E2BDE204B8195CC2558D6371F47"
+>Recurso M101A-05</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_11_CO_D69885D36AB646A7A2BD42E30F3584F1">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_22_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso180&amp;IdRecurso=RES-89AC009E7A254F24B57D84FA90E6FDA9"
+>Competencias: identificación de las especies en peligro</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_08_11_CO_img_23_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso190&amp;IdRecurso=RES-D1B8B2462AAC4E78B09C2996402AE5FF"
+>Proyecto: investigación de la contaminación en nuestra localidad</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_08_11_CO_778D235F910E4413B95AAF529DAAC22B"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso210&amp;IdRecurso=RES-25A5FED6BE654FFE85AD0663F0C190DB"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso220&amp;IdRecurso=RES-B75BFFB297D546BFA0A476F133AE8F80"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+</enlacesreferencia></masinformacion></libro>
