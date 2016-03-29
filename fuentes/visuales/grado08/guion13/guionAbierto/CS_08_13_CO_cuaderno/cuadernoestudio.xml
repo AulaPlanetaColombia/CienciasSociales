@@ -2,7 +2,6 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="CS_08_13_CO">
 <libroTitulo>La Constitución Política</libroTitulo>
 <seccion1 id="S1_CS_08_13_CO_4991ADB0F079487FA34DC68E3B303950">
@@ -50,7 +49,7 @@ ciudadanía.</p>
 <p>Además, la noción política de la Constitución también consagra
 los <negrita>derechos y libertades fundamentales de los ciudadanos</negrita
 >, lo cual les ofrece protección ante el amplio poder del Estado.</p>
-<imagen src="CS_08_13_CO_IMG02_small.jpg">
+<imagen ampliable="no" src="CS_08_13_CO_IMG02_small.jpg">
 <p>En el artículo 16 de la <negrita>Declaración de los Derechos del
 Hombre y del Ciudadano</negrita> se identifica la <negrita>noción
 política</negrita> de la Constitución: “Toda sociedad en la cual no
@@ -89,7 +88,9 @@ a pesar de que es una monarquía parlamentaria cuya reina es Isabel
 II del Reino Unido; no obstante, su estructura estatal y gubernamental
 está contemplada en la Ley Constitucional de 1986.</p>
 <profundiza>
-<enlace>La importancia de las constituciones políticas</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso010&amp;IdRecurso=RES-01C6E0D2E69D40069137E1AD8FAB0D5B"
+>La importancia de las constituciones políticas</enlace>
 </profundiza></seccion2Texto></seccion2><seccion2
 id="S2_CS_08_13_CO_E11F0D0D6D1349CFA9418E3A1FDBB584">
 <seccion2Titulo>El origen de las Constituciones</seccion2Titulo>
@@ -104,7 +105,7 @@ de los señores hacia sus esclavos y siervos. Asimismo, determinó las
 sanciones para quienes infringían la ley, aunque estas dependían de
 la clase social; así, entre más pobre era el infractor, más severo
 era el castigo.</p>
-<imagen src="CS_08_13_CO_IMG03_small.jpg">
+<imagen ampliable="no" src="CS_08_13_CO_IMG03_small.jpg">
 <p>El <negrita>Código de Hammurabi</negrita> fue un conjunto de leyes
 promulgado por Hammurabi, rey de Babilonia. Pretendió reflejar la
 idea del buen gobierno, ofreciendo ejemplos de casos jurídicos específicos.
@@ -139,7 +140,7 @@ mujeres) a la libertad, la propiedad y la seguridad.</p>
 primeras enmiendas de la Constitución de Estados Unidos, que se crearon
 cuando los opositores a la Constitución declararon que esta no defendía
 correctamente las libertades humanas.</p>
-<imagen src="CS_08_13_CO_IMG05_small.jpg">
+<imagen ampliable="no" src="CS_08_13_CO_IMG05_small.jpg">
 <p>La <negrita>Carta de Derechos</negrita> de Estados Unidos incluye
 libertades que no se encuentran en el cuerpo principal de la Constitución
 Política, como la libertad religiosa, de expresión, de prensa y de
@@ -179,9 +180,9 @@ id="S2_CS_08_13_CO_EDF5AD8B494A42998040C0C1399DE43E">
 <seccion2Texto>
 <p>A pesar de que actualmente la mayoría de los países tiene una Constitución,
 no todos ellos tienen gobiernos constitucionales.</p>
-<p>Un gobierno constitucional es aquel que se limita a lo que indica
-su Constitución. Por ello, un gobierno que incumple lo estipulado
-en la Ley Fundamental del Estado no puede llamarse constitucional,
+<p>Un <negrita>gobierno constitucional</negrita> es aquel que se limita
+a lo que indica su Constitución. Por ello, un gobierno que incumple
+lo estipulado en la Ley Fundamental del Estado no puede llamarse constitucional,
 así tenga un documento llamado Constitución.</p>
 <p>Para que un gobierno sea considerado constitucional porque se somete
 a los mandatos constitucionales debe:</p>
@@ -232,7 +233,9 @@ el nuevo documento o el fragmento reformado.</listaElemento>
 la ciudadanía vota a favor o en contra de la propuesta de transformación.</listaElemento>
 </listaSinNumerar>
 <practica>
-<enlace>Conoce el proceso de reforma de una Constitución</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso040&amp;IdRecurso=RES-597E112A6F0B498E953D42F4A2E2B5D5"
+>Conoce el proceso de reforma de una Constitución</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_08_13_CO_F6FD71ED39C1422B92B62B47F0446DCF">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -276,7 +279,7 @@ id="S2_CS_08_13_CO_962FA8C2C1094195B3C1C3EE62C5CF83">
 <p>Desde el grito de Independencia, en 1810, fueron muchos los partidarios
 de un gobierno <negrita>republicano y constitucional</negrita>, pero
 también muchos pretendieron establecer un gobierno de corte <negrita
->monárquico</negrita>.</p><?Pub Caret 186?>
+>monárquico</negrita>.</p>
 <p>Una vez logrado el consenso de que la mejor opción para conservar
 la independencia era el establecimiento de una república, el debate
 estuvo entre <negrita>centralizar el poder o federarlo</negrita>.</p>
@@ -288,206 +291,731 @@ de la Nueva Granada y la Capitanía General de Venezuela. En <negrita
 Constituyente</negrita> para redactar la Constitución que regiría
 a la república.</p>
 </imagen>
+<p>En la Constitución de 1821 triunfó la idea <negrita>centralista</negrita
+>. No obstante, el <negrita>territorio se dividió</negrita> en <negrita
+>departamentos</negrita>, estos en provincias, y estas en cantones
+y parroquias. Igualmente, el <negrita>poder se dividió</negrita> en <negrita
+>tres ramas</negrita> (ejecutiva, legislativa y judicial).</p>
+<p>Esta Constitución consagró un <negrita>gobierno representativo</negrita
+> y, para poder elegir en <negrita>votaciones</negrita> a los representantes,
+el <negrita>ciudadano</negrita> debía ser católico, mayor de 25 años,
+habitante de la parroquia o cantón en donde se hacían las elecciones,
+saber leer y escribir, tener propiedades por valor superior a 500
+pesos, o tener una profesión o empleo que le dejara una renta anual
+de 300 pesos.</p>
+<p>Dentro de los dictámenes de la Constitución de 1821 también se
+destacan <negrita>leyes</negrita> relacionadas con estos asuntos,
+que permitían exponer la <negrita>ruptura con el orden colonial</negrita
+>:</p>
+<table border="1"><colgroup><col align="left" width="26*"/><col
+width="69*"/></colgroup>
+<tbody>
+<tr>
+<td><negrita>Libertad de partos</negrita></td>
+<td>Aunque no se logró la abolición de la esclavitud, se determinó
+que los hijos de esclavos que nacieran en el territorio de la Gran
+Colombia serían hombres libres.</td>
+</tr>
+<tr>
+<td><negrita>Abolición de resguardos y del tributo indígena</negrita
+></td>
+<td>Se reconoció a los indígenas como ciudadanos de plenos derechos,
+se eliminaron los tributos indígenas y se les volvió propietarios
+de pequeñas parcelas, que luego los latifundistas les compraron.</td>
+</tr>
+<tr>
+<td><negrita>Extinción de bienes de manos muertas</negrita></td>
+<td>Los bienes raíces de familias nobles o de la Iglesia que no podían
+comercializarse pasaron a manos del Estado, para uso educativo.</td>
+</tr>
+<tr>
+<td><negrita>Abolición de la Inquisición</negrita></td>
+<td>Los bienes y rentas de esta institución medieval pasaron al Estado.</td>
+</tr>
+</tbody>
+</table>
+<p>A pesar de que se pensó en la inclusión de los que hasta ese momento
+no habían sido tenidos en cuenta, esta Constitución Política dejó
+de lado las ideas de los federalistas y la pluralidad cultural y política
+de las diversas regiones de la república.</p>
 </seccion2Texto></seccion2><seccion2
 id="S2_CS_08_13_CO_C0553EDA16EC469385BDCC3960F11BEB">
 <seccion2Titulo>La Constitución de 1831</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_08_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>Cuando la Gran Colombia se disolvió, el territorio se separó en
+tres repúblicas diferentes: Venezuela, Ecuador y Nueva Granada. Entonces,
+las provincias del centro se unieron en un nuevo Estado al que llamaron <negrita
+>República de la Nueva Granada</negrita>.</p>
+<p>El marco normativo de esta nueva república fue la Constitución
+de <negrita>1831</negrita>. En ella, el <negrita>territorio se dividió
+en provincias</negrita>, y no en departamentos; cada una estaba compuesta
+por cantones, y estos por distritos parroquiales.</p>
+<imagen ampliable="no" src="CS_08_13_CO_IMG08_small.jpg">
+<p>La <negrita>Constitución de 1831</negrita> consagró a <negrita
+>Francisco de Paula Santander</negrita> como primer presidente de
+la República de la Nueva Granada. Además, le restó poder al presidente
+y se lo sumó al legislativo.</p>
 </imagen>
+<p>Si bien se permitió mayor libertad religiosa, las garantías plenas
+fueron para <negrita>la religión católica</negrita>. El gobierno conservó
+el carácter centralista y se consagró como <negrita>republicano</negrita
+>, <negrita>popular</negrita>, <negrita>representativo</negrita>, <negrita
+>electivo</negrita>, <negrita>alternativo</negrita> y <negrita>responsable</negrita
+>. Asimismo, se mantuvo la división del poder en las <negrita>tres
+ramas</negrita>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_08_13_CO_AE3E4524968B44BBA7322DB5F4CF91D8">
+<seccion2Titulo>La Constitución de 1843</seccion2Titulo>
+<seccion2Texto>
+<p>A pesar de que oficialmente los partidos políticos tradicionales
+colombianos surgieron en 1848 (el Liberal) y 1849 (el Conservador),
+puede asegurarse que la Constitución Política de <negrita>1843</negrita
+> fue una de las que estableció con más fuerza las <negrita>ideas
+conservadoras</negrita>:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Centralismo</negrita> político.</listaElemento>
+<listaElemento><negrita>Autoritarismo</negrita>, pues aunque mantuvo
+la división del gobierno en tres ramas, aumentó los poderes del ejecutivo
+y disminuyó los poderes del Congreso.</listaElemento>
+<listaElemento><negrita>Restricción del voto</negrita>, solo para
+quienes supieran leer y escribir y contaran con capital y renta elevados.</listaElemento>
+<listaElemento><negrita>Catolicismo</negrita>, pues proclamó que este
+era el único culto que sería aceptado en el territorio nacional. </listaElemento>
+</listaSinNumerar>
 </seccion2Texto></seccion2><seccion2
 id="S2_CS_08_13_CO_AE3E4524968B44BBA7322DB5F4CF72C7">
 <seccion2Titulo>La Constitución de 1853</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_09_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+<p>Ante el inconformismo que produjo el poder desmedido del ejecutivo
+y las limitaciones de las provincias para gobernarse, establecidos
+en la Constitución de 1843, diez años después, en <negrita>1853</negrita
+>, surgió una nueva Constitución Política, esta vez de <negrita>carácter
+centro-federal</negrita>.</p>
+<destacado><destacadoTitulo>La Constitución centro-federal de 1853</destacadoTitulo>
+<destacadoTexto>
+<p>La Constitución Política de 1853 tuvo rasgos centralistas y federalistas.
+Por un lado, le otorgó a las <negrita>provincias</negrita> el poder
+para hacer sus <negrita>propias leyes</negrita> pero, por otro, le
+permitió al poder <negrita>ejecutivo</negrita> continuar con el <negrita
+>gobierno central</negrita>, para no fracturar la unidad nacional.</p>
+</destacadoTexto></destacado>
+<p>Con esta nueva Ley Fundamental, <negrita>cada provincia</negrita
+> pudo tomar sus propias decisiones sobre <negrita>organización y
+administración política</negrita>, mientras continuara cumpliendo
+lo dictado por el <negrita>gobierno central</negrita>.</p>
+<p>Esto llevó a que durante ese periodo el país tuviera <negrita>vigentes
+casi 30 constituciones provinciales</negrita>, algunas de ellas <negrita
+>liberales</negrita> (como la de la provincia de Santander) y otras <negrita
+>conservadoras</negrita> (como la de la provincia de Antioquia). Esto
+redundó en que, a nivel nacional, se tomara la decisión de reducir
+el Ejército.</p>
 </seccion2Texto></seccion2><seccion2
 id="S2_CS_08_13_CO_648EF2B89D6947F4846891AD49071FAA">
 <seccion2Titulo>La Constitución de 1858</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_10_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>Como era de esperarse, la proliferación de constituciones provinciales
+generó caos en la estructura de la república, especialmente cuando
+las provincias se motivaron a transformarse en Estados soberanos.
+A esto se sumó el malestar de los militares por las medidas reduccionistas
+de la Constitución de 1853.</p>
+<p>Los militares se tomaron el poder con el liderazgo del <negrita
+>general José María Melo</negrita> y el apoyo de los <negrita>artesanos</negrita
+>; a estos se opusieron las élites. Los primeros se conocieron como <negrita
+>“los melistas”</negrita>, que querían abolir la Constitución de 1853,
+y los segundos como los <negrita>“constitucionalistas”</negrita>,
+pues la defendían.</p>
+<imagen ampliable="no" src="CS_08_13_CO_IMG09_small.jpg">
+<p>Esta situación llevó a la creación de la <negrita>Constitución
+de 1858</negrita>, de <negrita>corte federal</negrita>, pues pretendió
+impedir que un poder central como el de los militares se asentara
+nuevamente en el gobierno.</p>
 </imagen>
+<p>Este texto constitucional funcionó como el marco normativo para
+la <negrita>Confederación Granadina</negrita>, compuesta por los Estados
+de Panamá, Bolívar, Magdalena, Antioquia, Santander, Boyacá, Cundinamarca
+y Cauca.</p>
+<p>Los Estados podrían darse <negrita>su propia Constitución y nombrar
+a su presidente</negrita> por voto popular, pero sometidos al <negrita
+>gobierno general</negrita> en los asuntos que dispuso la Constitución
+Nacional. Igualmente, se mantuvo la división del poder en tres ramas.</p>
+<p>A pesar de que en ese momento Mariano Ospina Rodríguez, <negrita
+>conservador</negrita>, estaba en el poder y bajo esta ideología condujo
+su gobierno, la Constitución de 1858 fue <negrita>liberal</negrita
+> en tanto promovió las <negrita>libertades</negrita> de imprenta,
+prensa y comercio de armas, y decretó la <negrita>separación entre
+la Iglesia y el Estado</negrita>.</p>
 </seccion2Texto></seccion2><seccion2
 id="S2_CS_08_13_CO_5F47FE0CF31147FF837A39EF9DC14F61">
 <seccion2Titulo>La Constitución de 1863</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_11_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>La Constitución de <negrita>1863</negrita> surgió en el periodo
+de la <negrita>hegemonía liberal</negrita> a partir de la <negrita
+>Convención de Rionegro</negrita>. Por ello, fue la Constitución Política
+más liberal de todas, con medidas como:</p>
+<imagen src="CS_08_13_CO_IMG10_small.jpg">
+<p>Unión a perpetuidad de los Estados soberanos y federados de Antioquia,
+Bolívar, Boyacá, Cauca, Cundinamarca, Magdalena, Panamá, Santander
+y Tolima en los <negrita>Estados Unidos de Colombia</negrita>.</p>
 </imagen>
-</seccion2Texto></seccion2><seccion2
+<listaSinNumerar>
+<listaElemento>Estados con posibilidad de establecer <negrita>gobiernos
+populares y representativos</negrita>.</listaElemento>
+<listaElemento><negrita>Separación completa de la Iglesia y el Estado</negrita
+>.</listaElemento>
+<listaElemento>Nación <negrita>laica</negrita>.</listaElemento>
+<listaElemento>Restablecimiento del <negrita>matrimonio civil</negrita
+>.</listaElemento>
+<listaElemento>Permisividad del <negrita>divorcio</negrita>.</listaElemento>
+<listaElemento><negrita>Prohibición de la declaración de guerra</negrita
+> entre Estados.</listaElemento>
+<listaElemento>Consagración absoluta de los <negrita>derechos individuales</negrita
+>.</listaElemento>
+<listaElemento>Consagración de la <negrita>esclavitud como delito</negrita
+>.</listaElemento>
+<listaElemento><negrita>Abolición de la pena de muerte</negrita>.</listaElemento>
+<listaElemento><negrita>Libertades completas para los ciudadanos</negrita
+> (pensamiento, imprenta, comercio, porte de armas, circulación, educación
+y cultos).</listaElemento>
+<listaElemento>Reducción del <negrita>Ejército Nacional</negrita> y
+aumento de los <negrita>ejércitos de los Estados</negrita>.</listaElemento>
+<listaElemento><negrita>Prohibición</negrita> al gobierno nacional
+para <negrita>intervenir</negrita> en los conflictos internos de los
+Estados.</listaElemento>
+<listaElemento>División del poder en tres ramas, con <negrita>primacía
+de la Legislativa</negrita>.</listaElemento>
+</listaSinNumerar>
+<recuerda><recuerdaTexto>
+<p>Debido a las <negrita>extensas libertades</negrita> otorgadas por
+la Constitución de 1863 a los ciudadanos y a los Estados federados,
+muchos consideraron que era una Ley Fundamental <negrita>impracticable</negrita
+>. Incluso, el escritor Víctor Hugo la llamó <negrita>“una Constitución
+para un país de ángeles”</negrita>.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
 id="S2_CS_08_13_CO_E3B5280B57BE40F1A6B7E982EF05FA0A">
 <seccion2Titulo>La Constitución de 1886</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_12_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>Por supuesto, los gobernantes y gobernados de los Estados Unidos
+de Colombia no eran ángeles ni actuaban como tales. Frente a la gran
+cantidad de libertades, la <negrita>gobernabilidad</negrita> se hizo
+difícil.</p>
+<p>Debido a esta situación y a intereses partidistas, los liberales
+se dividieron en facciones. Algunos del ala independiente, como <negrita
+>Rafael Núñez</negrita>, apoyaron a los conservadores en la idea de
+reformar la Constitución. Esto causó una nueva <negrita>guerra civil</negrita
+>, que perdieron los liberales radicales.</p>
+<p>Con el apoyo de los <negrita>conservadores</negrita>, Núñez inició
+su segundo periodo presidencial, ya no como liberal radical sino como <negrita
+>liberal independiente</negrita>, y su primer pronunciamiento fue
+para declarar muerta la Constitución de 1863.</p>
+<imagen ampliable="no" src="CS_08_13_CO_IMG11_small.jpg">
+<p>La <negrita>Constitución de 1886</negrita> surgió como marco normativo
+para un nuevo periodo de la historia de Colombia, llamado a reorganizar
+el país y a reimplantar el orden perdido debido a la ingobernabilidad
+que facilitó la Constitución anterior. Esta etapa se conoció como
+la <negrita>Regeneración</negrita>.</p>
 </imagen>
-<practica>
+<p>En la elaboración de la nueva Constitución, cada Estado participó
+con dos delegados. <negrita>Miguel Antonio Caro</negrita> fue el redactor
+final del documento. Este marcó una gran diferencia con el anterior,
+pues impulsó la conducción del país bajo las <negrita>ideas del conservatismo</negrita
+>:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Centralismo</negrita> gubernamental rígido.</listaElemento>
+<listaElemento>División del poder en tres ramas, pero <negrita>amplias
+facultades para el poder ejecutivo</negrita>.</listaElemento>
+<listaElemento><negrita>Ampliación del periodo presidencial</negrita
+> a seis años.</listaElemento>
+<listaElemento>Facultad presidencial de declarar <negrita>estado de
+sitio</negrita>.</listaElemento>
+<listaElemento>Los Estados se convirtieron en <negrita>departamentos</negrita
+>.</listaElemento>
+<listaElemento><negrita>Capacidad de voto</negrita> solo para los
+hombres que supieran leer y escribir, y que tuvieran un elevado patrimonio.</listaElemento>
+<listaElemento>Creación de un <negrita>Ejército Nacional permanente</negrita
+> y <negrita>abolición de los ejércitos locales</negrita>.</listaElemento>
+<listaElemento><negrita>Restablecimiento de la pena de muerte</negrita
+>.</listaElemento>
+<listaElemento><negrita>Libertades</negrita> para los ciudadanos, <negrita
+>solo si estas no atentaban contra el orden establecido</negrita>.</listaElemento>
+<listaElemento>Oficialización de la <negrita>religión católica</negrita
+> como <negrita>religión nacional</negrita>.</listaElemento>
+<listaElemento>Facultad de la <negrita>Iglesia</negrita> para <negrita
+>dirigir la educación pública</negrita>.</listaElemento>
+</listaSinNumerar>
+<recuerda><recuerdaTexto>
+<p>Fue en la <negrita>Constitución de 1886</negrita> que el país tomó
+el nombre de <negrita>República de Colombia</negrita>.</p>
+</recuerdaTexto></recuerda><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso070&amp;IdRecurso=RES-109E7BC9E64C45CAA72F7D2CFE96D637"
->Recurso M10A-01</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_13_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+>Reconoce los principales mandatos de las constituciones colombianas
+del siglo XIX</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_13_CO_44650928718E4E05ADF2F59FE411B65F">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso080&amp;IdRecurso=RES-4F47DE175D3E4231B5482AE434E9A7B0"
->Recurso M101A-02</enlace>
+>Refuerza tu aprendizaje: Las constituciones colombianas del siglo
+XIX</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_08_13_CO_F08C2A473DB2429BB80BA441B7EB9EC5">
 <seccion1Titulo>La Constitución Política de Colombia de 1991</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aunque la República de <negrita>Colombia</negrita> estuvo regida
+por <negrita>la Constitución de 1886 por más de un siglo</negrita
+>, nuevos factores que incidieron en el país durante el <negrita>siglo
+XX</negrita> llevaron a tomar la decisión de transformar nuevamente
+el texto constitucional.</p>
+<p>En <negrita>1991</negrita> se proclamó la <negrita>nueva Constitución
+Política</negrita> que, a pesar de que ha tenido reformas, actualmente
+está <negrita>vigente</negrita>.</p>
 <seccion2 id="S2_CS_08_13_CO_44650928718E4E05ADF2F59FE411A03D">
 <seccion2Titulo>El surgimiento de la Constitución Política de 1991</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_14_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>Un término para definir lo que fue el país durante el <negrita
+>siglo XIX</negrita> es el <negrita>conflicto bipartidista</negrita
+>. Este no solo se reflejó en la cifra y diversidad de constituciones
+políticas de esa época, sino también en el elevado número de muertes
+por causas políticas, en las dificultades económicas de un país devastado
+por la guerra civil pero que necesitaba estar presente en el mercado
+internacional, en la necesidad nacional de endeudarse con las grandes
+potencias económicas y hasta en la pérdida del territorio correspondiente
+a Panamá.</p>
+<p>Ante la urgencia de detener la guerra, los partidos <negrita>Liberal</negrita
+> y <negrita>Conservador</negrita> se <negrita>turnaron de forma pacífica
+el poder</negrita> durante el periodo del <negrita>Frente Nacional</negrita
+>. Si bien esta fue una buena fórmula para ponerle <negrita>fin al
+conflicto bipartidista</negrita>, generó <negrita>inconformismo</negrita
+> entre otros <negrita>sectores políticos minoritarios y sociales</negrita
+>, que fueron <negrita>excluidos</negrita> del juego político por
+no estar alineados con las ideas liberales o conservadoras.</p>
+<imagen ampliable="no" src="CS_08_13_CO_IMG12_small.jpg">
+<p>El <negrita>narcotráfico</negrita> fue un fenómeno que proliferó
+durante el <negrita>siglo XX</negrita> en Colombia. La respuesta de
+los “capos” a las persecuciones gubernamentales fue el <negrita>terrorismo</negrita
+>, como método de amedrentamiento de la sociedad civil para que presionara
+al gobierno a no firmar acuerdos de extradición con Estados Unidos.</p>
 </imagen>
+<p>El <negrita>siglo XX</negrita> colombiano, entonces, se caracterizó
+por el <negrita>temor</negrita> popular, la <negrita>corrupción</negrita
+> de los funcionarios que caían en las redes del <negrita>narcotráfico</negrita
+> y el <negrita>asesinato</negrita> de los que se oponían, la <negrita
+>falta de garantías</negrita> para la <negrita>participación ciudadana
+segura</negrita> en los asuntos del país, y la urgencia de <negrita
+>unir fuerzas y voluntades</negrita> para enfrentar estos problemas.</p>
+<p>Por ello, comenzó a pensarse en una nueva Constitución, que diera
+cabida a la <negrita>pluralidad</negrita> de ideas y opiniones, que <negrita
+>involucrara a la ciudadanía</negrita> en los asuntos públicos y que
+legitimara un Estado con <negrita>poderes equilibrados y herramientas
+efectivas de sanción</negrita>.</p>
+<imagen src="CS_08_13_CO_IMG13_small.jpg">
+<p>Un grupo de estudiantes universitarios, conocidos como el movimiento
+de <negrita>“la Séptima Papeleta”</negrita>, propuso que en las elecciones
+de 1990 (de las diferentes Cámaras) se incluyera una papeleta adicional
+para <negrita>votar a favor o en contra de una reforma constitucional</negrita
+>. </p>
+</imagen>
+<p>A pesar de que la Registraduría no apoyó el proceso, la papeleta
+se les entregó a los votantes y los estudiantes universitarios hicieron
+el conteo extraoficialmente. El resultado fue muy favorable para la
+transformación constitucional, por lo cual el presidente Virgilio
+Barco decretó que en las <negrita>elecciones presidenciales</negrita
+> se hiciera nuevamente, pero <negrita>de manera oficial</negrita
+>, <negrita>la consulta a la ciudadanía</negrita>.</p>
+<p>De un total de 5 218 338 colombianos que votaron, <negrita>4 991
+887</negrita> lo hicieron a <negrita>favor de la reforma</negrita
+>. Esto llevó a que el nuevo presidente, <negrita>César Gaviria Trujillo</negrita
+>, convocara a una <negrita>Asamblea Nacional Constituyente</negrita
+> que representara la diversidad de grupos e ideas presentes en el
+país para ese momento. Allí inició el proceso legal que dio como resultado
+la <negrita>Constitución Política de Colombia de 1991</negrita>.</p><?Pub
+Caret 250?>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso090&amp;IdRecurso=RES-B8D87DC522E0464F8D6643DEE1465701"
->Recurso F10B-01</enlace>
+>Origen de la Constitución Política de Colombia de 1991</enlace>
 </profundiza></seccion2Texto></seccion2><seccion2
 id="S2_CS_08_13_CO_07E781BE30F445CB9240C0A36017EB48">
 <seccion2Titulo>Los objetivos de la Constitución Política de 1991</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_15_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+<p>La Constitución Política de 1991 buscó impulsar <negrita>un nuevo
+modelo de país</negrita> a todo nivel (económico, político y social).
+Para ello, tuvo que <negrita>ofrecer garantías y reglamentar las acciones</negrita
+>, tanto <negrita>de los gobernantes</negrita> como de <negrita>los
+gobernados</negrita>, y lograr así el bienestar de los ciudadanos
+y la convivencia pacífica.</p>
+<p><negrita>Promulgó unos principios básicos</negrita> que cobijaron
+a todos los colombianos, sin importar su raza, sexo, nivel socioeconómico,
+ideología política o creencias culturales. Asimismo, abrió la posibilidad
+de <negrita>participación</negrita> a la ciudadanía en asuntos públicos
+y dio el paso de la <negrita>democracia representativa</negrita> a
+la <negrita>democracia participativa</negrita>.</p>
+<destacado><destacadoTitulo>Discurso del presidente César Gaviria
+Trujillo</destacadoTitulo><destacadoTexto>
+<p><cursiva>Después de más de 200 años, ha quedado claro que la separación
+de poderes públicos no es garantía suficiente contra los abusos. Tampoco
+lo es la enumeración detallada de las funciones de quien detenta la
+autoridad. Lo que falta es <negrita>atribuir poder a los ciudadanos
+y crear mecanismos para que estos lo ejerzan pacífica y ordenadamente
+de manera directa, por vías institucionales</negrita>, en cualquier
+momento y lugar.</cursiva></p>
+</destacadoTexto></destacado>
+<p>Asimismo, para asegurar el cumplimiento de esos principios básicos,
+la nueva Constitución estableció que la república funcionaría como
+un <negrita>Estado Social de Derecho</negrita> y que sus poderes estarían
+divididos equitativamente en <negrita>tres ramas</negrita>. A esto
+se sumó el establecimiento de <negrita>responsabilidades ciudadanas</negrita
+>, que le hacen contrapeso a los derechos.</p>
 </seccion2Texto></seccion2><seccion2
 id="S2_CS_08_13_CO_9A752932B50F4154AA645147D191DFE2">
 <seccion2Titulo>Los principios constitucionales</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_16_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+<p>Los principios son ideas fundamentales que rigen la conducta de
+los seres humanos. Como la Constitución de 1991 pretendió impulsar
+un <negrita>nuevo modelo de país</negrita>, tuvo que plantear unos <negrita
+>principios constitucionales generales</negrita> sobre los cuales
+se generaran las demás normas para casos concretos y, así, darle forma
+al <negrita>nuevo modelo de sociedad</negrita> que haría posible el
+cambio.</p>
+<p>En la Asamblea Nacional Constituyente, los representantes determinaron
+los <negrita>principios</negrita> que orientarían la conducta estatal
+y ciudadana en Colombia:</p>
+<table border="1"><colgroup><col width="25*"/><col width="74*"/>
+</colgroup>
+<tbody>
+<tr>
+<td><negrita>Dignidad</negrita></td>
+<td>Respeto a la vida. Todo ciudadano es digno de que se valore su
+humanidad por el solo hecho de existir.</td>
+</tr>
+<tr>
+<td><negrita>Pluralismo</negrita></td>
+<td>Respeto por lo diferente y la valoración de la diversidad, sin
+ejercer discriminación alguna por motivos raciales, políticos, económicos
+o culturales. Esto implica aceptar que los colombianos <negrita>son
+iguales ante la ley</negrita> y merecen un trato respetuoso.</td>
+</tr>
+<tr>
+<td><negrita>Libertad</negrita></td>
+<td>Facultad de obrar sin la coerción o influencia de otro, en tanto
+personas racionales y autónomas, capaces de desarrollar proyectos
+en beneficio propio o colectivo. Esto, sin interferir en la libertad
+de los demás y sin realizar acciones que perjudiquen a los otros ciudadanos.</td>
+</tr>
+<tr>
+<td><negrita>Soberanía popular</negrita></td>
+<td>La voluntad del gobierno debe someterse a la voluntad ciudadana,
+que puede hacerse visible por medio de la representación o de la participación.</td>
+</tr>
+<tr>
+<td><negrita>Representación</negrita></td>
+<td>Los ciudadanos pueden comisionar a otros para que los representen
+en algunas instancias decisorias de gobierno, controlando que sus
+decisiones y acciones correspondan a las de los votantes.</td>
+</tr>
+<tr>
+<td><negrita>Participación</negrita></td>
+<td>La participación directa en los asuntos públicos, por medio del
+voto o de los diferentes mecanismos de participación (plebiscito,
+referendo, consulta popular, cabildo abierto, iniciativa popular y
+revocatoria del mandato). Además, es deber ciudadano hacer control
+político y velar por el buen funcionamiento de las instituciones públicas.</td>
+</tr>
+<tr>
+<td><negrita>Estado Social de Derecho</negrita></td>
+<td>El Estado está al servicio de los ciudadanos, garantizando sus
+libertades, derechos y capacidades para llevar una vida digna. Asimismo,
+los ciudadanos cuentan con mecanismos para exigir que esto se cumpla.</td>
+</tr>
+<tr>
+<td><negrita>Preservación del patrimonio cultural y natural</negrita
+></td>
+<td>Obligación de proteger la pluralidad a nivel cultural y natural.
+Esto implica contribuir a la conservación del patrimonio natural (megadiversidad)
+y cultural (valores y tradiciones, materiales e inmateriales) del
+país.</td>
+</tr>
+</tbody>
+</table>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso100&amp;IdRecurso=RES-D2A8F58EDEF647BC8A9B6E0A82FDEB19"
->Recurso M1C-01</enlace>
+>Comprende los principios constitucionales que rigen a los colombianos</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_08_13_CO_276EF26E47E54DF4BE1B395C915FC6FF">
 <seccion2Titulo>Los derechos constitucionales</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<seccion3 id="S3_CS_08_13_CO_06E74FBD967D4E239670A873D8D9057C">
+<p>Existe un documento que contiene los derechos que la humanidad
+ha estado de acuerdo en otorgarles a las personas: la <cursiva>Declaración
+de los Derechos del Hombre y del Ciudadano</cursiva>. Esta se conoció
+en nuestro territorio gracias a la traducción que Antonio Nariño hizo
+del francés al español en 1794.</p>
+<p>Pero, además, cada sociedad ha decidido otorgarles a sus ciudadanos
+otros derechos adicionales, de acuerdo con las necesidades de las
+comunidades, y que quedan plasmados por escrito en las constituciones.
+Todos estos derechos se conocen como los <negrita>derechos constitucionales</negrita
+>.</p>
+<p>En Colombia existen derechos de <negrita>primera</negrita>, <negrita
+>segunda</negrita> y <negrita>tercera generación</negrita>, según
+su naturaleza. Cada grupo de derechos está asociado a un valor fundamental
+de la Revolución francesa (<negrita>libertad, igualdad y fraternidad</negrita
+>).</p>
+<seccion3 id="S3_CS_08_13_CO_06E74FBD967D4E239670A873D8D9130A">
+<seccion3Titulo>Los derechos fundamentales</seccion3Titulo>
+<seccion3Texto>
+<p>Los <negrita>derechos fundamentales</negrita> o de <negrita>primera
+generación</negrita> fueron los primeros en ser reconocidos en el
+mundo. Estos aseguran la <negrita>protección de los ciudadanos frente
+a los posibles abusos de poder</negrita> del Estado y de los gobernantes.</p>
+<p>Se reconocen fácilmente por su <negrita>nexo directo con los principios
+constitucionales</negrita>, por lo cual se preocupan especialmente
+por la dignidad, la libertad y la posibilidad de participación de
+los ciudadanos.</p>
+<p>En la Constitución Política de Colombia, estos aparecen en los <negrita
+>artículos 11 a 41</negrita>. Pero no son los únicos derechos fundamentales
+de los colombianos; también están los escritos en convenios internacionales
+de los que el país forma parte y los naturales, es decir, los que
+toda persona tiene por el solo hecho de ser humana.</p>
+<imagen src="CS_08_13_CO_IMG14_small.jpg">
+<p>En el <negrita>artículo 86</negrita>, la Constitución de 1991 establece
+el mecanismo judicial para la <negrita>protección de los derechos
+fundamentales</negrita>: la <negrita>acción de tutela</negrita>. Mediante
+ella, el ciudadano puede pedir, justificadamente, la protección inmediata
+de sus derechos fundamentales cuando los sienta vulnerados o amenazados
+por la acción u omisión de cualquier autoridad pública.</p>
+</imagen>
+<p>Entre los derechos fundamentales se encuentran el derecho a la
+vida, a la libertad en sus diferentes formas, a la igualdad, a la
+seguridad, al trabajo, al voto y a la paz, entre otros.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_08_13_CO_06E74FBD967D4E239670A873D8D9057C">
 <seccion3Titulo>Los derechos económicos, sociales y culturales</seccion3Titulo>
 <seccion3Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_17_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>Los <negrita>derechos económicos, sociales y culturales</negrita
+>, también conocidos como de <negrita>segunda generación</negrita
+>, comenzaron a ser reconocidos a nivel mundial desde el siglo XX,
+a partir de la creación de la Organización de las Naciones Unidas
+(ONU), con el fin de evitar hechos como las guerras mundiales.</p>
+<p>Estos derechos garantizan la igualdad de todas las personas, incluso
+de las que se encuentran en condiciones de vulnerabilidad física o
+económica, para acceder a una <negrita>vida digna</negrita>. Por ello,
+están relacionados específicamente con el principio del <negrita>Estado
+Social de Derecho</negrita>, en tanto es deber del Estado garantizar
+un mínimo de servicios para que la ciudadanía pueda satisfacer sus
+necesidades básicas. De ahí que a estos derechos también se les llame <negrita
+>“prestacionales”</negrita>.</p>
+<imagen src="CS_08_13_CO_IMG15_small.jpg">
+<p>El Estado colombiano está obligado por la Constitución de 1991
+a garantizarles a los ciudadanos la <negrita>prestación de los servicios
+de seguridad social</negrita>, para cumplir con derechos como el de
+la <negrita>buena salud</negrita>.</p>
 </imagen>
+<p>En la Constitución Política de Colombia, estos derechos aparecen
+en los <negrita>artículos 42 a 77</negrita> y entre ellos se encuentran
+el derecho a la familia, los derechos de los niños, el derecho a la
+seguridad social, a la atención de salud, a una vivienda digna, a
+la propiedad, a la educación, a la expresión de diferentes manifestaciones
+culturales y a la protección del patrimonio cultural, entre otros.</p>
 </seccion3Texto></seccion3><seccion3
 id="S3_CS_08_13_CO_452476DEC5834AB0954CF155BE25DD32">
 <seccion3Titulo>Los derechos colectivos y del ambiente</seccion3Titulo>
 <seccion3Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
+<p>Los <negrita>derechos colectivos y del ambiente</negrita>, también
+conocidos como de <negrita>tercera generación</negrita>, fueron los
+últimos en ser reconocidos a nivel mundial. Toman en cuenta los derechos
+de las agrupaciones humanas y del medio en el que viven.</p>
+<p>Estos derechos defienden <negrita>intereses comunes a toda una
+colectividad</negrita> y favorecen a toda una comunidad y no a una
+persona individual. En este sentido, proteger el medio ambiente en
+el que vive la comunidad es un derecho colectivo (el derecho al <negrita
+>medio ambiente sano</negrita>), pues afecta la supervivencia de la
+especie humana. </p>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_18_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<imagen src="CS_08_13_CO_IMG16_small.jpg">
+<p>Así como los derechos de segunda generación protegen el patrimonio
+cultural, los <negrita>derechos de tercera generación</negrita> defienden
+el patrimonio natural del país.</p>
 </imagen>
+<p>En la Constitución Política de Colombia, estos derechos están en
+los <negrita>artículos 78 a 82</negrita> y entre ellos se encuentran
+la calidad de los bienes y servicios de consumo, la salubridad pública,
+el ambiente sano, la conservación de la diversidad ambiental y de
+los recursos naturales, la prohibición de armas químicas, biológicas
+y nucleares, y la integridad del espacio público.</p>
+<p>Estos derechos pueden ser exigidos por los ciudadanos a través
+del mecanismo de <negrita>acción popular</negrita>.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso110&amp;IdRecurso=RES-A72F6CA9844F41F2A340CE4E5D0AD995"
->Recurso M8A-01</enlace>
+>Identifica los derechos contemplados en la Constitución Política
+de 1991</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_CS_08_13_CO_C76E403F36174B5BA6C96827DF07C604">
 <seccion2Titulo>La organización del Estado Social de Derecho en Colombia</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
+<p>De acuerdo con la Constitución Política, “Colombia es un Estado
+Social de Derecho”. Esto se debe a que cumple con dos condiciones:</p>
+<p>Primero, es un <negrita>Estado de Derecho</negrita> porque sigue
+el <negrita>principio de legalidad</negrita>, es decir, se rige por
+leyes claras que limitan la acción del gobierno; y porque cumple el <negrita
+>principio de la división de poderes</negrita>, con lo cual garantiza
+que una sola persona o grupo no detente todo el poder.</p>
+<p>Y segundo, es un <negrita>Estado Social</negrita> porque el Estado
+colombiano tiene la obligación de garantizarles a los ciudadanos unas <negrita
+>condiciones mínimas</negrita> que les permitan <negrita>vivir dignamente</negrita
+>. Así, el Estado está llamado a mejorar, en la medida de sus posibilidades,
+las condiciones de vida de la sociedad bajo parámetros de <negrita
+>equidad</negrita>.</p>
 <seccion3 id="S3_CS_08_13_CO_399F4ED8992B4360957D0160D2C7CA72">
 <seccion3Titulo>La división de poderes</seccion3Titulo>
 <seccion3Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_19_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+<p>Como Estado de Derecho, en todas sus constituciones Colombia ha
+dispuesto la división del poder en tres ramas:</p>
+<table border="1"><colgroup><col width="25*"/><col width="74*"/>
+</colgroup>
+<tbody>
+<tr>
+<td><negrita>Rama ejecutiva</negrita></td>
+<td>Encargada de <negrita>gobernar</negrita>. Ejecuta las leyes y
+hace que todos los colombianos las cumplan. Su máxima autoridad es
+el presidente de la República.</td>
+</tr>
+<tr>
+<td><negrita>Rama legislativa</negrita></td>
+<td>Encargada de <negrita>legislar</negrita>. Sus órganos y funcionarios
+hacen y aprueban las leyes que rigen la nación. Su representación
+nacional es el Congreso de la República.</td>
+</tr>
+<tr>
+<td><negrita>Rama judicial</negrita></td>
+<td>Encargada de <negrita>impartir justicia</negrita>. Juzga a quienes
+han violado la Constitución y otras leyes, y determinan una sanción
+justa y acorde con la normativa nacional vigente. Su cabeza es la
+Corte Suprema de Justicia.</td>
+</tr>
+</tbody>
+</table>
+<p>Sin embargo, en cada Constitución del siglo XIX se le dio mayor
+poder a una de las ramas, según los intereses del grupo que detentaba
+el gobierno. Esto causó disparidades e inconformismos, que llevaron
+a prolongar las guerras civiles.</p>
+<p>Por ello, en la <negrita>Constitución de 1991</negrita> se estableció
+el <negrita>principio de la división de poderes</negrita>, de forma
+equitativa, con el objetivo de que ninguna persona u órgano acumule
+más poder como para imponer su voluntad arbitrariamente.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso120&amp;IdRecurso=RES-2AD15FF393404FF291A3415177625DEB"
->Recurso F6-01</enlace>
+>La división de poderes en la Constitución Política de 1991</enlace>
 </profundiza>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_20_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+<p>El <negrita>equilibrio de poderes</negrita> se asegura, además,
+porque la Constitución dicta claramente las <negrita>funciones específicas
+de cada rama y sus instituciones</negrita>, y permite que los servidores
+públicos puedan <negrita>hacerse control y vigilancia</negrita> entre
+ellos.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso130&amp;IdRecurso=RES-D0CA966507C141618307B9D18C1DEC1E"
->Recurso M5D-01</enlace>
+>Diferencia las funciones y los actores de las tres ramas del poder
+público en Colombia</enlace>
 </practica></seccion3Texto></seccion3><seccion3
 id="S3_CS_08_13_CO_262217A672DF4A8E924F8FED5E1D49E8">
 <seccion3Titulo>Los órganos independientes</seccion3Titulo>
 <seccion3Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_21_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>La Constitución Política de Colombia también incluye disposiciones
+sobre <negrita>algunos órganos independientes</negrita> a las tres
+ramas del poder público. Estos tienen funciones de control y electorales.</p>
+<p>Los órganos con <negrita>funciones de control</negrita> deben vigilar
+que los funcionarios cumplan sus obligaciones de acuerdo con la Constitución
+y otras leyes. El control puede hacerse en diversos ámbitos:</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>Contraloría General de la República</negrita
+>, con el apoyo de las <negrita>contralorías territoriales (municipales,
+distritales o departamentales)</negrita> es el órgano que se encarga
+del <negrita>control fiscal</negrita>. Esto quiere decir que se asegura
+de que el tesoro público o los recursos del presupuesto nacional estén
+bien administrados y de que los gobernantes no los utilicen en beneficio
+propio.</listaElemento>
+<listaElemento>El <negrita>Ministerio Público</negrita> y sus órganos
+y servidores <negrita>(Procuraduría General de la Nación, Defensoría
+del Pueblo y defensorías delegadas)</negrita> se encargan del <negrita
+>control legal y disciplinario</negrita>. En conjunto, vigilan la
+conducta de los servidores públicos y de las fuerzas armadas para
+verificar que cumplan con las actuaciones que la Constitución y otras
+leyes les han asignado, y que no abusen de su poder. En caso de que
+encuentren incumplimientos en sus funciones y comprueben acciones
+que perjudican el interés público, les impondrán sanciones disciplinarias.</listaElemento>
+</listaSinNumerar>
+<p>Los órganos con <negrita>funciones electorales</negrita> velan
+por el adecuado desarrollo de los procesos electorales en todo el
+país.</p>
+<imagen src="CS_08_13_CO_IMG17_small.jpg">
+<p>La <negrita>Constitución de 1991</negrita> se encargó de crear <negrita
+>órganos electorales autónomos</negrita>, que aseguren la legalidad
+y buen desarrollo de los comicios en el país, <negrita>sin depender
+o estar influenciados</negrita> por alguna fuerza política o por algún
+miembro del gobierno. Esto garantiza el correcto funcionamiento de
+la <negrita>democracia</negrita> en el país.</p>
 </imagen>
+<p>Los órganos con funciones electorales en Colombia son:</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>Registraduría Nacional del Estado Civil</negrita
+>, que mantiene un registro actualizado de todos los ciudadanos colombianos,
+avala a los votantes para ejercer este derecho ciudadano y dirige
+los procesos electorales a nivel logístico y administrativo.</listaElemento>
+<listaElemento>El <negrita>Consejo Nacional Electoral</negrita>, que
+se asegura de que los procesos electorales cumplan con los rasgos
+de un Estado democrático y constitucional, realiza el conteo de votos,
+y reglamenta la participación política de partidos, movimientos y
+candidatos.</listaElemento>
+</listaSinNumerar>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso140&amp;IdRecurso=RES-DE57969BBDF14DAE9FD56D788F6B685D"
->Recurso M1B-01</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_22_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+>Conoce funciones de los órganos independientes del Estado colombiano</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_08_13_CO_C76E403F36174B5BA6C96827DF07A715">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso150&amp;IdRecurso=RES-2943045EF63D4A8EB732ECEB41BA9209"
->Recurso M101A-03</enlace>
-</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
-</seccion1Texto></seccion1><seccion1
-id="S1_CS_08_13_CO_35B6B4D10CE34B7FBDEE48FB6E9A9732">
+>Refuerza tu aprendizaje: La Constitución Política de Colombia de
+1991</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_08_13_CO_35B6B4D10CE34B7FBDEE48FB6E9A9732">
 <seccion1Titulo>Competencias</seccion1Titulo>
 <seccion1Texto>
 <p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_23_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso160&amp;IdRecurso=RES-CE833F67FCAE4B9B9C4A459E154ECE82"
->Recurso M102AB-01</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_13_CO_img_24_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<practica>
+>Competencias: estudio de los servicios que ofrecen las instituciones
+que protegen los derechos de los colombianos</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso170&amp;IdRecurso=RES-AF0EDD38192C4C2A9FF683B5A92DEF15"
->Recurso F13-01</enlace>
+>Proyecto: investigación sobre el trámite para crear las leyes en
+Colombia</enlace>
 </practica></seccion1Texto></seccion1><masinformacion
 id="MI_CS_08_13_CO_7EC5034913294127A61BB55EEE157D4A"><mapaconceptual>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso190&amp;IdRecurso=RES-C7AEF16BCA274AF7A1C2EDAB2FBF2C6D"
->Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+>Mapa conceptual del tema de La Constitución Política</enlace>
+</mapaconceptual><autoevaluate><enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso200&amp;IdRecurso=RES-65011AB5CD694AFB9F98A18A30A22887"
->Evaluación</enlace></autoevaluate><enlacesreferencia>
-<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+>Evalúa tus conocimientos sobre el tema La Constitución Política</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://www.banrepcultural.org/asamblea-nacional-constituyente"
+>Archivo de la Asamblea Nacional Constituyente</enlace>
+<enlace
+destino="http://www.congresovisible.org/democracia/ramaspoderpublico/"
+>Ramas del poder público y órganos independientes en Colombia</enlace>
+<enlace
+destino="http://www.procuraduria.gov.co/guiamp/media/file/Macroproceso%20Disciplinario/Constitucion_Politica_de_Colombia.htm"
+>Constitución Política de Colombia 1991</enlace>
 </enlacesreferencia></masinformacion></libro>
