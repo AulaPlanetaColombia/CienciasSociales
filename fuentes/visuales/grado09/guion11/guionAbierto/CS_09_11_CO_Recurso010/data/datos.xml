@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f8">
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f8">
 <main title="La utilidad de los censos" bkColor="#FFFFFF" titleColor="#000000" theme="black" buttonsWidth="220" buttonsHeight="52" trans="fade">
 <default>
 <img path="CS_09_11_CO_REC010_IMG01.jpg" x="300" y="100" width="" height=""/>
 </default><buttons>
 <button title="Indicadores demográficos">
-<img path="CS_09_11_CO_REC010_IMG02.png" x="" y="" width="" height="" anim=""/>
+<img path="CS_09_11_CO_REC010_IMG02.jpg" x="" y="" width="" height="" anim=""/>
 <audio path="rec_audio1.mp3"/></button>
 <button title="Condiciones de vida">
-<img path="CS_09_11_CO_REC010_IMG03.png" x="" y="" width="" height="" anim=""/>
+<img path="CS_09_11_CO_REC010_IMG03.jpg" x="" y="" width="" height="" anim=""/>
 <audio path="rec_audio2.mp3"/></button>
 <button title="Actividad económica">
-<img path="CS_09_11_CO_REC010_IMG04.png" x="" y="" width="" height="" anim=""/>
+<img path="CS_09_11_CO_REC010_IMG04.jpg" x="" y="" width="" height="" anim=""/>
 <audio path="rec_audio3.mp3"/></button>
 <button title="Densidad de población">
-<img path="CS_09_11_CO_REC010_IMG05.JPG" x="" y="" width="" height="" anim=""/>
+<img path="CS_09_11_CO_REC010_IMG05.jpg" x="" y="" width="" height="" anim=""/>
 <audio path="rec_audio4.mp3"/></button>
 <button title="Etnias y grupos humanos">
-<img path="CS_09_11_CO_REC010_IMG06.png" x="" y="" width="" height="" anim=""/>
+<img path="CS_09_11_CO_REC010_IMG06.jpg" x="" y="" width="" height="" anim=""/>
 <audio path="rec_audio5.mp3"/></button>
 </buttons>
 </main>
@@ -59,9 +59,15 @@
 <div>
 <p><strong>&iquest;Qu&eacute; es y para qu&eacute;&nbsp;sirve&nbsp;un censo?</strong></p>
 
-<p>Al conocer c&oacute;mo se conforma y vive su poblaci&oacute;n, un pa&iacute;s puede&nbsp;<strong>planear</strong> y dise&ntilde;ar&nbsp;<strong>estrategias</strong> de soluci&oacute;n orientadas a <strong>mejorar</strong> la calidad de vida de sus habitantes.</p>
+<p>Al conocer c&oacute;mo se conforma y vive su poblaci&oacute;n, un pa&iacute;s puede&nbsp;<strong>planear</strong> y<br />
+dise&ntilde;ar&nbsp;<strong>estrategias</strong> de soluci&oacute;n orientadas a <strong>mejorar</strong> la calidad de vida de<br />
+sus habitantes.</p>
 
-<p>Estos estudios poblacionales se realizan con determinada periodicidad para garantizar un conocimiento suficiente de las condiciones en que vive la poblaci&oacute;n y facilitar, as&iacute;, la puesta en marcha de <strong>pol&iacute;ticas</strong> orientadas al <strong>control</strong> <strong>demogr&aacute;fico</strong>, al acceso a <strong>servicios</strong>, <strong>vivienda</strong>,&nbsp;<strong>infraestructura</strong> y <strong>educaci&oacute;n</strong>.&nbsp;</p>
+<p>Estos estudios poblacionales se realizan con determinada periodicidad<br />
+para garantizar un conocimiento suficiente de las condiciones en que vive<br />
+la poblaci&oacute;n y facilitar, as&iacute;, la puesta en marcha de <strong>pol&iacute;ticas</strong> orientadas al<br />
+<strong>control</strong> <strong>demogr&aacute;fico</strong>, al acceso a <strong>servicios</strong>, <strong>vivienda</strong>,&nbsp;<strong>infraestructura</strong><br />
+y <strong>educaci&oacute;n</strong>.&nbsp;</p>
 </div>
 ]]></pantalla2>
 </masinfo>
