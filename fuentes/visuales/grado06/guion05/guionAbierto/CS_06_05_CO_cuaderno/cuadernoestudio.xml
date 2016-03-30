@@ -129,10 +129,10 @@ destino="/LoIdRedirect.aspx?LoId=CS_06_05_CO_Recurso030&amp;IdRecurso=RES-D29E7B
 precolombinas de América, se han establecido varios <negrita>periodos</negrita
 > según el desarrollo alcanzado por los diversos <negrita>pueblos</negrita
 > que habitaron el territorio americano.</p>
-<imagen ampliable="no" src="CS_06_05_CO_IMG06_small.jpg">
+<imagen src="CS_06_05_CO_IMG06_small.jpg">
 <p>Ubicación de algunas de las culturas indígenas prehispánicas en
 América, las cuales tuvieron diferentes periodos de evolución histórica
-hasta el momento de la ocupación europea.</p>
+hasta el momento de la ocupación europea.</p><?Pub Caret -2?>
 </imagen>
 <destacado><destacadoTitulo>El concepto de “precolombino”</destacadoTitulo>
 <destacadoTexto>
@@ -141,7 +141,7 @@ de los primeros pobladores al continente americano y el dominio de
 los europeos.</p>
 </destacadoTexto></destacado>
 <p>Los periodos históricos establecidos para América precolombina
-son:</p><?Pub Caret 48?>
+son:</p>
 <listaSinNumerar>
 <listaElemento><negrita>Paleoindio:</negrita> 25 000 a 10 000 a.C.</listaElemento>
 <listaElemento><negrita>Arcaico:</negrita> 10 000 a 3000 a.C.</listaElemento>
@@ -402,7 +402,7 @@ la <negrita>agricultura</negrita>, donde el <negrita>maíz</negrita
 > ocupó el primer lugar sobre otros productos, como el algodón, el
 cacao y el fríjol. Los mayas utilizaron la técnica de <negrita>roza</negrita
 >, que consistía en quemar extensos territorios para luego cultivarlos.</p>
-<imagen ampliable="no" src="CS_06_05_CO_IMG16_small.jpg">
+<imagen src="CS_06_05_CO_IMG16_small.jpg">
 <p>Para incrementar la productividad de los suelos los mayas recurrieron
 a técnicas como la rotación de los cultivos.</p>
 </imagen>
@@ -417,7 +417,7 @@ mayas, el <cursiva>Popol Vuh</cursiva>, narra el origen de los pueblos
 quiché<enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=111833&amp;ruta=Buscador"
 > [VER]</enlace>.</p>
-<imagen src="CS_06_05_CO_IMG17_small.jpg">
+<imagen ampliable="no" src="CS_06_05_CO_IMG17_small.jpg">
 <p>Itzamná, dios de la sabiduría. Dios supremo del panteón maya. Inventor
 de las ciencias y el conocimiento. Se le consideraba el espíritu universal,
 dios del cielo, la noche y el día. Dios que anima al caos para que
@@ -812,7 +812,7 @@ la totalidad de las tareas de producción y servicios.</p>
 Hispánica<enlace
 destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=49683&amp;ruta=Buscador"
 > [VER]</enlace>.</p>
-<imagen ampliable="no" src="CS_06_05_CO_IMG30_small.jpg">
+<imagen src="CS_06_05_CO_IMG30_small.jpg">
 <p>La sociedad inca estaba conformada por un emperador, con la máxima
 autoridad, la nobleza y el pueblo. Los de menor privilegio eran los <cursiva
 >yanaconas</cursiva>, un grupo de sirvientes casi esclavizados.</p>
@@ -885,7 +885,7 @@ consistía en cuerdas de lana o algodón que anudaban y coloreaban.</p>
 los caminos, los acueductos, los sistemas de terrazas de cultivo,
 los regadíos, las magníficas construcciones de ciudades, como El Cuzco
 y Machu Picchu, y templos como el de Acllahuasi.</p>
-<imagen src="CS_06_05_CO_IMG32_small.jpg">
+<imagen ampliable="no" src="CS_06_05_CO_IMG32_small.jpg">
 <p>Templo de <negrita>Acllahuasi</negrita> o de la Luna, de la época
 inca, ubicado en <negrita>Pachacámac</negrita>. Fue residencia de
 las mujeres escogidas.</p>
