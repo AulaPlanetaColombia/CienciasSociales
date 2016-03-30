@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f13" title="Cuadro comparativo de las culturas&lt;/br&gt;indígenas americanas" >
-<section title="Presentación" path="imagendummy_motorf.jpg" pathAmp="imagendummy_motorf.jpg" image1Text="&lt;p&gt;Mayas, aztecas, incas, taironas y muiscas: legado ancestral para el presente.&lt;/p&gt;
-" zoom1="true" zoom2a="false" zoom2b="false" layout="0" >
-<![CDATA[<p>1492 fue un a&ntilde;o que parti&oacute; en dos la historia de las sociedades precolombinas; no solo supuso la dominaci&oacute;n europea, sino que tambi&eacute;n implic&oacute; la p&eacute;rdida de patrimonio cultural y material de las culturas ancestrales de Am&eacute;rica. Por ello, la reconstrucci&oacute;n de su historia es una tarea dif&iacute;cil y se hace a partir de los pocos vestigios que se han logrado rescatar.</p>
+<section title="Presentación" path="CS_06_05_REC230_IMG01n.jpg" pathAmp="CS_06_05_REC230_IMG01a.jpg" image1Text="&lt;p&gt;Mayas, aztecas, incas, taironas y muiscas: legado ancestral para el presente.&lt;/p&gt; " zoom1="true" zoom2a="false" zoom2b="false" layout="0" >
+<![CDATA[
+
+<p>1492 fue un a&ntilde;o que parti&oacute; en dos la historia de las sociedades precolombinas; no solo supuso la dominaci&oacute;n europea, sino que tambi&eacute;n implic&oacute; la p&eacute;rdida de patrimonio cultural y material de las culturas ancestrales de Am&eacute;rica. Por ello, la reconstrucci&oacute;n de su historia es una tarea dif&iacute;cil y se hace a partir de los pocos vestigios que se han logrado rescatar.</p>
 
 <p>Al llegar a tierras americanas, los europeos dudaron de la naturaleza humana de los pobladores originarios y los consideraron como inferiores y atrasados. M&aacute;s de 500 a&ntilde;os despu&eacute;s, en las sociedades del presente a&uacute;n persisten muchos de los prejuicios construidos sobre nuestros pueblos&nbsp; ancestrales. Sin embargo, durante los siglos trascurridos en la incomprensi&oacute;n por parte de la mirada occidental, sus descendientes han conservado su legado cultural hasta nuestros d&iacute;as.&nbsp;&nbsp;&nbsp;</p>
 
@@ -50,8 +51,7 @@
 	</li>
 </ul>
 ]]></section>
-<section title="Tarea" path="imagendummy_motorf.jpg" pathAmp="imagendummy_motorf.jpg" image1Text="&lt;p&gt;El cuadro comparativo es una herramienta que te permite organizar y contrastar la informaci&amp;oacute;n.&lt;/p&gt;
-" zoom1="true" zoom2a="false" zoom2b="false" layout="1" >
+<section title="Tarea" path="CS_06_05_REC230_IMG02n.jpg" pathAmp="CS_06_05_REC230_IMG02a.jpg" image1Text="" zoom1="true" zoom2a="false" zoom2b="false" layout="1" >
 <![CDATA[<p><strong>Introducci&oacute;n:</strong></p>
 
 <p>La disciplina de la historia <strong>valora </strong>tanto las <strong>diferencias</strong> como las <strong>semejanzas</strong> entre culturas y es una de las competencias que los estudiantes necesitan para formar su conciencia hist&oacute;rica.</p>
@@ -77,12 +77,12 @@
 <table border="1" cellpadding="1" cellspacing="1" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align: center;">Cultura</td>
-			<td style="text-align: center;">Maya</td>
-			<td style="text-align: center;">Azteca</td>
-			<td style="text-align: center;">Inca</td>
-			<td style="text-align: center;">Tairona</td>
-			<td style="text-align: center;">Muisca</td>
+			<td style="text-align:center">Aspectos</td>
+			<td style="text-align:center">Maya</td>
+			<td style="text-align:center">Azteca</td>
+			<td style="text-align:center">Inca</td>
+			<td style="text-align:center">Tairona</td>
+			<td style="text-align:center">Muisca</td>
 		</tr>
 	</tbody>
 </table>
@@ -106,7 +106,7 @@
 <table border="1" cellpadding="1" cellspacing="1" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center">Cultura</td>
+			<td style="text-align:center">Aspectos</td>
 			<td style="text-align:center">Maya</td>
 			<td style="text-align:center">Azteca</td>
 			<td style="text-align:center">Inca</td>
