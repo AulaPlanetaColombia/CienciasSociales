@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f10b">
 <main mode="f10b" title="Los climas de Oceanía">
-<tf><![CDATA[<p><img alt="" src="data/imagenes/imagendummy_motorf.jpg" style="height:315px; width:550px" /></p>
+<tf><![CDATA[<p><img alt="" src="data/imagenes/CS_07_09_REC160_IMG01.jpg" style="height:365px; width:564px" /></p>
 ]]></tf>
 </main>
 <presentation title="" title2="Profundiza" buttons="false" bkclass="slideLexico">
@@ -20,8 +20,7 @@
 	<li>
 	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">En la Polinesia y la Micronesia los vientos alisios suavizan las temperaturas (entre 20 y 24 &ordm;C).</span></span></p>
 	</li>
-</ul>
-]]></def>
+</ul>]]></def>
 	</definition>
 	<definition>
 		<title>Desértico</title>
@@ -34,8 +33,7 @@
 	<li>
 	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Temperaturas de aproximadamente 30 &ordm;C en los veranos y 10 &ordm;C&nbsp;en los inviernos.</span></span></p>
 	</li>
-</ul>
-]]></def>
+</ul>]]></def>
 	</definition>
 	<definition>
 		<title>Templado</title>
@@ -46,8 +44,7 @@
 	del Pac&iacute;fico.</span></span></li>
 </ul>
 
-<div>&nbsp;</div>
-]]></def>
+<div>&nbsp;</div>]]></def>
 	</definition>
 	<definition>
 		<title>Cálido</title>
@@ -63,8 +60,7 @@
 	<li>
 	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Precipitaciones abundantes.</span></span></p>
 	</li>
-</ul>
-]]></def>
+</ul>]]></def>
 	</definition>
 	<definition>
 		<title>Oceánico</title>
@@ -80,8 +76,7 @@
 	<li>
 	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">Lluvias uniformes durante todo el a&ntilde;o.&nbsp;</span></span></p>
 	</li>
-</ul>
-]]></def>
+</ul>]]></def>
 	</definition>
 	<definition>
 		<title>Mediterráneo</title>
@@ -101,8 +96,7 @@
 	<li>
 	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">En los veranos pueden presentarse&nbsp;precipitaciones.</span></span></p>
 	</li>
-</ul>
-]]></def>
+</ul>]]></def>
 	</definition>
 </presentation>
 <presentation title="" title2="Comprensión" buttons="false" bkclass="slideComprension">
@@ -117,8 +111,7 @@
 	<li><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:25px">&iquest;De qu&eacute; manera se ve afectado el clima de las islas cercanas al Ecuador?</span></span><br />
 	&nbsp;</li>
 	<li><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:25px">&iquest;En qu&eacute; lugares se presenta principalmente el clima templado?, &iquest;qu&eacute; caracter&iacute;stica tiene?</span></span></li>
-</ul>
-]]></def>
+</ul>]]></def>
 	</definition>
 	<definition>
 		<title></title>
@@ -131,8 +124,22 @@
 	<li><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Por qu&eacute; en la mayor&iacute;a de las regiones del continente no cae nieve?</span></span><br />
 	&nbsp;</li>
 	<li><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Qu&eacute; tipo de vegetaci&oacute;n se da en Ocean&iacute;a debido a su variedad de climas?</span></span></li>
+</ul>]]></def>
+	</definition>
+	<definition>
+		<title></title>
+		<def><![CDATA[<p><span style="color:rgb(255, 140, 0)"><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Comprensi&oacute;n</span></span></span></p>
+
+<ul>
+	<li><span style="font-family:verdana,geneva,sans-serif; font-size:25px">&iquest;Qu&eacute; diferencias encuentras entre el clima &aacute;rido y el clima templado?</span><br />
+	&nbsp;</li>
+	<li><span style="font-family:verdana,geneva,sans-serif; font-size:25px">&iquest;Por qu&eacute; crees que existe un clima mediterr&aacute;neo en Ocean&iacute;a a pesar&nbsp;de ser un territorio tan&nbsp;distante de las costas europeas?</span><br />
+	&nbsp;</li>
+	<li><span style="font-family:verdana,geneva,sans-serif; font-size:25px">Identifica qu&eacute; climas de Ocean&iacute;a podemos hallar&nbsp;en Colombia. Explica las relaciones y las diferencias que encuentres.</span></li>
 </ul>
-]]></def>
+
+<p><br />
+&nbsp;</p>]]></def>
 	</definition>
 </presentation>
 <presentation title="" title2="Investiga" buttons="false" bkclass="slideInvestiga">
@@ -141,9 +148,8 @@
 		<def><![CDATA[<p><span style="color:#FF8C00"><span style="font-size:32px"><span style="font-family:verdana,geneva,sans-serif">Investiga</span></span></span><br />
 &nbsp;</p>
 
-<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:25px">Para finalizar, te proponemos la siguiente actividad. Busca cu&aacute;les son las razones por las que el clima del continente oce&aacute;nico permiti&oacute; que &uacute;nicamente habiten en esa regi&oacute;n animales marsupiales, como canguros y koalas, y una infinita variedad de peces. Elabora un texto en el que desarrolles los argumentos y lo presentes al resto de<br />
-la clase.</span></span></p>
-]]></def>
+<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:25px">Busca cu&aacute;les son las razones por las que el clima del continente oce&aacute;nico permiti&oacute; que &uacute;nicamente habiten en esa regi&oacute;n animales marsupiales, como canguros y koalas, y una infinita variedad de peces. Elabora un texto en el que desarrolles los argumentos y lo presentes al resto de<br />
+la clase.</span></span></p>]]></def>
 	</definition>
 </presentation>
 </engine>
