@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="1" clase="c" aprid="m1c">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo/>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M1C]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa frases con sentido relacionando los contenidos de la columna izquierda con los de la derecha.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="6">
+    <cuestion>
+      <pregunta><![CDATA[Revolución Francesa]]></pregunta>
+      <respuesta><![CDATA[La Asamblea Nacional promulgó la Declaración de los Derechos del Hombre y el Ciudadano.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Independencia de Estados Unidos]]></pregunta>
+      <respuesta><![CDATA[Inspiró la Declaración de los Derechos del Hombre y el Ciudadano.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Antonio Nariño]]></pregunta>
+      <respuesta><![CDATA[Tradujo y publicó en la Nueva Granada los Derechos del Hombre.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Libertad]]></pregunta>
+      <respuesta><![CDATA[Es hacer todo aquello que no cause perjuicio a los demás.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[La Ley no es retroactiva]]></pregunta>
+      <respuesta><![CDATA[Nadie puede ser castigado sino por una ley promulgada con anterioridad a la ofensa.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Libertad de opinión]]></pregunta>
+      <respuesta><![CDATA[Ningún hombre puede ser molestado por expresar sus opiniones.]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0"/>
+</motor>

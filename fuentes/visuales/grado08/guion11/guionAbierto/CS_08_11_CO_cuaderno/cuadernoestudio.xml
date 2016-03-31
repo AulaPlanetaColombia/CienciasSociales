@@ -2,7 +2,6 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="CS_08_11_CO">
 <libroTitulo>Zonas biogeográficas de Colombia</libroTitulo>
 <seccion1 id="S1_CS_08_11_CO_CAC8B678146541358BFEC7E4CB889AF5">
@@ -107,7 +106,7 @@ una especie en peligro de extinción.</p>
 <p>El problema de la extinción es <negrita>más severo</negrita> en
 el caso de las <negrita>plantas</negrita>. Hoy se sabe que un buen
 número de especies de plantas coleccionadas en el siglo pasado, en
- regiones bien conocidas y que hoy están completamente deforestadas,
+regiones bien conocidas y que hoy están completamente deforestadas,
 han sido arrasadas y no se han vuelto a coleccionar en otros lugares.
 Aunque esto también se explica, en algunos casos, por los pocos esfuerzos
 que se realizan en <negrita>recolección</negrita>, <negrita>colección</negrita
@@ -143,6 +142,9 @@ El conjunto de ASP administradas por el Estado o bajo su supervisión,
 constituye el Sistema Nacional de Áreas Silvestres Protegidas (SNASP)<enlace
 destino="https://www.youtube.com/watch?v=gRqCA7e2XrE"> [VER]</enlace
 >.</p>
+<imagen src="CS_08_11_CO_IMG04_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
 <recuerda><recuerdaTexto>
 <p><negrita>Parques Nacionales Naturales de Colombia</negrita> es
 una Unidad Administrativa Especial de orden nacional que se encarga
@@ -153,7 +155,7 @@ al <negrita>Sector Ambiente y Desarrollo Sostenible</negrita>.</p>
 <p>Para declarar un área protegida se considera lo siguiente:</p>
 <listaSinNumerar>
 <listaElemento>Representatividad biológica del área.</listaElemento>
-<listaElemento>Zona de  gran valor biológico por sus altos índices
+<listaElemento>Zona de gran valor biológico por sus altos índices
 de biodiversidad.</listaElemento>
 <listaElemento>Zonas que contengan especies endémicas, raras, o de
 distribución reducida, que estén amenazadas, estén en riesgo de extinción
@@ -201,229 +203,1285 @@ Flora Plantas medicinales Orito Ingi-Ande</td>
 </tr>
 </tbody>
 </table>
-<profundiza>
-<enlace>Sistema Nacional de Áreas Silvestres Protegidas (SNASP)</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso020&amp;IdRecurso=RES-4430A515FE1E49F4AF9D0833E55572F8"
+>Conoce acerca de las áreas silvestres protegidas en Colombia</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_11_CO_F41D83A58E604AB7BAC9E15201DF63D9">
+<seccion2Titulo>Distribución de las regiones biogeográficas de Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>En Colombia se ha establecido un sistema de clasificación de <negrita
+>unidades biogeográficas</negrita>. La más aceptada es la clasificación
+planteada por el biólogo Jorge Ignacio ‘El Mono’ Hernández Camacho
+(1935-2001), quien dividió a Colombia en nueve <negrita>provincias
+biogeográficas</negrita>.</p>
+<destacado><destacadoTitulo>Provincia biogeográfica</destacadoTitulo>
+<destacadoTexto>
+<p>La provincia biogeográfica es una categoría de <negrita>área ecológica</negrita
+> (continental o marina) a menor escala que una región geográfica
+(en particular para Colombia). Se caracteriza por las <negrita>condiciones
+abióticas</negrita> particulares que restringe el desarrollo de determinadas <negrita
+>comunidades biológicas</negrita>.</p>
+</destacadoTexto></destacado>
+<p>Para mayor precisión, los biólogos han dividido las provincias
+en <negrita>distritos</negrita>, atendiendo la <negrita>diversidad
+ecosistémica</negrita> y la <negrita>distribución de especies endémicas</negrita
+> de fauna y flora. En total se establecen 94 distritos<enlace
+destino="http://es.calameo.com/read/0002144455e0595439244"> [VER]</enlace
+>.</p>
+<p>Las provincias biogeográficas en Colombia son:</p>
+<listaNumerada>
+<listaElemento><negrita>Territorios insulares oceánicos caribeños</negrita
+>, con 3 distritos.</listaElemento>
+<listaElemento><negrita>Territorios insulares oceánicos del Pacífico</negrita
+>, con 1 distrito.</listaElemento>
+<listaElemento><negrita>Cinturón árido pericaribeño</negrita>, con
+8 distritos.</listaElemento>
+<listaElemento><negrita>Macizo de la Sierra Nevada de Santa Marta</negrita
+>, con 5 distritos.</listaElemento>
+<listaElemento><negrita>Provincia del Chocó - Magdalena</negrita>,
+con 20 distritos.</listaElemento>
+<listaElemento><negrita>Provincia de la Orinoquia</negrita>, con 6
+distritos.</listaElemento>
+<listaElemento><negrita>Provincia de la Guyana</negrita>, con 5 distritos.</listaElemento>
+<listaElemento><negrita>Provincia de la Amazonia</negrita>, con 6
+distritos.</listaElemento>
+<listaElemento><negrita>Provincia Norandina</negrita>, la más diversa,
+con 40 distritos.</listaElemento>
+</listaNumerada>
+<imagen src="CS_08_11_CO_IMG05_small.jpg">
+<p>Mapa propuesto por el biólogo Hernández Camacho (1992), donde reconoce
+nueve provincias biogeográficas. Es de utilidad emplear la división
+por regiones naturales de Colombia, para el estudio de las nueve provincias.</p>
+</imagen>
+<p>La compleja serie de sucesos de índole geológico y climático, entre
+los que se destaca la <negrita>orogénesis andina</negrita> (origen
+de la cordillera de los Andes), la formación del <negrita>puente biológico</negrita
+> (istmo centroamericano) entre Norte y Suramérica, que hizo de Colombia
+un paso obligado de elementos florísticos y faunísticos, y los cambios
+climáticos ocurridos en el <negrita>Pleistoceno</negrita>, ha suscitado
+la gran <negrita>diversidad ecosistémica</negrita> y la gran riqueza
+de <negrita>flora</negrita> y <negrita>fauna</negrita> que hoy se
+conocen y que aún falta por descubrir.</p>
+<destacado><destacadoTitulo>Ecosistemas de Colombia</destacadoTitulo>
+<destacadoTexto>
+<p>El 68,89 % del territorio está compuesto por ecosistemas naturales.
+El 23,6 % ha sido transformado en pastos, cultivos, áreas urbanas
+y cuerpos de aguas artificiales; el 7,2 % en vegetación secundaria
+o rastrojos y solo el 0,2 % en plantaciones forestales. Conoce la
+variedad de ecosistemas colombianos<enlace
+destino="http://www.ideam.gov.co/documents/11769/222663/SALIDA_FINAL_MNE_08-07-15_1_sombras.pdf/f046815f-ae06-4eab-bf7a-5bc3c4be0af5"
+> [VER]</enlace>.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
 id="S2_CS_08_11_CO_F41D83A58E604AB7BAC9E15201DF52C8">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso030&amp;IdRecurso=RES-72407E92D6B046B79F31B8F5EA18120E"
->Recurso M101A-01</enlace><?Pub Caret -2?>
+>Refuerza tu aprendizaje: Los hábitats terrestres de Colombia</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_08_11_CO_68CAE66D3BFF423292704DAC95C2B979">
 <seccion1Titulo>La región biogeográfica insular</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_04_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+<p>La región biogeográfica insular comprende las islas en mar abierto
+de Colombia. En el mar Caribe están las islas del archipiélago de
+San Andrés y Providencia y los bancos y cayos. En el océano Pacífico
+está la isla de Malpelo, como región biogeográfica insular. Gorgona
+y Borgoñilla son ubicadas como un distrito de la provincia biogeográfica
+del Chocó por ser consideradas islas continentales.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso040&amp;IdRecurso=RES-925E82F0FB824B8BA8DC751ADA6FB78B"
->Recurso F10B-01</enlace>
+>Características principales de los territorios insulares oceánicos</enlace>
 </profundiza><seccion2
 id="S2_CS_08_11_CO_8C97BF4C99E045098DA6122BF2B7DC6D">
 <seccion2Titulo>Territorios insulares oceánicos caribeños</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_05_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>Esta unidad biogeográfica comprende territorios marino e insulares
+del mar Caribe, como las islas de San Andrés, Providencia, Santa Catalina
+y los cayos y bancos. Se localizan al noroccidente de Colombia en
+las coordenadas 12º 35' 37'' y 14º 42' de latitud norte y 81º 40'
+49'' y 81º 43' 13'' de longitud oeste.</p>
+<p>Por su cercanía con Nicaragua, es un territorio en conflicto. En
+1928 se definió el Tratado Esguerra-Bárcenas, que fue imputado en
+varias ocasiones. Una fecha significativa en este conflicto fue el
+20 de noviembre de 2012, con el fallo del Tribunal de la Corte Internacional
+de Justicia de La Haya<enlace
+destino="http://historico.elpais.com.co/paisonline/notas/Diciembre132007/esguerra.html"
+> [VER]</enlace>.</p>
+<p>La Corte Internacional de Justicia de La Haya le reconoció a Colombia
+la soberanía sobre los cayos adyacentes al archipiélago de San Andrés
+y Providencia, pero perdió cerca del 40 % del mar territorial que
+antes tenía. La decisión no ha sido aceptada por el gobierno colombiano<enlace
+destino="http://www.cancilleria.gov.co/especiales/haya/boletines.html#nota1"
+> [VER]</enlace>.</p>
+<imagen src="CS_08_11_CO_IMG06_small.jpg">
+<p>El 20 de noviembre de 2012, el Tribunal de la Corte Internacional
+de Justicia de La Haya reconoció la soberanía de Colombia en los cayos
+de Albuquerque, Este, Sudeste, Roncador, Serrana, Quitasueño, Serranilla
+y Bajonuevo. Para Nicaragua dejó extensas zonas de aguas que rodean
+a los cayos de Quitasueño y Serrana. Esto implica la reducción de
+área marítima como fuente de recurso pesquero para Colombia.</p>
 </imagen>
+<p>La isla de San Andrés tiene forma alargada, es de origen volcánico
+y presenta diversas <negrita>geoformas</negrita>, como playas, acantilados,
+serranías, colinas y cavernas. Providencia y Santa Catalina presentan
+topografía escarpadas y empinadas con alturas que superan los 350
+m, y áreas litorales coralinas.</p>
+<p>El clima es cálido y húmedo con temperaturas medias anuales cercanas
+a los 25 ºC. La precipitación media anual es de 1500 mm con régimen <negrita
+>monomodal</negrita>, de máximas lluvias en octubre y noviembre, y
+un periodo seco prolongado de diciembre a junio.</p>
+<p>En cuanto a la porción marina, se destacan ecosistemas de <negrita
+>arrecifes coralinos</negrita> y <negrita>praderas de pastos marinos</negrita
+>.</p>
+<imagen src="CS_08_11_CO_IMG07_small.jpg">
+<p>El <negrita>Parque Nacional Natural Old Providence McBean Lagoon</negrita
+> se localiza en la isla de Providencia. Fue declarado Reserva de
+la Biosfera por la Unesco en 1979. El parque forma parte del Área
+de Manejo Especial del Archipiélago de San Andrés, Providencia y Santa
+Catalina desde 1996, y de las Áreas Marinas Protegidas del Archipiélago
+desde el 2004, con el propósito de proteger la riqueza biótica, marina
+y continental del archipiélago.</p>
+</imagen>
+<p>La porción terrestre se caracteriza por una vegetación de tipo
+caribeño-antillano, predomina el bosque transicional entre seco y
+húmedo. Para Providencia y Santa Catalina se han reportado especies
+endémicas, como la palma <cursiva>Coccothrinax jamaicensis</cursiva
+>. Otras especies del género <negritacursiva>Myrica</negritacursiva
+> (conocido como <negrita>laurel</negrita>) se encuentra restringida
+en la cima del cerro más alto de la isla, donde forma <negrita>matorrales</negrita
+>.</p>
+<destacado><destacadoTitulo>Fauna de las islas caribeñas</destacadoTitulo>
+<destacadoTexto>
+<p>En relación con la fauna de vertebrados, se encuentra una especie
+de <negrita>murciélago frugívoro</negrita> endémica de la isla de
+San Andrés (, que es importante en la dispersión de semillas de especies
+vegetales silvestres; la <negrita>mirla blanca</negrita>y la serpiente <cursiva
+>Coniophanis andresensis</cursiva>. Otras especies fueron introducidas,
+como la <negritacursiva>boa constrictor</negritacursiva>, llevada
+de Panamá a Providencia para el control de ratas, y la <negrita>tortuga
+morroco</negrita>y, empleada para el refuerzo alimentario de la población
+humana.</p>
+</destacadoTexto></destacado>
+<p>Como base de las actividades humanas, el potencial productivo o
+extractivo garantiza una oferta pesquera y agrícola como fuente de
+bienestar para la población local. Las islas, por su gran belleza
+y fragilidad, y por el equilibrio entre los ecosistemas terrestres
+y marinos y el clima tropical, son un potencial para el turismo natural.
+Un factor preocupante es que las islas se han convertido en sitios
+de paso para el tráfico de drogas y armas.</p>
 </seccion2Texto></seccion2><seccion2
 id="S2_CS_08_11_CO_DAD66146970049F3BA7E26F9D4FDF4DE">
 <seccion2Titulo>Territorios insulares oceánicos del Pacífico</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_06_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>La provincia insular oceánica del Pacífico comprende la porción
+terrestre y marítima de la isla de Malpelo, como único distrito de
+esta provincia, por ser una isla oceánica separada del continente.
+Se ubica a 260 millas náuticas en línea recta del puerto de Buenaventura.
+Su tamaño es de 1,2 km<superindice>2</superindice>. Está localizada
+sobre la dorsal de Malpelo a 03º 51' 07'' de latitud norte y a 85º
+35' 40'' de longitud oeste.</p>
+<imagen src="CS_08_11_CO_IMG08_small.jpg">
+<p>La morfología de la isla es producto de la erosión marina, las
+precipitaciones y los fuertes vientos, lo que diferencia ecosistemas
+de litorales rocosos, formaciones coralinas y fondos rocosos.</p>
+</imagen>
+<p>Por la influencia de las <negrita>corrientes de Humboldt</negrita
+> al sur y de <negrita>California</negrita> al norte, hace que por
+temporadas se forme una alta condensación de humedad con la presencia
+de nubes, lo que causa frecuentes lluvias. Por lo anterior y por sus
+aguas cálidas tropicales, temperatura superficial entre 26 y 27 ºC,
+hace que este territorio sea fértil y se convierta en paso obligado
+de peces y mamíferos que migran entre estas corrientes.</p>
+<p>Por estar aislada del continente, la isla de Malpelo presenta especies
+endémicas, como el <negrita>cangrejo terrestre</negrita>, el <negrita
+>lagarto</negrita> y el <negrita>gecko</negrita>. También se han registrado
+63 especies de aves residentes, migratorias y transitorias, entre
+los que sobresalen el famoso <negrita>piquero enmascarado</negrita
+> y las gaviotas nocturnas.</p>
+<imagen src="CS_08_11_CO_IMG09_small.jpg">
+<p>Las aguas abiertas y claras que rodean la isla presentan una productividad
+moderada por la confluencia de las corrientes del norte y del sur,
+por lo que favorece las migraciones de grandes bancos atuneros y la
+convierte en un área importante de pesca.</p>
+</imagen>
+<p>Entre las 13 especies de mamíferos marinos se destacan los <negrita
+>delfines nariz de botella</negrita> y la <negrita>ballena jorobada</negrita
+>.</p>
+<p>La vegetación es escasa y primitiva, pero importante para la supervivencia
+de varias especies de fauna terrestre. Está especialmente compuesta
+por <negrita>algas</negrita>, <negrita>líquenes</negrita>, <negrita
+>musgos</negrita>, algunas <negrita>gramíneas</negrita>, <negrita
+>leguminosas arbustivas</negrita> y <negrita>helechos</negrita> (ocho
+especies en total). </p>
+<p>Por presentar una gran <negrita>diversidad</negrita> y <negrita
+>abundancia biológica</negrita> fue declarada Santuario de Fauna y
+Flora en 1995 por el gobierno colombiano, y en el 2005 fue ampliada
+el área marina, siendo una de las mayores reservas submarinas del
+mundo. En el 2006 la Unesco la declara como “Sitio de Patrimonio Mundial
+Natural”. Actualmente está reservada para la investigación y la conservación<enlace
+destino="http://www.parquesnacionales.gov.co/PNN/portel/libreria/php/decide.php?patron=01.02290502"
+> [VER]</enlace>.</p>
+<imagen src="CS_08_11_CO_IMG10_small.jpg">
+<p>El tiburón martillo es víctima de los barcos pesqueros que irrumpen
+ilegalmente en aguas protegidas para abastecerse de la carne, pero
+principalmente de las aletas, las cuales tienen un alto valor en el
+mercado asiático.</p>
 </imagen>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso050&amp;IdRecurso=RES-AFFE5AD1E46A4E77AA4831FFFA59781C"
->Recurso M10A-01</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_07_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+>Compara aspectos biogeográficos de los territorios insulares</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_11_CO_E1ACFC45D58642C0A0D5409441B14270">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso060&amp;IdRecurso=RES-037B5442C54C4D8DB964BCAC16C76BE5"
->Recurso M101A-02</enlace>
+>Refuerza tu aprendizaje: La región biogeográfica insular</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_08_11_CO_F3A73A369956403E90AE87FB64CE57F7">
 <seccion1Titulo>Las regiones biogeográficas del Caribe y del Pacífico</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_08_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<seccion2 id="S2_CS_08_11_CO_E1ACFC45D58642C0A0D5409441B13169">
+<p>Las provincia biogeográficas del Cinturón árido pericaribeño, Macizo
+de la Sierra Nevada de Santa Marta y del Chocó-Magdalena presentan
+características propias en cuanto a clima, geomorfología, relieve
+y albergan ecosistemas y hábitats únicos con una biota adaptada a
+estas condiciones. </p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso070&amp;IdRecurso=RES-984B27084F144A6D8EA4E6D2E8C91DF3"
+>Cualidades de las provincias biogeográficas de las regiones Caribe
+y Pacífico</enlace>
+</profundiza><seccion2
+id="S2_CS_08_11_CO_E1ACFC45D58642C0A0D5409441B13169">
 <seccion2Titulo>Cinturón árido pericaribeño</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_09_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>A esta provincia biogeográfica corresponden las planicies costeras
+del <negrita>litoral Caribe</negrita>, el conjunto de sus <negrita
+>serranías</negrita> y los planos de inundación de las <negrita>cuencas</negrita
+> bajas de los <negrita>ríos Magdalena</negrita>, <negrita>Cauca</negrita
+>, <negrita>Cesar</negrita> y <negrita>Sinú</negrita> en el norte
+de Colombia. Comprende la alta y baja <negrita>Guajira</negrita>,
+bajo César, Ariguaní, Santa Marta y los enclaves de montes de María
+y Piojó, Macuira y Delta del Magdalena<enlace
+destino="http://www.crautonoma.gov.co/documentos/mallorquin/diagnostico/CaractBiolSistem.pdf"
+> [VER]</enlace>.</p>
+<p>El clima es <negrita>cálido y seco</negrita> como influencia de
+los <negrita>vientos alisios</negrita> del noreste con un solo régimen
+de lluvias y periodos prolongados de sequía. Las zonas más húmedas
+se localizan en áreas inundadas de la parte norte de la cordillera
+Central, lo que favorece el crecimiento de pastos aptos para la ganadería,
+siendo este un renglón importante de la economía en las sabanas de
+Córdoba y Sucre.</p>
+<p>Entre la media y alta Guajira, a partir de los 11º de latitud norte,
+predomina el <negrita>bioma</negrita> de <negrita>desierto</negrita
+>, que es la zona más árida de Colombia. Se caracteriza por fuertes
+vientos la mayor parte del año, lo que genera alta evaporación, temperaturas
+elevadas, de 28 a 35 ºC y precipitaciones escasas.</p>
+<p>La vegetación natural varía desde matorrales, bosques secos y sabana
+a bosques húmedos y manglares en el litoral.</p>
+<imagen src="CS_08_11_CO_IMG11_small.jpg">
+<p>En el extremo norte de la alta Guajira emerge la <negrita>serranía
+de La Macuira</negrita>, formación montañosa que alcanza 800 m de
+altitud. La vegetación responde al <negrita>gradiente</negrita> de
+humedad desde lo árido con menos de 200 mm de precipitación, hasta
+800 mm en la montaña, con el <negrita>bosque de niebla</negrita>.
+Se caracteriza por ser un <negrita>bosque achaparrado</negrita>, rico
+en epífitas, musgos y bromelias, que atrapan la neblina proveniente
+de los vientos del mar Caribe cargados de humedad, que se condensan
+en la cimas de la serranía.</p>
 </imagen>
-</seccion2Texto></seccion2><seccion2
+<p>Predominan los <negrita>bosques subxerofíticos</negrita> de pequeño
+porte, con predominio de leguminosas, como el <negrita>trupillo</negrita
+>, <negrita>dividivi</negrita>, <negrita>cactáceas</negrita> y <negrita
+>caparidáceas</negrita>.</p>
+<imagen src="CS_08_11_CO_IMG12_small.jpg">
+<p>El <negrita>dividivi</negrita> es una especie que crece de forma
+silvestre y es resistente al <negrita>déficit hídrico</negrita>. Es
+una <negrita>planta nativa</negrita> y propia de la cultura <negrita
+>wayú</negrita> de La Guajira. Cada año celebran las fiestas del dividivi,
+en el que resaltan la historia, la cultura y la economía de la región.
+De la semilla producen taninos, aunque en la actualidad lo han sustituido
+por tintes sintéticos. Además se le atribuyen propiedades medicinales.</p>
+</imagen>
+<p>En relación con la fauna se resalta una <negrita>subespecie</negrita
+> de <negrita>perdiz</negrita>, que se registra como endémica en inmediaciones
+de Santa Marta. Se utiliza para la caza deportiva o de subsistencia
+en algunas zonas y también se ha visto afectada por el uso creciente
+de <negrita>pesticidas</negrita> en los cultivos agrícolas y por la
+fumigación a cultivos ilícitos, lo que la cataloga en una especie
+amenazada. Las actividades económicas de la población están vinculadas
+a la <negrita>crianza de chivos</negrita>, principalmente en La Guajira,
+además porque forma parte del contexto cultural y cosmogónico de la <negrita
+>etnia wayú</negrita>.</p>
+<imagen src="CS_08_11_CO_IMG13_small.jpg">
+<p>Un renglón importante en la economía de la zona es la extracción
+de minerales, como la sal en Manaure (en la fotografía), de carbón
+mineral, la explotación de petróleo y gas natural, y la ganadería
+intensiva.</p>
+</imagen>
+<p>El Caribe es una región rica en <negrita>minerales</negrita> y
+recursos, que generan grandes dividendos al país. Paradójicamente,
+es la región que registra los mayores índices de desnutrición y mortalidad
+de infantes, dada la pobreza absoluta a la que ha sido sometida.</p>
+<destacado><destacadoTitulo>La sequía de La Guajira</destacadoTitulo>
+<destacadoTexto>
+<p>Desde hace tres décadas se ha desarrollado en la costa norte de
+Colombia la minería de <negrita>carbón</negrita> a cielo abierto.
+En el proceso de <negrita>extracción, transporte y embarque</negrita
+> han utilizado las fuentes de <negrita>hídricas</negrita> de La Guajira,
+lo que ha generado, en la actualidad, impactos y conflictos ambientales
+por el agua. Sumado a esto, la disminución de lluvias por el <negrita
+>fenómeno de El Niño</negrita>, ha tenido graves efectos en la seguridad
+alimentaria y de salud de la población y en el sector agrícola y ganadero.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
 id="S2_CS_08_11_CO_D98A4F2E48E647D396E84FBE3F09CEEC">
 <seccion2Titulo>Macizo de la Sierra Nevada de Santa Marta</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_10_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>La provincia de la Sierra Nevada de Santa Marta es un macizo aislado
+de la cordillera Oriental de los Andes y es la montaña costera más
+alta del mundo. Presenta todos los pisos térmicos existentes en Colombia,
+ecosistemas diversos y gran riqueza histórica y cultural<enlace
+destino="http://www.ideam.gov.co/web/ecosistemas/sierra-nevada-santa-marta"
+> [VER]</enlace>.</p>
+<p>La Sierra Nevada de Santa Marta se ubica entre las coordenadas
+10º 01' 05'' y 11º 20' 11'' latitud norte y 72º 36' 16'' y 74º 12'
+49'' longitud oeste. Se eleva abruptamente desde las costas del mar
+Caribe y a tan solo 42 km alcanza una altura de 5775 m en el pico
+Colón.</p>
+<imagen src="CS_08_11_CO_IMG14_small.jpg">
+<p>Los ecosistemas que se encuentran en la Sierra Nevada de Santa
+Marta son: bosque húmedo, bosque seco, bosque montano, páramo y nieves
+perpetuas. En la imagen, se ve el pico Guardián, cuya altitud es de
+5235 m.</p>
 </imagen>
-<practica>
+<p>Esta provincia es una <negrita>fuente hidrológica y biológica</negrita
+> por ser la principal fábrica de agua de la costa norte de Colombia,
+en la que <negrita>nacen</negrita> aproximadamente <negrita>30 cuencas
+hidrográficas</negrita> que abastecen a municipios de los departamentos
+del <negrita>Magdalena</negrita>, <negrita>Cesar</negrita> y <negrita
+>La Guajira</negrita>.</p>
+<p>El <negrita>clima</negrita> es húmedo por el flanco norte, seco
+por el flanco oriental e intermedio por el flanco occidental. La planicie
+que rodea el macizo presenta un clima cálido y seco. Las lluvias tienen
+una distribución bimodal.</p>
+<p>La <negrita>vegetación</negrita> comprende una transición, que
+va desde las selvas húmedas y cálidas de las tierras bajas, a los
+bosques nublados de montaña, los páramos y las nieves perpetuas. Tiene
+gran afinidad con la <negrita>biota</negrita> de la cordillera de
+los Andes, especialmente con la cordillera Oriental de Colombia, de
+Mérida y la costa de Venezuela.</p>
+<p>En términos biogeográficos es posible diferenciar <negrita>cinco
+distritos</negrita> a saber: los distritos de Guachaca, Aracataca,
+Caracolicito, Marocaso y Chumdúa.</p>
+<destacado><destacadoTitulo>Impacto ambiental de la Sierra Nevada
+de Santa Marta</destacadoTitulo><destacadoTexto>
+<p>Otra de las riquezas importantes para el capital social de la humanidad,
+la constituye su <negrita>población</negrita>. La sierra es la cuna
+de los tairona, la más monumental y singular civilización indígena
+del país. Allí viven alrededor de 50 000 indígenas de las etnias kogui,
+arhuaco, wiwa y kankuamo, y tienen jurisdicción en tres resguardos:
+arhuaco, kogui-malayo-arhuaco y kankuamo.</p>
+</destacadoTexto></destacado>
+<p>En la Sierra Nevada de Santa Marta ha ocurrido un proceso de <negrita
+>especiación</negrita> en las zonas altas. Mucha de la biota es de
+origen andino y es una de las provincias con mayor grado de <negrita
+>endemismo</negrita> de fauna y flora del país. Es receptora de numerosas <negrita
+>aves migratorias</negrita> provenientes del <negrita>hemisferio norte</negrita
+>.</p>
+<p>Uno de los distritos que se destacan es el de <negrita>Chundúa</negrita
+>, ya que cuenta con un alto número de especies endémicas de fauna
+y flora que se encuentran en peligro de extinción, como es el caso
+del periquito de Santa Marta, especie importante para la dispersión
+de semillas.</p>
+<p>La <negrita>cotorra de Santa Marta</negrita> o <negrita>periquito
+serrano</negrita> es una especie de ave <negrita>endémica</negrita
+> de la Sierra Nevada de Santa Marta. Debido a la pérdida de su hábitat
+por deforestación del bosque nublado y al comercio ilegal de esta
+especie, su población se ha diezmado. Como un esfuerzo para recuperar
+y conservar su población (y de muchas otras especies de aves), se
+ha creado la <negrita>Reserva Natural de las Aves El Dorado</negrita
+> en el año 2006.</p>
+<imagen src="CS_08_11_CO_IMG15_small.jpg">
+<p>De la fauna endémica hay nueve especies de mamíferos, entre estos
+el <negrita>venado</negrita>, la <negrita>ardilla</negrita> y el <negrita
+>ratón silvestre</negrita> y 67 especies de aves, entre las que están
+la <negrita>pava</negrita> y el <negrita>tucán</negrita>.</p>
+</imagen>
+<p>El único género de <negrita>anfibio</negrita> endémico de la sierra
+es la rana <cursiva>Geobatrachus</cursiva>, indicadoras del estado
+de equilibrio del ecosistema. Esta especie de rana es conocida solo
+en la <negrita>vertiente</negrita> noroccidental y occidental de la
+Sierra Nevada de Santa Marta, entre los 1550 y 2870 msnm. Es una especie
+amenazada por la pérdida de su hábitat, deforestación y prácticas
+agrícolas. Esto altera los ecosistemas y genera aumento de insectos
+que pueden transmitir enfermedades a los seres humanos.</p>
+<p>Entre las <negrita>amenazas y riesgos</negrita> del equilibrio
+de esta importante provincia biogeográfica está la tala indiscriminada
+del bosque para la colonización. Además en las últimas décadas, el
+uso del suelo de la sierra se ha concentrado en los <negrita>cultivos
+ilícitos</negrita>, lo que ha generado una serie de problemas ambientales
+asociados, como las <negrita>fumigaciones</negrita> indiscriminadas,
+que se evidencia en la pérdida del más del 80 % de la cobertura vegetal
+boscosa y con ello la <negrita>erosión</negrita>, la sedimentación
+y <negrita>contaminación</negrita> de las cuencas hidrográficas. Hoy
+se considera en peligro su gran diversidad biológica, y con esto la
+salud de los pobladores, al estar seriamente amenazado el equilibrio
+ecológico del macizo.</p>
+<p>Por otra parte, el desplazamiento forzoso de los indígenas a las
+partes altas de la sierra, les impide el acceso a las zonas templadas,
+cálidas y a la zona costera. Esto les limita la posibilidad de ejercer
+el <negrita>manejo tradicional</negrita> de los ecosistemas desde
+sus <negrita>cosmogonías</negrita>.</p>
+<destacado><destacadoTitulo>Tráfico de especies silvestres</destacadoTitulo>
+<destacadoTexto>
+<p>Luego del tráfico de drogas y de armas, el <negrita>tráfico de
+especies en peligro de extinción</negrita> está en el tercer renglón
+de impacto económico. Las autoridades ambientales registraron entre
+enero a abril del 2015 la incautación de 13 644 ejemplares de fauna
+silvestre. Además señalan que el tráfico ilegal de flora es mayor
+en los departamentos de Sucre, Córdoba, Cauca, Boyacá, Atlántico y
+Magdalena, y consiste principalmente en la tala de árboles nativos
+y endémicos para comercializar la madera.</p>
+</destacadoTexto></destacado><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso080&amp;IdRecurso=RES-7061280453E34DF69D77CC13E1040355"
->Recurso M1C-01</enlace>
+>Reconoce las diferencias biogeográficas de la región Caribe</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_08_11_CO_482EF44E7975426EAB8D1B85DDF179A5">
-<seccion2Titulo>Provincia del Chocó – Magdalena</seccion2Titulo>
+<seccion2Titulo>Provincia del Chocó-Magdalena</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_11_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+<p>El sector del Chocó se extiende desde la provincia del Darién en
+Panamá hasta la provincia del Oro en Ecuador. Es una región con alto
+endemismo y centro de origen de muchos de los elementos que componen
+la <negrita>selva húmeda cálida</negrita>, las <negrita>sabanas</negrita
+> y los <negrita>bosques subandinos</negrita>, que tienen relación
+con la Amazonia<enlace
+destino="http://tux.uis.edu.co/labsist/docencia/informes/20070-2011/biogeografia/chocobiogeograficoII.pdf"
+> [VER]</enlace>.</p>
+<p>Es una zona de alta prioridad de conservación mundial debido a
+su diversidad biológica y endemismos, que aún están sin explorar,
+razón por la que es considerado patrimonio nacional<enlace
+destino="http://editorial.utch.edu.co/ojs/index.php/Bioneotropical/article/view/81"
+> [VER]</enlace>.</p>
+<p>Esta gran provincia está conformada por dos regiones:</p>
+<table border="1"><caption>Regiones de la provincia Chocó-Magdalena</caption>
+<colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Chocó biogeográfico</negrita></td>
+<td align="center"><negrita>Región magdalenense</negrita></td>
+</tr>
+<tr>
+<td>Integrada por los territorios oceánicos del Pacífico, incluyendo
+las islas de Gorgona y Gorgonilla, las zonas costeras, las serranías
+de Darién, Baudó, el Urabá, los valles de los ríos Sinú y San Jorge.</td>
+<td>Se extiende por los valles interandinos de los ríos Magdalena,
+Cauca, Nechí y Lebrija, entre otros, y por el noreste del país con
+el Catatumbo.</td>
+</tr>
+</tbody>
+</table>
+<p>Es una de las zonas más lluviosas y húmedas del planeta. Presenta
+vegetación de <negrita>selva húmeda tropical</negrita> del piso térmico
+cálido, con una fauna y flora altamente diversificada. El <negrita
+>distrito Utría</negrita> encierra cuatro de los ecosistemas más productivos
+y, a la vez, más frágiles del planeta: formaciones coralinas, manglares,
+selva húmeda tropical y el ecosistema marino.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso020&amp;IdRecurso=RES-4430A515FE1E49F4AF9D0833E55572F8"
 >Recurso M2A-01</enlace>
 </practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_12_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<imagen src="CS_08_11_CO_IMG16_small.jpg">
+<p>En la bahía Sapzurro, cerca de Capurganá (Chocó), las cristalinas
+aguas están rodeadas de las montañas de la serranía del Darién. Es
+una zona ideal para el buceo, por su profundidad de hasta 30 metros.</p>
+</imagen>
+<p>En el sector chocoano resalta el alto grado de endemismo y diversidad
+de fauna.</p>
+<table border="1"><caption>Diversidad del Chocó biogeográfico</caption>
+<colgroup><col width="22*"/><col width="76*"/></colgroup>
+<tbody>
+<tr>
+<td><negrita>Anfibios</negrita></td>
+<td>Se ha llegado a coleccionar en una sola localidad del Chocó hasta
+70 especies de la clase <negrita>Anura</negrita>. Entre estas están
+las ranas venenosas del género <negrita>Dendrobates</negrita>. Se
+han registrado 185 especies de anfibios, como el <negrita>sapo gigante</negrita
+> y la <negrita>rana arlequín</negrita>.</td>
+</tr>
+<tr>
+<td><negrita>Reptiles</negrita></td>
+<td>Hay 192 especies, entre las que resaltan el <negrita>tulisio</negrita
+>y la <negrita>falsa mapaná</negrita>.</td>
+</tr>
+<tr>
+<td><negrita>Aves</negrita></td>
+<td>577 especies y el mayor endemismo en el mundo con más de <negrita
+>100 taxa</negrita>. Entre las aves se puede citar la chorola del
+Baudó y el <negrita>pichilingo chocoano</negrita>.</td>
+</tr>
+<tr>
+<td><negrita>Mamíferos</negrita></td>
+<td>Entre las más de 100 especies sobresalen la danta, el murciélago
+y los roedores cavadores endémicos de la provincia del Darién. </td>
+</tr>
+<tr>
+<td><negrita>Flora</negrita></td>
+<td>La riqueza de flora entre especies y géneros identificadas en
+la provincia biogeográfica del Chocó se ha calculado entre 7000 y
+8000 especies superiores. La más abundante es la familia Orchidaceae.</td>
+</tr>
+</tbody>
+</table>
+<imagen src="CS_08_11_CO_IMG17_small.jpg">
+<p>La <negrita>rana arlequín</negrita> se encuentra en peligro de
+extinción por la pérdida de su hábitat natural. Los anfibios son especies
+adaptadas a ambientes húmedos y sombríos, que con la pérdida de cobertura
+arbórea quedan en riesgo.</p>
+</imagen>
+<p>En la <negrita>región magdalenense</negrita> los grupos faunísticos
+tienen afinidades con la fauna chocoana. Se han registrado 40 especies
+de anfibios anuros y 107 especies de reptiles. Entre estos últimos
+se destacan la <negrita>tortuga carranchina</negrita>, la <negrita
+>babilla</negrita> y la <negrita>icotea</negrita> , que se encuentran
+amenazadas debido al comercio ilícito. Además, se ha registrado diferenciación
+de mamíferos y aves entre las dos orillas del Magdalena.</p>
+<p>Unas de las especies endémicas de la zona es el <negrita>tití gris</negrita
+>en el distrito de Nechí, y el <negrita>tucán</negrita>, que se encuentra
+desde el norte del Chocó hasta las bases de la Sierra Nevada de Santa
+Marta y llega hasta el Catatumbo.</p>
+<imagen src="CS_08_11_CO_IMG18_small.jpg">
+<p>La provincia del Magdalena es una planicie profusamente irrigada
+por las aguas de los ríos Magdalena, Cauca, Sinú y Cesar, conocida
+como la <negrita>depresión Momposina</negrita>. Es un intrincado sistema
+de <negrita>humedales</negrita> como las <negrita>ciénagas</negrita
+>, <negrita>lagunas</negrita> y <negrita>arroyos</negrita>, unos son
+permanentes y otros están sometidos a la estacionalidad de las lluvias.
+Ofrece a sus pobladores productos como recursos pesqueros, hídricos,
+forestales, forrajeros, entre otros.</p>
+</imagen>
+<destacado><destacadoTitulo>La Gorgona, isla continental</destacadoTitulo>
+<destacadoTexto>
+<p>Por muchos aspectos, Gorgona se considera una isla continental
+más que oceánica. Está separada por la plataforma continental por
+un estrecho de 5 km, que alcanza profundidades superiores a los 200
+m. Se caracteriza por el alto grado de endemismo en vertebrados. Además,
+pasó a ser un centro penitenciario a ser declarado Patrimonio de la
+Humanidad<enlace
+destino="http://www.eltiempo.com/estilo-de-vida/viajar/gorgona-una-isla-cargada-de-historia-y-maravillas-naturales-/14111796"
+> [VER]</enlace>.</p>
+</destacadoTexto></destacado>
+<p>Gran parte de la provincia Chocó-Magdalena padece el conflicto
+de la violencia política y del impacto minero, principalmente por
+la extracción de oro. Esto ha causad el desequilibrio socioeconómico
+y cultural de las comunidades étnicas, afrodescendientes y campesinas.</p>
+<imagen src="CS_08_11_CO_IMG19_small.jpg">
+<p>La minería de oro se practica a cielo abierto, lo que ocasiona
+la eliminación de la capa vegetal, la <negrita>degradación</negrita
+> del suelo, la sedimentación de las fuentes hídricas, la <negrita
+>contaminación</negrita> de los ríos por mercurio y plomo y la pérdida
+de la <negrita>biota</negrita>.</p>
 </imagen>
 <practica>
 <enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso090&amp;IdRecurso=RES-00E911A66F6B4FC29E3EBB9553C1933C"
+>Comprende las principales cualidades biogeográficas de la región
+Pacífico</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_11_CO_4493BD142A194185B3E043CF97039DC2">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso100&amp;IdRecurso=RES-00E911A66F6B4FC29E3EBB9553C1933C"
->Recurso M101A-03</enlace>
+>Refuerza tu aprendizaje: Las regiones biogeográfica del Caribe y
+del Pacífico</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_08_11_CO_6ADA1D45D2424CECBFA57E331D2E83A0">
 <seccion1Titulo>Las regiones biogeográficas del Oriente</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_13_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+<p>Bajo el cinturón de nubes de la cordillera Oriental se extiende
+una vasta llanura que comprende el piedemonte llanero, la altillanura
+plana y ondulada, la llanura de inundación y la selva amazónica. Es
+un complejo ecosistémico representado en 17 distritos biogeográficos,
+de los cuales se referencia los más representativos en las provincias
+de la Orinoquia y de la Guyana.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso110&amp;IdRecurso=RES-962BC2C97AD24EAFB5584313D3ED46F3"
->Recurso F4-01</enlace>
+>Biogeografía de la zona oriental</enlace>
 </profundiza><seccion2
 id="S2_CS_08_11_CO_4493BD142A194185B3E043CF97038CB1">
 <seccion2Titulo>Provincia de la Orinoquía</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_14_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>Esta provincia comprende los distritos de Arauca-Apure, Casanare,
+Sabanas Altas y el distrito de Maipures. Se incluye también los distritos
+biogeográficos de piedemonte: Casanare-Arauca y Meta.</p>
+<p>Se conoce con el nombre de llanos orientales, una inmensa llanura
+de casi <negrita>50 millones de hectáreas</negrita> compartidas con
+Venezuela. Predominan sabanas que están entre los 100 y 500 m, y tiene
+un clima relativamente homogéneo. Se registran temperaturas entre
+los 23 y 30 ºC y precipitaciones promedio anual entre 1000 y 2500
+mm al año. Los periodos de sequía son prolongados, alternan con lluvias
+torrenciales.</p>
+<imagen src="CS_08_11_CO_IMG20_small.jpg">
+<p>Los llanos orientales se caracterizan por el predominio de vegetación
+de sabana con especies adaptadas al estrés provocado por la sequía
+de los cálidos veranos y al exceso de humedad.</p>
+</imagen>
+<p>Al suroriente del río Meta se desarrolla la <negrita>altillanura</negrita
+> o <negrita>llanura bien drenada</negrita>, con veranos intensos
+hasta de nueve meses de duración, lo que provoca incendios frecuentes.
+El suelo es pobre en nutrientes, pues son suelos ácidos y con bajos
+contenidos de carbono y nitrógeno. Predominan pastos entremezclados
+con otras gramíneas y algunos arbustos con hojas ricas en sílice y
+tallos gruesos con espeso corcho, lo que los hace resistentes a los
+incendios. Conoce la diversidad de flora y fauna de la Orinoquia<enlace
+destino="http://www.banrepcultural.org/blaavirtual/faunayflora/orinoco/orinoco6a.htm"
+> [VER]</enlace>.</p>
+<table border="1"><caption>Diversidad en la provincia de la Orinoquia</caption>
+<colgroup><col width="25*"/><col width="74*"/></colgroup>
+<tbody>
+<tr>
+<td><negrita>Anfibios</negrita></td>
+<td>Se han registrado <negrita>28</negrita> especies. Se destacan
+las variedades de ranas <cursiva>Bufo granulosus</cursiva>, <cursiva
+>Hyla crepitans</cursiva>, <cursiva>Hyla rostrata</cursiva>, <cursiva
+>Leptodactylus bolivianus</cursiva> y <cursiva>Pseuchs paradoxus</cursiva
+>.</td>
+</tr>
+<tr>
+<td><negrita>Reptiles</negrita></td>
+<td>Hay <negrita>119</negrita> especies, entre ellos el <negrita>caimán</negrita
+> del Orinoco, que se encuentra en peligro de la extinción.</td>
+</tr>
+<tr>
+<td><negrita>Aves</negrita></td>
+<td>Se han registrado <negrita>644</negrita> especies, entre las endémicas
+están el <negrita>garzón soldado</negrita> y la <negrita>corocora</negrita
+>. Durante la estación lluviosa se forman espejos de agua, que atrae
+aves, residentes y migratorias, para alimentarse.</td>
+</tr>
+<tr>
+<td><negrita>Mamíferos</negrita></td>
+<td>El armadillo de la sabana (ocarro), la ardillita, el venado sabanero,
+oso palmero y <negrita>capibara o chigüiro</negrita>, entre otros. </td>
+</tr>
+<tr>
+<td><negrita>Flora</negrita></td>
+<td>A lo largo de los ríos y caños crecen pequeñas franjas de bosque
+de galería, ecosistemas dominados por palma de <negrita>moriche</negrita
+> y canangucha mezclada con árboles maderables, como el tablón y el
+palosangre, y otras palmas.</td>
+</tr>
+</tbody>
+</table>
+<imagen src="CS_08_11_CO_IMG21_small.jpg">
+<p>La carne de chigüiro y las plumas de garza se han empleado como
+recurso económico en la Orinoquia, donde se concentran poblaciones
+silvestres abundantes. Sin embargo, han sido afectadas por la sobreexplotación
+y las sequías<enlace
+destino="http://ciencias.bogota.unal.edu.co/fileadmin/content/icn/publicaciones/bibliotecajjt/CHIGUIROS_Agosto_30_de_2014_E-book.pdf"
+> [VER]</enlace>.</p>
+</imagen>
+<p>En la provincia de la Orinoquia se presentan lluvias entre marzo
+y noviembre, y un corto verano entre diciembre a febrero. La vegetación
+de este tipo de sabana está dominada por densos pajonales y pastizales
+tolerantes a las inundaciones.</p>
+<imagen src="CS_08_11_CO_IMG22_small.jpg">
+<p>En un paisaje extenso y plano en las sabanas de Casanare y Arauca
+(200 m) con escasa pendiente y alta precipitación, factor clave en
+la formación de los ecosistemas de <negrita>llanura de inundación</negrita
+>.</p>
+</imagen>
+<p>En la provincia de la Orinoquía convergen factores ambientales,
+históricos y culturales, que dan origen a diversas formas de uso de
+los ecosistemas.</p>
+<destacado><destacadoTitulo>Amenazas para las sabanas</destacadoTitulo>
+<destacadoTexto>
+<p>Desde el último cuarto de siglo XX, en las sabanas orientales se
+ha producido gran incremento en el sector de la ganadería extensiva,
+la acuicultura, la explotación de hidrocarburos y la agricultura,
+con extensas plantaciones de palma africana, caucho, pino caribea
+y arrozales. Se han acelerado procesos de transformación del paisaje,
+alterando el frágil equilibrio de estos ambientes.</p>
+</destacadoTexto></destacado>
+<p>En la expansión de la frontera agrícola se han <negrita>deforestado</negrita
+> los <negrita>bosques de galería</negrita> y <negrita>morichales</negrita
+>, se han ido perdiendo los hábitats de muchas especies de fauna y
+se ha afectado la conservación de ríos y caños. La intervención sobre
+esta provincia debe estar dentro de los planes integrales de manejo
+de los recursos naturales.</p>
+<imagen src="CS_08_11_CO_IMG23_small.jpg">
+<p>Es importante preguntarse si se tiene realmente el conocimiento
+suficiente para determinar la magnitud del impacto que causan los
+sistemas industrializados de producción. Se carece de la tecnología
+y el conocimiento ancestral que permitan aprovechar los recursos sin
+afectar el equilibrio ecológico de la región.</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
 id="S2_CS_08_11_CO_6F14A7BF3A0D425384207F1257DFFD00">
 <seccion2Titulo>Provincia de la Guyana</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_15_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>La provincia de la Guyana comprende los distritos de selvas del
+norte de Guaviare, Ariari-Guayabero, Macarena, Complejo Vaupés y Yarí-Mirití.
+Incluye las cuencas de los ríos Guaviare, Inírida, Vaupés, Apaporis
+y Mirití Paraná<enlace
+destino="http://hispanicasaber.planetasaber.com/AtlasOnline/?idSigma=691779&amp;latitud=1.36451005935669&amp;longitud=-72.6626281738281&amp;idMapType=1&amp;idMapa=8&amp;idFont=101&amp;hotName=Salto%20de%20Chiribiquete&amp;idPicto=0&amp;linked=false"
+> [VER]</enlace>.</p>
+<p>La provincia de la Guyana es un paisaje de <negrita>transición
+entre las sabanas y la selva amazónica</negrita>. Conformada por montañas
+tabulares, bordeadas por barrancas y quebradas casi verticales de
+gran altura, y sobre las mesetas de suelos ondulados crece vegetación
+de sabana de gran riqueza endémica.</p>
+<p>Sobresalen afloramientos rocosos, montañas, mesetas, cerros y colinas
+a manera de “islas” conocidos como <negrita>tepuyes</negrita> que,
+por lo general, están circundados por bosques secos y sabanas.</p>
+<imagen src="CS_08_11_CO_IMG24_small.jpg">
+<p>En Colombia, los tepuyes aparecen dispersos; se destacan la serranía
+de Chiribiquete y la sierra de la Macarena. En la imagen, Caño Cristales,
+el río de los siete colores, en la sierra de la Macarena.</p>
 </imagen>
+<destacado><destacadoTitulo>Parque Nacional Natural Serranía de Chiribiquete</destacadoTitulo>
+<destacadoTexto>
+<p>Es el parque natural más grande del país con 1300000 hectáreas.
+Geológicamente, pertenece a la <negrita>formación Roraima</negrita
+> y al <negrita>escudo Guyanés</negrita>. Sus esplendorosas e imponentes
+rocas contrastan la llanura con la montaña. Chiribiquete es un sitio
+de gran valor ecológico, biológico y natural localizado en un <negrita
+>tepuy</negrita> amazónico, totalmente aislado y primigenio. Sobresale
+además su arte pictográfico y sus características arqueológicas<enlace
+destino="http://www.eltiempo.com/estilo-de-vida/ciencia/tesoro-arqueologico-en-el-parque-natural-chiribiquete/16060816"
+> [VER]</enlace>.</p>
+</destacadoTexto></destacado>
+<p>La provincia de la Guyana es de gran importancia porque <negrita
+>regula la estabilidad del clima mundial</negrita> y alberga numerosas
+especies silvestres. Por las características geográficas son lugares
+de difícil acceso, por esta razón los ha mantenido en buenas condiciones
+de conservación, pero a la vez ha sido impedimento para la investigación.</p>
+<p>Su relieve es de sabana de altillanura y planicies con suelos arenosos
+del <negrita>escudo Guayanés</negrita>. Es el más desconocido y sorprende
+por su composición florística y endemismos. Debido a la escasa cobertura
+de gramíneas y a la falta de estacionalidad anual, algunos autores
+prefieren denominarla seudosabanas sobre arenas blancas.</p>
+<destacado><destacadoTitulo>Estrella fluvial del Inírida</destacadoTitulo>
+<destacadoTexto>
+<p>Allí confluyen los ríos Guaviare, Inírida y Atabapo, que desembocan
+en el río Orinoco. Presentan un <negrita>subsuelo</negrita> rico en
+oro y coltán. Para proteger la <negrita>estrella fluvial de Inírida</negrita
+> de actividades extractivas fue declarada como <negrita>Sitio Ramsar
+de Importancia Internacional</negrita>, una extensión de 253 000 hectáreas,
+el 8 de julio de 2014<enlace
+destino="http://www.alisos.net/index.php/es/sostenibilidad20/7-medio-ambiente-y-naturaleza/6457-estrella-fluvial-del-inirida-sexto-sitio-ramsar-en-colombia"
+> [VER]</enlace>.</p>
+</destacadoTexto></destacado>
+<p>La fauna ha sido poco estudiada, se registra en los ríos de esta
+provincia 191 especies de peces, de las cuales ocho son <negrita>endémicas</negrita
+>, y en su mayoría ornamentales o de acuario, la <negrita>ranita de
+cristal</negrita>, la <negrita>rana gigante</negrita> y el <negrita
+>copetón</negrita>.</p>
+<p>Esta provincia está habitada por pueblos indígenas de las etnias
+piaroa, puinave, sikuani, curripacos y cubeos. La fuente principal
+de alimentación y sustento son el pescado, frutos y semillas silvestres
+y el cultivo de frutales, como piña y yuca brava, básicos en su dieta.
+Los suelos, al ser arenosos y poco fértiles, no son aptos para la
+agricultura, por lo que realizan prácticas de quemas controladas de
+vegetación para plantar sobre las cenizas. </p>
+<p>Serias amenazas acechan esta provincia, como la exploración minera
+y de hidrocarburos, la acelerada deforestación, la caza ilegal, la
+tenencia de la tierra y la exportación de más de cien especies de
+peces ornamentales a países como Estados Unidos, República Checa,
+Birmania y Japón.</p>
+<imagen src="CS_08_11_CO_IMG25_small.jpg">
+<p>Las amenazas y riesgos a los que está sometida la provincia de
+la Guyana y los pueblos indígenas que la habitan, principalmente cerca
+de la frontera con Venezuela entre Vichada y Guainía, son la explotación
+minera de coltán, oro y tungsteno, en la fotografía<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=124341&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+</imagen>
+<p>Una de las más grandes amenazas de la sierra de la Macarena ha
+sido el proceso de colonización, desde que se inició la exploración
+petrolera a comienzos de la década de los sesenta. Con la apertura
+de las trochas de prospección se inició el proceso de colonización
+más destructor que se haya tenido noticia en la historia del país.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso120&amp;IdRecurso=RES-9A7C64E440664F4F9EF69EC3BEB94809"
->Recurso M5A-01</enlace>
+>Reconoce la biogeografía de la región Orinoquia</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_08_11_CO_4D2FAE413402435AA61214389D610BFE">
 <seccion2Titulo>Provincia de la Amazonía</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_16_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>La provincia de la Amazonia es un complejo de enorme diversidad
+por el pasado geológico y la presencia de numerosos ríos que constituyen <negrita
+>barreras</negrita> importantes para la <negrita>dispersión</negrita
+> de muchas especies<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=7898&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<p>En la Amazonia colombiana está presente el gran bioma de bosque
+húmedo tropical. Se caracteriza por las altas precipitaciones la mayor
+parte del año y alta humedad. El dosel forestal alcanza los 30 m de
+altura y se pueden encontrar hasta 80 tipos de plantas diferentes
+por hectárea. </p>
+<p>Aunque tiene la apariencia de una llanura homogénea, hay gran riqueza
+de biomas y ecosistemas<enlace
+destino="http://siatac.co/image/image_gallery?uuid=d7df4f04-ab84-4cc8-a69b-f1ca76ce5edc&amp;groupId=762&amp;t=1357934741580"
+> [VER]</enlace>:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Orobiomas</negrita>: van desde el flanco oriental
+de la <negrita>cordillera</negrita> de los Andes.</listaElemento>
+<listaElemento><negrita>Heliobiomas</negrita>: áreas de alta influencia
+acuática como las <negrita>llanuras aluviales</negrita>.</listaElemento>
+<listaElemento><negrita>Peiniobiomas</negrita>: áreas de <negrita
+>altillanura</negrita>, en las sabanas del Yarí y la Fuga.</listaElemento>
+</listaSinNumerar>
+<p>Las dos terceras partes de los <negrita>bosques</negrita> naturales
+de Colombia se encuentran en la provincia biogeográfica de la Amazonia
+y contribuyen a la <negrita>estabilidad climática</negrita> de Colombia
+y el mundo. Los bosques amazónicos <negrita>retienen la humedad</negrita
+> transportada por el viento hacia la cordillera Oriental, lo que
+posibilita la oferta de <negrita>agua</negrita> a la región Andina
+y Caribe, zonas que concentran el mayor porcentaje de la población
+de Colombia.</p>
+<imagen src="CS_08_11_CO_IMG26_small.jpg">
+<p>En la imagen se aprecia un encuentro de los dos tipos de aguas:
+ríos de aguas blancas y de aguas oscuras.</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_17_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<table border="1"><caption>Ríos de la Amazonia</caption><colgroup><col/>
+<col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Ríos de aguas blancas</negrita></td>
+<td align="center"><negrita>Ríos de aguas oscuras o ríos negros</negrita
+></td>
+</tr>
+<tr>
+<td>Son ríos de origen andino, cargados de <negrita>sedimentos</negrita
+> (arenas y limos), que le dan un color amarillento al agua.<br/>Por
+ejemplo, Amazonas, Putumayo, Caquetá.</td>
+<td>Son ríos de origen amazónico, transportan grandes cantidades de <negrita
+>materia orgánic</negrita>a. La descomposición de la hojarasca les
+da un color oscuro al agua. Son pobres en nutrientes y con pH ácido.<br
+/>Por ejemplo, ríos Apaporis, Mirití Paraná, Yarí.</td>
+</tr>
+</tbody>
+</table>
+<p>Los ríos también forman <negrita>humedales</negrita> con distintas
+características, según el tipo de aguas que lo conforman:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Várzeas</negrita>: se forman en planicies
+inundables por los ríos de aguas blancas. Constituyen suelos ricos
+en nutrientes, donde crecen especies vegetales, como el buchón y la
+victoria regia.</listaElemento>
+<listaElemento><negrita>Igapó</negrita>: se forman en planicies inundadas
+por ríos de aguas negras. Crecen especies de plantas adaptadas a aguas
+ácidas, como la marama, sangretoro y la palma canangucha.</listaElemento>
+</listaSinNumerar>
+<p>En relación con los <negrita>suelos</negrita>, existe un variado
+mosaico con <negrita>diferentes grados de fertilidad y drenaje</negrita
+>. Por ejemplo, <negrita>suelos de origen sedimentario</negrita> aportado
+por los ríos de origen andino, que son más o menos fértiles, y suelos
+ubicados en planos de inundación de los ríos de origen amazónico,
+con baja a muy baja fertilidad. Se destacan cuerpos de suelo como
+lugares de singular importancia dentro del ecosistema, como son los <negrita
+>salados</negrita> y las <negrita>tierras negras</negrita>.</p>
+<destacado><destacadoTitulo>Salados y Terra Preta</destacadoTitulo>
+<destacadoTexto>
+<p><negrita>Salados</negrita> amazónicos: son lugares importantes
+donde se acumulan sales y otros elementos que atraen especies animales,
+como las dantas y guacamayas. El conocimiento de estas formaciones
+es importante para entender relaciones ecosistémicas.</p>
+<p><negrita>Tierras negras</negrita>: también denominadas <negritacursiva
+>Terra preta do Indio</negritacursiva>; son suelos que los pobladores
+precolombinos, hace aproximadamente de 500 a 2000 años atrás, transformaron
+de suelos de baja fertilidad a suelos muy fértiles. Presentan alta
+resistencia a la descomposición de la materia orgánica y gran capacidad
+para retener nutrientes y agua, por lo que muestran patrones sostenibles
+y eficientes del uso de la tierra. Actualmente, incluidas en programas
+de investigación para el desarrollo de nuevos modelos de <negrita
+>agricultura sostenible</negrita><enlace
+destino="http://www.css.cornell.edu/faculty/lehmann/research/terra%20preta/terrapretamain.html"
+> [VER]</enlace>.</p>
+</destacadoTexto></destacado>
+<p>En cuanto a la fauna, se han registrado 152 especies de <negrita
+>anfibios</negrita>, con un gran porcentaje de endemismo. Las especies
+más representativas de esta región son el sapo lechoso y el sapo cucurú.</p>
+<p>Entre los <negrita>reptiles</negrita> existen 187 especies, cabe
+mencionar el cocodrilo negro, el más grande del mundo, y la tortuga
+charapa, la especie de agua dulce más grande, que forma parte de la
+dieta de comunidades indígenas y campesinas.</p>
+<p>Entre los <negrita>mamíferos</negrita> acuáticos se destaca tres
+de las cuatro especies de agua dulce: manatí, delfín de río y bufeo.</p>
+<imagen src="CS_08_11_CO_IMG27_small.jpg">
+<p>El delfín rosado o bufeo es el delfín más grande de río. La coloración
+de su cuerpo varía con respecto a la edad. Uno de sus hábitats es
+el río Caquetá, donde actualmente hay dragas para la extracción de
+oro, que ponen en riesgo esta especie.</p>
 </imagen>
+<p>En la selva húmeda tropical, los <negrita>micos</negrita> son los
+mamíferos terrestres más amenazados por la cacería y la pérdida y
+fragmentación de su hábitat. Entre los primates endémicos está el
+sogi-sogi y el mico piel roja o tití, utilizado como mascota o para
+ensayos médicos.</p>
+<p>Entre las <negrita>aves</negrita> se encuentran seis especies de
+guacamayas, como la <negrita>guacamayita morichalera</negrita>, estrechamente
+ligada a la palma de moriche, indispensable para su supervivencia.</p>
+<imagen src="CS_08_11_CO_IMG28_small.jpg">
+<p>El ooģo, en lengua <negrita>uitoto</negrita>, es una rana arborícola
+que los indígenas amazónicos utilizan para su alimentación. A comienzos
+de las lluvias, se excavan huecos cerca de las quebradas o ríos. Con
+las lluvias estos huecos se llenan parcialmente y allí caen gran cantidad
+de estas ranas que bajan de los árboles. Algunas las consumen frescas
+y otras la ahúman para los próximos días.</p>
+</imagen>
+<p>La riqueza florística está representada por especies maderables
+de gran valor comercial:</p>
+<listaSinNumerar>
+<listaElemento>El <negrita>abarco</negrita>: apreciado por la dureza
+de la madera y la resistencia a las plagas y la pudrición, por lo
+que lo utilizan para durmientes de ferrocarril, construcciones pesadas
+y barcos.</listaElemento>
+<listaElemento>El <negrita>canelo</negrita>: de los <negrita>Andaquíes</negrita
+>, explotado intensamente con fines medicinales y perfumería.</listaElemento>
+<listaElemento>El <negrita>cedro caoba</negrita>: muy disminuido por
+el tráfico ilegal de madera.</listaElemento>
+<listaElemento>Otros: los árboles gigantes de olla de mono, la ceiba
+tolúa, el cativo, el nato y el sapán se encuentran restringidos al
+piedemonte de Putumayo y Caquetá.</listaElemento>
+</listaSinNumerar>
+<p>En <negrita>especies herbáceas</negrita> aún no se conoce su estado
+de conservación, dado que han sido sometidas a explotación por parte
+de la industria farmacéutica. Se destacan plantas como el bejuco carare,
+la chuchuguaza, uña de gato, yagé y el yoco. Estas dos últimas especies
+de plantas son utilizadas en la medicina tradicional de la comunidad <negrita
+>kofán</negrita> del Putumayo.</p>
+<imagen src="CS_08_11_CO_IMG29_small.jpg">
+<p>Una especie arbórea emblemática de la Amazonia es el <negrita>caucho</negrita
+>, del cual se obtiene un látex blanco utilizado para la producción
+de caucho o goma natural. Para obtener el látex, se practicaban en
+la corteza algunas incisiones para ser recogido.</p>
+</imagen>
+<destacado><destacadoTitulo>Las caucherías en el Amazonas</destacadoTitulo>
+<destacadoTexto>
+<p>El caucho fue explotado intensivamente a principios del siglo XX
+por la compañía <negrita>Peruvian Amazon Rubber Company</negrita>,
+auspiciada por Inglaterra, para la fabricación de neumáticos y otros
+productos.</p>
+<p>La ambición por el dinero y el poder provocó el mayor <negrita
+>genocidio</negrita> de indígenas en la Amazonia. Actualmente, las
+comunidades de los pueblos <negrita>uitoto</negrita>, <negrita>bora</negrita
+>, <negrita>ocaina</negrita> y <negrita>muinane</negrita>, asociados
+bajo el nombre de <negrita>Azicacth</negrita>, junto con el <negrita
+>Centro Nacional de Memoria Histórica</negrita> buscan rescatar las
+antiguas oficinas de la compañía <negrita>Casa Arana</negrita>, ubicadas
+en <negrita>La Chorrera</negrita> (corregimiento sobre el <negrita
+>río Igara-Paraná</negrita>, en el departamento del Amazonas), para
+convertirla en un lugar de memoria. Encuentra referencias de esta
+historia en las novelas colombianas <cursiva>La vorágine</cursiva
+> y <cursiva>Mi alma se la dejo al diablo</cursiva><enlace
+destino="http://www.reconciliacioncolombia.com/historias/detalle/431"
+> [VER]</enlace>.</p>
+</destacadoTexto></destacado>
+<p>La amenaza más recientes para la provincia de la Amazonia es la
+deforestación, especialmente en el Caquetá y Guaviare, que concentra
+el 46 % de la pérdida de bosque del país, reemplazado por ganadería
+extensiva, tala y minería ilegal, cultivos y laboratorios ilícitos.
+Los parques nacionales no están exentos de las amenazas de la minería,
+como sucede en el Parque Nacional Natural Yaigoje Apaporis<enlace
+destino="http://www.semana.com/especiales/parque-apaporis-mina/index.html"
+> [VER]</enlace>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso130&amp;IdRecurso=RES-22AD85769DB24B55BF5D2BB066A7D2B7"
+>Reconocer la riqueza biogeográfica de la Amazonia</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_11_CO_A74111538C604832B6E5AB0CE4DD4200">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso140&amp;IdRecurso=RES-E59669FEFBB84E85BEECC4349763A2A3"
->Recurso M101A-04</enlace>
+>Refuerza tu aprendizaje: Las regiones biogeográfica del Oriente</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_08_11_CO_F3B3FBE808D049A9B8D6AA8A5409FE63">
 <seccion1Titulo>La región biogeográfica Norandina</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_18_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<profundiza>
+<p>En la región biogeográfica Norandina se agrupan unidades biogeográficas
+correspondientes a las <negrita>tres cordilleras</negrita> y a los <negrita
+>valles interandinos</negrita>. Se encuentran representados todos
+los pisos térmicos, y la biota de montaña que se deriva básicamente
+de las tierras bajas amazónicas, que se fueron progresivamente adaptando
+y experimentando procesos de <negrita>especiación</negrita>.</p>
+<p>El complejo ecosistémico de las tres cordilleras se diferencia
+de acuerdo con un <negrita>gradiente</negrita> altitudinal con características
+ecológicas y ambientales de clima, suelo y topografía, que incluye <negrita
+>selvas subandinas</negrita>, <negrita>selvas andinas</negrita> o <negrita
+>bosque nublado</negrita>, <negrita>bosque alto andino</negrita> y
+principalmente los <negrita>páramos</negrita> diferenciados en:</p>
+<listaNumerada>
+<listaElemento>Distrito Páramos Cordillera Oriental</listaElemento>
+<listaElemento>Distrito Páramos Nariño-Putumayo</listaElemento>
+<listaElemento>Distrito Páramos Cauca-Huila-Valle-Tolima</listaElemento>
+</listaNumerada>
+<p>Otra característica ecosistémica es que <negrita>entre los pisos
+térmicos cálido y templado</negrita> de algunos valles interandinos
+existen enclaves más o menos extensos <negrita>con tendencia a la
+aridez</negrita>. Entre estos están: el valle alto del río Magdalena,
+el cañón del río Chicamocha, el cañón del río Dagua y los cañones
+de los ríos Juanambú y Patía. La flora de estos enclaves tiene afinidad
+con la flora del Cinturón árido pericaribeño.</p>
+<destacado><destacadoTitulo>Dinámica poblacional</destacadoTitulo>
+<destacadoTexto>
+<p>Como resultado de una larga historia de ocupación y transformación,
+la región Norandina tiene la <negrita>mayor densidad de población</negrita
+> del país, cerca del 77 %, y concentra cerca del 85 % de su actividad
+económica, lo que incide fuertemente en la degradación de sus ambientes
+naturales.</p>
+</destacadoTexto></destacado><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso150&amp;IdRecurso=RES-FBA6CB1379814BECA9E9333449649DEB"
->Recurso F8-01</enlace>
+>Cualidades biogeográficas de la región Andina</enlace>
 </profundiza><seccion2
 id="S2_CS_08_11_CO_A74111538C604832B6E5AB0CE4DD3199">
 <seccion2Titulo>Provincia Altoandina</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_19_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>La provincia Altoandina se localiza entre los <negrita>3000 y 3800
+m</negrita> de altitud, con una topografía abrupta. Es una zona de
+alta concentración de <negrita>humedad</negrita>. Presenta clima frío
+con temperaturas aproximadas entre los 6 y 12 ºC, y un promedio anual
+de lluvias superior a los 2000 mm.</p>
+<p>Debido a la gran diversidad y fragilidad de los ecosistemas de
+esta provincia, dada por la <negrita>orografía</negrita>, se diferencian
+40 distritos biogeográficos con el propósito de generar planes de <negrita
+>desarrollo sustentable</negrita>, ya que es la provincia biogeográfica
+con mayor impacto <negrita>antrópico</negrita>.</p>
+<p>En relación con la diversidad biológica, a medida que se asciende
+en el gradiente altitudinal, la diversidad de especies disminuye y
+la abundancia por especie aumenta.</p>
+<imagen src="CS_08_11_CO_IMG30_small.jpg">
+<p>En esta franja el <negrita>bosque alto andino o de niebla</negrita
+> se caracteriza por la presencia de árboles de gran porte (dosel
+de 15-20 m de alto), con alto grado de <negrita>espiritismo</negrita
+>, es decir, musgos, hepáticas, líquenes, brómelas y orquídeas.</p>
 </imagen>
+<p>Además, predominan especies de raque, mortiño, enconillos, sietecueros,
+aliso. La función de este bosque es regular el flujo hídrico que proviene
+de los páramos y la acumulación y administración de los nutrientes.
+Por esto la vegetación está adaptada para almacenar agua.</p>
+<destacado><destacadoTitulo>La palma de cera, árbol nacional</destacadoTitulo>
+<destacadoTexto>
+<p>El <negrita>valle del Cócora</negrita> está localizado en el Quindío.
+Forma parte del <negrita>PNN Los Nevados</negrita> y es el principal
+hogar del árbol nacional de Colombia, la <negrita>palma de cera</negrita
+>. Además de ser el árbol nacional de Colombia, es la especie de palma
+de mayor altura del mundo, y el árbol más alto registrado en Colombia
+(60 m) y puede vivir hasta 200 años.</p>
+</destacadoTexto></destacado>
+<imagen src="CS_08_11_CO_IMG31_small.jpg">
+<p>Esta especie de palma se encuentra amenazada por la desaparición
+del bosque andino, porque al quedar expuesta al sol no sobrevive por
+mucho tiempo y por el avance de la ganadería, ya que el ganado consume
+los brotes. Con esta especie también queda amenazado el loro orejiamarillo.</p>
+</imagen>
+<p>Los biólogos presuponen que se podría estar frente al fin de esta
+invaluable especie, ya que las palmas están en las fases finales de
+su ciclo de vida y morirán de viejas en el trascurso de los próximos
+47 años, sin dejar reemplazo<enlace
+destino="http://www.parquesnacionales.gov.co/PNN/portel/libreria/php/frame_detalle.php?h_id=9156"
+> [VER]</enlace>.</p>
+<imagen src="CS_08_11_CO_IMG32_small.jpg">
+<p>La riqueza faunística del bosque de niebla está representada por
+el <negrita>oso de anteojos</negrita>, dantas de páramo, pericos ligeros,
+venados colorados, pumas, ardillas, tinajo, paujiles, loros y anfibios,
+como la salamandra.</p>
+</imagen>
+<p>El bosque alto andino está siendo afectado por <negrita>incendios</negrita
+>, por medio del cual ocurre un proceso de <negrita>sucesión vegetal</negrita
+>, en el cual la flora de páramo ocupa los suelos de bosque. Otra
+causa de destrucción del bosque es la explotación de oro, esmeralda,
+carbón y gravas. Sumado a esto, está la proliferación de los cultivos
+de coca y amapola y la expansión de la frontera agrícola y de pastoreo.</p>
+<imagen src="CS_08_11_CO_IMG33_small.jpg">
+<p>La <negrita>alondra cornuda</negrita> es una especie muy rara y
+se la considera en peligro de extinción. Se cree que la principal
+causa de su disminución ha sido la <negrita>introducción</negrita
+> del <negrita>pasto kikuyo</negrita>, originario de África y diseminado
+en Colombia a partir de 1930. </p>
+</imagen>
+<p>El kikuyo forma densos tapetes de vegetación que, al parecer, no
+son adecuados para la alondra cornuda. Ahora, esta ave está reducida
+a unas pocos sitios, entre ellos las zonas semiáridas alrededor de
+la <negrita>laguna de La Herrera</negrita>, del <negrita>embalse del
+Tominé</negrita> y la <negrita>laguna de Tota</negrita>.</p>
+<p>La <negrita>transformación</negrita> del paisaje de Colombia, <negrita
+>de un país de bosques a uno de potreros</negrita>, se relaciona también
+con la transformación de un país rural a un país urbano. Esta condición
+parece necesaria para alcanzar el nivel de desarrollo económico dentro
+del sistema actual; sin embargo, es causa del deterioro de los ecosistemas
+y fuente de <negrita>pobreza</negrita>.</p>
+<p>El deterioro de los ecosistemas ocasiona la pérdida de bienes y
+servicios básicos (agua, energía, pesca, madera, suelos y principalmente
+oferta climática). Así que las amenazas y riesgos por la intervención
+humana nos hace cada vez más vulnerables. </p>
 </seccion2Texto></seccion2><seccion2
 id="S2_CS_08_11_CO_232041CB2D1242C6A7D18465E9D6DCC4">
 <seccion2Titulo>Provincia de los páramos</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_20_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>En Colombia los páramos difieren según la cordillera en donde se
+encuentran ubicados. Presentan diferencias de clima, humedad, vegetación,
+suelos, etc. Los páramos se han agrupado en <negrita>complejos</negrita
+>; es decir, conjunto de montañas que pertenecen al mismo sector y
+que comparten características biológicas, climáticas, ambientales,
+similares. Colombia tiene 36 complejos de páramos:</p>
+<listaSinNumerar>
+<listaElemento>8 en la cordillera Central</listaElemento>
+<listaElemento>7 en la cordillera Occidental</listaElemento>
+<listaElemento>17 en la cordillera Oriental</listaElemento>
+<listaElemento>3 en el sector Nariño-Putumayo</listaElemento>
+<listaElemento>1 en la Sierra Nevada de Santa Marta</listaElemento>
+</listaSinNumerar>
+<p>De acuerdo con la posición <negrita>orográfica</negrita> (<negrita
+>barlovento</negrita> o <negrita>sotavento</negrita>), junto con la
+intensidad y distribución de las precipitaciones, los páramos pueden
+ser secos o húmedos:</p>
+<listaSinNumerar>
+<listaElemento>Páramos <negrita>húmedos</negrita>: ubicados en el
+flanco oriental de la cordillera Oriental y en el flanco occidental
+de la cordillera Occidental. Con la vertiente de barlovento llegan
+los vientos que soplan con más fuerza y están cargados de humedad.</listaElemento>
+<listaElemento>Páramos <negrita>secos</negrita>: ubicados en la vertiente
+interior de la cordillera Oriental. Con la vertiente de sotavento,
+llega el aire seco.</listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>Lluvia orográfica</destacadoTitulo>
+<destacadoTexto>
+<p>La lluvia orográfica se origina con el ascenso de una columna de
+aire húmedo que al chocar con la montaña, el aire asciende y se va
+enfriando hasta alcanzar el punto de saturación del vapor de agua
+–<negrita>condensación</negrita>– y una humedad relativa del 100 %
+que origina la lluvia<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=125683&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+</destacadoTexto></destacado>
+<p>El páramo en el gradiente altitudinal está constituido por tres
+franjas:</p>
+<listaNumerada>
+<listaElemento>El <negrita>subpáramo</negrita>: se localiza a partir
+de los 3000 m, y se caracteriza por tener elementos de bosque alto
+andino y de páramo.</listaElemento>
+<listaElemento>El <negrita>páramo</negrita>: se desarrolla entre los
+3500 y 4100 m, es donde nacen cientos de fuentes hídricas que abastecen
+de agua al territorio nacional.</listaElemento>
+<listaElemento>El <negrita>páramo alto</negrita>: se desarrolla a
+partir de 4100 m de altitud, hasta el límite con el cinturón de nieves.</listaElemento>
+</listaNumerada>
+<p>La diversidad de la flora del páramo, dentro del contexto de los
+Andes, no está dada por la riqueza de especies sino por su singularidad.
+Las plantas han modelado su aspecto para adaptarse a condiciones extremas
+de temperatura y fuerte radiación solar, desarrollando formas de vida <negrita
+>arrosetadas</negrita>, como los frailejones y las puyas; <negrita
+>macollas</negrita>, como los pajonales, en que la hojas viejas protegen
+a las jóvenes y las estructuras reproductiva; <negrita>cojines</negrita
+>, plantas que crecen a ras del suelo, apretadas para retener agua;
+y <negrita>arbustos</negrita>, plantas leñosas muy ramificadas, como
+los bosques de coloradito o sietecueros.</p>
+<imagen src="CS_08_11_CO_IMG34_small.jpg">
+<p>En los páramos entre los 3500 y 4100 m nacen cientos de fuentes
+hídricas. Allí crecen frailejones, que se han adaptado a condiciones
+extremas de temperatura y fuerte radiación solar.</p>
 </imagen>
-<practica>
+<p>La fauna es menos diversa que en las zonas más bajas por varias
+razones: el clima extremo, las temperaturas cambian drásticamente
+entre el día y la noche; la altitud, ya que la cantidad de oxígeno
+es menor que en zonas bajas; los páramos están separados entre sí
+como islas y de acuerdo con la teoría de islas biogeográficas a menor
+extensión el número de especies disminuye.</p>
+<imagen src="CS_08_11_CO_IMG35_small.jpg">
+<p>El cóndor, ave insigne del escudo de Colombia, forma parte de las
+aves más emblemáticas del ecosistema de páramo y la alta montaña.
+Es el ave voladora de mayor tamaño en el mundo, puede alcanzar  los
+6000 m de altura. Está considerado en peligro, porque el desarrollo
+económico de la zona Andina ha afectado su hábitat.</p>
+</imagen>
+<p>Los <negrita>anfibios</negrita> constituyen un grupo de gran interés
+por los procesos de extinción causadas por el ser humano. Hay muchas
+especies, principalmente de las montañas tropicales, que se han extinguido
+en poco tiempo. Es el caso de los jambatos, sapos de color negro y
+panza roja, que habitaron los páramos en grandes cantidades y ahora
+prácticamente han desaparecido y aún no se conoce la causa; en general,
+los anfibios son sensibles a los cambios climáticos.</p>
+<destacado><destacadoTitulo>Servicios ambientales de los páramos</destacadoTitulo>
+<destacadoTexto>
+<p>Por las características ecológicas, el páramo ofrece dos servicios
+importantes para el sostenimiento de la vida:</p>
+<listaNumerada>
+<listaElemento>La provisión continua y abundante de agua de gran calidad</listaElemento>
+<listaElemento>El almacenamiento del carbono atmosférico, que ayuda
+a controlar el calentamiento global.</listaElemento>
+</listaNumerada>
+<p>Ambos se relacionan con la calidad del <negrita>suelo</negrita
+> de los páramos. Infortunadamente, ciertas acciones humanas están
+limitando estas capacidades y la posibilidad de aprovechar los servicios
+del páramo para el ser humano y el planeta.</p>
+</destacadoTexto></destacado>
+<p>Los páramos están sometidos a grandes presiones como:</p>
+<listaSinNumerar>
+<listaElemento>El fuego, como fenómeno natural o por la acción de
+los seres humanos, que utilizan los retoños que aparecen después de
+las quemas como alimento del ganado.</listaElemento>
+<listaElemento>La ganadería, que por el pisoteo y forrajeo de la vegetación
+nativa altera los ciclos naturales de nutrientes y la capacidad de
+retención de agua del suelo, lo que favorece el crecimiento de malezas.</listaElemento>
+<listaElemento>La agricultura, al ampliar la frontera agrícola se
+emplea principalmente en el cultivo de papa.</listaElemento>
+<listaElemento>La minería, destruye la capa vegetal y el suelo, contamina
+las aguas con residuos tóxicos, provoca daños en los acuíferos subterráneos,
+pérdida de la capacidad de los suelos para almacenar, infiltrar y
+almacenar el agua que forman los ríos y quebradas.</listaElemento>
+</listaSinNumerar>
+<recuerda><recuerdaTexto>
+<p>Los <negrita>páramos</negrita> se encuentran en peligro y una de
+las causas son las políticas de extracción minera. En el páramo de <negrita
+>Santurbán</negrita> (Santander), la comunidad ambientalista y local
+lograron que el gobierno aprobara la delimitación del páramo, de acuerdo
+con los estudios del Instituto von Humboldt, de 100 000 hectáreas
+libres de uso productivo<enlace
+destino="http://www.elespectador.com/tags/paramo-de-santurban"> [VER]</enlace
+>.</p>
+</recuerdaTexto></recuerda><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso050&amp;IdRecurso=RES-AFFE5AD1E46A4E77AA4831FFFA59781C"
->Recurso M10A-01</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_21_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso160&amp;IdRecurso=RES-3EA7CFFFC92B4FA6BEC931C2746A6E8A"
+>Reconoce conceptos centrales de la biogeografía andina</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_08_11_CO_232041CB2D1242C6A7D18465E9D6EDD5">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso170&amp;IdRecurso=RES-343C5E2BDE204B8195CC2558D6371F47"
->Recurso M101A-05</enlace>
+>Refuerza tu aprendizaje: La región biogeográfica Norandina</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_08_11_CO_D69885D36AB646A7A2BD42E30F3584F1">
 <seccion1Titulo>Competencias</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_22_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso180&amp;IdRecurso=RES-89AC009E7A254F24B57D84FA90E6FDA9"
 >Competencias: identificación de las especies en peligro</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_08_11_CO_img_23_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso190&amp;IdRecurso=RES-D1B8B2462AAC4E78B09C2996402AE5FF"
 >Proyecto: investigación de la contaminación en nuestra localidad</enlace>
@@ -431,8 +1489,20 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso190&amp;IdRecurso=RES-D1B8B2
 id="MI_CS_08_11_CO_778D235F910E4413B95AAF529DAAC22B"><mapaconceptual>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso210&amp;IdRecurso=RES-25A5FED6BE654FFE85AD0663F0C190DB"
->Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+>Mapa conceptual del tema Zonas Biogeográficas de Colombia</enlace>
+</mapaconceptual><autoevaluate><enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_11_CO_Recurso220&amp;IdRecurso=RES-B75BFFB297D546BFA0A476F133AE8F80"
->Evaluación</enlace></autoevaluate><enlacesreferencia>
-<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+>Evalúa tus conocimientos sobre el tema Zonas biogeográficas de Colombia</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace destino="http://es.calameo.com/books/0002144455e0595439244"
+>Regiones biogeográficas de Colombia.</enlace>
+<enlace destino="http://www.eltiempo.com/archivo/documento/MAM-817030"
+>Biogeografía, clave contra la extinción.</enlace>
+<enlace
+destino="http://www.parquesnacionales.gov.co/portal/es/sistema-nacional-de-areas-protegidas-sinap/"
+>Áreas protegidas de Colombia.</enlace>
+<enlace destino="http://www.sinchi.org.co/">Instituto Amazónico de
+Investigaciones Científicas.</enlace>
+<enlace destino="http://www.imeditores.com/banocc/orinoquia/">Provincia
+biogeográfica Orinoquia.</enlace>
 </enlacesreferencia></masinformacion></libro>
