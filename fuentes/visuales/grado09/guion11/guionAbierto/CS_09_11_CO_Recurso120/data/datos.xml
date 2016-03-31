@@ -17,8 +17,8 @@
   <test cantidad="10">
     <cuestion>
       <enunciado><![CDATA[¿En dónde se concentraba la mayoría de la población colombiana en el siglo XIX?]]></enunciado>
-      <imagen><![CDATA[CS_09_11_CO_REC120_IMG04.jpg]]></imagen>
-      <ampliacion/>
+      <imagen><![CDATA[CS_09_11_CO_REC120_IMG01n.png]]></imagen>
+      <ampliacion><![CDATA[CS_09_11_CO_REC120_IMG01a.png]]></ampliacion>
       <explicacion><![CDATA[En el siglo XIX, la mayoría de la población se concentraba en la cordillera oriental del área Andina. Las provincias más pobladas eran Bogotá, Tunja y Antioquia.]]></explicacion>
       <respuestas>
         <respuesta contestacion="En la costa Caribe." correcta="0"/>
@@ -30,8 +30,8 @@
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Cuál fue el factor que impulsó el poblamiento de la región andina en el siglo XIX?]]></enunciado>
-      <imagen><![CDATA[CS_09_11_CO_REC120_IMG06.jpg]]></imagen>
-      <ampliacion/>
+      <imagen><![CDATA[CS_09_11_CO_REC120_IMG09n.png]]></imagen>
+      <ampliacion><![CDATA[CS_09_11_CO_REC120_IMG09a.png]]></ampliacion>
       <explicacion><![CDATA[La cordillera central de la región andina fue poblada paulatinamente a finales del siglo XIX, con el auge del café. ]]></explicacion>
       <respuestas>
         <respuesta contestacion="El cultivo del café." correcta="on"/>
@@ -42,8 +42,8 @@
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿En dónde habitaba la mayoría de la población colombiana en la década de los años 30 del siglo XX?]]></enunciado>
-      <imagen><![CDATA[CS_09_11_CO_REC120_IMG01.jpg]]></imagen>
-      <ampliacion/>
+      <imagen><![CDATA[CS_09_11_CO_REC120_IMG04n.png]]></imagen>
+      <ampliacion><![CDATA[CS_09_11_CO_REC120_IMG04a.png]]></ampliacion>
       <explicacion><![CDATA[Hasta la década de los años 30 había más población rural que urbana. ]]></explicacion>
       <respuestas>
         <respuesta contestacion="En zonas urbanas dispersas." correcta="0"/>
@@ -54,8 +54,8 @@
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Cuáles fueron las ciudades colombianas que más crecieron económica y demográficamente desde la segunda mitad del siglo XX?]]></enunciado>
-      <imagen><![CDATA[CS_09_11_CO_REC120_IMG02.jpg]]></imagen>
-      <ampliacion/>
+      <imagen><![CDATA[CS_09_11_CO_REC120_IMG02n.png]]></imagen>
+      <ampliacion><![CDATA[CS_09_11_CO_REC120_IMG02a.png]]></ampliacion>
       <explicacion><![CDATA[Desde mediados del siglo XX se inició la modernización con industrias y vías que integraron mercados regionales en cuatro ciudades: Bogotá, Medellín, Cali y Barranquilla.]]></explicacion>
       <respuestas>
         <respuesta contestacion="Bogotá, Medellín, Barranquilla y Bucaramanga." correcta="0"/>
@@ -66,8 +66,8 @@
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Cuál fue el cambio más notable que se evidenció en 1973 con respecto a la población colombiana?]]></enunciado>
-      <imagen><![CDATA[CS_09_11_CO_REC120_IMG03.jpg]]></imagen>
-      <ampliacion/>
+      <imagen><![CDATA[CS_09_11_CO_REC120_IMG08n.png]]></imagen>
+      <ampliacion><![CDATA[CS_09_11_CO_REC120_IMG08a.png]]></ampliacion>
       <explicacion><![CDATA[En 1973, de los 19.735.286 habitantes que había en Colombia, el 63,6% se situaba en las zonas urbanas, mientras el 36,4% en las zonas rurales.]]></explicacion>
       <respuestas>
         <respuesta contestacion="El aumento de la población rural." correcta="0"/>
@@ -78,8 +78,8 @@
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Cómo se comportó la dinámica demográfica de la población rural colombiana en 1993?]]></enunciado>
-      <imagen><![CDATA[CS_09_11_CO_REC120_IMG09.jpg]]></imagen>
-      <ampliacion/>
+      <imagen><![CDATA[CS_09_11_CO_REC120_IMG05n.png]]></imagen>
+      <ampliacion><![CDATA[CS_09_11_CO_REC120_IMG05a.png]]></ampliacion>
       <explicacion><![CDATA[Para 1993 la población rural había descendido a un 30% en todo el territorio nacional.]]></explicacion>
       <respuestas>
         <respuesta contestacion="Se estancó, igual que la urbana." correcta="0"/>
@@ -90,8 +90,8 @@
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿En dónde se concentra la mayoría de la población colombiana desde la segunda mitad del siglo XX?]]></enunciado>
-      <imagen><![CDATA[CS_09_11_CO_REC120_IMG07.png]]></imagen>
-      <ampliacion/>
+      <imagen><![CDATA[CS_09_11_CO_REC120_IMG10n.png]]></imagen>
+      <ampliacion><![CDATA[CS_09_11_CO_REC120_IMG10a.png]]></ampliacion>
       <explicacion><![CDATA[A partir de la segunda mitad del siglo XX a mayor cantidad de población empezó a concentrarse en las áreas metropolitanas. ]]></explicacion>
       <respuestas>
         <respuesta contestacion="En áreas metropolitanas de ciudades capitales." correcta="on"/>
@@ -102,8 +102,8 @@
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿En qué ciudades se sitúa la mayoría de la población colombiana según el censo del 2005?]]></enunciado>
-      <imagen><![CDATA[CS_09_11_CO_REC120_IMG05.jpg]]></imagen>
-      <ampliacion/>
+      <imagen><![CDATA[CS_09_11_CO_REC120_IMG06n.png]]></imagen>
+      <ampliacion><![CDATA[CS_09_11_CO_REC120_IMG06a.png]]></ampliacion>
       <explicacion><![CDATA[En 2005 el 41,4% del total de población, se sitúa en Bogotá D.C, Medellín, Barranquilla, Cali y Cartagena.]]></explicacion>
       <respuestas>
         <respuesta contestacion="Bogotá, Medellín, Cali, Bucaramanga y Barranquilla." correcta="0"/>
@@ -114,20 +114,20 @@
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Cómo se calcula la densidad de poblacion?]]></enunciado>
-      <imagen><![CDATA[CS_09_11_CO_REC120_IMG10.jpg]]></imagen>
-      <ampliacion/>
+      <imagen><![CDATA[CS_09_11_CO_REC120_IMG07n.png]]></imagen>
+      <ampliacion><![CDATA[CS_09_11_CO_REC120_IMG07a.png]]></ampliacion>
       <explicacion><![CDATA[La densidad de población es la división de la cantidad de habitantes en la superficie territorial. Se expresa en habitantes (hab.) por kilómetro cuadrado (km{{sup}}2{{normal}}).]]></explicacion>
       <respuestas>
         <respuesta contestacion="Dividiendo la población total por el área que ocupa." correcta="on"/>
         <respuesta contestacion="Sumando el total de la población." correcta="0"/>
         <respuesta contestacion="De acuerdo con las áreas de mayor población." correcta="0"/>
-        <respuesta contestacion="De acuerdo con las áreas  de menor población." correcta="0"/>
+        <respuesta contestacion="De acuerdo con las áreas de menor población." correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
       <enunciado><![CDATA[¿Qué se entiende por explosión demográfica?]]></enunciado>
-      <imagen><![CDATA[CS_09_11_CO_REC120_IMG08.jpg]]></imagen>
-      <ampliacion/>
+      <imagen><![CDATA[CS_09_11_CO_REC120_IMG03n.png]]></imagen>
+      <ampliacion><![CDATA[CS_09_11_CO_REC120_IMG03a.png]]></ampliacion>
       <explicacion><![CDATA[La explosión demográfica hace referencia al excesivo poblamiento en ciertas áreas, hasta llegar a saturarlas y provocar diferentes problemas.]]></explicacion>
       <respuestas>
         <respuesta contestacion="El aumento acelerado de la densidad poblacional." correcta="on"/>
