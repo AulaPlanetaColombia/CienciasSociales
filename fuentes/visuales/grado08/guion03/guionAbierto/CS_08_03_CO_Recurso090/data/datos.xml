@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="10" clase="a" aprid="m10a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Diferencia las ideas centralistas y las federalistas en la Nueva Granada</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M10A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Clasifica la información, según corresponda a características del centralismo o del federalismo en la época de la Nueva Granada.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoacategoria cantidad="2">
+    <cuestion>
+      <categoria><![CDATA[Centralismo]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Estado unitario]]></respuesta>
+        <respuesta id="2"><![CDATA[Gobierno central]]></respuesta>
+        <respuesta id="3"><![CDATA[Antonio Nariño]]></respuesta>
+        <respuesta id="4"><![CDATA[Ejército nacional]]></respuesta>
+      </respuestas>
+      <sonido/>
+    </cuestion>
+    <cuestion>
+      <categoria><![CDATA[Federalismo]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Provincias o estados]]></respuesta>
+        <respuesta id="2"><![CDATA[Libertad de comercio]]></respuesta>
+        <respuesta id="3"><![CDATA[Camilo Torres]]></respuesta>
+        <respuesta id="4"><![CDATA[Gobiernos autónomos]]></respuesta>
+      </respuestas>
+      <sonido/>
+    </cuestion>
+  </textoacategoria>
+</motor>

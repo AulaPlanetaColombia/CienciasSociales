@@ -1,83 +1,95 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<engine copy="Editorial Planeta" version="1" aprid="f6b">
-  <main layout="6">
-    <title>La Campaña Libertadora</title>
-  </main>
-  <sections>
-    <section i="0" star="false">
-      <menuImage>
-        <title><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">Antecedentes y contexto</span></span></p>
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f6b"><main layout="6">
+<title>La Campaña Libertadora</title>
+</main>
+<sections>
+<section i="0" star="false" >
+<menuImage>
+<title><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 24px;">Antecedentes<br />
+y contexto</span></span></p>
 ]]></title>
-      </menuImage>
-      <pages>
-        <page i="0">
-          <title>Antecedentes y contexto</title>
-          <description><![CDATA[<p><strong><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="color:#FFA500;">&iquest;Cu&aacute;l era la situaci&oacute;n previa a la confrontaci&oacute;n entre realistas y patriotas?</span></span></span></strong></p>
+</menuImage>
+<pages>
+<page i="0">
+<title>Antecedentes y contexto</title>
+<description><![CDATA[<p><strong><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era la situaci&oacute;n previa a la confrontaci&oacute;n entre realistas y patriotas?</span></span></strong></p>
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">A inicios del siglo XIX, el territorio que hoy ocupa Colombia era una <strong>colonia espa&ntilde;ola</strong>, agrupada en las Provincias Unidas del Nuevo Reino de Granada.</span></span></p>
 
 <p></p>
 
-<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">La Campa&ntilde;a Libertadora fue uno de los episodios de la serie de <strong>guerras de independencia</strong> que libraron todas las naciones hispanoamericanas contra el ej&eacute;rcito espa&ntilde;ol. Am&eacute;rica encontr&oacute; inspiraci&oacute;n y ejemplo en las independencias de Estados Unidos y Hait&iacute;, as&iacute; como en la Revoluci&oacute;n Francesa.</span></span></p>
+<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">La Campa&ntilde;a Libertadora fue uno de los episodios de la serie de <strong>guerras de independencia</strong> que libraron todas las naciones hispanoamericanas contra el ej&eacute;rcito espa&ntilde;ol. Am&eacute;rica encontr&oacute; inspiraci&oacute;n y ejemplo en las independencias de Estados Unidos y Hait&iacute;, as&iacute; como en la Revoluci&oacute;n francesa.</span></span></p>
 
 <p></p>
-<span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">La lucha para instalar <strong>reg&iacute;menes pol&iacute;ticos republicanos</strong> fue un fen&oacute;meno que ocurri&oacute; en varios lugares del mundo a principios del siglo XIX. Desde 1810, diversos movimientos sociales americanos organizaron gobiernos aut&oacute;nomos, aprovechando que Espa&ntilde;a hab&iacute;a sido invadida por Napole&oacute;n Bonaparte.</span></span>]]></description>
-          <images>
-            <image path="1a.jpg" border="false" pathbig="1a.jpg" zoomEnabled="true">
-              <title><![CDATA[Revolución Francesa como inspiración del movimiento independentista (Casa Museo Antonio Nariño, Villa de Leyva)]]></title>
-            </image>
-          </images>
-          <questions>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Qu&eacute; era la Nueva Granada al comenzar el siglo XIX?</span></span>]]></text>
-              <answers>
-                <answer correct="true"><![CDATA[Virreinato de la Corona española.]]></answer>
-                <answer correct="false"><![CDATA[Colonia del Reino Unido.]]></answer>
-                <answer correct="false"><![CDATA[Apéndice de la Capitanía General de Venezuela.]]></answer>
-                <answer correct="false"><![CDATA[Capital de Nueva España.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era la relaci&oacute;n entre Espa&ntilde;a y la Nueva Granada?</span></span>]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[España era una república y la Nueva Granada, su capital.]]></answer>
-                <answer correct="false"><![CDATA[El rey de España trasladó su reino hacia la Nueva Granada.]]></answer>
-                <answer correct="true"><![CDATA[España era la metrópoli y Nueva Granada era su colonia.]]></answer>
-                <answer correct="false"><![CDATA[No existía una relación entre España y la Nueva Granada.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era el objetivo pol&iacute;tico de los patriotas neogranadinos?</span></span>]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[Catequizar a los indígenas y a los negros.]]></answer>
-                <answer correct="false"><![CDATA[Establecer un comercio fluido con Inglaterra.]]></answer>
-                <answer correct="false"><![CDATA[Favorecer los intereses de la Corona española.]]></answer>
-                <answer correct="true"><![CDATA[Fundar una república, regida por una constitución.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue el rasgo distintivo del per&iacute;odo conocido como la Patria Boba?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[La organización de juntas de gobierno en América.]]></answer>
-                <answer correct="true"><![CDATA[Las disputas internas entre centralistas y federalistas.]]></answer>
-                <answer correct="false"><![CDATA[La formación de una clase política fuerte y unida.]]></answer>
-                <answer correct="false"><![CDATA[La dependencia económica respecto a España.]]></answer>
-              </answers>
-            </question>
-          </questions>
-        </page>
-      </pages>
-    </section>
-    <section i="1" star="false">
-      <menuImage>
-        <title><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">El escenario y los protagonistas</span></span></p>
+<span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">La lucha para instalar <strong>reg&iacute;menes pol&iacute;ticos republicanos</strong> fue un fen&oacute;meno que ocurri&oacute; en varios lugares del mundo a principios del siglo XIX. Desde 1810, diversos movimientos sociales americanos organizaron gobiernos aut&oacute;nomos, aprovechando que Espa&ntilde;a hab&iacute;a sido invadida por <strong>Napole&oacute;n Bonaparte</strong>.</span></span>]]></description>
+<images>
+<image path="CS_08_03_REC110_IMG01n.jpg" border="false" pathbig="CS_08_03_REC110_IMG01a.jpg" zoomEnabled="true">
+<title><![CDATA[Batalla de Yorktown, el general George Washington recibe la capitulación del general Charles Cornwallis, 19 de octubre de 1781, litografía por Currier & Ives, 1876]]></title>
+</image>
+</images>
+<questions>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Qu&eacute; era la Nueva Granada al comenzar el siglo XIX?</span></span>]]></text><answers>
+<answer correct="true">
+<![CDATA[Virreinato de la Corona española.]]></answer>
+<answer correct="false">
+<![CDATA[Colonia del Reino Unido.]]></answer>
+<answer correct="false">
+<![CDATA[Apéndice de la Capitanía General de Venezuela.]]></answer>
+<answer correct="false">
+<![CDATA[Capital de Nueva España.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era la relaci&oacute;n entre Espa&ntilde;a y la Nueva Granada?</span></span>]]></text><answers>
+<answer correct="false">
+<![CDATA[España era una república y la Nueva Granada, su capital.]]></answer>
+<answer correct="false">
+<![CDATA[El rey de España trasladó su reino hacia la Nueva Granada.]]></answer>
+<answer correct="true">
+<![CDATA[España era la metrópoli y Nueva Granada era su colonia.]]></answer>
+<answer correct="false">
+<![CDATA[No existía una relación entre España y la Nueva Granada.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era el objetivo pol&iacute;tico de los patriotas neogranadinos?</span></span>]]></text><answers>
+<answer correct="false">
+<![CDATA[Catequizar a los indígenas y a los negros.]]></answer>
+<answer correct="false">
+<![CDATA[Establecer un comercio fluido con Inglaterra.]]></answer>
+<answer correct="false">
+<![CDATA[Favorecer los intereses de la Corona española.]]></answer>
+<answer correct="true">
+<![CDATA[Fundar una república, regida por una constitución.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue el rasgo distintivo del per&iacute;odo conocido como la Patria Boba?</span></span></p>
+]]></text><answers>
+<answer correct="false">
+<![CDATA[La organización de juntas de gobierno en América.]]></answer>
+<answer correct="true">
+<![CDATA[Las disputas internas entre centralistas y federalistas.]]></answer>
+<answer correct="false">
+<![CDATA[La formación de una clase política fuerte y unida.]]></answer>
+<answer correct="false">
+<![CDATA[La dependencia económica respecto a España.]]></answer>
+</answers>
+</question>
+</questions>
+</page>
+</pages>
+</section><section i="1" star="false" >
+<menuImage>
+<title><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 24px;">El escenario<br />
+y los<br />
+protagonistas</span></span></p>
 ]]></title>
-      </menuImage>
-      <pages>
-        <page i="0">
-          <title>El escenario y los protagonistas I</title>
-          <description><![CDATA[<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="color:#FFA500;"><strong>&iquest;Qui&eacute;nes se enfrentaron durante la Campa&ntilde;a Libertadora?</strong></span></span></span></p>
+</menuImage>
+<pages>
+<page i="0">
+<title>El escenario y los protagonistas I</title>
+<description><![CDATA[<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>&iquest;Qui&eacute;nes se enfrentaron durante la Campa&ntilde;a Libertadora?</strong></span></span></p>
 
 <p></p>
 
@@ -85,11 +97,11 @@
 
 <p></p>
 
-<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">A principios de 1919, la situaci&oacute;n de las dos fuerzas que se enfrentar&iacute;an, unas para defender (<strong>realistas</strong>) y otras para terminar con el dominio espa&ntilde;ol (<strong>patriotas</strong>) en la Nueva Granada, era la siguiente:</span></span></p>
+<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">A principios de 1819, la situaci&oacute;n de las dos fuerzas que se enfrentar&iacute;an, unas para defender (<strong>realistas</strong>) y otras para terminar con el dominio espa&ntilde;ol (<strong>patriotas</strong>) en la Nueva Granada, era la siguiente:</span></span></p>
 
 <p></p>
 
-<p><span style="color:#FFA500;"><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;">Los patriotas</span></span></span></p>
+<p><span style="font-size:16px;"><strong><span style="font-family: verdana,geneva,sans-serif;">Los patriotas</span></strong></span></p>
 
 <p></p>
 
@@ -105,56 +117,116 @@
 
 <p></p>
 
-<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Y la <strong>Legi&oacute;n Brit&aacute;nica</strong> apoyaba a Bol&iacute;var como un cuerpo militar de 200 hombres, enviado desde Inglaterra con el inter&eacute;s de terminar el dominio espa&ntilde;ol en Am&eacute;rica y favorecer los intereses econ&oacute;micos de dicho pa&iacute;s.</span></span></p>
+<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">La <strong>Legi&oacute;n Brit&aacute;nica</strong> apoyaba a Bol&iacute;var como un cuerpo militar de 200 hombres, enviado desde Inglaterra con el inter&eacute;s de terminar el dominio espa&ntilde;ol en Am&eacute;rica y favorecer los intereses econ&oacute;micos de dicho pa&iacute;s.</span></span></p>
 ]]></description>
-          <images>
-            <image path="Bolivar.jpg" border="false" pathbig="Bolivar.jpg" zoomEnabled="true">
-              <title><![CDATA[Simón Bolívar por Daniel Hernández, s. XIX (Museo de Arte, Lima, Perú)]]></title>
-            </image>
-          </images>
-          <questions>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era el significado de ser un patriota?</span></span>]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[Defender los intereses de Napoleón en América.]]></answer>
-                <answer correct="false"><![CDATA[Defender la patria española, aun con la vida.]]></answer>
-                <answer correct="true"><![CDATA[Luchar por instaurar un gobierno constitucional y autónomo.]]></answer>
-                <answer correct="false"><![CDATA[Difundir las ideas revolucionarias de la monarquía en América.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; Bol&iacute;var se encontraba en los llanos en 1819?</span></span>]]></text>
-              <answers>
-                <answer correct="true"><![CDATA[Porque deseaba unificar las fuerzas rebeldes en un solo ejército.]]></answer>
-                <answer correct="false"><![CDATA[Porque era un paso obligado para llegar a Ecuador y Perú.]]></answer>
-                <answer correct="false"><![CDATA[Porque deseaba fundar la república independiente de los llanos.]]></answer>
-                <answer correct="false"><![CDATA[Porque deseaba enfrentar allí al grueso de las tropas realistas.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; Santander estaba en Casanare en 1819?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[Porque había conquistado desde Argentina hasta los llanos.]]></answer>
-                <answer correct="false"><![CDATA[Porque tuvo diferencias con Páez, quien controlaba los llanos.]]></answer>
-                <answer correct="false"><![CDATA[Porque estaba huyendo del asedio de Pablo Morillo.]]></answer>
-                <answer correct="true"><![CDATA[Porque encontró allí un refugio ante la presión de la Reconquista.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l inter&eacute;s llev&oacute; a Inglaterra a participar de la Campa&ntilde;a Libertadora?</span></span>]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[El favoritismo del rey inglés por los habitantes de América.]]></answer>
-                <answer correct="true"><![CDATA[La posibilidad de comerciar libremente sus mercancías en América.]]></answer>
-                <answer correct="false"><![CDATA[La necesidad de industrializar las economías americanas.]]></answer>
-                <answer correct="false"><![CDATA[La posibilidad de instalar a un inglés en el trono americano.]]></answer>
-              </answers>
-            </question>
-          </questions>
-        </page>
-        <page i="0">
-          <title>El escenario y los protagonistas II</title>
-          <description><![CDATA[<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="color:#FFA500;"><strong>&iquest;Qui&eacute;nes se enfrentaron durante la Campa&ntilde;a Libertadora?</strong></span></span></span></p>
+<images>
+<image path="CS_08_03_REC110_IMG02n.jpg" border="false" pathbig="CS_08_03_REC110_IMG02a.jpg" zoomEnabled="true">
+<title><![CDATA[Simón Bolívar (por Daniel Hernández, s. XIX, Museo de Arte, Lima, Perú)]]></title>
+</image>
+</images>
+<questions>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era el significado de ser un patriota?</span></span>]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
+Defender los intereses de Napoleón en América.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+Defender la patria española, aun con la vida.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+
+Luchar por instaurar un gobierno constitucional y autónomo.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+Difundir las ideas revolucionarias de la monarquía en América.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; Bol&iacute;var se encontraba en los llanos en 1819?</span></span>]]></text><answers>
+<answer correct="true">
+<![CDATA[
+
+
+Porque deseaba unificar las fuerzas rebeldes en un solo ejército.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+Porque era un paso obligado para llegar a Ecuador y Perú.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+Porque deseaba fundar la república independiente de los llanos.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+Porque deseaba enfrentar allí al grueso de las tropas realistas.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; Santander estaba en Casanare en 1819?</span></span></p>
+]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
+Porque había conquistado desde Argentina hasta los llanos.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+Porque tuvo diferencias con Páez, quien controlaba los llanos.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+Porque estaba huyendo del asedio de Pablo Morillo.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+
+Porque encontró allí un refugio ante la presión de la Reconquista.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l inter&eacute;s llev&oacute; a Inglaterra a participar de la Campa&ntilde;a Libertadora?</span></span>]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
+El favoritismo del rey inglés por los habitantes de América.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+
+La posibilidad de comerciar libremente sus mercancías en América.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+La necesidad de industrializar las economías americanas.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+La posibilidad de instalar a un inglés en el trono americano.]]></answer>
+</answers>
+</question>
+</questions>
+</page>
+<page i="0">
+<title>El escenario y los protagonistas II</title>
+<description><![CDATA[<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>&iquest;Qui&eacute;nes se enfrentaron durante la Campa&ntilde;a Libertadora?</strong></span></span></p>
 
 <p></p>
 
@@ -164,7 +236,7 @@
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">A principios de 1919, la situaci&oacute;n de las dos fuerzas que se enfrentar&iacute;an, unas para defender (<strong>realistas</strong>) y otras para terminar con el dominio espa&ntilde;ol (<strong>patriotas</strong>) en la Nueva Granada, era la siguiente:</span></span></p>
 
-<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="color:#FFA500;">Los realistas</span></span></span></p>
+<p><strong><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Los realistas</span></span></strong></p>
 
 <p></p>
 
@@ -178,43 +250,72 @@
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Juan S&aacute;mano</strong>, tras la partida de Barreiro hacia Venezuela, qued&oacute; como el encargado de mantener el Virreinato de la Nueva Granada.</span></span></p>
 ]]></description>
-          <images>
-            <image path="Morillo.jpg" border="false" pathbig="Morillo.jpg" zoomEnabled="true">
-              <title><![CDATA[Pablo Morillo, retrato anónimo, s. XVIII (Museo Naval, Madrid, España)]]></title>
-            </image>
-          </images>
-          <questions>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era el objetivo de Barreiro al militarizar los pasos en la cordillera de los Andes?</span></span>]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[Defender la flota española, instalada en Honda.]]></answer>
-                <answer correct="true"><![CDATA[Bloquear la entrada desde los llanos hacia Tunja y Santafé.]]></answer>
-                <answer correct="false"><![CDATA[Impedir la comunicación entre Caracas y Bogotá.]]></answer>
-                <answer correct="false"><![CDATA[Mantener ocupadas a las tropas de Santander.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Qui&eacute;n implant&oacute; el R&eacute;gimen del Terror, iniciando por el asedio a Cartagena?</span></span>]]></text>
-              <answers>
-                <answer correct="true"><![CDATA[Pablo Morillo]]></answer>
-                <answer correct="false"><![CDATA[José María Barreiro]]></answer>
-                <answer correct="false"><![CDATA[Juan Sámano]]></answer>
-                <answer correct="false"><![CDATA[José Antonio Páez]]></answer>
-              </answers>
-            </question>
-          </questions>
-        </page>
-      </pages>
-    </section>
-    <section i="2" star="false">
-      <menuImage>
-        <title><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">El plan</span></span></p>
+<images>
+<image path="CS_08_03_REC110_IMG03n.jpg" border="false" pathbig="CS_08_03_REC110_IMG03a.jpg" zoomEnabled="true">
+<title><![CDATA[Pablo Morillo (retrato anónimo, s. XVIII, Museo Naval, Madrid, España)]]></title>
+</image>
+</images>
+<questions>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era el objetivo de Barreiro al militarizar los pasos en la cordillera de los Andes?</span></span>]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
+Defender la flota española, instalada en Honda.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+
+Bloquear la entrada desde los llanos hacia Tunja y Santa Fe.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+Impedir la comunicación entre Caracas y Bogotá.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+Mantener ocupadas a las tropas de Santander.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Qui&eacute;n implant&oacute; el R&eacute;gimen del Terror, iniciando por el asedio a Cartagena?</span></span>]]></text><answers>
+<answer correct="true">
+<![CDATA[
+
+
+Pablo Morillo]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+José María Barreiro]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+Juan Sámano]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+José Antonio Páez]]></answer>
+</answers>
+</question>
+</questions>
+</page>
+</pages>
+</section><section i="2" star="false" >
+<menuImage>
+<title><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 24px;">El plan</span></span></p>
 ]]></title>
-      </menuImage>
-      <pages>
-        <page i="0">
-          <title>El plan</title>
-          <description><![CDATA[<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="color:#FFA500;"><strong>&iquest;Cu&aacute;l fue la estrategia de Bol&iacute;var para conseguir su objetivo?</strong></span></span></span></p>
+</menuImage>
+<pages>
+<page i="0">
+<title>El plan</title>
+<description><![CDATA[<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>&iquest;Cu&aacute;l fue la estrategia de Bol&iacute;var para conseguir su objetivo?</strong></span></span></p>
 
 <p></p>
 
@@ -224,7 +325,7 @@
 
 <p></p>
 
-<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">La segunda etapa ser&iacute;a <strong>atravesar la cordillera los Andes</strong>, para <strong>invadir luego Sogamoso, Tunja y Santaf&eacute;</strong>. Bol&iacute;var esperaba sorprender a las tropas realistas al mando de Barreiro, ya que los pasos de entrada por la cordillera quedaban descubiertos en invierno.</span></span></p>
+<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">La segunda etapa ser&iacute;a <strong>atravesar la cordillera los Andes</strong>, para <strong>invadir luego Sogamoso, Tunja y Santa Fe</strong>. Bol&iacute;var esperaba sorprender a las tropas realistas al mando de Barreiro, ya que los pasos de entrada por la cordillera quedaban descubiertos en invierno.</span></span></p>
 
 <p></p>
 
@@ -234,63 +335,140 @@
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Para Bol&iacute;var, hab&iacute;a dos factores claves en el funcionamiento del plan: la <strong>rapidez en su ejecuci&oacute;n</strong> y el <strong>secreto de los detalles de la campa&ntilde;a</strong>.</span></span></p>
 ]]></description>
-          <images>
-            <image path="maparutalibertadora.jpg" border="false" pathbig="maparutalibertadora.jpg" zoomEnabled="true">
-              <title><![CDATA[La ruta libertadora]]></title>
-            </image>
-          </images>
-          <questions>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; fue importante la temporada de lluvias en el plan de Bol&iacute;var?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[La tradición de los realistas les prohibía luchar en invierno.]]></answer>
-                <answer correct="false"><![CDATA[Aprovecharía el cauce de los ríos para huir de Barreiro.]]></answer>
-                <answer correct="true"><![CDATA[Conduciría inadvertidamente a las tropas por el llano.]]></answer>
-                <answer correct="false"><![CDATA[Favorecía el cultivo de los productos necesarios para la campaña.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Qu&eacute; se propuso Bol&iacute;var al atravesar la cordillera de los Andes?</span></span>]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[Apropiarse de sus yacimientos minerales para fabricar armas. ]]></answer>
-                <answer correct="false"><![CDATA[Distraer la atención de las tropas realistas, mientras Páez atacaba.]]></answer>
-                <answer correct="true"><![CDATA[Entrar inesperadamente a la Nueva Granada.]]></answer>
-                <answer correct="false"><![CDATA[Encontrarse con las tropas de Santander del otro lado.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; era importante para Bol&iacute;var la rapidez en la ejecuci&oacute;n del plan?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="true"><![CDATA[Para sorprender a Barreiro e imposibilitar la reacción de Morillo.]]></answer>
-                <answer correct="false"><![CDATA[Para llegar antes que los españoles a Santafé.]]></answer>
-                <answer correct="false"><![CDATA[Para evitar el apoyo de las tropas inglesas.]]></answer>
-                <answer correct="false"><![CDATA[Para mantener desinformado de los movimientos al rey.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era el valor de mantener en secreto el plan?</span></span>]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[Poner a prueba la fidelidad de los oficiales más cercanos.]]></answer>
-                <answer correct="false"><![CDATA[Evitar que Santander le revelara el plan a Morillo.]]></answer>
-                <answer correct="false"><![CDATA[Evitar que las tropas se atemorizaran.]]></answer>
-                <answer correct="true"><![CDATA[Asegurar el factor sorpresa.]]></answer>
-              </answers>
-            </question>
-          </questions>
-        </page>
-      </pages>
-    </section>
-    <section i="3" star="false">
-      <menuImage>
-        <title><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">Movilizaci&oacute;n y&nbsp; reuni&oacute;n de tropas</span></span></p>
+<images>
+<image path="CS_08_03_REC110_IMG04n.jpg" border="false" pathbig="CS_08_03_REC110_IMG04a.jpg" zoomEnabled="true">
+<title><![CDATA[La ruta libertadora]]></title>
+</image>
+</images>
+<questions>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; fue importante la temporada de lluvias en el plan de Bol&iacute;var?</span></span></p>
+]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
+
+La tradición de los realistas les prohibía luchar en invierno.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Aprovecharía el cauce de los ríos para huir de Barreiro.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+
+
+Conduciría inadvertidamente a las tropas por el llano.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Favorecía el cultivo de los productos necesarios para la campaña.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Qu&eacute; se propuso Bol&iacute;var al atravesar la cordillera de los Andes?</span></span>]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
+
+Apropiarse de sus yacimientos minerales para fabricar armas. ]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Distraer la atención de las tropas realistas, mientras Páez atacaba.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+
+
+Entrar inesperadamente a la Nueva Granada.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Encontrarse con las tropas de Santander del otro lado.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; era importante para Bol&iacute;var la rapidez en la ejecuci&oacute;n del plan?</span></span></p>
+]]></text><answers>
+<answer correct="true">
+<![CDATA[
+
+
+
+Para sorprender a Barreiro e imposibilitar la reacción de Morillo.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Para llegar antes que los españoles a Santa Fe.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Para evitar el apoyo de las tropas inglesas.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Para mantener desinformado de los movimientos al rey.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era el valor de mantener en secreto el plan?</span></span>]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
+
+Poner a prueba la fidelidad de los oficiales más cercanos.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Evitar que Santander le revelara el plan a Morillo.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Evitar que las tropas se atemorizaran.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+
+
+Asegurar el factor sorpresa.]]></answer>
+</answers>
+</question>
+</questions>
+</page>
+</pages>
+</section><section i="3" star="false" >
+<menuImage>
+<title><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 24px;">Movilizaci&oacute;n<br />
+y reuni&oacute;n<br />
+de tropas</span></span></p>
 ]]></title>
-      </menuImage>
-      <pages>
-        <page i="0">
-          <title>Movilización y  reunión de tropas</title>
-          <description><![CDATA[<p><strong><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="color:#FFA500;">&iquest;C&oacute;mo se unieron los patriotas para conformar una fuerza militar?</span></span></span></strong></p>
+</menuImage>
+<pages>
+<page i="0">
+<title>Movilización y  reunión de tropas</title>
+<description><![CDATA[<p><strong><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;C&oacute;mo se unieron los patriotas para conformar una fuerza militar?</span></span></strong></p>
 
 <p></p>
 
@@ -298,67 +476,111 @@
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">El 26 de mayo de 1819, una <strong>fuerza patriota de 2200 hombres </strong>comandados por <strong>Bol&iacute;var </strong>empez&oacute; su marcha desde la poblaci&oacute;n de Mantecal, hasta llegar hasta al Casanare, donde se reunir&iacute;an con las fuerzas lideradas por <strong>Santander</strong>.</span></span></p>
 
-<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">El 11 de junio Bol&iacute;var lleg&oacute; a Tame y se encontr&oacute; con Santander. Para ese momento, el <strong>ej&eacute;rcito patriota sumaba 4.300 efectivos</strong>. Ensamblado el ej&eacute;rcito, emprendieron la traves&iacute;a desde Tame hasta Pore.</span></span></p>
+<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">El 11 de junio Bol&iacute;var lleg&oacute; a Tame y se encontr&oacute; con Santander. Para ese momento, el <strong>ej&eacute;rcito patriota sumaba 4300 efectivos</strong>. Ensamblado el ej&eacute;rcito, emprendieron la traves&iacute;a desde Tame hasta Pore.</span></span></p>
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Las tropas patriotas se vieron expuestas a r&iacute;os que inundaban la sabana. A ello se sum&oacute; la escasez de alimentos. <strong>El combate fue contra el invierno</strong>: los soldados caminaban sin calzado y, durante una semana, anduvieron con el agua hasta la cintura, protegiendo el fusil y las municiones m&aacute;s que el propio cuerpo.</span></span></p>
-<span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Finalmente, arribaron a Pore el d&iacute;a 22 de junio. All&iacute; se encontraron de frente con la <strong>rama oriental de la cordillera de los Andes</strong> colombianos. Aquellos soldados, llaneros acostumbrados a las pampas, llegaron a una monta&ntilde;a gigantesca en la cual eran in&uacute;tiles el caballo y la lanza.</span></span>]]></description>
-          <images>
-            <image path="llaneros.jpg" border="false" pathbig="llaneros.jpg" zoomEnabled="true">
-              <title><![CDATA[Travesía por los llanos inudados]]></title>
-            </image>
-          </images>
-          <questions>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; Bol&iacute;var decidi&oacute; atravesar la llanura con sus tropas en pleno invierno?</span></span>]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[Porque sus tropas eran especialistas en vadear los ríos.]]></answer>
-                <answer correct="false"><![CDATA[Porque en verano las condiciones eran más difíciles.]]></answer>
-                <answer correct="false"><![CDATA[Porque necesitaba supervisar las operaciones de Santander.]]></answer>
-                <answer correct="true"><![CDATA[Porque los realistas no esperaban que tomaran ese riesgo.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;les fueron las principales dificultades de los patriotas a trav&eacute;s de los llanos?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="true"><![CDATA[La carencia de alimentos y las inundaciones que impedían el paso.]]></answer>
-                <answer correct="false"><![CDATA[Las picaduras de los mosquitos y la falta de alimentos.]]></answer>
-                <answer correct="false"><![CDATA[La humedad, que echaba a perder las municiones.]]></answer>
-                <answer correct="false"><![CDATA[Los ataques de los animales salvajes de la selva.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era el valor estrat&eacute;gico de llevar a los soldados de Bol&iacute;var hasta Pore?</span></span>]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[Estar en un lugar donde no había invierno.]]></answer>
-                <answer correct="false"><![CDATA[Observar mejor los movimientos del ejército realista.]]></answer>
-                <answer correct="true"><![CDATA[Ubicarse en el mejor punto para escalar la cordillera.]]></answer>
-                <answer correct="false"><![CDATA[Encontrarse con Barreiro, quien conocía mejor la región.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Para qu&eacute; se reunieron las tropas Bol&iacute;var y Santander?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="true"><![CDATA[Para consolidar la fuerza del ejército patriota.]]></answer>
-                <answer correct="false"><![CDATA[Para intercambiar información.]]></answer>
-                <answer correct="false"><![CDATA[Para recibir a la Legión británica. ]]></answer>
-                <answer correct="false"><![CDATA[Para atacar los cuarteles realistas de los llanos. ]]></answer>
-              </answers>
-            </question>
-          </questions>
-        </page>
-      </pages>
-    </section>
-    <section i="4" star="false">
-      <menuImage>
-        <title><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 25px;">El paso de los Andes</span></span></p>
+<span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Finalmente, arribaron a Pore el d&iacute;a 22 de junio. All&iacute; se encontraron de frente con la <strong>rama oriental de la cordillera de los Andes</strong> colombianos. Aquellos soldados, llaneros acostumbrados a las sabanas, llegaron a una monta&ntilde;a gigantesca en la cual eran in&uacute;tiles el caballo y la lanza.</span></span>]]></description>
+<images>
+<image path="CS_08_03_REC110_IMG05n.jpg" border="false" pathbig="CS_08_03_REC110_IMG05a.jpg" zoomEnabled="true">
+<title><![CDATA[El paso del ejército libertador por los Llanos en 1819 (óleo de Jesús María Zamora, 1910. Colección Academia Colombiana de Historia)]]></title>
+</image>
+</images>
+<questions>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; Bol&iacute;var decidi&oacute; atravesar la llanura con sus tropas en pleno invierno?</span></span>]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+Porque sus tropas eran especialistas en vadear los ríos.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+Porque en verano las condiciones eran más difíciles.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+Porque necesitaba supervisar las operaciones de Santander.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+Porque los realistas no esperaban que tomaran ese riesgo.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;les fueron las principales dificultades de los patriotas a trav&eacute;s de los llanos?</span></span></p>
+]]></text><answers>
+<answer correct="true">
+<![CDATA[
+
+La carencia de alimentos y las inundaciones que impedían el paso.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+Las picaduras de los mosquitos y la falta de alimentos.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+La humedad, que echaba a perder las municiones.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+Los ataques de los animales salvajes de la selva.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era el valor estrat&eacute;gico de llevar a los soldados de Bol&iacute;var hasta Pore?</span></span>]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+Estar en un lugar donde no había invierno.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+Observar mejor los movimientos del ejército realista.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+Ubicarse en el mejor punto para escalar la cordillera.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+Encontrarse con Barreiro, quien conocía mejor la región.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Para qu&eacute; reunieron las tropas Bol&iacute;var y Santander?</span></span></p>
+]]></text><answers>
+<answer correct="true">
+<![CDATA[
+
+Para consolidar la fuerza del ejército patriota.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+Para intercambiar información.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+Para recibir a la Legión británica. ]]></answer>
+<answer correct="false">
+<![CDATA[
+
+Para atacar los cuarteles realistas de los llanos. ]]></answer>
+</answers>
+</question>
+</questions>
+</page>
+</pages>
+</section><section i="4" star="false" >
+<menuImage>
+<title><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 24px;">El paso de<br />
+los Andes</span></span></p>
 ]]></title>
-      </menuImage>
-      <pages>
-        <page i="0">
-          <title>El paso de los Andes I</title>
-          <description><![CDATA[<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="color:#FFA500;"><strong>&iquest;Para qu&eacute; y c&oacute;mo atravesaron las fuerzas patriotas la cordillera de los Andes?</strong></span></span></span></p>
+</menuImage>
+<pages>
+<page i="0">
+<title>El paso de los Andes I</title>
+<description><![CDATA[<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>&iquest;Para qu&eacute; y c&oacute;mo atravesaron las fuerzas patriotas la cordillera de los Andes?</strong></span></span></p>
 
 <p></p>
 
@@ -367,122 +589,126 @@
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Bol&iacute;var tuvo tres alternativas para <strong>atravesar los Andes</strong>: </span></span></p>
 
 <ol>
-	<li><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Por el paso de la <strong>salina de Chita</strong>, el camino m&aacute;s corto y con poblados donde pasar la noche. Era el m&aacute;s custodiado por las fuerzas espa&ntilde;olas.</span></span></li>
-	<li>P<span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">or el paso de <strong>Labranzagrande</strong> y llegar frente a Sogamoso, donde se hallaba el cuartel realista. </span></span></li>
-	<li><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Por el <strong>p&aacute;ramo de Pisba</strong>, el camino m&aacute;s inh&oacute;spito pero menos vigilado por los espa&ntilde;oles.</span></span></li>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 16px;">Por el paso de la <strong>salina de Chita</strong>, el camino m&aacute;s corto y con poblados donde pasar la noche. Era el m&aacute;s custodiado por las fuerzas espa&ntilde;olas.</span></span></li>
+	<li><span style="font-family:verdana,geneva,sans-serif;">P<span style="font-size: 16px;">or el paso de <strong>Labranzagrande</strong> y llegar frente a Sogamoso, donde se hallaba el cuartel realista. </span></span></li>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 16px;">Por el <strong>p&aacute;ramo de Pisba</strong>, el camino m&aacute;s inh&oacute;spito pero menos vigilado por los espa&ntilde;oles.</span></span></li>
 </ol>
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Bol&iacute;var eligi&oacute; la <strong>tercera opci&oacute;n</strong>, con el fin de <strong>ingresar al altiplano sin que nadie se diera cuenta</strong>. El 22 de junio ya atravesaban los precipicios en ascenso por los Andes.</span></span></p>
 ]]></description>
-          <images>
-            <image path="libertador.jpg" border="false" pathbig="libertador.jpg" zoomEnabled="true">
-              <title><![CDATA[El Libertador. Pintura del s. XIX (Museo Bolívar, Caracas, Venezuela).]]></title>
-            </image>
-          </images>
-          <questions>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; Bol&iacute;var eligi&oacute; el paso por el p&aacute;ramo de Pisba?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="true"><![CDATA[
+<images>
+<image path="CS_08_03_REC110_IMG06n.jpg" border="false" pathbig="CS_08_03_REC110_IMG06a.jpg" zoomEnabled="true">
+<title><![CDATA[Paso del ejército libertador por el Páramo de Pisba (óleo de Francisco Antonio Cano Cardona, 1.10.1922. Colección Museo Nacional de Colombia)]]></title>
+</image>
+</images>
+<questions>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; Bol&iacute;var eligi&oacute; el paso por el p&aacute;ramo de Pisba?</span></span></p>
+]]></text><answers>
+<answer correct="true">
+<![CDATA[
 
 Ingresarían al altiplano sin que los españoles lo notaran.]]></answer>
-                <answer correct="false"><![CDATA[
+<answer correct="false">
+<![CDATA[
 
 Era la ruta más directa y rápida.]]></answer>
-                <answer correct="false"><![CDATA[
+<answer correct="false">
+<![CDATA[
 
 En este paso encontrarían mejores provisiones.]]></answer>
-                <answer correct="false"><![CDATA[
+<answer correct="false">
+<![CDATA[
 
 Desde allí verían al ejército enemigo.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; los patriotas no eligieron el paso por Chita?</span></span>]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; los patriotas no eligieron el paso por Chita?</span></span>]]></text><answers>
+<answer correct="false">
+<![CDATA[
 
 Porque era el más corto.]]></answer>
-                <answer correct="false"><![CDATA[
+<answer correct="false">
+<![CDATA[
 
 Porque no había lugares para pasar la noche.]]></answer>
-                <answer correct="true"><![CDATA[
+<answer correct="true">
+<![CDATA[
 
 Porque era el paso más vigilado por los realistas.]]></answer>
-                <answer correct="false"><![CDATA[
+<answer correct="false">
+<![CDATA[
 
 Porque los caminos no permitían atravesar con armamento.]]></answer>
-              </answers>
-            </question>
-          </questions>
-        </page>
-        <page i="0">
-          <title>El paso de los Andes II</title>
-          <description><![CDATA[<p><span style="color:#FFA500;"><strong><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Para qu&eacute; y c&oacute;mo atravesaron las fuerzas patriotas la cordillera de los Andes?</span></span></strong></span></p>
+</answers>
+</question>
+</questions>
+</page>
+<page i="0">
+<title>El paso de los Andes II</title>
+<description><![CDATA[<p><strong><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Para qu&eacute; y c&oacute;mo atravesaron las fuerzas patriotas la cordillera de los Andes?</span></span></strong></p>
 
 <p></p>
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Muchos soldados&nbsp; murieron en el camino debido al <strong>rigor del fr&iacute;o</strong>; otros, no pod&iacute;an hacer ni la m&aacute;s peque&ntilde;a marcha. La falta de ox&iacute;geno fatigaba a los caballos y las <strong>lluvias heladas</strong> eran incesantes. En ese momento, el ej&eacute;rcito libertador era un cuerpo moribundo.</span></span></p>
 
-<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Bol&iacute;var permaneci&oacute; firme, inyectandoles &aacute;nimo a sus hombres.</span></span></p>
+<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Bol&iacute;var permaneci&oacute; firme, inyect&aacute;ndoles &aacute;nimo a sus hombres.</span></span></p>
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Tras quince d&iacute;as, arribaron el 6 de julio a la poblaci&oacute;n de Socha, en lamentable situaci&oacute;n. All&iacute; se estableci&oacute; el cuartel general. De manera generosa, los habitantes ofrecieron sus recursos al ej&eacute;rcito rebelde.</span></span></p>
 ]]></description>
-          <images>
-            <image path="losandes.jpg" border="false" pathbig="losandes.jpg" zoomEnabled="true">
-              <title><![CDATA[Cordillera de los Andes]]></title>
-            </image>
-          </images>
-          <questions>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue el efecto del fr&iacute;o y de la altura sobre los llaneros que ascend&iacute;an la cordillera?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="true"><![CDATA[
-
+<images>
+<image path="CS_08_03_REC110_IMG07n.jpg" border="false" pathbig="CS_08_03_REC110_IMG07a.jpg" zoomEnabled="true">
+<title><![CDATA[Cordillera de los Andes]]></title>
+</image>
+</images>
+<questions>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue el efecto del fr&iacute;o y de la altura sobre los llaneros que ascend&iacute;an la cordillera?</span></span></p>
+]]></text><answers>
+<answer correct="true">
+<![CDATA[
 Entumecieron sus cuerpos y perdieron oxígeno.]]></answer>
-                <answer correct="false"><![CDATA[
-
+<answer correct="false">
+<![CDATA[
 Fortalecieron su espíritu y renovó sus energías.]]></answer>
-                <answer correct="false"><![CDATA[
-
+<answer correct="false">
+<![CDATA[
 Taparon sus oídos y congelaron sus bebidas.]]></answer>
-                <answer correct="false"><![CDATA[
-
+<answer correct="false">
+<![CDATA[
 Fortalecieron los músculos de sus caballos.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; afect&oacute; tanto el clima a las tropas llaneras de Bol&iacute;var?</span></span>]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[
-
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; afect&oacute; tanto el clima a las tropas llaneras de Bol&iacute;var?</span></span>]]></text><answers>
+<answer correct="false">
+<![CDATA[
 Porque tenían que cargar chaquetas pesadas.]]></answer>
-                <answer correct="false"><![CDATA[
-
+<answer correct="false">
+<![CDATA[
 Porque eran expertos en atravesar montañas nevadas.]]></answer>
-                <answer correct="true"><![CDATA[
-
+<answer correct="true">
+<![CDATA[
 Porque iban descalzos y con ropa de verano.]]></answer>
-                <answer correct="false"><![CDATA[
-
+<answer correct="false">
+<![CDATA[
 Porque les gustaba más el calor.]]></answer>
-              </answers>
-            </question>
-          </questions>
-        </page>
-      </pages>
-    </section>
-    <section i="5" star="false">
-      <menuImage>
-        <title><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">La batalla de G&aacute;meza</span></span></p>
+</answers>
+</question>
+</questions>
+</page>
+</pages>
+</section><section i="5" star="false" >
+<menuImage>
+<title><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 24px;">La Batalla<br />
+de G&aacute;meza</span></span></p>
 ]]></title>
-      </menuImage>
-      <pages>
-        <page i="0">
-          <title>La batalla de Gámeza</title>
-          <description><![CDATA[<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><span style="color:#FF8C00;"><strong>&iquest;C&oacute;mo fue el primer encuentro entre los ej&eacute;rcitos durante la campa&ntilde;a?</strong></span></span></span></p>
+</menuImage>
+<pages>
+<page i="0">
+<title>La Batalla de Gámeza</title>
+<description><![CDATA[<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>&iquest;C&oacute;mo fue el primer encuentro entre los ej&eacute;rcitos durante la campa&ntilde;a?</strong></span></span></p>
 
 <p></p>
 
@@ -494,61 +720,84 @@ Porque les gustaba más el calor.]]></answer>
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Anocheci&oacute; y ninguno de los ej&eacute;rcitos logr&oacute; definir la acci&oacute;n. A partir de aquel d&iacute;a, Barreiro se volvi&oacute; cauteloso y no volvi&oacute; a atacar, sino que permaneci&oacute; a la defensiva, lo que dio tiempo para que se uniera la Legi&oacute;n brit&aacute;nica.</span></span></p>
 ]]></description>
-          <images>
-            <image path="barreiro.jpg" border="false" pathbig="barreiro.jpg" zoomEnabled="true">
-              <title><![CDATA[José María Barreiro (Colección Museo Nacional de Colombia)]]></title>
-            </image>
-          </images>
-          <questions>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue la actitud de Barreiro al ver el estado en que lleg&oacute; el ej&eacute;rcito patriota?</span></span>]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[
+<images>
+<image path="CS_08_03_REC110_IMG08n.jpg" border="false" pathbig="CS_08_03_REC110_IMG08a.jpg" zoomEnabled="true">
+<title><![CDATA[José María Barreiro]]></title>
+</image>
+</images>
+<questions>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue la actitud de Barreiro al ver el estado en que lleg&oacute; el ej&eacute;rcito patriota?</span></span>]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
 
 Le extrañó que los llaneros estuvieran tan abrigados.]]></answer>
-                <answer correct="false"><![CDATA[
+<answer correct="false">
+<![CDATA[
+
+
 
 Se sorprendió, al ver que los acompañana la Legión británica.]]></answer>
-                <answer correct="false"><![CDATA[
+<answer correct="false">
+<![CDATA[
+
+
 
 Se molestó por su forma de vestir para una batalla.]]></answer>
-                <answer correct="true"><![CDATA[
+<answer correct="true">
+<![CDATA[
+
+
 
 Creyó que tenía la ventaja a su favor.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era el objetivo de los ej&eacute;rcitos enfrentados en la batalla de G&aacute;meza?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="true"><![CDATA[
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l era el objetivo de los ej&eacute;rcitos enfrentados en la Batalla de G&aacute;meza?</span></span></p>
+]]></text><answers>
+<answer correct="true">
+<![CDATA[
+
+
 
 Tomar el control del puente sobre el río.]]></answer>
-                <answer correct="false"><![CDATA[
+<answer correct="false">
+<![CDATA[
+
+
 
 Rodear la tropas enemigas.]]></answer>
-                <answer correct="false"><![CDATA[
+<answer correct="false">
+<![CDATA[
+
+
 
 Capturar al comandante rival.]]></answer>
-                <answer correct="false"><![CDATA[
+<answer correct="false">
+<![CDATA[
+
+
 
 Derrotar a la caballería enemiga.]]></answer>
-              </answers>
-            </question>
-          </questions>
-        </page>
-      </pages>
-    </section>
-    <section i="6" star="false">
-      <menuImage>
-        <title><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">La batalla del Pantano de Vargas</span></span>]]></title>
-      </menuImage>
-      <pages>
-        <page i="0">
-          <title>La batalla del pantano de Vargas I</title>
-          <description><![CDATA[<p></p>
+</answers>
+</question>
+</questions>
+</page>
+</pages>
+</section><section i="6" star="false" >
+<menuImage>
+<title><![CDATA[<span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 24px;">La Batalla<br />
+del pantano<br />
+de Vargas</span></span>]]></title>
+</menuImage>
+<pages>
+<page i="0">
+<title>La Batalla del pantano de Vargas I</title>
+<description><![CDATA[<p></p>
 
-<p><span style="color:#FFA500;"><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>&iquest;C&oacute;mo se desarroll&oacute; el combate definitivo?</strong></span></span></span></p>
+<p><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>&iquest;C&oacute;mo se desarroll&oacute; el combate definitivo?</strong></span></span></p>
 
 <p></p>
 
@@ -556,42 +805,80 @@ Derrotar a la caballería enemiga.]]></answer>
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Los patriotas llegaron frente al campamento de Barreiro e hicieron movimientos para obligarlo a entrar en batalla en la llanura. Pero &eacute;l rehuy&oacute; el combate, parapetado en las altas monta&ntilde;as.</span></span></p>
 
-<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Bol&iacute;var avanz&oacute; por el camino del <strong>Salitre de Paipa</strong>, con el &aacute;nimo de cortar la comunicaci&oacute;n del ej&eacute;rcito realista con Santaf&eacute;. Barreiro moviliz&oacute; sus tropas para impedirlo. A mediod&iacute;a, cuando pasaban por el <strong>pantano de Vargas</strong>, se encontraron.</span></span></p>
+<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Bol&iacute;var avanz&oacute; por el camino del <strong>Salitre de Paipa</strong>, con el &aacute;nimo de cortar la comunicaci&oacute;n del ej&eacute;rcito realista con Santa Fe. Barreiro moviliz&oacute; sus tropas para impedirlo. A mediod&iacute;a, cuando pasaban por el <strong>pantano de Vargas</strong>, se encontraron.</span></span></p>
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">La estrechez del campo, la altura del terreno y 3000 hombres le parecieron a <strong>Barreiro </strong>ideales para aniquilar al enemigo. </span></span></p>
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Simult&aacute;neamente atacaron los patriotas <strong>Anzo&aacute;tegui</strong>, por la derecha; <strong>Santander</strong>, por la izquierda; y en la retaguardia <strong>Bol&iacute;var</strong>, al mando de la caballer&iacute;a. Pero los 2200 patriotas estaban en desventaja en la parte baja.</span></span></p>
 ]]></description>
-          <images>
-            <image path="lanceros.jpg" border="false" pathbig="lanceros.jpg" zoomEnabled="true">
-              <title><![CDATA[Monumento a los lanceros, pantano de Vargas]]></title>
-            </image>
-          </images>
-          <questions>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; Barreiro prefiri&oacute; permanecer en las partes altas del campo de batalla?</span></span>]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[Sus tropas estaban acostumbradas a la falta de oxígeno.]]></answer>
-                <answer correct="true"><![CDATA[Las defensas naturales de las montañas lo favorecían.]]></answer>
-                <answer correct="false"><![CDATA[El orgullo de ubicarse más arriba que sus rivales.]]></answer>
-                <answer correct="false"><![CDATA[Para ver mejor los movimientos de los patriotas.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue el prop&oacute;sito militar de avanzar hacia el camino del Salitre de Paipa?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[Apoderarse de las ricas minas de sal de Paipa.]]></answer>
-                <answer correct="false"><![CDATA[Obligar al ejército rival a acampar en Tunja.]]></answer>
-                <answer correct="true"><![CDATA[Cortar la comunicación del ejército realista con Santafé.]]></answer>
-                <answer correct="false"><![CDATA[Engañar a Barreiro para luego devolverse hacia Tunja.]]></answer>
-              </answers>
-            </question>
-          </questions>
-        </page>
-        <page i="0">
-          <title>La batalla del pantano de Vargas II</title>
-          <description><![CDATA[<p><span style="color:#FFA500;"><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>&iquest;C&oacute;mo se desarroll&oacute; el combate definitivo?</strong></span></span></span></p>
+<images>
+<image path="CS_08_03_REC110_IMG09n.jpg" border="false" pathbig="CS_08_03_REC110_IMG09a.jpg" zoomEnabled="true">
+<title><![CDATA[Monumento a los lanceros, pantano de Vargas]]></title>
+</image>
+</images>
+<questions>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute; Barreiro prefiri&oacute; permanecer en las partes altas del campo de batalla?</span></span>]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
+
+Sus tropas estaban acostumbradas a la falta de oxígeno.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+
+
+Las defensas naturales de las montañas lo favorecían.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+El orgullo de ubicarse más arriba que sus rivales.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Para ver mejor los movimientos de los patriotas.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue el prop&oacute;sito militar de avanzar hacia el camino del Salitre de Paipa?</span></span></p>
+]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
+
+Apoderarse de las ricas minas de sal de Paipa.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Obligar al ejército rival a acampar en Tunja.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+
+
+Cortar la comunicación del ejército realista con Santa Fe.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Engañar a Barreiro para luego devolverse hacia Tunja.]]></answer>
+</answers>
+</question>
+</questions>
+</page>
+<page i="0">
+<title>La Batalla del pantano de Vargas II</title>
+<description><![CDATA[<p><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>&iquest;C&oacute;mo se desarroll&oacute; el combate definitivo?</strong></span></span></p>
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">La victoria parec&iacute;a inclinarse en favor de los espa&ntilde;oles. Entonces, <strong>Juan Jos&eacute; Rond&oacute;n</strong>, jefe de un escuadr&oacute;n de llaneros, le pidi&oacute; a Bol&iacute;var que lo dejara entrar en la batalla. </span></span></p>
 
@@ -603,45 +890,83 @@ Derrotar a la caballería enemiga.]]></answer>
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Fue la <strong>batalla m&aacute;s sangrienta</strong> de la Campa&ntilde;a Libertadora.</span></span></p>
 ]]></description>
-          <images>
-            <image path="Juanjoserondon.jpg" border="false" pathbig="Juanjoserondon.jpg" zoomEnabled="true">
-              <title><![CDATA[Juan José Rondón (Colección Museo Nacional)]]></title>
-            </image>
-          </images>
-          <questions>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue el rol de Rond&oacute;n durante la batalla del pantano de Vargas?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[Atacó con la infantería y determinó la victoria realista.]]></answer>
-                <answer correct="false"><![CDATA[Atacó con la infantería y determinó la victoria patriota.]]></answer>
-                <answer correct="false"><![CDATA[Atacó con la caballería y determinó la victoria realista.]]></answer>
-                <answer correct="true"><![CDATA[Atacó con la caballería y determinó la victoria patriota.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue el significado de la batalla del pantano de Vargas para los patriotas?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[Lograr el control del pantano.]]></answer>
-                <answer correct="true"><![CDATA[Definir la victoria militar sobre los realistas.]]></answer>
-                <answer correct="false"><![CDATA[Merecer un monumento nacional.]]></answer>
-                <answer correct="false"><![CDATA[Recordar su travesía por las llanuras inundadas.]]></answer>
-              </answers>
-            </question>
-          </questions>
-        </page>
-      </pages>
-    </section>
-    <section i="7" star="false">
-      <menuImage>
-        <title><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">La batalla de Boyac&aacute;</span></span></p>
+<images>
+<image path="CS_08_03_REC110_IMG10n.jpg" border="false" pathbig="CS_08_03_REC110_IMG10a.jpg" zoomEnabled="true">
+<title><![CDATA[Juan José Rondón (atribuido a Constancio Franco Vargas / José Eugenio Montoya Gallego / Juliano Rubiano, Ca. 1880. Colección Museo Nacional de Colombia)]]></title>
+</image>
+</images>
+<questions>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue el rol de Rond&oacute;n durante la Batalla del pantano de Vargas?</span></span></p>
+]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
+
+Atacó con la infantería y determinó la victoria realista.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Atacó con la infantería y determinó la victoria patriota.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Atacó con la caballería y determinó la victoria realista.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+
+
+Atacó con la caballería y determinó la victoria patriota.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue el significado de la Batalla del pantano de Vargas para los patriotas?</span></span></p>
+]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
+
+Lograr el control del pantano.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+
+
+Definir la victoria militar sobre los realistas.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Merecer un monumento nacional.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Recordar su travesía por las llanuras inundadas.]]></answer>
+</answers>
+</question>
+</questions>
+</page>
+</pages>
+</section><section i="7" star="false" >
+<menuImage>
+<title><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 24px;">La Batalla<br />
+de Boyac&aacute;</span></span></p>
 ]]></title>
-      </menuImage>
-      <pages>
-        <page i="0">
-          <title>La batalla de Boyacá I</title>
-          <description><![CDATA[<p><strong><span style="color:#FFA500;"><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;C&oacute;mo termin&oacute; la campa&ntilde;a libertadora?</span></span></span></strong></p>
+</menuImage>
+<pages>
+<page i="0">
+<title>La Batalla de Boyacá I</title>
+<description><![CDATA[<p><strong><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;C&oacute;mo termin&oacute; la Campa&ntilde;a libertadora?</span></span></strong></p>
 
 <p></p>
 
@@ -651,38 +976,76 @@ Derrotar a la caballería enemiga.]]></answer>
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Sin embargo, a las ocho de la noche, dio orden de contramarchar de manera furtiva hacia <strong>Tunja</strong>, por el camino de Toca. As&iacute;, el 5 de agosto tom&oacute; el control de Tunja, ciudad que recibi&oacute; a los patriotas con entusiasmo; all&iacute; encontraron fusiles, vestuario y botiquines.</span></span></p>
 
-<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando <strong>Barreiro </strong>se enter&oacute;, ya sus enemigos se hab&iacute;an interpuesto entre &eacute;l y el camino hacia Santaf&eacute;. Su &uacute;ltimo recurso era evitar otro encuentro con las tropas independientes y reunirse con <strong>S&aacute;mano </strong>en Santaf&eacute;, para organizar la defensa de la ciudad. El s&aacute;bado 7 de agosto, en la ma&ntilde;ana, Barreiro inici&oacute; su desplazamiento desde Motavita hacia Santaf&eacute;.</span></span></p>
+<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando <strong>Barreiro </strong>se enter&oacute;, ya sus enemigos se hab&iacute;an interpuesto entre &eacute;l y el camino hacia Santa Fe. Su &uacute;ltimo recurso era evitar otro encuentro con las tropas independientes y reunirse con <strong>S&aacute;mano </strong>en Santa Fe, para organizar la defensa de la ciudad. El s&aacute;bado 7 de agosto, en la ma&ntilde;ana, Barreiro inici&oacute; su desplazamiento desde Motavita hacia Santa Fe.</span></span></p>
 ]]></description>
-          <images>
-            <image path="JuandeSamano.jpg" border="false" pathbig="JuandeSamano.jpg" zoomEnabled="true">
-              <title><![CDATA[Juan de Sámano, encargado de mantener el gobierno en Santafé]]></title>
-            </image>
-          </images>
-          <questions>
-            <question visible="true">
-              <text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute;, tras la victoria en el pantano de Vargas, Bol&iacute;var march&oacute; hacia Venezuela?</span></span>]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[Liberar a Venezuela, su lugar de nacimiento.]]></answer>
-                <answer correct="true"><![CDATA[Hacerle creer al enemigo que era el fin de la Campaña.]]></answer>
-                <answer correct="false"><![CDATA[Invadir los valles de Cúcuta.]]></answer>
-                <answer correct="false"><![CDATA[Hacer que Barreiro no siguiera huyendo.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue el valor estrat&eacute;gico de la toma de Tunja por Bol&iacute;var?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="true"><![CDATA[Controlar el camino hacia Santafé.]]></answer>
-                <answer correct="false"><![CDATA[Impedir los ataques a la población civil.]]></answer>
-                <answer correct="false"><![CDATA[Apoderarse de importantes yacimientos de oro.]]></answer>
-                <answer correct="false"><![CDATA[Lograr el cariño de la población.]]></answer>
-              </answers>
-            </question>
-          </questions>
-        </page>
-        <page i="0">
-          <title>La batalla de Boyacá II</title>
-          <description><![CDATA[<p><strong><span style="color:#FFA500;"><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;C&oacute;mo termin&oacute; la campa&ntilde;a libertadora?</span></span></span></strong></p>
+<images>
+<image path="CS_08_03_REC110_IMG11n.jpg" border="false" pathbig="CS_08_03_REC110_IMG11a.jpg" zoomEnabled="true">
+<title><![CDATA[Batalla de Boyacá (óleo de José María Espinosa Prieto, Ca. 1840. Colección Casa Museo Quinta de Bolívar)]]></title>
+</image>
+</images>
+<questions>
+<question visible="true">
+<text><![CDATA[<span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Por qu&eacute;, tras la victoria en el pantano de Vargas, Bol&iacute;var march&oacute; hacia Venezuela?</span></span>]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
+
+Liberar a Venezuela, su lugar de nacimiento.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+
+
+Hacerle creer al enemigo que era el fin de la Campaña.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Invadir los valles de Cúcuta.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Hacer que Barreiro no siguiera huyendo.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue el valor estrat&eacute;gico de la toma de Tunja por Bol&iacute;var?</span></span></p>
+]]></text><answers>
+<answer correct="true">
+<![CDATA[
+
+
+
+Controlar el camino hacia Santa Fe.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Impedir los ataques a la población civil.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Apoderarse de importantes yacimientos de oro.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Lograr el cariño de la población.]]></answer>
+</answers>
+</question>
+</questions>
+</page>
+<page i="0">
+<title>La Batalla de Boyacá II</title>
+<description><![CDATA[<p><strong><span style="font-size: 16px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;C&oacute;mo termin&oacute; la Campa&ntilde;a libertadora?</span></span></strong></p>
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Bol&iacute;var </strong>dispuso sus fuerzas para interceptar al ej&eacute;rcito realista en el cruce del <strong>puente de Boyac&aacute;</strong>. Las tropas republicanas contaban con 2850 efectivos y los realistas, con 2670. </span></span></p>
 
@@ -690,37 +1053,74 @@ Derrotar a la caballería enemiga.]]></answer>
 
 <p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">En la noche del 8 de agosto le refirieron lo ocurrido al virrey <strong>Juan de S&aacute;mano</strong>, quien escap&oacute; hacia Cartagena.</span></span></p>
 
-<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Tras una campa&ntilde;a audaz y r&aacute;pida, <strong>Bol&iacute;var lleg&oacute; a Santaf&eacute;</strong>, capital de la Nueva Granada, el 10 de agosto de 1819. Fue recibido con j&uacute;bilo por la poblaci&oacute;n, dando por terminada la <strong>Campa&ntilde;a Libertadora de la Nueva Granada</strong>.</span></span></p>
+<p><span style="font-size:16px;"><span style="font-family: verdana,geneva,sans-serif;">Tras una campa&ntilde;a audaz y r&aacute;pida, <strong>Bol&iacute;var lleg&oacute; a Santa Fe</strong>, capital de la Nueva Granada, el 10 de agosto de 1819. Fue recibido con j&uacute;bilo por la poblaci&oacute;n, dando por terminada la <strong>Campa&ntilde;a libertadora de la Nueva Granada</strong>.</span></span></p>
 ]]></description>
-          <images>
-            <image path="PuentedeBoyaca.JPG" border="false" pathbig="PuentedeBoyaca.JPG" zoomEnabled="true">
-              <title><![CDATA[Puente de Boyacá]]></title>
-            </image>
-          </images>
-          <questions>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue el factor decisivo en la batalla del puente de Boyac&aacute;?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[La estrechez del puente de Boyacá.]]></answer>
-                <answer correct="false"><![CDATA[La cercanía del puente a Tunja.]]></answer>
-                <answer correct="true"><![CDATA[La división del ejército realista.]]></answer>
-                <answer correct="false"><![CDATA[La abrumadora inferioridad de las tropas españolas.]]></answer>
-              </answers>
-            </question>
-            <question visible="true">
-              <text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue la reacci&oacute;n del virrey Juan de S&aacute;mano en Santaf&eacute;, al enterarse del triunfo de Bol&iacute;var en Boyac&aacute;?</span></span></p>
-]]></text>
-              <answers>
-                <answer correct="false"><![CDATA[Proponerle un acuerdo de paz a Bolívar.]]></answer>
-                <answer correct="false"><![CDATA[Preparar la defensa de la ciudad.]]></answer>
-                <answer correct="false"><![CDATA[Fusilar a los patriotas de Santafé.]]></answer>
-                <answer correct="true"><![CDATA[Huir hacia Cartagena.]]></answer>
-              </answers>
-            </question>
-          </questions>
-        </page>
-      </pages>
-    </section>
-  </sections>
+<images>
+<image path="CS_08_03_REC110_IMG12n.jpg" border="false" pathbig="CS_08_03_REC110_IMG12a.jpg" zoomEnabled="true">
+<title><![CDATA[Puente de Boyacá]]></title>
+</image>
+</images>
+<questions>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue el factor decisivo en la Batalla del puente de Boyac&aacute;?</span></span></p>
+]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
+
+La estrechez del puente de Boyacá.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+La cercanía del puente a Tunja.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+
+
+La división del ejército realista.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+La abrumadora inferioridad de las tropas españolas.]]></answer>
+</answers>
+</question>
+<question visible="true">
+<text><![CDATA[<p><span style="font-size:25px;"><span style="font-family: verdana,geneva,sans-serif;">&iquest;Cu&aacute;l fue la reacci&oacute;n del virrey Juan de S&aacute;mano en Santa Fe, al enterarse del triunfo de Bol&iacute;var en Boyac&aacute;?</span></span></p>
+]]></text><answers>
+<answer correct="false">
+<![CDATA[
+
+
+
+Proponerle un acuerdo de paz a Bolívar.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Preparar la defensa de la ciudad.]]></answer>
+<answer correct="false">
+<![CDATA[
+
+
+
+Fusilar a los patriotas de Santa Fe.]]></answer>
+<answer correct="true">
+<![CDATA[
+
+
+
+Huir hacia Cartagena.]]></answer>
+</answers>
+</question>
+</questions>
+</page>
+</pages>
+</section></sections>
 </engine>
