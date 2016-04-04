@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<engine path="medias/image.jpg" mode="1" color="204" copy="Editorial Planeta" version="1" aprid="geografia_como_se_llama">
+  <main layout="2" pointsVisible="true" replayText="Vuelve a jugar" noreplayText="Final de la partida">
+    <title>Sitúa los distintos ríos americanos</title>
+    <correct>Correcto</correct>
+    <wrong>Incorrecto</wrong>
+    <final>Final del juego</final>
+    <blockTitle>¿Cómo se llama?</blockTitle>
+    <pointsText>Puntuación</pointsText>
+  </main>
+  <sections>
+    <question points="10" isFilled="true" show_description="false" map="1;238,127;" mark="233,135.3">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Colorado</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Yukón</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Grande</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Negro</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Missouri</span></p></TextFlow>]]></answer>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="1;265,93;" mark="264.4,91.4">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Missouri</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Mississippi</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Yukón</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>San Lorenzo</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Colorado</span></p></TextFlow>]]></answer>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="1;299,131;" mark="300.05,139.95">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Mississippi</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Missouri</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Negro</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Colorado</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Grande</span></p></TextFlow>]]></answer>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="1;236,29;" mark="234.75,31.55">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Yukón</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>San Lorenzo</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Missouri</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Mississippi</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Alaska</span></p></TextFlow>]]></answer>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="1;345,98;" mark="345.7,99.15">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>San Lorenzo</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Yukón</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Missouri</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Hudson</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Colorado</span></p></TextFlow>]]></answer>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="1;396,243;" mark="403.95,241.85">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Amazonas</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Negro</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Uruguay</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Paraná</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Madeira</span></p></TextFlow>]]></answer>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="1;353,234;" mark="345.35,225.85">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Negro</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Colorado</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Paraná</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Yukón</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Amazonas</span></p></TextFlow>]]></answer>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="1;387,327;" mark="400,339.5">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Uruguay</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Paraná</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Paraguay</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Magdalena</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Grande</span></p></TextFlow>]]></answer>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="1;405,301;" mark="421,299.5">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Paraná</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Negro</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Colorado</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Grande</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Uruguay</span></p></TextFlow>]]></answer>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="1;366,271;" mark="355.5,279.5">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Madeira</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Negro</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Paraná</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Amazonas</span></p></TextFlow>]]></answer>
+        <answer correct="false"><![CDATA[<TextFlow><p><span>Colorado</span></p></TextFlow>]]></answer>
+      </answers>
+    </question>
+  </sections>
+</engine>

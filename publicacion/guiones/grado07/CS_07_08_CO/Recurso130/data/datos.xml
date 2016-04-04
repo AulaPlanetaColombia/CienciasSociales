@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="a" aprid="m5a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce generalidades de la economía continental americana</titulo>
+    <area>0</area>
+    <nivel>2</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Marca la opción correcta en cada pregunta sobre la economía del continente americano. ]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles son los países con mayor producción textil en América?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_08_REC130_IMG02n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_08_REC130_IMG02a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Estados Unidos, México y Brasil." correcta="1"/>
+        <respuesta contestacion="Guatemala, Colombia y El Salvador." correcta="0"/>
+        <respuesta contestacion="Uruguay, Paraguay y Bolivia." correcta="0"/>
+        <respuesta contestacion="Venezuela, Cuba, Guatemala." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál de las siguientes opciones no es un requisito para que el comercio marítimo se desarrolle en todo el continente?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_08_REC130_IMG04n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_08_REC130_IMG04a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Circulación de amplios capitales en la región." correcta="1"/>
+        <respuesta contestacion="Casi todos los países poseen salida al mar." correcta="0"/>
+        <respuesta contestacion="Aumento de los acuerdos comerciales." correcta="0"/>
+        <respuesta contestacion="Desarrollo del librecambio en todos los países." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es la importancia de la economía extractiva de materias primas agrícolas?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_08_REC130_IMG01n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_08_REC130_IMG01a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Favorece las finanzas estatales." correcta="0"/>
+        <respuesta contestacion="Beneficia el desarrollo equitativo del campo." correcta="0"/>
+        <respuesta contestacion="Beneficia al comercio y a las industrias nacionales." correcta="1"/>
+        <respuesta contestacion="Contribuye a genrerar empleo." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué países de América se destacan en el campo de la industria automotriz?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_08_REC130_IMG05n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_08_REC130_IMG05a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Venezuela, Ecuador, Panamá y Cuba." correcta="0"/>
+        <respuesta contestacion="Uruguay, Paraguay y Chile." correcta="0"/>
+        <respuesta contestacion="Estados Unidos, Canadá, Argentina, México y Brasil." correcta="1"/>
+        <respuesta contestacion="Argentina, Colombia y Bolivia." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles son los peligros que implica la minería a cielo abierto?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_08_REC130_IMG07n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_08_REC130_IMG07a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Destrucción de ecosistemas y comunidades locales." correcta="1"/>
+        <respuesta contestacion="Deterioro de la maquinaria." correcta="0"/>
+        <respuesta contestacion="Inestabilidad económica." correcta="0"/>
+        <respuesta contestacion="Contaminación del aire y de los suelos." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué razones han llevado a países como Costa Rica, Ecuador, Brasil o Colombia a desarrollar planes de fomento para el ecoturismo?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_08_REC130_IMG08n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_08_REC130_IMG08a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Resulta económico y sencillo de realizar." correcta="0"/>
+        <respuesta contestacion="No requiere de profesionales especializados." correcta="0"/>
+        <respuesta contestacion="Desarrolla la economía mientras protege la naturaleza." correcta="1"/>
+        <respuesta contestacion="Permite mostrar al extranjero las rieuezas nacionales." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Para el desarrollo de la ganadería cárnica, ¿qué tipo de terrenos son recomendables?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_08_REC130_IMG09n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_08_REC130_IMG09a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Terrenos lacustres." correcta="0"/>
+        <respuesta contestacion="Tierras altas y de montaña." correcta="0"/>
+        <respuesta contestacion="Cualquier tipo de terreno." correcta="0"/>
+        <respuesta contestacion="Grandes extensiones de sabana." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es la importancia de la generación de un mercado interno?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_08_REC130_IMG06n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_08_REC130_IMG06a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Fomenta el consumo de productos importados." correcta="0"/>
+        <respuesta contestacion="Facilita las compras de productos baratos." correcta="0"/>
+        <respuesta contestacion="Genera un comercio popular." correcta="0"/>
+        <respuesta contestacion="Protege a industriales y artesanos, y genera estabilidad." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuáles son las características de la agricultura alimentaria en Latinoamérica?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_08_REC130_IMG03n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_08_REC130_IMG03a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Es de índole campesina y poco tecnificada." correcta="1"/>
+        <respuesta contestacion="Es básicamente de subsistencia." correcta="0"/>
+        <respuesta contestacion="Está desarrollada en su totalidad por multinacionales." correcta="0"/>
+        <respuesta contestacion="Tiende a la escasez por causas climáticas." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿A qué se debe el auge de la tercerización de la economía en Latinoamérica?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_08_REC130_IMG10n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_07_08_REC130_IMG10a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Existe amplia demanda y genera grandes utilidades." correcta="1"/>
+        <respuesta contestacion="Los latinoamericanos atienden bien al público." correcta="0"/>
+        <respuesta contestacion="No requiere trabajo especializado." correcta="0"/>
+        <respuesta contestacion="Permite un mayor desarrollo económico." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

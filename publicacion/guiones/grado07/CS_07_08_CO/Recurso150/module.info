@@ -1,0 +1,9 @@
+[module]
+id=f1
+desc=Motor F1
+aprid=f10b
+version=14.11.27.1
+folder=motor
+entrypoint=principal.html
+dependencies=principal.dep
+

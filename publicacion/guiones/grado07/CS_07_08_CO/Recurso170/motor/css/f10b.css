@@ -1,0 +1,116 @@
+﻿.slidePrincipal {
+	background-color: white;
+}
+
+.slideComprension {
+	background: transparent url("../images/f10_fondo_comprension.png") no-repeat;
+}
+
+.slideLexico {
+	background: transparent url("../images/f10_fondo_lexico.png") no-repeat;
+}
+
+.slideInvestiga {
+	background: transparent url("../images/f10_fondo_investiga.png") no-repeat;
+}
+
+.slideActividad {
+	background-color: transparent;
+}
+
+/* Textos */
+.principal_titulo {
+    text-align: center;
+    font-size: 38px;
+    vertical-align: middle;
+    line-height: 110px;
+	background-color: transparent;
+    overflow: hidden;
+}
+
+.principal_texto {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 18px;
+	background-color: transparent;
+	padding-right: 20px;
+    overflow-y: auto;
+}
+
+.principal_texto p:first-child {
+	margin-top: 0px;
+}
+
+.presentacion_titulo {
+    font-family: Verdana, Arial, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    vertical-align: middle;
+    line-height: 105px;
+	background-color: transparent;
+    overflow: hidden;
+}
+
+.presentacion_texto {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 18px;
+	background-color: transparent;
+    overflow-y: auto;
+}
+
+.presentacion_texto p:first-child {
+	margin-top: 0px;
+}
+
+
+.seleccion_titulo {
+    font-family: Verdana, Arial, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    vertical-align: middle;
+    line-height: 105px;
+	background-color: transparent;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+.seleccion_texto {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 18px;
+    padding-right: 10px;
+	background-color: transparent;
+	overflow-y: auto;
+}
+
+.seleccion_texto p:first-child {
+	margin-top: 0px;
+}
+
+
+.gridbutton {
+    font-size: 16px;
+}
+
+.popupCloseButton {
+    background: transparent url("../images/btnclose35.png") no-repeat;
+}
+
+.popupCloseButton_white {
+    background: transparent url("../images/btnclose35_white.png") no-repeat;
+}
+
+.info_default {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 18px;
+    padding-right: 10px;
+		background-color: transparent;
+		overflow-y: auto;
+}
+
+.infoButton {
+    background: transparent url("../images/btninfo35.png") no-repeat;
+}
+
+.infoButton_white {
+    background: transparent url("../images/btninfo35_white.png") no-repeat;
+}
+

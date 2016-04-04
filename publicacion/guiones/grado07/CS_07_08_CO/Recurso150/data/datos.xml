@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f1">
+<css><![CDATA[.defaultCSSBox2 {
+	background: #000000;
+}
+.defaultCSSBox3 {
+	background: #ffffff;
+}]]></css>
+<pantallas>
+<pantalla id="pantalla_5">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compSlider' id='diaporama_12' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' transMode='1' />
+<component _type='_compSliderNav' id='slidernav_11' x='45' y='526' width='162' height='37' alpha='1' visible='1' enabled='1' sliderId='diaporama_12' showHome='1' whiteButtons='1' mode='1' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+<slider id="diaporama_12">
+<pantalla id="pantalla_14">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compCSSBox' id='fondo_19' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='6' y='244' width='938' height='219' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="color:#FFFFFF"><span style="font-size:50px"><span style="font-family:georgia,serif">El relieve de Oceanía</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_19">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25040.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_24">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25086.png' />
+<component _type='_compImage' id='image_28' x='233' y='238' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/1.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":633,"easing":"Linear.EaseNone"},{"time":0.985,"value":233,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":38,"easing":"Linear.EaseNone"},{"time":0.98,"value":238,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_29">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='184' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25157.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='391' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">Ayers Rock</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='119' y='106' width='768' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Conocida por su forma redondeada y el color rojizo de sus materiales.<br />
+Esta monta&ntilde;a (867 m) es considerada sagrada por los abor&iacute;genes. </span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='165' y='492' width='705' height='85' alpha='1' visible='1' enabled='1' scrollable='0' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Conoces el nombre aborigen de Ayers Rock?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_33">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25086.png' />
+<component _type='_compImage' id='image_28' x='726' y='401' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/3.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":526,"easing":"Linear.EaseNone"},{"time":0.96,"value":726,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":201,"easing":"Linear.EaseNone"},{"time":0.955,"value":401,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_37">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='184' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25270.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='459' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">El monte Aspiring</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='113' y='106' width='768' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Situado en los Alpes Neozelandeses. Con sus 3033 m, es la cumbre m&aacute;s alta del Parque Nacional del Monte Aspiring.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='373' y='466' width='501' height='120' alpha='1' visible='1' enabled='1' scrollable='0' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&iquest;En qu&eacute; pel&iacute;cula fant&aacute;stica aparecen los Alpes Neozelandeses?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_41">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25086.png' />
+<component _type='_compImage' id='image_28' x='673' y='468' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/3.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":373,"easing":"Linear.EaseNone"},{"time":1.02,"value":673,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":168,"easing":"Linear.EaseNone"},{"time":1.025,"value":468,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_45">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='184' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25383.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='391' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">El monte Cook</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='113' y='106' width='768' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Es la cumbre m&aacute;s alta de Nueva Zelanda con sus 3754 m. Est&aacute; cubierto por un extenso glaciar.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='226' y='504' width='644' height='85' alpha='1' visible='1' enabled='1' scrollable='0' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Sabes en qu&eacute; a&ntilde;o fue ascendido por primera vez?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_49">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25086.png' />
+<component _type='_compImage' id='image_28' x='413' y='141' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/4.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":713,"easing":"Linear.EaseNone"},{"time":0.98,"value":413,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":441,"easing":"Linear.EaseNone"},{"time":0.98,"value":141,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_53">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='184' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25496.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='755' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">La Gran Barrera de Arrecifes</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='113' y='106' width='768' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Es el mayor arrecife de coral del mundo (2000 km de longitud) y se extiende a lo largo del nordeste de Australia.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='352' y='462' width='518' height='118' alpha='1' visible='1' enabled='1' scrollable='0' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Cu&aacute;ndo fue declarado bien natural del Patrimonio de la Humanidad?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_57">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25040.png' />
+<component _type='_compImage' id='image_28' x='442' y='122' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/4.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":742,"easing":"Linear.EaseNone"},{"time":0.995,"value":442,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":422,"easing":"Linear.EaseNone"},{"time":1,"value":122,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_61">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='184' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_26347.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='755' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">Atolón</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='113' y='106' width='795' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Isla oceánica propia de la Polinesia formada por arrecifes de coral. Puede llegar a tener 70 km de diámetro y su altura es de unas decenas de metros.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='460' y='474' width='410' height='98' alpha='1' visible='1' enabled='1' scrollable='0' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Sabes para qu&eacute; se utilizaba el atol&oacute;n de Bikini?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_65">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_25040.png' />
+<component _type='_compImage' id='image_28' x='685' y='12' width='53' height='97' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='4' alignMode='0' image='data/imagenes/2.png' />
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{"image_28":[],"image_28.x":[{"time":0,"value":285,"easing":"Linear.EaseNone"},{"time":1,"value":685,"easing":"Linear.EaseNone"}],"image_28.y":[{"time":0,"value":412,"easing":"Linear.EaseNone"},{"time":1,"value":12,"easing":"Linear.EaseNone"}],"image_28.width":[{"time":0,"value":53,"easing":"Linear.EaseNone"}],"image_28.height":[{"time":0,"value":97,"easing":"Linear.EaseNone"}],"image_28.alpha":[{"time":0,"value":1,"easing":"Linear.EaseNone"}]}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_69">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_23' x='0' y='184' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_26465.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='755' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:48px"><span style="font-family:verdana,geneva,sans-serif">El Haleakala</span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_25' x='113' y='106' width='795' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px"><span style="color:rgb(0, 0, 0)"><span style="font-family:verdana,geneva,sans-serif">Este volc&aacute;n tiene una altura de 3055 m. Sus 50 km&sup2; y sus 830 m de profundidad lo convierten en el mayor cr&aacute;ter del mundo.</span></span></span></p>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_21' x='324' y='500' width='546' height='85' alpha='1' visible='1' enabled='1' scrollable='0' >
+<content><![CDATA[<p style="text-align:right"><strong><span style="color:#FFFFFF"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Conoces alg&uacute;n otro volc&aacute;n hawaiano?</span></span></span></strong></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+</slider>
+</pantalla>
+</pantallas>
+<popups>
+</popups>
+</engine>

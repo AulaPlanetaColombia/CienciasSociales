@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoGuion">
+  <identificador>CS_07_08_CO</identificador>
+  <nivel>Educación Básica Secundaria</nivel>
+  <curso>7</curso>
+  <asignatura>Ciencias Sociales</asignatura>
+  <catalogaciones>
+    <disciplina>
+      <nivel id="3">Educación Secundaria Obligatoria</nivel>
+      <curso id="3.1">Primer curso</curso>
+      <asignatura id="3.1.2">Ciencias Sociales, Geografía e Historia</asignatura>
+    </disciplina>
+    <nivelEducativo>
+      <nivel id="4">Educación Secundaria Obligatoria</nivel>
+      <ciclo id="4.1">Primer curso</ciclo>
+    </nivelEducativo>
+  </catalogaciones>
+  <tipo>Guión de exposición</tipo>
+  <titulo>Geografía física y humana de América,  Oceanía y la Antártida</titulo>
+  <descripcion>América, Oceanía y Antártida fueron considerados "nuevos mundos" a partir de los grandes descubrimientos geográficos. Identifica y analiza el entorno físico y humano de estos continentes.</descripcion>
+  <recursoMapaConceptual>Recurso270/MapaConceptual.pdf</recursoMapaConceptual>
+  <recursoEvaluacion>
+  </recursoEvaluacion>
+  <version>848</version>
+  <veditorial>10</veditorial>
+</metadata>

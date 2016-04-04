@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-9F1FEB0999C544D8B72E00E7CA093319</identificador>
+  <loid>CS_07_08_CO_Recurso290</loid>
+  <titulo>Competencias: análisis del relieve de Oceanía</titulo>
+  <descripcion>Actividad que propone analizar el relieve del continente de Oceanía y contrastarlo con el de otros territorios del planeta.</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>120</tiempoestimado>
+  <acciondidactica>Proyecto</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <competencias>
+    <descriptor>1_1_4</descriptor>
+    <descriptor>1_2_1</descriptor>
+    <descriptor>1_3_4</descriptor>
+    <descriptor>3_1_1</descriptor>
+    <descriptor>3_1_2</descriptor>
+    <descriptor>3_1_3</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>análisis</concepto>
+    <concepto>atlas</concepto>
+    <concepto>interpretación</concepto>
+    <concepto>lectura</concepto>
+    <concepto>mapa</concepto>
+    <concepto>medio físico</concepto>
+    <concepto>relieve</concepto>
+    <concepto>Oceanía</concepto>
+    <concepto>geografía física</concepto>
+  </conceptos>
+</metadata>

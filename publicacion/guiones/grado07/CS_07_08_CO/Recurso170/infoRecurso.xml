@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-91AAD4B2553741C2A8AEDE61A88CEC6B</identificador>
+  <loid>CS_07_08_CO_Recurso170</loid>
+  <titulo>Ríos, lagos y mares de Oceanía</titulo>
+  <descripcion>Interactivo para conocer los ríos, lagos y mares de Oceanía</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Interactivo</tipomedia>
+  <conceptos>
+    <concepto>agua</concepto>
+    <concepto>cuenca fluvial</concepto>
+    <concepto>lago</concepto>
+    <concepto>mar</concepto>
+    <concepto>Oceanía</concepto>
+    <concepto>río</concepto>
+    <concepto>vertiente</concepto>
+  </conceptos>
+  <pdfs>
+    <pdf>
+      <titulo>Los ríos, mares y costas de Oceanía</titulo>
+      <fichero>CS_07_08_CO_rios_mares_oceania.pdf</fichero>
+      <alumno>1</alumno>
+      <profesor>1</profesor>
+    </pdf>
+    <pdf>
+      <titulo>Los ríos, mares y costas de Oceanía (mudo)</titulo>
+      <fichero>CS_07_08_CO_rios_mares_oceania_mudo.pdf</fichero>
+      <alumno>1</alumno>
+      <profesor>1</profesor>
+    </pdf>
+  </pdfs>
+</metadata>

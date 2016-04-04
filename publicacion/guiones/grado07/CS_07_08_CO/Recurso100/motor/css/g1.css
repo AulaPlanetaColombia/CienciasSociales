@@ -1,0 +1,184 @@
+﻿.slidePrincipal {
+	background-color: white;
+}
+
+/* Textos */
+.principal_titulo {
+    text-align: center;
+	font-family: Georgia, 'Times New Roman', serif;
+    font-size: 30px;
+    vertical-align: middle;
+    line-height: 110px;
+	background-color: transparent;
+    overflow: hidden;
+}
+
+.principal_texto p:first-child {
+	margin-top: 0px;
+}
+
+.gridbutton {
+    font-size: 16px;
+}
+
+.slide_default {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 18px;
+    padding-right: 10px;
+		background-color: transparent;
+		overflow-y: auto;
+}
+
+.popupCloseButton {
+    background: transparent url("../images/btnclose35.png") no-repeat;
+}
+
+.popupCloseButton_white {
+    background: transparent url("../images/btnclose35_white.png") no-repeat;
+}
+
+.infoButton {
+    background: transparent url("../images/btninfo35.png") no-repeat;
+}
+
+.infoButton_white {
+    background: transparent url("../images/btninfo35_white.png") no-repeat;
+}
+
+
+.graybox {
+	background-color: rgba(185, 185, 185, 0.7);
+	-webkit-border-radius: 8px; /* Safari 3-4, iOS 1-3.2, Android 1.6- */
+	-moz-border-radius: 8px; /* Firefox 1-3.6 */
+	border-radius: 8px;/* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+}
+
+/* PUNTUACIO*/
+.puntText {
+	font-family: Georgia, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+
+/* PREGUNTA */
+
+.pregText {
+	font-family: Georgia, 'Times New Roman', serif;
+    font-size: 23px;
+	line-height: normal;
+}
+
+.pregDesc {
+	font-family: Georgia, 'Times New Roman', serif;
+    font-size: 14px;
+	line-height: normal;
+}
+
+.pregItem {
+	font-family: Georgia, 'Times New Roman', serif;
+    font-size: 16px;
+	line-height: normal;
+}
+
+.respRoundTextButton {
+	background-color: white;
+	border: 1px solid black;
+
+    -ms-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+
+	-webkit-border-radius: 5px; /* Safari 3-4, iOS 1-3.2, Android 1.6- */
+	-moz-border-radius: 5px; /* Firefox 1-3.6 */
+	border-radius: 5px;/* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+
+    /* Alineacion de texto*/
+    text-align: center;
+    vertical-align: middle;
+
+    font-family: Verdana, Arial, sans-serif;
+    color: black;
+    /*font-weight: bold;*/
+    font-size: 14px;
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.respRoundTextButton {
+		border: 2px solid black;
+	}
+}
+
+.respRoundTextButton.hover {
+	background-color: #999999;/*darkgray;*/
+}
+
+.respRoundTextButton.active {
+	background-color: #999999;/*gray;*/
+    color: black;
+}
+
+.respRoundTextButton.down {
+	background-color: #CCCCCC;/*darkgray;*/
+    color: white;
+}
+
+.respRoundTextButton.disabled {
+	border: 1px solid gray;
+	color: gray;
+	cursor: default;
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.respRoundTextButton.disabled {
+		border: 2px solid gray;
+	}
+}
+
+
+/* POPUP RESPUESTA */
+.popupRespBk {
+	background-color: rgba(239,239,239,0.75);
+}
+
+.popupRespPasti {
+	background-color: white;
+	border: 1px solid black;
+
+    -ms-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+
+	-webkit-border-radius: 8px; /* Safari 3-4, iOS 1-3.2, Android 1.6- */
+	-moz-border-radius: 8px; /* Firefox 1-3.6 */
+	border-radius: 8px;/* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.popupRespPasti {
+		border: 2px solid black;
+	}
+}
+
+.popupRespText {
+	font-family: Georgia, 'Times New Roman', serif;
+    font-size: 28px;
+	line-height: normal;
+}
+
+.popupMessageText {
+	font-family: Georgia, 'Times New Roman', serif;
+    font-size: 18px;
+	line-height: normal;
+}
+
+.marker {
+	pointer-events: none;
+}
+
+.markerText {
+    font-family: Verdana, Arial, sans-serif;
+    color: black;
+    font-size: 14px;
+}

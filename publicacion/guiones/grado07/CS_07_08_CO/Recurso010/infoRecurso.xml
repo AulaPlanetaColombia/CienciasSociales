@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-C41E55E5B0A348A8892AD8CE36C7B5E1</identificador>
+  <loid>CS_07_08_CO_Recurso010</loid>
+  <titulo>Un recorrido por el paisaje de América</titulo>
+  <descripcion>Interactivo para conocer la variedad de paisajes de América</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>50</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Secuencia de imágenes</tipomedia>
+  <conceptos>
+    <concepto>altiplanos</concepto>
+    <concepto>América</concepto>
+    <concepto>América Central</concepto>
+    <concepto>América del Sur</concepto>
+    <concepto>bosques templados</concepto>
+    <concepto>llanos</concepto>
+    <concepto>paisaje</concepto>
+    <concepto>pampa</concepto>
+    <concepto>Polo Norte</concepto>
+    <concepto>praderas</concepto>
+    <concepto>selvas tropicales</concepto>
+    <concepto>tundra</concepto>
+  </conceptos>
+</metadata>

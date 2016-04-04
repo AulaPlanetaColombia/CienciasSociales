@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-A281157D91F649549DF83449302BC17E</identificador>
+  <loid>CS_07_08_CO_Recurso280</loid>
+  <titulo>Evaluación</titulo>
+  <descripcion>Actividad para evaluar los conocimientos del estudiante sobre el tema Geografía física y humana de América, Oceanía y la Antártida</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>30</tiempoestimado>
+  <acciondidactica>Evaluación</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>América</concepto>
+    <concepto>Antártida</concepto>
+    <concepto>clima</concepto>
+    <concepto>continente</concepto>
+    <concepto>economía</concepto>
+    <concepto>hidrografía</concepto>
+    <concepto>minería</concepto>
+    <concepto>Oceanía</concepto>
+    <concepto>población</concepto>
+    <concepto>producción agrícola</concepto>
+    <concepto>relieve</concepto>
+  </conceptos>
+</metadata>

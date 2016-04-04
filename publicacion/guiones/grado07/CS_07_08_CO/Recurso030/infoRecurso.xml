@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-1D108B5D375B4B1EA903429213E341C9</identificador>
+  <loid>CS_07_08_CO_Recurso030</loid>
+  <titulo>Sitúa los elementos del relieve americano</titulo>
+  <descripcion>Interactivo que permite situar sobre un mapa físico los principales elementos del relieve de América</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>10</tiempoestimado>
+  <acciondidactica>Estudio</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Interactivo</tipomedia>
+  <conceptos>
+    <concepto>América</concepto>
+    <concepto>Andes</concepto>
+    <concepto>Apalaches</concepto>
+    <concepto>Baja California</concepto>
+    <concepto>Gran Chaco</concepto>
+    <concepto>macizo de las Guayanas</concepto>
+    <concepto>Mato Grosso</concepto>
+    <concepto>medio físico</concepto>
+    <concepto>montañas Rocosas</concepto>
+    <concepto>Patagonia</concepto>
+    <concepto>península de Yucatán</concepto>
+    <concepto>península del Labrador</concepto>
+    <concepto>relieve</concepto>
+  </conceptos>
+</metadata>

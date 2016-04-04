@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-CA44A3A4C9A84E52ADCDD253A97E99AB</identificador>
+  <loid>CS_07_08_CO_Recurso090</loid>
+  <titulo>Ríos, lagos y mares de América</titulo>
+  <descripcion>Interactivo para conocer los ríos, lagos y mares americanos</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Interactivo</tipomedia>
+  <conceptos>
+    <concepto>agua</concepto>
+    <concepto>Ámérica</concepto>
+    <concepto>lago</concepto>
+    <concepto>mar</concepto>
+    <concepto>presa</concepto>
+    <concepto>río</concepto>
+    <concepto>Orinoco</concepto>
+    <concepto>Amazonas</concepto>
+    <concepto>Misisipi</concepto>
+    <concepto>Colorado</concepto>
+    <concepto>Ontario</concepto>
+    <concepto>Michigan</concepto>
+  </conceptos>
+  <pdfs>
+    <pdf>
+      <titulo>Los ríos, mares y costas de América del Norte y Central</titulo>
+      <fichero>CS_07_08_10_america_N_mares_costas.pdf</fichero>
+      <alumno>1</alumno>
+      <profesor>1</profesor>
+    </pdf>
+    <pdf>
+      <titulo>Los ríos, mares y costas de América del Norte y Central (mudo)</titulo>
+      <fichero>CS_07_08_10_america_N_mares_costas_mudo.pdf</fichero>
+      <alumno>1</alumno>
+      <profesor>1</profesor>
+    </pdf>
+    <pdf>
+      <titulo>Los ríos, mares y costas de América del Sur</titulo>
+      <fichero>CS_07_08_10_america_S_mares_costas.pdf</fichero>
+      <alumno>1</alumno>
+      <profesor>1</profesor>
+    </pdf>
+    <pdf>
+      <titulo>Los ríos, mares y costas de América del Sur (mudo)</titulo>
+      <fichero>CS_07_08_10_america_S_mares_costas_mudo.pdf</fichero>
+      <alumno>1</alumno>
+      <profesor>1</profesor>
+    </pdf>
+  </pdfs>
+</metadata>

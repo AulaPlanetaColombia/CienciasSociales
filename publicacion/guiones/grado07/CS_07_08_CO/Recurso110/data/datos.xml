@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="10" clase="a" aprid="M10a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Identifica los principales ríos, lagos y mares de América</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia><![CDATA[cs_07_03_11]]></referencia>
+    <id_reg><![CDATA[121]]></id_reg>
+    <motor><![CDATA[M10a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Sitúa en la región correcta los distintos ríos, lagos y mares americanos.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoacategoria cantidad="3">
+    <cuestion>
+      <categoria><![CDATA[América del Norte]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Río Mississipi]]></respuesta>
+        <respuesta id="2"><![CDATA[Mar de Bering]]></respuesta>
+        <respuesta id="3"><![CDATA[Río Grande]]></respuesta>
+        <respuesta id="4"><![CDATA[Lago Michigan]]></respuesta>
+        <respuesta id="5"><![CDATA[Río Mackenzie]]></respuesta>
+      </respuestas>
+      <sonido/>
+    </cuestion>
+    <cuestion>
+      <categoria><![CDATA[América Central]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Lago Nicaragua]]></respuesta>
+        <respuesta id="2"><![CDATA[Mar Caribe]]></respuesta>
+        <respuesta id="3"><![CDATA[Río Coco]]></respuesta>
+        <respuesta id="4"><![CDATA[Río Escondido]]></respuesta>
+      </respuestas>
+      <sonido/>
+    </cuestion>
+    <cuestion>
+      <categoria><![CDATA[América del Sur]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Río Orinoco]]></respuesta>
+        <respuesta id="2"><![CDATA[Río Amazonas]]></respuesta>
+        <respuesta id="3"><![CDATA[Río Paraná]]></respuesta>
+        <respuesta id="4"><![CDATA[Río Paraguay]]></respuesta>
+        <respuesta id="5"><![CDATA[Lago Titicaca]]></respuesta>
+      </respuestas>
+      <sonido/>
+    </cuestion>
+  </textoacategoria>
+</motor>

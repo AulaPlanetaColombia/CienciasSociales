@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-EE9D916A4BBB43B6AA726EFB1E71DA86</identificador>
+  <loid>CS_07_08_CO_Recurso070</loid>
+  <titulo>El clima en el continente americano</titulo>
+  <descripcion>Interactivo que presenta las características de los climas en el contienente americano</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Secuencia de imágenes</tipomedia>
+  <conceptos>
+    <concepto>América</concepto>
+    <concepto>configuración continental</concepto>
+    <concepto>corriente de Humboldt</concepto>
+    <concepto>corrientes marinas</concepto>
+    <concepto>costa pacífica</concepto>
+    <concepto>disposición del relieve</concepto>
+    <concepto>distribución climática americana</concepto>
+    <concepto>ecuatorial</concepto>
+    <concepto>frío con lluvias continuas</concepto>
+    <concepto>pisos térmicos</concepto>
+    <concepto>seco desértico</concepto>
+    <concepto>seco estepario</concepto>
+    <concepto>templado</concepto>
+    <concepto>tropical</concepto>
+    <concepto>tundra</concepto>
+  </conceptos>
+</metadata>

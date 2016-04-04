@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<engine path="medias/image.jpg" mode="2" color="16711680" copy="Editorial Planeta" version="1" aprid="geografia_donde_esta">
+  <main layout="2" pointsVisible="true" replayText="Volver a jugar" noreplayText="Final de la partida">
+    <title>Sitúa los elementos del relieve americano</title>
+    <correct>Correcto</correct>
+    <wrong>Incorrecto</wrong>
+    <final>Final del juego</final>
+    <blockTitle>Localiza...</blockTitle>
+    <pointsText>Puntuación</pointsText>
+  </main>
+  <sections>
+    <question points="10" isFilled="true" show_description="false" map="3;244,66;246,74;246,83;249,91;247,96;242,100;239,107;237,112;237,119;244,119;243,126;248,133;256,141;264,148;257,132;258,126;261,121;265,115;262,109;257,103;255,98;253,87;252,74;250,62;247,55;" mark="252.5,111">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Montañas</span></p><p><span>Rocosas</span></p></TextFlow>]]></answer>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="3;303,135;311,131;315,128;320,124;325,120;332,115;332,122;324,128;318,135;310,139;" mark="337.5,133">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Apalaches</span></p></TextFlow>]]></answer>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="3;290,181;291,179;294,173;303,171;305,176;302,181;300,185;299,188;" mark="288,181">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Península</span></p><p><span>de Yucatán</span></p></TextFlow>]]></answer>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="3;239,165;236,150;232,138;226,132;229,141;229,149;232,156;236,163;" mark="218.15,161.4">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Baja</span></p><p><span>California</span></p></TextFlow>]]></answer>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="3;408,232;402,227;393,221;385,221;381,213;372,212;367,216;363,220;363,224;372,231;366,233;369,236;378,236;382,231;387,238;394,239;403,240;" mark="395,219.5">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>M. de las Guayanas</span></p></TextFlow>]]></answer>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="3;344,358;350,344;352,335;357,325;361,315;366,306;370,298;371,292;364,285;358,280;351,278;347,273;343,277;340,271;337,266;332,259;333,253;329,249;331,241;334,234;338,228;343,224;345,221;346,215;341,217;337,221;333,227;329,231;327,236;325,242;325,250;328,259;332,265;335,273;341,279;346,283;350,290;355,295;357,304;355,313;353,322;351,331;346,345;343,353;" mark="335.4,283.35">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Cordillera de </span></p><p><span>los Andes</span></p></TextFlow>]]></answer>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="3;354,368;356,377;349,383;347,390;342,392;336,382;339,375;341,368;339,364;343,363;" mark="361.4,373.95">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Patagonia</span></p></TextFlow>]]></answer>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="3;379,266;385,260;396,260;404,261;414,266;418,272;421,279;417,287;409,291;402,290;396,291;390,290;384,288;379,284;374,280;372,276;372,271;374,266;" mark="399.65,266.35">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Mato Grosso</span></p></TextFlow>]]></answer>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="3;365,317;372,308;376,300;383,296;387,298;381,307;374,314;" mark="388.35,321.7">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Gran Chaco</span></p></TextFlow>]]></answer>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+      </answers>
+    </question>
+    <question points="10" isFilled="true" show_description="false" map="3;327,87;325,78;330,74;328,68;328,64;332,61;335,59;342,60;344,67;348,68;350,62;358,69;362,75;370,76;374,83;367,88;351,88;349,92;" mark="348.15,64.85">
+      <text/>
+      <answers>
+        <answer correct="true"><![CDATA[<TextFlow><p><span>Península</span></p><p><span>del Labrador</span></p></TextFlow>]]></answer>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+        <answer correct="false"/>
+      </answers>
+    </question>
+  </sections>
+</engine>
