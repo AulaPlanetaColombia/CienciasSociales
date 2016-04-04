@@ -1,20 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f4">
-<main title="Las religiones de la India" path="img11.jpg" buttonsHeight="53">
-<info path="img01.jpg">
-<text><![CDATA[]]></text>
-</info>
+<main title="Las religiones de la India" path="CS_06_04_REC70_IMG01.jpg" buttonsHeight="53">
 </main>
 <questions respCorrecta="Respuesta correcta." respIncorrecta="Respuesta incorrecta.">
-<question title="¿Qué significa Veda?" path="img02.jpg">
+<question title="¿Qué significa Veda?" path="CS_06_04_REC70_IMG02.jpg">
 <answers>
 <answer correct="1">
 <text><![CDATA[Sabiduría]]></text>
-<explanation width="394"><![CDATA[<p>Es una palabra de origen divino. Los libros que contienen textos e himnos sagrados fueron llamados vedas, y&nbsp; son la fuente del conocimiento del brahmanismo.</p>
+<explanation width="394"><![CDATA[<p>Es una palabra de origen divino. Los libros que contienen textos e himnos sagrados fueron llamados Vedas, y son la fuente del conocimiento del brahmanismo.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
 <text><![CDATA[Iluminado]]></text>
-<explanation width="394"><![CDATA[<p>palabra que identifica a la persona que cree tener visiones celestiales o que est&aacute;n relacionadas con creencias o mitos religiosos.</p>
+<explanation width="394"><![CDATA[<p>Palabra que identifica a la persona que cree tener visiones celestiales o que est&aacute; relacionada con creencias o mitos religiosos.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
@@ -46,18 +43,18 @@
 <text><![CDATA[]]></text>
 </info>
 </question>
-<question title="¿Qué contenido tienen los Vedas?" path="img04.jpg">
+<question title="¿Qué contenido tienen los Vedas?" path="CS_06_04_REC70_IMG03.jpg">
 <text><![CDATA[<p><br />
 &nbsp;</p>
 ]]></text><answers>
 <answer correct="1">
-<text><![CDATA[La palabra sagrada.]]></text>
-<explanation width="394"><![CDATA[<p>Contienen antiguos himnos sagrados, la sabidur&iacute;a y comentarios agregados por los Brahmanes.</p>
+<text><![CDATA[La palabra sagrada]]></text>
+<explanation width="394"><![CDATA[<p>Contienen antiguos himnos sagrados, la sabidur&iacute;a y comentarios agregados por los brahmanes.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
 <text><![CDATA[Imágenes sagradas]]></text>
-<explanation width="394"><![CDATA[<p>Los vedas no contienen im&aacute;genes. Fueron textos escritos en&nbsp; s&aacute;nscrito, antigua lengua indoaria&nbsp; y literaria de la cultura hind&uacute;. Es considerada sagrada por los Hind&uacute;es.</p>
+<explanation width="394"><![CDATA[<p>Los vedas no contienen im&aacute;genes. Fueron textos escritos en&nbsp; s&aacute;nscrito, antigua lengua indoaria y literaria de la cultura hind&uacute;. Es considerada sagrada por los hind&uacute;es.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
@@ -89,16 +86,16 @@
 <text><![CDATA[]]></text>
 </info>
 </question>
-<question title="¿Quiénes eran los sacerdotes Vedas?" path="000HUE01%20bodhisattva%20en%20el%20trono%20(divinidad%20del%20budiamo).jpg">
+<question title="¿Quiénes eran los sacerdotes Vedas?" path="CS_06_04_REC70_IMG04.jpg">
 <answers>
 <answer correct="0">
 <text><![CDATA[Parias]]></text>
-<explanation width="394"><![CDATA[<p>Casta social de los exclu&iacute;dos, eran considerados intocables o repudiados.</p>
+<explanation width="394"><![CDATA[<p>Casta social de los excluidos; eran considerados intocables o repudiados.</p>
 ]]></explanation>
 </answer>
 <answer correct="1">
 <text><![CDATA[Brahmanes]]></text>
-<explanation width="394"><![CDATA[<p>Sacerdotes de la casta Brahm&aacute;nica. Se cree que&nbsp; ten&iacute;an una relaci&oacute;n m&iacute;tica o espiritual con los dioses a trav&eacute;s del brahm&aacute;n, y se comunicaba con los sonidos correctos de los mantra.</p>
+<explanation width="394"><![CDATA[<p>Sacerdotes de la casta brahm&aacute;nica. Se cree que ten&iacute;an una relaci&oacute;n m&iacute;tica o espiritual con los dioses a trav&eacute;s del brahm&aacute;n, y se comunicaban con los sonidos correctos de los mantra.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
@@ -130,7 +127,7 @@
 <text><![CDATA[]]></text>
 </info>
 </question>
-<question title="¿Cuál es el nombre de la religión de la antigua India que dio origen al Hinduísmo?" path="img3.jpg">
+<question title="¿Cuál es el nombre de la religión de la antigua india que dio origen al hinduismo?" path="CS_06_04_REC70_IMG05.jpg">
 <answers>
 <answer correct="0">
 <text><![CDATA[Islamismo]]></text>
@@ -139,7 +136,7 @@
 </answer>
 <answer correct="1">
 <text><![CDATA[Brahmanismo]]></text>
-<explanation width="394"><![CDATA[<p>El brahmanismo es una forma de religiosidad, llevada por los invasores arios a India, que tuvo su apogeo entre el II milenio a.C. y el siglo VI a.C&nbsp; y se constituy&oacute; como la antigua religi&oacute;n de la India derivada del conjunto de las doctrinas contenidas en los Veda y de las pr&aacute;cticas religiosas y &eacute;ticas.</p>
+<explanation width="394"><![CDATA[<p>El brahmanismo es una forma de religiosidad, llevada por los invasores arios a India, que tuvo su apogeo entre el II milenio a.C. y el siglo VI a.C y se constituy&oacute; como la antigua religi&oacute;n de la India derivada del conjunto de las doctrinas contenidas en los Veda y de las pr&aacute;cticas religiosas y &eacute;ticas.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
@@ -171,16 +168,16 @@
 <text><![CDATA[]]></text>
 </info>
 </question>
-<question title="¿Qué entonan durante los rituales védicos?" path="img05.jpg">
+<question title="¿Qué entonan durante los rituales védicos?" path="CS_06_04_REC70_IMG06.jpg">
 <answers>
 <answer correct="1">
 <text><![CDATA[Mantras]]></text>
-<explanation width="394"><![CDATA[<p>Sonido simb&oacute;lico que se recita en forma repetida y cont&iacute;nua, provoca una vibraci&oacute;n interna,&nbsp; ayuda a la mente a concentrarse y favorece la meditaci&oacute;n.</p>
+<explanation width="394"><![CDATA[<p>Sonido simb&oacute;lico que se recita en forma repetida y continua; provoca una vibraci&oacute;n interna, ayuda a la mente a concentrarse y favorece la meditaci&oacute;n.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
 <text><![CDATA[Mandala]]></text>
-<explanation width="394"><![CDATA[<p>Representaciones o diagramas circulares de variedad de colores, Son utilizados por los hind&uacute;es y budistas.</p>
+<explanation width="394"><![CDATA[<p>Representaciones o diagramas circulares de variedad de colores; son utilizados por hind&uacute;es y budistas.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
@@ -212,7 +209,7 @@
 <text><![CDATA[]]></text>
 </info>
 </question>
-<question title="¿Qué elemento simboliza la relación cósmica y espiritual?" path="img06.jpg">
+<question title="¿Qué elemento simboliza la relación cósmica y espiritual?" path="CS_06_04_REC70_IMG07.jpg">
 <answers>
 <answer correct="0">
 <text><![CDATA[Shiva]]></text>
@@ -253,11 +250,11 @@
 <text><![CDATA[]]></text>
 </info>
 </question>
-<question title="¿Quién fue el padre creador y absoluto que personificaba la sabiduría para la sociedad Hindú?" path="img07.jpg">
+<question title="¿Quién fue el padre creador y absoluto que personificaba la sabiduría para la sociedad hindú?" path="CS_06_04_REC70_IMG08.jpg">
 <answers>
 <answer correct="1">
 <text><![CDATA[Brahma]]></text>
-<explanation width="394"><![CDATA[<p>Era el primero y m&aacute;s importante, al ser considerado padre y creador de todas las cosas, era el Absoluto y personificaba la sabidur&iacute;a.</p>
+<explanation width="394"><![CDATA[<p>Era el primero y m&aacute;s importante; al ser considerado padre y creador de todas las cosas, era el Absoluto y personificaba la sabidur&iacute;a.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
@@ -294,11 +291,11 @@
 <text><![CDATA[]]></text>
 </info>
 </question>
-<question title="¿Cuál es el río sagrado de los Hindúes?" path="img08.jpg">
+<question title="¿Cuál es el río sagrado de los hindúes?" path="CS_06_04_REC70_IMG09.jpg">
 <answers>
 <answer correct="1">
 <text><![CDATA[Ganges]]></text>
-<explanation width="394"><![CDATA[<p>R&iacute;o ubicado al noreste de la India en cuyas aguas sagradas se ba&ntilde;an multitudes de peregrinos para purificarse, tambi&eacute;n all&iacute; &nbsp;se dispersan las cenizas de los difuntos.</p>
+<explanation width="394"><![CDATA[<p>R&iacute;o ubicado al noreste de la India en cuyas aguas sagradas se ba&ntilde;an multitudes de peregrinos para purificarse; tambi&eacute;n all&iacute; se dispersan las cenizas de los difuntos.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
@@ -335,11 +332,11 @@
 <text><![CDATA[]]></text>
 </info>
 </question>
-<question title="¿Cuál es la religión de la India que practica la meditación, enseña el camino de la liberación del  sufrimiento?" path="img09.jpg">
+<question title="¿Cuál es la religión de la India que practica la meditación y enseña el camino de la liberación del  sufrimiento?" path="CS_06_04_REC70_IMG10.jpg">
 <answers>
 <answer correct="1">
 <text><![CDATA[Budismo]]></text>
-<explanation width="394"><![CDATA[<p>Religi&oacute;n fundada en la India por Siddharta Gautama, Buda,en el s. VI a.&nbsp;C.</p>
+<explanation width="394"><![CDATA[<p>Religi&oacute;n fundada en la India por Sidarta Gautama, Buda, en el s. VI a.C.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
@@ -376,16 +373,18 @@
 <text><![CDATA[]]></text>
 </info>
 </question>
-<question title="¿Quién pensó y enseñó que la fuente de nuestros sufrimientos es el deseo de obtener cosas y si esto se suprime, el dolor cesa?" path="img10.jpg">
+<question title="¿Quién pensó y enseñó que la fuente de nuestros sufrimientos es el deseo de obtener cosas y si esto se suprime, el dolor cesa?" path="CS_06_04_REC70_IMG11.jpg">
 <answers>
 <answer correct="1">
 <text><![CDATA[Siddharta Gautama]]></text>
-<explanation width="394"><![CDATA[<p>Siddharta, principe hind&uacute;, abandon&oacute; la riqueza y comenz&oacute; un camino de meditaci&oacute;n, hasta alcanzar la iluminaci&oacute;n, por ello se le conoce como Buda,&nbsp; el iluminado</p>
+<explanation width="394"><![CDATA[<p>Sidarta, principe hind&uacute;, abandon&oacute; la riqueza y comenz&oacute; un camino de meditaci&oacute;n hasta alcanzar la iluminaci&oacute;n; por ello se le conoce como Buda, el iluminado.</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
 <text><![CDATA[Mahoma]]></text>
-<explanation width="394"><![CDATA[<p>Nombre &aacute;rabe que &quot;el alabado&quot;, fue el Profeta creador del islam.</p>
+<explanation width="394"><![CDATA[<p>Nombre &aacute;rabe que significa &quot;el alabado&quot;; fue el profeta creador del islam.</p>
+
+<p>&nbsp;</p>
 ]]></explanation>
 </answer>
 <answer correct="0">
