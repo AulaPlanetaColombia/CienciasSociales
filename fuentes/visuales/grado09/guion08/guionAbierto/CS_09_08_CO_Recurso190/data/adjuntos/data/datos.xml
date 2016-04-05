@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f13" title="Análisis de la situación política y social de América Latina en la actualidad" >
 <section title="Presentación" path="CS_09_08_CO_REC170_IMG01.jpg" pathAmp="" image1Text="" zoom1="false" zoom2a="false" zoom2b="false" layout="0" >
-<![CDATA[<p><strong>La estad&iacute;stica para analizar la realidad</strong></p>
+<![CDATA[
+
+<p><strong>La estad&iacute;stica para analizar la realidad</strong></p>
 
 <p>La estad&iacute;stica ofrece formas de representaci&oacute;n gr&aacute;fica de la realidad que han sido utilizadas por los seres humanos desde la antig&uuml;edad. En el presente, la estad&iacute;stica ha especializado sus herramientas y hace uso de f&oacute;rmulas y modelos matem&aacute;ticos, que, utilizados adecuadamente, pueden darnos una idea muy acertada de realidades complejas, si solo tuvi&eacute;ramos los datos sin representaci&oacute;n gr&aacute;fica.</p>
 
@@ -33,9 +35,9 @@
 
 <p>Observa las gr&aacute;ficas y contesta las preguntas correspondientes:</p>
 
-<p><strong>Distribuci&oacute;n de la poblaci&oacute;n latinoamericana seg&uacute;n edad y sexo</strong></p>
+<p style="text-align: center;"><strong>Distribuci&oacute;n de la poblaci&oacute;n latinoamericana seg&uacute;n edad y sexo</strong></p>
 
-<p><img alt="" src="data/imagenes/imagendummy_motorf.jpg" style="height:401px; width:700px" /></p>
+<p style="margin-left: 40px;"><img alt="" src="data/imagenes/CS_09_08_CO_REC190_IMG02.jpg" style="height:401px; width:700px" /></p>
 
 <p>Fuente: CEPAL</p>
 
@@ -45,9 +47,9 @@
 	<li>&iquest;Qu&eacute; conclusiones puedes sacar de la gr&aacute;fica con respecto a la poblaci&oacute;n latinoamericana?&nbsp;</li>
 </ul>
 
-<p><strong>Evoluci&oacute;n del desempleo en Am&eacute;rica Latina</strong></p>
+<p style="text-align: center;"><strong>Evoluci&oacute;n del desempleo en Am&eacute;rica Latina</strong></p>
 
-<p><img alt="" src="data/imagenes/imagendummy_motorf.jpg" style="height:401px; width:700px" /></p>
+<p style="margin-left: 40px;"><img alt="" src="data/imagenes/CS_09_08_CO_REC190_IMG03.jpg" style="height:402px; width:700px" /></p>
 
 <p>Fuente: CEPAL</p>
 
@@ -55,9 +57,9 @@
 	<li>De acuerdo con la gr&aacute;fica, &iquest;c&oacute;mo ha evolucionado el desempleo en Am&eacute;rica latina en los &uacute;ltimos 25 a&ntilde;os? &iquest;Qu&eacute; tendencias se presentan?</li>
 </ul>
 
-<p><strong>Deuda p&uacute;blica (del Estado) en Am&eacute;rica Latina</strong></p>
+<p style="text-align: center;"><strong>Deuda p&uacute;blica (del Estado) en Am&eacute;rica Latina</strong></p>
 
-<p><img alt="" src="data/imagenes/imagendummy_motorf.jpg" style="height:401px; width:700px" /></p>
+<p style="margin-left: 40px;"><img alt="" src="data/imagenes/CS_09_08_CO_REC190_IMG04.jpg" style="height:401px; width:700px" /></p>
 
 <p>Fuente: CEPAL</p>
 
@@ -68,9 +70,9 @@
 	<li>&iquest;Por qu&aacute; es peligroso para la econom&iacute;a de un pa&iacute;s que la deuda p&uacute;blica sea alta con respecto al PIB?&nbsp;</li>
 </ul>
 
-<p><strong>Gasto p&uacute;blico (del Estado) en educaci&oacute;n en Am&eacute;rica Latina</strong></p>
+<p style="text-align: center;"><strong>Gasto p&uacute;blico (del Estado) en educaci&oacute;n en Am&eacute;rica Latina</strong></p>
 
-<p><img alt="" src="data/imagenes/imagendummy_motorf.jpg" style="height:401px; width:700px" /></p>
+<p style="margin-left: 40px;"><img alt="" src="data/imagenes/CS_09_08_CO_REC190_IMG05.jpg" style="height:401px; width:700px" /></p>
 
 <p>Fuente: CEPAL</p>
 
@@ -81,9 +83,9 @@
 	<li>&iquest;Cu&aacute;les son los pa&iacute;ses que m&aacute;s invierten en educaci&oacute;n y cu&aacute;les los que menos invierten?</li>
 </ul>
 
-<p><strong>Inflaci&oacute;n (evoluci&oacute;n del &iacute;ndice general de precios) en Am&eacute;rica Latina</strong></p>
+<p style="text-align: center;"><strong>Inflaci&oacute;n (evoluci&oacute;n del &iacute;ndice general de precios) en Am&eacute;rica Latina</strong></p>
 
-<p><img alt="" src="data/imagenes/imagendummy_motorf.jpg" style="height:401px; width:700px" /></p>
+<p style="margin-left: 40px;"><img alt="" src="data/imagenes/CS_09_08_CO_REC190_IMG06.jpg" style="height:401px; width:700px" /></p>
 
 <p>Fuente: CEPAL</p>
 
