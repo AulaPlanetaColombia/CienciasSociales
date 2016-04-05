@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f7b"><main layout="1">
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f7b"><main layout="1">
 <title>Características del relieve de Colombia</title>
 <footer>Escoge una imagen</footer>
 </main>
@@ -10,7 +10,7 @@
 <pages>
 <page i="0" visible="true" color="">
 <title>Cordillera de los Andes</title>
-<description><![CDATA[<p>Es el principal sistema monta&ntilde;oso de Colombia. Ubicada en el norte de Sur Am&eacute;rica, hace parte de la <strong>gran cordillera de los Andes </strong>que recorre el subcontinente de sur a norte. En Colombia, la cordillera viene desde el sur, y se&nbsp;dividide en tres ramales desde el <strong>Nudo de los Pastos</strong> donde nace la <strong>Cordillera Occidental</strong>, y nuevamente&nbsp;en el <strong>Maziso Colombiano</strong>, donde se originan la&nbsp;<strong>Cordillera Central</strong>&nbsp;y la <strong>Cordillera Oriental</strong>.</p>
+<description><![CDATA[<p>Es el principal sistema monta&ntilde;oso de Colombia. Ubicada en el norte de Suram&eacute;rica, hace parte de la <strong>gran cordillera de los Andes </strong>que recorre el subcontinente de sur a norte. En Colombia, la cordillera viene desde el sur&nbsp;y se&nbsp;dividide en tres ramales desde el <strong>Nudo de los Pastos</strong> donde nace la <strong>Cordillera Occidental</strong>&nbsp;y nuevamente&nbsp;en el <strong>Maziso Colombiano</strong>, donde se originan la&nbsp;<strong>Cordillera Central</strong>&nbsp;y la <strong>Cordillera Oriental</strong>.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC70_IMG04n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG04a.jpg">
@@ -20,13 +20,13 @@
 </page>
 <page i="0" visible="true" color="">
 <title>Cordillera Occidental</title>
-<description><![CDATA[<p>En el <strong>Nudo de los Pastos</strong> nace la Cordillera Occidental, que se divide de la Cordillera de los Andes por el valle del <strong>R&iacute;o Pat&iacute;a</strong> y, a partir del Macizo Colombiano, las divide el valle que forma el <strong>R&iacute;o Cauca</strong>.&nbsp;Es la menos alta de las tres cordilleras con un promedio de 2000 m.s.n.m., siendo su m&aacute;xima altura&nbsp;el <strong>Volc&aacute;n de Cumbal</strong> al sur del pa&iacute;s con <strong>4764 m.s.n.m</strong>.</p>
+<description><![CDATA[<p>En el <strong>Nudo de los Pastos</strong> nace la Cordillera Occidental, que se divide de la Cordillera de los Andes por el valle del <strong>r&iacute;o Pat&iacute;a</strong> y, a partir del Macizo Colombiano, las divide el valle que forma el <strong>r&iacute;o Cauca</strong>.&nbsp;Es la menos alta de las tres cordilleras con un promedio de 2.000 m.s.n.m., siendo su m&aacute;xima altura&nbsp;el <strong>volc&aacute;n de Cumbal</strong> al sur del pa&iacute;s con <strong>4.764 m.s.n.m</strong>.</p>
 
-<p>Al norte, en el <strong>Nudo de Paramillo</strong>, se divide en tres ramales que formando las serran&iacute;as de <strong>Abibe</strong>, <strong>San Jer&oacute;nimo</strong> y <strong>Ayapel</strong>.&nbsp;Entre sus principales elevaciones se destacan, el <strong>Volc&aacute;n Cumbal, Volc&aacute;n Azufr&aacute;l, Volc&aacute;n Chiles,&nbsp;los Farallones de Cali y el Cerro Tatam&aacute;.</strong></p>
+<p>Al norte, en el <strong>Nudo de Paramillo</strong>, se divide en tres ramales que forman&nbsp;las serran&iacute;as de <strong>Abibe</strong>, <strong>San Jer&oacute;nimo</strong> y <strong>Ayapel</strong>.&nbsp;Entre sus principales elevaciones se destacan&nbsp;el <strong>volc&aacute;n Cumbal, volc&aacute;n Azufr&aacute;l, volc&aacute;n Chiles,&nbsp;los Farallones de Cali y el cerro Tatam&aacute;.</strong></p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC70_IMG05n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG05a.jpg">
-<title><![CDATA[]]></title>
+<title><![CDATA[Nudo de los Pastos]]></title>
 </image>
 <image path="CS_07_09_REC70_IMG06n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG06a.jpg">
 <title><![CDATA[Volcán Cumbal]]></title>
@@ -44,43 +44,37 @@
 </page>
 <page i="0" visible="true" color="">
 <title>Cordillera Central</title>
-<description><![CDATA[<p>La Cordillera Central nace en el <strong>Macizo Colombiano</strong>, tambi&eacute;n llamado <em>estrella fluvial de Colombiana</em>. Desde este punto queda separado de la Cordillera Occidental por el <strong>valle del R&iacute;o Cauca</strong> y de la Cordillera Oriental por el <strong>valle del R&iacute;o Magadalena</strong>.&nbsp;Es la m&aacute;s alta de las tres cordilleras, con un promedio de <strong>3000 m.s.n.m.</strong>, siendo su m&aacute;xima altura el <strong>Nevado del Huila con&nbsp;5364 m.s.n.m</strong>.</p>
+<description><![CDATA[<p>La Cordillera Central nace en el <strong>Macizo Colombiano</strong>, tambi&eacute;n llamado <em>estrella fluvial de Colombiana</em>. Desde este punto queda separado de la Cordillera Occidental por el <strong>valle del r&iacute;o Cauca</strong> y de la Cordillera Oriental por el <strong>valle del r&iacute;o Magadalena</strong>.&nbsp;Es la m&aacute;s alta de las tres cordilleras, con un promedio de <strong>3.000 m.s.n.m.</strong>, siendo su m&aacute;xima altura el <strong>Nevado del Huila con&nbsp;5.364 m.s.n.m</strong>.</p>
 
-<p>La Cordillera Central culmina al norte en la <strong>Serran&iacute;a de san Lucas</strong>.&nbsp;Entre sus elevaciones se destacan varios volcanes y nevados como el <strong>Nevado del Huila, Nevado Ru&iacute;z, Nevado del Tolima, Nevado del Quind&iacute;o y el&nbsp;Nevado de Santa Isabel</strong>.</p>
+<p>La Cordillera Central culmina al norte en la <strong>Serran&iacute;a de san Lucas</strong>.&nbsp;Entre sus elevaciones se destacan varios volcanes y nevados como el <strong>nevado del Huila, nevado Ru&iacute;z, nevado del Tolima, nevado del Quind&iacute;o y el&nbsp;nevado de Santa Isabel</strong>.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC70_IMG10n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG10a.jpg">
 <title><![CDATA[Macizo Colombiano]]></title>
 </image>
 <image path="CS_07_09_REC70_IMG11n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG11a.jpg">
-<title><![CDATA[]]></title>
-</image>
-<image path="CS_07_09_REC70_IMG12n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG12a.jpg">
-<title><![CDATA[Nevado del Tolima]]></title>
+<title><![CDATA[Nevado del Huila]]></title>
 </image>
 <image path="CS_07_09_REC70_IMG13n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG13a.jpg">
-<title><![CDATA[Nevado del Ruíz]]></title>
+<title><![CDATA[Nevado de Ruíz]]></title>
 </image>
-<image path="CS_07_09_REC70_IMG14a.jpg" border = "0" pathbig="CS_07_09_REC70_IMG14a.jpg">
-<title><![CDATA[Nevado de Santa Isabel]]></title>
-</image>
-<image path="CS_07_09_REC70_IMG15n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG15a.jpg">
+<image path="CS_07_09_REC70_IMG14n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG14a.jpg">
 <title><![CDATA[Serranía de San Lucas]]></title>
 </image>
 </images>
 </page>
 <page i="0" visible="true" color="">
 <title>Cordillera Oriental</title>
-<description><![CDATA[<p>Es la m&aacute;s larga de las tres cordilleras, su nacimiento es en el <strong>Macizo Colombiano</strong> y se separa de la Cordillera Central por el valle del <strong>R&iacute;o Magdalena</strong>.&nbsp;El promedio de elevaci&oacute;n de la Cordillera Oriental es <strong>2500 m.s.n.m.</strong>;&nbsp;su m&aacute;xima altura se encuentra en la <strong>Sierra Nevada del Cocuy</strong>, en el<strong>&nbsp;</strong>pico<strong> Ritacuba Blanco</strong> con <strong>5410 m.s.n.m.</strong></p>
+<description><![CDATA[<p>Es la m&aacute;s larga de las tres cordilleras, su nacimiento es en el <strong>Macizo Colombiano</strong> y se separa de la Cordillera Central por el valle del <strong>r&iacute;o Magdalena</strong>.&nbsp;El promedio de elevaci&oacute;n de la Cordillera Oriental es de&nbsp;<strong>2.500 m.s.n.m.</strong>;&nbsp;su m&aacute;xima altura se encuentra en la <strong>sierra nevada del Cocuy</strong>, en el<strong>&nbsp;</strong>pico<strong> Ritacuba Blanco</strong> con <strong>5.410 m.s.n.m.</strong></p>
 
-<p>En el <strong>Nudo de Santurb&aacute;n</strong> se bifurca en dos formando la&nbsp;<strong>Serran&iacute;a&nbsp;de Merida</strong> que se extiende hacia Venezuela, y del lado colombiano en la <strong>Serran&iacute;a de los Motilones</strong> y luego la <strong>Serran&iacute;a del Perij&aacute;</strong> que desciende finalmente en la pen&iacute;nsula de la Guajira.&nbsp;Entre las elevaciones y accidentes geogr&aacute;ficos m&aacute;s importantes de esta cordillera est&aacute; el <strong>Nevado del Cocuy</strong>,&nbsp;los <strong>p&aacute;ramos de Chingaza, Sumap&aacute;z, Pisba y Santurb&aacute;n</strong>, el <strong>Ca&ntilde;&oacute;n del R&iacute;o Chicamocha</strong>, y el <strong>altiplano Cundiboyacense</strong>.</p>
+<p>En el <strong>Nudo de Santurb&aacute;n</strong> se bifurca en dos formando la&nbsp;<strong>serran&iacute;a&nbsp;de Merida</strong> que se extiende hacia Venezuela, y del lado colombiano en la <strong>serran&iacute;a de los Motilones</strong> y luego la <strong>serran&iacute;a del Perij&aacute;</strong> que desciende finalmente en la pen&iacute;nsula de la Guajira.&nbsp;Entre las elevaciones y accidentes geogr&aacute;ficos m&aacute;s importantes de esta cordillera est&aacute; el <strong>nevado del Cocuy</strong>,&nbsp;los <strong>p&aacute;ramos de Chingaza, Sumapaz, Pisba y Santurb&aacute;n</strong>, el <strong>ca&ntilde;&oacute;n del r&iacute;o Chicamocha</strong>&nbsp;y el <strong>altiplano cundiboyacense</strong>.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC70_IMG16n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG16a.jpg">
-<title><![CDATA[]]></title>
+<title><![CDATA[Nudo de Santurbán]]></title>
 </image>
 <image path="CS_07_09_REC70_IMG17n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG17a.jpg">
-<title><![CDATA[]]></title>
+<title><![CDATA[Nevado del Cocuy]]></title>
 </image>
 <image path="CS_07_09_REC70_IMG18n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG18a.jpg">
 <title><![CDATA[Páramo de Pisba]]></title>
@@ -97,10 +91,10 @@
 </images>
 </page>
 <page i="0" visible="true" color="">
-<title>Valles Interandinos</title>
+<title>Valles interandinos</title>
 <description><![CDATA[<p>Los valles interandinos son <strong>depresiones tect&oacute;nicas</strong> que separan las cordilleras&nbsp;dando lugar a&nbsp;cuencas estructurales que se han&nbsp;conformado&nbsp;por el curso de los <strong>r&iacute;os Cauca y Magdalena</strong>&nbsp;dividiendo&nbsp;los tres ramales cordilleranos.</p>
 
-<p>Estos valles se van formando en alturas de <strong>5000 m.s.n.m. </strong>al sur de la cordillera,<strong>&nbsp;</strong>en el que se habla del <strong>alto Cauca y alto Magdalena</strong>,&nbsp;y van desendiendo al nivel del mar en el <strong>medio Cauca y Magdalena medio</strong>&nbsp;hasta llegar las sabanas del caribe, donde desaparece el valle en el <strong>bajo Cauca y bajo Magdalena</strong>; all&iacute;&nbsp;el R&iacute;o Cauca se une con el Magdalena y este desemboca en el&nbsp;en el <strong>Mar Caribe.</strong></p>
+<p>Estos valles se van formando en alturas de <strong>5.000 m.s.n.m. </strong>al sur de la cordillera,<strong>&nbsp;</strong>donde&nbsp;se habla del <strong>alto Cauca y alto Magdalena</strong>,&nbsp;y van desendiendo al nivel del mar en el <strong>medio Cauca y Magdalena medio</strong>&nbsp;hasta llegar las sabanas del caribe, donde desaparecen&nbsp;en el <strong>bajo Cauca y bajo Magdalena</strong>; all&iacute;&nbsp;el r&iacute;o Cauca se une con el Magdalena y este desemboca en el&nbsp;en el <strong>mar Caribe.</strong></p>
 
 <p>A trav&eacute;s de su recorrido se van abriendo valles que, de acuerdo a su altitud, presentan ecosistemas particulares&nbsp;sumamente <strong>f&eacute;rtiles </strong>por su composici&oacute;n rocosa rica en <strong>suelos volc&aacute;nicos</strong>, lo que ha favorecido el desarrollo de zonas&nbsp;altamente productivas;&nbsp;sin embargo, en los sectores m&aacute;s bajos predomina&nbsp;la <strong>selva tropical</strong> que est&aacute; <strong>en v&iacute;a de extinci&oacute;n por la ampliaci&oacute;n de la frontera agr&iacute;cola</strong>.</p>
 ]]></description>
@@ -121,9 +115,9 @@
 <pages>
 <page i="0" visible="true" color="">
 <title>Llanura del Orinoco</title>
-<description><![CDATA[<p>Esta gran llanura pertenece al tipo de <strong>relieve plano</strong>, determinado sobre todo por la presencia de sabanas y pastisales -donde se ha desarrollado ampliamenta la ganader&iacute;a-,&nbsp;lagunas y r&iacute;os que la atraviesan de occidente a oriente y desembocan en el <strong>R&iacute;o Orinoco</strong>.</p>
+<description><![CDATA[<p>Esta gran llanura pertenece al tipo de <strong>relieve plano</strong>, determinado sobre todo por la presencia de sabanas y pastisales,&nbsp;donde se ha desarrollado ampliamenta la ganader&iacute;a,&nbsp;y&nbsp;lagunas y r&iacute;os que la atraviesan de occidente a oriente y desembocan en el <strong>r&iacute;o Orinoco</strong>.</p>
 
-<p>Esta llanura se extiende desde la <strong>Cordillera Oriental</strong> y va hasta la frontera con Venezuela, al norte con el <strong>R&iacute;o Arauca</strong> y al oriente con el <strong>R&iacute;o Orinoco;</strong>&nbsp;al sur llega hasta el <strong>R&iacute;o Guaviare</strong> donde empieza la llanura amaz&oacute;nica.</p>
+<p>Esta llanura se extiende desde la <strong>Cordillera Oriental</strong> y va hasta la frontera con Venezuela, al norte con el <strong>r&iacute;o Arauca</strong> y al oriente con el <strong>r&iacute;o Orinoco;</strong>&nbsp;al sur llega hasta el <strong>r&iacute;o Guaviare</strong> donde empieza la llanura amaz&oacute;nica.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC70_IMG24n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG24a.jpg">
@@ -135,7 +129,7 @@
 <title>Llanura amazónica</title>
 <description><![CDATA[<p>La Amazon&iacute;a colombiana es una <strong>llanura selv&aacute;tica</strong> que posee la <strong>mayor diversidad de fauna y flora</strong> del pa&iacute;s. Tambi&eacute;n es rica en yacimientos minerales y en recursos h&iacute;dricos.</p>
 
-<p>La llanura amaz&oacute;nica se extiende por el sur de pa&iacute;s desde la <strong>Cordillera Oriental </strong>hacia el occidente, y est&aacute; limitada por el <strong>R&iacute;o&nbsp;Guaviare</strong>,&nbsp;al norte, y los <strong>r&iacute;os Putumayo y Amazonas</strong> al sur.&nbsp;</p>
+<p>La llanura amaz&oacute;nica se extiende por el sur de pa&iacute;s desde la <strong>Cordillera Oriental </strong>hacia el occidente, y est&aacute; limitada por el <strong>r&iacute;o&nbsp;Guaviare</strong>&nbsp;al norte&nbsp;y los <strong>r&iacute;os Putumayo y Amazonas</strong> al sur.&nbsp;</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC70_IMG25n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG25a.jpg">
@@ -145,9 +139,9 @@
 </page>
 <page i="0" visible="true" color="">
 <title>Sabanas del Caribe</title>
-<description><![CDATA[<p>Las sabanas del Caribe son grandes llanuras bajas, que se ubican en la regi&oacute;n norte del pa&iacute;s. Su caracter&iacute;stica principal es la presencia de grandes ci&eacute;nagas comprendidas entre los cauces de los <strong>R&iacute;os Cauca, Magdalena, Cesar, Sin&uacute; y San Jorge</strong>, que desembocan en el <strong>Mar Caribe</strong>.</p>
+<description><![CDATA[<p>Las sabanas del Caribe son grandes llanuras bajas&nbsp;que se ubican en la regi&oacute;n norte del pa&iacute;s. Su caracter&iacute;stica principal es la presencia de grandes ci&eacute;nagas ubicadas entre los cauces de los <strong>r&iacute;os Cauca, Magdalena, Cesar, Sin&uacute; y San Jorge</strong>, que desembocan en el <strong>mar Caribe</strong>.</p>
 
-<p>As&iacute; mismo esta regi&oacute;n ha sido aprovechada para la ganader&iacute;a porque se ha generado el cultivo de pastos no siempre favorable al ecosistema natural.</p>
+<p>Esta regi&oacute;n ha sido aprovechada para la ganader&iacute;a, lo que&nbsp;ha generado el cultivo de pastos, no siempre favorable al ecosistema natural.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC70_IMG26n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG26a.jpg">
@@ -157,7 +151,7 @@
 </page>
 <page i="0" visible="true" color="">
 <title>Llanura del Pacífico</title>
-<description><![CDATA[<p>Esta llanura es un franja&nbsp;estrecha&nbsp;de llanura baja que va desde la <strong>Cordillera Occidental</strong> hasta el <strong>Oc&eacute;ano Pac&iacute;fico</strong>, y es recorrida por los <strong>r&iacute;os Atrato, San&nbsp;Juan y Pat&iacute;a</strong> que desembocan en el oc&eacute;ano.</p>
+<description><![CDATA[<p>Esta llanura es un franja&nbsp;estrecha&nbsp;de llanura baja que va desde la <strong>Cordillera Occidental</strong> hasta el <strong>oc&eacute;ano Pac&iacute;fico</strong>&nbsp;y es recorrida por los <strong>r&iacute;os Atrato, San&nbsp;Juan y Pat&iacute;a</strong> que desembocan en el oc&eacute;ano.</p>
 
 <p>Su caracter&iacute;stica principal es la presencia de <strong>selva h&uacute;meda tropical</strong> que la hace una <strong>zona biodiversa</strong> y con grandes riquezas minerales.</p>
 ]]></description>
@@ -175,9 +169,9 @@
 <pages>
 <page i="0" visible="true" color="">
 <title>Sierra Nevada de Santa Marta</title>
-<description><![CDATA[<p>La Sierra Nevada de Santa Marta es un <strong>sistema monta&ntilde;oso aislado</strong> de la Cordillera de los Andes y&nbsp;ubicado al norte del pa&iacute;s, sobre la <strong>costa caribe colombiana</strong>.&nbsp;Es considerada la formaci&oacute;n <strong>monta&ntilde;osa costera m&aacute;s alta del mundo</strong> ya que se eleva abruptamente desde el Mar Caribe hasta llegar a los&nbsp;<strong>5775 m.s.n.m.</strong> y es tambi&eacute;n la <strong>monta&ntilde;a m&aacute;s alta del pa&iacute;s</strong>.</p>
+<description><![CDATA[<p>La Sierra Nevada de Santa Marta es un <strong>sistema monta&ntilde;oso aislado</strong> de la Cordillera de los Andes y&nbsp;ubicado al norte del pa&iacute;s, sobre la <strong>costa caribe colombiana</strong>.&nbsp;Es considerada la formaci&oacute;n <strong>monta&ntilde;osa costera m&aacute;s alta del mundo</strong> ya que se eleva abruptamente desde el mar Caribe hasta llegar a los&nbsp;<strong>5.775 m.s.n.m.</strong> y es tambi&eacute;n la <strong>monta&ntilde;a m&aacute;s alta del pa&iacute;s</strong>.</p>
 
-<p>Tiene una apariencia&nbsp;piramidal&nbsp;y cuenta con una superficie aproximada de&nbsp;<strong>17000 Km<sup>2</sup></strong>, que es limitada al nororiente por el <strong>R&iacute;o Rancher&iacute;a</strong>, al suroriente por el <strong>R&iacute;o Cesar</strong>, y al occidente por la&nbsp;planicie del <strong>R&iacute;o Magdalena</strong>,&nbsp;la <strong>Ci&eacute;naga Grande del Magdalena y&nbsp;el Mar Caribe</strong>.</p>
+<p>Tiene una apariencia&nbsp;piramidal&nbsp;y cuenta con una superficie aproximada de&nbsp;<strong>17.000 Km<sup>2</sup></strong>, que es limitada al nororiente por el <strong>r&iacute;o Rancher&iacute;a</strong>, al suroriente por el <strong>r&iacute;o Cesar</strong>&nbsp;y al occidente por la&nbsp;planicie del <strong>r&iacute;o Magdalena</strong>,&nbsp;la <strong>Ci&eacute;naga Grande del Magdalena y&nbsp;el mar Caribe</strong>.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC70_IMG28n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG28a.jpg">
@@ -187,9 +181,9 @@
 </page>
 <page i="0" visible="true" color="">
 <title>Serranía de la Macarena</title>
-<description><![CDATA[<p>La Serran&iacute;a de la Macarena es un <strong>sistema monta&ntilde;oso aislado </strong>que se ubica al suroriente de la Cordillera Oriental, encontrandose en la convegencia de tres ecosistemas, el andino, el amaz&oacute;nico y orinoquense. Pertenece al <strong>Escudo Guayan&eacute;s</strong> y es uno de los <strong>macizos m&aacute;s antiguos del mundo</strong>.</p>
+<description><![CDATA[<p>La serran&iacute;a de la Macarena es un <strong>sistema monta&ntilde;oso aislado </strong>que se ubica al suroriente de la Cordillera Oriental, encontrandose en la convegencia de tres ecosistemas, el andino, el amaz&oacute;nico y orinoquense. Pertenece al <strong>Escudo Guayan&eacute;s</strong> y es uno de los <strong>macizos m&aacute;s antiguos del mundo</strong>.</p>
 
-<p>La superficie apr&oacute;ximada de la serran&iacute;a es de <strong>120 km de largo y 30 de ancho</strong>, conuna altura promedio de <strong>1600 m.s.n.m.&nbsp;</strong>Su ecosistema es particular debido a la presencia de flora y faunas &uacute;nicas en todo el territorio colombiano.</p>
+<p>La superficie apr&oacute;ximada de la serran&iacute;a es de <strong>120 km de largo y 30 de ancho</strong>, con una altura promedio de <strong>1.600 m.s.n.m.&nbsp;</strong>Su ecosistema es particular debido a la presencia de flora y faunas &uacute;nicas en todo el territorio colombiano.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC70_IMG29n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG29a.jpg">
@@ -199,9 +193,9 @@
 </page>
 <page i="0" visible="true" color="">
 <title>Serranía del Baudó</title>
-<description><![CDATA[<p>Este <strong>sistema monta&ntilde;oso aislado</strong>&nbsp;se ubica al occidente de Colombia, separado de la Cordillera Occidental por el valle del <strong>R&iacute;o Atrato</strong>. Al sur est&aacute; limitada por el <strong>R&iacute;o Baud&oacute;</strong>, al occidente emerge paralelamente al <strong>Oc&eacute;ano Pac&iacute;fico</strong> y al norte colinda con la <strong>Serran&iacute;a dle Dari&eacute;n</strong>.</p>
+<description><![CDATA[<p>Este <strong>sistema monta&ntilde;oso aislado</strong>&nbsp;se ubica al occidente de Colombia, separado de la Cordillera Occidental por el valle del <strong>r&iacute;o Atrato</strong>. Al sur est&aacute; limitado por el <strong>r&iacute;o Baud&oacute;</strong>, al occidente emerge paralelamente al <strong>oc&eacute;ano Pac&iacute;fico</strong> y al norte colinda con la <strong>serran&iacute;a del Dari&eacute;n</strong>.</p>
 
-<p>La superficie apr&oacute;ximada de la serran&iacute;a es de <strong>1000 km<sup>2</sup></strong>, y su altura m&aacute;xima se ubica en el <strong>Alto del Buey a 1800 m.s.n.m. </strong>Tiene un ecosistema escencialmente selv&aacute;tico y su suelo es altamente rico en recursos minerales.</p>
+<p>La superficie apr&oacute;ximada de la serran&iacute;a es de <strong>1.000 km<sup>2</sup></strong>&nbsp;y su altura m&aacute;xima se ubica en el <strong>Alto del Buey a 1.800 m.s.n.m. </strong>Tiene un ecosistema escencialmente selv&aacute;tico y su suelo es altamente rico en recursos minerales.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC70_IMG30n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG30a.jpg">
@@ -211,9 +205,9 @@
 </page>
 <page i="0" visible="true" color="">
 <title>Serranía del Darién</title>
-<description><![CDATA[<p>La Serran&iacute;a del Dari&eacute;n es un <strong>sistema monta&ntilde;oso independiente </strong>ubicado en el noroccidente del pa&iacute;s y&nbsp;que ha servido de <strong>frontera natural entre Colombia y Panam&aacute;</strong>, separada de la Cordillera Occidental por el valle del <strong>R&iacute;o Atrato</strong>.</p>
+<description><![CDATA[<p>La serran&iacute;a del Dari&eacute;n es un <strong>sistema monta&ntilde;oso independiente </strong>ubicado en el noroccidente del pa&iacute;s y&nbsp;que ha servido de <strong>frontera natural entre Colombia y Panam&aacute;</strong>; se encuentra&nbsp;separada de la Cordillera Occidental por el valle del <strong>r&iacute;o Atrato</strong>.</p>
 
-<p>Su altura m&aacute;xima se ubica en el <strong>Cerro Tacarcuna a 1875 m.s.n.m.</strong> El ecosistema de la serran&iacute;a es la selva humeda tropical y es <strong>una de la regiones con mayor biodiversidad</strong> del territorio colombiano. Sus suelos son ricos en recursos minerales.</p>
+<p>Su altura m&aacute;xima se ubica en el <strong>cerro Tacarcuna a 1.875 m.s.n.m.</strong> El ecosistema de la serran&iacute;a es la selva humeda tropical y es <strong>una de la regiones con mayor biodiversidad</strong> del territorio colombiano. Sus suelos son ricos en recursos minerales.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC70_IMG31n.jpg" border = "0" pathbig="CS_07_09_REC70_IMG31a.jpg">
