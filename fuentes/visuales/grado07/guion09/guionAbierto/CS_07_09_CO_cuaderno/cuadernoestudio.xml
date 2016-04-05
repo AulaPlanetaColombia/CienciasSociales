@@ -45,7 +45,7 @@ el departamento de Nariño.</p>
 todo el año, con dos épocas de máximas temperaturas en junio y diciembre,
 y dos épocas de lluvias en marzo y septiembre. Estos fenómenos son
 variables de acuerdo con factores como la altitud y los vientos.</p>
-<imagen ampliable="no" src="CS_07_09_CO_IMG01_small.jpg">
+<imagen src="CS_07_09_CO_IMG01_small.jpg">
 <p>Colombia posee una posición geográfica estratégica como punto de
 comunicación terrestre, marítima y aérea mundial, así como para la
 geopolítica internacional.</p>
@@ -81,6 +81,7 @@ directa de las actividades económicas, políticas y culturales.</p>
 físico que no ha sido impactado o transformado por la acción del ser
 humano.</p>
 <imagen src="CS_07_09_CO_IMG02_small.jpg">
+<p>Ajustar pie de foto</p>
 <p>Pocos paisajes reúnen la belleza, misterios y majestuosidad como
 la <negrita>ensenada</negrita> de Utría. El <negrita>Parque Nacional
 Ensenada de Utría</negrita> se encuentra ubicado en la costa norte
@@ -182,7 +183,7 @@ depositando grandes cantidades de sedimentos en la cuenca occidental
 y al finalizar esta era se produce un fuerte levantamiento que origina
 la formación de la sierra de la Macarena, la cordillera Central y
 las prolongaciones de la sierra nevada de Santa Marta y los montes
-de la Guajira.</p>
+de la Guajira.</p><?Pub Caret 456?>
 <p>Al finalizar el <negrita>Mesozoico</negrita> se produce el levantamiento
 de la cordillera Occidental, y a mediados del <negrita>Cenozoico</negrita
 > se forma la cordillera Oriental entre el escudo Guayanés y la cordillera
@@ -198,6 +199,7 @@ del actual relieve de Colombia. Se destaca en este periodo la acción
 de los glaciares que cubren las cimas de las altas montañas y su posterior
 deshielo, hecho que produjo valles y lagos de origen glacial.</p>
 <imagen src="CS_07_09_CO_IMG05_small.jpg">
+<p>Ajustar pie de foto</p>
 <p>Mapa oficial del Ministerio de Minas y Petróleo.</p>
 </imagen>
 <p>Colombia está situada en la esquina noroccidental de la placa Sudamericana,
@@ -238,7 +240,7 @@ los explora y utiliza para su supervivencia y desarrollo económico
 y cultural<enlace
 destino="http://geoportal.igac.gov.co/mapas_de_colombia/IGAC/Tematicos2012/MapaFisico.pdf"
 > [VER]</enlace>.</p>
-<imagen ampliable="no" src="CS_07_09_CO_IMG07_small.jpg">
+<imagen src="CS_07_09_CO_IMG07_small.jpg">
 <p>El relieve colombiano define unidades o regiones costeras, de llanuras,
 valles y montañas.</p>
 </imagen>
@@ -287,7 +289,7 @@ antioqueño.</p>
 <tr>
 <td>2. Sector de sabana</td>
 <td>Costa amplia de playas, sabanas y cocoteros.</td>
-<td>Punta Arboleto, golfo de Morrosquillo, Punta de San Bernardo,
+<td>Punta Arboletes, golfo de Morrosquillo, Punta de San Bernardo,
 bahía de Barbacoas, isla Tierra Bomba y bahía de Cartagena.</td>
 </tr>
 <tr>
@@ -349,13 +351,13 @@ id="S3_CS_07_09_CO_2E6ED034F7BD4A18BA73A79B8184DFD3">
 <seccion3Titulo>La llanura del Pacífico</seccion3Titulo>
 <seccion3Texto>
 <p>La <negrita>llanura del Pacífico</negrita> se extiende desde el
-suroccidente hasta el noroccidente del país y al occidente de la cordillera
-Occidental, interpuesta entre la cordillera Occidental al oriente
-y la serranía del Darién (frontera con Panamá) y la serranía del Baudó.
-Es una franja relativamente angosta de unos 50 km<superindice>2</superindice
->. Su suelo es de formación sedimentaria de origen marino y fluvial,
-cubierto por una capa vegetal copiosa (selvática) producto de las
-altas temperaturas y abundantes precipitaciones.</p>
+suroccidente hasta el noroccidente del país, interpuesta entre la
+cordillera Occidental al oriente y la serranía del Darién (frontera
+con Panamá) y la serranía del Baudó. Es una franja relativamente angosta
+de unos 50 km<superindice>2</superindice>. Su suelo es de formación
+sedimentaria de origen marino y fluvial, cubierto por una capa vegetal
+copiosa (selvática) producto de las altas temperaturas y abundantes
+precipitaciones.</p>
 <imagen src="CS_07_09_CO_IMG10_small.jpg">
 <p>Ilustración de la costa del Pacífico colombiano.</p>
 </imagen>
@@ -452,7 +454,7 @@ como la <negrita>Corte Internacional de Justicia (CIJ)</negrita> con
 sede La Haya, Países Bajos<enlace
 destino="http://www.cancilleria.gov.co/content/el-caso-nicaragua-vs-colombia-relativo-al-archipi%C3%A9lago-de-san-andr%C3%A9s"
 > [VER]</enlace>.</p>
-<imagen ampliable="no" src="CS_07_09_CO_IMG12_small.jpg">
+<imagen src="CS_07_09_CO_IMG12_small.jpg">
 <p>El <negrita>archipiélago</negrita> de <negrita>San Andrés y Providencia</negrita
 > es un lugar estratégico para Colombia en el campo turístico, económico
 y ecológico.</p>
@@ -525,7 +527,7 @@ y la visita que anualmente hace la <negrita>ballena yubarta o jorobada</negrita
 </imagen>
 <p>La <negrita>isla de Malpelo</negrita> es la cúspide de una <negrita
 >cordillera volcánica</negrita> llamada <negrita>“Dorsal de Malpelo”</negrita
->. Se encuentra ubicada a 490 km. de la costa de Buenaventura y allí
+>. Se encuentra ubicada a 490 km de la costa de Buenaventura y allí
 se distinguen claramente dos ecosistemas: uno terrestre y otro marino.</p>
 <p>Está rodeada de 11 islotes de tamaño pequeño, que presentan <negrita
 >acantilados</negrita> que se extienden hasta los 180 metros de profundidad.
@@ -621,12 +623,12 @@ oriente; más adelante, desde el <negrita>macizo Colombiano</negrita
 > se levanta la cordillera Oriental.</p>
 <p>El nudo de los Pastos y las cordilleras iniciaron su levantamiento
 a partir del periodo <negrita>Cretáceo</negrita> y terminan su proceso
-en el <negrita>Terciario</negrita> o <negrita>Cenozoico</negrita>,
+en el <negrita>Terciario</negrita> o <negrita>Cenozoico</negrita>;
 paralelamente se presenta el hundimiento de los sectores periféricos,
 como los valles interandinos y sus cuencas hidrográficas, junto con
 la formación de los <negrita>glaciares</negrita> que cubren las regiones
 altas de las cordilleras (encima de los 3000 metros). Hace aproximadamente
-20 000 años empezó el deshielo.</p>
+20 000 años empezó el deshielo de estos.</p>
 <p>Las formaciones recientes (del Cretáceo y el Cenozoico) se consideran
 de alta sismicidad y activación volcánica.</p>
 <p>La <negrita>cordillera Occidental</negrita> se desprende de la
@@ -649,13 +651,6 @@ depresiones que la atraviesan.</p>
 <imagen src="CS_07_09_CO_IMG21_small.jpg">
 <p>Los farallones de Cali son un plegamiento de formaciones rocosas.</p>
 </imagen>
-<imagen src="CS_07_09_CO_IMG22_small.jpg">
-<p>El <negrita>volcán nevado del Ruiz</negrita> está ubicado entre
-los departamentos de Caldas y Tolima. Es el volcán más septentrional
-del c<negrita>inturón volcánico de los Andes</negrita> y ha estado
-activo durante cerca de dos millones de años, desde el <negrita>Pleistoceno
-temprano</negrita> o el <negrita>Plioceno tardío</negrita>.</p>
-</imagen>
 <p>La <negrita>cordillera Central</negrita> es una prolongación septentrional
 de la cordillera Real de Ecuador, y desde la frontera colombo-ecuatoriana
 hasta el <negrita>macizo de Almaguer</negrita> constituye la <negrita
@@ -668,12 +663,20 @@ nevados permanentes, como los <negrita>volcanes nevados del Ruiz</negrita
 > (5400 m), <negrita>Santa Isabel</negrita> (4900 m), <negrita>Tolima</negrita
 > (5200 m) <negrita>Huila</negrita> (5365 m) y <negrita>Pan de Azúcar</negrita
 > (sierra de los Coconucos, 5000 m).</p>
+<imagen src="CS_07_09_CO_IMG22_small.jpg">
+<p>El <negrita>volcán nevado del Ruiz</negrita> está ubicado entre
+los departamentos de Caldas y Tolima. Es el volcán más septentrional
+del c<negrita>inturón volcánico de los Andes</negrita> y ha estado
+activo durante cerca de dos millones de años, desde el <negrita>Pleistoceno
+temprano</negrita> o el <negrita>Plioceno tardío</negrita>.</p>
+</imagen>
 <p>Al norte sobre el área antioqueña, la cordillera pierde altura
 por la depresión de varios ramales en forma de abanico, terminando
 en la <negrita>serranía de San Lucas</negrita> en el departamento
 de Bolívar.</p>
 <imagen src="CS_07_09_CO_IMG23_small.jpg">
-<p>Mapa de la <negrita>serranía de San Lucas</negrita>.</p>
+<p>Serranía de San Lucas vista desde el río Magdalena, a la altura
+de la Gamarra</p>
 </imagen>
 <p>El <negrita>valle del río Cauca</negrita> está formado por una
 serie de fosas tectónicas e interpuestas por las cordilleras Central
@@ -688,6 +691,7 @@ el alto valle del río Patía, que corresponde a otra fosa tectónica
 corta hacia el occidente la cordillera Occidental, en la denominada <negrita
 >Hoz de Minamá</negrita> o <negrita>Quiebra del Patía</negrita>.</p>
 <imagen src="CS_07_09_CO_IMG24_small.jpg">
+<p>Ajustar pie de foto</p>
 <p>El <negrita>río Cauca</negrita> nace en el macizo Colombiano a
 poca distancia de la <negrita>laguna El Buey</negrita>.</p>
 </imagen>
@@ -767,7 +771,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso100&amp;IdRecurso=RES-659C13
 <seccion1 id="S1_CS_07_09_CO_0A19B71C1A6B42898A39FF5C4D61F8FE">
 <seccion1Titulo>La hidrografía de Colombia</seccion1Titulo>
 <seccion1Texto>
-<p>Por las forma del relieve, Colombia es un país rico en recursos
+<p>Por las formas del relieve, Colombia es un país rico en recursos
 hídricos.</p>
 <p>A grandes rasgos, los ríos de Colombia se pueden agrupar en función
 del lugar donde desembocan. Las cinco grandes masas de agua en donde
@@ -849,7 +853,7 @@ hidrográficas o macrocuencas:</p>
 <listaElemento>La <negrita>vertiente</negrita> del Catatumbo.</listaElemento>
 <listaElemento>La <negrita>vertiente</negrita> del Amazonas.</listaElemento>
 </listaSinNumerar>
-<imagen ampliable="no" src="CS_07_09_CO_IMG27_small.jpg">
+<imagen src="CS_07_09_CO_IMG27_small.jpg">
 <p>El mapa muestra la riqueza <negrita>hídrica</negrita> de Colombia.</p>
 </imagen>
 <seccion3 id="S3_CS_07_09_CO_22A244BD28EB458E9F3C2DF5C79F40B9">
@@ -889,7 +893,7 @@ y la producción hidroeléctrica. Los principales ríos son el <negrita
 > y el <negrita>Cesar</negrita>.</p>
 <imagen ampliable="no" src="CS_07_09_CO_IMG28_small.jpg">
 <p>El río <negrita>Ranchería</negrita> es una arteria fluvial importante
-para el departamento de <negrita>La Guajira</negrita>.</p><?Pub Caret -2?>
+para el departamento de <negrita>La Guajira</negrita>.</p>
 </imagen>
 <p>La <negrita>cuenca del río Sinú</negrita> ocupa el tercer lugar
 en importancia, después del Magdalena y el Cauca en la vertiente del
@@ -898,6 +902,7 @@ más fértiles de Colombia. Nace en el <negrita>nudo de Paramillo</negrita
 > y se divide en dos brazos: el <negrita>Lara</negrita> y el <negrita
 >caño Burge</negrita>, que se unen en el municipio de Lorica.</p>
 <imagen src="CS_07_09_CO_IMG29_small.jpg">
+<p>Ajustar pie de foto</p>
 <p><negrita>Desembocadura</negrita> del río <negrita>Sinú</negrita
 >.</p>
 </imagen>
@@ -936,6 +941,7 @@ cuenca desembocan directamente al Pacífico, como los ríos <negrita
 >Nuquí</negrita>, <negrita>Juradó</negrita> y <negrita>Valle</negrita
 >.</p>
 <imagen src="CS_07_09_CO_IMG30_small.jpg">
+<p>Ajustar pie de foto</p>
 <p>El río <negrita>Baudó</negrita> atraviesa algunos municipios del
 departamento del Chocó, como el Alto Baudó y el Bajo Baudó.</p>
 </imagen>
@@ -974,10 +980,11 @@ id="S3_CS_07_09_CO_22A244BD28EB458E9F3C2DF5C79F53A6">
 <seccion3Titulo>La vertiente del Amazonas</seccion3Titulo>
 <seccion3Texto>
 <p>Es la mayor vertiente del mundo y a Colombia le corresponde cerca
-de 332 000 km2, y en ella están los ríos más largos del país. Los
-ríos de esta vertiente tienen un caudal considerable, pero su navegación
-se dificulta porque el suelo presenta desniveles que forman <negrita
->raudales</negrita> o <negrita>rápidos</negrita>.</p>
+de 332 000 km<superindice>2</superindice>, y en ella están los ríos
+más largos del país. Los ríos de esta vertiente tienen un caudal considerable,
+pero su navegación se dificulta porque el suelo presenta desniveles
+que forman <negrita>raudales</negrita> o <negrita>rápidos</negrita
+>.</p>
 <p>Los ríos bañan la región selvática de la Amazonia colombiana, reciben
 aportes de diferentes caños que forman ciénagas y pantanos a lo largo
 de todo su curso. Los principales ríos son <negrita>Putumayo</negrita
@@ -1053,15 +1060,22 @@ de <negrita>Zapatosa</negrita>, <negrita>ciénaga Grande de Santa Marta</negrita
 <p>Los embalses, o también llamados lagos artificiales o represas,
 son depósitos de agua estancada artificialmente proveniente del caudal
 de uno o varios ríos que confluyen. Entre las más importantes para
-la producción de energía eléctrica del país están: <negrita>La Regadera</negrita
->, <negrita>Muña</negrita>, <negrita>Neusa</negrita>, <negrita>Sisga</negrita
-> y <negrita>Tominé</negrita> en Cundinamarca, que además surten de
-agua a Bogotá. En el Valle del Cauca: <negrita>Calima</negrita> y <negrita
->Anchicayá</negrita>; en Antioquia: <negrita>Riogrande</negrita> y <negrita
->Guadalupe</negrita>; en el Tolima: <negrita>Prado</negrita>; en el
-Huila: <negrita>Betania</negrita> y <negrita>El Quimbo</negrita>;
-en Atlántico: <negrita>Guájaro</negrita>; en Boyacá: <negrita>Chivor</negrita
-> o Santa María, que es la mayor de todas.</p>
+la producción de energía eléctrica del país están:</p>
+<listaSinNumerar>
+<listaElemento><negrita>La Regadera</negrita>, <negrita>Muña</negrita
+>, <negrita>Neusa</negrita>, <negrita>Sisga</negrita> y <negrita>Tominé</negrita
+> en Cundinamarca, que además surten de agua a Bogotá.</listaElemento>
+<listaElemento>En el Valle del Cauca: <negrita>Calima</negrita> y <negrita
+>Anchicayá</negrita>.</listaElemento>
+<listaElemento>En Antioquia: <negrita>Riogrande</negrita> y <negrita
+>Guadalupe</negrita>.</listaElemento>
+<listaElemento>En el Tolima: <negrita>Prado</negrita>.</listaElemento>
+<listaElemento>En el Huila: <negrita>Betania</negrita> y <negrita
+>El Quimbo</negrita>.</listaElemento>
+<listaElemento>En Atlántico: <negrita>Guájaro</negrita>.</listaElemento>
+<listaElemento>En Boyacá: <negrita>Chivor</negrita> o Santa María,
+que es la mayor de todas.</listaElemento>
+</listaSinNumerar>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_07_09_CO_Recurso130&amp;IdRecurso=RES-41ADFDEA46CD4307BA7030BB6AC8FB64"
@@ -1122,7 +1136,7 @@ manifiesta en forma de lluvia, granizo o pedrisco, nieve y condensación
 de nieblas.</p>
 <p>La cuantía anual de precipitaciones varía desde un mínimo de 150
 mm registrado en San José de bahía Honda, en el departamento de La
-Guajira, hasta 13 600 mm registrados en Tutunendó en el Chocó, lo
+Guajira, hasta 13 600 mm registrados en Tutunendo en el Chocó, lo
 que hace de este departamento una de las zonas más lluviosas del mundo.</p>
 <p>La periodicidad de las lluvias está determinada por la posición
 del país en la <negrita>Zona de Confluencia Intertropical (ZCI)</negrita
