@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="5" clase="a" aprid="m5a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Identifica las diferencias de los tipos de Estados</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Lee las preguntas y responde si los enunciados propuestos son verdaderos o falsos.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[El feudalismo fue la forma del Estado medieval en la que el señor feudal asumía el poder un un territorio.]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_10_REC90_IMG01p.png]]></imagen>
+      <ampliacion><![CDATA[CS_07_10_REC90_IMG01g.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="1"/>
+        <respuesta contestacion="Falso" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Las monarquías feudales se dieron gracias al reinado de varios señores feudales en un solo territorio, para coordinar el control territorial.]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_10_REC90_IMG02p.png]]></imagen>
+      <ampliacion><![CDATA[CS_07_10_REC90_IMG02g.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="0"/>
+        <respuesta contestacion="Falso" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Las guerras de la Baja Edad Media generaron las monarquías nacionales, unificando territorios bajo el poder del rey quien era controlado por la asamblea nacional.]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_10_REC90_IMG03p.png]]></imagen>
+      <ampliacion><![CDATA[CS_07_10_REC90_IMG03g.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="1"/>
+        <respuesta contestacion="Falso" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Durante el siglo XVIII se adoptó en Europa la monarquía absoluta, basada en la idea del derecho divino del monarca, quien encarnaba en su figura todos los poderes del Estado.]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_10_REC90_IMG04p.png]]></imagen>
+      <ampliacion><![CDATA[CS_07_10_REC90_IMG04g.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="1"/>
+        <respuesta contestacion="Falso" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La República es una forma de Estado en la que el monarca adopta los ideales de la Ilustración para que el pueblo se sienta más representado.]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_10_REC90_IMG05p.png]]></imagen>
+      <ampliacion><![CDATA[CS_07_10_REC90_IMG05g.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="0"/>
+        <respuesta contestacion="Falso" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La unión de diferentes Estados nacionales amparados en una misma Constitución, pero conservando autonomía legislativa y judicial, se conoce como Estado federal.]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_10_REC90_IMG06p.png]]></imagen>
+      <ampliacion><![CDATA[CS_07_10_REC90_IMG06g.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="1"/>
+        <respuesta contestacion="Falso" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El Estado centralista se desarrolla en un territorio unificado con un poder centralizado, una misma Constitución y compartiendo el mismo sistema legislativo y judicial.]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_10_REC90_IMG07p.png]]></imagen>
+      <ampliacion><![CDATA[CS_07_10_REC90_IMG07g.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="1"/>
+        <respuesta contestacion="Falso" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Los Estados totalitarios se basan en un conjunto de leyes que permiten la participación plena del pueblo en las decisiones gubernamentales. ]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_10_REC90_IMG08p.png]]></imagen>
+      <ampliacion><![CDATA[CS_07_10_REC90_IMG08g.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="0"/>
+        <respuesta contestacion="Falso" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La dictadura es una forma de Estado en la que el poder del presidente se apoya en un parlamento que, autoritariamente, impone la ley al pueblo que lo elige.]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_10_REC90_IMG09p.png]]></imagen>
+      <ampliacion><![CDATA[CS_07_10_REC90_IMG09g.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="0"/>
+        <respuesta contestacion="Falso" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El Estado democrático debe basarse en el concepto del Estado Social de Derecho, que sostiene la soberanía del pueblo mientras el Estado se encarga de garantizar sus derechos.]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[CS_07_10_REC90_IMG10p.png]]></imagen>
+      <ampliacion><![CDATA[CS_07_10_REC90_IMG10g.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="1"/>
+        <respuesta contestacion="Falso" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>
