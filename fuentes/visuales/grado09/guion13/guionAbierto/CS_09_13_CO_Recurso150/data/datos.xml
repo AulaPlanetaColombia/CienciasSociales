@@ -1,79 +1,105 @@
-﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f10b">
-<main mode="f10b" title="Conflicto y Derechos Humanos en Colombia">
-<tf><![CDATA[<p>&nbsp;</p>
-
-<p style="text-align: justify;"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Desplazadoscol01.jpg" style="height:300px; width:400px" /></p>]]></tf>
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f10b">
+<main mode="f10b" title="Conflicto y derechos humanos en Colombia">
+<tf><![CDATA[<p><img alt="" src="data/imagenes/cs_09_13_co_rec150_img01.jpg" style="height:364px; width:563px" /></p>
+]]></tf>
 </main>
-<selection title="Algunos conceptos importantes" title2="Léxico " bkclass="slideLexico">
-	<definition>
-		<title>Derechos humanos</title>
-		<def><![CDATA[<p>Los derechos humanos se refieren a las <strong>garant&iacute;as </strong>o derechos inherentes a la condici&oacute;n humana; son universales, pues est&aacute;n&nbsp;<strong>reconocidos </strong>en <strong>todo el mundo</strong> y est&aacute;n por encima de cualquier disposici&oacute;n pol&iacute;tica y no hacen distinci&oacute;n por raza, creencia, g&eacute;nero o cualquier otra condici&oacute;n.&nbsp;</p>]]></def>
-	</definition>
-	<definition>
-		<title>Sociedad civil</title>
-		<def><![CDATA[<p>El t&eacute;rmino sociedad civil hace referencia a <strong>todas las personas</strong> o ciudadanos que conforman una sociedad y que no hacen parte de la estructura gubernamental. &nbsp;La sociedad civil est&aacute; conformada tanto&nbsp;por las instituciones <strong>defienden </strong>los <strong>derechos pol&iacute;ticos</strong>, <strong>sociales</strong> e <strong>individuales </strong>como por los <strong>movimientos sociales</strong> que la dinamizan.&nbsp;</p>]]></def>
-	</definition>
-	<definition>
-		<title>Guerra civil</title>
-		<def><![CDATA[<p>Una guerra civil&nbsp;es un <strong>conflicto </strong>o enfrentamiento <strong>b&eacute;lico </strong>que se desarrolla al <strong>interior </strong>de un <strong>pa&iacute;s </strong>en donde por lo general se enfrentan ideolog&iacute;as pol&iacute;ticas contrarias defendidas por partidos o grupos armados.</p>]]></def>
-	</definition>
-	<definition>
-		<title>Nación</title>
-		<def><![CDATA[<p>El concepto naci&oacute;n&nbsp;hace referencia al <strong>grupo de personas</strong> que est&aacute;n establecidas en un <strong>territorio</strong>, que comparten una <strong>tradici&oacute;n hist&oacute;rica y cultural</strong>, y que legitimiza la soberan&iacute;a del Estado.</p>]]></def>
-	</definition>
-</selection>
 <presentation title="Colombia, identidad y derechos" title2="Contexto" buttons="false" bkclass="">
 	<definition>
 		<title></title>
-		<def><![CDATA[<p>El conflicto ha sido un factor&nbsp;siempre presente en la historia de Colombia. Ha influido de diferentes y notables maneras en en intento de consolidaci&oacute;n de la&nbsp;<strong>naci&oacute;n Colombiana</strong>.</p>
+		<def><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">El conflicto es un factor que siempre ha estado presente en la historia de Colombia. Ha influido de diferentes y notables maneras en el&nbsp;intento de consolidaci&oacute;n de la&nbsp;<strong>naci&oacute;n colombiana</strong>.</span></span></p>
 
-<p>Para reconocernos como un pueblo&nbsp;y establecer una&nbsp;<strong>identidad nacional</strong>&nbsp;se hace necesario reconocer las implicaciones del&nbsp;<strong>conflicto pol&iacute;tico</strong>&nbsp;y las consecuencias&nbsp;que &eacute;ste ha&nbsp;tra&iacute;do para la&nbsp;<strong>sociedad civil</strong>&nbsp;en t&eacute;rminos, sociales, econ&oacute;micos y culturales.</p>
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Para reconocernos como un pueblo&nbsp;y establecer una&nbsp;<strong>identidad nacional</strong>&nbsp;se hace necesario considerar las implicaciones del&nbsp;<strong>conflicto pol&iacute;tico</strong>&nbsp;y las consecuencias&nbsp;que este ha&nbsp;tra&iacute;do para la&nbsp;<strong>sociedad civil</strong>&nbsp;en t&eacute;rminos&nbsp;sociales, econ&oacute;micos y culturales.</span></span></p>
 
-<p>En este sentido, para conocer la situaci&oacute;n actual de los <strong>Derechos Humanos</strong>, se hace necesario revisar la historia del pa&iacute;s con miras a analizar y entender las causas de las principales violaciones a los mismos, para as&iacute;,&nbsp;forjar una perspectiva que garantice su reconocimiento en el presente y en el futuro.</p>]]></def>
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">En este sentido, para conocer la situaci&oacute;n actual de los <strong>derechos humanos</strong>, se hace necesario revisar la historia del pa&iacute;s con miras a analizar y entender las causas de las principales violaciones a estos derechos, para as&iacute;&nbsp;forjar una perspectiva que garantice su reconocimiento en el presente y en el futuro.</span></span></p>]]></def>
 	</definition>
 	<definition>
 		<title>¿Qué garantiza el cumplimiento de derechos?</title>
-		<def><![CDATA[<p><strong>&iquest;Qu&eacute; garantiza el cumplimiento de derechos en Colombia?</strong></p>
+		<def><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>&iquest;Qu&eacute; garantiza el cumplimiento de derechos en Colombia?</strong></span></span></p>
 
-<p>1. La <strong>Constituci&oacute;n Pol&iacute;tica</strong> de Colombia de 1991&nbsp;guarda una estrecha relaci&oacute;n con el planteamiento de los <strong>Derechos Humanos</strong>. En sus&nbsp;cap&iacute;tulos I, II y III se plantean los <strong>derechos fundamentales</strong> (o de primera generaci&oacute;n),&nbsp;<strong>derechos sociales, econ&oacute;micos y culturales</strong> (o de segunda generaci&oacute;n)y <strong>los derechos colectivos y ambientales</strong> (o de tercera generaci&oacute;n), lo que establece la obligaci&oacute;n del <strong>Estado </strong>de <strong>proteger los derechos y libertades</strong> de la poblaci&oacute;n; y por otra parte, tambi&eacute;n se establecen <strong>mecanismos de protecci&oacute;n</strong> y aplicaci&oacute;n de derechos como la acci&oacute;n de tutela y la acci&oacute;n de cumplimiento.</p>
-
-<p>2. La <strong>educaci&oacute;n </strong>y el <strong>reconocimiento </strong>que todas las personas hagamos&nbsp;de los Derechos Humanos como un referente de convivencia. Si todos conoces estos derechos y sabemos en qu&eacute; consiste el respeto a los mismos, lograremos vivir en una sociedad m&aacute;s armoniosa.</p>]]></def>
+<ol>
+	<li>
+	<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">La <strong>Constituci&oacute;n Pol&iacute;tica</strong> de Colombia de 1991&nbsp;guarda una estrecha relaci&oacute;n con el planteamiento de los <strong>derechos humanos</strong>. En sus&nbsp;cap&iacute;tulos I, II y III se plantean los <strong>derechos fundamentales</strong> (o de primera generaci&oacute;n),&nbsp;<strong>derechos sociales, econ&oacute;micos y culturales</strong> (o de segunda generaci&oacute;n)y <strong>los derechos colectivos y ambientales</strong> (o de tercera generaci&oacute;n), lo que establece la obligaci&oacute;n del <strong>Estado </strong>de <strong>proteger los derechos y libertades</strong> de la poblaci&oacute;n; y por otra parte, tambi&eacute;n se establecen <strong>mecanismos de protecci&oacute;n</strong> y aplicaci&oacute;n de derechos, como la acci&oacute;n de tutela y la acci&oacute;n de cumplimiento.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">La <strong>educaci&oacute;n </strong>y el <strong>reconocimiento </strong>que todas las personas hagamos&nbsp;de los derechos humanos como un referente de convivencia. Si todos conocen&nbsp;estos derechos y sabemos en qu&eacute; consiste el respeto a estos, lograremos vivir en una sociedad m&aacute;s armoniosa.</span></span></p>
+	</li>
+</ol>]]></def>
 	</definition>
 </presentation>
-<presentation title="" title2="Comprensión" buttons="true" bkclass="slideComprension">
+<presentation title="" title2="Comprensión" buttons="false" bkclass="slideComprension">
 	<definition>
-		<title>Contexto</title>
-		<def><![CDATA[<p><strong>Implicaciones del conflicto en el cumplimiento de Derechos</strong></p>
+		<title></title>
+		<def><![CDATA[<p style="text-align: center;"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Implicaciones del conflicto en el cumplimiento de derechos</strong></span></span></p>
 
-<p>A pesar que Colombia adhiri&oacute; a&nbsp;la promulgaci&oacute;n de los <strong>Derechos Humanos desde 1948</strong>,&nbsp;su reconocimiento jur&iacute;dico&nbsp;no ha sido suficiente, ya que la presencia del <strong>conflicto armado</strong>, ha hecho que su&nbsp;respeto y cumplimiento&nbsp;se vea afectado, con graves repercusiones&nbsp;en el desarrollo social, econ&oacute;mico y cultural del pa&iacute;s. Un ejemplo de ello es el <strong>desplazamiento</strong> forzado de poblaciones campesinas, que huyendo del conflicto o por presi&oacute;n del mismo, se ven obligadas a dejar sus posesiones, a alejarse de sus familias y a alterar sus formas y nivel de vida.&nbsp;</p>]]></def>
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">A pesar de que Colombia adhiri&oacute; a&nbsp;la Promulgaci&oacute;n de los <strong>derechos humanos desde 1948</strong>,&nbsp;su reconocimiento jur&iacute;dico&nbsp;no ha sido suficiente, ya que la presencia del <strong>conflicto armado</strong>&nbsp;ha hecho que su&nbsp;respeto y cumplimiento&nbsp;se vea afectado, con graves repercusiones&nbsp;en el desarrollo social, econ&oacute;mico y cultural del pa&iacute;s. Un ejemplo de ello es el <strong>desplazamiento</strong> forzado de poblaciones campesinas, que huyendo del conflicto o por presi&oacute;n de este, se ven obligadas a dejar sus posesiones, a alejarse de sus familias y a alterar sus formas y nivel de vida.&nbsp;</span></span></p>]]></def>
+	</definition>
+</presentation>
+<selection title="" title2="Léxico " bkclass="slideLexico">
+	<definition>
+		<title>Derechos humanos</title>
+		<def><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Derechos humanos</strong>:<br />
+Los derechos humanos se refieren a las <strong>garant&iacute;as </strong>o derechos inherentes a la condici&oacute;n humana; son universales, pues est&aacute;n&nbsp;<strong>reconocidos </strong>en <strong>todo el mundo</strong> y est&aacute;n por encima de cualquier disposici&oacute;n pol&iacute;tica y no hacen distinci&oacute;n por raza, creencia, g&eacute;nero o cualquier otra condici&oacute;n.&nbsp;</span></span></p>]]></def>
 	</definition>
 	<definition>
-		<title>Investiga</title>
-		<def><![CDATA[<p>&nbsp;</p>
+		<title>Sociedad civil</title>
+		<def><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Sociedad civil</strong>:<br />
+el t&eacute;rmino sociedad civil hace referencia a <strong>todas las personas</strong> o ciudadanos que conforman una sociedad y que no forman parte de la&nbsp;estructura&nbsp;gubernamental.&nbsp;La sociedad civil est&aacute; constituida&nbsp;tanto&nbsp;por las instituciones que&nbsp;<strong>defienden </strong>los <strong>derechos pol&iacute;ticos</strong>, <strong>sociales</strong> e <strong>individuales</strong>,<strong>&nbsp;</strong>como por los <strong>movimientos sociales</strong> que la dinamizan.&nbsp;</span></span></p>]]></def>
+	</definition>
+	<definition>
+		<title>Guerra civil</title>
+		<def><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Guerra civil</strong>:<br />
+una guerra civil&nbsp;es un <strong>conflicto </strong>o enfrentamiento <strong>b&eacute;lico </strong>que se desarrolla en&nbsp;un <strong>pa&iacute;s</strong>,<strong>&nbsp;</strong>en donde por lo general se enfrentan ideolog&iacute;as pol&iacute;ticas contrarias defendidas por partidos o grupos armados.</span></span></p>]]></def>
+	</definition>
+	<definition>
+		<title>Nación</title>
+		<def><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><strong>Naci&oacute;n</strong>:<br />
+el concepto naci&oacute;n&nbsp;hace referencia al <strong>grupo de personas</strong> que est&aacute;n establecidas en un <strong>territorio</strong>, que comparten una <strong>tradici&oacute;n hist&oacute;rica y cultural</strong>, y que legitimiza la soberan&iacute;a del Estado.</span></span></p>]]></def>
+	</definition>
+</selection>
+<presentation title="" title2="Investiga" buttons="false" bkclass="slideInvestiga">
+	<definition>
+		<title></title>
+		<def><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><span style="color:#FF8C00"><span style="font-size:32px">Investiga</span></span></span></span><br />
+&nbsp;</p>
 
-<p><span style="font-family:verdana,sans-serif; font-size:13.5pt">&iquest;C&oacute;mo ha afectado el conflicto armado el reconocimiento y cumplimiento de los Derechos Humanos en Colombia?</span></p>
+<ul>
+	<li>
+	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">&iquest;C&oacute;mo ha afectado el conflicto armado el reconocimiento y cumplimiento de los derechos humanos en Colombia?</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Es suficiente el reconocimiento jur&iacute;dico por parte del Estado para garantizar el cumplimiento de los derechos humanos?</span></span></p>
+	</li>
+</ul>]]></def>
+	</definition>
+	<definition>
+		<title></title>
+		<def><![CDATA[<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif"><span style="color:#FF8C00"><span style="font-size:32px">Investiga</span></span></span></span><br />
+&nbsp;</p>
 
-<p><span style="font-family:verdana,sans-serif; font-size:13.5pt">&iquest;Es suficiente el reconocimiento jur&iacute;dico por parte del Estado para garantizar el cumplimiento de los Derechos Humanos?</span></p>
-
-<p><span style="font-family:verdana,sans-serif; font-size:13.5pt">&iquest;Pueden los Derechos Humanos estar sometidos o sujetos de cumplimiento a las particularidades de los Estados?</span></p>
-
-<p><span style="font-family:verdana,sans-serif; font-size:13.5pt">&iquest;Son suficientes los mecanismos de protecci&oacute;n establecidos en la Constituci&oacute;n Pol&iacute;tica para dar cumplimiento a los Derechos Humanos?</span></p>]]></def>
+<ul>
+	<li>
+	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Pueden los derechos humanos estar sometidos o sujetos de cumplimiento a las particularidades de los Estados?</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Son suficientes los mecanismos de protecci&oacute;n establecidos en la Constituci&oacute;n Pol&iacute;tica para dar cumplimiento a los derechos humanos?</span></span></p>
+	</li>
+</ul>]]></def>
 	</definition>
 </presentation>
 <masinfo>
-<pantalla1><![CDATA[<p><strong>Los antecedentes</strong></p>
+<pantalla1><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Los antecedentes</strong></span></span></p>
 
-<p>Hablar del&nbsp;<strong>conflicto armado</strong>&nbsp;en Colombia implica remontarse a las din&aacute;micas que se generaron desde el siglo XIX entre los&nbsp;<strong>partidos pol&iacute;ticos tradicionales</strong>, dando lugar a diferentes&nbsp;<strong>guerras civiles</strong>.</p>
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Hablar del&nbsp;<strong>conflicto armado</strong>&nbsp;en Colombia implica remontarse a las din&aacute;micas que se generaron desde el siglo XIX entre los&nbsp;<strong>partidos pol&iacute;ticos tradicionales</strong>, lo que dio&nbsp;lugar a diferentes&nbsp;<strong>guerras civiles</strong>.</span></span></p>
 
-<p>Este conflicto se acentu&oacute; hacia la mitad del siglo XX con el periodo conocido como&nbsp;<strong>La Violencia</strong>, que a su vez dio origen a diferentes&nbsp;<strong>grupos armados</strong>&nbsp;(guerrillas y m&aacute;s adelante paramilitares). Ambos bandos&nbsp;han protagonizado un sinn&uacute;mero de cap&iacute;tulos de violencia y dolor en la historia del pa&iacute;s.</p>
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Este conflicto se acentu&oacute; hacia la mitad del siglo XX en el periodo conocido como <strong>la violencia</strong>, que a su vez dio origen a diferentes&nbsp;<strong>grupos armados</strong>&nbsp;(guerrillas y m&aacute;s adelante paramilitares). Ambos bandos&nbsp;han protagonizado un sinn&uacute;mero de hechos&nbsp;de violencia y dolor en la historia del pa&iacute;s.</span></span></p>
 
 <p>&nbsp;</p>
 ]]></pantalla1>
-<pantalla2><![CDATA[<p><strong>Las consecuencias</strong></p>
+<pantalla2><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Las consecuencias</strong></span></span></p>
 
-<p>El principal y m&aacute;s notable resultado de esta larga confrontaci&oacute;n&nbsp;ha sido la permanente violaci&oacute;n de los&nbsp;<strong>derechos humanos.&nbsp;</strong>Las&nbsp;<strong>v&iacute;ctimas</strong>&nbsp;se cuentan por millones y pertenecen a&nbsp;diferentes sectores de la poblaci&oacute;n.</p>
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">El principal y m&aacute;s notable resultado de esta larga confrontaci&oacute;n&nbsp;ha sido la permanente violaci&oacute;n de los&nbsp;<strong>derechos humanos.&nbsp;</strong>Las&nbsp;<strong>v&iacute;ctimas</strong>&nbsp;se cuentan por millones y pertenecen a&nbsp;diferentes sectores de la poblaci&oacute;n.</span></span></p>
 
-<p>Actualmente,&nbsp;la principal guerrilla del pa&iacute;s (<strong>Farc</strong>), en un recoonocimiento de la inutilidad de esta confrontaci&oacute;n y de las graves consecuencias para la sociedad colombiana, adelanta un <strong>di&aacute;logo </strong>con el <strong>gobierno nacional</strong>, orientado a <strong>firmar el fin del conflicto</strong>.</p>
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Actualmente,&nbsp;la principal guerrilla del pa&iacute;s (<strong>Farc</strong>) y el otro grupo guerrillero (<strong>ELN</strong>), en un reconocimiento de la inutilidad de esta confrontaci&oacute;n y de las graves consecuencias para la sociedad colombiana, adelantan <strong>di&aacute;logos&nbsp;</strong>con el <strong>gobierno nacional</strong>, orientado a <strong>firmar el fin del conflicto</strong>.</span></span></p>
 ]]></pantalla2>
 </masinfo>
 </engine>

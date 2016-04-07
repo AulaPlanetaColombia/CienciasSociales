@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="1" clase="b" aprid="m1b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>La Declaración Universal de los Derechos Humanos, Pactos y Protocolos</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M1B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Relaciona los términos sobre La Declaración de Derechos Humanos, con la definición o  explicación correspondiente.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="5">
+    <cuestion>
+      <pregunta><![CDATA[Declaración Universal]]></pregunta>
+      <respuesta><![CDATA[Expedida por la Asamblea General de las Naciones Unidas en 1948 con carácter declarativo]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Pacto DESC]]></pregunta>
+      <respuesta><![CDATA[Garantiza derechos económicos: salario justo y descanso, la seguridad social y la educación, entre otros.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Pacto Derechos Civiles]]></pregunta>
+      <respuesta><![CDATA[Garantiza derechos ciudadanos: elegir y ser elegido, así como el derecho a la propiedad, entre otros. ]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Pactos]]></pregunta>
+      <respuesta><![CDATA[Documentos que tienen un carácter vinculante, obligatorio para los Estados que los suscriben.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Protocolos]]></pregunta>
+      <respuesta><![CDATA[Instrumento jurídico que aclara alcances de las declaraciones o pactos firmados, para asegurar su cumplimiento. ]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0"/>
+</motor>
