@@ -1,291 +1,167 @@
-<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f7"><main layout="4">
-<title>La Familia Chibcha</title>
-<footer></footer>
-</main>
-<sections>
-<section i="0" star="false" hasSubsections="true">
-<menuImage path="CS_06_06_CO_REC040_IMG01.jpg" border="0">
-<title><![CDATA[Muiscas]]></title>
-</menuImage>
-<submenu>
-<main layout="2">
-<title>Muiscas</title>
-<footer>Se ubicaron en las tierras altas de la cordillera oriental.</footer>
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f7"><main layout="0">
+<title>Los pueblos Tairona y Muisca</title>
+<footer>Pie con instrucciones</footer>
 </main>
 <sections>
 <section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_06_06_CO_REC040_IMG07.jpg" border="0">
-<title><![CDATA[Se organizaron en capitanías y en cacicazgos.]]></title>
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[Muisca]]></title>
 </menuImage>
 <pages>
 <page i="0" visible="true" color="">
-<title>Ubicación y organización social.</title>
-<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">El pueblo Muisca se ubicar&aacute; en las tierras altas de la <strong>cordillera oriental</strong>, entre el <strong>p&aacute;ramo de Sumapaz</strong> y el <strong>Nevado del cocuy</strong>.&nbsp;</span></span></p>
+<title>Ubicación</title>
+<description><![CDATA[<span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">El pueblo <strong>muisca</strong> se ubic&oacute; en las tierras altas de la&nbsp;<strong>cordillera Oriental</strong>, entre el&nbsp;<strong>p&aacute;ramo de Sumapaz</strong>&nbsp;y el&nbsp;<strong>nevado del Cocuy</strong>.&nbsp;En los valles de los r&iacute;os Bogot&aacute;, Su&aacute;rez y Chicamocha.</span></span>]]></description>
+</page>
+<page i="0" visible="true" color="">
+<title>Organización social</title>
+<description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">La&nbsp;sociedad estaba organizada en clases:</span></span></p>
 
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">La&nbsp;<strong>organizaci&oacute;n social</strong>&nbsp;se encontraba distribuida de la siguiente manera:</span></span></p>
+<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Nobleza:</strong></span></span></p>
 
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">1. Cacique (nobles)</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">2. Sacerdotes</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">3. Guerreros</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">4. Pueblo</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">5. Esclavos</span></span></p>
-
-<p></p>
+<ul>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">El <strong>Cacique </strong>era el m&aacute;ximo jefe, con poder vitalicio y heredado por v&iacute;a matrilineal. Los <strong>capitanes</strong>, subordinados al cacique, dirig&iacute;an los poblados.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Sacerdotes o jeques</strong>. Dirig&iacute;an los rituales, estudiaban los astros y realizaban pr&aacute;cticas curativas.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Guerreros o quechuas</strong>. Conformaban ej&eacute;rcitos para la defensa de su tribu.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Comerciantes</strong>. Dedicados al intercambio de productos con tribus vecinas.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Pueblo</strong>. Agricultores y artesanos. Pagaban tributo a los caciques.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Esclavos</strong>. Prisioneros de guerra o por delitos.</span></span></p>
+	</li>
+</ul>
 ]]></description>
-<images>
-<image path="CS_06_06_CO_REC040_IMG11.jpg" border = "0" pathbig="CS_06_06_CO_REC040_IMG12.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Organización política</title>
+<description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">El pueblo Muisca se organiz&oacute; en <strong>capitan&iacute;as</strong>, ligadas entre s&iacute; por lazos maternos. La uni&oacute;n de varias capitan&iacute;as conform&oacute; el&nbsp;<strong>cacicazgo</strong>.</span></span></p>
+
+<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">La uni&oacute;n de cacicazgos dio lugar a las&nbsp;<strong>confederaciones</strong> de <strong>Bacat&aacute;</strong>&nbsp;(Bogot&aacute;),&nbsp;<strong>Hunza</strong>&nbsp;(Tunja),&nbsp;<strong>Tundama</strong>&nbsp;(Duitama) y&nbsp;<strong>Sugamuxi</strong>&nbsp;(Sogamoso).</span></span></p>
+]]></description>
+</page>
+<page i="0" visible="true" color="">
+<title>Economía</title>
+<description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Las principales actividades fueron:</span></span></p>
+
+<ul>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>A<strong>gricultura</strong></strong>. Se desarrollaba en terrenos comunales. Cultivaron ma&iacute;z, papa, arracacha, cubios, chuguas, hibias, nabos, yuca y algod&oacute;n.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Comercio. </strong>Intercambiaron mantas, esmeraldas, sal y oro. Usaron sal y tejuelos como moneda.</span></span></p>
+	</li>
+</ul>
+]]></description>
+</page>
+<page i="0" visible="true" color="">
+<title>Logros destacados</title>
+<description><![CDATA[<ul>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Orfebrer&iacute;a</strong>. Tuvo una finalidad principalmente religiosa; otras piezas se usaban como adornos de los miembros de las clases altas. Utilizaron t&eacute;cnicas como laminado, martillado y cera perdida.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Cer&aacute;mica</strong>. Elaboraron utensilios de uso dom&eacute;stico y religioso con figuras humanas y decorados geom&eacute;tricos.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Tejidos</strong>. Usaron el algod&oacute;n para tejer mantas que decoraron con tintes de origen vegetal.</span></span></p>
+	</li>
+</ul>
+]]></description>
+</page>
+<page i="0" visible="true" color="">
+<title>Creencias</title>
+<description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Fueron&nbsp;<strong>polite&iacute;stas</strong>, adjudicaron gran poder a la&nbsp;<strong>naturaleza.</strong> Sus grandes&nbsp;<strong>dioses fueron el sol (Xue) y la luna (Ch&iacute;a), identificados como los padres de la vida y de la fecundidad</strong>. Construyeron grandes centros ceremoniales como el <strong>Templo de la Luna</strong> en la poblaci&oacute;n de <strong>Ch&iacute;a</strong>, zona adjudicada al <strong>Zipa</strong> y <strong>El templo del Sol</strong> en <strong>Sogamoso</strong>, jurisdicci&oacute;n del <strong>Zaque</strong>.</span></span></p>
+]]></description>
 </page>
 </pages>
 </section><section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_06_06_CO_REC040_IMG08.jpg" border="0">
-<title><![CDATA[Confederaciones Bacatá, Hunza, Tundama y Sugamuxi.]]></title>
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[Tairona]]></title>
 </menuImage>
 <pages>
 <page i="0" visible="true" color="">
-<title>Organización política.</title>
-<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Pol&iacute;ticamente, el pueblo Muisca se estructuro bajo el concepto de&nbsp;<strong>Capitan&iacute;a</strong>, cada una se encontraba regida por lazos maternos y trabajaban la tierra de manera comunitaria. La uni&oacute;n de varias capitanias conformaran el&nbsp;<strong>cacicazgo</strong>&nbsp;(estructura pol&iacute;tica, administrativa y social). La figura central&nbsp;<strong>El Cacique</strong>.</span></span></p>
+<title>Ubicación</title>
+<description><![CDATA[<span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">El pueblo <strong>tairona</strong> se ubic&oacute; en los departamentos del Magdalena, La Guajira y Cesar, en las tierras bajas de la Sierra Nevada de Santa Marta, en los valles de los r&iacute;os Guachaca, Don Diego y Buritaca.</span></span>]]></description>
+</page>
+<page i="0" visible="true" color="">
+<title>Organización social</title>
+<description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">La sociedad estaba organizada en clases:</span></span></p>
 
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">De la uni&oacute;n de cacicazgos nacieron las&nbsp;<strong>confederaciones</strong>:</span></span></p>
+<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Nobleza:</strong></span></span></p>
 
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;"><strong>Bacat&aacute;</strong>&nbsp;(Bogot&aacute;),&nbsp;<strong>Hunza</strong>&nbsp;(Tunja),&nbsp;<strong>Tundama</strong>&nbsp;(Duitama) y&nbsp;<strong>Sugamuxi</strong>&nbsp;(Sogamoso).</span></span></p>
-
-<p></p>
-
-<p></p>
+<ul>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Exist&iacute;a un <strong>cacique principal</strong> y cada pueblo ten&iacute;a un cacique que depend&iacute;a del primero. Cumpl&iacute;an labores administrativas y judiciales.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>S<strong>acerdotes o Naomas</strong></strong>. Encargados del culto, la astronom&iacute;a, las pr&aacute;cticas curativas y del estudio de la naturaleza para conservar el <strong>equilibrio de la madre Tierra</strong>.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Especialistas</strong>. Eran <strong>agricultores</strong>, <strong>artesanos</strong> y <strong>mercaderes</strong>.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>G<strong>uerreros</strong>&nbsp;o</strong> <strong>Manicatos</strong>. Con gran prestigio social, encargados de la defensa de su comunidad.</span></span></p>
+	</li>
+</ul>
 ]]></description>
-<images>
-<image path="CS_06_06_CO_REC040_IMG13.jpg" border = "0" pathbig="CS_06_06_CO_REC040_IMG14.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
 </page>
-</pages>
-</section><section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_06_06_CO_REC040_IMG09.jpg" border="0">
-<title><![CDATA[La agricultura, base de la economía.]]></title>
-</menuImage>
-<pages>
 <page i="0" visible="true" color="">
-<title>Economía.</title>
-<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Para este pueblo ind&iacute;gena la <strong>agricultura</strong> ser&aacute; la base de su econom&iacute;a. Se distinguriran tambi&eacute;n por el trabajo en <strong>alfarer&iacute;a</strong>, elaboraci&oacute;n de <strong>tejidos en algod&oacute;n</strong> y por la <strong>explotaci&oacute;n de minerales</strong> como la <strong>sal </strong>y de piedras preciosas como la <strong>esmeralda</strong>.</span></span></p>
+<title>Organización política</title>
+<description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">El pueblo tairona se organiz&oacute; en <strong>aldeas, cada una</strong> gobernada por un se&ntilde;or principal o cacique llamado <strong>Naoma</strong>.</span></span></p>
 
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">&nbsp;<strong>La sal</strong>&nbsp;ser&aacute; una de sus mayores riquezas y ser&aacute; la fuente de intercambio comercial m&aacute;s fuerte con otras trib&uacute;s.</span></span></p>
+<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">El cacique concentraba el poder pol&iacute;tico y administrativo.</span></span></p>
 
-<p></p>
-
-<p></p>
+<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Sobresalen&nbsp;las aldeas de <strong>Bonda </strong>y&nbsp;<strong>Pocigueca</strong>.</span></span></p>
 ]]></description>
-<images>
-<image path="CS_06_06_CO_REC040_IMG15.jpg" border = "0" pathbig="CS_06_06_CO_REC040_IMG16.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
 </page>
-</pages>
-</section><section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_06_06_CO_REC040_IMG10.jpg" border="0">
-<title><![CDATA[Fueron politeístas, se conocen mitos y leyendas.]]></title>
-</menuImage>
-<pages>
 <page i="0" visible="true" color="">
-<title></title>
-<description><![CDATA[<span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Fueron <strong>polite&iacute;stas</strong>, adjudicaban gran poder a la <strong>naturaleza,</strong>&nbsp;por tanto &nbsp;sus grandes <strong>dioses</strong>. &nbsp;De acuerdo a sus caracter&iacute;sticas y cualidades se manifestaban para proteger, castigar y sanar. Realizaron <strong>ceremonias</strong> de las cuales sobresalen las hechas en r&iacute;os y lagunas. &nbsp;<span style="background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">En estos espacios encontramos lugares sagrados como son la<span class="apple-converted-space">&nbsp;</span></span><strong>laguna de Tota</strong><span class="apple-converted-space">&nbsp;y la<span class="apple-converted-space">&nbsp;</span></span><strong>laguna de Guatavita</strong>.</span></span>]]></description>
-<images>
-<image path="CS_06_06_CO_REC040_IMG17.jpg" border = "0" pathbig="CS_06_06_CO_REC040_IMG18.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
-</page>
-</pages>
-</section></sections>
-</submenu>
-</section><section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_06_06_CO_REC040_IMG02.jpg" border="0">
-<title><![CDATA[Taironas]]></title>
-</menuImage>
-<pages>
-<page i="0" visible="true" color="">
-<title>Taironas</title>
-<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;"><strong>Los Taironas</strong>, aprovecharon la ubicaci&oacute;n de la&nbsp;<strong>sierra nevada de Santa Marta</strong>&nbsp;especialmente para el desarrollo de la&nbsp;<strong>agricultura</strong>&nbsp;y aprovechamiento de&nbsp;<strong>tierras f&eacute;rtiles</strong>, aptas para la agricultura.</span></span></p>
+<title>Economía</title>
+<description><![CDATA[<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Las principales actividades fueron:</span></span></p>
 
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">De su o<strong>rganizaci&oacute;n social</strong>&nbsp;se conoce que la base de su sociedad la conformaron las&nbsp;<strong>aldeas</strong>, la uni&oacute;n de ellas por medio de caminos de piedra conform&oacute; las&nbsp;<strong>ciudades</strong>, de ellas sobre salen&nbsp;<strong>Bonda</strong>&nbsp;y&nbsp;<strong>Pocigueca.&nbsp;</strong></span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Presentaban una&nbsp;<strong>jerarqu&iacute;a</strong>&nbsp;bastante fuerte en su organizaci&oacute;n social: a&nbsp;la cabeza los&nbsp;<strong>nobles</strong>, seguido de los&nbsp;<strong>sacerdotes</strong>, despu&eacute;s los&nbsp;<strong>agricultores</strong>, enseguida los&nbsp;<strong>guerreros</strong>&nbsp;y por &uacute;ltimo el&nbsp;<strong>pueblo</strong>.</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">La base de su&nbsp;<strong>econom&iacute;a</strong>&nbsp;fue la&nbsp;<strong>agricultura</strong>, en donde se observan grandes avances de&nbsp;<strong>ingenier&iacute;a</strong>&nbsp;para mejorar su producci&oacute;n como:&nbsp;<strong>canales de riego y&nbsp;sistema de terrazas.</strong>&nbsp;Cultivaban Ma&iacute;z, yuca, ahuyama, frijol, algod&oacute;n, arboles frutales y fue una de las pocas trib&uacute;s que extrajo miel de la producci&oacute;n de colmenas.</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">La actividad artesanal sobresale por el trabajo con el oro, la cer&aacute;mica y la talla de piedra.&nbsp;Se destacan estas labores con figuras&nbsp;<strong>zoomorfas</strong>&nbsp;y&nbsp;<strong>antropomorfas</strong>.&nbsp;</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">De la religi&oacute;n se conoce que eran&nbsp;<strong>polite&iacute;stas</strong>, practicaban el culto a los astros.</span></span></p>
+<ul>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>A<strong>gricultura</strong></strong>. Se desarrollaba en terrazas rodeadas de anillos de piedra para evitar la erosi&oacute;n. Cultivaron ma&iacute;z, yuca, ahuyama, fr&iacute;jol, algod&oacute;n, aj&iacute;, papa y frutales.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Apicultura</strong>. La practicaron a gran escala para obtener miel y cera.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Pesca</strong>. Del mar, obtuvieron pescado, conchas y moluscos.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Comercio</strong>. Intercambiaron objetos de oro, conchas, esmeraldas y mantas, especialmente con los muiscas.</span></span></p>
+	</li>
+</ul>
 ]]></description>
-<images>
-<image path="CS_06_06_CO_REC040_IMG19.jpg" border = "0" pathbig="CS_06_06_CO_REC040_IMG20.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
 </page>
-</pages>
-</section><section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_06_06_CO_REC040_IMG03.jpg" border="0">
-<title><![CDATA[Arhuacos]]></title>
-</menuImage>
-<pages>
 <page i="0" visible="true" color="">
-<title>Ubicación.</title>
-<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Es uno de los pueblos que a&uacute;n <strong>sobrevive</strong> en el pa&iacute;s. Se ubican en la <strong>vertiente occidental de la sierra Nevada de Santa Marta,</strong> ocupando departamentos del <strong>C&eacute;sar, Guajira y Magdalena</strong>.</span></span></p>
-
-<p></p>
-
-<p></p>
+<title>Logros destacados</title>
+<description><![CDATA[<ul>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Ingenier&iacute;a</strong>. Destacaron por el uso de la piedra en sus construcciones, que buscaron la armon&iacute;a y preservaci&oacute;n de la naturaleza. Construyeron viviendas sobre cimientos de piedra, puentes, caminos, escaleras, canales de riego, plazoletas, terrazas de cultivo y muros de contenci&oacute;n.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Cer&aacute;mica</strong>. Elaboraron piezas con superficies negras y brillantes. La decoraci&oacute;n era incisa y modelada.</span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Orfebrer&iacute;a</strong>. Elaboraron numerosas piezas de oro y tumbaga entre las que destacan pectorales, coronas, pendientes y narigueras.<br />
+	<br />
+	La <strong>Tumbaga</strong> (aleaci&oacute;n de cobre y oro) permit&iacute;a hacer m&aacute;s manejable el oro para la configuraci&oacute;n de sus obras.</span></span></p>
+	</li>
+</ul>
 ]]></description>
-<images>
-<image path="CS_06_06_CO_REC040_IMG21.jpg" border = "0" pathbig="CS_06_06_CO_REC040_IMG22.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
 </page>
 <page i="0" visible="true" color="">
-<title>Organización social.</title>
-<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">viven en <strong>resguardos</strong>, cada resguardo ocupa el lugar de tres fincas. Cada finca se ubica dependiendo un piso t&eacute;rmico en el que desarrollan la <strong>agricultura</strong>.</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">En el <strong>n&uacute;cleo social</strong> observan a sus <strong>ancestros</strong> como los <strong>padres</strong>, ocupando ellos el lugar de los <strong>hermanos mayores</strong>. Se encuentran dos linajes el <strong>materno</strong> y el <strong>paterno</strong>.</span></span></p>
-]]></description>
-<images>
-<image path="CS_06_06_CO_REC040_IMG23.jpg" border = "0" pathbig="CS_06_06_CO_REC040_IMG24.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
-</page>
-<page i="0" visible="true" color="">
-<title>Organización política y economía</title>
-<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Existe para los Arhuacos un personaje importante: <strong>El mamo</strong>. este hombre de conocimiento ancestral tiene a su cargo <strong>dirigir, organizar y ejercer justicia</strong> en el pueblo. es un hombre de gran sabidur&iacute;a y ocupa un lugar destacadao en la organizaci&oacute;n social.</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">En la econom&iacute;a sobresalen dos campos importantes la <strong>ganader&iacute;a y la agricultura.</strong></span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">En la ganader&iacute;a&nbsp;se especializan en el <strong>ganado vacuno y lanar</strong>. En la agricultura de acuerdo a la ubicaci&oacute;n del piso t&eacute;rmico cultivan:&nbsp;<strong>caf&eacute;</strong>, <strong>cebolla, frijol, aguacate, coca, papa, pl&aacute;tano y yuca</strong>, entre otros productos.</span></span></p>
-]]></description>
-<images>
-<image path="CS_06_06_CO_REC040_IMG25.jpg" border = "0" pathbig="CS_06_06_CO_REC040_IMG26.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
-</page>
-</pages>
-</section><section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_06_06_CO_REC040_IMG04.jpg" border="0">
-<title><![CDATA[Tunebos]]></title>
-</menuImage>
-<pages>
-<page i="0" visible="true" color="">
-<title>Tunebos</title>
-<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Se ubican&nbsp;al oriente de la <strong>Sierra Nevada del Cocuy</strong>, pueblo semin&oacute;mada especialmente por el desarrollo de la agricultura (depende de la ubicaci&oacute;n de&nbsp;&nbsp;las mejores tierras para cultivar de acuerdo al tiempo y cacater&iacute;sticas del suelo).</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Se caracterizan&nbsp;por ser <strong>tejedores</strong> de mochilas, chinchorros teniendo como materia prima el <strong>algod&oacute;n</strong> y el <strong>fique</strong>.</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;"><strong>Cultivan</strong>&nbsp;ma&iacute;z, pl&aacute;tano, yuca, tabaco y coca. Tambi&eacute;n desarrollan&nbsp;la <strong>caza</strong> y la <strong>pesca</strong>. Realizaron&nbsp;actividades de <strong>trueque</strong>.</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">La <strong>organizaci&oacute;n social </strong>consta de n&uacute;cleos familiares compuestos de <strong>padre, madre e hijos solteros</strong>. El <strong>curaca</strong> &nbsp;es la persona que dirije las ceremonias y los rituales.</span></span></p>
-]]></description>
-<images>
-<image path="CS_06_06_CO_REC040_IMG27.jpg" border = "0" pathbig="CS_06_06_CO_REC040_IMG04.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
-</page>
-</pages>
-</section><section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_06_06_CO_REC040_IMG05.JPG" border="0">
-<title><![CDATA[Paeces y Gaumbianos]]></title>
-</menuImage>
-<pages>
-<page i="0" visible="true" color="">
-<title>Paeces</title>
-<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Grupo que <strong>sobrevive</strong> a hoy desde tiempos antiguos incluyendo el periodo de conquista.&nbsp;Habitan actualmente en los departamentos &nbsp;del <strong>cauca, Huila, Valle, Putumayo, Caquet&aacute; y Meta</strong>. Habitan las zonas templada y fr&iacute;a de la Cordillera Occidental.</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Viven en peque&ntilde;os poblados a lo largo de los caminos en viveindas alejadas unas de otras. sus casas las habitan familias compuestas por padres e hijos solteros.&nbsp;</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Como lengua el espa&ntilde;ol y el&nbsp;<strong>Nasa Yuwe</strong>. Politicamente&nbsp;se conforma bajo la figura del <strong>resguardo</strong>, organizado y dirigido por el <strong>cabildo,&nbsp;</strong>bajo la autoridad del <strong>Gobernador</strong>.&nbsp;&nbsp;</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">La <strong>agricultura</strong> es la principal <strong>actividad econ&oacute;mica</strong>, se desarrolla de forma <strong>colectiva.</strong>&nbsp;Entre los productos que cultivan estan:&nbsp;ma&iacute;z,&nbsp;caf&eacute;, ca&ntilde;a de az&uacute;car, fique,&nbsp;yuca, fr&iacute;jol, papa y coca.</span></span></p>
-
-<p></p>
-]]></description>
-<images>
-<image path="CS_06_06_CO_REC040_IMG28.JPG" border = "0" pathbig="CS_06_06_CO_REC040_IMG05.JPG">
-<title><![CDATA[]]></title>
-</image>
-</images>
-</page>
-<page i="0" visible="true" color="">
-<title>Guambianos</title>
-<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Se ubican en la <strong>vertiente occidental de la cordillera Central</strong>, centro-oriente del departamento del Cauca, en los municipios de Totor&oacute;, Jambal&oacute;, Caldono y Morales-Cauca- y en la Plata, departamento del Huila.</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La organizaci&oacute;n pol&iacute;tica, como m&aacute;xima autoridad se encuentra el <strong>cabildo</strong>, dirigido por&nbsp;<strong>gobernadores</strong> quienes velan por las normas, el ciudado y el uso del territorio.&nbsp;&nbsp;</span></span></p>
-<span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Es un <strong>pueblo agr&iacute;cola</strong>, principalmente ma&iacute;z, papa y cebolla. Como segunda actividad desarrollan la <strong>ganader&iacute;a.</strong></span></span>]]></description>
-<images>
-<image path="CS_06_06_CO_REC040_IMG29.jpg" border = "0" pathbig="CS_06_06_CO_REC040_IMG06.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
-</page>
-</pages>
-</section><section i="0" star="false" hasSubsections="false">
-<menuImage path="CS_06_06_CO_REC040_IMG06.jpg" border="0">
-<title><![CDATA[Pastos y Qillacingas]]></title>
-</menuImage>
-<pages>
-<page i="0" visible="true" color="">
-<title>Pastos </title>
-<description><![CDATA[<table align="left" cellpadding="0" cellspacing="0" hspace="0" vspace="0">
-	<tbody>
-		<tr>
-			<td align="left">
-			<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Esta cultura se ubica al suroccidente del pa&iacute;s, Se caracterizan por el <strong>aprovechamiento,&nbsp;producci&oacute;n y respeto por&nbsp;la tierra</strong>,&nbsp;observando&nbsp;en ella&nbsp;la tradici&oacute;n de su cultura y de su religi&oacute;n.</span></span></p>
-
-			<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">La producci&oacute;n se observa en cosechas de ma&iacute;z y papa, tambi&eacute;n cebolla, calabaza, pl&aacute;tano y frutas, entre otros productos.</span></span></p>
-
-			<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">A nivel pol&iacute;tico tienen un <strong>cabildo</strong> y como figura un <strong>gobernador</strong> quien organiza, dirige y hace cumplir las normas.</span></span></p>
-
-			<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Los pastos se caracterizaron en la antiguedad tambi&eacute;n por ser <strong>tejedores y alfareros</strong>, de estos productos se observan <strong>copas y anforas</strong> con ilustraciones de actividades como pesca, danza, caza y guerra con dise&ntilde;os de figuras zoomorfas y antropomorfas.</span></span></p>
-
-			<p></p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<div style="clear:both;"></div>
-]]></description>
-<images>
-<image path="CS_06_06_CO_REC040_IMG30.jpg" border = "0" pathbig="CS_06_06_CO_REC040_IMG31.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
-</page>
-<page i="0" visible="true" color="">
-<title>Quillacingas</title>
-<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Se ubican en el actual territorio de <strong>Nari&ntilde;o</strong>, especificamente al <strong>nororiente</strong> de este departamento. Se caracterizan por ser una cultura <strong>agr&iacute;cola</strong> de t<strong>&eacute;cnicas avanzadas</strong> para producir ma&iacute;z, papa, yuca, pi&ntilde;a y aguacate, entre otros productos debido al aprovechamiento de los pisos t&eacute;rmicos.</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Adem&aacute;s de la a<strong>gricultura, el trabajo en cer&aacute;mica, piedra, alafarer&iacute;a y orfebreria</strong> ser&aacute;n de gran trabajo y distinci&oacute;n. Utilizaban t&eacute;cnicas como: <strong>cera p&eacute;rdida, repujado y el martillado.</strong></span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">En la organizaci&oacute;n pol&iacute;tica&nbsp;se destaca la figura del <strong>Cacique,&nbsp;</strong>&nbsp;del <strong>cham&aacute;n</strong>&nbsp;y&nbsp;de los <strong>guerreros,</strong> simbolizando estos personajes una distinci&oacute;n&nbsp;dentro de la sociedad.</span></span></p>
-
-<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Los Quillacingas se caracterizaron tambien por presentar un <strong>alto grado de espiritualidad</strong> representados en petroglifos y pictografos, creian en un pasaje despues de la muerte.</span></span></p>
-
-<p></p>
-]]></description>
-<images>
-<image path="CS_06_06_CO_REC040_IMG32.jpg" border = "0" pathbig="CS_06_06_CO_REC040_IMG33.jpg">
-<title><![CDATA[]]></title>
-</image>
-</images>
+<title>Creencias</title>
+<description><![CDATA[<span style="font-size:18px;"><span style="font-family: verdana,geneva,sans-serif;">Fueron&nbsp;<strong>polite&iacute;stas</strong>, conceb&iacute;an el universo por espacios horizontales superpuestos encontr&aacute;ndose la Sierra Nevada en el centro. Practicaban el culto a los astros; las estrellas fueron de gran significado, por lo que les designaban identidades tanto masculinas como femeninas. Construyeron <strong>centros ceremoniales</strong> donde los <strong>naomas</strong> o <strong>sacerdotes</strong> despu&eacute;s de una larga y ardua preparaci&oacute;n se encontraban preparados para observar el orden c&oacute;smico y liderar las ceremonias a las que asist&iacute;a el pueblo masivamente a pedir por sus necesidades. Como ofrendas se depositaban figuras elaboradas en piedra.</span></span>]]></description>
 </page>
 </pages>
 </section></sections>
