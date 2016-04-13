@@ -1,40 +1,66 @@
-Ôªø<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<!--<meta name="viewport" id="viewport" content="initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />-->
-		<!-- ************************************************************************
-		*
-		* Motor F10b
-		*
-		* Versi√≥n 16.1.21.1
-		*
-		* Autor: Javier Garc√©s - Sinergia sistemas inform√°ticos
-		* Autor: Jes√∫s Giron√©s - Sinergia sistemas inform√°ticos
-		*
-		************************************************************************-->
-    
-    
-    <title></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<meta name="viewport" id="viewport" content="initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+		
+		<!--
+		 ************************************************************************
+		 * Visor Diaporamas
+		 * VersiÛn: 15.12.21.1
+		 * Autores: Javier GarcÈs i Jes˙s GironÈs (Sinergia)
+		 * HistÛrico:
+		 *  - 15.12.21.1: Obtener el xml desde el par·metro GET datos_xml
+		 *  - 15.12.2.1: En el navegador Android Nativo usa el tema PNG en vez del SVG
+		 *  - 15.9.29.1: Preloader aÒadido
+		 *  - 15.8.3.1: Imagen de fondo transparente por defecto aÒadida
+		 *  - 15.7.1.1: Recargar cachÈ aÒadiendo la fecha a la carga del xml
+		 *  - 14.12.9.1: Nuevo tema css con botones de 35x35.
+		 *  - 14.7.28.1: Ocultar botÛn de sonido para el navegador nativo Android
+		 *  - 14.7.25.1: Cambio de estado del botÛn de activar/desactivar sonido
+		 *  - 14.7.24.1:
+		 *	∑ Nombres de ficheros compatibles con SCORM, substituir :
+		 *		Puntos y quiones por underline
+		 *		Caracteres en min˙scula
+		 *	∑ Aplicada nueva estructura de carpetas
+		 ************************************************************************
+		-->
+	
+	<title>Visor de Diaporamas</title>
 
-    <!-- Preloader -->
-	<script src="lib/ppppreloader/1_0/ppppreloader_min.js" type="text/javascript"></script>
+	<!--<link rel="stylesheet" href="./motor/cepda_aulaplaneta35_theme/cepda_aulaplenta35.css?v=14.12.9.1" type="text/css" />
+	<link rel="stylesheet" href="./motor/cepda_aulaplanetasvg35_theme/cepda_aulaplentasvg35.css?v=14.12.9.1" type="text/css" />
+	<link rel="stylesheet" href="./motor/css/styles.css?v=14.6.16.1" type="text/css" />-->
+	
+	<!-- VersiÛ extesa per debugar 
+	<script type="text/javascript" src="./extlib/jquery/1_11_1/jquery_1_11_1.js"></script>
+	<script type="text/javascript" src="./extlib/createjs/2013_12_12/preloadjs_0_4_1_min.js"></script> -->
+	<!-- Note: All core TweenJS classes are listed here: -->
+	<!-- <script type="text/javascript" src="./motor/js_test/EventDispatcher.js"></script>
+	<script type="text/javascript" src="./motor/js_test/Tween.js"></script>
+	<script type="text/javascript" src="./motor/js_test/Ease.js"></script>
+	<script type="text/javascript" src="./motor/js_test/CSSPlugin.js"></script> -->
+	<!-- Ticker is the only required EaselJS class -->
+	<!-- <script type="text/javascript" src="./motor/js_test/Ticker.js"></script>
+	<script type="text/javascript" src="./motor/js_test/touchcomp.js"></script>
+	<script type="text/javascript" src="./motor/js_test/xdom.js"></script>
+	<script type="text/javascript" src="./motor/js_test/pauseabletimeout.js"></script>
+	<script type="text/javascript" src="./motor/js_test/pppdiapodata.js"></script>
+	<script type="text/javascript" src="./motor/js_test/ppptextodata.js"></script>
+	<script type="text/javascript" src="./motor/js_test/pppdiapomanager.js"></script>
+	<script type="text/javascript" src="./motor/js_test/pppdiaporama.js"></script>
+	 -->
+	
+	<!-- versiÛ min 
+	<script type="text/javascript" src="./extlib/jquery/1_11_1/jquery_1_11_1_min.js"></script>
+	<script type="text/javascript" src="./extlib/createjs/2013_12_12/preloadjs_0_4_1_min.js"></script>
+	<script type="text/javascript" src="./motor/js/pppdiapoall_min.js?v=15.8.3.1"></script>
+	 -->
 
-	<!-- inicializaci√≥n MathJax -->
-	<script type="text/x-mathjax-config">
-		MathJax.Hub.Config({
-			tex2jax: {inlineMath: [['\\(','\\)']]},
-			showMathMenu: false,
-			SVG: {
-				scale: 93,
-				matchFontHeight: true
-			}
-		});
-	</script>
-
-	<!-- inicializaci√≥n general -->
-	<script type="text/javascript">
-		// Rutina para obtener din√°micamente un par√°metro de la URL
+	<script type='text/javascript' src='lib/ppppreloader/1_0/ppppreloader_min.js'></script>
+	
+	<script type='text/javascript'>
+		// Rutina para obtener din·micamente un par·metro de la URL
 		function getQueryParam(pName) {
 			var CurrURL = location.href;
 			var ParamsPos = CurrURL.indexOf("?", 0);
@@ -49,64 +75,65 @@
 			}
 			return "";
 		}
-		// Obtenemos el origen del xml de datos mirando la Query String
 		var datos_xml = getQueryParam("datos_xml");
-		var datos_from = "redirect";
-		// Si no hay nada, ponemos los valores por defecto
-		if (datos_xml == "") {
-			datos_xml = "data/datos.xml" + "?time=" + new Date().getTime();
-			datos_from = "data";
-		}
 
-		// Volcado de errores del preloader por la consola
+		// Precarga
 		var manifest = {
 			// Bloques de elementos a descargar
 			blocks: [
-					{ type: "manifest", files: [{ from: "module", file: "motor/manifest.json" }] },
-					{ type: "xml", files: [{ from: datos_from, file: datos_xml, id: "datos_xml" }] }
+				{ type: "manifest", files: [ { from: "module", file: "motor/manifest.json"} ] }
+				//{ type: "manifest", files: [ { from: "module", file: "motor/manifest_debug.json"} ] }
 			],
-			// Sin spinner autom√°tico
 			spinner: "no",
-			// Esperamos a que el documento est√° "ready" para recibir el evento
-			waitForDocumentReady: true,
-			// Evento de fin de carga (correcta o incorrecta). Si es incorrecta, el manifiesto
-			// contendr√° un array "errors" con los errores (manifest.errors.length > 0)
-			onEndLoading: function (mf) {
-				// Miramos si ha habido errores graves en la precarga
-				if (mf.errors.length > 0) {
-					console.log(pppPreloader.logErrors(mf));
-					//return;
+			waitForDocumentReady: true, 
+			onEndLoading: function (manifest) {
+				// Miramos si hay errores
+				if (manifest.errors.length > 0) {
+					var msg = "Ended with errors: \n\n";
+					for (var i=0;i<manifest.errors.length;i++) {
+						msg += "- " + manifest.errors[i].type + ": " + manifest.errors[i].file + " [" + manifest.errors[i].url + "]\n";
+					}
+					pppSpinner.hide();
+					alert(msg);
+				} else { // Todo Ok!!!
+					// AHORA PROCEDEMOS A INICIALIZAR EL DIAPORAMA...
+					// Si no se ha redireccionado datos_xml, usamos el valor por defecto
+					if (datos_xml == "") {
+						datos_xml = pppPreloader.from("data", "data/datos.xml" + "?time=" + new Date().getTime());
+					}
+					
+					// InicialitzaciÛ de la versiÛ HTML5
+					// Escollim tema: per defecte fem servir el tema SVG
+					var theme = "aulaplanetasvg35";
+					// Si Ès IE fa servir la versiÛ bitmaps (hi ha un bug a la implementaciÛ SVG)
+					// TambÈ ho fem si Ès el navegador natiu d'Android
+					if ((/msie|trident/.test(navigator.userAgent.toLowerCase())) || (((navigator.userAgent.indexOf('Mozilla/5.0') > -1) && (navigator.userAgent.indexOf('Android') > -1) && !(navigator.userAgent.indexOf('Chrome') > -1) && (navigator.userAgent.indexOf('Version') > -1)))) {
+						theme = "aulaplaneta35";
+					}
+						//alert(theme +" "+ navigator.userAgent);
+					pppSpinner.hide();
+					// Inicialitzem el diaporama
+					var diapo = new pppDiaporama("container", theme, false);
+					diapo.initDiaporama(/*"."*/pppPreloader.from("data", ""));
 				}
-				// Si llegamos hasta aqu√≠, es que todo ha ido bien
-				// Inicializamos el motor
-				main(mf.ids["datos_xml"]);
 			}
 		};
 
-		// Inicializamos pppPreloader:
-		// - "module" es alias de CDN, pero en remoto apunta a CDN/motors/f1
-		// - "mathjax" es alias de CDN, pero en local apunta a la versi√≥n online de MathJax
-		//   y en remoto apunta a "extlib/mathjax/latest/"
-		pppPreloader.init({
-			aliases: {
-							"module": "CDN",
-							"mathjax": "CDN"
-			},
-			localPaths: {	"mathjax": "//cdn.mathjax.org/mathjax/latest/" } ,
-			remotePaths: {	"module": "motors/f10b/",
-							"mathjax": "extlib/mathjax/latest/" }
-		});
 
-		// Mostramos el spinner
+		// InicializaciÛn del sistema
+		pppPreloader.init( {
+			aliases: { "module": "CDN" },
+			remotePaths: { "module": "motors/diaporama/" }
+		});
 		pppSpinner.show();
 
-		// Cargamos el manifiesto principal
+		// Cargamos el manifiesto del motor
 		pppPreloader.loadManifest(manifest);
 
 	</script>
 
 </head>
-<body style="background-color: #FFFFFF;">
-    <div id="__stage" style="width: 100%; height: 100%;"></div>
+<body>
+	<div id="container" style="width: 100%; height: 100%; border: 0; margin: 0;"></div>
 </body>
 </html>

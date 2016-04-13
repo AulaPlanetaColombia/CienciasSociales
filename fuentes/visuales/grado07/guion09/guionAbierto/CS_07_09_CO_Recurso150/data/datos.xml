@@ -5,24 +5,24 @@
 <sections>
 <section i="0" star="false" hasSubsections="false">
 <menuImage path="CS_07_09_REC150_IMG01.jpg" border="0">
-<title><![CDATA[Clima de Colombia]]></title>
+<title><![CDATA[Los climas de Colombia]]></title>
 </menuImage>
 <pages>
 <page i="0" visible="true" color="">
 <title>La diversidad climática en Colombia</title>
-<description><![CDATA[<p>Colombia est&aacute; <strong>ubicada sobre el ecuador terrestre.</strong> En las zonas de latitudes bajas el clima es c&aacute;lido, pero en el caso de nuestro pa&iacute;s est&aacute;&nbsp;modificado por la Cordillera de los Andes.</p>
+<description><![CDATA[<p>Colombia est&aacute; <strong>ubicada sobre el ecuador terrestre</strong>, en las zonas de latitudes bajas. El clima deber&iacute;a ser&nbsp;c&aacute;lido en todo el territorio&nbsp;pero, las formaciones monta&ntilde;osas dan lugar a pisos t&eacute;rmicos.</p>
 
-<p>Colombia&nbsp;posee <strong>climas tropicales, climas secos y climas de monta&ntilde;a</strong>.&nbsp;En cada uno de ellos se pueden encontrar&nbsp; diferentes&nbsp;ecosistemas o <strong>microclimas.</strong></p>
+<p>Colombia&nbsp;posee <strong>climas tropicales</strong>,<strong> climas secos </strong>y<strong> climas de monta&ntilde;a </strong>y en cada uno de ellos se pueden encontrar&nbsp; diferentes&nbsp;<strong>microclimas.</strong></p>
 ]]></description>
 <images>
-<image path="CS_07_09_REC150_IMG05n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG05n.jpg">
+<image path="CS_07_09_REC150_IMG05n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG05a.jpg">
 <title><![CDATA[Sobre el Ecuador]]></title>
 </image>
 </images>
 </page>
 <page i="0" visible="true" color="">
 <title>La altitud</title>
-<description><![CDATA[<p><strong>La altitud</strong> es un factor&nbsp;determinante para las condiciones clim&aacute;ticas colombianas ya que la temperatura desciende aproximadamente 6&deg;C por cada 1.000 metros que se ascienda.&nbsp;A este tipo de clima se le denomina <strong>clima de monta&ntilde;a o de pisos t&eacute;rmicos,</strong> que se encuentra en la parte central de nuestro pa&iacute;s.</p>
+<description><![CDATA[<p><strong>La altitud</strong> es el&nbsp;factor&nbsp;determinante del clima en Colombia&nbsp;ya que la temperatura desciende aproximadamente 1&deg;C por cada 1&nbsp;000 metros de altura y da lugar a los&nbsp;<strong>climas de monta&ntilde;a o de pisos t&eacute;rmicos</strong>.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG06n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG06a.jpg">
@@ -31,8 +31,10 @@
 </images>
 </page>
 <page i="0" visible="true" color="">
-<title>Sin estaciones</title>
-<description><![CDATA[<p><strong>En Colombia no hay estaciones</strong>,&nbsp;pero cada regi&oacute;n biogeogr&aacute;fica presenta temporadas secas y temporadas de lluvia.&nbsp;Los periodos pueden variar, sin embargo, <strong>la &eacute;poca de sequ&iacute;a</strong> suele ser entre diciembre-enero y julio-agosto y la <strong>&eacute;poca de lluvias</strong> entre abril-mayo y octubre-noviembre.</p>
+<title>Periodos de lluvia y sequía</title>
+<description><![CDATA[<p>En<strong> Colombia no hay estaciones</strong>,&nbsp;pero cada regi&oacute;n&nbsp;presenta temporadas secas y temporadas de lluvia.&nbsp;</p>
+
+<p>Los periodos de lluvia pueden variar, sin embargo, la<strong> &eacute;poca de sequ&iacute;a</strong> suele presentarse&nbsp;de&nbsp;diciembre a&nbsp;enero y de julio a&nbsp;agosto, y la <strong>&eacute;poca de lluvias </strong>en los meses&nbsp;de&nbsp;abril,&nbsp;mayo,&nbsp;octubre y&nbsp;noviembre.</p>
 
 <p>&nbsp;</p>
 ]]></description>
@@ -45,24 +47,30 @@
 </pages>
 </section><section i="0" star="false" hasSubsections="true">
 <menuImage path="CS_07_09_REC150_IMG02.jpg" border="0">
-<title><![CDATA[Clima tropical]]></title>
+<title><![CDATA[El clima tropical]]></title>
 </menuImage>
 <submenu>
 <main layout="0">
-<title>Clima tropical húmedo</title>
+<title>El clima tropical húmedo</title>
 <footer>Selecciona una imagen</footer>
 </main>
 <sections>
 <section i="0" star="false" hasSubsections="false">
 <menuImage path="CS_07_09_REC150_IMG08.jpg" border="0">
-<title><![CDATA[Selva tropical húmeda]]></title>
+<title><![CDATA[La selva tropical húmeda]]></title>
 </menuImage>
 <pages>
 <page i="0" visible="true" color="">
-<title>Selva tropical húmeda y lluviosa</title>
+<title>La selva tropical húmeda</title>
 <description><![CDATA[<p><strong>Ubicaci&oacute;n</strong></p>
 
-<p>La selva tropical h&uacute;meda y lluviosa se localiza en los llanos orientales, zonas de los valles del Cauca y Magdalena,&nbsp;las selvas chocoanas &ndash;una de las zonas m&aacute;s h&uacute;medas en el mundo&ndash;&nbsp;y&nbsp;la cuenca Amaz&oacute;nica.&nbsp;All&iacute; se encuentran bosques h&uacute;medos tropicales&nbsp;que&nbsp;son ecosistemas <strong>mega diversos</strong>, es decir, que cuentan con&nbsp;gran diversidad de animales y plantas. &nbsp;&nbsp;</p>
+<p>La selva tropical h&uacute;meda&nbsp;se localiza en:</p>
+
+<ul>
+	<li>las estribaciones de las <strong>cordilleras andinas</strong> y&nbsp;de los sistemas monta&ntilde;osos independientes como la <strong>Sierra Nevada de Santa Marta</strong> y&nbsp;las serran&iacute;as de la <strong>Macarena</strong>, el <strong>Baud&oacute;</strong> y el <strong>Dari&eacute;n</strong>.</li>
+	<li>el sector <strong>norte de llanura del Pac&iacute;fico</strong> que es&nbsp;una de las zonas m&aacute;s lluviosas del mundo.</li>
+	<li>La <strong>cuenca amaz&oacute;nica</strong>.&nbsp; &nbsp;</li>
+</ul>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG10n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG10a.jpg">
@@ -72,11 +80,13 @@
 </page>
 <page i="0" visible="true" color="">
 <title>Biodiversidad de la selva</title>
-<description><![CDATA[<p><strong>Flora </strong></p>
+<description><![CDATA[<p><strong>La flora </strong></p>
 
-<p>En estas selvas se pueden encontrar &aacute;rboles muy altos como las <strong>ceibas, choib&aacute;s, palmas y caguis</strong>, que se caracterizan por tener m&aacute;s de 60 metros de altura; sus hojas son del <strong>tipo caduca</strong> y se encargan de recibir gran cantidad de luz, agua y sol.</p>
+<p>En la&nbsp;selva tropical h&uacute;meda de Colombia&nbsp;se&nbsp;encuentran&nbsp;&aacute;rboles muy altos como&nbsp;<strong>ceibas</strong>,<strong> choib&aacute;s</strong>,<strong> palmas</strong>,<strong> caucho&nbsp;</strong>y<strong> caguis</strong>, con m&aacute;s de 60 metros de altura y&nbsp;hojas<strong>&nbsp;caducas</strong>.</p>
 
-<p>Existen otros tipos de &aacute;rboles como los <strong>cedros, laureles y cominos</strong>, que son m&aacute;s bajos (40 o 30 metros) y son el hogar de muchos de los animales que aqu&iacute; habitan.&nbsp;De estos &aacute;rboles cuelgan <strong>lianas, cuerdas y bejucos</strong> que forman enredaderas y adornan la selva con un manto verde en las alturas.</p>
+<p>Existen otros tipos de &aacute;rboles como&nbsp;<strong>cedro</strong>,<strong> laurel </strong>y<strong> comino</strong>, que alcanzan alturas entre 30 y 40 metros.</p>
+
+<p>De estos &aacute;rboles cuelgan <strong>lianas</strong>,<strong> cuerdas </strong>y<strong> bejucos</strong> que forman enredaderas y adornan el manto verde de la selva&nbsp;en las alturas.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG11n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG11a.jpg">
@@ -88,10 +98,12 @@
 </images>
 </page>
 <page i="0" visible="true" color="">
-<title>Flora</title>
-<description><![CDATA[<p>En los &aacute;rboles crecen algunas <strong>plantas par&aacute;sitas</strong> que se benefician de los nutrientes, como las <strong>orqu&iacute;deas y las bromelias</strong>.&nbsp;En los r&iacute;os es com&uacute;n hallar la <strong>victoria regia,</strong> que son grandes hojas que flotan en la superficie.&nbsp;</p>
+<title>La flora</title>
+<description><![CDATA[<p>En los &aacute;rboles crecen algunas <strong>plantas epifitias</strong>&nbsp;como <strong>orqu&iacute;deas</strong> y&nbsp;<strong>bromelias</strong>.&nbsp;</p>
 
-<p>En la parte m&aacute;s baja de las selvas crecen <strong>arbustos, helechos&nbsp;y el platanillo,</strong> que alimentan a los anfibios, insectos y mam&iacute;feros que aqu&iacute; se encuentran.</p>
+<p>En los r&iacute;os es com&uacute;n la <strong>Victoria regia</strong>, que son plantas de grandes hojas que flotan en la superficie y pueden sostener el peso de una persona.</p>
+
+<p>En la parte m&aacute;s baja de las selvas crecen <strong>arbustos</strong>,<strong> helechos&nbsp;</strong>y <strong>platanillos</strong>, que son el alimento de los numerosos&nbsp;anfibios, insectos y mam&iacute;feros.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG13n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG13a.jpg">
@@ -100,16 +112,16 @@
 <image path="CS_07_09_REC150_IMG14n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG14a.jpg">
 <title><![CDATA[Epífitas]]></title>
 </image>
-<image path="CS_07_09_REC150_IMG15a.jpg" border = "0" pathbig="CS_07_09_REC150_IMG15n.jpg">
+<image path="CS_07_09_REC150_IMG15n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG15a.jpg">
 <title><![CDATA[Victoria Regia]]></title>
 </image>
 </images>
 </page>
 <page i="0" visible="true" color="">
-<title>Fauna de las selvas tropicales húmedas</title>
-<description><![CDATA[<p>Se encuentran gran variedad de <strong>mam&iacute;feros</strong> de gran tama&ntilde;o como&nbsp;monos aulladores, perezosos, jaguares, pumas y tigrillos; otros de tama&ntilde;o&nbsp;peque&ntilde;os como ratones, armadillos, cusumbos, sainos, monos tit&iacute;, dantas, zarig&uuml;eyas y osos hormigueros.</p>
+<title>La fauna</title>
+<description><![CDATA[<p>En las selvas tropicales h&uacute;medas habitan&nbsp;<strong>mam&iacute;feros</strong> <strong>de gran tama&ntilde;o</strong> como&nbsp;monos aulladores, perezosos, jaguares, pumas y tigrillos;&nbsp;y&nbsp;<strong>mam&iacute;feros&nbsp;peque&ntilde;os</strong> como ratones, armadillos, cusumbos, sainos, monos tit&iacute;, dantas, zarig&uuml;eyas y osos hormigueros.</p>
 
-<p>Este ecosistema&nbsp;tambi&eacute;n alberga&nbsp;<strong>aves </strong>con plumas multicolores como tucanes, guacamayas tricolores, colibr&iacute;es, b&uacute;hos y &aacute;guilas; <strong>reptiles</strong> como boas, tortugas,&nbsp; caimanes de r&iacute;o y serpientes; <strong>anfibios</strong>, con m&aacute;s de 700 tipos de ranas de las cuales&nbsp;300 son exclusivas de Colombia como la rana ojos de rub&iacute;,&nbsp;la&nbsp;rana dorada&nbsp;o la rana cohete. Tambi&eacute;n se encuentran&nbsp;<strong>peces&nbsp;</strong>como cachamas,&nbsp;pira&ntilde;as,&nbsp;paiches, bagres&nbsp;y characines e&nbsp;<strong>insectos</strong> como hormigas, mariposas, escarabajos y termitas que son el alimento de muchos de los anteriores.</p>
+<p>Este ecosistema&nbsp;alberga&nbsp;<strong>aves</strong>&nbsp;como tucanes, guacamayas, colibr&iacute;es, b&uacute;hos y &aacute;guilas; <strong>reptiles</strong> como serpientes,&nbsp;tortugas y&nbsp;caimanes; <strong>anfibios</strong>, entre los que destacan&nbsp;300 especies de ranas exclusivas de Colombia,&nbsp;como la rana ojos de rub&iacute;,&nbsp;la&nbsp;rana dorada&nbsp;o la rana cohete. Tambi&eacute;n se encuentran el <strong>delf&iacute;n rosado,&nbsp;</strong><strong>peces&nbsp;</strong>como cachamas,&nbsp;pira&ntilde;as,&nbsp;paiches, bagres&nbsp;y characines e&nbsp;<strong>insectos</strong> como hormigas, mariposas, escarabajos y termitas.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG16n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG16a.jpg">
@@ -129,14 +141,21 @@
 </pages>
 </section><section i="0" star="false" hasSubsections="false">
 <menuImage path="CS_07_09_REC150_IMG09.jpg" border="0">
-<title><![CDATA[Sabana tropical]]></title>
+<title><![CDATA[La sabana tropical]]></title>
 </menuImage>
 <pages>
 <page i="0" visible="true" color="">
-<title>Sabanas tropicales </title>
+<title>La sabana tropical</title>
 <description><![CDATA[<p><strong>Ubicaci&oacute;n </strong></p>
 
-<p>En Colombia las zonas de sabanas tropicales m&aacute;s extensas est&aacute;n ubicada en los <strong>llanos orientales&nbsp;</strong>y en las sabanas del Caribe.&nbsp;Aqu&iacute; se presenta una &eacute;poca de lluvias entre abril y noviembre donde se inundan sus suelos&nbsp;y los r&iacute;os aumentan su caudal.&nbsp;La &eacute;poca de sequ&iacute;a corresponde a los meses de noviembre y marzo.</p>
+<p>En Colombia las zonas de sabanas tropicales m&aacute;s extensas est&aacute;n ubicadas en:</p>
+
+<ul>
+	<li>la <strong>llanura del Orinoco</strong>.</li>
+	<li>las <strong>sabanas de C&oacute;rdoba</strong>,<strong> Bol&iacute;var</strong>,&nbsp;<strong>Magdalena </strong>y<strong> Cesar</strong>.&nbsp;</li>
+</ul>
+
+<p>All&iacute; se presenta una <strong>&eacute;poca de lluvias</strong> entre abril y noviembre donde se inundan sus suelos&nbsp;y los r&iacute;os aumentan su caudal.&nbsp;La <strong>&eacute;poca de sequ&iacute;a</strong> corresponde a los meses de noviembre y marzo.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG20n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG20a.jpg">
@@ -145,14 +164,14 @@
 </images>
 </page>
 <page i="0" visible="true" color="">
-<title>Flora</title>
-<description><![CDATA[<p>En la ribera de los r&iacute;os es com&uacute;n encontrar gran cantidad de &aacute;rboles que se mantienen gracias a la fuente h&iacute;drica.&nbsp;Estos bosques se denominan de <strong>bosques de galer&iacute;a</strong>, donde predominan las palmas que son utilizadas para extraer fibras y alimentos para animales y humanos.&nbsp;</p>
+<title>La flora</title>
+<description><![CDATA[<p>En las sabanas de Colombia predominan las plantas <strong>herb&aacute;ceas</strong> y&nbsp;palmeras como<strong>&nbsp;moriche</strong>,&nbsp;corozo, chontaduro, mapora y manaca.</p>
 
-<p>Tambi&eacute;n se encuentran &aacute;rboles de menor altura, conocidos como&nbsp;<strong>chaparrales</strong>.</p>
+<p>En las zonas m&aacute;s bajas se encuentran&nbsp;los<strong> esteros</strong>&nbsp;donde el agua se conserva durante todo el a&ntilde;o favoreciendo la poblaci&oacute;n de aves, peces y &aacute;rboles.</p>
 
-<p>En las zonas m&aacute;s bajas se encuentran <strong>los esteros</strong> o &aacute;reas donde el agua se conserva durante todo el a&ntilde;o favoreciendo la poblaci&oacute;n de aves, peces y &aacute;rboles.</p>
+<p>En las riberas de los r&iacute;os hay&nbsp;<strong>bosques de galer&iacute;a </strong>conformados por &aacute;rboles de algarrobo, cedro, granadillo, ceibas y gran variedad de palmas.</p>
 
-<p>En las sabanas es com&uacute;n hallar <strong>arboles maderables</strong> como el gualanday,&nbsp;yopo, flor amarillo, caucho negro, la guadua, el&nbsp;chaparro, algarrobo, palo de cruz y ciruelos hobos, entre otros.&nbsp;Adem&aacute;s de algunas palmeras como la <strong>palma de moriche</strong>, de corozo, chontaduro, mapora y manaca.</p>
+<p>Tambi&eacute;n existen peque&ntilde;os <strong>bosques aislados </strong>de &aacute;rboles le&ntilde;osos&nbsp;como&nbsp;gualanday,&nbsp;yopo, flor amarillo, caucho negro,&nbsp;guadua, chaparro, palo de cruz y ciruelos hobos.&nbsp;</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG21n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG21a.jpg">
@@ -164,12 +183,14 @@
 </images>
 </page>
 <page i="0" visible="true" color="">
-<title>Fauna</title>
-<description><![CDATA[<p>En los esteros se pueden hallar aves como <strong>garzas</strong>, corocoras rojas, guacamayas, martines pescadores, gavilanes&nbsp;y algunas migratorias como sigi&ntilde;&uuml;elas y&nbsp;aliazules.</p>
+<title>La fauna</title>
+<description><![CDATA[<p>Entre los mam&iacute;feros de la sabana est&aacute;n los&nbsp;<strong>chig&uuml;iros o capibaras</strong>, que son los roedores m&aacute;s grandes del mundo; hay venados, osos de anteojos, armadillos, monos, osos hormigueros,&nbsp;<strong>ocarros</strong>, tigrillos, zorros cangrejeros, perros sabaneros, perezosos, puercoespines&nbsp;y&nbsp;variedad&nbsp;de&nbsp;roedores.</p>
 
-<p>Se pueden encontrar peces&nbsp;como <strong>cachamas</strong>, pira&ntilde;as, bagres rayados, escalares, sardinatas, capaces y peces &oacute;scar. Tambi&eacute;n hay&nbsp;como boas, <strong>caimanes</strong> y tortugas morrocoyes.</p>
+<p>En los esteros habitan <strong>aves</strong> como garzas, corocoras rojas, guacamayas, martines pescadores, gavilanes&nbsp;y algunas migratorias como sigi&ntilde;&uuml;elas y&nbsp;aliazules.</p>
 
-<p>Entre los mam&iacute;feros est&aacute;n los <strong>chig&uuml;iros o capibaras</strong>, que son los roedores m&aacute;s grandes del mundo; venados, osos de anteojos, armadillos, monos, osos hormigueros, <strong>ocarros</strong>, tigrillos, zorros cangrejeros, perros sabaneros, perezosos, puercoespines&nbsp;y m&uacute;ltiples roedores.&nbsp;</p>
+<p>Los r&iacute;os est&aacute;n poblados de variedad de peces&nbsp;como <strong>cachamas</strong>, pira&ntilde;as, bagres rayados, escalares, sardinatas, capaces y peces &oacute;scar.&nbsp;Tambi&eacute;n hay&nbsp;<strong>boas</strong>, caimanes y&nbsp;<strong>tortugas morrocoyes</strong>.</p>
+
+<p>&nbsp;</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG23n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG23a.jpg">
@@ -188,17 +209,17 @@
 </submenu>
 </section><section i="0" star="false" hasSubsections="false">
 <menuImage path="CS_07_09_REC150_IMG03.jpg" border="0">
-<title><![CDATA[Clima seco]]></title>
+<title><![CDATA[El clima seco]]></title>
 </menuImage>
 <pages>
 <page i="0" visible="true" color="">
 <title>Clima seco o de estepa</title>
 <description><![CDATA[<p><strong>Ubicaci&oacute;n </strong></p>
 
-<p>Este clima se ubica en las<strong> sabanas bajas</strong> de Bol&iacute;var, Meta, Guaviare y parte de la Guajira.&nbsp;Esta &uacute;ltima se caracteriza por ser la zona con menos precipitaciones del pa&iacute;s.</p>
+<p>El&nbsp;clima seco se presenta&nbsp;en las<strong> sabanas bajas</strong> de Bol&iacute;var, en los departamentos de Meta, Guaviare y parte del departamento de&nbsp;<strong>La Guajira</strong> donde se encuentra&nbsp;la zona con menos precipitaciones del pa&iacute;s.</p>
 ]]></description>
 <images>
-<image path="CS_07_09_REC150_IMG26n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG29a.jpg">
+<image path="CS_07_09_REC150_IMG26n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG26a.jpg">
 <title><![CDATA[]]></title>
 </image>
 <image path="CS_07_09_REC150_IMG27n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG27a.jpg">
@@ -213,10 +234,12 @@
 </images>
 </page>
 <page i="0" visible="true" color="">
-<title>Los bosques secos tropicales</title>
-<description><![CDATA[<p>Con estas particularidades del clima se presentan los <strong>bosques secos tropicales</strong>&nbsp;donde se pueden encontrar plantas y animales que han desarrollado resistencia a la falta de agua.&nbsp;</p>
+<title>La flora</title>
+<description><![CDATA[<p>En los <strong>bosques secos tropicales</strong>&nbsp;habitan plantas y animales que han desarrollado resistencia a la sequ&iacute;a.&nbsp;</p>
 
-<p>Entre los &aacute;rboles que all&iacute; se encuentran est&aacute;n los samanes, ojo de venado, caoba, palosanto, algarrobo, &eacute;bano<strong>, jagua y matarrat&oacute;n</strong>. Adem&aacute;s se hallan plantas bajas denominadas <strong>matorrales</strong> que poseen espinas para defenderse de los animales herb&iacute;voros y atrapar la poca humedad del aire.&nbsp; Tambi&eacute;n son comunes los <strong>cactus</strong>, que tambi&eacute;n cuentan con espinas, y que almacenan gran cantidad de agua en sus gruesas hojas y tallos.</p>
+<p>Entre los &aacute;rboles que all&iacute; se encuentran est&aacute;n los samanes, ojo de venado, caoba, palosanto, algarrobo, &eacute;bano,<strong> jagua </strong>y<strong> matarrat&oacute;n</strong>.</p>
+
+<p>Adem&aacute;s se hallan plantas de baja estatura&nbsp;denominadas <strong>matorrales</strong> que poseen espinas para defenderse de los animales herb&iacute;voros y para atrapar la poca humedad del aire. Son comunes los <strong>cactus</strong>, que almacenan gran cantidad de agua en sus carnosas&nbsp;hojas.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG30n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG30a.jpg">
@@ -228,8 +251,10 @@
 </images>
 </page>
 <page i="0" visible="true" color="">
-<title>Fauna </title>
-<description><![CDATA[<p>Existen especies de monos, loros, cotorras, pericos, iguanas,&nbsp; lagartos (como el lobo pollero) tortugas y serpientes.&nbsp;En la Alta Guajira es com&uacute;n hallar los <strong>flamingos rosados</strong> que habitan las costas del mar Caribe.&nbsp;En las rancher&iacute;as o zonas de habitat de los ind&iacute;genas way&uacute;u se puede&nbsp;encontrar ganado caprino.</p>
+<title>La fauna </title>
+<description><![CDATA[<p>En los climas secos habitan variedad de insectos,&nbsp;monos, loros, cotorras, pericos, iguanas, tortugas, serpientes y&nbsp;lagartos como el lobo pollero.&nbsp;</p>
+
+<p>En la costa de la Alta Guajira es com&uacute;n hallar&nbsp;<strong>flamingos rosados</strong>&nbsp;y en&nbsp;las rancher&iacute;as&nbsp;de los ind&iacute;genas way&uacute;&nbsp;se puede&nbsp;encontrar ganado caprino.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG32n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG32a.jpg">
@@ -243,16 +268,16 @@
 </pages>
 </section><section i="0" star="false" hasSubsections="false">
 <menuImage path="CS_07_09_REC150_IMG04.jpg" border="0">
-<title><![CDATA[Clima de montaña]]></title>
+<title><![CDATA[El clima de montaña]]></title>
 </menuImage>
 <pages>
 <page i="0" visible="true" color="">
 <title>Clima tropical de montaña o pisos térmicos</title>
 <description><![CDATA[<p><strong>Ubicaci&oacute;n</strong></p>
 
-<p>Los climas de monta&ntilde;a se encuentran a trav&eacute;s de toda <strong>la regi&oacute;n andina</strong> y de los sistemas independientes de alta monta&ntilde;a.</p>
+<p>En Colombia, los climas de monta&ntilde;a se encuentran en&nbsp;toda la <strong>regi&oacute;n andina</strong> y en&nbsp;los <strong>sistemas monta&ntilde;osos perif&eacute;ricos</strong>.</p>
 
-<p>Este clima tambi&eacute;n se denomina<strong> pisos t&eacute;rmicos</strong>,&nbsp;condicionado a la temperatura y a la altura.&nbsp;Se divide en clima de monta&ntilde;a c&aacute;lido, templado, fr&iacute;o, p&aacute;ramo y nieve perpetua.</p>
+<p>Este clima da lugar a<strong>&nbsp;pisos t&eacute;rmicos</strong>:<strong>&nbsp;</strong>caliente, templado, fr&iacute;o, p&aacute;ramo y de nieve perpetua.&nbsp;En cada piso t&eacute;rmico, la temperatura, la fauna y la flora var&iacute;an de acuerdo con la altura.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG34n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG34a.jpg">
@@ -273,18 +298,18 @@
 </images>
 </page>
 <page i="0" visible="true" color="">
-<title>Clima de montaña templado: entre los 1.000 y 2.000 m.s.n.m. </title>
-<description><![CDATA[<p>En este tipo clim&aacute;tico se puede hallar el <strong>bosque templado h&uacute;medo</strong>, con una temperatura entre los 10 y 24&deg;C, conocido con el nombre de <strong>piso premontano</strong> o zona cafetera.&nbsp;La vegetaci&oacute;n de esta zona ha sido modificada a trav&eacute;s del tiempo para establecer zonas de cultivos de acuerdo a las necesidades de la poblaci&oacute;n.</p>
+<title>Piso térmico templado </title>
+<description><![CDATA[<p>Las tierras templadas,&nbsp;o&nbsp;<strong>piso premontano,</strong>&nbsp;se localizan entre&nbsp;los 1&nbsp;000 y 2&nbsp;000 metros de altura y su temperatura oscila entre los 10&nbsp;y 24&deg;C. Son <strong>zonas colonizadas</strong> para el cultivo de gran variedad de productos entre los que destaca el <strong>caf&eacute;</strong>.</p>
 
-<p>Sin embargo a&uacute;n se encuentran <strong>bosques de guaduas y ca&ntilde;averales</strong> en las orillas de los r&iacute;os y quebradas que riegan las cordilleras. Algunos &aacute;rboles propios de esta regi&oacute;n son los <strong>yarumos,&nbsp;guayacanes</strong>, ceibas,&nbsp;guamos, chachafrutos, cedros y laureles.&nbsp;La humedad es alta en las laderas de las monta&ntilde;as, all&iacute; se establecen los soto bosques donde abundan los helechos, <strong>heliconias</strong> y platanillos.</p>
+<p>La vegetaci&oacute;n nativa corresponde al bosque templado h&uacute;medo&nbsp;confromado por<strong>&nbsp;</strong><strong>yarumos</strong>,<strong>&nbsp;guayacanes</strong>, ceibas,&nbsp;guamos, chachafrutos, cedros y laureles. La&nbsp;gran humedad&nbsp;de&nbsp;las zonas de ladera&nbsp;favorece la presencia de&nbsp;<strong>helechos</strong>, <strong>heliconias</strong> y platanillos, y de&nbsp;<strong>guaduas </strong>y<strong> ca&ntilde;averales</strong>&nbsp;en las orillas de los r&iacute;os.</p>
 
-<p>Entre las especies nativas de mam&iacute;feros se pueden encontrar monos ardilla, guagua, venados, armadillos, zorros, ardillas, zarig&uuml;eyas y roedores.&nbsp;Aves como azulejos, toches, mirlas, turpiales, sinsontes, perdices, halcones, b&uacute;hos y lechuzas.&nbsp;Adem&aacute;s de anfibios, reptiles e insectos.</p>
+<p>Entre las especies de <strong>fauna&nbsp;nativa</strong>&nbsp;est&aacute;n&nbsp;monos ardilla, guagua, venados, armadillos, zorros, ardillas, zarig&uuml;eyas y roedores. Habitan variedad de aves como azulejos, toches, mirlas, turpiales, sinsontes, perdices, halcones, b&uacute;hos y lechuzas;&nbsp;adem&aacute;s&nbsp;anfibios, reptiles e insectos.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG39n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG39a.jpg">
 <title><![CDATA[Guayacán]]></title>
 </image>
-<image path="CS_07_09_REC150_IMG40n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG40a.jpg">
+<image path="CS_07_09_REC150_IMG40a.jpg" border = "0" pathbig="CS_07_09_REC150_IMG40n.jpg">
 <title><![CDATA[]]></title>
 </image>
 <image path="CS_07_09_REC150_IMG41n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG41a.jpg">
@@ -294,7 +319,7 @@
 <title><![CDATA[Heliconeas]]></title>
 </image>
 <image path="CS_07_09_REC150_IMG43n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG43a.jpg">
-<title><![CDATA[Zarigueya]]></title>
+<title><![CDATA[Zarigueya y ardilla]]></title>
 </image>
 <image path="CS_07_09_REC150_IMG44n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG44a.jpg">
 <title><![CDATA[Armadillo, ñeque, coatí]]></title>
@@ -305,8 +330,12 @@
 </images>
 </page>
 <page i="0" visible="true" color="">
-<title>Clima de montaña frío: entre los 2.000 y 3.000 m.s.n.m. </title>
-<description><![CDATA[<p>Con una temperatura que va entre los 18 y 12&deg;C, en las altas monta&ntilde;as de los Andes colombianos se hallan <strong>los bosques de niebla</strong>.&nbsp;Estas zonas se mantienen en la espesa <strong>niebla o neblina</strong> producto de la condensaci&oacute;n de la humedad o el vapor del agua en estas zonas fr&iacute;as.&nbsp;Las gotas de agua que se forman por esta lluvia constante son absorbidas por los <strong>musgos, hongos, helechos&nbsp; y epifitas</strong> que las depositan en el suelo para formar lentamente arroyos, quebradas y r&iacute;os que rodar&aacute;n hacia las zonas m&aacute;s bajas de la monta&ntilde;a.</p>
+<title>Piso térmico frío</title>
+<description><![CDATA[<p>Se localiza entre los 2 000 y 3 000 metros de altura y su temperatura oscila&nbsp;entre&nbsp;18 y 12&deg;C.</p>
+
+<p>Estas zonas se caracterizan por la presencia de una espesa <strong>niebla</strong>, que da lugar a los llamados&nbsp;<strong>bosques de niebla </strong>con especies como encenillo, morti&ntilde;o, canelo&nbsp;y aliso, donde prospera gran variedad de orqu&iacute;deas, bromelias, helechos, musgos y hongos.&nbsp;</p>
+
+<p>La permanente condensaci&oacute;n de vapor de agua y las lluvias forman&nbsp;los <strong>arroyos</strong>, <strong>quebradas</strong> y <strong>r&iacute;os</strong> que recorren los valles y llanuras.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG46n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG46a.jpg">
@@ -321,12 +350,12 @@
 </images>
 </page>
 <page i="0" visible="true" color="">
-<title>Clima de montaña de subpáramo al páramo</title>
-<description><![CDATA[<p>El<strong> clima de monta&ntilde;a de subp&aacute;ramo</strong>&nbsp;va de los 3.000 a 4.000 m.s.n.m&nbsp;y el clima de monta&ntilde;a de p&aacute;ramo va de los 4.000 a 5.000 m.s.n.m.</p>
+<title>Piso térmico páramo</title>
+<description><![CDATA[<p>Los<strong>&nbsp;</strong>p&aacute;ramos, conocidos como <strong>f&aacute;bricas de agua</strong>, se localizan entre&nbsp;3&nbsp;000 y&nbsp;4 500 metros de altura. Presentan&nbsp;temperaturas entre los 6&nbsp;y&nbsp;12&deg;C, vientos fr&iacute;os y&nbsp;fuertes,&nbsp;y&nbsp;constantes precipitaciones en forma de <strong>llovizna</strong>.&nbsp;En las horas de la noche la temperatura puede descender fuertemente y se produce la <strong>escarcha</strong> que envuelve las hojas de las plantas.&nbsp;</p>
 
-<p>Esta es una <strong>zona de transici&oacute;n</strong> entre el bosque de niebla y las zonas nevadas, con temperaturas entre los 6 y&nbsp;12&deg;C, fuertes y fr&iacute;os vientos y constantes precipitaciones en forma de <strong>llovizna</strong>.&nbsp;En las horas de la noche la temperatura puede descender fuertemente y se produce la <strong>escarcha</strong> que envuelve las hojas de las plantas.&nbsp;La vegetaci&oacute;n var&iacute;a desde los frailejones que pueden medir varios metros hasta los helechos, musgos y pastizales a ras de la tierra.&nbsp;Estos &uacute;ltimos sirven como esponjas para alimentar las fuentes de agua de lagos y lagunas que ser&aacute;n el origen de varios r&iacute;os.&nbsp;</p>
+<p>La vegetaci&oacute;n var&iacute;a desde&nbsp;frailejones que pueden alcanzar&nbsp;varios metros de altura, hasta&nbsp;helechos, musgos y pastizales,&nbsp;a ras de la tierra.&nbsp;Estos &uacute;ltimos act&uacute;an como esponjas que&nbsp;alimentan&nbsp;las fuentes de agua.&nbsp;</p>
 
-<p>Se encuentran varias especies animales como el <strong>oso de anteojos,</strong>&nbsp;danta de p&aacute;ramo, conejos, roedores&nbsp;e insectos que cumplen una importante funci&oacute;n de polinizaci&oacute;n, adem&aacute;s del imponente <strong>c&oacute;ndor de los Andes</strong>, que es el ave de mayor envergadura que existe.</p>
+<p>En el p&aacute;ramo habitan el <strong>oso de anteojos</strong>,&nbsp;la danta de p&aacute;ramo, conejos, roedores&nbsp;e insectos, adem&aacute;s del imponente <strong>c&oacute;ndor de los Andes</strong>, que es el ave de mayor envergadura que existe.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG49n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG49a.jpg">
@@ -347,10 +376,13 @@
 </images>
 </page>
 <page i="0" visible="true" color="">
-<title>Clima de montaña nieve perpetua: más de 5.000 m.s.n.m</title>
-<description><![CDATA[<p>La temperatura desciende a los 0&deg;C y la superficie se encuentra <strong>cubierta de nieve</strong> la mayor parte del a&ntilde;o.&nbsp;Las precipitaciones son en forma de <strong>granizo o copos de nieve</strong> y sus suelos no tienen la posibilidad de guardar vida. <strong>No posee formas de vida</strong> de forma constante.</p>
+<title>Piso térmico de nieve perpetua</title>
+<description><![CDATA[<p>Este clima corresponde a las tierras ubicadas por encima de<br />
+5 000 metros con&nbsp;temperaturas&nbsp;inferiores a&nbsp;0&deg;C.</p>
 
-<p>Las monta&ntilde;as nevadas en Colombia tienden a desaparecer, pero a&uacute;n se pueden hallar en la Sierra Nevada de Santa Marta, Parque Nacional Natural de los Nevados y Sierra del Cocuy.</p>
+<p>Los suelos se encuentran&nbsp;<strong>cubiertos&nbsp;de nieve</strong> la mayor parte del a&ntilde;o y&nbsp;no permiten la presencia de fauna y flora.</p>
+
+<p>Aunque el calentamiento global ha ocasionado la reducci&oacute;n de&nbsp;las nieves perpetuas,&nbsp;en&nbsp;Colombia a&uacute;n se mantiene parte de los nevados de&nbsp;la <strong>Sierra Nevada de Santa Marta</strong>, el <strong>Parque Nacional Natural de los Nevados</strong> y en la <strong>Sierra del Cocuy</strong>.</p>
 ]]></description>
 <images>
 <image path="CS_07_09_REC150_IMG54n.jpg" border = "0" pathbig="CS_07_09_REC150_IMG54a.jpg">
