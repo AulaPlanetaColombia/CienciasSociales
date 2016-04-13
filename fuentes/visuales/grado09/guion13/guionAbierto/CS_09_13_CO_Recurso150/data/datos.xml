@@ -1,7 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f10b">
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f10b">
 <main mode="f10b" title="Conflicto y derechos humanos en Colombia">
-<tf><![CDATA[<p><img alt="" src="data/imagenes/cs_09_13_co_rec150_img01.jpg" style="height:364px; width:563px" /></p>
-]]></tf>
+<tf><![CDATA[<p><img alt="" src="data/imagenes/cs_09_13_co_rec150_img01.jpg" style="height:364px; width:563px" /></p>]]></tf>
 </main>
 <presentation title="Colombia, identidad y derechos" title2="Contexto" buttons="false" bkclass="">
 	<definition>
@@ -67,9 +66,10 @@ el concepto naci&oacute;n&nbsp;hace referencia al <strong>grupo de personas</str
 	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">&iquest;C&oacute;mo ha afectado el conflicto armado el reconocimiento y cumplimiento de los derechos humanos en Colombia?</span></span></p>
 	</li>
 	<li>
-	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Es suficiente el reconocimiento jur&iacute;dico por parte del Estado para garantizar el cumplimiento de los derechos humanos?</span></span></p>
+	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Es suficiente el reconocimiento jur&iacute;dico por parte del Estado para garantizar el cumplimiento de los derechos humanos? Argumenta tu respuesta.</span></span></p>
 	</li>
-</ul>]]></def>
+</ul>
+]]></def>
 	</definition>
 	<definition>
 		<title></title>
@@ -78,12 +78,13 @@ el concepto naci&oacute;n&nbsp;hace referencia al <strong>grupo de personas</str
 
 <ul>
 	<li>
-	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Pueden los derechos humanos estar sometidos o sujetos de cumplimiento a las particularidades de los Estados?</span></span></p>
+	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Pueden los derechos humanos estar sometidos o sujetos de cumplimiento a las particularidades de los Estados? &iquest;Por qu&eacute;?</span></span></p>
 	</li>
 	<li>
-	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Son suficientes los mecanismos de protecci&oacute;n establecidos en la Constituci&oacute;n Pol&iacute;tica para dar cumplimiento a los derechos humanos?</span></span></p>
+	<p><span style="font-size:25px"><span style="font-family:verdana,geneva,sans-serif">&iquest;Son suficientes los mecanismos de protecci&oacute;n establecidos en la Constituci&oacute;n Pol&iacute;tica para dar cumplimiento a los derechos humanos? &iquest;Por qu&eacute;?</span></span></p>
 	</li>
-</ul>]]></def>
+</ul>
+]]></def>
 	</definition>
 </presentation>
 <masinfo>
