@@ -2,6 +2,7 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_08_13_CO">
 <libroTitulo>La Constitución Política</libroTitulo>
 <seccion1 id="S1_CS_08_13_CO_4991ADB0F079487FA34DC68E3B303950">
@@ -545,7 +546,7 @@ el nombre de <negrita>República de Colombia</negrita>.</p>
 </recuerdaTexto></recuerda><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso070&amp;IdRecurso=RES-109E7BC9E64C45CAA72F7D2CFE96D637"
->Reconoce los principales mandatos de las constituciones colombianas
+>Reconoce los principales mandatos de las Constituciones colombianas
 del siglo XIX</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_08_13_CO_44650928718E4E05ADF2F59FE411B65F">
@@ -605,14 +606,13 @@ de extradición con Estados Unidos. En 1989, un ataque terrorista del
 cartel de Medellín destruyó las instalaciones del Departamento Administrativo
 de Seguridad, DAS, y causó la muerte de 63 personas.</p>
 </imagen>
-<p>La segunda mitad del <negrita>siglo XX</negrita> en Colombia, entonces,
-se caracterizó por el <negrita>temor</negrita> popular, la <negrita
->corrupción</negrita> de los funcionarios que caían en las redes del <negrita
->narcotráfico</negrita> y el <negrita>asesinato</negrita> de los que
-se oponían, la <negrita>falta de garantías</negrita> para la <negrita
->participación ciudadana segura</negrita> en los asuntos del país,
-y la urgencia de <negrita>unir fuerzas y voluntades</negrita> para
-enfrentar estos problemas.</p>
+<p>Hacia el final del siglo XX la sociedad colombiana enfrentó numerosos
+ataques terroristas, la <negrita>corrupción</negrita> de los funcionarios
+que caían en las redes del <negrita>narcotráfico</negrita> y el <negrita
+>asesinato</negrita> de los que se oponían, la <negrita>falta de garantías</negrita
+> para la <negrita>participación ciudadana segura</negrita> en los
+asuntos del país, y comprendió la urgencia de <negrita>unir fuerzas
+y voluntades</negrita> para enfrentar estos problemas.</p>
 <p>Por ello, comenzó a pensarse en una nueva Constitución, que diera
 cabida a la <negrita>pluralidad</negrita> de ideas y opiniones, que <negrita
 >involucrara a la ciudadanía</negrita> en los asuntos públicos y que
@@ -856,7 +856,7 @@ del mecanismo de <negrita>acción popular</negrita>.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso110&amp;IdRecurso=RES-A72F6CA9844F41F2A340CE4E5D0AD995"
 >Identifica los derechos contemplados en la Constitución Política
-de 1991</enlace>
+de 1991</enlace><?Pub Caret -3?>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_CS_08_13_CO_C76E403F36174B5BA6C96827DF07C604">
 <seccion2Titulo>La organización del Estado Social de Derecho en Colombia</seccion2Titulo>
@@ -976,7 +976,7 @@ se asegura de que los procesos electorales cumplan con los rasgos
 de un Estado democrático y constitucional, realiza el conteo de votos,
 y reglamenta la participación política de partidos, movimientos y
 candidatos.</listaElemento>
-</listaSinNumerar><?Pub Caret -3?>
+</listaSinNumerar>
 </seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
 id="S2_CS_08_13_CO_C76E403F36174B5BA6C96827DF07A715">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -995,8 +995,8 @@ destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso150&amp;IdRecurso=RES-294304
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso160&amp;IdRecurso=RES-CE833F67FCAE4B9B9C4A459E154ECE82"
->Competencias: estudio de los servicios que ofrecen las instituciones
-que protegen los derechos de los colombianos</enlace>
+>Competencias: consulta sobre las instituciones y los mecanismos que
+protegen los derechos de los colombianos</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_08_13_CO_Recurso170&amp;IdRecurso=RES-AF0EDD38192C4C2A9FF683B5A92DEF15"
 >Proyecto: investigación sobre el trámite para crear las leyes en
