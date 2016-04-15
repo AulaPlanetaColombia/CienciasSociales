@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Identifica las principales características del Humanismo</titulo>
+    <volumen><![CDATA[2]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[cs_08_15_07]]></referencia>
+    <id_reg><![CDATA[186]]></id_reg>
+    <motor><![CDATA[M5b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde a las siguientes preguntas después de ver el vídeo sobre la cultura humanista del Renacimiento.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál de estos pensadores no perteneció al Humanismo?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VIN00093_MINI.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Erasmo de Rotterdam" correcta="0"/>
+        <respuesta contestacion="Luis Vives" correcta="0"/>
+        <respuesta contestacion="Descartes" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué criticaba Erasmo de Rotterdam de la Iglesia católica?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VIN00093_MINI.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Que no le hubieran hecho cardenal." correcta="0"/>
+        <respuesta contestacion="La no persecución de la herejía protestante." correcta="0"/>
+        <respuesta contestacion="Los abusos del clero y el alejamiento del Evangelio." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué proponía Erasmo de Rotterdam en {{cur}}Elogio de la locura{{normal}}?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VIN00093_MINI.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Rezar tres veces al día en dirección a Roma." correcta="0"/>
+        <respuesta contestacion="Una fe más evangélica y llegar a Dios por la oración." correcta="1"/>
+        <respuesta contestacion="Crear un evangelio propio más acorde con el siglo XVI." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué escritor español representa el modelo de caballero y poeta renacentista?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VIN00093_MINI.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Garcilaso de la Vega" correcta="1"/>
+        <respuesta contestacion="Miguel Servet" correcta="0"/>
+        <respuesta contestacion="Luis Vives" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿A favor de quién luchó Garcilaso de la Vega en la revuelta de las Comunidades?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VIN00093_MINI.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="A favor de Felipe II." correcta="0"/>
+        <respuesta contestacion="A favor de los comuneros." correcta="0"/>
+        <respuesta contestacion="A favor de Carlos V." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Por quién moría Garcilaso de la Vega?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VIN00093_MINI.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Por Isabel Freire." correcta="1"/>
+        <respuesta contestacion="Por Carlos V." correcta="0"/>
+        <respuesta contestacion="Por la poesía." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Quién descubrió la circulación pulmonar de la sangre?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VIN00093_MINI.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="Miguel Servet" correcta="1"/>
+        <respuesta contestacion="Luis Vives" correcta="0"/>
+        <respuesta contestacion="Erasmo de Rotterdam" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cuál es la música propia del Renacimiento?]]></enunciado>
+      <explicacion/>
+      <video><![CDATA[VIN00093_MINI.mp4]]></video>
+      <salto/>
+      <respuestas>
+        <respuesta contestacion="La polifonía." correcta="1"/>
+        <respuesta contestacion="La monofonía." correcta="0"/>
+        <respuesta contestacion="La politonía." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

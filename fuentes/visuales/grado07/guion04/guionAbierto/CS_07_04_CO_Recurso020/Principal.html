@@ -3,7 +3,7 @@
     <head><meta charset="iso-8859-1">
         
         <meta http-equiv="X-UA-Compatible" content="IE=10">
-        <title>Identifica los derechos contemplados en la Constitución Política de 1991</title>
+        <title>Identifica las principales características del Humanismo</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
@@ -38,6 +38,7 @@
 				    waitForDocumentReady: true, 
 
 				    onEndLoading: function (mf) {
+
 				    	if (mf.errors.length > 0) {
 				    		logPreloaderErrors(mf);
 					        pppSpinner.hide();
@@ -72,9 +73,9 @@
 
 				pppPreloader.init( {
         			aliases: { "module": "CDN" },
-	        		remotePaths: { "module": "motors/m8a/" }
+	        		remotePaths: { "module": "motors/m5b/" }
 	      		});
-
+				
 				pppSpinner.show();
 
 				pppPreloader.loadManifest(manifest);
@@ -94,7 +95,6 @@
         		}
 
 	    </script>
-
     </head>
     <body id="background">
 
@@ -103,10 +103,12 @@
 	        	
 				<div id="mediaHolder" style="height:0px">
 				</div>
+				<div id="moreinfo">
+
+				</div>
 				<canvas id="stage" width="950" height="608"></canvas>
 				<span id="calculator"></span>
 			</div>
 		</div>
-
     </body>
 </html>

@@ -1,109 +1,109 @@
-<?xml version='1.0' encoding='UTF-8'?><motor tipo="8" clase="a" aprid="m8a">
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="8" clase="a" aprid="m8a">
   <plataforma>
     <grado><![CDATA[2]]></grado>
     <titulo>Identifica los derechos contemplados en la Constitución Política de 1991</titulo>
     <area>0</area>
-    <nivel>1</nivel>
+    <nivel>2</nivel>
     <referencia/>
     <idreg><![CDATA[0]]></idreg>
     <motor><![CDATA[M8A]]></motor>
     <lang>es</lang>
   </plataforma>
-  <enunciado><![CDATA[Responde a las siguientes preguntas para conocer los derechos constitucionales de los colombianos]]></enunciado>
+  <enunciado><![CDATA[Selecciona la respuesta más acertada en cada caso, sobre los derechos contemplados en la Constitución Política de 1991.]]></enunciado>
   <masinfo inicio="0"/>
   <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
   <calc><![CDATA[0]]></calc>
   <respuestaunica><![CDATA[0]]></respuestaunica>
   <test cantidad="10">
     <cuestion>
-      <enunciado><![CDATA[La Declaración de los derechos del hombre y del ciudadano nacen  los derechos de la primera generación, este se dio durante…?]]></enunciado>
-      <imagen><![CDATA[9.jpg]]></imagen>
-      <ampliacion/>
-      <explicacion><![CDATA[De acuerdo a la pregunta, busque solo una opción de respuesta]]></explicacion>
+      <enunciado><![CDATA[Los derechos de primera generación de la Constitución de 1991 se fundamentan en la Declaración de los Derechos del Hombre y del Ciudadano. Estos surgieron en el contexto de la]]></enunciado>
+      <imagen><![CDATA[CS_08_13_REC110_IMG09n.png]]></imagen>
+      <ampliacion><![CDATA[CS_08_13_REC110_IMG09a.png]]></ampliacion>
+      <explicacion><![CDATA[Seleccione solo una opción de respuesta.]]></explicacion>
       <respuestas>
-        <respuesta contestacion="La Revolución Francesa" correcta="on"/>
-        <respuesta contestacion="Expedición de la Nueva Granada" correcta="0"/>
-        <respuesta contestacion="Independencia de los Estados Unidos" correcta="0"/>
-        <respuesta contestacion="La Revolución de los Comuneros" correcta="0"/>
+        <respuesta contestacion="Revolución francesa." correcta="on"/>
+        <respuesta contestacion="Expedición Botánica." correcta="0"/>
+        <respuesta contestacion="Independencia de Estados Unidos." correcta="0"/>
+        <respuesta contestacion="Revolución de los comuneros." correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[A continuación encontrará un listado correspondiente a  los Derechos de Primera Generación o Derechos Civiles y Políticos, uno de los descritos no pertenece a ellos]]></enunciado>
-      <imagen><![CDATA[1.jpg]]></imagen>
-      <ampliacion/>
-      <explicacion><![CDATA[De acuerdo a la pregunta, busque solo una opción de respuesta]]></explicacion>
+      <enunciado><![CDATA[Esta lista contiene algunos derechos de primera generación, conocidos como Civiles y Políticos. Un derecho que no pertenece a este grupo es]]></enunciado>
+      <imagen><![CDATA[CS_08_13_REC110_IMG01n.png]]></imagen>
+      <ampliacion><![CDATA[CS_08_13_REC110_IMG01a.png]]></ampliacion>
+      <explicacion><![CDATA[Seleccione solo una opción de respuesta.]]></explicacion>
       <respuestas>
-        <respuesta contestacion="Todos tienen derecho a seguridad social " correcta="on"/>
-        <respuesta contestacion="Todos tienen derechos y libertades fundamentales" correcta="0"/>
-        <respuesta contestacion="Todo individuo tiene derecho la vida y  la libertad" correcta="0"/>
-        <respuesta contestacion="Nadie estará sometido a esclavitud o servidumbre" correcta="0"/>
+        <respuesta contestacion="el derecho a la seguridad social. " correcta="on"/>
+        <respuesta contestacion="las libertades fundamentales." correcta="0"/>
+        <respuesta contestacion="el derecho a la vida." correcta="0"/>
+        <respuesta contestacion="el derecho a no ser esclavizado ni sometido." correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[Los derechos de Segunda Generación o Derechos Económicos, Sociales y Culturales tienen como objetivo]]></enunciado>
-      <imagen><![CDATA[5.jpg]]></imagen>
-      <ampliacion/>
-      <explicacion><![CDATA[De acuerdo a la pregunta, busque solo una opción de respuesta]]></explicacion>
+      <enunciado><![CDATA[Los derechos de segunda generación, o Derechos Económicos, Sociales y Culturales, tienen como objetivo]]></enunciado>
+      <imagen><![CDATA[CS_08_13_REC110_IMG04n.png]]></imagen>
+      <ampliacion><![CDATA[CS_08_13_REC110_IMG04a.png]]></ampliacion>
+      <explicacion><![CDATA[Seleccione solo una opción de respuesta.]]></explicacion>
       <respuestas>
-        <respuesta contestacion="Garantiza bienestar economía, trabajo, educación y cultura" correcta="on"/>
-        <respuesta contestacion="Protección contra agresión de algún órgano público" correcta="0"/>
-        <respuesta contestacion="Contempla derecho a la paz y medio ambiente sano" correcta="0"/>
-        <respuesta contestacion="Organiza fuerza pública y crea mecanismos judiciales" correcta="0"/>
+        <respuesta contestacion="garantizar bienestar, economía, trabajo, educación y cultura." correcta="on"/>
+        <respuesta contestacion="proteger contra la agresión de algún órgano público." correcta="0"/>
+        <respuesta contestacion="contemplar el derecho a la paz y al medio ambiente sano." correcta="0"/>
+        <respuesta contestacion="organizar la fuerza pública y crear mecanismos judiciales." correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[Cada grupo de derechos está asociado a un valor fundamental de la Revolución francesa, entre los que se encuentra]]></enunciado>
-      <imagen><![CDATA[3.jpg]]></imagen>
-      <ampliacion/>
-      <explicacion><![CDATA[De acuerdo a la pregunta, busque solo una opción de respuesta]]></explicacion>
+      <enunciado><![CDATA[Cada grupo de derechos está asociado a un valor fundamental de la Revolución francesa. Por ejemplo, ]]></enunciado>
+      <imagen><![CDATA[CS_08_13_REC110_IMG08n.png]]></imagen>
+      <ampliacion><![CDATA[CS_08_13_REC110_IMG08a.png]]></ampliacion>
+      <explicacion><![CDATA[Seleccione solo una opción de respuesta.]]></explicacion>
       <respuestas>
-        <respuesta contestacion="Derecho libertad" correcta="on"/>
-        <respuesta contestacion="Derecho al desarrollo" correcta="0"/>
-        <respuesta contestacion="Derecho a la existencia" correcta="0"/>
-        <respuesta contestacion="Derecho laboral" correcta="0"/>
+        <respuesta contestacion="la libertad." correcta="on"/>
+        <respuesta contestacion="el desarrollo." correcta="0"/>
+        <respuesta contestacion="la existencia." correcta="0"/>
+        <respuesta contestacion="el trabajo." correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[Entre los derechos de primera generación encontramos, uno de los descritos no pertenece a ellos ]]></enunciado>
-      <imagen><![CDATA[4.jpg]]></imagen>
-      <ampliacion/>
-      <explicacion><![CDATA[De acuerdo a la pregunta, busque solo una opción de respuesta]]></explicacion>
+      <enunciado><![CDATA[Uno de estos derechos no corresponde a la primera generación de derechos, sino a la segunda. ¿Cuál es?]]></enunciado>
+      <imagen><![CDATA[CS_08_13_REC110_IMG06n.png]]></imagen>
+      <ampliacion><![CDATA[CS_08_13_REC110_IMG06a.png]]></ampliacion>
+      <explicacion><![CDATA[Seleccione solo una opción de respuesta.]]></explicacion>
       <respuestas>
-        <respuesta contestacion="Educación primaria y secundaria obligatoria y gratuita" correcta="on"/>
-        <respuesta contestacion="Toda persona tiene derecho a circular libremente" correcta="0"/>
-        <respuesta contestacion="Toda persona tiene derecho a una nacionalidad" correcta="0"/>
-        <respuesta contestacion="En persecución política, tiene derecho a asilo " correcta="0"/>
+        <respuesta contestacion="Educación primaria y secundaria obligatoria y gratuita." correcta="on"/>
+        <respuesta contestacion="Circulación libre." correcta="0"/>
+        <respuesta contestacion="Nacionalidad e identidad." correcta="0"/>
+        <respuesta contestacion="Asilo en caso de persecución política." correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[Los derechos fundamentales se reconocen fácilmente por ]]></enunciado>
-      <imagen><![CDATA[8.jpg]]></imagen>
-      <ampliacion/>
-      <explicacion><![CDATA[De acuerdo a la pregunta, busque solo una opción de respuesta]]></explicacion>
+      <enunciado><![CDATA[Los Derechos Fundamentales se reconocen fácilmente por ]]></enunciado>
+      <imagen><![CDATA[CS_08_13_REC110_IMG02n.png]]></imagen>
+      <ampliacion><![CDATA[CS_08_13_REC110_IMG02a.png]]></ampliacion>
+      <explicacion><![CDATA[Seleccione solo una opción de respuesta.]]></explicacion>
       <respuestas>
-        <respuesta contestacion="Su nexo directo con los principios constitucionales" correcta="on"/>
-        <respuesta contestacion="Su aparición es causa de guerras independentistas" correcta="0"/>
-        <respuesta contestacion="La defensa al medio ambiente" correcta="0"/>
-        <respuesta contestacion="La independencia de los Estados Unidos" correcta="0"/>
+        <respuesta contestacion="su nexo directo con los principios constitucionales." correcta="on"/>
+        <respuesta contestacion="su surgimiento a causa de guerras independentistas." correcta="0"/>
+        <respuesta contestacion="la defensa al medio ambiente." correcta="0"/>
+        <respuesta contestacion="la Independencia de América." correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[Derechos económicos, sociales y culturales,comenzaron a ser reconocidos a nivel mundial desde el siglo XX, a partir de la creación de ]]></enunciado>
-      <imagen><![CDATA[7.jpg]]></imagen>
-      <ampliacion/>
-      <explicacion><![CDATA[De acuerdo a la pregunta, busque solo una opción de respuesta]]></explicacion>
+      <enunciado><![CDATA[Los Derechos Económicos, Sociales y Culturales comenzaron a ser reconocidos a nivel mundial desde el siglo XX, a partir de la creación de ]]></enunciado>
+      <imagen><![CDATA[CS_08_13_REC110_IMG07n.png]]></imagen>
+      <ampliacion><![CDATA[CS_08_13_REC110_IMG07a.png]]></ampliacion>
+      <explicacion><![CDATA[Seleccione solo una opción de respuesta.]]></explicacion>
       <respuestas>
-        <respuesta contestacion="La Organización de las Naciones Unidas (ONU) " correcta="on"/>
-        <respuesta contestacion="La organización de estados iberoamericanos (OEI)" correcta="0"/>
-        <respuesta contestacion="La organización de estados americanos (OEA)" correcta="0"/>
-        <respuesta contestacion="Fondo de Naciones Unidas para la Infancia (UNICEF)" correcta="0"/>
+        <respuesta contestacion="la Organización de las Naciones Unidas (ONU). " correcta="on"/>
+        <respuesta contestacion="la Organización de Estados Iberoamericanos (OEI)." correcta="0"/>
+        <respuesta contestacion="la Organización de Estados Americanos (OEA)." correcta="0"/>
+        <respuesta contestacion="el Fondo de Naciones Unidas para la Infancia (UNICEF)." correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[Derechos garantizan la igualdad de todas las personas, incluso de las que se encuentran en condiciones de vulnerabilidad,  para acceder a una vida digna. ]]></enunciado>
-      <imagen><![CDATA[6.jpg]]></imagen>
-      <ampliacion/>
-      <explicacion><![CDATA[De acuerdo a la pregunta, busque solo una opción de respuesta]]></explicacion>
+      <enunciado><![CDATA[Al contemplar esta noción, la Constitución de 1991 asegura que el Estado colombiano tiene el deber de garantizar la igualdad de las personas, incluso de las que se encuentran en condiciones de vulnerabilidad. ]]></enunciado>
+      <imagen><![CDATA[CS_08_13_REC110_IMG05n.png]]></imagen>
+      <ampliacion><![CDATA[CS_08_13_REC110_IMG05a.png]]></ampliacion>
+      <explicacion><![CDATA[Selecciona solo una opción de respuesta.]]></explicacion>
       <respuestas>
         <respuesta contestacion="Estado Social de Derecho " correcta="on"/>
         <respuesta contestacion="Estado de Unión Real" correcta="0"/>
@@ -112,27 +112,27 @@
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[Derechos colectivos y del ambiente,  proteger el medio ambiente en el que vive la comunidad es un derecho colectivo, pues afecta]]></enunciado>
-      <imagen><![CDATA[10.jpg]]></imagen>
-      <ampliacion/>
-      <explicacion><![CDATA[De acuerdo a la pregunta, busque solo una opción de respuesta]]></explicacion>
+      <enunciado><![CDATA[El proteger el medio ambiente en el que vive la comunidad es un derecho Colectivo y del Medio Ambiente, pues afecta la]]></enunciado>
+      <imagen><![CDATA[CS_08_13_REC110_IMG10n.png]]></imagen>
+      <ampliacion><![CDATA[CS_08_13_REC110_IMG10a.png]]></ampliacion>
+      <explicacion><![CDATA[Seleccione solo una opción de respuesta.]]></explicacion>
       <respuestas>
-        <respuesta contestacion="La supervivencia de la especie humana" correcta="on"/>
-        <respuesta contestacion="La supervivencia de la democracia" correcta="0"/>
-        <respuesta contestacion="La supervivencia de la economía" correcta="0"/>
-        <respuesta contestacion="La supervivencia de la cultura" correcta="0"/>
+        <respuesta contestacion="supervivencia de la especie humana." correcta="on"/>
+        <respuesta contestacion="continuidad de la democracia." correcta="0"/>
+        <respuesta contestacion="superación de la economía." correcta="0"/>
+        <respuesta contestacion="prolongación de la cultura." correcta="0"/>
       </respuestas>
     </cuestion>
     <cuestion>
-      <enunciado><![CDATA[Los derechos colectivos y del ambiente, estos derechos pueden ser exigidos por los ciudadanos a través del mecanismo de ]]></enunciado>
-      <imagen><![CDATA[2.jpg]]></imagen>
-      <ampliacion/>
-      <explicacion><![CDATA[De acuerdo a la pregunta, busque solo una opción de respuesta]]></explicacion>
+      <enunciado><![CDATA[Los derechos Colectivos y del Ambiente pueden ser exigidos por los ciudadanos a través del mecanismo de ]]></enunciado>
+      <imagen><![CDATA[CS_08_13_REC110_IMG03n.png]]></imagen>
+      <ampliacion><![CDATA[CS_08_13_REC110_IMG03a.png]]></ampliacion>
+      <explicacion><![CDATA[Seleccione solo una opción de respuesta.]]></explicacion>
       <respuestas>
-        <respuesta contestacion="La acción popular" correcta="on"/>
-        <respuesta contestacion="El Plebiscito" correcta="0"/>
-        <respuesta contestacion="El Referendo" correcta="0"/>
-        <respuesta contestacion="La Consulta Popular" correcta="0"/>
+        <respuesta contestacion="acción popular." correcta="on"/>
+        <respuesta contestacion="plebiscito." correcta="0"/>
+        <respuesta contestacion="referendo." correcta="0"/>
+        <respuesta contestacion="consulta popular." correcta="0"/>
       </respuestas>
     </cuestion>
   </test>
