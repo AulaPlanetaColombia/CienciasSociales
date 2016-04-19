@@ -26,7 +26,7 @@ Rojas Pinilla.</p>
 Lleras Camargo el presidente que le dio inicio a esta modalidad de
 gobierno.</p>
 </recuerdaTexto></recuerda>
-<imagen ampliable="no" src="CS_09_09_CO_IMG01_small.jpg">
+<imagen src="CS_09_09_CO_IMG01_small.jpg">
 <p>El <negrita>Pacto de Sitges</negrita> fue un acuerdo entre los
 partidos conservador y liberal en 1957. Entró en vigor con el derrocamiento
 de la dictadura de Rojas Pinilla (1957). El pacto institucionalizó
@@ -69,7 +69,7 @@ planes <negrita>de vivienda popular</negrita> y se intentó una <negrita
 destino="/LoIdRedirect.aspx?LoId=CS_09_09_CO_Recurso010&amp;IdRecurso=RES-0FA67C9417AA401983713573ABD7C258"
 >La Alianza para el Progreso</enlace>
 </profundiza>
-<imagen ampliable="no" src="CS_09_09_CO_IMG02_small.jpg">
+<imagen src="CS_09_09_CO_IMG02_small.jpg">
 <p>Durante el gobierno de Alberto Lleras, en diciembre de 1961 se
 llevó a cabo la visita del presidente estadounidense John F. Kennedy.
 En aquella ocasión se puso en marcha la Alianza para el Progreso.</p>
@@ -102,7 +102,7 @@ las <negrita>Fuerzas Armadas Revolucionarias de Colombia</negrita
 > (Farc)<enlace
 destino="http://www.senalmemoria.gov.co/articulos/la-%E2%80%9Coperaci%C3%B3n-marquetalia%E2%80%9D-en-1964"
 > [VER]</enlace>.</p>
-<imagen ampliable="no" src="CS_09_09_CO_IMG03_small.jpg">
+<imagen src="CS_09_09_CO_IMG03_small.jpg">
 <p>El conservador Guillermo León Valencia fue el segundo presidente
 del Frente Nacional. Durante su mandato ocurrió la Operación Marquetalia,
 una intervención militar contra comunidades de campesinos que habían
@@ -367,7 +367,7 @@ Frente Nacional. Con el decreto 1923 del 6 de septiembre de 1978,
 que rigió hasta el 9 de junio de 1982, se tomaron un conjunto de medidas
 que <negrita>restringieron</negrita> los <negrita>derechos</negrita
 > y las garantías individuales.</p>
-<imagen ampliable="no" src="CS_09_09_CO_IMG07_small.jpg">
+<imagen src="CS_09_09_CO_IMG07_small.jpg">
 <p>Julio César Turbay Ayala enfrentó a las guerrillas colombianas
 al promulgar el Estatuto de Seguridad, que concedió amplios poderes
 a las Fuerzas Militares.</p>
@@ -645,7 +645,7 @@ destino="http://www.elespectador.com/impreso/internacional/articuloimpreso-21383
 con las Farc</negrita>. Para ello se creó una <negrita>zona de distensión
 en el Caguán</negrita>, compartida por cuatro municipios de los departamentos
 del Meta y del Caquetá. Entre noviembre de 1998 y febrero de 2002.</p>
-<imagen ampliable="no" src="CS_09_09_CO_IMG13_small.jpg">
+<imagen src="CS_09_09_CO_IMG13_small.jpg">
 <p>Durante su mandato, Andrés Pastrana intentó sin éxito llevar a
 cabo negociaciones de paz con las Fuerzas Armadas Revolucionarias
 de Colombia (Farc), los grupos paramilitares y el Ejército de Liberación
@@ -679,10 +679,11 @@ en el país del norte. Para que esto pueda ser benéfico para el país
 se requiere que haya una igualdad de condiciones en los subsidios
 que otorgan los Estados a sus agricultores e industriales, asunto
 que se convierte en un desafío para Colombia, dado que su industria
-es poca y las ayudas para los agricultores son insuficientes.</p>
+es poca y las ayudas para los agricultores son insuficientes.</p><?Pub
+Caret -2?>
 <imagen src="CS_09_09_CO_IMG14_small.jpg">
 <p>Con los tratados de libre comercio, los agricultores e industriales
-colombianos  compiten con productos extranjeros que llegan a precios
+colombianos compiten con productos extranjeros que llegan a precios
 subsidiados (más baratos), lo que dificulta la estabilidad en la producción
 y afecta a los campesinos.</p>
 </imagen>
@@ -750,12 +751,15 @@ de la apertura se dio vía libre a la <negrita>inversión extranjera</negrita
 > y a la privatización de sectores como las telecomunicaciones, la
 salud y las pensiones. Esto benefició al sector privado, pero afectó
 las finanzas públicas.</p>
+<imagen src="CS_09_09_CO_IMG17_small.jpg">
+<p>Cambia pie</p>
+</imagen>
 <p>Así mismo, a partir de los años noventa y hasta el presente se
 han firmado más <negrita>tratados de libre comercio</negrita>, con
 los que se espera poner a competir al país con otros igual o más poderosos,
 lo que exige políticas de estímulo a la producción industrial que
 hasta ahora son débiles.</p>
-<imagen src="CS_09_09_CO_IMG17_small.jpg">
+<imagen src="CS_09_09_CO_IMG16_small.jpg">
 <p>El territorio donde se realizan las explotaciones mineras muchas
 veces está ubicado en ecosistemas frágiles o está habitado por comunidades
 desde hace muchos años. Esto convierte a la locomotora minera en un
@@ -766,7 +770,7 @@ país son aquellas en donde se desarrollan proyectos de minería.</p>
 >“locomotora minera”</negrita>, que consiste en propiciar las condiciones
 para la extracción de minerales, como oro, carbón y petróleo. La infraestructura
 para su explotación proviene de países desarrollados, que son los
-llamados a instalar la maquinaria.</p><?Pub Caret -3?>
+llamados a instalar la maquinaria.</p>
 <seccion2 id="S2_CS_09_09_CO_63D2139854EC4E57AA79662F07F50A2A">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
@@ -898,9 +902,8 @@ e proceso. Es una mezcla de ritmos cosmopolitas y locales tradicionales.
 Vives, pero también grupos recientemente conformados, como <cursiva
 >Choquibtown</cursiva>, Puerto Candelaria, Herencia de Timbiquí, Vokaribe
 o Sistema Solar.</p>
-<imagen src="CS_09_09_CO_IMG16_small.jpg">
-<p>Juanes es un compositor y cantante colombiano de gran reconocimiento
-en el mundo.</p>
+<imagen src="CS_09_09_CO_IMG18_small.jpg">
+<p>Cambiar pie</p>
 </imagen>
 <p>La divulgación de ritmos locales les ha permitido tener mayor audiencia
 a expresiones del Pacífico, como las <negrita>cantadoras</negrita
