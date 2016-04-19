@@ -594,12 +594,12 @@ Corona, mientras que después de la <negrita>Independencia</negrita
 mestizos, negros e indios asumieron que podían ser <negrita>sujetos
 políticos</negrita>.</listaElemento>
 </listaSinNumerar>
-<imagen src="CS_08_08_CO_IMG11_small.jpg">
+<imagen ampliable="no" src="CS_08_08_CO_IMG11_small.jpg">
 <p>A finales del siglo XIX se publicaron <negrita>manuales de urbanidad</negrita
 >, que asociaban la ciudadanía con las buenas maneras. Estos textos
 enseñaban a los ciudadanos el buen comportamiento que debían tener
 en público, incluso si no tenían acceso a educación, trabajo o vivienda
-digna.</p>
+digna.</p><?Pub Caret -2?>
 </imagen>
 <p>Por su parte, las posiciones <negrita>liberales</negrita>:</p>
 <listaSinNumerar>
@@ -697,5 +697,5 @@ destino="http://www.jorgeorlandomelo.com/bajar/constitucion1886.pdf"
 <enlace
 destino="http://www.banrepcultural.org/blaavirtual/exhibiciones/ferrocarriles/secciones/historia_general.htm"
 >Recuento sobre la historia de los ferrocarriles a nivel mundial y
-nacional.</enlace><?Pub Caret -1?>
+nacional.</enlace>
 </enlacesreferencia></masinformacion></libro>
