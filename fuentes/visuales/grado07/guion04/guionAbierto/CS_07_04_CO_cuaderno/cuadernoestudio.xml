@@ -484,7 +484,7 @@ se gobernaba desde la capital.</listaElemento>
 <listaElemento>La <negrita>burocracia del Estado</negrita>: el monarca
 contaba con un gran número de funcionarios para administrar el Estado.</listaElemento>
 </listaSinNumerar>
-<imagen src="CS_07_04_CO_IMG19_small.jpg">
+<imagen ampliable="no" src="CS_07_04_CO_IMG19_small.jpg">
 <p>El ejemplo más representativo de monarca absoluto es Luis XIV de
 Francia, a quien se le atribuye la frase: “El Estado soy yo”, expresión
 que representa la idea de la acumulación de todos los poderes del
@@ -731,14 +731,14 @@ destino="/LoIdRedirect.aspx?LoId=CS_07_04_CO_Recurso170&amp;IdRecurso=RES-E94810
 >Refuerza tu aprendizaje: La monarquía absoluta</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_07_04_CO_6B935B0A4A3B4E198F7EFA7FDEB6BC56">
-<seccion1Titulo>La Ilustración</seccion1Titulo>
+<seccion1Titulo>La Ilustración</seccion1Titulo><?Pub Caret -3?>
 <seccion1Texto>
 <p>A lo largo del siglo XVIII, en toda Europa triunfó una corriente
 cultural y de pensamiento: la Ilustración. Esta utilizó el <negrita
 >racionalismo</negrita>, la <negrita>observación</negrita> y la <negrita
 >experimentación</negrita>, como métodos de estudio del mundo con
 la voluntad de poner fin a siglos de ignorancia y superstición.</p>
-<imagen src="CS_07_04_CO_IMG23_small.jpg">
+<imagen ampliable="no" src="CS_07_04_CO_IMG23_small.jpg">
 <p>Gottfried Leibniz, filósofo y matemático alemán, erudito e interesado
 por numerosas disciplinas, creó un espacio epistemológico propio y
 vital al interrelacionar el racionalismo europeo continental de Descartes
@@ -938,5 +938,5 @@ destino="http://www.hiru.eus/filosofia/la-ilustracion-y-las-revoluciones-burgues
 >La Ilustración.</enlace>
 <enlace
 destino="http://recursostic.educacion.es/secundaria/edad/4esohistoria/quincena2/quincena2_contenidos_5c.htm"
->El Estado Moderno.</enlace><?Pub Caret 16?>
+>El Estado Moderno.</enlace>
 </enlacesreferencia></masinformacion></libro>
