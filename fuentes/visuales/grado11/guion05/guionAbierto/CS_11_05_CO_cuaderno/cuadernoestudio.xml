@@ -1,431 +1,572 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_11_05_CO">
-  <libroTitulo>Colombia, un Estado Social de Derecho</libroTitulo>
-  <seccion1 id="S1_CS_11_05_CO_7EDA1FE2B9484AC7B59F7B56B8FDEC66">
-    <seccion1Titulo>El Estado</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_11_05_CO_2B219BF2D5804F8D98BDFD1782D03B64">
-        <seccion2Titulo>El Estado y la nación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_05_CO_img_01_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso010&amp;IdRecurso=RES-C52F1874A16E45838ED0443D22326BA7">El Estado y la nación</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_05_CO_img_02_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso020&amp;IdRecurso=RES-4200E9DE10A34448A90FDF31F847E46F">Distingue entre Estado y nación</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_05_CO_E8C2B61CF2424135ABD7A21CD9492A27">
-        <seccion2Titulo>Los tipos de Estado</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_05_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso030&amp;IdRecurso=RES-D73BA0A40D464CCA922BCB4E4A7EDB47">Los tipos de Estado</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_05_CO_img_04_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso040&amp;IdRecurso=RES-2C842B90AE5C44938C942C122003F079">Reconoce los elementos que definen los distintos tipos de Estado</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_05_CO_4541E09A9515440DA024F052D95154E4">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_05_CO_img_05_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso050&amp;IdRecurso=RES-9DA7761994AF4FD6B7D2C13AF94417D6">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_05_CO_411EA3E575F94914A47FDE75E3289B71">
-    <seccion1Titulo>El Estado social de derecho</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_11_05_CO_7370E3C4387543E08BBEEE4FAAB415CD">
-        <seccion2Titulo>El Estado Social</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_05_CO_img_06_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso060&amp;IdRecurso=RES-CB2E9696DA234256AAC2AEFCAB8073CB">Recurso F6-01</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_05_CO_B5962B0AE8B7460B99B16644216FABF8">
-        <seccion2Titulo>El Estado de Derecho</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_05_CO_img_07_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso070&amp;IdRecurso=RES-811B51CE6EF544B39C4607AF0BBEA1B6">Recurso M2A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_05_CO_img_08_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso080&amp;IdRecurso=RES-F7CA1C64A24D47BA86BDABD298B7C832">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_05_CO_E75745A8F82C47198576F73C0EAE6C03">
-    <seccion1Titulo>El Estado social de derecho en Colombia</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_11_05_CO_DC142FAB1A794578BDECB6753D84FCD0">
-        <seccion2Titulo>La separación de poderes</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_05_CO_img_09_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso090&amp;IdRecurso=RES-086F22CF9D604DC1AC657D5736CEC252">La división de poderes en la Constitución Política de 1991</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_05_CO_img_10_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso100&amp;IdRecurso=RES-B0687B39D7CA43D689B6E626A85AF012">Recurso M5D-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_05_CO_B98231CEF6A1404D9A9A0801994F75DF">
-        <seccion2Titulo>La sociedad y la ciudadanía en Colombia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CS_11_05_CO_52BDF3B3349546B08E3F490C310A4EF2">
-            <seccion3Titulo>Los derechos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_11_05_CO_img_11_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso110&amp;IdRecurso=RES-40B9E98EC8BD480AA3A945A5EC5292EC">Recurso F7-01</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_11_05_CO_img_12_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso070&amp;IdRecurso=RES-811B51CE6EF544B39C4607AF0BBEA1B6">Recurso M2A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_11_05_CO_D8CDA59F8F5348FAA9970B9474119A6E">
-            <seccion3Titulo>Los deberes ciudadanos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_11_05_CO_img_13_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso130&amp;IdRecurso=RES-88777EE9B8A542A6A7A2E07CDA66E194">Recurso M1C-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_11_05_CO_8B343F2F5FD340DE9CFC5F0BF489BFDC">
-            <seccion3Titulo>La participación: un derecho y un deber</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_11_05_CO_img_14_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso140&amp;IdRecurso=RES-E3120A12FED44A3DA1D7ECA6B076EE0E">Los mecanismos de participación de los colombianos</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_11_05_CO_img_15_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso150&amp;IdRecurso=RES-F73823CD9BA749D8BE36C7BCB0CA6683">Recurso M5D-02</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_05_CO_img_16_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso160&amp;IdRecurso=RES-57E60EB5C8F448E78D894B5B11377808">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_05_CO_82489791F971492D92735E1CC7BB412E">
-    <seccion1Titulo>El Estado Social de Derecho en Colombia</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_05_CO_2C014861D05342D1B460DCE937A78938">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_05_CO_img_17_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso170&amp;IdRecurso=RES-D55B52DA238E4D65A76DCF66226E5C3F">Recurso M102AB-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_05_CO_img_18_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso180&amp;IdRecurso=RES-8BCC388C37E5400F9BF904E67AD5127B">Recurso F13-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_11_05_CO_B3F2188B93B2447E9942A7F50617CF99">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso200&amp;IdRecurso=RES-29D68895D64249C1BDF9679863101917">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso210&amp;IdRecurso=RES-B5FCA490E38C42C9848C9E3A115D8C1B">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Colombia, un Estado Social de Derecho</libroTitulo>
+<seccion1 id="S1_CS_11_05_CO_7EDA1FE2B9484AC7B59F7B56B8FDEC66">
+<seccion1Titulo>El Estado</seccion1Titulo>
+<seccion1Texto>
+<p>La manera como se organiza políticamente una sociedad depende del
+conjunto de concepciones, reglas y tradiciones de los individuos que
+la componen. La planificación de las ciudades, la captación de los
+impuestos, el sentido de legalidad, entre otros aspectos, son decisiones
+que toman los representantes de la sociedad en la esfera gubernamental.</p>
+<p>Así las cosas, el <negrita>Estado</negrita> es una forma de organización
+política con poder soberano e independiente de otras, delimitado por
+un territorio, en el que se asienta su población.</p>
+<imagen src="CS_11_05_CO_IMG01_small.jpg">
+<p>Cada Estado cuenta con una <negrita>definición geográfica, social
+y política</negrita>. Las fronteras, establecidas por decisiones políticas
+y confrontaciones bélicas, han ido cambiado con el tiempo. Aún hoy
+existen casos de países que mantienen disputas territoriales por la
+determinación de sus límites.</p>
+</imagen>
+<p>Los límites territoriales han sido determinantes para los Estados.
+Según el territorio, sus fronteras, recursos y número de habitantes,
+los Estados se han dirigido políticamente, generando alianzas y formas
+de integración con otros, por una parte, y guerras y ocupaciones militares,
+por otra.</p>
+<seccion2 id="S2_CS_11_05_CO_2B219BF2D5804F8D98BDFD1782D03B64">
+<seccion2Titulo>El Estado y la nación</seccion2Titulo>
+<seccion2Texto>
+<p>Antes de que el Estado existiera como se conoce hoy, lo precedieron
+otras formas organizativas, como los <negrita>clanes</negrita>, las <negrita
+>hordas</negrita>, las <negrita>confederaciones</negrita> y los <negrita
+>imperios</negrita>.</p>
+<p>Con la Revolución francesa de 1789, surgió el <negrita>Estado moderno</negrita
+>. Este tiene características definidas: un gobierno ejercido por <negrita
+>autoridades reconocidas</negrita>, un <negrita>territorio</negrita
+> con fronteras determinadas, el sentimiento de <negrita>identificación
+nacional</negrita> de los habitantes y, principalmente,  el surgimiento
+y posicionamiento de la burguesía como <negrita>clase</negrita> dominante.</p>
+<p>Este proceso de cambio político posibilitó la Declaración de los
+Derechos del Hombre y del Ciudadano, así como la instauración de tres <negrita
+>premisas democráticas</negrita> centrales: <negrita>libertad</negrita
+>, <negrita>igualdad</negrita> y <negrita>fraternidad</negrita>.</p>
+<imagen src="CS_11_05_CO_IMG02_small.jpg">
+<p>Las <negrita>banderas</negrita> son <negrita>símbolos fundamentales
+en la construcción de identidad</negrita> de los Estados, ya que les
+permiten su reconocimiento frente a otros. De igual forma, revelan
+parte de la historia de las naciones, dado que los colores y formas
+tienen significados particulares para los habitantes de un país.</p>
+</imagen>
+<p>En la actualidad, existen 195 Estados alrededor del mundo y todos
+cuentan con un <negrita>poder soberano</negrita>, un <negrita>territorio</negrita
+> y una <negrita>población</negrita> que se reconoce habitante del
+mismo.</p>
+<p>La configuración de los Estados no necesariamente se ha desarrollado
+de manera pacífica. La <negrita>pugna por el territorio y por los
+recursos</negrita> que existen en él ha sido central para definir
+la soberanía y la forma autónoma de organizarse, establecer leyes
+y construir acuerdos entre los ciudadanos.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso010&amp;IdRecurso=RES-C52F1874A16E45838ED0443D22326BA7"
+>El Estado y la nación</enlace>
+</profundiza>
+<p>Cada Estado tiene una capital desde la cual se toman las decisiones
+globales y donde se ubican las <negrita>entidades del poder</negrita
+> (ministerios, Presidencia de la República, Congreso). En algunos
+casos, funda una <negrita>nación</negrita>, conformada por los pobladores
+que construyen una identidad específica a partir de <negrita>símbolos</negrita
+>, como el escudo, la bandera y el himno, y de costumbres y prácticas
+propias, como la comida y los deportes.</p>
+<p>La <negrita>historia</negrita> y la <negrita>lengua</negrita> de
+cada grupo social que conforma un Estado aportan la base para la existencia
+y pervivencia de esa nación. En la misma perspectiva, la manera como
+la <negrita>religión</negrita> ha incidido en la educación, la política
+y la cultura es fundamental para comprender la configuración de un
+Estado.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso020&amp;IdRecurso=RES-4200E9DE10A34448A90FDF31F847E46F"
+>Distingue entre el Estado y la nación</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_05_CO_E8C2B61CF2424135ABD7A21CD9492A27">
+<seccion2Titulo>Los tipos de Estado</seccion2Titulo>
+<seccion2Texto>
+<p>Actualmente, existe una amplia variedad de Estados. Cada uno cuenta
+con una forma de gobierno que puede caracterizarse a través de tres
+elementos centrales:</p>
+<listaSinNumerar>
+<listaElemento><negrita>En cuanto a la forma:</negrita> aborda principalmente
+la posibilidad de elegir a los dirigentes.</listaElemento>
+<listaElemento><negrita>En cuanto a su organización territorial:</negrita
+> expresa el nivel de concentración territorial en la toma de decisiones.</listaElemento>
+<listaElemento><negrita>En cuanto al régimen:</negrita> implica el
+grado de pluralismo y participación política.</listaElemento>
+</listaSinNumerar>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso030&amp;IdRecurso=RES-D73BA0A40D464CCA922BCB4E4A7EDB47"
+>Los tipos de Estado</enlace>
+</profundiza>
+<p>Si se parte de la posibilidad de <negrita>elegir a los dirigentes</negrita
+>, existen dos tipos de Estado: la <negrita>monarquía</negrita> y
+la <negrita>república</negrita>. La monarquía no es un sistema electivo,
+pues quien dirige al Estado es el monarca y lo hace de manera vitalicia
+(sus sucesores tienen carácter hereditario). Existen <negrita>monarquías
+absolutas</negrita>, propias de Estados dictatoriales, y <negrita
+>monarquías constitucionales o parlamentarias</negrita>, implantadas
+en Estados democráticos.</p>
+<imagen src="CS_11_05_CO_IMG03_small.jpg">
+<p>Las monarquías se desarrollaron principalmente en Europa Occidental,
+durante la Edad Media. Hoy subsisten monarquías absolutas en <negrita
+>Arabia Saudita</negrita>. <negrita>Abdullah bin Abdulaziz</negrita
+> fue el <negrita>rey</negrita> de esta nación desde el 1 de agosto
+de 2005 hasta la fecha de su muerte, el 23 de enero de 2015. Lo sucede
+su medio hermano, Salman, de 79 años.</p>
+</imagen>
+<p>En oposición a la monarquía, en la república se escoge mediante
+elecciones a quienes gobernarán; estas personas se convierten en representantes
+de los ciudadanos. Existen dos tipos de república. Por un lado, la <negrita
+>república presidencialista</negrita>, en la cual el presidente reúne
+amplios poderes. Y por otra, la <negrita>república parlamentaria</negrita
+>, en la que los poderes del presidente están limitados y sometidos
+al gobierno y al parlamento.</p>
+<imagen src="CS_11_05_CO_IMG04_small.jpg">
+<p>La <negrita>república de Turquía</negrita> es de tipo <negrita
+>parlamentario</negrita>. El poder legislativo recae en la <negrita
+>Gran Asamblea Nacional de Turquía</negrita>. Está compuesta por 550
+diputados, quienes representan a las 81 provincias en las que se divide
+el país.</p>
+</imagen>
+<p>Ahora bien, respecto al <negrita>nivel de concentración de las
+decisiones</negrita>, el Estado puede ser <negrita>centralista</negrita
+> o <negrita>descentralizado</negrita>. En el <negrita>Estado centralizado
+o unitario</negrita>, los organismos principales del gobierno concentran
+el poder del Estado y no comparten su soberanía con los gobiernos
+e instituciones locales.</p>
+<p>Los <negrita>Estados compuestos o descentralizados</negrita> comparten
+el gobierno con instituciones y gobiernos regionales, lo que posibilita
+cierta autonomía por parte de estas. En función del <negrita>grado
+de descentralización</negrita> del Estado, este puede ser:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Confederado:</negrita> la soberanía queda
+repartida entre Estados libres.</listaElemento>
+<listaElemento><negrita>Federado:</negrita> la soberanía se reparte
+entre el Estado central y los Estados miembros.</listaElemento>
+<listaElemento><negrita>Regional o autonómico:</negrita> el Estado
+central retiene la soberanía nacional, pero concede un grado más o
+menos amplio de autonomía a las unidades subestatales.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_11_05_CO_IMG05_small.jpg">
+<p><negrita>Colombia</negrita> tiene un <negrita>Estado centralista
+o unitario</negrita>, cuyo <negrita>presidente</negrita> es elegido
+por votación popular cada cuatro años.</p>
+</imagen>
+<p>De igual manera, los Estados pueden clasificarse según el <negrita
+>régimen político</negrita>, que evidencia el <negrita>grado de pluralismo
+y participación política</negrita>. Una <negrita>democracia</negrita
+> es una forma de gobierno en la cual la capacidad de decisión queda
+en manos del conjunto de la sociedad; esta escoge a sus representantes
+por distintos mecanismos de participación y, por eso, la democracia
+garantiza la defensa del Estado de derecho. En oposición, en la <negrita
+>dictadura</negrita> el poder se concentra en una persona o en una
+élite, con lo cual se elimina la división de poderes y se ejerce la
+autoridad de forma despótica.</p>
+<imagen src="CS_11_05_CO_IMG06_small.jpg">
+<p>Durante las décadas de 1970 y 1980, se impusieron varias dictaduras
+en América Latina. Durante la <negrita>dictadura argentina desaparecieron</negrita
+>  miles <negrita>de estudiantes y líderes sociales</negrita>. Todavía
+sus madres y abuelas piden noticias acerca de su paradero. <cursiva
+>Protesta de las Madres de la Plaza de Mayo (julio 2000), Buenos Aires,
+Argentina, por los desaparecidos durante la dictadura militar de 1976-1983</cursiva
+>.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Las tres características de los Estados (sistema de elección, nivel
+de concentración de decisiones y grado de pluralismo) no son excluyentes,
+sino que se complementan. Así, en la actualidad existen diversos tipos
+de Estado que establecen formas particulares de gobernar.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso040&amp;IdRecurso=RES-2C842B90AE5C44938C942C122003F079"
+>Reconoce los elementos que definen los distintos tipos de Estado</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_05_CO_4541E09A9515440DA024F052D95154E4">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso050&amp;IdRecurso=RES-9DA7761994AF4FD6B7D2C13AF94417D6"
+>Refuerza tu aprendizaje: El Estado</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_11_05_CO_411EA3E575F94914A47FDE75E3289B71">
+<seccion1Titulo>El Estado Social de Derecho</seccion1Titulo>
+<seccion1Texto>
+<p>Uno de los resultados de la mezcla de las diferentes características
+de los Estados es el <negrita>Estado Social de Derecho</negrita>.
+Este resulta de la síntesis del ejercicio de dos tipos de Estado:
+el Social y el de Derecho.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso060&amp;IdRecurso=RES-CB2E9696DA234256AAC2AEFCAB8073CB"
+>¿Qué es el Estado Social de Derecho?</enlace>
+</profundiza><seccion2
+id="S2_CS_11_05_CO_7370E3C4387543E08BBEEE4FAAB415CD">
+<seccion2Titulo>El Estado Social</seccion2Titulo>
+<seccion2Texto>
+<p>Una de las principales misiones de este tipo de Estado es <negrita
+>garantizarles</negrita> a todos los habitantes de su territorio una <negrita
+>buena calidad de vida</negrita>, especialmente a quienes forman parte
+de las clases <negrita>menos favorecidas o minoritarias</negrita>.</p>
+<p>Esto se logra mediante el <negrita>aseguramiento de ciertos derechos
+para los ciudadanos</negrita> y del <negrita>fortalecimiento de los
+servicios</negrita> que presta el Estado, para asegurar que las personas
+que habitan el territorio puedan participar plenamente en la sociedad.</p>
+<imagen src="CS_11_05_CO_IMG07_small.jpg">
+<p>Es deber de un <negrita>Estado social</negrita> asegurarles a los
+ciudadanos <negrita>derechos fundamentales como la educación</negrita
+> y los recursos culturales, la salud, una vivienda digna, asistencia
+social, un ambiente sano, entre otros. <cursiva>La aplicación del
+derecho a la educación es un factor muy importante para combatir la
+pobreza, acabar con la discriminación de la mujer y salvaguardar a
+los niños de la explotación laboral</cursiva>.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_11_05_CO_B5962B0AE8B7460B99B16644216FABF8">
+<seccion2Titulo>El Estado de Derecho</seccion2Titulo>
+<seccion2Texto>
+<p>Por su parte, el Estado de Derecho es aquel en que la <negrita
+>legalidad</negrita> es el aspecto principal. Es el <negrita>Estado
+regido absolutamente por la ley</negrita>, comúnmente construida en
+consenso por los ciudadanos como reflejo de un <negrita>pacto social</negrita
+>.</p>
+<imagen src="CS_11_05_CO_IMG08_small.jpg">
+<p>En un Estado de derecho es fundamental la <negrita>participación
+de los ciudadanos en la construcción de la ley</negrita>, sea de forma
+directa o indirecta, así como el involucramiento activo en su cumplimiento
+y en la exigencia del mismo.</p>
+</imagen>
+<p>Por lo general, este tipo de Estados se fundamenta en una <negrita
+>Constitución Política como norma suprema</negrita>, que no solo pretende <negrita
+>organizar el Estado</negrita> como tal sino también <negrita>guiar
+los parámetros por los cuales debe regirse cierta sociedad</negrita
+>, los cuales incluyen las sanciones para quienes se salen de ellos.</p>
+<p>Asimismo, la organización y las directrices que la ley les ofrece
+a los Estados de Derecho persigue la <negrita>distribución del poder
+público</negrita> en varias instituciones e instancias, con el fin
+de evitar tiranías y dictaduras.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso070&amp;IdRecurso=RES-811B51CE6EF544B39C4607AF0BBEA1B6"
+>Comprende las características de un Estado Social de Derecho</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_05_CO_DC142FAB1A794578BDECB6753D84CAE1">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso080&amp;IdRecurso=RES-F7CA1C64A24D47BA86BDABD298B7C832"
+>Refuerza tu aprendizaje: El Estado Social de Derecho</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_11_05_CO_E75745A8F82C47198576F73C0EAE6C03">
+<seccion1Titulo>El Estado Social de Derecho en Colombia</seccion1Titulo>
+<seccion1Texto>
+<p>En la <negrita>Asamblea Nacional Constituyente de 1990</negrita
+> se propusieron cambios radicales en la forma de gobernar al país,
+que se reflejaron en la <negrita>Constitución Política de Colombia
+de 1991</negrita>.</p>
+<p>Las transformaciones se dieron en un <negrita>contexto convulsionado</negrita
+>, marcado por la desmovilización de algunos grupos insurgentes, el
+avance del fenómeno del narcotráfico y la necesidad de <negrita>reconocimiento
+político de diversos grupos sociales</negrita>. Tal situación condujo
+a destacar la <negrita>pluralidad</negrita> de las etnias y la defensa
+de los <negrita>derechos humanos</negrita>.</p>
+<p>En esa oportunidad, movimientos y partidos políticos de distinta
+orientación ideológica se dieron a la tarea de redactar una nueva
+constitución. Por medio de comisiones permanentes se aprobaron artículos
+que normaron los <negrita>temas políticos</negrita>, <negrita>sociales</negrita
+>, <negrita>económicos</negrita>, <negrita>ecológicos</negrita> y <negrita
+>culturales</negrita> del país.</p>
+<imagen src="CS_11_05_CO_IMG09_small.jpg">
+<p>La <negrita>Constitución Política de Colombia de 1991</negrita
+> define el carácter del <negrita>Estado Social de Derecho</negrita
+> y el papel de las instituciones en el país. Fue firmada el 4 de
+julio de 1991 por líderes políticos de distintas corrientes ideológicas,
+que participaron en el proceso de la Asamblea Nacional Constituyente.</p>
+</imagen>
+<p>Dentro de los elementos políticos fundamentales, la Constitución
+Política de 1991 determina que Colombia es un <negrita>Estado Social
+de Derecho</negrita>. Esto implica que el Estado tiene como prioridad
+proteger y garantizar los <negrita>derechos de los ciudadanos</negrita
+> en busca de la <negrita>justicia social</negrita> y la <negrita
+>dignidad humana</negrita>. El Estado Social de Derecho en Colombia
+incluye elementos <negrita>políticos</negrita>, <negrita>ideológicos</negrita
+> y <negrita>jurídicos</negrita> que marcan una forma de gobierno <negrita
+>democrática</negrita>.</p>
+<seccion2 id="S2_CS_11_05_CO_DC142FAB1A794578BDECB6753D84FCD0">
+<seccion2Titulo>La separación de poderes</seccion2Titulo>
+<seccion2Texto>
+<p>Una forma como el Estado Social de Derecho colombiano garantiza
+el cumplimiento de los derechos es la <negrita>separación de poderes
+públicos</negrita>, con el fin de evitar que alguna rama tenga más
+control que las otras y pueda abusar de su poder. Es decir, el objetivo
+último de la distribución del poder público en <negrita>tres ramas</negrita
+>, en Colombia, es lograr un <negrita>equilibrio</negrita>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso090&amp;IdRecurso=RES-086F22CF9D604DC1AC657D5736CEC252"
+>La división de poderes en la Constitución Política de 1991</enlace>
+</profundiza>
+<p><negrita>El poder ejecutivo</negrita> tiene como función mantener
+el orden público, recaudar los impuestos y hacer cumplir las leyes.
+Está compuesto por: el Presidente de la República, quien es la cabeza,
+como jefe de gobierno y de las Fuerzas Militares; los ministros por
+él elegidos; el vicepresidente, los gobernadores y los alcaldes, elegidos
+por voto popular. </p>
+<p><negrita>El poder legislativo</negrita> tiene como función principal
+hacer las leyes y ejercer control político sobre el gobierno. De igual
+forma, sus miembros son los únicos con potestad para reformar la Constitución.
+Está representado por un congreso bicameral (Cámara de Representantes
+y Senado). Los senadores y los representantes son elegidos por voto
+popular.</p>
+<p><negrita>El poder judicial</negrita> está encargado de resolver
+los conflictos entre los miembros de la sociedad colombiana, de acuerdo
+con lo establecido por la ley. Está conformado por la Corte Suprema
+de Justicia, la Corte Constitucional, el Consejo de Estado, el Consejo
+Superior de la Judicatura y la Fiscalía General de la Nación.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso100&amp;IdRecurso=RES-B0687B39D7CA43D689B6E626A85AF012"
+>Comprende la importancia de la separación del poder público en Colombia</enlace>
+</practica>
+<p>Además, existen otros <negrita>organismos nacionales</negrita> con
+distintas funciones, todos esenciales para el funcionamiento del Estado:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Órganos de control:</negrita> la Procuraduría
+General de la Nación, la Contraloría General de la República y la
+Defensoría del Pueblo. </listaElemento>
+<listaElemento><negrita>Órganos de organización electoral:</negrita
+> el Consejo Nacional Electoral y la Registraduría Nacional del Estado
+Civil. </listaElemento>
+<listaElemento><negrita>Otros órganos:</negrita> la Autoridad Nacional
+de Televisión, el Banco de la República y la Comisión Nacional del
+Servicio Civil. </listaElemento>
+</listaSinNumerar>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_11_05_CO_B98231CEF6A1404D9A9A0801994F75DF">
+<seccion2Titulo>La sociedad y la ciudadanía en Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>Las sociedades han buscado distintas formas de organizarse en todos
+los ámbitos: político, social, económico y cultural. Las sociedades
+occidentales, y por ende la colombiana, gracias a la herencia grecorromana,
+han optado por regirse en el ámbito sociopolítico por la <negrita
+>democracia</negrita>.</p>
+<p>Uno de los principios de la democracia colombiana es la <negrita
+>participación</negrita> del pueblo en la toma de decisiones, sea
+de manera directa o indirecta. Con ello, se pretende lograr una integración
+entre la <negrita>sociedad civil</negrita> y sus <negrita>representantes</negrita
+>.</p>
+<p>La <negrita>sociedad civil</negrita> es el conjunto de ciudadanos
+que participa de manera voluntaria en el espacio público y que expresa
+sus intereses a través de la libre asociación. Algunos ejemplos de
+organizaciones de la sociedad civil son: grupos barriales, sindicatos,
+grupos religiosos, organizaciones no gubernamentales (ONG), agremiaciones
+de mujeres, medios de comunicación sin ánimo de lucro, asociaciones
+comunitarias, entre otros. </p>
+<imagen src="CS_11_05_CO_IMG10_small.jpg">
+<p>Para la democracia colombiana es muy importante la existencia de <negrita
+>organizaciones civiles que permitan la participación y posibiliten
+la libertad de expresión</negrita>. En este sentido, la <negrita>presencia
+activa de la sociedad civil</negrita> es evidencia de una democracia
+fuerte, que propende por el reconocimiento y el respeto de todos los
+integrantes de una sociedad.</p>
+</imagen>
+<p>Para garantizar la <negrita>ciudadanía</negrita> en <negrita>igualdad</negrita
+> de condiciones, se requiere la promulgación de leyes que lo permitan,
+así como el desarrollo de prácticas políticas ejercidas por la <negrita
+>sociedad civil</negrita> que propendan por la participación activa
+de todos los integrantes de la sociedad.</p>
+<destacado><destacadoTitulo>La sociedad colombiana y la paz</destacadoTitulo>
+<destacadoTexto>
+<p>En Colombia, actualmente diversas organizaciones de la sociedad
+civil se han propuesto trabajar por la <negrita>paz</negrita> y por
+el <negrita>fin del conflicto armado</negrita>. Este es un objetivo
+a largo plazo, con el que la sociedad colombiana busca el cese de
+la violencia generada desde décadas anteriores, mediante la creación
+de escenarios democráticos con igualdad de condiciones para todos
+los ciudadanos, garantizados por el <negrita>Estado Social de Derecho</negrita
+>.</p>
+</destacadoTexto></destacado><seccion3
+id="S3_CS_11_05_CO_52BDF3B3349546B08E3F490C310A4EF2">
+<seccion3Titulo>Los derechos</seccion3Titulo>
+<seccion3Texto>
+<p>El <negrita>Estado Social de Derecho</negrita> se caracteriza por
+reconocer los derechos individuales y colectivos. Por ello, su propósito
+esencial es la búsqueda de la convivencia a partir del <negrita>respeto
+y la garantía de los derechos humanos</negrita>.</p>
+<p> Para que esta situación sea posible, la legislación colombiana
+ha dispuesto una normatividad que permite exigir derechos fundamentales,
+como la vida, la libertad y el trabajo. Los derechos son exigidos
+por los ciudadanos a través de mecanismos específicos consignados
+en la Constitución Política.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso110&amp;IdRecurso=RES-40B9E98EC8BD480AA3A945A5EC5292EC"
+>Tres generaciones de derechos</enlace>
+</profundiza>
+<p>En Colombia existen <negrita>derechos de primera, segunda y tercera
+generación</negrita>, según su naturaleza.</p>
+<p>Los derechos de <negrita>primera generación</negrita> son conocidos
+como <negrita>fundamentales</negrita>, y aseguran la protección de
+los ciudadanos frente a los posibles abusos de poder del Estado y
+de los gobernantes. Tienen que ver, especialmente, con la dignidad,
+la libertad y la posibilidad de participación de los ciudadanos.</p>
+<p>Los derechos de <negrita>segunda generación</negrita> son conocidos
+como <negrita>económicos, sociales y culturales</negrita>. Estos garantizan
+la igualdad de todas las personas, incluso de las que se encuentran
+en condiciones de vulnerabilidad física o económica, para acceder
+a una <negrita>vida digna</negrita>.</p>
+<imagen src="CS_11_05_CO_IMG11_small.jpg">
+<p>Los <negrita>derechos económicos, sociales y culturales</negrita
+> están relacionados específicamente con la condición del <negrita
+>fortalecimiento de los servicios</negrita> que presta el Estado en
+un <negrita>Estado Social de Derecho</negrita> para que la ciudadanía
+pueda satisfacer sus necesidades básicas. De ahí que a estos derechos
+también se les llame <negrita>“prestacionales”</negrita>. </p>
+</imagen>
+<p>Los derechos de tercera generación son conocidos como <negrita
+>colectivos y del ambiente</negrita>. Estos derechos defienden <negrita
+>intereses comunes a toda una colectividad</negrita> y favorecen a
+toda una comunidad y no a una persona individual. En este sentido,
+proteger el medio ambiente en el que vive la comunidad es un derecho
+colectivo (el derecho al <negrita>medio ambiente sano</negrita>),
+pues afecta la supervivencia de la especie humana.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso120&amp;IdRecurso=RES-33D7AB3CB8764D9EA8D18F9A57CCC1D3"
+>Identifica los derechos de los colombianos</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_11_05_CO_D8CDA59F8F5348FAA9970B9474119A6E">
+<seccion3Titulo>Los deberes ciudadanos</seccion3Titulo>
+<seccion3Texto>
+<p>Así como los ciudadanos son sujetos de derechos, también lo son
+de deberes. <negrita>La responsabilidad</negrita> que implica exigir
+los derechos se ve reflejada en el cumplimiento de los deberes como
+ciudadanos.</p>
+<p>Los <negrita>deberes</negrita> son todo aquello que los ciudadanos
+están obligados a cumplir. Esta obligación surge tanto de <negrita
+>leyes que rigen el país</negrita>, como por <negrita>normas y costumbres</negrita
+> que la sociedad ha construido históricamente.</p>
+<p>Son, al mismo tiempo, <negrita>aquello que es necesario hacer</negrita
+> y <negrita>aquello que debe evitarse</negrita>, sin importar origen,
+condición de vida, raza o afinidad religiosa. Los deberes se convierten
+en un punto fundamental para la vida en sociedad, en tanto hacen posible
+la existencia de <negrita>acuerdos para la convivencia</negrita> entre
+los seres humanos.</p>
+<recuerda><recuerdaTexto>
+<p>Según la <negrita>Constitución Política de 1991</negrita>, los
+colombianos tienen el deber fundamental de:</p>
+<listaSinNumerar>
+<listaElemento>Elegir a los gobernantes responsablemente y con conciencia.</listaElemento>
+<listaElemento>Cumplir los mandatos de la Constitución Política.</listaElemento>
+<listaElemento>Participar y comprometerse con las soluciones derivadas
+de problemas sociales y políticos.</listaElemento>
+<listaElemento>Capacitarse con seriedad para asumir el destino del
+país.</listaElemento>
+<listaElemento>Rechazar todo intento de agresión y violencia contra
+la dignidad humana.</listaElemento>
+<listaElemento>Defender la soberanía y las instituciones que sustentan
+la democracia y hacer de esta un estilo de vida.</listaElemento>
+</listaSinNumerar>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso130&amp;IdRecurso=RES-88777EE9B8A542A6A7A2E07CDA66E194"
+>Identifica los deberes de los colombianos</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CS_11_05_CO_8B343F2F5FD340DE9CFC5F0BF489BFDC">
+<seccion3Titulo>La participación: un derecho y un deber</seccion3Titulo>
+<seccion3Texto>
+<p>Participar es “formar parte de algo”. Por ello, la <negrita>participación
+ciudadana</negrita> es el ejercicio que las personas de una comunidad
+política hacen al <negrita>expresar sus opiniones</negrita> sobre
+un asunto público y al <negrita>controlar las acciones</negrita> de
+sus representantes en el gobierno.</p>
+<p>Así, la <negrita>participación directa en los asuntos públicos</negrita
+>, por medio del <negrita>voto</negrita> o de los diferentes <negrita
+>mecanismos de participación</negrita> es <negrita>un derecho y un
+deber</negrita> de quienes viven en sociedades democráticas.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso140&amp;IdRecurso=RES-E3120A12FED44A3DA1D7ECA6B076EE0E"
+>Los mecanismos de participación de los colombianos</enlace>
+</profundiza>
+<p>En tanto Estado Social de Derecho, en Colombia el <negrita>artículo
+40</negrita> de la Constitución Política de 1991 establece los medios
+para <negrita>hacer efectivo el derecho de la participación ciudadana</negrita
+>:</p>
+<listaSinNumerar>
+<listaElemento>Elegir y ser elegido.</listaElemento>
+<listaElemento>Tomar parte en elecciones, plebiscitos, referendos,
+consultas populares y otras formas de participación democrática.</listaElemento>
+<listaElemento>Constituir partidos, movimientos y agrupaciones políticas
+sin limitación alguna; formar parte de ellos libremente y difundir
+sus ideas y programas.</listaElemento>
+<listaElemento>Revocar el mandato de los elegidos en los casos y en
+la forma que establecen la Constitución y la ley.</listaElemento>
+<listaElemento>Tener iniciativa en las corporaciones públicas.</listaElemento>
+<listaElemento>Interponer acciones públicas en defensa de la Constitución
+y de la ley.</listaElemento>
+<listaElemento>Acceder al desempeño de funciones y cargos públicos,
+salvo los colombianos, por nacimiento o por adopción, que tengan doble
+nacionalidad. […] Las autoridades garantizarán la adecuada y efectiva
+participación de la mujer en los niveles decisorios de la Administración
+Pública.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_11_05_CO_IMG12_small.jpg">
+<p>A su vez, el <negrita>artículo 103</negrita> establece los <negrita
+>mecanismos de participación</negrita> del pueblo colombiano en ejercicio
+de su soberanía: <negrita>voto, plebiscito, referendo, consulta popular,
+cabildo abierto, iniciativa legislativa y revocatoria del mandato</negrita
+>.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso150&amp;IdRecurso=RES-F73823CD9BA749D8BE36C7BCB0CA6683"
+>Reconoce la importancia de la participación ciudadana en Colombia</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_11_05_CO_B98231CEF6A1404D9A9A0801994F82AD">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso160&amp;IdRecurso=RES-57E60EB5C8F448E78D894B5B11377808"
+>Refuerza tu aprendizaje: El Estado Social de Derecho en Colombia</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_11_05_CO_2C014861D05342D1B460DCE937A78938">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido en estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso170&amp;IdRecurso=RES-D55B52DA238E4D65A76DCF66226E5C3F"
+>Competencias: comparación de los Estados Sociales, los Estados de
+Derecho y los Estados Sociales de Derecho</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso180&amp;IdRecurso=RES-8BCC388C37E5400F9BF904E67AD5127B"
+>Proyecto: investigación sobre el origen del Estado Social de Derecho
+en Colombia</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_11_05_CO_B3F2188B93B2447E9942A7F50617CF99"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso200&amp;IdRecurso=RES-29D68895D64249C1BDF9679863101917"
+>Mapa conceptual del tema Colombia, un Estado Social de Derecho</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_05_CO_Recurso210&amp;IdRecurso=RES-B5FCA490E38C42C9848C9E3A115D8C1B"
+>Evalúa tus conocimientos sobre el tema Colombia, un Estado Social
+de Derecho</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.congresovisible.org">Página de la Facultad
+de Ciencias Sociales de la Universidad de los Andes que mantiene datos
+actualizados sobre el funcionamiento del Congreso.</enlace>
+<enlace destino="http://www.dane.gov.co">Estadísticas más recientes
+sobre la población colombiana.</enlace>
+<enlace destino="http://www.banrepcultural.org/blaa">Amplia biblioteca
+virtual con búsqueda temática sobre el Estado Social de Derecho en
+Colombia.</enlace>
+</enlacesreferencia></masinformacion></libro>

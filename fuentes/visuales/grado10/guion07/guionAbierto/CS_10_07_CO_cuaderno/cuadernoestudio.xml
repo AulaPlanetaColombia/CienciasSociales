@@ -212,7 +212,7 @@ de Chichero, en Perú.</p>
 destino="/LoIdRedirect.aspx?LoId=CS_10_07_CO_Recurso050&amp;IdRecurso=RES-2FAFF75943FB4299AA3A4D45E6427243"
 >Valora prácticas de integración cultural</enlace>
 </practica></seccion3Texto></seccion3><seccion3
-id="S3_CS_10_07_CO_4DD97B1DB21B4B8FADBDDDCE1E75CC34">
+id="S3_CS_10_07_CO_4DD97B1DB21B4B8FADBDDDCE1E75DA96">
 <seccion3Titulo>La cultura en el mundo globalizado</seccion3Titulo>
 <seccion3Texto>
 <p>La <negrita>globalización</negrita> económica ha posibilitado la
@@ -521,7 +521,7 @@ de Mahates, en el departamento de Bolívar. Descienden de los cimarrones,
 quienes desarrollaron una fuerte resistencia anticolonial. Su lengua
 es el <cursiva>criollo</cursiva>.</p>
 </destacadoTexto></destacado>
-<imagen src="CS_10_07_CO_img_12_small.png">
+<imagen src="CS_10_07_CO_IMG12_small.jpg">
 <p>Así como existen personas que se autorreconocen dentro de una etnia
 concreta, hay otras <negrita>sin pertenencia étnica específica</negrita
 >, ya que son resultado de un amplio <negrita>proceso de mestizaje</negrita
@@ -599,7 +599,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_10_07_CO_Recurso150&amp;IdRecurso=RES-1063B6
 Dado que los seres humanos somos <negrita>diversos</negrita> y contamos
 con intereses y posturas distintas, es usual que se presenten <negrita
 >situaciones conflictivas</negrita>.</p>
-<imagen src="CS_10_07_CO_IMG15_small.jpg">
+<imagen ampliable="no" src="CS_10_07_CO_IMG15_small.jpg">
 <p>La pobreza es una de las condiciones que más genera conflictos
 sociales. Según el <negrita>Programa de Naciones Unidas para el Desarrollo
 (PNUD)</negrita>, cerca de la mitad de la población mundial vive con
@@ -666,7 +666,7 @@ la difusión del modelo de <negrita>sociedad de consumo</negrita>.
 No obstante, han surgido movimientos de voluntariado social, ecologistas,
 antiglobalización, etc.</listaElemento>
 </listaSinNumerar>
-<imagen src="CS_10_07_CO_IMG16_small.jpg">
+<imagen ampliable="no" src="CS_10_07_CO_IMG16_small.jpg">
 <p>La forma de comunicarnos ha cambiado de modo radical. En la actualidad,
 el desarrollo de nuevas tecnologías hace posible disminuir las distancias
 y los tiempos, con lo que se han creado formas diversas de relacionarnos.</p>
@@ -694,7 +694,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_10_07_CO_Recurso170&amp;IdRecurso=RES-2BA8BC
 destino="/LoIdRedirect.aspx?LoId=CS_10_07_CO_Recurso180&amp;IdRecurso=RES-F65F473819744A9A86A39F38340D26E2"
 >Interpreta los cambios y conflictos sociales</enlace>
 </practica><seccion3
-id="S3_CS_10_07_CO_4DD97B1DB21B4B8FADBDDDCE1E75DD45">
+id="S3_CS_10_07_CO_4DD97B1DB21B4B8FADBDDDCE1E75CC56">
 <seccion3Titulo>El reconocimiento de los derechos</seccion3Titulo>
 <seccion3Texto>
 <p>La <negrita>Declaración Universal de los Derechos Humanos</negrita
@@ -745,8 +745,8 @@ que lideró el <negrita>Movimiento por los Derechos Civiles</negrita
 de derechos de todos los seres humanos por medio de la desobediencia
 civil y la <negrita>no violencia</negrita>. Nació en 1929 y fue asesinado
 el 4 de abril de 1968.</p>
-</imagen>
-<imagen src="CS_10_07_CO_IMG18_small.jpg">
+</imagen><?Pub Caret -1?>
+<imagen src="CS_10_07_CO_img_18_small.png">
 <p><negrita>Nelson Mandela</negrita>. Activista que luchó contra el <negritacursiva
 >apartheid</negritacursiva> <negrita>sudafricano</negrita> y enfrentó
 el racismo institucionalizado en su país durante décadas. Luego de
@@ -770,7 +770,7 @@ país, que por entonces estaba sometido a Inglaterra. Uno de sus principales
 métodos de lucha fue la huelga de hambre. Rechazó de manera radical
 la lucha armada y la violencia. Murió en 1948, asesinado por un fanático
 hinduista.</p>
-</imagen><?Pub Caret -2?>
+</imagen>
 </seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
 id="S2_CS_10_07_CO_7DA9AD5B5BE249EF8C4639F3E7ACAB07">
 <seccion2Titulo>El Estado de bienestar y el Estado social de derecho</seccion2Titulo>
