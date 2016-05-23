@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<motor tipo="102" clase="ab" aprid="m102ab">
+<enunciado></enunciado>
+<plataforma>
+	<grado><![CDATA[2]]></grado>
+	<titulo></titulo>
+	<volumen><![CDATA[1]]></volumen>
+	<nivel><![CDATA[1]]></nivel>
+	<referencia><![CDATA[EX_PLANTILLA_M102AB]]></referencia>
+	<motor><![CDATA[M102ab]]></motor>
+</plataforma>
+</motor>
