@@ -4,7 +4,8 @@
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <?Pub Inc?>
 <libro id="CS_10_02_CO">
-<libroTitulo>Conflictos globales contemporáneos: Europa y Asia</libroTitulo>
+<libroTitulo>Conflictos globales contemporáneos en Asia y Oriente
+Medio al final del siglo XX</libroTitulo>
 <seccion1 id="S1_CS_10_02_CO_FD1E20C3A3EC43F8B1CDDAA47BFCE018">
 <seccion1Titulo>Conflictos y cooperación en Asia</seccion1Titulo>
 <seccion1Texto>
@@ -281,13 +282,12 @@ su avance.</p>
 algunos países.</p>
 <profundiza>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso040&amp;IdRecurso=RES-1A31ADA19D46486BB9F7E6FC79C411FF"
+destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso070&amp;IdRecurso=RES-8E5DC3C6BE6D4755AADD106871D6415E"
 >La Primavera árabe</enlace>
-</profundiza><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso050&amp;IdRecurso=RES-1206819330E4404BB98F49EBAFAB7E74"
->Incidencia de internet en los Movimientos Sociales</enlace>
-</practica><seccion2
+destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso080&amp;IdRecurso=RES-A52E164EE929463297732213FF81F442"
+>Incidencia de Internet en los movimientos sociales</enlace>
+</profundiza><seccion2
 id="S2_CS_10_02_CO_50D1D606D0314E4A86325CD61EB83089">
 <seccion2Titulo>Túnez</seccion2Titulo>
 <seccion2Texto>
@@ -532,19 +532,19 @@ de la democracia en los países donde ha intervenido<enlace
 destino="https://www.youtube.com/watch?v=AeFezkbeIFE"> [VER]</enlace
 >.</listaElemento>
 </listaSinNumerar>
-<profundiza>
+<practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso070&amp;IdRecurso=RES-8E5DC3C6BE6D4755AADD106871D6415E"
+destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso090&amp;IdRecurso=RES-DC2EFBD6448E4539BD71123C6606842A"
 >Reconoce hechos y lugares clave de la Primavera árabe</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
+</practica></seccion2Texto></seccion2><seccion2
 id="S2_CS_10_02_CO_061AABB228964E5F8A230C7D460E3AAC">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso060&amp;IdRecurso=RES-B17C5D13318842D2823FCE3F267D0519"
->Refuerza tu aprendizaje: Primavera árabe</enlace>
+destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso100&amp;IdRecurso=RES-542532F2EE6E4560A5721D139BFE25B3"
+>Refuerza tu aprendizaje: La Primavera Árabe</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_10_02_CO_1862F2CEB2794844A4ED944CDFBD79F4">
 <seccion1Titulo>Oriente Medio</seccion1Titulo>
@@ -589,7 +589,7 @@ exitosa contra Occidente.</p>
 pero también avanza cada vez más en regiones de Libia y Afganistán.</p>
 <profundiza>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso080&amp;IdRecurso=RES-A52E164EE929463297732213FF81F442"
+destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso110&amp;IdRecurso=RES-BF5EE043798A4887855D71A7BBBE3CCF"
 >El conflicto árabe-israelí</enlace>
 </profundiza><seccion2
 id="S2_CS_10_02_CO_061AABB228964E5F8A230C7D460E2EED">
@@ -699,20 +699,8 @@ se convierta en un recurso estratégico para los dos Estados.</p>
 </imagen>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso090&amp;IdRecurso=RES-DC2EFBD6448E4539BD71123C6606842A"
->Analiza el conflicto en la franja de Gaza</enlace><?Pub Caret -2?>
-</practica><profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso110&amp;IdRecurso=RES-BF5EE043798A4887855D71A7BBBE3CCF"
->Recurso F4-01</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso130&amp;IdRecurso=RES-A8B02F2A20D1439A972FBC174C077FAE"
->Recurso M101A-04</enlace>
-</practica><practica>
-<enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso120&amp;IdRecurso=RES-6BD5F9782A8B43708478516D67F3B5BB"
->Recurso M5D-02</enlace>
+>Analiza el conflicto en la franja de Gaza</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_CS_10_02_CO_061AABB228964E5F8A230C7D460E1BBA">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -720,7 +708,7 @@ destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso120&amp;IdRecurso=RES-6BD5F9
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso100&amp;IdRecurso=RES-542532F2EE6E4560A5721D139BFE25B3"
+destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso130&amp;IdRecurso=RES-A8B02F2A20D1439A972FBC174C077FAE"
 >Refuerza tu aprendizaje: Oriente Medio</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_10_02_CO_141851F1068245819793975441A72802">
@@ -819,7 +807,7 @@ id="S2_CS_10_02_CO_061AABB228964E5F8A230C7D460E3EEF">
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso160&amp;IdRecurso=RES-64606904D15B47CBA49D9509E062ABF6"
->Refuerza tu aprendizaje: La Guerra del Golfo</enlace>
+>Refuerza tu aprendizaje: La Guerra del Golfo</enlace><?Pub Caret -2?>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_10_02_CO_CAAAA8752A8A4839A1EEEECF6049D4BB">
 <seccion1Titulo>Competencias</seccion1Titulo>
@@ -837,11 +825,13 @@ destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso180&amp;IdRecurso=RES-B00D13
 id="MI_CS_10_02_CO_3C185D1ACA5F42409191C3C132798484"><mapaconceptual>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso200&amp;IdRecurso=RES-FA44D333582147269B691D38FE5CEFA5"
->Mapa conceptual del tema Conflictos globales contemporáneos: Europa
-y Asia</enlace></mapaconceptual><autoevaluate><enlace
+>Mapa conceptual del tema Conflictos globales contemporáneos en Asia
+y Oriente Medio al final del siglo XX</enlace></mapaconceptual>
+<autoevaluate><enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso210&amp;IdRecurso=RES-CDFBBD84AC344637B9D236FD36BBC070"
->Evalúa tus conocimientos sobre el tema Conflictos globales contemporáneos:
-Europa y Asia</enlace></autoevaluate><enlacesreferencia>
+>Evalúa tus conocimientos sobre el tema Conflictos globales contemporáneos
+en Asia y Oriente Medio al final del siglo XX</enlace></autoevaluate>
+<enlacesreferencia>
 <enlace
 destino="https://dialnet.unirioja.es/descarga/articulo/3966539.pdf"
 >Artículo acerca de los conflictos políticos contemporáneos en Asia.</enlace>
