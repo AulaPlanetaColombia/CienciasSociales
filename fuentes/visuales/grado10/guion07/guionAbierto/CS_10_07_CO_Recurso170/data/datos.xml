@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f1">
+<css><![CDATA[.defaultCSSBox2 {
+	background: #000000;
+}
+.defaultCSSBox3 {
+	background: #ffffff;
+}]]></css>
+<pantallas>
+<pantalla id="pantalla_5">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compSlider' id='diaporama_12' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' transMode='1' />
+<component _type='_compSliderNav' id='slidernav_11' x='45' y='526' width='162' height='37' alpha='1' visible='1' enabled='1' sliderId='diaporama_12' showHome='1' whiteButtons='0' mode='1' />
+</components>
+<animaciones>
+</animaciones>
+<slider id="diaporama_12">
+<pantalla id="pantalla_14">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_26' x='6' y='227' width='938' height='129' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:60px"><span style="font-family:georgia,serif">Cambios sociales</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_16">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='24' height='24' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_10_07_REC170_IMG01.jpg' />
+<component _type='_compCSSBox' id='fondo_20' x='694' y='40' width='204' height='58' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_26' x='610' y='27' width='275' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align: right;"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Hombres</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_19">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='24' height='24' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_10_07_REC170_IMG02.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='98' y='53' width='186' height='61' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='184' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Mujeres</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_23">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_38.jpg' />
+<component _type='_compRichText' id='texto_26' x='681' y='453' width='184' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Jóvenes</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_27">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_43.jpg' />
+<component _type='_compRichText' id='texto_26' x='610' y='27' width='275' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Mayores</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_31">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='24' height='24' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_10_07_REC170_IMG03.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='184' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Familia</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_35">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_53.jpg' />
+<component _type='_compRichText' id='texto_26' x='552' y='27' width='333' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Trabajo</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_39">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='24' height='24' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_10_07_REC170_IMG04.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='273' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Relaciones</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_43">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_65.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='448' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Ocio y diversión</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_47">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_70.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='448' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Comunicación</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_51">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='24' height='24' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_10_07_REC170_IMG05.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='565' y='38' width='333' height='61' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='552' y='27' width='333' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:right"><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Presi&oacute;n cultural</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_55">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='24' height='24' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/CS_10_07_REC170_IMG06.jpg' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='706' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Ideología y nuevas sensibilidades</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+</slider>
+</pantalla>
+</pantallas>
+<popups>
+</popups>
+</engine>

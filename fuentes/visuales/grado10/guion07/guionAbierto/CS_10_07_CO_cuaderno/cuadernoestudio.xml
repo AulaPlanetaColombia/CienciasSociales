@@ -143,9 +143,6 @@ destino="/LoIdRedirect.aspx?LoId=CS_10_07_CO_Recurso020&amp;IdRecurso=RES-9950F5
 >Modelos de sociedad</enlace>
 </profundiza><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_07_CO_Recurso030&amp;IdRecurso=RES-3ED0F234208D48CFA9A949F9B0F210A7"
->Identifica los distintos modelos de sociedad</enlace>
-<enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_07_CO_Recurso040&amp;IdRecurso=RES-50B189CA906A40AF83C3AFD2570E27B1"
 >Identifica características de cada modelo de sociedad</enlace>
 </practica></seccion2Texto></seccion2><seccion2
@@ -259,12 +256,8 @@ e información, así como del amplio acceso a buena parte de la población
 mundial, posibilitan la reproducción de un conjunto de ideas y conductas
 que se posicionan como únicas. Esta situación evidencia que la cultura
 de masas tiende a la homogeneidad de gustos, pensamiento y acción.</p>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_07_CO_Recurso060&amp;IdRecurso=RES-1C5A85F039E5449F9CFEC322A2A38B7C"
->La cultura de masas</enlace>
-</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
-<seccion2 id="S2_CS_10_07_CO_04BC94EBBE7E4E099DE8D5FD0CD8D01E">
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_07_CO_04BC94EBBE7E4E099DE8D5FD0CD8D01E">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
@@ -409,12 +402,8 @@ concepciones <negrita>diferentes</negrita> del mundo. </p>
 El Estado tiene un <negrita>carácter plurinacional</negrita> y más
 de 60% de la población es indígena, lo que la convierte en la más
 numerosa de toda América en un solo país.</p>
-</imagen>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_07_CO_Recurso110&amp;IdRecurso=RES-D3C3E155CC9D42FF9F8750FA22219F52"
->Reconoce prácticas multiculturales e interculturales</enlace>
-</practica></seccion2Texto></seccion2><seccion2
+</imagen><?Pub Caret -3?>
+</seccion2Texto></seccion2><seccion2
 id="S2_CS_10_07_CO_2842E322D70E438CB61A7C257052317D">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
@@ -744,7 +733,7 @@ de derechos de todos los seres humanos por medio de la desobediencia
 civil y la <negrita>no violencia</negrita>. Nació en 1929 y fue asesinado
 el 4 de abril de 1968.</p>
 </imagen>
-<imagen src="CS_10_07_CO_img_18_small.png">
+<imagen src="CS_10_07_CO_IMG18_small.jpg">
 <p><negrita>Nelson Mandela</negrita>. Activista que luchó contra el <negritacursiva
 >apartheid </negritacursiva><negrita>sudafricano</negrita> y enfrentó
 el racismo institucionalizado en su país durante décadas. Luego de
@@ -753,7 +742,7 @@ de 1994 a 1999. Hizo grandes cambios que permitieron la igualdad de
 condiciones para los ciudadanos de raza negra. Al morir, en 2013,
 dejó un legado inmenso respecto a la defensa de los derechos humanos.</p>
 </imagen>
-<imagen src="CS_10_07_CO_img_19_small.png">
+<imagen src="CS_10_07_CO_IMG19_small.jpg">
 <p><negrita>Rigoberta Menchú</negrita>. Mujer indígena guatemalteca
 defensora de los derechos humanos, nacida en 1959. Luego de que varios
 miembros de su familia fueran asesinados, emprendió una campaña pacífica
@@ -761,14 +750,14 @@ de denuncia de las injusticias cometidas contra indígenas y campesinos
 en Guatemala. Ha sido galardonada con diversos premios, entre ellos,
 el <negrita>Premio Nobel de la Paz</negrita> en 1992.</p>
 </imagen>
-<imagen src="CS_10_07_CO_img_20_small.png">
+<imagen src="CS_10_07_CO_IMG20_small.jpg">
 <p><negrita>Mahatma Gandhi</negrita>. Pensador y activista social
 nacido en India en 1869. Batalló en busca de la independencia de su
 país, que por entonces estaba sometido a Inglaterra. Uno de sus principales
 métodos de lucha fue la huelga de hambre. Rechazó de manera radical
 la lucha armada y la violencia. Murió en 1948, asesinado por un fanático
 hinduista.</p>
-</imagen><?Pub Caret -3?>
+</imagen>
 </seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
 id="S2_CS_10_07_CO_7DA9AD5B5BE249EF8C4639F3E7ACAB07">
 <seccion2Titulo>El Estado de bienestar y el Estado social de derecho</seccion2Titulo>

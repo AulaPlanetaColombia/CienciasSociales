@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="a" aprid="m5a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Reconoce la diversidad cultural en Colombia</titulo>
+    <area>0</area>
+    <nivel>3</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde las siguientes preguntas sobre la riqueza cultural de Colombia.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[El patrimonio cultural inmaterial de Colombia se puede ver representado a través de]]></enunciado>
+      <explicacion><![CDATA[El patrimonio cultural inmaterial es el conjunto de construcciones culturales intangibles como la tradición oral, los rituales, los actos festivos y los conocimientos.]]></explicacion>
+      <imagen><![CDATA[CS_10_07_REC140_IMG01n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_10_07_REC140_IMG01a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="la música y las tradiciones." correcta="1"/>
+        <respuesta contestacion="las construcciones antiguas." correcta="0"/>
+        <respuesta contestacion="las zonas arqueológicas." correcta="0"/>
+        <respuesta contestacion="el arte y las artesanías." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El quilombo es un término usado en Latinoamérica para denominar los lugares o concentraciones políticamente organizadas de negros esclavos cimarrones. También es conocido con el nombre de]]></enunciado>
+      <explicacion><![CDATA[Los quilombos en Colombia son los llamados palenques, el más conocido es el de San Basilio.]]></explicacion>
+      <imagen><![CDATA[CS_10_07_REC140_IMG02n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_10_07_REC140_IMG02a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="palenque." correcta="1"/>
+        <respuesta contestacion="resguardo." correcta="0"/>
+        <respuesta contestacion="reserva." correcta="0"/>
+        <respuesta contestacion="santuario." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[De acuerdo con la Constitución Política de Colombia:]]></enunciado>
+      <explicacion><![CDATA[Según la Constitución Política colombiana el Estado tiene la responsabilidad de proteger el patrimonio cultural.]]></explicacion>
+      <imagen><![CDATA[CS_10_07_REC140_IMG05n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_10_07_REC140_IMG05a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="el patrimonio cultural está bajo la protección del Estado." correcta="1"/>
+        <respuesta contestacion="los parques arqueológicos son propiedad privada del Estado." correcta="0"/>
+        <respuesta contestacion="las obras materiales indígenas no pueden ser sacadas del país." correcta="0"/>
+        <respuesta contestacion="todo recurso arqueológico debe ser denunciado ante el Estado." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En Colombia los derechos de los pueblos indígenas ]]></enunciado>
+      <explicacion><![CDATA[La Constitución Política de Colombia reconoce derechos especiales a los grupos étnicos.]]></explicacion>
+      <imagen><![CDATA[CS_10_07_REC140_IMG08n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_10_07_REC140_IMG08a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="están protegidos por sus propias normas." correcta="1"/>
+        <respuesta contestacion="están estipulados en la Constitución." correcta="0"/>
+        <respuesta contestacion="son materia de discusión del poder legislativo." correcta="0"/>
+        <respuesta contestacion="son los mismos que corresponden a todo colombiano." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En Colombia es obligación del Estado y de las personas ]]></enunciado>
+      <explicacion><![CDATA[Es obligación de todos, Estado y población, proteger las riquezas culturales y naturales que nos definen como nación.]]></explicacion>
+      <imagen><![CDATA[CS_10_07_REC140_IMG07n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_10_07_REC140_IMG07a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="proteger las riquezas culturales y naturales de la nación." correcta="1"/>
+        <respuesta contestacion="desarrollar el sentido de pertenencia a una nación multiétnica." correcta="0"/>
+        <respuesta contestacion="crear instituciones para la preservación del patrimonio cultural." correcta="0"/>
+        <respuesta contestacion="liderar programas que exalten la riqueza cultural." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Además del castellano, las lenguas y dialectos de los grupos étnicos son también oficiales en sus territorios; ante esto las comunidades tienen la responsabilidad de:]]></enunciado>
+      <explicacion><![CDATA[Aunque nuestro idioma oficial es el castellano, se promueve la enseñanza de las lenguas nativas y de las minorías étnicas.]]></explicacion>
+      <imagen><![CDATA[CS_10_07_REC140_IMG06n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_10_07_REC140_IMG06a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="enseñar sus tradiciones lingüísticas y el español." correcta="1"/>
+        <respuesta contestacion="aceptar el español como lengua oficial." correcta="0"/>
+        <respuesta contestacion="permitir la libre elección de aprender una lengua." correcta="0"/>
+        <respuesta contestacion="enseñar el español a todos los miembros de su comunidad." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La mayoría de la población colombiana es católica, pero en nuestro país:]]></enunciado>
+      <explicacion><![CDATA[Desde 1991, la religión católica no es dominante y se respetan todas las creencias sin discriminación alguna.]]></explicacion>
+      <imagen><![CDATA[CS_10_07_REC140_IMG09n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_10_07_REC140_IMG09a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="se garantiza la libertad de cultos." correcta="1"/>
+        <respuesta contestacion="se pueden imponer convicciones en los colegios." correcta="0"/>
+        <respuesta contestacion="se obliga el estudio de la religión católica." correcta="0"/>
+        <respuesta contestacion="se limita la proliferación de Iglesias y confesiones. " correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En Guatapé, Antioquia, las familias representan en las paredes de sus viviendas la tarea a la cual se dedican. Estas expresiones favorecen el patrimonio cultural porque:]]></enunciado>
+      <explicacion><![CDATA[Estas representaciones son una forma de expresión de la tradición cultural del pueblo.]]></explicacion>
+      <imagen><![CDATA[CS_10_07_REC140_IMG10n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_10_07_REC140_IMG10a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="todas las representaciones son valiosas obras de arte." correcta="0"/>
+        <respuesta contestacion="es una manera particular de atraer el turismo." correcta="0"/>
+        <respuesta contestacion="la población conoce a qué se dedican sus vecinos." correcta="0"/>
+        <respuesta contestacion="las pinturas de las casas dan muestra de su cotidianidad." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Según la Constitución Política, la población colombiana se considera:]]></enunciado>
+      <explicacion><![CDATA[La Constitución Política de Colombia reconoce el carácter pluriétnico y multicultural de la nación.]]></explicacion>
+      <imagen><![CDATA[CS_10_07_REC140_IMG03n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_10_07_REC140_IMG03a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="pluriétnica y multicultural." correcta="1"/>
+        <respuesta contestacion="libre y respetuosa." correcta="0"/>
+        <respuesta contestacion="diversa y mestiza." correcta="0"/>
+        <respuesta contestacion="mestiza e indígena." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Entre las minorías étnicas que conforman la nación colombiana se encuentran los ]]></enunciado>
+      <explicacion><![CDATA[La población raizal es una minoría étnica que habita en San Andrés y Providencia.]]></explicacion>
+      <imagen><![CDATA[CS_10_07_REC140_IMG04n.jpg]]></imagen>
+      <ampliacion><![CDATA[CS_10_07_REC140_IMG04a.jpg]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="raizales." correcta="1"/>
+        <respuesta contestacion="costeños." correcta="0"/>
+        <respuesta contestacion="mestizos." correcta="0"/>
+        <respuesta contestacion="opitas." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>30</temps>
+</motor>

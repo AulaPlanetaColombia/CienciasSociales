@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f1">
+<css><![CDATA[.defaultCSSBox2 {
+	background: #000000;
+}
+.defaultCSSBox3 {
+	background: #ffffff;
+}]]></css>
+<pantallas>
+<pantalla id="pantalla_5">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compSlider' id='diaporama_12' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' transMode='1' />
+<component _type='_compSliderNav' id='slidernav_11' x='45' y='526' width='162' height='37' alpha='1' visible='1' enabled='1' sliderId='diaporama_12' showHome='1' whiteButtons='0' mode='1' />
+</components>
+<animaciones>
+</animaciones>
+<slider id="diaporama_12">
+<pantalla id="pantalla_14">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_26' x='6' y='239' width='938' height='219' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:60px"><span style="font-family:georgia,serif">Modelos de sociedad</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_19">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_26' x='19' y='245' width='911' height='117' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:50px"><span style="font-family:verdana,geneva,sans-serif">Las sociedades tradicionales</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_16">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_32.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='98' y='53' width='486' height='61' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='484' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Agricultura y ganader&iacute;a</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_19">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_38.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='98' y='53' width='312' height='61' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='355' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Sociedad rural
+</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_23">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_44.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='98' y='53' width='461' height='61' alpha='0.3' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='526' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Mentalidad tradicional</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_27">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_50.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='98' y='53' width='501' height='61' alpha='0.3' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='526' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Costumbres ancestrales</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_31">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_26' x='19' y='245' width='911' height='117' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:50px"><span style="font-family:verdana,geneva,sans-serif">Las sociedades industriales</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_35">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_61.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='98' y='53' width='210' height='61' alpha='0.3' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='319' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Industria</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_39">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_67.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='98' y='53' width='543' height='61' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='650' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Movimiento campo-ciudad
+</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_43">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_73.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='98' y='53' width='401' height='61' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='394' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Patrones y obreros</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_47">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_79.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='98' y='53' width='687' height='61' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='675' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Movimientos obreros y sindicatos</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_51">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='0' height='0' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_85.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='98' y='53' width='351' height='61' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='337' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Más información</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_55">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_26' x='19' y='245' width='911' height='117' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:50px"><span style="font-family:verdana,geneva,sans-serif">Las sociedades posindustriales</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_59">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_96.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='98' y='53' width='207' height='61' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='226' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Servicios</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_63">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_102.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='308' y='446' width='539' height='61' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='323' y='433' width='528' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Investigación y desarrollo</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_67">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_108.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='532' y='54' width='360' height='61' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_26' x='548' y='42' width='338' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Sociedad urbana</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_71">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_114.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='320' y='58' width='580' height='61' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='335' y='45' width='601' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Información y conocimiento</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_75">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_120.jpg' />
+<component _type='_compCSSBox' id='fondo_19' x='393' y='439' width='475' height='61' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox3' />
+<component _type='_compRichText' id='texto_26' x='409' y='427' width='458' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#000000"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Sociedad del consumo</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_79">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='0' y='0' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/image_126.jpg' />
+<component _type='_compCSSBox' id='fondo_83' x='98' y='120' width='263' height='112' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_25' x='110' y='106' width='344' height='149' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:28px">&middot; Nacionales<br />
+&middot; Religiosas<br />
+&middot; Tribus urbanas </span></span></span></p>
+]]></content>
+</component>
+<component _type='_compCSSBox' id='fondo_19' x='98' y='53' width='608' height='61' alpha='0.5' visible='1' enabled='1' cssClass='defaultCSSBox2' />
+<component _type='_compRichText' id='texto_26' x='113' y='40' width='636' height='96' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="color:#FFFFFF"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:39px">Comunidades de tipo cultural</span></span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</slider>
+</pantalla>
+</pantallas>
+<popups>
+</popups>
+</engine>
