@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="101" clase="a" aprid="m101a">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Refuerza tu aprendizaje: El desencanto con la idea de desarrollo: el buen vivir</titulo>
+    <volumen/>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia/>
+    <motor/>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines haz clic en Enviar. Si es necesario entrega las respuestas a mano o por email a tu profesor para que pueda validarlas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="10">
+    <pregunta>
+      <enunciado><![CDATA[Explica en qué consiste la doctrina del Buen vivir.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[1]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Cuáles son los efectos negativos que ha producido la idea occidental de desarrollo?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Crees que en el mundo actual, el crecimiento económico es el único objetivo que han de tener los países y las personas?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Históricamente, cuándo surge la idea de desarrollo?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Nombra cinco indicadores de desarrollo de un país]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Qué alternativas propone la doctrina del Buen vivir para frenar el grave deterioro ambiental?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica cuatro  diferencias  entre las ideas del desarrollo y las del buen vivir.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Por qué no es posible cumplir la promesa del desarrollo y el progreso ilimitado?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Por qué el pensamiento indígena fue decisivo en la construcción del nuevo paradigma: la idea del Buen vivir?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[La idea del Buen vivir promulga la descolonización del pensamiento. ¿Qué significa para ti  esa frase?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+  </preguntas>
+  <temps>30</temps>
+</motor>

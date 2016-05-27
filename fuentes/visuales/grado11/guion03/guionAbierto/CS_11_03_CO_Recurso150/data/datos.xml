@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="5" clase="d" aprid="m5d">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce políticas de gobierno de Evo Morales y de Rafael Correa</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5D]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Contesta las siguientes preguntas sobre las políticas del gobierno de Evo Morales y de Rafael Correa:]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[1]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[Se considera a Evo Morales un fenómeno político en Bolivia debido a:]]></enunciado>
+      <explicacion><![CDATA[Evo Morales es un fenómeno político por los logros alcanzados en su gobierno, como la inclusión y el modelo económico.]]></explicacion>
+      <texto><![CDATA[Evo Morales es un fenómeno político que lleva 10 años como presidente de Bolivia. En ésta década sus logros se evidencian en:   la inclusión de varios sectores sociales, ahora,  los  indígenas, campesinos, sindicalistas, hacen parte del gobierno. La ONU destaca a Bolivia como líder en inclusión de mujeres en política. La recuperación de la identidad indígena, se evidencia en la Constitución y en la Wiphala, que es el emblema multicolor de los pueblos precolombinos que ondea en el palacio de la Paz junto a la bandera nacional. La estabilidad social y política es una realidad, antes de Morales, los presidentes bolivianos salían rápidamente del Palacio de Gobierno y las luchas sociales eran numerosas. El crecimiento económico de Bolivia por su parte,  le ha valido el nombre del ¨milagro Boliviano¨, pues las acertadas políticas de nacionalizar los hidrocarburos y la aplicación de un nuevo modelo económico produjeron una redistribución de la riqueza y la disminución de las desigualdades. En materia de  educación ha logrado bajar la deserción escolar e incentivar con bonos a los mejores estudiantes.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Surgir del sector indígena" correcta="0"/>
+        <respuesta contestacion="Llegar a la presidencia muy joven" correcta="0"/>
+        <respuesta contestacion="Continuar con las reformas de sus antecesores" correcta="0"/>
+        <respuesta contestacion="•&#x9;Los logros durante su gobierno" correcta="1"/>
+        <respuesta contestacion="Sus ideas antinacionalistas" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Por inclusión se entiende]]></enunciado>
+      <explicacion><![CDATA[La inclusión es la participación de todos los miembros de la sociedad, sin distingo de origen, pensamiento o condición socio-económica]]></explicacion>
+      <texto><![CDATA[Evo Morales es un fenómeno político que lleva 10 años como presidente de Bolivia. En ésta década sus logros se evidencian en:   la inclusión de varios sectores sociales, ahora,  los  indígenas, campesinos, sindicalistas, hacen parte del gobierno. La ONU destaca a Bolivia como líder en inclusión de mujeres en política. La recuperación de la identidad indígena, se evidencia en la Constitución y en la Wiphala, que es el emblema multicolor de los pueblos precolombinos que ondea en el palacio de la Paz junto a la bandera nacional. La estabilidad social y política es una realidad, antes de Morales, los presidentes bolivianos salían rápidamente del Palacio de Gobierno y las luchas sociales eran numerosas. El crecimiento económico de Bolivia por su parte,  le ha valido el nombre del ¨milagro Boliviano¨, pues las acertadas políticas de nacionalizar los hidrocarburos y la aplicación de un nuevo modelo económico produjeron una redistribución de la riqueza y la disminución de las desigualdades. En materia de  educación ha logrado bajar la deserción escolar e incentivar con bonos a los mejores estudiantes.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Participación  de todos los sectores sociales" correcta="1"/>
+        <respuesta contestacion="Participación de los indígenas" correcta="0"/>
+        <respuesta contestacion="Participación en el gobierno de los estudiantes" correcta="0"/>
+        <respuesta contestacion="Participación en el gobierno de las mujeres" correcta="0"/>
+        <respuesta contestacion="Participación en el gobierno de los sindicalistas" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El Wiphala en la casa de gobierno boliviano es símbolo de:]]></enunciado>
+      <explicacion><![CDATA[El Wiphala es la bandera que representa a los indígenas andinos y es símbolo actual de Bolivia. Representa la identidad nacional.]]></explicacion>
+      <texto><![CDATA[Evo Morales es un fenómeno político que lleva 10 años como presidente de Bolivia. En ésta década sus logros se evidencian en:   la inclusión de varios sectores sociales, ahora,  los  indígenas, campesinos, sindicalistas, hacen parte del gobierno. La ONU destaca a Bolivia como líder en inclusión de mujeres en política. La recuperación de la identidad indígena, se evidencia en la Constitución y en la Wiphala, que es el emblema multicolor de los pueblos precolombinos que ondea en el palacio de la Paz junto a la bandera nacional. La estabilidad social y política es una realidad, antes de Morales, los presidentes bolivianos salían rápidamente del Palacio de Gobierno y las luchas sociales eran numerosas. El crecimiento económico de Bolivia por su parte,  le ha valido el nombre del ¨milagro Boliviano¨, pues las acertadas políticas de nacionalizar los hidrocarburos y la aplicación de un nuevo modelo económico produjeron una redistribución de la riqueza y la disminución de las desigualdades. En materia de  educación ha logrado bajar la deserción escolar e incentivar con bonos a los mejores estudiantes.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Respeto a la naturaleza" correcta="0"/>
+        <respuesta contestacion="Sabiduría indígena" correcta="0"/>
+        <respuesta contestacion="Paz y seguridad" correcta="0"/>
+        <respuesta contestacion="Tolerancia" correcta="0"/>
+        <respuesta contestacion="Identidad nacional" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Antes del gobierno de Evo Morales, Bolivia se destacó por:]]></enunciado>
+      <explicacion><![CDATA[Antes del gobierno de Evo Morales, los gobernantes duraban muy poco en el poder producto de conflictos políticos muy serios y las numerosas luchas sociales.]]></explicacion>
+      <texto><![CDATA[Evo Morales es un fenómeno político que lleva 10 años como presidente de Bolivia. En ésta década sus logros se evidencian en:   la inclusión de varios sectores sociales, ahora,  los  indígenas, campesinos, sindicalistas, hacen parte del gobierno. La ONU destaca a Bolivia como líder en inclusión de mujeres en política. La recuperación de la identidad indígena, se evidencia en la Constitución y en la Wiphala, que es el emblema multicolor de los pueblos precolombinos que ondea en el palacio de la Paz junto a la bandera nacional. La estabilidad social y política es una realidad, antes de Morales, los presidentes bolivianos salían rápidamente del Palacio de Gobierno y las luchas sociales eran numerosas. El crecimiento económico de Bolivia por su parte,  le ha valido el nombre del ¨milagro Boliviano¨, pues las acertadas políticas de nacionalizar los hidrocarburos y la aplicación de un nuevo modelo económico produjeron una redistribución de la riqueza y la disminución de las desigualdades. En materia de  educación ha logrado bajar la deserción escolar e incentivar con bonos a los mejores estudiantes.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Su estabilidad política" correcta="0"/>
+        <respuesta contestacion="Escasas luchas sociales" correcta="0"/>
+        <respuesta contestacion="Ausencia de conflictos sociales y políticos" correcta="0"/>
+        <respuesta contestacion="Inestabilidad política y social" correcta="1"/>
+        <respuesta contestacion="Su democracia" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Actualmente se ha considerado al país del sur como: ¨El milagro boliviano¨Debido a:]]></enunciado>
+      <explicacion><![CDATA[Se considera el milagro Boliviano por los resultados que ha demostrado su modelo económico que redunda en una mejor calidad de vida para sus ciudadanos.]]></explicacion>
+      <texto><![CDATA[Evo Morales es un fenómeno político que lleva 10 años como presidente de Bolivia. En ésta década sus logros se evidencian en:   la inclusión de varios sectores sociales, ahora,  los  indígenas, campesinos, sindicalistas, hacen parte del gobierno. La ONU destaca a Bolivia como líder en inclusión de mujeres en política. La recuperación de la identidad indígena, se evidencia en la Constitución y en la Wiphala, que es el emblema multicolor de los pueblos precolombinos que ondea en el palacio de la Paz junto a la bandera nacional. La estabilidad social y política es una realidad, antes de Morales, los presidentes bolivianos salían rápidamente del Palacio de Gobierno y las luchas sociales eran numerosas. El crecimiento económico de Bolivia por su parte,  le ha valido el nombre del ¨milagro Boliviano¨, pues las acertadas políticas de nacionalizar los hidrocarburos y la aplicación de un nuevo modelo económico produjeron una redistribución de la riqueza y la disminución de las desigualdades. En materia de  educación ha logrado bajar la deserción escolar e incentivar con bonos a los mejores estudiantes.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Ser un gobierno de derecha" correcta="0"/>
+        <respuesta contestacion="•&#x9;Su acertado modelo económico" correcta="1"/>
+        <respuesta contestacion="No presentar corrupción política" correcta="0"/>
+        <respuesta contestacion="Recuperarse de un desastre natural" correcta="0"/>
+        <respuesta contestacion="La inclusión de sectores" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En la constitución de Ecuador se evidencia:]]></enunciado>
+      <explicacion><![CDATA[Es un Estado de derechos incluyente, que favorece la participación de todos los sectores de la sociedad ecuatoriana.]]></explicacion>
+      <texto><![CDATA[El presidente Rafael Correa ha impulsado un Estado incluyente con la participación de diversas organizaciones de la sociedad ecuatoriana, señala la Constitución. En ella se manifiesta el deseo de garantizar la aplicación de los derechos humanos, en especial  la protección de los pueblos ancestrales. Ecuador sufrió grandes transformaciones con la Revolución Ciudadana comandada por Correa, se logró la estabilidad política de los gobiernos anteriores, la inestabilidad de los gobiernos de derecha produjo la salida de tres presidentes en solo diez años. Las cifras indican una reducción de la pobreza. Ecuador es uno de los países que más redujo la desigualdad en América Latina. La inversión en educación es una prioridad, en educación superior, Ecuador es el país que más invierte con 2,12 por ciento de su Producto Interno Bruto (PIB). Su crecimiento económico es evidente, según el balance presentado por la Comisión Económica para América Latina y el Caribe (Cepal) Ecuador creció en promedio del PIB con 4,3 por ciento entre 2007 y 2014, comparado con el 3.5 de América Latina, destinando el 11 por ciento del PIB para inversión pública.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Un carácter centralista" correcta="0"/>
+        <respuesta contestacion="Un carácter federalista" correcta="0"/>
+        <respuesta contestacion="Una orientación demagógica" correcta="0"/>
+        <respuesta contestacion="•&#x9;Un Estado de Derecho incluyente" correcta="1"/>
+        <respuesta contestacion="•&#x9;Un Estado de Derecho incluyente" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué sector de la sociedad ecuatoriana se ha protegido como política de Estado?]]></enunciado>
+      <explicacion><![CDATA[En la Constitución existen las garantías que protegen a sus pueblos ancestrales.]]></explicacion>
+      <texto><![CDATA[El presidente Rafael Correa ha impulsado un Estado incluyente con la participación de diversas organizaciones de la sociedad ecuatoriana, señala la Constitución. En ella se manifiesta el deseo de garantizar la aplicación de los derechos humanos, en especial  la protección de los pueblos ancestrales. Ecuador sufrió grandes transformaciones con la Revolución Ciudadana comandada por Correa, se logró la estabilidad política de los gobiernos anteriores, la inestabilidad de los gobiernos de derecha produjo la salida de tres presidentes en solo diez años. Las cifras indican una reducción de la pobreza. Ecuador es uno de los países que más redujo la desigualdad en América Latina. La inversión en educación es una prioridad, en educación superior, Ecuador es el país que más invierte con 2,12 por ciento de su Producto Interno Bruto (PIB). Su crecimiento económico es evidente, según el balance presentado por la Comisión Económica para América Latina y el Caribe (Cepal) Ecuador creció en promedio del PIB con 4,3 por ciento entre 2007 y 2014, comparado con el 3.5 de América Latina, destinando el 11 por ciento del PIB para inversión pública.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Las comunidades indígenas" correcta="1"/>
+        <respuesta contestacion="Las organizaciones juveniles" correcta="0"/>
+        <respuesta contestacion="Las organizaciones sindicales" correcta="0"/>
+        <respuesta contestacion="El sector financiero" correcta="0"/>
+        <respuesta contestacion="El Clero" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Uno de los efectos que trajo la Revolución ciudadana fue:]]></enunciado>
+      <explicacion><![CDATA[Antes del gobierno de Correa, las numerosas revueltas populares producto de la grave situación del país produjo la salida de tres presidentes en apenas diez años.]]></explicacion>
+      <texto><![CDATA[El presidente Rafael Correa ha impulsado un Estado incluyente con la participación de diversas organizaciones de la sociedad ecuatoriana, señala la Constitución. En ella se manifiesta el deseo de garantizar la aplicación de los derechos humanos, en especial  la protección de los pueblos ancestrales. Ecuador sufrió grandes transformaciones con la Revolución Ciudadana comandada por Correa, se logró la estabilidad política de los gobiernos anteriores, la inestabilidad de los gobiernos de derecha produjo la salida de tres presidentes en solo diez años. Las cifras indican una reducción de la pobreza. Ecuador es uno de los países que más redujo la desigualdad en América Latina. La inversión en educación es una prioridad, en educación superior, Ecuador es el país que más invierte con 2,12 por ciento de su Producto Interno Bruto (PIB). Su crecimiento económico es evidente, según el balance presentado por la Comisión Económica para América Latina y el Caribe (Cepal) Ecuador creció en promedio del PIB con 4,3 por ciento entre 2007 y 2014, comparado con el 3.5 de América Latina, destinando el 11 por ciento del PIB para inversión pública.]]></texto>
+      <respuestas>
+        <respuesta contestacion="La inestabilidad política" correcta="0"/>
+        <respuesta contestacion="La estabilidad política" correcta="1"/>
+        <respuesta contestacion="La centralización del Estado" correcta="0"/>
+        <respuesta contestacion="La división de poderes" correcta="0"/>
+        <respuesta contestacion="La violencia" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué  programas de inversión han sido prioridad en el gobierno de Correa?]]></enunciado>
+      <explicacion><![CDATA[Ecuador es el país de la región que más invierte en educación superior con 2,12 por ciento de su Producto Interno Bruto.]]></explicacion>
+      <texto><![CDATA[El presidente Rafael Correa ha impulsado un Estado incluyente con la participación de diversas organizaciones de la sociedad ecuatoriana, señala la Constitución. En ella se manifiesta el deseo de garantizar la aplicación de los derechos humanos, en especial  la protección de los pueblos ancestrales. Ecuador sufrió grandes transformaciones con la Revolución Ciudadana comandada por Correa, se logró la estabilidad política de los gobiernos anteriores, la inestabilidad de los gobiernos de derecha produjo la salida de tres presidentes en solo diez años. Las cifras indican una reducción de la pobreza. Ecuador es uno de los países que más redujo la desigualdad en América Latina. La inversión en educación es una prioridad, en educación superior, Ecuador es el país que más invierte con 2,12 por ciento de su Producto Interno Bruto (PIB). Su crecimiento económico es evidente, según el balance presentado por la Comisión Económica para América Latina y el Caribe (Cepal) Ecuador creció en promedio del PIB con 4,3 por ciento entre 2007 y 2014, comparado con el 3.5 de América Latina, destinando el 11 por ciento del PIB para inversión pública.]]></texto>
+      <respuestas>
+        <respuesta contestacion="La explotación petrolera" correcta="0"/>
+        <respuesta contestacion="La producción industrial" correcta="0"/>
+        <respuesta contestacion="La empresa privada" correcta="0"/>
+        <respuesta contestacion="La educación superior" correcta="1"/>
+        <respuesta contestacion="El cine y la música" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Según la CEPAL, la economía de América Latina:]]></enunciado>
+      <explicacion><![CDATA[Uno de los aspectos más significativos de Ecuador es la estabilidad y el crecimiento económico, entre 2007 y 2014 superó en 1 por ciento a los países de la región.]]></explicacion>
+      <texto><![CDATA[El presidente Rafael Correa ha impulsado un Estado incluyente con la participación de diversas organizaciones de la sociedad ecuatoriana, señala la Constitución. En ella se manifiesta el deseo de garantizar la aplicación de los derechos humanos, en especial  la protección de los pueblos ancestrales. Ecuador sufrió grandes transformaciones con la Revolución Ciudadana comandada por Correa, se logró la estabilidad política de los gobiernos anteriores, la inestabilidad de los gobiernos de derecha produjo la salida de tres presidentes en solo diez años. Las cifras indican una reducción de la pobreza. Ecuador es uno de los países que más redujo la desigualdad en América Latina. La inversión en educación es una prioridad, en educación superior, Ecuador es el país que más invierte con 2,12 por ciento de su Producto Interno Bruto (PIB). Su crecimiento económico es evidente, según el balance presentado por la Comisión Económica para América Latina y el Caribe (Cepal) Ecuador creció en promedio del PIB con 4,3 por ciento entre 2007 y 2014, comparado con el 3.5 de América Latina, destinando el 11 por ciento del PIB para inversión pública.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Debe mejorar su inversión pública" correcta="0"/>
+        <respuesta contestacion="Su crecimiento no supera a los países latinoamericanos" correcta="0"/>
+        <respuesta contestacion="El crecimiento económico es superior en la región" correcta="1"/>
+        <respuesta contestacion="La inversión en educación es baja comparada con la región" correcta="0"/>
+        <respuesta contestacion="Su nivel de inflación es alto" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>
