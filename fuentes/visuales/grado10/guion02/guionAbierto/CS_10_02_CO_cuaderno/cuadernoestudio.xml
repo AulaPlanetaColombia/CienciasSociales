@@ -5,7 +5,7 @@
 <?Pub Inc?>
 <libro id="CS_10_02_CO">
 <libroTitulo>Conflictos globales contemporáneos en Asia y Oriente
-Medio al final del siglo XX</libroTitulo>
+Medio</libroTitulo><?Pub Caret -1?>
 <seccion1 id="S1_CS_10_02_CO_FD1E20C3A3EC43F8B1CDDAA47BFCE018">
 <seccion1Titulo>Conflictos y cooperación en Asia</seccion1Titulo>
 <seccion1Texto>
@@ -807,7 +807,7 @@ id="S2_CS_10_02_CO_061AABB228964E5F8A230C7D460E3EEF">
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso160&amp;IdRecurso=RES-64606904D15B47CBA49D9509E062ABF6"
->Refuerza tu aprendizaje: La Guerra del Golfo</enlace><?Pub Caret -2?>
+>Refuerza tu aprendizaje: La Guerra del Golfo</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_10_02_CO_CAAAA8752A8A4839A1EEEECF6049D4BB">
 <seccion1Titulo>Competencias</seccion1Titulo>
@@ -826,12 +826,10 @@ id="MI_CS_10_02_CO_3C185D1ACA5F42409191C3C132798484"><mapaconceptual>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso200&amp;IdRecurso=RES-FA44D333582147269B691D38FE5CEFA5"
 >Mapa conceptual del tema Conflictos globales contemporáneos en Asia
-y Oriente Medio al final del siglo XX</enlace></mapaconceptual>
-<autoevaluate><enlace
+y Oriente Medio</enlace></mapaconceptual><autoevaluate><enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_02_CO_Recurso210&amp;IdRecurso=RES-CDFBBD84AC344637B9D236FD36BBC070"
 >Evalúa tus conocimientos sobre el tema Conflictos globales contemporáneos
-en Asia y Oriente Medio al final del siglo XX</enlace></autoevaluate>
-<enlacesreferencia>
+en Asia y Oriente Medio</enlace></autoevaluate><enlacesreferencia>
 <enlace
 destino="https://dialnet.unirioja.es/descarga/articulo/3966539.pdf"
 >Artículo acerca de los conflictos políticos contemporáneos en Asia.</enlace>
