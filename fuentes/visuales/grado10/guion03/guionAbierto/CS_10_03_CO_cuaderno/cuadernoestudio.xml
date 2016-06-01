@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
 <?Pub Inc?>
 <libro id="CS_10_03_CO">
-<libroTitulo>América al final del siglo XX</libroTitulo>
-<seccion1 id="S1_CS_10_03_CO_A87308FA6C764A98AE1DA4162EFAEBD7">
-<seccion1Titulo>El continente americano</seccion1Titulo>
-<seccion1Texto>
-<p>El continente americano se divide en las regiones norte, sur, central
+  <libroTitulo>América al final del siglo XX</libroTitulo>
+  <seccion1 id="S1_CS_10_03_CO_A87308FA6C764A98AE1DA4162EFAEBD7">
+    <seccion1Titulo>El continente americano</seccion1Titulo>
+    <seccion1Texto>
+      <p>El continente americano se divide en las regiones norte, sur, central
 y Caribe. Latinoamérica comprende el centro y el sur del continente.</p>
-<p>La historia de América estuvo definida por procesos coloniales
+      <p>La historia de América estuvo definida por procesos coloniales
 y de independencia, cuyas particularidades fueron definitivas para
 que el destino de cada una de las regiones del continente haya sido
 disímil. La calidad de sus <negrita>democracias</negrita> o la potencia
@@ -18,226 +18,217 @@ de sus <negrita>economías</negrita> hacen de América del Norte una
 región muy distinta a las del centro y sur del continente. Así mismo,
 existen notables diferencias culturales, lingüísticas, religiosas
 e ideológicas entre las diferentes regiones.</p>
-<imagen src="CS_10_03_CO_IMG01_small.jpg">
-<p>En el ámbito político, desde 1948, América ha buscado construir
+      <imagen src="CS_10_03_CO_IMG01_small.jpg">
+        <p>En el ámbito político, desde 1948, América ha buscado construir
 un destino común. Para ello se conformó la Organización de Estados
 Americanos (OEA), que busca armonizar las relaciones entre sus distintos
 miembros, que son la totalidad de los países del continente.</p>
-</imagen>
-<p>El fin del siglo XX fue para América un periodo de importantes
+      </imagen>
+      <p>El fin del siglo XX fue para América un periodo de importantes
 cambios. La mayoría definidos por el reacomodamiento que trajo el
 fin de la Guerra Fría, la caída del comunismo y la implementación
 del modelo neoliberal.</p>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso010&amp;IdRecurso=RES-DC7E04CC2D1741E9BC69111FBD23493C"
->Afinidades y contrastes entre las sociedades americanas del final
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso010&amp;IdRecurso=RES-DC7E04CC2D1741E9BC69111FBD23493C">Afinidades y contrastes entre las sociedades americanas del final
 del siglo XX</enlace>
-</profundiza><seccion2
-id="S2_CS_10_03_CO_06ACCFEA67B04EA1ABCE49D372A3686F">
-<seccion2Titulo>Norteamérica</seccion2Titulo>
-<seccion2Texto>
-<p>La región del norte del continente está integrada geográficamente
+      </profundiza>
+      <seccion2 id="S2_CS_10_03_CO_06ACCFEA67B04EA1ABCE49D372A3686F">
+        <seccion2Titulo>Norteamérica</seccion2Titulo>
+        <seccion2Texto>
+          <p>La región del norte del continente está integrada geográficamente
 por México, Estados Unidos y Canadá. Actualmente, su población supera
 los 580 millones de habitantes. Aunque entre estos países existen
 notables diferencias culturales y lingüísticas, desde 1994 pusieron
-en marcha el <negrita>Tratado de Libre Comercio de América del Norte</negrita
-> (TLCAN). Los tres socios tienen industrias poderosas; Estados Unidos
+en marcha el <negrita>Tratado de Libre Comercio de América del Norte</negrita> (TLCAN). Los tres socios tienen industrias poderosas; Estados Unidos
 y Canadá en mayor proporción que México. El propósito de este tratado
 es facilitar el intercambio de productos entre los tres países; no
 obstante las diferencias internas, particularmente en las políticas
 de estímulos que despliegan los Estados hacia sus propios productores,
 generan desbalances y asimetrías en la manera como se dan estos intercambios.</p>
-<imagen src="CS_10_03_CO_IMG02_small.jpg">
-<p>México, Estados Unidos y Canadá son los tres países que conforman
+          <imagen src="CS_10_03_CO_IMG02_small.jpg">
+            <p>Puente de Brooklyn en Nueva York. México, Estados Unidos y Canadá son los tres países que conforman
 Norteamérica. Su economía tiene fuentes diversas; por lo tanto, las
 relaciones comerciales entre ellos son dinámicas y mueven enormes
 recursos, similares o mayores que los de la Unión Europea. A pesar
 de ello, internamente, cada país tiene índices de desigualdad y crecimiento
 diferentes, determinados por la asimetría en la distribución de las
 rentas y ganancias.</p>
-</imagen>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_10_03_CO_FFC84AAE52CD4AA2908E4A962DEFED62">
-<seccion2Titulo>Centroamérica</seccion2Titulo>
-<seccion2Texto>
-<p>Centroamérica está integrada por Guatemala, Belice, Honduras, El
+          </imagen>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_03_CO_FFC84AAE52CD4AA2908E4A962DEFED62">
+        <seccion2Titulo>Centroamérica</seccion2Titulo>
+        <seccion2Texto>
+          <p>Centroamérica está integrada por Guatemala, Belice, Honduras, El
 Salvador, Nicaragua, Costa Rica y Panamá. Desde su proceso de Independencia
 y hasta los años ochenta fue una región caracterizada por la inestabilidad
 social y política, amenazada por la pobreza y la desigualdad, con
 excepción de Costa Rica. Su riqueza natural es inmensa, pues posee
 áreas con gran biodiversidad.</p>
-<p>A finales de siglo XX, Centroamérica logró alcanzar un mayor equilibrio
+          <p>A finales de siglo XX, Centroamérica logró alcanzar un mayor equilibrio
 político, sin lograr resolver los problemas de pobreza extrema. En
-la región se destacan los <negrita>regímenes presidencialistas</negrita
->, una fuerte implantación de iglesias evangélicas y mayores intercambios
+la región se destacan los <negrita>regímenes presidencialistas</negrita>, una proliferación de iglesias evangélicas y mayores intercambios
 comerciales entre los países que la conforman.</p>
-<imagen src="CS_10_03_CO_IMG03_small.jpg">
-<p>Centroamérica tiene indicadores económicos y sociales deficientes,
+          <imagen src="CS_10_03_CO_IMG03_small.jpg">
+            <p>Centroamérica tiene indicadores económicos y sociales deficientes,
 se refleja economías centradas en la exportación de productos agrícolas
 con enormes problemas de pobreza, salud y educación. Costa Rica mantiene
 otra tendencia. Considerada la “Suiza de América”, es reconocida por
 sus aceptables estándares de vida y por no tener Fuerzas Armadas.</p>
-</imagen>
-<p>Durante las décadas de los setenta y ochenta del siglo XX, <negrita
->Guatemala</negrita>, <negrita>El Salvador</negrita> y <negrita>Nicaragua</negrita
-> vivieron <negrita>conflictos internos</negrita> graves. Para aquel
+          </imagen>
+          <p>Durante las décadas de los setenta y ochenta del siglo XX, <negrita>Guatemala</negrita>, <negrita>El Salvador</negrita> y <negrita>Nicaragua</negrita> vivieron <negrita>conflictos internos</negrita> graves. Para aquel
 periodo, movimientos sociales y guerrillas se enfrentaron a regímenes
 dictatoriales represivos, que estuvieron en cabeza de poderosas familias
 tradicionales aliadas con las Fuerzas Armadas y grandes empresas de
 explotación agrícola. Fueron décadas en las que los <negrita>derechos
 humanos</negrita> se violaron de manera sistemática.</p>
-<p>Durante la década de los noventa se impulsaron <negrita>procesos
+          <p>Durante la década de los noventa se impulsaron <negrita>procesos
 de paz</negrita> que terminaron con la violencia política. En El Salvador
 se firmó el acuerdo de paz en 1992, y en Guatemala, en 1996. Sin embargo,
 la pobreza y la desigualdad trajeron nuevas formas de confrontación
 lideradas por el narcotráfico, bandas de delincuencia común y pandillas
 de jóvenes.</p>
-<destacado><destacadoTitulo>Procesos de paz en Centroamérica</destacadoTitulo>
-<destacadoTexto>
-<p>La mayoría de los países centroamericanos tuvieron cruentas dictaduras
+          <destacado>
+            <destacadoTitulo>Procesos de paz en Centroamérica</destacadoTitulo>
+            <destacadoTexto>
+              <p>La mayoría de los países centroamericanos tuvieron cruentas dictaduras
 durante la segunda mitad del siglo XX. Esto tuvo como respuesta el
 surgimiento de grupos armados y movimientos sociales de izquierda.
 El recrudecimiento de la guerra dejó millones de muertos a lo largo
-y ancho de la región. En los años noventa 1990 se iniciaron distintos
+y ancho de la región. En los años noventa se iniciaron distintos
 procesos con los que se selló la paz.</p>
-</destacadoTexto></destacado>
-<p>Desde el punto de vista económico, social y político, los países
+            </destacadoTexto>
+          </destacado>
+          <p>Desde el punto de vista económico, social y político, los países
 de Centroamérica cuentan con el <negrita>SICA</negrita> (Sistema de
 la Integración Centroamericana ), que desde 1993 busca promover el
-intercambio comercial y crear dinámicas de apoyo interregional que
+<negrita>intercambio comercial</negrita> y crear dinámicas de <negrita>apoyo interregional</negrita> que
 garanticen la concordia entre los países miembros.</p>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_10_03_CO_01492E8EC8F8416EABE6FC07CB119152">
-<seccion2Titulo>El Caribe</seccion2Titulo>
-<seccion2Texto>
-<p>El Caribe es una región que incluye numerosas islas, algunas de
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_03_CO_01492E8EC8F8416EABE6FC07CB119152">
+        <seccion2Titulo>El Caribe</seccion2Titulo>
+        <seccion2Texto>
+          <p>El Caribe es una región que incluye numerosas islas, algunas de
 ellas repúblicas independientes, las otras forman parte de potencias
 europeas o de países de Centroamérica o Suramérica. Dentro de las
 múltiples islas que forman esta región destacan <negrita>las Antillas
 Mayores</negrita> (conformadas por las islas de Cuba, Haití y República
-Dominicana, Jamaica y Puerto Rico) y las <negrita>Antillas Menores</negrita
-> (un grupo numeroso de islas de tamaños menores, que se subdivide
+Dominicana, Jamaica y Puerto Rico) y las <negrita>Antillas Menores</negrita> (un grupo numeroso de islas de tamaños menores, que se subdivide
 en islas de Sotavento e islas de Barlovento).</p>
-<p>En la región se hablan <negrita>diferentes idiomas</negrita>, que
+          <p>En la región se hablan <negrita>diferentes idiomas</negrita>, que
 incluyen francés, inglés, español y lenguas aborígenes. Para la estabilidad
-política del continente, dos islas de las <negrita>Antillas Mayores</negrita
-> son muy importantes : <negrita>Haití</negrita> y <negrita>Cuba</negrita
->.</p>
-<p><negrita>Haití</negrita> vivió una cruenta dictadura durante casi
+política del continente, dos islas de las <negrita>Antillas Mayores</negrita> son muy importantes : <negrita>Haití</negrita> y <negrita>Cuba</negrita>.</p>
+          <p>
+            <negrita>Haití</negrita> vivió una cruenta dictadura durante casi
 todo el siglo XX: la <negrita>dinastía Duvalier</negrita> sometió
 a la mayoría de la población a una pobreza extrema. En 1986, con el
 golpe de Estado del general Henry Namphy, se promulgó una constitución
 (1987) y se inició un difícil camino hacia la democratización, interrumpido
 por golpes de Estado, levantamientos populares y la intervención de
 Estados Unidos.</p>
-<imagen src="CS_10_03_CO_IMG04_small.jpg">
-<p>Algunas sociedades caribeñas tienen estándares de vida altos, pero
+          <imagen src="CS_10_03_CO_IMG04_small.jpg">
+            <p>Casco antiguo de La Habana, Cuba. Algunas sociedades caribeñas tienen estándares de vida altos, pero
 otras, como la haitiana, considerada la más pobre de América, presenta
 estándares muy bajos. La región obtiene sus mayores recursos del turismo
 y de la exportación de productos agrícolas. Desde el punto de vista
 geopolítico, Cuba es la pieza determinante en la región.</p>
-</imagen>
-<p><negrita>Cuba</negrita>, por su parte, tras años de cambios sociales
-iniciados en 1959, tuvo que vivir un duro periodo de <negrita>austeridad</negrita
->, propiciado por la <negrita>caída</negrita> de la <negrita>Unión
-de Repúblicas Socialistas Soviéticas</negrita>, su principal <negrita
->socio</negrita> comercial. Aquello implicó que a partir de la década
+          </imagen>
+          <p>
+            <negrita>Cuba</negrita>, tras años de cambios sociales
+iniciados en 1959, tuvo que vivir un duro periodo de <negrita>austeridad</negrita>, propiciado por la <negrita>caída</negrita> de la <negrita>Unión
+de Repúblicas Socialistas Soviéticas</negrita>, su principal <negrita>socio</negrita> comercial. Aquello implicó que a partir de la década
 de los noventa inició fundamentalmente un proceso de apertura económica
 e intercambio comercial con países europeos.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso020&amp;IdRecurso=RES-37401C32C36D45B4A05CC82BC59E58A5"
->Conoce algunos hechos sociales importantes de América al final del
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso020&amp;IdRecurso=RES-37401C32C36D45B4A05CC82BC59E58A5">Conoce algunos hechos sociales importantes de América al final del
 siglo XX</enlace>
-</practica></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_03_CO_87CBB52903DF4943A163D0F0C4D008B7">
-<seccion2Titulo>Suramérica</seccion2Titulo>
-<seccion2Texto>
-<p>Suramérica está integrada por Argentina, Bolivia, Brasil, Chile,
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_03_CO_87CBB52903DF4943A163D0F0C4D008B7">
+        <seccion2Titulo>Suramérica</seccion2Titulo>
+        <seccion2Texto>
+          <p>Suramérica está integrada por Argentina, Bolivia, Brasil, Chile,
 Colombia, Ecuador, Guyana, Paraguay, Perú, Surinam, Uruguay y Venezuela.</p>
-<p>La importancia geopolítica de cada uno de los países que componen
-la región está determinada por su acceso a los <negrita>océanos</negrita
-> que la rodean, así como por la presencia de la <negrita>cordillera
-de los Andes</negrita>. Ambos elementos resultan cruciales para definir
-la economía y las relaciones internacionales.</p>
-<p>A finales de siglo XX, la totalidad de los países vivieron procesos
-democráticos tras haber sufrido, la mayoría de ellos, duras <negrita
->dictaduras militares</negrita>, que terminaron a finales de la década
+          <p>La importancia geopolítica de cada uno de los países que componen
+la región está determinada por su acceso a los <negrita>océanos</negrita> que la rodean, así como por la presencia de la <negrita>cordillera
+de los Andes</negrita>. Ambos elementos resultan cruciales para la economía y las relaciones internacionales.</p>
+          <p>A finales de siglo XX, la totalidad de los países vivieron procesos
+democráticos tras haber sufrido, la mayoría de ellos, duras <negrita>dictaduras militares</negrita>, que terminaron a finales de la década
 de los ochenta. La inserción en la <negrita>democracia</negrita> implicó
 la ampliación de opciones políticas y una competencia electoral casi
 siempre armónica; no obstante, la <negrita>desigualdad</negrita> permaneció
 como una de las características más notables.</p>
-<p>A pesar de que la caída de la URSS y su repercusión en América
+          <p>A pesar de que la caída de la URSS y su repercusión en América
 se asoció con el fin del comunismo, <negrita>dos países</negrita> de
-la región llegaron al final del siglo con <negrita>grupos de izquierda</negrita
-> que buscaban la toma del poder por vía de las armas: <negrita>Perú</negrita
-> y <negrita>Colombia</negrita>. Sendero Luminoso, en Perú, fue derrotado
+la región llegaron al final del siglo con <negrita>grupos de izquierda</negrita> que buscaban la toma del poder por vía de las armas: <negrita>Perú</negrita> y <negrita>Colombia</negrita>. Sendero Luminoso, en Perú, fue derrotado
 por el gobierno de Alberto Fujimori. En Colombia ha sido necesario
-esperar hasta el presente para vivir el desenlace de un nuevo intento
+esperar el siglo XXI para el desenlace de un nuevo intento
 de paz.</p>
-<p>A su vez, debido a que el modelo neoliberal se impuso a nivel global
+          <p>A su vez, debido a que el modelo neoliberal se impuso a nivel global
 y ello implica competir con bloques de alto poder económico como la
 Unión Europea, Estados Unidos y Asia, en la última década del siglo
 pasado la integración de la región recibió un nuevo impulso. En 1991
-se promovió la creación de organismos como <negrita>Mercosur</negrita
->, inicialmente compuesto por Argentina, Brasil, Paraguay y Uruguay,
+se promovió la creación de organismos como <negrita>Mercosur</negrita>, inicialmente compuesto por Argentina, Brasil, Paraguay y Uruguay,
 luego Venezuela.</p>
-<destacado><destacadoTitulo>Mercosur</destacadoTitulo><destacadoTexto>
-<p>El Mercosur consiste principalmente en la <negrita>unión aduanera</negrita
-> con <negrita>arancel externo común</negrita> para todos los bienes
+          <destacado>
+            <destacadoTitulo>Mercosur</destacadoTitulo>
+            <destacadoTexto>
+              <p>El Mercosur consiste principalmente en la <negrita>unión aduanera</negrita> con <negrita>arancel externo común</negrita> para todos los bienes
 y es, además, un proyecto de coordinación de políticas macroeconómicas
 comunes con una armonización de las legislaciones, inspirado en la
 Unión Europea. También es un bloque político que propende por una
 América Latina en paz sin injerencia ni imposiciones de otros países.</p>
-</destacadoTexto></destacado>
-<imagen src="CS_10_03_CO_IMG05_small.jpg">
-<p>Río de Janeiro, ciudad símbolo de Brasil y atractivo turístico
-mundial. Este país pertenece al Mercosur (Argentina, Brasil, Uruguay,
-Paraguay, Venezuela). Tiene acuerdos de libre comercio con Chile (1996),
+            </destacadoTexto>
+          </destacado>
+          <imagen src="CS_10_03_CO_IMG05_small.jpg">
+            <p>Río de Janeiro, ciudad símbolo de Brasil y atractivo turístico
+mundial. Brasil pertenece al Mercosur junto con Argentina, Brasil, Uruguay,
+Paraguay, Venezuela. Tiene acuerdos de libre comercio con Chile (1996),
 la Comunidad Andina (Bolivia Colombia, Ecuador, Perú, suscrito en
 el 2004), la India (2004) e Israel (2007).</p>
-</imagen>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_10_03_CO_AAE15E7595664CBCBDC650B076FEF2C2">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso030&amp;IdRecurso=RES-DBC671BB2E1E4C9D808B3FFC009E2D13"
->Refuerza tu aprendizaje: El continente americano</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_10_03_CO_57576EEB36F24221BD9815FA0B453677">
-<seccion1Titulo>La privatización y los tratados de libre comercio
+          </imagen>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_03_CO_AAE15E7595664CBCBDC650B076FEF2C2">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso030&amp;IdRecurso=RES-DBC671BB2E1E4C9D808B3FFC009E2D13">Refuerza tu aprendizaje: El continente americano</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_10_03_CO_57576EEB36F24221BD9815FA0B453677">
+    <seccion1Titulo>La privatización y los tratados de libre comercio
 en América Latina</seccion1Titulo>
-<seccion1Texto>
-<p>Debido a que el <negrita>modelo neoliberal</negrita> se impuso
-a nivel global, el continente americano vivió importantes <negrita
->cambios</negrita> que garantizaron la adopción de las distintas políticas
+    <seccion1Texto>
+      <p>Debido a que el <negrita>modelo neoliberal</negrita> se impuso
+a nivel global, el continente americano vivió importantes <negrita>cambios</negrita> que garantizaron la adopción de las distintas políticas
 que dicho modelo impuso mediante la injerencia de la banca internacional
-(Fondo Monetario Internacional y Banco Mundial), particularmente el <negrita
->libre comercio</negrita> y la <negrita>privatización</negrita>.</p>
-<destacado><destacadoTitulo>El consenso de Washington</destacadoTitulo>
-<destacadoTexto>
-<p>Tras la crisis de la deuda vivida en los años ochenta, en la que
+(Fondo Monetario Internacional y Banco Mundial), particularmente el <negrita>libre comercio</negrita> y la <negrita>privatización</negrita>.</p>
+      <destacado>
+        <destacadoTitulo>El consenso de Washington</destacadoTitulo>
+        <destacadoTexto>
+          <p>Tras la crisis de la deuda vivida en los años ochenta, en la que
 los países latinoamericanos fueron <negrita>incapaces</negrita> de
-afrontar el compromiso de <negrita>devolver</negrita> los <negrita
->empréstitos</negrita> a la banca internacional, empezó aplicarse
+afrontar el compromiso de <negrita>devolver</negrita> los <negrita>empréstitos</negrita> a la banca internacional, empezó aplicarse
 un conjunto de medidas conocidas como “el consenso de Washington”.
-Al exigir el pago de la deuda, los acreedores obligaron a los <negrita
->países deudores</negrita> a emplear gran parte de sus recursos económicos
+Al exigir el pago de la deuda, los acreedores obligaron a los <negrita>países deudores</negrita> a emplear gran parte de sus recursos económicos
 para intentar cubrir el creciente <negrita>déficit</negrita>. Esto
 implicó que los Estados disminuyeron el gasto social para pagar la
 deuda.</p>
-</destacadoTexto></destacado>
-<p>Debido a la gran cantidad de excedentes agrícolas e industriales
-que produce Estados Unidos, y a su interés por recuperar la <negrita
->hegemonía</negrita> frente a países que resultaron ser grandes competidores
+        </destacadoTexto>
+      </destacado>
+      <p>Debido a la gran cantidad de excedentes agrícolas e industriales
+que produce Estados Unidos, y a su interés por recuperar la <negrita>hegemonía</negrita> frente a países que resultaron ser grandes competidores
 (China, Japón, Alemania), el país del norte intentó, en 1994, promover
 el <negrita>Area del Libre Comercio para las Américas</negrita>.</p>
-<imagen src="CS_10_03_CO_IMG07_small.jpg">
-<p>Distrito Financiero en Ciudad de México. Este país forma parte
+      <imagen src="CS_10_03_CO_IMG07_small.jpg">
+        <p>Distrito Financiero en Ciudad de México. Este país forma parte
 de varios de los múltiples acuerdos que se han ido firmando entre
 distintos bloques de países, tras el fracaso del Alca, iniciativa
 promovida por Estados Unidos. México hace parte del Grupo de los Tres
@@ -246,455 +237,400 @@ Canadá y Estados Unidos (1992), Bolivia (1994), Costa Rica (1994),
 Nicaragua (1997), Chile (1998), la Asociación Europea de Libre Comercio
 (2000), Israel (2000), la Unión Europea (2000), El Salvador, Guatemala,
 Honduras (2001), Uruguay (2003) y Japón (2004).</p>
-</imagen>
-<p>El principio del Alca era que todos compitieran en igualdad de
+      </imagen>
+      <p>El principio del Alca era que todos compitieran en igualdad de
 condiciones y que los socios ganaran y ninguno perdiera. No obstante
 las ventajas de Estados Unidos frente a los demás países eran evidentemente
 superiores, lo que llevó a que pocos aceptaran vincularse al proyecto.
 El Alca no se hizo realidad y Estados Unidos debió buscar socios para
 acuerdos o tratados bilaterales.</p>
-<p>De otra parte, el Consenso de Washington instó a que los Estados
+      <p>De otra parte, el Consenso de Washington instó a que los Estados
 latinoamericanos <negrita>privatizaran</negrita> la mayor parte de
-empresas del <negrita>sector público</negrita> y a que <negrita>redujeran</negrita
-> el <negrita>gasto social</negrita>. Esto agravó la situación de
+empresas del <negrita>sector público</negrita> y a que <negrita>redujeran</negrita> el <negrita>gasto social</negrita>. Esto agravó la situación de
 la población al aumentar los índices de pobreza y exclusión. Lo anterior
 significó el <negrita>fin de un periodo</negrita> en el cual los Estados
-habían sido los responsables de garantizar el <negrita>acceso</negrita
-> a la <negrita>educación</negrita>, los <negrita>servicios públicos</negrita
->, la <negrita>salud</negrita> y la <negrita>infraestructura vial</negrita
-> (carreteras, puertos, aeropuertos, entre otros). </p>
-<p>Esta dinámica se mantuvo hasta el final del milenio, cuando empezaron
-a surgir gobiernos que se desmarcaron del Consenso de Washington,
-lo que llevó a que fueran considerados como “gobiernos de izquierda”.</p>
-<p>Aunque Estados Unidos y Canadá han logrado hacer menos visibles
-los efectos del modelo neoliberal, su aplicación no se hizo esperar.
+habían sido los responsables de garantizar el <negrita>acceso</negrita> a la <negrita>educación</negrita>, los <negrita>servicios públicos</negrita>, la <negrita>salud</negrita> y la <negrita>infraestructura vial</negrita> (carreteras, puertos, aeropuertos, entre otros). </p>
+      <p>Esta dinámica se mantuvo hasta el final del milenio, cuando empezaron
+a surgir gobiernos que se desmarcaron del Consenso de Washington, por lo que fueron considerados como “gobiernos de izquierda”.</p>
+      <p>Aunque Estados Unidos y Canadá lograron contener por un tiempo los efectos del modelo neoliberal, su aplicación no se hizo esperar.
 En los años ochenta y noventa, cientos de empresas se fusionaron,
-lo que trajo consigo un <negrita>aumento</negrita> en las <negrita
->tasas de desempleo</negrita>. No obstante, los gobiernos de esos
-países se enfrentan a <negrita>sindicatos</negrita> mucho <negrita
->más fuertes</negrita> y menos perseguidos que los sindicatos latinoamericanos,
+lo que trajo consigo un <negrita>aumento</negrita> en las <negrita>tasas de desempleo</negrita>. No obstante, los gobiernos de esos
+países se enfrentan a <negrita>sindicatos</negrita> mucho <negrita>más fuertes</negrita> y menos perseguidos que los sindicatos latinoamericanos,
 lo que dificulta el camino de las privatizaciones.</p>
-<imagen src="CS_10_03_CO_IMG17_small.jpg">
-<p>El interés de mantenerse como <negrita>potencias industriales</negrita
-> obliga a Canadá y Estados Unidos a garantizar niveles mínimos en
+      <imagen src="CS_10_03_CO_IMG17_small.jpg">
+        <p>El interés de mantenerse como <negrita>potencias industriales</negrita> obliga a Canadá y Estados Unidos a garantizar niveles mínimos en
 la calidad de vida de su clase obrera. Caso distinto es el de los
 países latinoamericanos, con industrias débiles y con un rol de exportadores
 de bienes primarios.</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso040&amp;IdRecurso=RES-6399ABF3AB864C88B66C4848B5829F9A"
->La insersión de las economías latinoamericanas al mercado global</enlace>
-</profundiza><seccion2
-id="S2_CS_10_03_CO_F461C94707F445B09B2E22DBF9981E65">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso050&amp;IdRecurso=RES-375957848AE94AAD80A3E9BA38A90927"
->Refuerza tu aprendizaje: La privatización y tratados de libre comercio
+      </imagen>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso040&amp;IdRecurso=RES-6399ABF3AB864C88B66C4848B5829F9A">La insersión de las economías latinoamericanas al mercado global</enlace>
+      </profundiza>
+      <seccion2 id="S2_CS_10_03_CO_F461C94707F445B09B2E22DBF9981E65">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso050&amp;IdRecurso=RES-375957848AE94AAD80A3E9BA38A90927">Refuerza tu aprendizaje: La privatización y tratados de libre comercio
 en América Latina</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_10_03_CO_81DF679AF84C4A19AD7C486665580DA6">
-<seccion1Titulo>La economía de América Latina</seccion1Titulo>
-<seccion1Texto>
-<p>En la década de los setenta, los países latinoamericanos, y particularmente
-los que tuvieron <negrita>regímenes militares</negrita>, adquirieron <negrita
->enormes deudas</negrita> para invertir en proyectos de <negrita>infraestructura</negrita
-> y <negrita>seguridad</negrita>. Aquellos préstamos conforman la
-enorme deuda externa latinoamericana, lo que constituye un obstáculo
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_10_03_CO_81DF679AF84C4A19AD7C486665580DA6">
+    <seccion1Titulo>La economía de América Latina</seccion1Titulo>
+    <seccion1Texto>
+      <p>En la década de los setenta, los países latinoamericanos, y particularmente
+los que tuvieron <negrita>regímenes militares</negrita>, adquirieron <negrita>enormes deudas</negrita> para invertir en proyectos de <negrita>infraestructura</negrita> y <negrita>seguridad</negrita>. Aquellos préstamos conforman la
+enorme deuda externa latinoamericana, que constituye un obstáculo
 para el desarrollo real del continente. Los préstamos se suscribieron
 con <negrita>altos intereses</negrita>, lo que ha hecho más difícil
 su pago.</p>
-<p>Desde la década de los ochenta, los países latinoamericanos fueron <negrita
->incapaces</negrita> de afrontar el compromiso de <negrita>devolver</negrita
-> los <negrita>empréstitos</negrita> que, al acumularse, incrementaron
+      <p>Desde la década de los ochenta, los países latinoamericanos fueron <negrita>incapaces</negrita> de afrontar el compromiso de <negrita>devolver</negrita> los <negrita>empréstitos</negrita> que, al acumularse, incrementaron
 constantemente el volumen global de la deuda. Al exigir el pago de
-la deuda, los acreedores (bancos internacionales) obligaron a los <negrita
->países deudores</negrita> a emplear gran parte de sus recursos económicos
+la deuda, los acreedores (bancos internacionales) obligaron a los <negrita>países deudores</negrita> a emplear gran parte de sus recursos económicos
 para cubrir el creciente <negrita>déficit</negrita>.</p>
-<imagen src="CS_10_03_CO_IMG08_small.jpg">
-<p><cursiva>La década pérdida</cursiva> es el nombre que reciben los
+      <imagen src="CS_10_03_CO_IMG08_small.jpg">
+        <p>
+          <cursiva>La década pérdida</cursiva> es el nombre que reciben los
 años ochenta debido a que los países latinoamericanos estuvieron impedidos
 para hacer inversión social, pues debieron destinar la mayor parte
-de sus ingresos al pago de los intereses de la deuda externa.</p><?Pub
-Caret 187?>
-</imagen>
-<p>Estas políticas orientadas al pago de la deuda trajeron graves
+de sus ingresos al pago de los intereses de la deuda externa.</p>
+      </imagen>
+      <p>Estas políticas orientadas al pago de la deuda trajeron graves
 consecuencias para América Latina. Por una parte, el <negrita>crecimiento
 económico</negrita> se vio <negrita>estancado</negrita> en los años
-ochenta debido a que gran parte del <negrita>producto interno bruto</negrita
-> se orientó a dicho pago. No obstante, llegó una recuperación importante
+ochenta debido a que gran parte del <negrita>producto interno bruto</negrita> se orientó a dicho pago. No obstante, llegó una recuperación importante
 pero momentánea en 1990, en parte gracias a la <negrita>venta de empresas
 nacionales</negrita> a inversionistas extranjeros.</p>
-<p>Distinto a los países industrializados de Norteamérica, los de
+      <p>Distinto a los países industrializados de Norteamérica, los de
 Centro y Suramérica concentraron su actividad en la <negrita>extracción
 y exportación de materias primas</negrita>, lo que generó mayor dependencia
 y vulnerabilidad ante las fluctuaciones de los precios de dichos recursos.
 El <negrita>impulso</negrita> a la <negrita>industria</negrita> se
 hizo cada vez más <negrita>lento</negrita>, lo que desaceleró la producción
 y, a su vez, generó altas tasas de <negrita>desempleo</negrita>.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso060&amp;IdRecurso=RES-FDCE52DAC51746C79803803CBAC58684"
->Conoce aspectos de Brasil como economía emergente en América</enlace>
-</practica><seccion2
-id="S2_CS_10_03_CO_F461C94707F445B09B2E22DBF9987F54">
-<seccion2Titulo>La crisis de la deuda</seccion2Titulo>
-<seccion2Texto>
-<p>Los años ochenta fueron de decrecimiento y crisis. En los años
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso060&amp;IdRecurso=RES-FDCE52DAC51746C79803803CBAC58684">Conoce aspectos de Brasil como economía emergente en América</enlace>
+      </practica>
+      <seccion2 id="S2_CS_10_03_CO_F461C94707F445B09B2E22DBF9987F54">
+        <seccion2Titulo>La crisis de la deuda</seccion2Titulo>
+        <seccion2Texto>
+          <p>Los años ochenta fueron de decrecimiento y crisis. En los años
 noventa hubo un repunte impulsado por el ingreso de capitales extranjeros
 a las cuentas nacionales. Esto se presentó como consecuencia de la
 venta de empresas de servicios y de préstamos de la banca internacional.
 El crecimiento, sin embargo, tuvo un punto de caída generado por el
-llamado “<negrita>efecto Tequila</negrita>” que se vivió en <negrita
->México</negrita> en <negrita>1994</negrita> y que estuvo a punto
+llamado “<negrita>efecto Tequila</negrita>” que se vivió en <negrita>México</negrita> en <negrita>1994</negrita> y que estuvo a punto
 de convertirse en una crisis global.</p>
-<p>Pocos años antes México había recibido un flujo de capitales destinados
+          <p>Pocos años antes México había recibido un flujo de capitales destinados
 a mejorar la economía nacional. El presidente Bill Clinton fue uno
 de los impulsores de estos movimientos de capital, cuyo propósito
 era que México pagara su deuda. En 1994, México devaluó el peso y
 esto estimuló la fuga de capitales extranjeros, lo que trajo como
 consecuencia el cierre de empresas e inversiones y con ello parálisis
 productiva y desempleo.</p>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_10_03_CO_CA1696CCC1114194BEF39E98F8AB345E">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso070&amp;IdRecurso=RES-1239B7EC4C6A42C28D88DC9E8D7AB464"
->Refuerza tu aprendizaje: La economía de América Latina</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_10_03_CO_802AEF84109745F9811B6C02D02C9220">
-<seccion1Titulo>La política y la sociedad en América Latina</seccion1Titulo>
-<seccion1Texto>
-<p>Desde los años ochenta, la región latinoamericana vivió múltiples
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_03_CO_CA1696CCC1114194BEF39E98F8AB345E">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso070&amp;IdRecurso=RES-1239B7EC4C6A42C28D88DC9E8D7AB464">Refuerza tu aprendizaje: La economía de América Latina</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_10_03_CO_802AEF84109745F9811B6C02D02C9220">
+    <seccion1Titulo>La política y la sociedad en América Latina</seccion1Titulo>
+    <seccion1Texto>
+      <p>Desde los años ochenta, la región latinoamericana vivió múltiples
 crisis. Sin embargo, la que definió su destino político y económico
 fue la <negrita>crisis de la deuda</negrita>.</p>
-<p>Dicha crisis terminó sometiendo a los Estados latinoamericanos
+      <p>Dicha crisis terminó sometiendo a los Estados latinoamericanos
 a una dinámica en la que el diseño y aplicación de las políticas públicas
-estuvo determinada por el llamado <negrita>Consenso de Washington</negrita
-> y las directrices del <negrita>Fondo Monetario Internacional</negrita
->. Algunos de los principales preceptos fueron los siguientes:</p>
-<listaSinNumerar>
-<listaElemento>Disciplina y reforma fiscal: determinada por el <negrita
->aumento de impuestos</negrita> a los consumidores.</listaElemento>
-<listaElemento>Reordenación de las prioridades del gasto público:
-determinada por el <negrita>recorte</negrita> al <negrita>gasto social</negrita
->.</listaElemento>
-<listaElemento>Liberalización del comercio y de la <negrita>inversión
+estuvo determinada por el llamado <negrita>Consenso de Washington</negrita> y las directrices del <negrita>Fondo Monetario Internacional</negrita>. Algunos de los principales preceptos fueron los siguientes:</p>
+      <listaSinNumerar>
+        <listaElemento>Disciplina y reforma fiscal: determinada por el <negrita>aumento de impuestos</negrita> a los consumidores.</listaElemento>
+        <listaElemento>Reordenación de las prioridades del gasto público:
+determinada por el <negrita>recorte</negrita> al <negrita>gasto social</negrita>.</listaElemento>
+        <listaElemento>Liberalización del comercio y de la <negrita>inversión
 extranjera</negrita> directa: apertura total a un intercambio sin
 aranceles.</listaElemento>
-<listaElemento>Privatizaciones: venta de <negrita>bienes públicos</negrita
-> y nacionales a propietarios de origen <negrita>privado</negrita
->.</listaElemento>
-</listaSinNumerar>
-<p>La aplicación de estas directrices requirió que el Estado fuera
+        <listaElemento>Privatizaciones: venta de <negrita>bienes públicos</negrita> y nacionales a propietarios de origen <negrita>privado</negrita>.</listaElemento>
+      </listaSinNumerar>
+      <p>La aplicación de estas directrices requirió que el Estado fuera
 ocupado por <negrita>una nueva clase política</negrita> que reorientó
 el funcionamiento siguiendo los lineamientos del Consenso de Washington.
-Fue el caso de <negrita>Carlos Menem</negrita> en Argentina, <negrita
->Carlos Salinas de Gortari</negrita> y <negrita>Ernesto Zedillo</negrita
-> en México, <negrita>Alberto Fujimori</negrita> en Perú, <negrita
->César Gaviria</negrita> en Colombia y <negrita>Carlos Andrés Pérez</negrita
-> en Venezuela, entre otros.</p>
-<imagen src="CS_10_03_CO_IMG09_small.jpg">
-<p>En América Latina, los años noventa se caracterizaron por la explosión
+Fue el caso de <negrita>Carlos Menem</negrita> en Argentina, <negrita>Carlos Salinas de Gortari</negrita> y <negrita>Ernesto Zedillo</negrita> en México, <negrita>Alberto Fujimori</negrita> en Perú, <negrita>César Gaviria</negrita> en Colombia y <negrita>Carlos Andrés Pérez</negrita> en Venezuela, entre otros.</p>
+      <imagen src="CS_10_03_CO_IMG09_small.jpg">
+        <p>En América Latina, los años noventa se caracterizaron por la explosión
 del problema de la deuda externa, hecho que llevó a que algunos países
-se declararan en mora, lo que implicó que no tenían recursos para
+se declararan en mora porque no tenían recursos para
 pagarla. Esta situación fue controlada con la aplicación de una serie
 de medidas contenidas en el Consenso de Washington y ordenadas por
 el Fondo Monetario Internacional.</p>
-</imagen>
-<seccion2 id="S2_CS_10_03_CO_32F34AB800CB410BB6B4945A161407E9">
-<seccion2Titulo>Los efectos sociales del neoliberalismo en América
+      </imagen>
+      <seccion2 id="S2_CS_10_03_CO_32F34AB800CB410BB6B4945A161407E9">
+        <seccion2Titulo>Los efectos sociales del neoliberalismo en América
 Latina</seccion2Titulo>
-<seccion2Texto>
-<p>La disminución del gasto social, las privatizaciones y el aumento
+        <seccion2Texto>
+          <p>La disminución del gasto social, las privatizaciones y el aumento
 de impuestos que derivaron del Consenso de Washington produjeron importantes
 efectos sociales en América Latina.</p>
-<p>Hasta 1980, el Estado había tenido un protagonismo central como
+          <p>Hasta 1980, el Estado había tenido un protagonismo central como
 garante de los derechos ciudadanos. La llegada de las <negrita>reformas
 neoliberales</negrita> trajo consigo un <negrita>cambio</negrita> en
-el <negrita>orden social</negrita>. La <negrita>privatización</negrita
-> de servicios de <negrita>salud</negrita> y <negrita>educación</negrita
->, así como los despidos que se originaron una vez las empresas públicas
-pasaron a manos privadas, aumentó el costo de vida y generó <negrita
->mayores tasas de desempleo</negrita>.</p>
-<p>Además, debido al que el neoliberalismo contempla un <negrita>cambio</negrita
-> de las <negrita>funciones</negrita> para el <negrita>Estado</negrita
->, pasó a ser la sociedad civil la responsable de garantizar la satisfacción
+el <negrita>orden social</negrita>. La <negrita>privatización</negrita> de servicios de <negrita>salud</negrita> y <negrita>educación</negrita>, así como los despidos que se originaron una vez las empresas públicas
+pasaron a manos privadas, aumentó el costo de vida y generó <negrita>mayores tasas de desempleo</negrita>.</p>
+          <p>Además, debido a que el neoliberalismo contempla un <negrita>cambio</negrita> de las <negrita>funciones</negrita> para el <negrita>Estado</negrita>, pasó a ser la sociedad civil la responsable de garantizar la satisfacción
 de algunas necesidades básicas. Por lo anterior, durante este periodo
-surgieron las ONG (<negrita>organizaciones no gubernamentales</negrita
->), que se encargaron de crear soluciones momentáneas para aliviar
+surgieron las ONG (<negrita>organizaciones no gubernamentales</negrita>), que se encargaron de crear soluciones momentáneas para aliviar
 problemáticas de las que el Estado empezó a desentenderse. La mayor
-consecuencia que resultó de este panorama fue el <negrita>empobrecimiento</negrita
-> de gran parte de la población.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso080&amp;IdRecurso=RES-93EF3E03AB1D41FEB47413E70CD8FDEC"
->Identifica los efectos que tuvo la aplicación del neoliberalismo
+consecuencia que resultó de este panorama fue el <negrita>empobrecimiento</negrita> de gran parte de la población.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso080&amp;IdRecurso=RES-93EF3E03AB1D41FEB47413E70CD8FDEC">Identifica los efectos que tuvo la aplicación del neoliberalismo
 en América Latina</enlace>
-</practica></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_03_CO_32F34AB800CB410BB6B4945A161436A0">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso090&amp;IdRecurso=RES-C0955251A3BF435A975B106DB8736039"
->Refuerza tu aprendizaje: La política y la sociedad en América Latina</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_10_03_CO_34EFA4878D894D7AAF0E747D7ECFB876">
-<seccion1Titulo>La corrupción y la violencia luego de los procesos
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_03_CO_32F34AB800CB410BB6B4945A161436A0">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso090&amp;IdRecurso=RES-C0955251A3BF435A975B106DB8736039">Refuerza tu aprendizaje: La política y la sociedad en América Latina</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_10_03_CO_34EFA4878D894D7AAF0E747D7ECFB876">
+    <seccion1Titulo>La corrupción y la violencia luego de los procesos
 de paz</seccion1Titulo>
-<seccion1Texto>
-<p>En los años noventa, luego de la caída del muro de Berlín y de
+    <seccion1Texto>
+      <p>En los años noventa, luego de la caída del muro de Berlín y de
 la Unión de Repúblicas Socialistas Soviéticas, el mundo creyó terminadas
 las ideologías y, con ellas, el comunismo. En América Latina se impulsaron
 algunos procesos de paz que buscaron acabar con conflictos de larga
 duración, como el guatemalteco y el salvadoreño.</p>
-<p>En principio estos acuerdos arrojaron resultados satisfactorios
+      <p>En principio estos acuerdos arrojaron resultados satisfactorios
 al no presentarse un resurgimiento de grupos insurgentes. No obstante,
-el llamado <negrita>posconflicto</negrita> quedó <negrita>inacabado</negrita
-> debido a que las sociedades de aquellos países no estuvieron lo
+el llamado <negrita>posconflicto</negrita> quedó <negrita>inacabado</negrita> debido a que las sociedades de aquellos países no estuvieron lo
 suficientemente preparadas para darles un lugar a los excombatientes.</p>
-<p>Esta situación, sumada al auge del <negrita>narcotráfico</negrita
->, llevó a que los países centroamericanos empezaran a sufrir un nuevo
+      <p>Esta situación, sumada al auge del <negrita>narcotráfico</negrita>, llevó a que los países centroamericanos empezaran a sufrir un nuevo
 fenómeno, el de pandillas transnacionales, algunas de ellas conocidas
 como las “<negrita>maras</negrita>”. Su carácter transnacional está
 determinado por dos aspectos: la condición de migrantes que tienen
 la mayoría de sus integrantes y su ubicación, ya que extienden su
-presencia y poder en diversos puntos de <negrita>Centroamérica</negrita
->, en conexión con Estados Unidos. Su móvil es el tráfico de estupefacientes
+presencia y poder en diversos puntos de <negrita>Centroamérica</negrita>, en conexión con Estados Unidos. Su móvil es el tráfico de estupefacientes
 y su comportamiento es asumido como una de las nuevas amenazas que
 debe enfrentar la región.</p>
-<imagen src="CS_10_03_CO_IMG10_small.jpg">
-<p>En Latinoamérica hay un recrudecimiento de la violencia en todas
+      <imagen src="CS_10_03_CO_IMG10_small.jpg">
+        <p>En Latinoamérica hay un recrudecimiento de la violencia en todas
 sus expresiones, desde la política hasta la común. Buena parte deriva
 de <negrita>procesos de paz</negrita> que dejaron estructuras militares
 que luego fueron aprovechadas por diferentes organizaciones delincuenciales.</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso100&amp;IdRecurso=RES-2ABC107894B04FD1B4220C5F4C0B7A58"
->El fenómeno de las pandillas en Latinoamérica</enlace>
-</profundiza><seccion2
-id="S2_CS_10_03_CO_32F34AB800CB410BB6B4945A161496D8">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso110&amp;IdRecurso=RES-39C3A978C9254F6FA143582003DAFD38"
->Refuerza tu aprendizaje: La corrupción y la violencia luego de los
+      </imagen>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso100&amp;IdRecurso=RES-2ABC107894B04FD1B4220C5F4C0B7A58">El fenómeno de las pandillas en Latinoamérica</enlace>
+      </profundiza>
+      <seccion2 id="S2_CS_10_03_CO_32F34AB800CB410BB6B4945A161496D8">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso110&amp;IdRecurso=RES-39C3A978C9254F6FA143582003DAFD38">Refuerza tu aprendizaje: La corrupción y la violencia luego de los
 procesos de paz</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_10_03_CO_71EFC6963371473F81EB0F3F7A56eBBB">
-<seccion1Titulo>Los efectos del neoliberalismo en la salud y en la
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_10_03_CO_71EFC6963371473F81EB0F3F7A56eBBB">
+    <seccion1Titulo>Los efectos del neoliberalismo en la salud y en la
 educación</seccion1Titulo>
-<seccion1Texto>
-<p>Desde finales del siglo XX, los <negrita>sistemas educativos</negrita
-> y de <negrita>salud</negrita> son los eslabones más <negrita>débiles</negrita
-> de las sociedades latinoamericanas.</p>
-<p>En América Latina, de acuerdo con datos de la Comisión Económica
+    <seccion1Texto>
+      <p>Desde finales del siglo XX, los <negrita>sistemas educativos</negrita> y de <negrita>salud</negrita> son los eslabones más <negrita>débiles</negrita> de las sociedades latinoamericanas.</p>
+      <p>En América Latina, de acuerdo con datos de la Comisión Económica
 para América Latina y el Caribe (Cepal), al finalizar el siglo XX
 solo uno de cada dos jóvenes terminaba sus estudios secundarios. Si
 se centra la mirada en la población más pobre, uno de cada tres jóvenes
 concluía la secundaria. Entretanto, en Estados Unidos la tasa de graduados
 universitarios es una de las más altas del mundo.</p>
-<p>La <negrita>salud</negrita>, por su parte, fue uno de los servicios
-más afectados con las medidas neoliberales. Su <negrita>privatización</negrita
-> llevó a que una gran parte de la población quedara <negrita>sin
+      <p>La <negrita>salud</negrita>, por su parte, fue uno de los servicios
+más afectados con las medidas neoliberales. Su <negrita>privatización</negrita> llevó a que una gran parte de la población quedara <negrita>sin
 acceso</negrita>. Esta situación se da desde finales del siglo XX
 en la mayoría del continente, incluyendo a Estados Unidos, en donde
 cerca 50 millones de habitantes tienen poco o ningún acceso.</p>
-<imagen src="CS_10_03_CO_IMG11_small.jpg">
-<p>Aunque en el continente ha habido avances significativos en la <negrita
->erradicación</negrita> del <negrita>analfabetismo</negrita>, los
+      <imagen src="CS_10_03_CO_IMG11_small.jpg">
+        <p>Aunque en el continente ha habido avances significativos en la <negrita>erradicación</negrita> del <negrita>analfabetismo</negrita>, los
 Estados tienen el reto de garantizar, además del acceso a una educación
 básica, el ingreso de sectores más amplios a la educación superior.</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso120&amp;IdRecurso=RES-C0F26253AC55466789E68920D7CFD776"
->Conoce los efectos del neoliberalismo en la salud y la educación</enlace>
-</profundiza><seccion2
-id="S2_CS_10_03_CO_303297386F24473489B90D1F36882E52">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso130&amp;IdRecurso=RES-3EAC925922BF417398652559323CF9F0"
->Refuerza tu aprendizaje: Los efectos del neoliberalismo en la salud
+      </imagen>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso120&amp;IdRecurso=RES-C0F26253AC55466789E68920D7CFD776">Conoce los efectos del neoliberalismo en la salud y la educación</enlace>
+      </profundiza>
+      <seccion2 id="S2_CS_10_03_CO_303297386F24473489B90D1F36882E52">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso130&amp;IdRecurso=RES-3EAC925922BF417398652559323CF9F0">Refuerza tu aprendizaje: Los efectos del neoliberalismo en la salud
 y en la educación</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_10_03_CO_71EFC6963371473F81EB0F3F7A56DCCC">
-<seccion1Titulo>Los Estados Unidos y la globalización</seccion1Titulo>
-<seccion1Texto>
-<p>A finales del siglo XX, el mundo entró en un proceso conocido como <negrita
->globalización</negrita>, que implicó que empresas, habitantes, sociedades,
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_10_03_CO_71EFC6963371473F81EB0F3F7A56DCCC">
+    <seccion1Titulo>Los Estados Unidos y la globalización</seccion1Titulo>
+    <seccion1Texto>
+      <p>A finales del siglo XX, el mundo entró en un proceso conocido como <negrita>globalización</negrita>, que implicó que empresas, habitantes, sociedades,
 culturas y Gobiernos de diferentes latitudes se integraran e interactuaran.
 Su inicio coincidió con una ola de políticas neoliberales fomentadas
-desde Estados Unidos durante el gobierno de <negrita>Ronald Reagan</negrita
->, y desde el Reino Unido, con <negrita>Margaret Thatcher</negrita
->.</p>
-<p>El detonante inicial fue la pérdida de hegemonía que experimentó
-Estados Unidos a raíz de la guerra del <negrita>Yom Kippur</negrita
-> y de la derrota en <negrita>Vietnam</negrita>, que le generó grandes
+desde Estados Unidos durante el gobierno de <negrita>Ronald Reagan</negrita>, y desde el Reino Unido, con <negrita>Margaret Thatcher</negrita>.</p>
+      <p>El detonante inicial fue la pérdida de hegemonía que experimentó
+Estados Unidos a raíz de la guerra del <negrita>Yom Kippur</negrita> y de la derrota en <negrita>Vietnam</negrita>, que le generó grandes
 pérdidas económicas. Ambas circunstancias llevaron a que el país del
 norte, y también sus aliados más cercanos, quisieran recuperar su
 poderío buscando mercados para la distribución de sus productos y
 para la instalación de sus empresas en distintos puntos del globo.</p>
-<imagen src="CS_10_03_CO_IMG12_small.jpg">
-<p>Ronald Reagan, uno de los promotores del neoliberalismo. El poder
+      <imagen src="CS_10_03_CO_IMG12_small.jpg">
+        <p>Ronald Reagan, uno de los promotores del neoliberalismo. El poder
 de la globalización se debe, en gran medida, al enorme desarrollo
-de las tecnologías de la información y de las comunicaciones y a los
+de las tecnologías de la información y de las comunicaciones, a los
 avances en el comercio y a la circulación de capitales de inversión
 en el ámbito internacional.</p>
-</imagen>
-<p>Por lo anterior, con la aplicación del <negrita>neoliberalismo</negrita
-> se impulsó la <negrita>apertura de mercados</negrita>, lo cual se
+      </imagen>
+      <p>Por lo anterior, con la aplicación del <negrita>neoliberalismo</negrita> se impulsó la <negrita>apertura de mercados</negrita>, lo cual se
 logró mediante tratados de libre comercio binacionales o entre varios
 países. Para ello, los Gobiernos rebajaron los aranceles o impuestos
 a las <negrita>importaciones</negrita> de bienes, servicios e inversiones.
 También facilitaron la instalación de fábricas de empresas extranjeras
-en sus territorios para reducir los costos de <negrita>mano de obra</negrita
->.</p>
-<seccion2 id="S2_CS_10_03_CO_303297386F24473489B90D1F36881A96">
-<seccion2Titulo>La globalización</seccion2Titulo>
-<seccion2Texto>
-<p>La globalización descansa sobre una estructura financiera y comercial
+en sus territorios para reducir los costos de <negrita>mano de obra</negrita>.</p>
+      <seccion2 id="S2_CS_10_03_CO_303297386F24473489B90D1F36881A96">
+        <seccion2Titulo>La globalización</seccion2Titulo>
+        <seccion2Texto>
+          <p>La globalización descansa sobre una estructura financiera y comercial
 de carácter internacional y tiene efectos sobre el ambiente, la política,
 la cultura y la economía, entre otros aspectos.</p>
-<imagen src="CS_10_03_CO_IMG13_small.jpg">
-<p>La economía y el comercio han crecido gracias a los alcances de
+          <imagen src="CS_10_03_CO_IMG13_small.jpg">
+            <p>La economía y el comercio han crecido gracias a los alcances de
 la tecnología, que le ofrece a consumidores, inversionistas, comerciantes
 y en general a todas las personas, herramientas que les permiten interactuar
 en tiempo real entre un extremo y otro del planeta. Además, posibilita
 información para hacer análisis más rápidos de las tendencias económicas,
 hacer transferencias de bienes y colaborar con clientes o socios ubicados
 en otras latitudes.</p>
-</imagen>
-<p>Las <negrita>discusiones</negrita> sobre la <negrita>globalización</negrita
-> son interminables. Los <negrita>defensores</negrita> aseguran que,
+          </imagen>
+          <p>Las <negrita>discusiones</negrita> sobre la <negrita>globalización</negrita> son interminables. Los <negrita>defensores</negrita> aseguran que,
 gracias a ella, sociedades y países pobres pueden mejorar su situación
 económica, ya que permite intercambiar productos a buenos precios
 y de alta calidad. Los <negrita>críticos</negrita> sostienen que beneficia
 especialmente a los países desarrollados, a las multinacionales y
 a los inversionistas de capitales.</p>
-<imagen src="CS_10_03_CO_IMG14_small.jpg">
-<p>Al finalizar el siglo XX, la oposición a la globalización y a las
+          <imagen src="CS_10_03_CO_IMG14_small.jpg">
+            <p>Al finalizar el siglo XX, la oposición a la globalización y a las
 políticas neoliberales cobró adeptos en diversas partes del mundo,
 especialmente cuando los gobiernos se preocuparon por el control de
 capitales, trabajo y bienes.</p>
-</imagen>
-<p>En cuanto a la economía y la política, la globalización implica <negrita
->unificación de mercados</negrita>, sociedades y culturas, lo que
+          </imagen>
+          <p>En cuanto a la economía y la política, la globalización implica <negrita>unificación de mercados</negrita>, sociedades y culturas, lo que
 genera cambios en aspectos sociales, económicos y políticos. Unificación
-quiere decir que se priorizan unas <negrita>formas de producción</negrita
-> y de <negrita>movimientos de capital</negrita> que son realizados
+quiere decir que se priorizan unas <negrita>formas de producción</negrita> y de <negrita>movimientos de capital</negrita> que son realizados
 desde Estados Unidos o desde otros países desarrollados.</p>
-<p>La producción, por ejemplo, se divide entre diferentes países y
-la venta de los productos finales sigue <negrita>criterios estandarizados</negrita
-> que en ocasiones escapan al control de los Estados.</p>
-<p><negrita>La tecnología</negrita> en la actual globalización integra <negrita
->transporte y telecomunicaciones</negrita>, que facilitan el acceso
+          <p>La producción, por ejemplo, se divide entre diferentes países y
+la venta de los productos finales sigue <negrita>criterios estandarizados</negrita> que en ocasiones escapan al control de los Estados.</p>
+          <p>
+            <negrita>La tecnología</negrita> en la actual globalización integra <negrita>transporte y telecomunicaciones</negrita>, que facilitan el acceso
 inmediato a la información y, si hay ciudadanos preparados, al conocimiento.
 Muchos consideran que la globalización abolirá las <negrita>fronteras
 financieras</negrita> mediante la integración de los mercados.</p>
-<p>No obstante, los críticos valoran de otra manera el momento actual.
+          <p>No obstante, los críticos valoran de otra manera el momento actual.
 Sostienen que el fin de las fronteras, las diferencias étnicas, las
 confesiones religiosas, las ideologías políticas o de las condiciones
 socioeconómicas tardará mucho en llegar, aunque afirman la conformación
-de un sistema económico de alcance mundial y una tendencia de la <negrita
->concentración de los medios masivos de comunicación</negrita>, que
-impide la libertad de pensamiento, información y opinión<enlace
-destino="https://www.youtube.com/watch?v=LW-uFVE1POE"> [VER]</enlace
->.</p>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_10_03_CO_303297386F24473489B90D1F36887D84">
-<seccion2Titulo>La política y las relaciones internacionales de Estados
+de un sistema económico de alcance mundial y una tendencia de la <negrita>concentración de los medios masivos de comunicación</negrita>, que
+impide la libertad de pensamiento, información y opinión<enlace destino="https://www.youtube.com/watch?v=LW-uFVE1POE"> [VER]</enlace>.</p>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_03_CO_303297386F24473489B90D1F36887D84">
+        <seccion2Titulo>La política y las relaciones internacionales de Estados
 Unidos</seccion2Titulo>
-<seccion2Texto>
-<p>La política y las relaciones internacionales de Estados Unidos
+        <seccion2Texto>
+          <p>La política y las relaciones internacionales de Estados Unidos
 en el último cuarto del siglo XX se caracterizaron por la ampliación
 de su poderío militar y la expansión de su campo de acción hacia territorios
 de <negrita>Oriente Medio</negrita>, así como el endurecimiento de
 la llamada <negrita>guerra de baja intensidad</negrita> en América
-Latina<enlace
-destino="http://elpais.com/diario/1986/04/19/opinion/514245611_850215.html"
-> [VER]</enlace>.</p>
-<p>Gracias a esas medidas, Estados Unidos recuperó su lugar en el
+Latina<enlace destino="http://elpais.com/diario/1986/04/19/opinion/514245611_850215.html"> [VER]</enlace>.</p>
+          <p>Gracias a esas medidas, Estados Unidos recuperó su lugar en el
 mundo, no obstante, aumentó la desigualdad social. La administración
 de George Bush (1988-1992) enfrentó una fuerte crisis económica interna
 y adelantó la negociación con Mijail Gorbachov y otros líderes soviéticos
 para el derrumbe definitivo de la Unión Soviética.</p>
-<p>Las aspiraciones de reelección de Bush fueron superadas por la
+          <p>Las aspiraciones de reelección de Bush fueron superadas por la
 candidatura demócrata de Bill Clinton, quien gobernó el país entre
 1993 y 2001. Esta administración hizo frente al problema de Kosovo,
 promovió la paz en Oriente Medio, endureció las sanciones contra Cuba
 y promovió <negrita>mejores relaciones</negrita> con <negrita>América
 Latina</negrita>.</p>
-<imagen src="CS_10_03_CO_IMG15_small.jpg">
-<p>Los presidentes que gobernaron Estados Unidos al final del siglo
-XX y comienzos del XXI: Jimmy Carter, George Bush, Bill Clinton, George
-W. Bush.</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso140&amp;IdRecurso=RES-C782E82382B1441D9BAA21D14D3B24BE"
->Las guerras internaciones de Estados Unidos a finales del siglo XX</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_03_CO_303297386F24473489B90D1F36884B29">
-<seccion2Titulo>Las guerras internacionales</seccion2Titulo>
-<seccion2Texto>
-<p>Aunque la Guerra Fría llegó a su fin, Estados Unidos prosiguió
+          <imagen src="CS_10_03_CO_IMG15_small.jpg">
+            <p>Los presidentes que gobernaron Estados Unidos al final del siglo
+XX y comienzos del XXI: Jimmy Carter, Barack Obama, George Bush, Bill Clinton, George H. W. Bush.</p>
+          </imagen>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso140&amp;IdRecurso=RES-C782E82382B1441D9BAA21D14D3B24BE">Las guerras internaciones de Estados Unidos a finales del siglo XX</enlace>
+          </profundiza>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_03_CO_303297386F24473489B90D1F36884B29">
+        <seccion2Titulo>Las guerras internacionales</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aunque la Guerra Fría llegó a su fin, Estados Unidos prosiguió
 la política intervencionista en la región centroamericana, con episodios
 como <negrita>la invasión de Panamá</negrita> y la detención del dictador
 Manuel Noriega (diciembre 1989).</p>
-<p>Tras la caída del comunismo, Estados Unidos creyó vencer a su principal <negrita
->amenaza</negrita>. No obstante, un <negrita>nuevo flagelo</negrita
-> se convirtió en la causa para otras intervenciones y un mayor rearme:
+          <p>Tras la caída del comunismo, Estados Unidos creyó vencer a su principal <negrita>amenaza</negrita>. No obstante, un <negrita>nuevo flagelo</negrita> se convirtió en la causa para otras intervenciones y un mayor rearme:
 el <negrita>narcotráfico</negrita>. Una nueva forma de violencia se
-desató en varios países. Sin embargo, uno de los epicentros fue <negrita
->Colombia</negrita>, en donde poderosas mafias se enfrentaron por
+desató en varios países. Sin embargo, uno de los epicentros fue <negrita>Colombia</negrita>, en donde poderosas mafias se enfrentaron por
 el control del mercado estadounidense y de la producción local, hecho
 que causó numerosas víctimas. Esta situación estimuló una mayor presencia
 de pie de fuerza y cuerpos de inteligencia norteamericanos en América
 Latina, lo cual contribuyó a recrudecer el conflicto.</p>
-<imagen src="CS_10_03_CO_IMG16_small.jpg">
-<p>A finales de siglo XX el mundo occidental creyó vencer a su mayor
+          <imagen src="CS_10_03_CO_IMG16_small.jpg">
+            <p>A finales de siglo XX el mundo occidental creyó vencer a su mayor
 enemigo, el comunismo. Sin embargo, debió enfrentar una amenaza que
 se volvió más compleja: el narcotráfico.</p>
-</imagen>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso150&amp;IdRecurso=RES-328085A0183945E8BD49E42A6CDC516C"
->Conoce el protagonismo de Estados Unidos en el panorama global</enlace>
-</practica></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_03_CO_303297386F24473489B90D1F36880D71">
-<seccion2Titulo>La administración de George H. W. Bush</seccion2Titulo>
-<seccion2Texto>
-<p>George H. W. Bush fue presidente de Estados Unidos entre 1989 y
+          </imagen>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso150&amp;IdRecurso=RES-328085A0183945E8BD49E42A6CDC516C">Conoce el protagonismo de Estados Unidos en el panorama global</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_03_CO_303297386F24473489B90D1F36880D71">
+        <seccion2Titulo>La administración de George H. W. Bush</seccion2Titulo>
+        <seccion2Texto>
+          <p>George H. W. Bush fue presidente de Estados Unidos entre 1989 y
 1993. Fue un  periodo en el que Estados Unidos concentró su estrategia
 hegemónica en la caída del bloque soviético. No obstante, las relaciones
 con América Latina no se descuidaron y se concentraron, particularmente,
-en la aplicación de la “iniciativa Brady”, cuyo fin fue la recuperación
+en la aplicación de la <negrita>“iniciativa Brady”</negrita>, cuyo fin fue la recuperación
 económica de la región para garantizar el pago de la deuda externa.</p>
-<p>La invasión a Panamá y “El Caracazo” fueron dos de los acontecimientos
+          <p>La <negrita>invasión a Panamá</negrita> y <negrita>“El Caracazo”</negrita> fueron dos de los acontecimientos
 más notables ocurridos en la región latinoamericana durante la presidencia
 de Bush.</p>
-<p>El 20 de diciembre de 1989, las tropas estadounidenses invadieron
+          <p>El 20 de diciembre de 1989, las tropas estadounidenses invadieron
 Panamá. Como resultado de esta intervención murieron entre 2000 y
 10 000 personas, y las pérdidas económicas alcanzaron los 2000 millones
 de dólares. El presidente Noriega fue detenido y trasladado a Estados
 Unidos (1990). Tras la invasión, las tropas estadounidenses permanecieron
 como fuerza de ocupación.</p>
-<p>“El Caracazo”, ocurrido en febrero de 1989, fue la expresión del
+          <p>“El Caracazo”, ocurrido en febrero de 1989, fue la expresión del
 descontento popular que empezaba a vivirse en América Latina por los
 ajustes dictados por la banca internacional. Los programas de austeridad
 y privatización aumentaron los precios de la gasolina, del transporte
@@ -702,53 +638,57 @@ público y de los alimentos, lo que desencadenó una oleada de violencia
 en Caracas, protagonizada por las clases populares. Esta sería la
 semilla para que una década después surgiera en ese país y en el resto
 de la región gobiernos de orientación de izquierda.</p>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_10_03_CO_303297386F24473489B90D1F36881C82">
-<seccion2Titulo>La administración de Bill Clinton</seccion2Titulo>
-<seccion2Texto>
-<p>Siendo presidente entre 1993 y 2001, Bill Clinton se destacó principalmente
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_03_CO_303297386F24473489B90D1F36881C82">
+        <seccion2Titulo>La administración de Bill Clinton</seccion2Titulo>
+        <seccion2Texto>
+          <p>Siendo presidente entre 1993 y 2001, Bill Clinton se destacó principalmente
 por provomer tratados de libre comercio con los países del continente.
 El <negrita>Nafta</negrita> o <negrita>TLCAN</negrita> fue el principal
 de ellos, firmado por ese país, México y Canadá.</p>
-<p>En el campo político se destaca la <negrita>Ley Helms-Burton</negrita
->, que endureció aún más el embargo establecido para Cuba desde 1960.</p>
-<p>En 1994, Clinton puso en marcha la “<negrita>operación restaurar
+          <p>En el campo político se destaca la <negrita>Ley Helms-Burton</negrita>, que endureció aún más el embargo establecido para Cuba desde 1960.</p>
+          <p>En 1994, Clinton puso en marcha la “<negrita>operación restaurar
 la democracia</negrita>”, una intervención militar de fuerzas aliadas
 lideradas por Estados Unidos que pretendió devolverle la estabilidad
 política a <negrita>Haití</negrita>. Esta intervención implicó violaciones
-a los derechos humanos y un empobrecimiento de los pobladores haitianos.</p>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_10_03_CO_303297386F24473489B90D1F36882F63">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso160&amp;IdRecurso=RES-793E83E421BC4EE8A6BE059B40235CEF"
->Refuerza tu aprendizaje: Los Estados Unidos y la globalización</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_10_03_CO_71EFC6963371473F81EB0F3F7A56FAAA">
-<seccion1Titulo>Competencias</seccion1Titulo>
-<seccion1Texto>
-<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso170&amp;IdRecurso=RES-568B950EA8AC4D4981E8381F10EEC78E"
->Competencias: la difusión del estilo de vida global</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso180&amp;IdRecurso=RES-095069664BCA42D186BCCBCA1F44BD35"
->Proyecto: los movimientos sociales en Latinoamérica a finales del
+a los derechos humanos y mayor empobrecimiento de los pobladores haitianos.</p>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_03_CO_303297386F24473489B90D1F36882F63">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso160&amp;IdRecurso=RES-793E83E421BC4EE8A6BE059B40235CEF">Refuerza tu aprendizaje: Los Estados Unidos y la globalización</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_10_03_CO_71EFC6963371473F81EB0F3F7A56FAAA">
+    <seccion1Titulo>Competencias</seccion1Titulo>
+    <seccion1Texto>
+      <p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso170&amp;IdRecurso=RES-568B950EA8AC4D4981E8381F10EEC78E">Competencias: la difusión del estilo de vida global</enlace>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso180&amp;IdRecurso=RES-095069664BCA42D186BCCBCA1F44BD35">Proyecto: los movimientos sociales en Latinoamérica a finales del
 siglo XX</enlace>
-</practica></seccion1Texto></seccion1><masinformacion
-id="MI_CS_10_03_CO_A43F8A89DEF74FC0AF9309C0BC6081A0"><mapaconceptual>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso200&amp;IdRecurso=RES-8DD1FCF1B831431390AF3C4EC4B5F25E"
->Mapa conceptual del tema América al final del siglo XX</enlace>
-</mapaconceptual><autoevaluate><enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso210&amp;IdRecurso=RES-3CB431ACCA85418E86802C22A4B66B63"
->Evalúa tus conocimientos sobre el tema América al final del siglo
-XX</enlace></autoevaluate><enlacesreferencia>
-<enlace destino="http://www.tlcanhoy.org/">Página oficial del TLCAN.</enlace>
-<enlace destino="http://www.oas.org/es/">Organización de Estados Americanos.</enlace>
-<enlace destino="http://www.mercosur.int/">Página oficial del Mercosur.</enlace>
-</enlacesreferencia></masinformacion></libro>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <masinformacion id="MI_CS_10_03_CO_A43F8A89DEF74FC0AF9309C0BC6081A0">
+    <mapaconceptual>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso200&amp;IdRecurso=RES-8DD1FCF1B831431390AF3C4EC4B5F25E">Mapa conceptual del tema América al final del siglo XX</enlace>
+    </mapaconceptual>
+    <autoevaluate>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_03_CO_Recurso210&amp;IdRecurso=RES-3CB431ACCA85418E86802C22A4B66B63">Evalúa tus conocimientos sobre el tema América al final del siglo
+XX</enlace>
+    </autoevaluate>
+    <enlacesreferencia>
+      <enlace destino="http://www.tlcanhoy.org/">Página oficial del TLCAN.</enlace>
+      <enlace destino="http://www.oas.org/es/">Organización de Estados Americanos.</enlace>
+      <enlace destino="http://www.mercosur.int/">Página oficial del Mercosur.</enlace>
+    </enlacesreferencia>
+  </masinformacion>
+</libro>
