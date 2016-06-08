@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<motor tipo="102" clase="ab" aprid="m102ab">
+<enunciado>R</enunciado>
+<plataforma>
+	<grado><![CDATA[2]]></grado>
+	<titulo>Proyecto: </titulo>
+	<volumen><![CDATA[1]]></volumen>
+	<nivel><![CDATA[1]]></nivel>
+	<referencia><![CDATA[EX_PLANTILLA_M102AB]]></referencia>
+	<motor><![CDATA[M102ab]]></motor>
+</plataforma>
+  <enunciado><![CDATA[Desarrolla este proyecto según las indicaciones de tu profesor.]]></enunciado>
+  <masinfo inicio="0"/>
+  <textoupload/>
+  <adjunto><![CDATA[Principal.html]]></adjunto>
+  <url/>
+  <amano><![CDATA[0]]></amano>
+</motor>
