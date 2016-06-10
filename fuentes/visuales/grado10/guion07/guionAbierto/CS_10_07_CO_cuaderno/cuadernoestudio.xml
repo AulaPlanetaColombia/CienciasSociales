@@ -233,7 +233,7 @@ Hollywood abrió sus puertas a la producción de películas que buscaban
 llegar de forma masiva al mercado mundial; de igual forma, los medios
 de comunicación introdujeron las secciones de farándula, moda y entretenimiento.</p>
 <p>Esta industria se caracterizó por difundir el estilo de vida estadounidense
-(<cursiva>American Way Life</cursiva>) y proyectar valores comunes
+(<cursiva>American Way of Life</cursiva>) y proyectar valores comunes
 que favorecieron la <negrita>homogenización cultural</negrita>. Tal
 forma de extender una única forma de ser ha provocado en diversas
 ocasiones <negrita>conflictos culturales</negrita>. La opción ideal
@@ -442,7 +442,7 @@ La Constitución Política de 1991 buscó reconocer esta <negrita>pluralidad</ne
 > al generar una normatividad que dé razón de las diferencias.</p>
 </imagen>
 <seccion2 id="S2_CS_10_07_CO_2842E322D70E438CB61A7C257052206F">
-<seccion2Titulo>La diversidad étnica</seccion2Titulo>
+<seccion2Titulo>La diversidad étnica</seccion2Titulo><?Pub Caret 0?>
 <seccion2Texto>
 <p>La <negrita>composición de la población colombiana</negrita> es
 producto de la mezcla de tres grupos sociales principales: <negrita
@@ -459,7 +459,8 @@ censo nacional, la población colombiana cuenta con diversas pertenencias
 étnicas. El siguiente cuadro muestra cuáles son las etnias reconocidas
 y cuál es el porcentaje aproximado de población que se identifica
 con cada una de ellas:</p>
-<table border="1"><colgroup><col/><col/></colgroup>
+<table border="1"><caption>Distribución étnica en Colombia</caption>
+<colgroup><col/><col/></colgroup>
 <tbody>
 <tr>
 <td align="center"><negrita>ETNIA</negrita></td>
