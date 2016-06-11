@@ -1,322 +1,310 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
 <?Pub Inc?>
 <libro id="CS_10_05_CO">
-<libroTitulo>La economía</libroTitulo>
-<seccion1 id="S1_CS_10_05_CO_5B6953CE90F54901AD46239835633525">
-<seccion1Titulo>La economía en la historia</seccion1Titulo>
-<seccion1Texto>
-<p>En cada época, los seres humanos han realizado diferentes actividades
+  <libroTitulo>La economía</libroTitulo>
+  <seccion1 id="S1_CS_10_05_CO_5B6953CE90F54901AD46239835633525">
+    <seccion1Titulo>La economía en la historia</seccion1Titulo>
+    <seccion1Texto>
+      <p>En cada época, los seres humanos han realizado diferentes actividades
 económicas para suplir sus necesidades. El desarrollo de estas actividades
 ha tenido características muy especiales de acuerdo con los progresos
 e intereses de cada sociedad.</p>
-<p>De esta manera, a lo largo de la historia han existido distintos <negrita
->modos de producción</negrita> que han condicionado la economía de
+      <p>De esta manera, a lo largo de la historia han existido distintos <negrita>modos de producción</negrita> que han condicionado la economía de
 cada momento. Por ejemplo, la economía no funcionaba igual en el Antiguo
-Egipto que en la Francia medieval o en la Inglaterra del siglo XIX. <negrita
->La economía ha evolucionado con el tiempo</negrita> y ha incorporado
-los avances de la <negrita>ciencia</negrita> y la <negrita>tecnología</negrita
->.</p>
-<imagen src="CS_10_05_CO_IMG01_small.jpg">
-<p>Los <negrita>modos de producción</negrita> son las distintas formas
+Egipto que en la Francia medieval o en la Inglaterra del siglo XIX. <negrita>La economía ha evolucionado con el tiempo</negrita> y ha incorporado
+los avances de la <negrita>ciencia</negrita> y la <negrita>tecnología</negrita>.</p>
+      <imagen src="CS_10_05_CO_IMG01_small.jpg">
+        <p>Los <negrita>modos de producción</negrita> son las distintas formas
 que han existido a lo largo de la historia para llevar a cabo actividades
 de producción y distribución de bienes. Al mismo tiempo, estos modos
 de producción han estado ligados a la organización política de la
 sociedad.</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso010&amp;IdRecurso=RES-E5BA46A8DBEB4196A73BEE4FE6CF8637"
->El sistema capitalista y otros modos de producción</enlace>
-</profundiza><seccion2
-id="S2_CS_10_05_CO_F4953C36789A405CA3D317407A6F0837">
-<seccion2Titulo>La economía en las primeras sociedades</seccion2Titulo>
-<seccion2Texto>
-<p>En las comunidades primitivas, desde los primeros años del <cursiva
->Homo sapiens</cursiva> hasta los inicios de la civilización, periodo
+      </imagen>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso010&amp;IdRecurso=RES-E5BA46A8DBEB4196A73BEE4FE6CF8637">El sistema capitalista y otros modos de producción</enlace>
+      </profundiza>
+      <seccion2 id="S2_CS_10_05_CO_F4953C36789A405CA3D317407A6F0837">
+        <seccion2Titulo>La economía en las primeras sociedades</seccion2Titulo>
+        <seccion2Texto>
+          <p>En las comunidades primitivas, desde los primeros años del <cursiva>Homo sapiens</cursiva> hasta los inicios de la civilización, periodo
 que corresponde al <negrita>Paleolítico</negrita> (2,5 millones de
 años a 10 000 a. C.), las sociedades desarrollaron una <negrita>economía
 de apropiación</negrita> a través de actividades como la caza, la
 pesca y la recolección de frutos.</p>
-<imagen src="CS_10_05_CO_IMG02_small.jpg">
-<p>Pintura rupestre del abrigo de <negrita>El Cogul</negrita> (Lleida).
+          <imagen src="CS_10_05_CO_IMG02_small.jpg">
+            <p>Pintura rupestre del abrigo de <negrita>El Cogul</negrita> (Lleida).
 La economía primitiva o de apropiación se caracterizó por el trabajo
 comunitario para garantizar la supervivencia. Las principales actividades
 eran la caza, la pesca, la recolección de frutos y la fabricación
 de herramientas e indumentarias.</p>
-</imagen>
-<p>En el <negrita>Neolítico</negrita> (10 000 - 5 000 a. C.), las
+          </imagen>
+          <p>En el <negrita>Neolítico</negrita> (10 000 - 5 000 a. C.), las
 pequeñas comunidades de cazadores y recolectores cambiaron su forma
 de vida. Los grupos antes nómadas se hicieron sedentarios gracias
-a la invención de la <negrita>agricultura</negrita> y la <negrita
->ganadería</negrita>. De esta manera, las personas se fueron especializando
+a la invención de la <negrita>agricultura</negrita> y la <negrita>ganadería</negrita>. De esta manera, las personas se fueron especializando
 en tareas concretas, como trabajar la tierra o cuidar del ganado.
 Con la agricultura y la ganadería hubo alimentos suficientes para
 todos, y eso permitió dedicarse a otras labores, como fabricar herramientas,
 tejidos, cerámicas y comerciar.</p>
-<p>En la <negrita>Edad de los Metales</negrita> (a partir del 5 000
+          <p>En la <negrita>Edad de los Metales</negrita> (a partir del 5 000
 a. C.) se <negrita>intensificó la producción agrícola</negrita> con
 el uso de nuevas herramientas; la ganadería se hizo más productiva
-al igual que el intercambio de productos, hecho que dio lugar al <negrita
->trueque</negrita> como primera forma de comercio.</p>
-<recuerda><recuerdaTexto>
-<p><negrita>El trueque</negrita></p>
-<p>El intercambio de unas mercancías por otras, o <negrita>trueque</negrita
->, dio origen a las primeras formas de comercio. Al tener excedentes
+al igual que el intercambio de productos, hecho que dio lugar al <negrita>trueque</negrita> como primera forma de comercio.</p>
+          <recuerda>
+            <recuerdaTexto>
+              <p>
+                <negrita>El trueque</negrita>
+              </p>
+              <p>El intercambio de unas mercancías por otras, o <negrita>trueque</negrita>, dio origen a las primeras formas de comercio. Al tener excedentes
 de algunos productos, las comunidades podían intercambiarlos por otros
 que no producían.</p>
-</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_00C7E0EA84234891A50BB9E06FCDFD68">
-<seccion2Titulo>La economía en las sociedades esclavistas</seccion2Titulo>
-<seccion2Texto>
-<p>Con el paso de los siglos, los pequeños poblados se convirtieron
+            </recuerdaTexto>
+          </recuerda>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_00C7E0EA84234891A50BB9E06FCDFD68">
+        <seccion2Titulo>La economía en las sociedades esclavistas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Con el paso de los siglos, los pequeños poblados se convirtieron
 en las primeras ciudades, <negrita>nuevos inventos</negrita> dieron
 paso a una <negrita>mayor producción agropecuaria</negrita> y a muchas
-otras actividades económicas que caracterizaron a la <negrita>civilización</negrita
->.</p>
-<p>Algunas civilizaciones, como las que surgieron en la <negrita>Edad
+otras actividades económicas que caracterizaron a la <negrita>civilización</negrita>.</p>
+          <p>Algunas civilizaciones, como las que surgieron en la <negrita>Edad
 Antigua</negrita> en Mesopotamia, Egipto, Grecia y Roma, desarrollaron
 una economía basada en el trabajo de esclavos, que eran considerados
 como mercancías, y como tal, se podían comprar y vender, al igual
 que los animales de carga o las herramientas.</p>
-<p>Los esclavos eran la clase más baja y numerosa de la sociedad y
+          <p>Los esclavos eran la clase más baja y numerosa de la sociedad y
 carecían de derechos. Se era esclavo por nacimiento, por cometer delitos
 o al ser capturado en la guerra.</p>
-<imagen src="CS_10_05_CO_IMG03_small.jpg">
-<p>Algunas características del modo de producción esclavista son:
+          <imagen src="CS_10_05_CO_IMG03_small.jpg">
+            <p>Algunas características del modo de producción esclavista son:
 la división de la sociedad en clases; la aparición de la propiedad
 privada; el desarrollo de las ciencias, las técnicas, las artes y
 nuevos oficios; la organización del Estado y la economía bajo la dirección
 de una clase dominante; 	las frecuentes guerras para someter a otros
 pueblos al pago de tributos y para reclutar esclavos.</p>
-</imagen>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_804090FA2F8145A0AD9B9BF99E9E68A2">
-<seccion2Titulo>La economía feudal</seccion2Titulo>
-<seccion2Texto>
-<p>Durante la Edad Media europea, la mano de obra esclava fue reemplazada
+          </imagen>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_804090FA2F8145A0AD9B9BF99E9E68A2">
+        <seccion2Titulo>La economía feudal</seccion2Titulo>
+        <seccion2Texto>
+          <p>Durante la Edad Media europea, la mano de obra esclava fue reemplazada
 por la <negrita>servidumbre</negrita>, y la vida económica giró alrededor
 de la <negrita>agricultura</negrita>. En aquella época, la riqueza
 se medía en la cantidad de tierras que poseían los señores feudales.
 La vida urbana prácticamente desapareció y la economía fue precaria
 y básicamente rural.</p>
-<p>La producción recaía en manos de los <negrita>siervos</negrita
-> y <negrita>campesinos</negrita>, que producían para pagar <negrita
->tributos</negrita> en especie o en trabajo a su señor y para su supervivencia.</p>
-<imagen src="CS_10_05_CO_IMG04_small.jpg">
-<p>El desarrollo del comercio a partir del siglo XIII favoreció el
+          <p>La producción recaía en manos de los <negrita>siervos</negrita> y <negrita>campesinos</negrita>, que producían para pagar <negrita>tributos</negrita> en especie o en trabajo a su señor y para su supervivencia.</p>
+          <imagen src="CS_10_05_CO_IMG04_small.jpg">
+            <p>El desarrollo del comercio a partir del siglo XIII favoreció el
 renacer del mundo urbano. Las ciudades crecieron y un nuevo grupo,
 la burguesía, se convirtió en el principal poder económico. Los banqueros
 Médicis (ca. 1395), detalle del fresco de Niccolò Gerini (Capilla
 Migliorati, iglesia de San Francisco, Prato, Italia).</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>En el modo de producción feudal, la clase dominante era la <negrita
->nobleza</negrita>. El <negrita>rey</negrita> era la institución más
-importante de la sociedad feudal, seguían los <negrita>duques</negrita
->, los <negrita>condes</negrita> y el <negrita>alto clero</negrita
->. El tercer estamento lo formaba la baja nobleza: los <negrita>barones</negrita
-> y <negrita>caballeros</negrita>. En el cuarto estamento estaban
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>En el modo de producción feudal, la clase dominante era la <negrita>nobleza</negrita>. El <negrita>rey</negrita> era la institución más
+importante de la sociedad feudal, seguían los <negrita>duques</negrita>, los <negrita>condes</negrita> y el <negrita>alto clero</negrita>. El tercer estamento lo formaba la baja nobleza: los <negrita>barones</negrita> y <negrita>caballeros</negrita>. En el cuarto estamento estaban
 los campesinos libres o <negrita>villanos</negrita>, y en el quinto
 se ubicaban los <negrita>siervos</negrita> de la tierra, obligados
 a trabajar de por vida para el señor feudal.</p>
-</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_9D53341594244FDEADB3951C6F345610">
-<seccion2Titulo>El capitalismo</seccion2Titulo>
-<seccion2Texto>
-<p>Con los avances tecnológicos del siglo XV, como instrumentos y
+            </recuerdaTexto>
+          </recuerda>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_9D53341594244FDEADB3951C6F345610">
+        <seccion2Titulo>El capitalismo</seccion2Titulo>
+        <seccion2Texto>
+          <p>Con los avances tecnológicos del siglo XV, como instrumentos y
 técnicas de navegación, desarrollo de la cartografía, entre otros,
 la economía dio un giro, por lo que el comercio de productos agrícolas,
 mineros y manufacturados se convirtió en la actividad más importante.
 Las ciudades fueron el centro de la economía y la servidumbre fue
 desapareciendo para dar lugar al trabajo asalariado.</p>
-<p>A partir del siglo XV surge un nuevo modo económico basado en el <negrita
->comercio</negrita> y en la <negrita>acumulación de riqueza</negrita
->: el <negrita>capitalismo</negrita>. Este modo ha tenido diferentes
-manifestaciones según el origen del capital. Por ello se habla del <negrita
->capitalismo comercial</negrita>, caracterizado por el intercambio
+          <p>A partir del siglo XV surge un nuevo modo económico basado en el <negrita>comercio</negrita> y en la <negrita>acumulación de riqueza</negrita>: el <negrita>capitalismo</negrita>. Este modo ha tenido diferentes
+manifestaciones según el origen del capital. Por ello se habla del <negrita>capitalismo comercial</negrita>, caracterizado por el intercambio
 de mercancías, <negrita>capitalismo industrial</negrita>, o producción
-a gran escala en las industrias, y <negrita>capitalismo financiero</negrita
->, que busca aumentar la riqueza mediante el mercado de capitales.</p>
-<imagen src="CS_10_05_CO_IMG05_small.jpg">
-<p>El comercio marítimo con las colonias fue uno de los factores que
+a gran escala en las industrias, y <negrita>capitalismo financiero</negrita>, que busca aumentar la riqueza mediante el mercado de capitales.</p>
+          <imagen ampliable="no" src="CS_10_05_CO_IMG05_small.jpg">
+            <p>El comercio marítimo con las colonias fue uno de los factores que
 favorecieron el desarrollo del capitalismo en los países con mayor
 volumen de tráfico de ultramar. <cursiva>Descarga de mercancías de
 una galera en el puerto de Toulon</cursiva> (1756), de Joseph Vernet
 (Museo de la Marina, París, Francia).</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>El desarrollo del capitalismo va ligado a la <negrita>Revolución
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>El desarrollo del capitalismo va ligado a la <negrita>Revolución
 Industrial</negrita>, la cual comenzó en el Reino Unido con el desarrollo
 de la <negrita>máquina de vapor</negrita>, invento que favoreció la
 aparición de las primeras fábricas a finales del siglo XVIII y comienzos
 del siglo XIX. La industrialización propició una nueva forma de capitalismo.
 Así, si antes se hablaba de un capitalismo comercial porque obtenía
 sus beneficios de la compra y venta de mercancías, a partir de ese
-momento puede hablarse de un <negrita>capitalismo industrial</negrita
->, que obtiene sus ganancias de la <negrita>producción</negrita>.</p>
-</recuerdaTexto></recuerda><seccion3
-id="S3_CS_10_05_CO_4EDA68897BDF430C885E9A89D9B3BA71">
-<seccion3Titulo>El capitalismo y la economía de mercado</seccion3Titulo>
-<seccion3Texto>
-<p>En el modelo capitalista, el <negrita>mercado</negrita> es el ambiente
+momento puede hablarse de un <negrita>capitalismo industrial</negrita>, que obtiene sus ganancias de la <negrita>producción</negrita>.</p>
+            </recuerdaTexto>
+          </recuerda>
+          <seccion3 id="S3_CS_10_05_CO_4EDA68897BDF430C885E9A89D9B3BA71">
+            <seccion3Titulo>El capitalismo y la economía de mercado</seccion3Titulo>
+            <seccion3Texto>
+              <p>En el modelo capitalista, el <negrita>mercado</negrita> es el ambiente
 que permite el desarrollo del intercambio de bienes y servicios. Se
-trata de una institución económica que permite que los <negrita>productores</negrita
->, los <negrita>vendedores</negrita> y los <negrita>compradores</negrita
-> desarrollen una relación comercial, la cual está regulada por los
+trata de una institución económica que permite que los <negrita>productores</negrita>, los <negrita>vendedores</negrita> y los <negrita>compradores</negrita> desarrollen una relación comercial, la cual está regulada por los
 Estados.</p>
-<p>Es aquí donde se puede hablar de una <negrita>economía de mercado</negrita
->, la cual es el instrumento que facilita la producción, el consumo
-y el precio de los bienes y servicios según la <negrita>oferta</negrita
->, que es la cantidad de bienes y servicios que llegan al mercado,
+              <p>Es aquí donde se puede hablar de una <negrita>economía de mercado</negrita>, la cual es el instrumento que facilita la producción, el consumo
+y el precio de los bienes y servicios según la <negrita>oferta</negrita>, que es la cantidad de bienes y servicios que llegan al mercado,
 y la <negrita>demanda</negrita>, que es la cantidad de bienes y servicios
 que los consumidores están dispuestos a comprar.</p>
-<p>En el modelo capitalista, el <negrita>Estado</negrita> interviene
+              <p>En el modelo capitalista, el <negrita>Estado</negrita> interviene
 en la economía de mercado para garantizar el acceso a ciertos bienes
 e imponer tributos y tasas de acuerdo con las necesidades de la sociedad.</p>
-<p>Dentro del concepto de <negrita>libre mercado</negrita>, la libertad
+              <p>Dentro del concepto de <negrita>libre mercado</negrita>, la libertad
 no es absoluta, ya que el Estado participa en la regulación de precios
 básicos, entre otras decisiones. Otra intervención importante del
 Estado es procurar que no existan <negrita>monopolios</negrita>, es
 decir, grupos pequeños que acaparan una buena parte de la producción.</p>
-<imagen ampliable="no" src="CS_10_05_CO_IMG06_small.jpg">
-<p>La <negrita>ley de la oferta y la demanda</negrita> determina el
+              <imagen ampliable="no" src="CS_10_05_CO_IMG06_small.jpg">
+                <p>La <negrita>ley de la oferta y la demanda</negrita> determina el
 equilibrio de los mercados. Si hay mucha demanda y poca oferta, los
 precios suben; si hay poca demanda y mucha oferta, los precios bajan.
 El equilibrio del mercado solo se alcanzará cuando la cantidad de
 productos o servicios sea la misma que la cantidad de personas que
-los necesiten.</p><?Pub Caret -2?>
-</imagen>
-<imagen src="CS_10_05_CO_IMG07_small.jpg">
-<p>Según Adam Smith, considerado el padre del capitalismo, el objetivo
+los necesiten.</p>
+                <?Pub Caret -2?>
+              </imagen>
+              <imagen src="CS_10_05_CO_IMG07_small.jpg">
+                <p>Según Adam Smith, considerado el padre del capitalismo, el objetivo
 principal de este sistema económico consiste en conseguir el máximo
 beneficio posible con el menor esfuerzo.</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso020&amp;IdRecurso=RES-7080B3A580AD4C9C9CDB1C009592DCCC"
->El liberalismo económico</enlace>
-</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
-<seccion2 id="S2_CS_10_05_CO_00AE60C956F14E119DFF9B9C12CCD066">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividad para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso030&amp;IdRecurso=RES-BBF18719D091483FA89C0AD2C699071A"
->Refuerza tu aprendizaje: El capitalismo y otros tipos de economía</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_10_05_CO_A3EADD84C9454CA3AF1403C897BA127C">
-<seccion1Titulo>Conceptos básicos de economía</seccion1Titulo>
-<seccion1Texto>
-<p>La economía está presente en muchos de los aspectos de nuestra
+              </imagen>
+              <profundiza>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso020&amp;IdRecurso=RES-7080B3A580AD4C9C9CDB1C009592DCCC">El liberalismo económico</enlace>
+              </profundiza>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_00AE60C956F14E119DFF9B9C12CCD066">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividad para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso030&amp;IdRecurso=RES-BBF18719D091483FA89C0AD2C699071A">Refuerza tu aprendizaje: La economía en la historia</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_10_05_CO_A3EADD84C9454CA3AF1403C897BA127C">
+    <seccion1Titulo>Conceptos básicos de economía</seccion1Titulo>
+    <seccion1Texto>
+      <p>La economía está presente en muchos de los aspectos de nuestra
 vida cotidiana. Normalmente, tendemos a asociar economía con una imagen
 concreta: la del dinero, sin embargo, este es solo un elemento más.</p>
-<p>La <negrita>economía</negrita> se puede definir como el conjunto
+      <p>La <negrita>economía</negrita> se puede definir como el conjunto
 de recursos, bienes y actividades que integran la riqueza de un colectivo,
 y la forma en que se producen y administran. Por extensión, utilizamos
-el término economía para hacer referencia a la <negrita>ciencia social</negrita
-> dedicada al estudio de las actividades orientadas a la <negrita
->producción</negrita>, la <negrita>distribución</negrita> y el <negrita
->consumo</negrita> de bienes y servicios para la <negrita>satisfacción
+el término economía para hacer referencia a la <negrita>ciencia social</negrita> dedicada al estudio de las actividades orientadas a la <negrita>producción</negrita>, la <negrita>distribución</negrita> y el <negrita>consumo</negrita> de bienes y servicios para la <negrita>satisfacción
 de las necesidades humanas</negrita>.</p>
-<imagen src="CS_10_05_CO_IMG08_small.jpg">
-<p>La palabra <negrita>economía</negrita> viene de la palabra griega <cursiva
->oikosnomos</cursiva> (<cursiva>oikos</cursiva>, casa; <cursiva>nomos</cursiva
->, administrador), que significa “arte de administrar la casa”. Hoy,
+      <imagen src="CS_10_05_CO_IMG08_small.jpg">
+        <p>La palabra <negrita>economía</negrita> viene de la palabra griega <cursiva>oikosnomos</cursiva> (<cursiva>oikos</cursiva>, casa; <cursiva>nomos</cursiva>, administrador), que significa “arte de administrar la casa”. Hoy,
 definimos la economía como la <negrita>ciencia social</negrita> que
 se encarga de estudiar cómo se pueden utilizar los <negrita>recursos
-disponibles</negrita> para satisfacer las <negrita>necesidades</negrita
-> de la sociedad. Para ello, los economistas estudian la producción,
+disponibles</negrita> para satisfacer las <negrita>necesidades</negrita> de la sociedad. Para ello, los economistas estudian la producción,
 el intercambio y el consumo de bienes de cualquier sociedad.</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso040&amp;IdRecurso=RES-2200C96DF3544A758774D4DD19F832F5"
->La economía</enlace>
-</profundiza><seccion2
-id="S2_CS_10_05_CO_00AE60C956F14E119DFF9B9C12CCE955">
-<seccion2Titulo>El dinero y el ahorro</seccion2Titulo>
-<seccion2Texto>
-<p>El <negrita>dinero es el medio para pagar y adquirir bienes y servicios</negrita
->. Sin el dinero, nos veríamos obligados practicar el trueque, y sería
+      </imagen>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso040&amp;IdRecurso=RES-2200C96DF3544A758774D4DD19F832F5">La economía</enlace>
+      </profundiza>
+      <seccion2 id="S2_CS_10_05_CO_00AE60C956F14E119DFF9B9C12CCE955">
+        <seccion2Titulo>El dinero y el ahorro</seccion2Titulo>
+        <seccion2Texto>
+          <p>El <negrita>dinero es el medio para pagar y adquirir bienes y servicios</negrita>. Sin el dinero, nos veríamos obligados practicar el trueque, y sería
 difícil imaginar cómo funcionaría la economía actual sin él. A lo
 largo de la historia, las sociedades adoptaron como dinero diferentes
 objetos, especialmente piezas de oro y plata que se conservaban bien
 y eran fáciles de transportar.</p>
-<imagen src="CS_10_05_CO_IMG09_small.jpg">
-<p>Las primeras monedas de la historia fueron acuñadas por los pueblos
+          <imagen src="CS_10_05_CO_IMG09_small.jpg">
+            <p>Las primeras monedas de la historia fueron acuñadas por los pueblos
 griegos de la zona de Asia Menor hacia el siglo VII a. C. Desde entonces,
 este elemento se ha hecho indispensable para el desarrollo de la economía
 en las comunidades.</p>
-</imagen>
-<p>En la actualidad, tal y como lo conocemos, el dinero cumple varias
+          </imagen>
+          <p>En la actualidad, tal y como lo conocemos, el dinero cumple varias
 funciones:</p>
-<listaSinNumerar>
-<listaElemento>Es una <negrita>unidad de cuenta</negrita>, pues permite
+          <listaSinNumerar>
+            <listaElemento>Es una <negrita>unidad de cuenta</negrita>, pues permite
 calcular el valor de las cosas.</listaElemento>
-<listaElemento>Es un <negrita>medio de intercambio</negrita>, ya que
+            <listaElemento>Es un <negrita>medio de intercambio</negrita>, ya que
 permite la compra y venta de servicios.</listaElemento>
-<listaElemento>Es un <negrita>medio de pago</negrita>, pues su valor
+            <listaElemento>Es un <negrita>medio de pago</negrita>, pues su valor
 es aceptado por comprador y vendedor en un intercambio comercial.</listaElemento>
-<listaElemento>Es una <negrita>unidad de ahorro</negrita>, ya que
+            <listaElemento>Es una <negrita>unidad de ahorro</negrita>, ya que
 se puede reservar para ser usado en el momento que se considere necesario.</listaElemento>
-</listaSinNumerar>
-<p>Para que el dinero cumpla con la función de medio de cambio debe
-tener varias características: ser <negrita>durable</negrita>, <negrita
->transportable</negrita>, <negrita>divisible</negrita> en pequeñas
+          </listaSinNumerar>
+          <p>Para que el dinero cumpla con la función de medio de cambio debe
+tener varias características: ser <negrita>durable</negrita>, <negrita>transportable</negrita>, <negrita>divisible</negrita> en pequeñas
 fracciones, y <negrita>de emisión controlada</negrita> por un banco
 central.</p>
-<p>El <negrita>ahorro</negrita> es posible cuando los ingresos de
+          <p>El <negrita>ahorro</negrita> es posible cuando los ingresos de
 una persona, de una familia o de una empresa son mayores que los gastos.
 De este modo, podríamos decir que el ahorro sería la <negrita>diferencia
 entre los ingresos y el consumo</negrita>. Existen diferentes tipos
 de gastos:</p>
-<listaSinNumerar>
-<listaElemento><negrita>Fijos</negrita>: todos aquellos que no varían.</listaElemento>
-<listaElemento><negrita>Obligatorios</negrita>: los que tenemos que
+          <listaSinNumerar>
+            <listaElemento>
+              <negrita>Fijos</negrita>: todos aquellos que no varían.</listaElemento>
+            <listaElemento>
+              <negrita>Obligatorios</negrita>: los que tenemos que
 asumir.</listaElemento>
-<listaElemento><negrita>Variables necesarios</negrita>: aquellos que
+            <listaElemento>
+              <negrita>Variables necesarios</negrita>: aquellos que
 pueden ir variando, pero son necesarios.</listaElemento>
-<listaElemento><negrita>Superfluos</negrita>: aquellos de los que
+            <listaElemento>
+              <negrita>Superfluos</negrita>: aquellos de los que
 podemos prescindir.</listaElemento>
-</listaSinNumerar>
-<p>Desde luego, <negrita>el ahorro depende de varios factores</negrita
->, además de la cantidad de ingresos: la seguridad que habrá ingresos
+          </listaSinNumerar>
+          <p>Desde luego, <negrita>el ahorro depende de varios factores</negrita>, además de la cantidad de ingresos: la seguridad que habrá ingresos
 futuros, la previsión del futuro, los tipos de interés en el mercado,
 la evolución de los precios y la inflación.</p>
-<p>En el caso de las naciones, el ahorro evita que tengan que recurrir
+          <p>En el caso de las naciones, el ahorro evita que tengan que recurrir
 a préstamos del exterior, lo cual facilita e incentiva la actividad
 económica y el crecimiento del país.</p>
-<imagen src="CS_10_05_CO_IMG10_small.jpg">
-<p><negrita>Ahorrar</negrita> dinero permite afrontar pagos y comprar
+          <imagen src="CS_10_05_CO_IMG10_small.jpg">
+            <p>
+              <negrita>Ahorrar</negrita> dinero permite afrontar pagos y comprar
 productos o servicios en el futuro. Además, gestionar los ingresos
 de forma adecuada es la mejor manera de contar con dinero suficiente
 para reaccionar ante los imprevistos. Al ahorrar, es posible hacer
 inversiones productivas y acceder con más facilidad a los bienes y
 servicios que queremos y necesitamos.</p>
-</imagen>
-<destacado><destacadoTitulo>Ley de costos financieros estimula uso
-de cuentas de ahorro en el país</destacadoTitulo><destacadoTexto>
-<p>(…) Tras la aprobación del proyecto de ley de Costos Financieros
+          </imagen>
+          <destacado>
+            <destacadoTitulo>Ley de costos financieros estimula uso
+de cuentas de ahorro en el país</destacadoTitulo>
+            <destacadoTexto>
+              <p>(…) Tras la aprobación del proyecto de ley de Costos Financieros
 en el Senado de la República, opiniones recogidas por EL COLOMBIANO
 apuntan a que la normativa dinamizará la competencia bancaria y motivará
 el ahorro en el país.</p>
-<p>Según Asobancaria, gremio de entidades financieras, la nueva ley
+              <p>Según Asobancaria, gremio de entidades financieras, la nueva ley
 motivará la intensa competencia, aunque algunos bancos ya otorgan
 estos beneficios.</p>
-<p>Así que se espera que con la nueva ley se presente una “guerra”
+              <p>Así que se espera que con la nueva ley se presente una “guerra”
 de tasas de interés entre bancos para atraer a más ahorradores.</p>
-<p>Otros beneficios de la ley es que las cuentas que estén inactivas
+              <p>Otros beneficios de la ley es que las cuentas que estén inactivas
 por dos meses no tendrán que pagar cuota de manejo ni tampoco retroactivos
 una vez se vuelvan a usar.</p>
-<p>En cuestión de mes y medio el presidente Santos sancionará la norma,
-según cuentas de su promotor, el representante a la Cámara <cursiva
->David Barguil</cursiva>: “una vez se surta el trámite, el cumplimiento
+              <p>En cuestión de mes y medio el presidente Santos sancionará la norma,
+según cuentas de su promotor, el representante a la Cámara <cursiva>David Barguil</cursiva>: “una vez se surta el trámite, el cumplimiento
 será inmediato”.</p>
-<p>Agregó el congresista que un alto número de colombianos se ve “varado”
+              <p>Agregó el congresista que un alto número de colombianos se ve “varado”
 al no poder retirar el total de dinero de sus cuentas de ahorro. “Piense
 que 10.000 pesos son cinco pasajes de bus que no se podían tocar por
 disposición, pero ahora se podrán usar”. El político tampoco entiende
@@ -324,60 +312,61 @@ que se pague un interés de más del 30 % efectivo anual por un microcrédito
 o del 27 % por tarjeta de crédito, o del 19 % para un préstamo de
 libre inversión, cuando no recibe nada por el dinero que tiene en
 su cuenta, al ser un monto menor.</p>
-<p>Del total de cuentas de ahorro activas del país, el 90 % no recibe
+              <p>Del total de cuentas de ahorro activas del país, el 90 % no recibe
 ningún peso de interés, según Barguil. Eso significa que cerca de
 18,9 millones de ellas empezarán a recibirlos por el dinero depositado,
 independientemente del monto y del tiempo que esté el dinero en el
 banco.</p>
-<p>Según cifras del ponente, las cuentas de ahorro con hasta cinco
+              <p>Según cifras del ponente, las cuentas de ahorro con hasta cinco
 salarios mínimos depositados, hoy reportan rentabilidad menor a 100
 pesos mensuales.</p>
-<p>Adaptado de: EL COLOMBIANO, mayo 13 de 2016.</p>
-</destacadoTexto></destacado><profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso050&amp;IdRecurso=RES-4C147CA39EB9441B950DC10CD8C56563"
->El ahorro y el consumo responsable</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_E9D0FA80AABB4933B76E503DAF994501">
-<seccion2Titulo>Las instituciones financieras</seccion2Titulo>
-<seccion2Texto>
-<p>La <negrita>banca</negrita> y la <negrita>bolsa</negrita> son importantes
+              <p>Adaptado de: EL COLOMBIANO, mayo 13 de 2016.</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso050&amp;IdRecurso=RES-4C147CA39EB9441B950DC10CD8C56563">El ahorro y el consumo responsable</enlace>
+          </profundiza>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_E9D0FA80AABB4933B76E503DAF994501">
+        <seccion2Titulo>Las instituciones financieras</seccion2Titulo>
+        <seccion2Texto>
+          <p>La <negrita>banca</negrita> y la <negrita>bolsa</negrita> son importantes
 instituciones financieras que influyen de manera decisiva en la economía
 regional, nacional e internacional.</p>
-<p>Los bancos <negrita>trabajan con el dinero</negrita>: reciben y
+          <p>Los bancos <negrita>trabajan con el dinero</negrita>: reciben y
 tienen en custodia depósitos que hacen las personas (personas naturales)
 y las empresas (personas jurídicas); a su vez, otorgan préstamos con
 estos mismos dineros. Esta actividad se denomina <negrita>intermediación
 financiera</negrita> y es regulada por los Estados.</p>
-<p>Los <negrita>bancos</negrita> son empresas, públicas o privadas,
+          <p>Los <negrita>bancos</negrita> son empresas, públicas o privadas,
 que aceptan los depósitos de sus clientes, aunque su principal función
 es la de ofrecer <negrita>financiación</negrita> (a particulares,
 empresas y Estados) a cambio del pago de unos intereses. Además de
 la concesión de <negrita>préstamos</negrita>, los bancos también realizan
 operaciones financieras y bursátiles, así como de tesorería.</p>
-<recuerda><recuerdaTexto>
-<p>Los bancos obtienen <negrita>beneficios</negrita> operando con
-el dinero del público. Su negocio consiste en <negrita>financiar</negrita
-> a particulares, empresas e incluso al propio Estado <negrita>a cambio
+          <recuerda>
+            <recuerdaTexto>
+              <p>Los bancos obtienen <negrita>beneficios</negrita> operando con
+el dinero del público. Su negocio consiste en <negrita>financiar</negrita> a particulares, empresas e incluso al propio Estado <negrita>a cambio
 de intereses y comisiones</negrita>. Cuando las entidades bancarias
 conceden financiación al Estado lo hacen mediante la compra de deuda
 pública. En definitiva, los bancos se dedican a ofrecer dinero a cambio
 de dinero.</p>
-</recuerdaTexto></recuerda>
-<p>En cada país existe un banco central o banco de bancos. Es el <negrita
->banco del Estado y no trabaja para particulares</negrita>. El banco
+            </recuerdaTexto>
+          </recuerda>
+          <p>En cada país existe un banco central o banco de bancos. Es el <negrita>banco del Estado y no trabaja para particulares</negrita>. El banco
 central es la autoridad que se encarga de hacer cumplir las políticas
 monetarias y de supervisar el sector financiero. Se puede decir, entonces,
-que el banco central es el <negrita>eje del sistema financiero</negrita
->.</p>
-<p>La política monetaria es el <negrita>conjunto de medidas tomadas
+que el banco central es el <negrita>eje del sistema financiero</negrita>.</p>
+          <p>La política monetaria es el <negrita>conjunto de medidas tomadas
 por el banco central</negrita> para controlar la inflación al aumentar
 o disminuir la cantidad de dinero que está en circulación y establecer
 el tipo o tasa de interés, que es el precio o el pago estipulado por
 el uso de una cantidad de dinero durante un tiempo determinado, por
 encima del valor depositado.</p>
-<imagen src="CS_10_05_CO_IMG11_small.jpg">
-<p>En Colombia, el Banco de la República es el banco central. Algunas
+          <imagen src="CS_10_05_CO_IMG11_small.jpg">
+            <p>En Colombia, el Banco de la República es el banco central. Algunas
 de sus funciones son: emitir y regular los billetes y las monedas
 que están en circulación para evitar que haya una cantidad excesiva
 de dinero, lo que llevaría a un aumento indiscriminado en los precios
@@ -387,477 +376,459 @@ o control de la inflación; custodiar las reservas metálicas y las
 divisas de la nación; efectuar transferencias de divisas, o moneda
 extranjera, con los demás países; apoyar el desarrollo científico
 de la nación.</p>
-</imagen>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso060&amp;IdRecurso=RES-3E6219DC23AC4670B85412EBCFB86488"
->Conoce la historia de la banca</enlace>
-</practica>
-<p>Por su parte, la <negrita>bolsa</negrita> es el mercado en el que
-se <negrita>compran</negrita> y <negrita>venden acciones</negrita
->, es decir, las participaciones en las que se divide el capital de
+          </imagen>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso060&amp;IdRecurso=RES-3E6219DC23AC4670B85412EBCFB86488">Conoce la historia de la banca</enlace>
+          </practica>
+          <p>Por su parte, la <negrita>bolsa</negrita> es el mercado en el que
+se <negrita>compran</negrita> y <negrita>venden acciones</negrita>, es decir, las participaciones en las que se divide el capital de
 las sociedades anónimas. Al cotizar en bolsa (poner sus acciones en
-el mercado), las empresas buscan ampliar su capital. El <negrita>accionista</negrita
-> se convierte así en propietario de una parte de la empresa. Si la
+el mercado), las empresas buscan ampliar su capital. El <negrita>accionista</negrita> se convierte así en propietario de una parte de la empresa. Si la
 empresa aumenta sus beneficios, el accionista recibe los intereses
 proporcionales a la cantidad de acciones que posee (dividendos) una
 vez al año.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso070&amp;IdRecurso=RES-98C59D053D584E0B94F6425ECA8BEEC1"
->Entiende cómo funciona la bolsa</enlace>
-</practica></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_3B438597A2704357BF20896F62632577">
-<seccion2Titulo>Las actividades económicas</seccion2Titulo>
-<seccion2Texto>
-<p>Las actividades económicas son todas aquellas destinadas a cubrir
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso070&amp;IdRecurso=RES-98C59D053D584E0B94F6425ECA8BEEC1">Entiende cómo funciona la bolsa</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_3B438597A2704357BF20896F62632577">
+        <seccion2Titulo>Las actividades económicas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Las actividades económicas son todas aquellas destinadas a cubrir
 las <negrita>necesidades de las personas</negrita>, tanto primarias
 (alimentación, vestido), como secundarias (tiempo libre, descanso).
 Estas actividades pueden ser de dos tipos:</p>
-<listaSinNumerar>
-<listaElemento>Producción de bienes.</listaElemento>
-<listaElemento>Prestación de servicios.</listaElemento>
-</listaSinNumerar>
-<p>Para la producción de cualquier bien o la prestación de servicios,
-las actividades económicas consideran <negrita>tres etapas</negrita
->:</p>
-<listaNumerada>
-<listaElemento>Producción.</listaElemento>
-<listaElemento>Distribución y comercialización.</listaElemento>
-<listaElemento>Consumo.</listaElemento>
-</listaNumerada>
-<p>Para poder completar todas estas fases es necesario tener en cuenta
+          <listaSinNumerar>
+            <listaElemento>Producción de bienes.</listaElemento>
+            <listaElemento>Prestación de servicios.</listaElemento>
+          </listaSinNumerar>
+          <p>Para la producción de cualquier bien o la prestación de servicios,
+las actividades económicas consideran <negrita>tres etapas</negrita>:</p>
+          <listaNumerada>
+            <listaElemento>Producción.</listaElemento>
+            <listaElemento>Distribución y comercialización.</listaElemento>
+            <listaElemento>Consumo.</listaElemento>
+          </listaNumerada>
+          <p>Para poder completar todas estas fases es necesario tener en cuenta
 los llamados <negrita>factores productivos</negrita>, es decir, aquellos
 elementos que resultan imprescindibles en toda actividad económica:</p>
-<listaSinNumerar>
-<listaElemento><negrita>Recursos naturales:</negrita> las materias
+          <listaSinNumerar>
+            <listaElemento>
+              <negrita>Recursos naturales:</negrita> las materias
 primas necesarias para la producción de cualquier tipo de bien.</listaElemento>
-<listaElemento><negrita>Trabajo:</negrita> la mano de obra necesaria
+            <listaElemento>
+              <negrita>Trabajo:</negrita> la mano de obra necesaria
 para realizar las tareas propias de toda actividad económica.</listaElemento>
-<listaElemento><negrita>Capital:</negrita> conjunto de recursos utilizados
+            <listaElemento>
+              <negrita>Capital:</negrita> conjunto de recursos utilizados
 para la producción de un bien o la prestación de un servicio. Según
-su naturaleza, podemos hablar de <negrita>capital físico</negrita
->, <negrita>capital humano</negrita> y <negrita>capital financiero</negrita
->.</listaElemento>
-</listaSinNumerar>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_197735D134DA4C41BB0A7748DD659CD9">
-<seccion2Titulo>El mercado laboral</seccion2Titulo>
-<seccion2Texto>
-<p>El <negrita>trabajo</negrita> es un factor fundamental a la hora
+su naturaleza, podemos hablar de <negrita>capital físico</negrita>, <negrita>capital humano</negrita> y <negrita>capital financiero</negrita>.</listaElemento>
+          </listaSinNumerar>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_197735D134DA4C41BB0A7748DD659CD9">
+        <seccion2Titulo>El mercado laboral</seccion2Titulo>
+        <seccion2Texto>
+          <p>El <negrita>trabajo</negrita> es un factor fundamental a la hora
 de generar riqueza, ya que sin la contribución de las personas al
 proceso de producción, la creación de bienes y servicios sería imposible.
 Las personas que ofrecen su <negrita>fuerza de trabajo</negrita> a
 cambio de un <negrita>salario</negrita> (trabajadores) y las personas
 y organizaciones que demandan mano de obra para el desarrollo de una
-actividad económica (empresas, Estado...) conforman el llamado <negrita
->mercado laboral</negrita> o <negrita>mercado de trabajo</negrita
->. Este mercado contempla también las relaciones que se establecen
+actividad económica (empresas, Estado...) conforman el llamado <negrita>mercado laboral</negrita> o <negrita>mercado de trabajo</negrita>. Este mercado contempla también las relaciones que se establecen
 entre los trabajadores y los empleadores y, como cualquier otro, se
 rige por la <negrita>ley de la oferta y la demanda</negrita>.</p>
-<imagen src="CS_10_05_CO_IMG12_small.jpg">
-<p>En los últimos años las <negrita>condiciones</negrita> de los empleados
-se han desmejorado visiblemente y las tasas de <negrita>desempleo</negrita
-> son muy altas, especialmente en países de <negrita>América Latina</negrita
->, <negrita>África</negrita> y <negrita>Asia</negrita>. Esta circunstancia
+          <imagen src="CS_10_05_CO_IMG12_small.jpg">
+            <p>En los últimos años las <negrita>condiciones</negrita> de los empleados
+se han desmejorado visiblemente y las tasas de <negrita>desempleo</negrita> son muy altas, especialmente en países de <negrita>América Latina</negrita>, <negrita>África</negrita> y <negrita>Asia</negrita>. Esta circunstancia
 tiene graves efectos para la población desocupada, que experimenta
 dificultades para cubrir sus necesidades básicas.</p>
-</imagen>
-<p>En función de su situación respecto al mercado laboral, la población
+          </imagen>
+          <p>En función de su situación respecto al mercado laboral, la población
 se clasifica en distintas categorías:</p>
-<listaSinNumerar>
-<listaElemento><negrita>Población económicamente activa:</negrita
-> formada por toda aquella gente en edad de trabajar y con voluntad
-de hacerlo. Se divide en dos grandes grupos: <negrita>población ocupada</negrita
-> y <negrita>población desocupada</negrita>.</listaElemento>
-<listaElemento><negrita>Población económicamente inactiva:</negrita
-> formada por todas aquellas personas que no han alcanzado la edad
+          <listaSinNumerar>
+            <listaElemento>
+              <negrita>Población económicamente activa:</negrita> formada por toda aquella gente en edad de trabajar y con voluntad
+de hacerlo. Se divide en dos grandes grupos: <negrita>población ocupada</negrita> y <negrita>población desocupada</negrita>.</listaElemento>
+            <listaElemento>
+              <negrita>Población económicamente inactiva:</negrita> formada por todas aquellas personas que no han alcanzado la edad
 mínima legal para trabajar, los estudiantes, los jubilados, personas
 impedidas para el trabajo, personas dedicadas al hogar, etc.</listaElemento>
-</listaSinNumerar>
-<p>Aunque las condiciones laborales de los trabajadores suelen variar
+          </listaSinNumerar>
+          <p>Aunque las condiciones laborales de los trabajadores suelen variar
 en función de las leyes de cada país, casi todos los países democráticos
 cuentan con unos puntos en común. Tras siglos de lucha, por ejemplo,
 hoy los trabajadores cuentan con asociaciones propias destinadas a
-defender sus derechos como colectivo. Se trata de los <negrita>sindicatos</negrita
->, un importante agente dentro del mercado laboral junto con el patronal
+defender sus derechos como colectivo. Se trata de los <negrita>sindicatos</negrita>, un importante agente dentro del mercado laboral junto con el patronal
 (asociación de empresarios) y el Estado. Asimismo, los trabajadores
 también cuentan con el <negrita>derecho a huelga</negrita> como forma
 de protesta y presión para alcanzar sus reivindicaciones.</p>
-<p>En la actualidad, el empleo es una circunstancia difícil de garantizar
+          <p>En la actualidad, el empleo es una circunstancia difícil de garantizar
 para toda la población activa, lo cual hace que los Estados enfoquen
 sus <negrita>esfuerzos</negrita> para reducir el número de desempleados
-al <negrita>mínimo</negrita>, y enfrentar las <negrita>consecuencias</negrita
-> negativas que derivarían de esta situación: pobreza, inseguridad,
+al <negrita>mínimo</negrita>, y enfrentar las <negrita>consecuencias</negrita> negativas que derivarían de esta situación: pobreza, inseguridad,
 difícil acceso a servicios de salud, vivienda, educación, recreación,
 etc.</p>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso080&amp;IdRecurso=RES-88F66350BF6A4C838584D846CCA5111D"
->La explotación laboral en el mundo actual</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_F7A4462FBE494B0EBAB79874611B0A07">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividad para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso090&amp;IdRecurso=RES-DDEEB8DD8518416197CBEC78C0F19937"
->Refuerza tu aprendizaje: Conceptos básicos de economía</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_10_05_CO_083C6D59256E4077A5C4652E6371235A">
-<seccion1Titulo>Los agentes económicos</seccion1Titulo>
-<seccion1Texto>
-<p>Las actividades económicas implican a una serie de personas, instituciones
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso080&amp;IdRecurso=RES-88F66350BF6A4C838584D846CCA5111D">La explotación laboral en el mundo actual</enlace>
+          </profundiza>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_F7A4462FBE494B0EBAB79874611B0A07">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividad para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso090&amp;IdRecurso=RES-DDEEB8DD8518416197CBEC78C0F19937">Refuerza tu aprendizaje: Conceptos básicos de economía</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_10_05_CO_083C6D59256E4077A5C4652E6371235A">
+    <seccion1Titulo>Los agentes económicos</seccion1Titulo>
+    <seccion1Texto>
+      <p>Las actividades económicas implican a una serie de personas, instituciones
 y organismos que hacen posible su correcto funcionamiento. Estos,
 denominados agentes económicos, intervienen en las distintas fases
 del proceso productivo (producción, distribución y comercialización
 y consumo) de forma decisiva. Podemos distinguir entre:</p>
-<listaSinNumerar>
-<listaElemento><negrita>Consumidores</negrita> o <negrita>familias</negrita
->.</listaElemento>
-<listaElemento><negrita>Empresas</negrita>.</listaElemento>
-<listaElemento><negrita>Estado</negrita> o <negrita>sector público</negrita
->.</listaElemento>
-</listaSinNumerar>
-<seccion2 id="S2_CS_10_05_CO_8BB992412A6B43E9962A5ACBD6D04806">
-<seccion2Titulo>Los consumidores</seccion2Titulo>
-<seccion2Texto>
-<p>Todos somos consumidores mientras buscamos en el mercado bienes
-y servicios que nos permitan cubrir nuestras necesidades. La <negrita
->familia</negrita> constituye uno de los principales <negrita>agentes
+      <listaSinNumerar>
+        <listaElemento>
+          <negrita>Consumidores</negrita> o <negrita>familias</negrita>.</listaElemento>
+        <listaElemento>
+          <negrita>Empresas</negrita>.</listaElemento>
+        <listaElemento>
+          <negrita>Estado</negrita> o <negrita>sector público</negrita>.</listaElemento>
+      </listaSinNumerar>
+      <seccion2 id="S2_CS_10_05_CO_8BB992412A6B43E9962A5ACBD6D04806">
+        <seccion2Titulo>Los consumidores</seccion2Titulo>
+        <seccion2Texto>
+          <p>Todos somos consumidores mientras buscamos en el mercado bienes
+y servicios que nos permitan cubrir nuestras necesidades. La <negrita>familia</negrita> constituye uno de los principales <negrita>agentes
 económicos y de consumo</negrita>, dado que genera ingresos, ahorra,
 consume e invierte. Gracias a los <negrita>ingresos</negrita> obtenidos
 por el <negrita>trabajo</negrita> de los miembros de la familia, esta
 puede adquirir desde comida y ropa, hasta un nuevo televisor, pagar
 la reforma del baño o contratar un viaje para sus vacaciones.</p>
-<p>Las familias o <negrita>economías domésticas</negrita> no solo
+          <p>Las familias o <negrita>economías domésticas</negrita> no solo
 realizan gastos importantes, sino que además influyen de forma evidente
 en los hábitos, gustos y estilo de vida de todos sus miembros, lo
 cual condiciona al mismo tiempo su propia forma de consumir.</p>
-<recuerda><recuerdaTexto>
-<p>Los hábitos de consumo dependen en gran parte de los ingresos económicos,
+          <recuerda>
+            <recuerdaTexto>
+              <p>Los hábitos de consumo dependen en gran parte de los ingresos económicos,
 y se ven influidos por factores diversos como la familia, la edad,
 la publicidad y el entorno social y cultural.</p>
-</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_F7A4462FBE494B0EBAB79874611B9D95">
-<seccion2Titulo>Las empresas</seccion2Titulo>
-<seccion2Texto>
-<p>La creación de empresas es una de las principales características
+            </recuerdaTexto>
+          </recuerda>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_F7A4462FBE494B0EBAB79874611B9D95">
+        <seccion2Titulo>Las empresas</seccion2Titulo>
+        <seccion2Texto>
+          <p>La creación de empresas es una de las principales características
 del sistema capitalista. Se define la <negrita>empresa</negrita> como
 una entidad económica de producción que se dedica a combinar capital,
 entendido como dinero, maquinaria, y fábricas, trabajo y recursos
 naturales con el fin de producir bienes y servicios para vender en
 el mercado.</p>
-<p>Las empresas pueden clasificarse según distintos criterios. Los
+          <p>Las empresas pueden clasificarse según distintos criterios. Los
 más destacados son:</p>
-<listaSinNumerar>
-<listaElemento><negrita>Sector económico:</negrita> en función de
+          <listaSinNumerar>
+            <listaElemento>
+              <negrita>Sector económico:</negrita> en función de
 la actividad que desarrollan, las empresas pertenecen al sector primario,
 secundario o terciario.</listaElemento>
-<listaElemento><negrita>Tamaño:</negrita> según su número de trabajadores,
+            <listaElemento>
+              <negrita>Tamaño:</negrita> según su número de trabajadores,
 hablamos de microempresas, empresas pequeñas, medianas y grandes.</listaElemento>
-<listaElemento><negrita>Carácter económico:</negrita> dependiendo
+            <listaElemento>
+              <negrita>Carácter económico:</negrita> dependiendo
 del origen de su capital, pueden ser privadas, públicas o mixtas.</listaElemento>
-<listaElemento><negrita>Forma jurídica:</negrita> según como están
+            <listaElemento>
+              <negrita>Forma jurídica:</negrita> según como están
 constituidas, se clasifican en unipersonales o societarias. En Colombia,
 las más comunes son las <negrita>sociedades limitadas</negrita> (LTDA.),
 las <negrita>sociedades anónimas</negrita> (S.A.) y las <negrita>sociedades
 por acciones simplificadas</negrita> (S.A.S.).</listaElemento>
-<listaElemento><negrita>Origen del capital:</negrita> nacionales o
+            <listaElemento>
+              <negrita>Origen del capital:</negrita> nacionales o
 multinacionales.</listaElemento>
-<listaElemento><negrita>Finalidad:</negrita> con o sin ánimo de lucro.</listaElemento>
-</listaSinNumerar>
-<destacado><destacadoTitulo>Las multinacionales</destacadoTitulo>
-<destacadoTexto>
-<p>Las <negrita>empresas</negrita> se han convertido en elemento principal
+            <listaElemento>
+              <negrita>Finalidad:</negrita> con o sin ánimo de lucro.</listaElemento>
+          </listaSinNumerar>
+          <destacado>
+            <destacadoTitulo>Las multinacionales</destacadoTitulo>
+            <destacadoTexto>
+              <p>Las <negrita>empresas</negrita> se han convertido en elemento principal
 de la expansión del comercio internacional con la aparición de empresas
 denominadas <negrita>multinacionales</negrita>, que establecen sus
 lugares de elaboración y distribución de productos más allá de su
 país. Se caracterizan por el empleo de trabajadores tanto del país
 de origen como del país en el que se establecieron. Estas empresas
 buscan llegar a todo el mundo y adaptarse a cada región.</p>
-</destacadoTexto></destacado>
-<imagen src="CS_10_05_CO_IMG13_small.jpg">
-<p>Las empresas se dedican a una <negrita>actividad económica concreta</negrita
->. Por ejemplo, a la fabricación de automóviles, a la venta de ropa,
+            </destacadoTexto>
+          </destacado>
+          <imagen src="CS_10_05_CO_IMG13_small.jpg">
+            <p>Las empresas se dedican a una <negrita>actividad económica concreta</negrita>. Por ejemplo, a la fabricación de automóviles, a la venta de ropa,
 a la investigación científica, a la promoción de la cultura o a la
 realización de cualquier otra actividad que genere beneficios económicos.
-Sin embargo, <negrita>existen empresas sin ánimo de lucro</negrita
->, cuyo fin no es la obtención de ganancias, sino prestar un servicio
+Sin embargo, <negrita>existen empresas sin ánimo de lucro</negrita>, cuyo fin no es la obtención de ganancias, sino prestar un servicio
 a la sociedad. Este es el caso de las organizaciones no gubernamentales,
 por ejemplo.</p>
-</imagen>
-<p>En ocasiones, en los mercados se dan situaciones de <negrita>monopolio</negrita
->, en las que una empresa controla de manera exclusiva un producto
+          </imagen>
+          <p>En ocasiones, en los mercados se dan situaciones de <negrita>monopolio</negrita>, en las que una empresa controla de manera exclusiva un producto
 o servicio sin ningún tipo de competencia. En otros casos, se dan
 situaciones de <negrita>oligopolio</negrita>, en las que un pequeño
 grupo de grandes empresas dedicadas a la misma actividad llegan a
 una serie de pactos para repartirse el mercado.</p>
-<p>Existen distintos tipos de integración empresarial, aunque las
+          <p>Existen distintos tipos de integración empresarial, aunque las
 más importantes son:</p>
-<listaSinNumerar>
-<listaElemento><negrita>Trust:</negrita> fusión de varias empresas
+          <listaSinNumerar>
+            <listaElemento>
+              <negrita>Trust:</negrita> fusión de varias empresas
 en una sola sociedad. Sus componentes pierden su independencia jurídica
 y económica.</listaElemento>
-<listaElemento><negrita>Cartel:</negrita> pacto entre varias empresas
+            <listaElemento>
+              <negrita>Cartel:</negrita> pacto entre varias empresas
 pertenecientes al mismo sector productivo que intentan conseguir el
 dominio del mercado limitando su competencia recíproca.</listaElemento>
-<listaElemento><negritacursiva>Holding:</negritacursiva> asociación
+            <listaElemento>
+              <negritacursiva>Holding:</negritacursiva> asociación
 entre dos o más empresas que acuerdan colaborar mediante un pacto
 jurídico y económico. Los órganos de dirección de sus componentes
 mantienen su independencia en todo momento.</listaElemento>
-</listaSinNumerar>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso100&amp;IdRecurso=RES-1BFB1275765E4182BDF31017A9462DD8"
->Las empresas</enlace>
-</profundiza>
-<p>Gracias a su capacidad para movilizar recursos, las empresas se
+          </listaSinNumerar>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso100&amp;IdRecurso=RES-1BFB1275765E4182BDF31017A9462DD8">Las empresas</enlace>
+          </profundiza>
+          <p>Gracias a su capacidad para movilizar recursos, las empresas se
 han convertido en organizaciones que han acelerado los cambios para
 transformar la economía y la sociedad. Y debido a esa influencia,
 están llamadas a asumir su <negrita>responsabilidad</negrita> frente
 al medio ambiente y al desarrollo de la sociedad bajo el concepto
 de responsabilidad social empresarial, para convertirse en una influencia
 positiva en la sociedad.</p>
-<p>La transformación de los sistemas económicos, las tendencias sociales,
+          <p>La transformación de los sistemas económicos, las tendencias sociales,
 tecnológicas, medioambientales han afectado el mundo de los negocios
 y las empresas así como los criterios de demanda en el mercado; ahora
 existen nuevos perfiles de compra que fomentan el desarrollo de empresas
 ecoeficientes con productos y procesos medioambientalmente respetuosos.
 Todas estas tendencias de cambio están proponiendo nuevos retos a
 las empresas.</p>
-<p>Esto propone a las empresas enfoques con capacidad de adaptación
+          <p>Esto propone a las empresas enfoques con capacidad de adaptación
 con sistemas y estructuras flexibles, con negocios abiertos, competitivos,
 creativos e innovadores capaces de desarrollar estrategias con clientes,
 competidores, proveedores con permanente dotación del capital humano
 intelectual para adaptarse globalmente.</p>
-<destacado><destacadoTitulo>Las TIC en las empresas</destacadoTitulo>
-<destacadoTexto>
-<p>Las Tecnologías de la Información y la Comunicación han transformado
+          <destacado>
+            <destacadoTitulo>Las TIC en las empresas</destacadoTitulo>
+            <destacadoTexto>
+              <p>Las Tecnologías de la Información y la Comunicación han transformado
 la manera de trabajar y gestionar recursos. Las TIC son un elemento
 clave para hacer que el trabajo sea más productivo, ya que permiten
 que las comunicaciones sean más ágiles, facilitan el trabajo en equipo,
 la gestión productiva y administrativa y sirven para promocionar los
 productos en el mercado de manera más eficaz.</p>
-<p>Bien utilizadas, las TIC permiten que la producción de las empresas
+              <p>Bien utilizadas, las TIC permiten que la producción de las empresas
 sea mayor, más rápida y de mejor calidad.</p>
-</destacadoTexto></destacado>
-<imagen src="CS_10_05_CO_IMG14_small.jpg">
-<p>Los intereses de las empresas están representados por los empresarios.
+            </destacadoTexto>
+          </destacado>
+          <imagen src="CS_10_05_CO_IMG14_small.jpg">
+            <p>Los intereses de las empresas están representados por los empresarios.
 Existen distintos tipos de instituciones patronales, según los intereses
 que representan: nacionales, sectoriales, etc. Las instituciones patronales
 constituyen, junto con las organizaciones sindicales (representantes
 de los trabajadores), agentes sociales de primer orden.</p>
-</imagen>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_91195BC878F5493FBE1B87607C6654CC">
-<seccion2Titulo>El Estado o sector público</seccion2Titulo>
-<seccion2Texto>
-<p>El Estado es un <negrita>agente económico</negrita> de primer orden,
-pues no solo se encarga del mantenimiento de la administración, la <negrita
->prestación de servicios públicos</negrita> (justicia, educación,
+          </imagen>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_91195BC878F5493FBE1B87607C6654CC">
+        <seccion2Titulo>El Estado o sector público</seccion2Titulo>
+        <seccion2Texto>
+          <p>El Estado es un <negrita>agente económico</negrita> de primer orden,
+pues no solo se encarga del mantenimiento de la administración, la <negrita>prestación de servicios públicos</negrita> (justicia, educación,
 salud, etc.) y la <negrita>recaudación de impuestos</negrita>, sino
 que además cuenta con empresas propias, construye infraestructuras
 de transporte y comunicación o toma medidas para la redistribución
 de la riqueza. De este modo, contribuye a la <negrita>creación de
-puestos de empleo</negrita> y a la <negrita>dinamización de la economía</negrita
->.</p>
-<p>Asimismo, el Estado toma medidas claves en materia de <negrita
->política económica y social</negrita>, con el fin de favorecer el
+puestos de empleo</negrita> y a la <negrita>dinamización de la economía</negrita>.</p>
+          <p>Asimismo, el Estado toma medidas claves en materia de <negrita>política económica y social</negrita>, con el fin de favorecer el
 desarrollo de la economía, hacer frente a situaciones económicas adversas
 o velar por el correcto funcionamiento de los mercados.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso110&amp;IdRecurso=RES-48A909116CAD450CB81C8F485F3202A1"
->Reconoce los aspectos claves de la economía</enlace>
-</practica></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_91195BC878F5493FBE1B87607C6626AA">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividad para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso120&amp;IdRecurso=RES-F47B059CAED04441B7BB15E6818919D6"
->El análisis de un paisaje industrial</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_10_05_CO_71A190CC61AB439683635B6E0F54744D">
-<seccion1Titulo>Los sectores económicos</seccion1Titulo>
-<seccion1Texto>
-<p>La producción de un país se define a partir del volumen de bienes
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso110&amp;IdRecurso=RES-48A909116CAD450CB81C8F485F3202A1">Reconoce los aspectos clave de la economía</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_91195BC878F5493FBE1B87607C6626AA">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividad para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso120&amp;IdRecurso=RES-F47B059CAED04441B7BB15E6818919D6">Refuerza tu aprendizaje: Los agentes económicos</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_10_05_CO_71A190CC61AB439683635B6E0F54744D">
+    <seccion1Titulo>Los sectores económicos</seccion1Titulo>
+    <seccion1Texto>
+      <p>La producción de un país se define a partir del volumen de bienes
 y servicios que resultan de todas las actividades económicas que tienen
 lugar en él. Estas buscan cubrir las necesidades de las personas en
 una sociedad, las cuales pueden ser llevadas a cabo por el sector
 privado o el sector público.</p>
-<seccion2 id="S2_CS_10_05_CO_0C063426084F4DE5864736AEEEDB7DE3">
-<seccion2Titulo>El sector primario</seccion2Titulo>
-<seccion2Texto>
-<p>Comprende aquellas actividades relacionadas directamente con la <negrita
->explotación de los recursos naturales</negrita> sin que estos sean
+      <seccion2 id="S2_CS_10_05_CO_0C063426084F4DE5864736AEEEDB7DE3">
+        <seccion2Titulo>El sector primario</seccion2Titulo>
+        <seccion2Texto>
+          <p>Comprende aquellas actividades relacionadas directamente con la <negrita>explotación de los recursos naturales</negrita> sin que estos sean
 transformados. Incluye actividades como la agricultura, la ganadería,
 la pesca y la minería, entre otras. Este sector ha sido tradicionalmente
 la base de la economía en los países en vías de desarrollo, que exportan
 materias primas, pero que tienen que importar tecnología y capital.</p>
-<p>Las actividades del sector primario son muy importantes para la
+          <p>Las actividades del sector primario son muy importantes para la
 economía y la sociedad, ya que ellas proporcionan alimentos y materias
 primas necesarias para la industria. Sin embargo, la población que
 trabaja en el sector representa un porcentaje muy bajo del total de
 la población trabajadora, en especial en los países desarrollados.</p>
-<imagen src="CS_10_05_CO_IMG15_small.jpg">
-<p>La agricultura tecnificada es propia de <negrita>países desarrollados</negrita
->, en los que la actividad agrícola representa un porcentaje poco
+          <imagen src="CS_10_05_CO_IMG15_small.jpg">
+            <p>La agricultura tecnificada es propia de <negrita>países desarrollados</negrita>, en los que la actividad agrícola representa un porcentaje poco
 distintivo del PIB nacional y ocupa una escasa mano de obra, en muchos
 casos, de origen extranjero. Este tipo de agricultura destina su producción
 a los <negrita>mercados</negrita>.</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso130&amp;IdRecurso=RES-97992F453269495B97CFC5ADC9479759"
->Las actividades económicas del sector primario</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso140&amp;IdRecurso=RES-0A927E2CFE164B0F8819C7706EBFDDF0"
->La agricultura en el mundo actual</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso150&amp;IdRecurso=RES-E21E169AC23742378E8EBA00BBFA8A56"
->Sitúa el lugar que ocupa el sector primario en la economía global</enlace>
-</practica></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_CF04103D911C47768B7BFF720FCFC49E">
-<seccion2Titulo>El sector secundario</seccion2Titulo>
-<seccion2Texto>
-<p>El sector secundario incluye actividades relacionadas con la transformación
+          </imagen>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso130&amp;IdRecurso=RES-97992F453269495B97CFC5ADC9479759">Las actividades económicas del sector primario</enlace>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso140&amp;IdRecurso=RES-0A927E2CFE164B0F8819C7706EBFDDF0">La agricultura en el mundo actual</enlace>
+          </profundiza>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso150&amp;IdRecurso=RES-E21E169AC23742378E8EBA00BBFA8A56">Sitúa el lugar que ocupa el sector primario en la economía global</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_CF04103D911C47768B7BFF720FCFC49E">
+        <seccion2Titulo>El sector secundario</seccion2Titulo>
+        <seccion2Texto>
+          <p>El sector secundario incluye actividades relacionadas con la transformación
 de <negrita>materias primas</negrita> de origen animal, vegetal, mineral
 y provenientes de la agricultura en <negrita>productos destinados
-al mercado</negrita>, cuya venta le da <negrita>beneficios</negrita
-> a la empresa que los ha producido y son utilizados como base para
+al mercado</negrita>, cuya venta le da <negrita>beneficios</negrita> a la empresa que los ha producido y son utilizados como base para
 la fabricación de nuevos productos. El sector puede subdividirse en
 industrial extractivo, que es la extracción minera y de petróleo,
 e industrial de transformación.</p>
-<p>Este sector, que tuvo sus inicios en la Revolución Industrial,
+          <p>Este sector, que tuvo sus inicios en la Revolución Industrial,
 comprende actividades fabriles muy diversas: energía, textil, metal,
 maquinaria, química, electrónica y medios de transporte, entre otras.
 Conocer en qué consiste cada una de las actividades propias del sector
 secundario ayuda a entender su importancia a nivel económico y cómo
 pueden influir en nuestro día a día.</p>
-<imagen src="CS_10_05_CO_IMG16_small.jpg">
-<p>Las <negrita>energías renovables</negrita>, como la energía eólica
+          <imagen src="CS_10_05_CO_IMG16_small.jpg">
+            <p>Las <negrita>energías renovables</negrita>, como la energía eólica
 y la energía solar, han evolucionado mucho durante los últimos años.
-Esto se debe, en parte, al hecho de que las <negrita>energías no renovables</negrita
-> provenientes del petróleo, del carbón o del gas natural no son infinitas,
+Esto se debe, en parte, al hecho de que las <negrita>energías no renovables</negrita> provenientes del petróleo, del carbón o del gas natural no son infinitas,
 y también al crecimiento de la conciencia ecológica en la sociedad.</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso160&amp;IdRecurso=RES-2D75F8BEF3464B97A97D4ABD5B1FDB31"
->El análisis de un paisaje industrial</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso170&amp;IdRecurso=RES-321A896E83B34CD9BC6DF9C4D64ADB61"
->Entiende los porqués de la dependencia energética industrial</enlace>
-</practica></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_10EBC8EC70AE44CC9656DAD1D4104EA9">
-<seccion2Titulo>El sector terciario</seccion2Titulo>
-<seccion2Texto>
-<p>El sector terciario proporciona <negrita>servicios</negrita> y <negrita
->bienes intangibles</negrita>. Es un sector con una amplia variedad
+          </imagen>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso160&amp;IdRecurso=RES-2D75F8BEF3464B97A97D4ABD5B1FDB31">El análisis de un paisaje industrial</enlace>
+          </profundiza>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_10EBC8EC70AE44CC9656DAD1D4104EA9">
+        <seccion2Titulo>El sector terciario</seccion2Titulo>
+        <seccion2Texto>
+          <p>El sector terciario proporciona <negrita>servicios</negrita> y <negrita>bienes intangibles</negrita>. Es un sector con una amplia variedad
 de actividades: educación, servicios sociales, comercio, transporte,
 comunicaciones, servicios financieros y turismo, entre otras. Se ha
 visto fortalecido debido a que su contribución al producto interno
 bruto, en especial en los países desarrollados, donde se ha incrementado
 y está alrededor del 70 %. En países de desarrollo medio, como Brasil
 y Tailandia, se acerca al 50 %.</p>
-<recuerda><recuerdaTexto>
-<p>El sector terciario incluye todas aquellas actividades que no producen
+          <recuerda>
+            <recuerdaTexto>
+              <p>El sector terciario incluye todas aquellas actividades que no producen
 bienes materiales de forma directa. Estas actividades son conocidas
 como “servicios”, se ubican bajo esta denominación: el comercio, hoteles,
 restaurantes, los transportes, las comunicaciones, las finanzas.</p>
-</recuerdaTexto></recuerda>
-<p>Los tres <negrita>sectores económicos</negrita> están <negrita
->interrelacionados</negrita>. Por ejemplo, la industria requiere materias
+            </recuerdaTexto>
+          </recuerda>
+          <p>Los tres <negrita>sectores económicos</negrita> están <negrita>interrelacionados</negrita>. Por ejemplo, la industria requiere materias
 primas necesarias para fabricar nuevos productos. Y para poder ofrecerlos
 en el mercado, a los consumidores, se necesitan servicios del sector
 terciario, como las comunicaciones y la publicidad. El sector terciario
-ofrece distintos tipos de servicios, tanto a <negrita>personas</negrita
-> como a <negrita>empresas</negrita>.</p>
-<imagen src="CS_10_05_CO_IMG17_small.jpg">
-<p>En la actualidad, la mayor parte de las grandes empresas han subcontratado
+ofrece distintos tipos de servicios, tanto a <negrita>personas</negrita> como a <negrita>empresas</negrita>.</p>
+          <imagen src="CS_10_05_CO_IMG17_small.jpg">
+            <p>En la actualidad, la mayor parte de las grandes empresas han subcontratado
 muchas de sus funciones, como los servicios de atención al cliente
 conocidos como <cursiva>call center</cursiva>, que son asumidos por
 empresas especializadas.</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso180&amp;IdRecurso=RES-A9E6E359D5C14DE6B31FBA8F5D80FB4C"
->Los tipos de servicios</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso190&amp;IdRecurso=RES-BA1D6FC65AF44A498DAB05245FE31A00"
->Conoce qué es la externalización</enlace>
-</practica></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_44C51297BF624C32A3A109F6295B1C60">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividad para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso200&amp;IdRecurso=RES-BB1C137EA51D4063A61CD4FF98C3EE67"
->Refuerza tu aprendizaje: Los sectores económicos</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_10_05_CO_50576DDB43F34157A4A4FED28269E02E">
-<seccion1Titulo>Los modelos económicos</seccion1Titulo>
-<seccion1Texto>
-<p>Los <negrita>modelos económicos</negrita> son maneras de explicar
-y representar el <negrita>funcionamiento</negrita> de los diversos <negrita
->procesos económicos</negrita> de una sociedad. Cada modelo propone <negrita
->objetivos económicos</negrita>, así como diversas estrategias para
+          </imagen>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso180&amp;IdRecurso=RES-A9E6E359D5C14DE6B31FBA8F5D80FB4C">Los tipos de servicios</enlace>
+          </profundiza>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso190&amp;IdRecurso=RES-BA1D6FC65AF44A498DAB05245FE31A00">Conoce qué es la externalización</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_44C51297BF624C32A3A109F6295B1C60">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividad para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso200&amp;IdRecurso=RES-BB1C137EA51D4063A61CD4FF98C3EE67">Refuerza tu aprendizaje: Los sectores económicos</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_10_05_CO_50576DDB43F34157A4A4FED28269E02E">
+    <seccion1Titulo>Los modelos económicos</seccion1Titulo>
+    <seccion1Texto>
+      <p>Los <negrita>modelos económicos</negrita> son maneras de explicar
+y representar el <negrita>funcionamiento</negrita> de los diversos <negrita>procesos económicos</negrita> de una sociedad. Cada modelo propone <negrita>objetivos económicos</negrita>, así como diversas estrategias para
 conseguirlos. Las decisiones tomadas por los gobiernos, a partir de
 ellos, constituyen la <negrita>política económica</negrita>.</p>
-<p>A partir del análisis de los fenómenos económicos, los modelos
+      <p>A partir del análisis de los fenómenos económicos, los modelos
 recomiendan a los gobiernos estrategias para manejar ámbitos económicos,
 como la moneda, las empresas, los bancos, los presupuestos, los precios
 o los recursos naturales. Las recomendaciones tienen como meta que
-la economía alcance un alto nivel de <negrita>desarrollo</negrita
->.</p>
-<p>Los modelos económicos también plantean diferentes caminos para
+la economía alcance un alto nivel de <negrita>desarrollo</negrita>.</p>
+      <p>Los modelos económicos también plantean diferentes caminos para
 tomar <negrita>decisiones</negrita> en cuestiones como: cuáles bienes
 se producirán, en qué cantidades, quién desarrollará cada tarea necesaria
 y con cuáles técnicas.</p>
-<p>La decisión de cuál modelo económico seguir es un asunto clave
-para las sociedades, porque allí se juega <negrita>el bienestar material </negrita
->de los grupos que conforman la población. Es decir, que al elegir
+      <p>La decisión de cuál modelo económico seguir es un asunto clave
+para las sociedades, porque allí se juega <negrita>el bienestar material </negrita>de los grupos que conforman la población. Es decir, que al elegir
 un modelo económico se pone en juego la distribución de la riqueza,
 la capacidad de consumo y las oportunidades de desarrollo de los miembros
 de la sociedad.</p>
-<imagen src="CS_10_05_CO_IMG18_small.jpg">
-<p>Los modelos económicos ofrecen criterios útiles para diseñar <negrita
->estrategias</negrita> y acciones que influyan sobre la economía de
+      <imagen src="CS_10_05_CO_IMG18_small.jpg">
+        <p>Los modelos económicos ofrecen criterios útiles para diseñar <negrita>estrategias</negrita> y acciones que influyan sobre la economía de
 los países. La política económica modifica el comportamiento de los
-sujetos a través de <negrita>incentivos</negrita>, estímulos y <negrita
->beneficios tributarios</negrita> o mediante ciertas prohibiciones.</p>
-</imagen>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso210&amp;IdRecurso=RES-56A81166D5B14696BA671DBD902E18B8"
->Conoce los modelos económicos</enlace>
-</practica><seccion2
-id="S2_CS_10_05_CO_44C51297BF624C32A3A109F6295B2D71">
-<seccion2Titulo>El desarrollo: objetivo de los modelos económicos</seccion2Titulo>
-<seccion2Texto>
-<p>Los modelos económicos de los últimos dos siglos comparten una
+sujetos a través de <negrita>incentivos</negrita>, estímulos y <negrita>beneficios tributarios</negrita> o mediante ciertas prohibiciones.</p>
+      </imagen>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso210&amp;IdRecurso=RES-56A81166D5B14696BA671DBD902E18B8">Conoce los modelos económicos</enlace>
+      </practica>
+      <seccion2 id="S2_CS_10_05_CO_44C51297BF624C32A3A109F6295B2D71">
+        <seccion2Titulo>El desarrollo: objetivo de los modelos económicos</seccion2Titulo>
+        <seccion2Texto>
+          <p>Los modelos económicos de los últimos dos siglos comparten una
 meta en común: <negrita>el desarrollo</negrita>, que se concibe como
 un <negrita>proceso de crecimiento</negrita> sostenido de la economía
 que la conducirá como una fórmula para alcanzar el progreso y mejorar
 la calidad de vida.</p>
-<p>Gracias a la idea de desarrollo se llegó a establecer el camino
+          <p>Gracias a la idea de desarrollo se llegó a establecer el camino
 que cada país debería seguir, como <negrita>mecanizar</negrita> la
 producción agrícola, <negrita>industrializar</negrita> la producción
-de manufacturas, ampliar el comercio, <negrita>aumentar el consumo</negrita
->, acumular cada año más ganancias, desarrollar el sector terciario
+de manufacturas, ampliar el comercio, <negrita>aumentar el consumo</negrita>, acumular cada año más ganancias, desarrollar el sector terciario
 o mejorar la competitividad.</p>
-<p>Mediante la idea del desarrollo se difundió una representación
-del mundo en la que unos países fueron considerados como <negrita
->desarrollados</negrita> y otros como <negrita>subdesarrollados</negrita
->. La meta era “desarrollarse” mediante la reproducción de los modelos
+          <p>Mediante la idea del desarrollo se difundió una representación
+del mundo en la que unos países fueron considerados como <negrita>desarrollados</negrita> y otros como <negrita>subdesarrollados</negrita>. La meta era “desarrollarse” mediante la reproducción de los modelos
 de urbanización e industrialización de los países “desarrollados”.
 Así se difundió una forma de vida que actualmente se ha extendido
 a lo largo y ancho del planeta, homogeneizando las culturas. Sin embargo,
@@ -866,133 +837,143 @@ del desarrollo. Por ejemplo, la crisis ecológica planetaria, debida
 a la sobreexplotación de recursos o a la contaminación ambiental,
 o las desigualdades que resultan de la concentración de beneficios
 en pequeños núcleos de la población.</p>
-<destacado><destacadoTitulo>Los indicadores económicos</destacadoTitulo>
-<destacadoTexto>
-<p>Para conocer la situación económica de un país hay que analizar
+          <destacado>
+            <destacadoTitulo>Los indicadores económicos</destacadoTitulo>
+            <destacadoTexto>
+              <p>Para conocer la situación económica de un país hay que analizar
 una serie de elementos, entre los que destacan los precios, la producción
 y la ocupación laboral. Los principales indicadores económicos son:</p>
-<listaSinNumerar>
-<listaElemento><negrita>Índice de Precios al Consumidor (IPC):</negrita
-> indica la variación de los precios en un país.</listaElemento>
-<listaElemento><negrita>Producto Interno Bruto (PIB):</negrita> indica
+              <listaSinNumerar>
+                <listaElemento>
+                  <negrita>Índice de Precios al Consumidor (IPC):</negrita> indica la variación de los precios en un país.</listaElemento>
+                <listaElemento>
+                  <negrita>Producto Interno Bruto (PIB):</negrita> indica
 el valor de todos los bienes y servicios producidos en un país durante
 un período de tiempo.</listaElemento>
-<listaElemento><negrita>Renta per cápita (o por habitante):</negrita
-> indica el poder adquisitivo medio de la población.</listaElemento>
-<listaElemento><negrita>Tasa de empleo:</negrita> indica los niveles
+                <listaElemento>
+                  <negrita>Renta per cápita (o por habitante):</negrita> indica el poder adquisitivo medio de la población.</listaElemento>
+                <listaElemento>
+                  <negrita>Tasa de empleo:</negrita> indica los niveles
 de ocupación laboral en un país.</listaElemento>
-<listaElemento><negrita>Tasa de desempleo:</negrita> indica los niveles
+                <listaElemento>
+                  <negrita>Tasa de desempleo:</negrita> indica los niveles
 de desempleo en un país.</listaElemento>
-</listaSinNumerar>
-</destacadoTexto></destacado>
-<imagen src="CS_10_05_CO_IMG19_small.jpg">
-<p>El indicador más usado para establecer el grado de desarrollo económico
+              </listaSinNumerar>
+            </destacadoTexto>
+          </destacado>
+          <imagen src="CS_10_05_CO_IMG19_small.jpg">
+            <p>El indicador más usado para establecer el grado de desarrollo económico
 de un país es el <negrita>promedio de ingresos</negrita> económicos
 de sus habitantes, expresado en dólares y medido por el Banco Mundial.</p>
-</imagen>
-<destacado><destacadoTitulo>La crítica al desarrollo</destacadoTitulo>
-<destacadoTexto>
-<p>La crisis del desarrollo se puede ilustrar a través de las palabras
+          </imagen>
+          <destacado>
+            <destacadoTitulo>La crítica al desarrollo</destacadoTitulo>
+            <destacadoTexto>
+              <p>La crisis del desarrollo se puede ilustrar a través de las palabras
 de Amartya Sen, premio Nobel de economía en 1998, quien escribe: “puedes
 ser pudiente, sin estar bien. Puedes estar bien, sin poder llevar
 la vida que querías. Puedes llevar la vida que querías, sin ser feliz.
 Puedes ser feliz, sin tener demasiada libertad. Puedes tener mucha
 libertad, pero no conseguir demasiado”.</p>
-</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_44C51297BF624C32A3A109F6295B3E82">
-<seccion2Titulo>El “otro” desarrollo: hacia dónde y para qué</seccion2Titulo>
-<seccion2Texto>
-<p>En los últimos años, el desarrollo como meta común de las naciones
+            </destacadoTexto>
+          </destacado>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_44C51297BF624C32A3A109F6295B3E82">
+        <seccion2Titulo>El “otro” desarrollo: hacia dónde y para qué</seccion2Titulo>
+        <seccion2Texto>
+          <p>En los últimos años, el desarrollo como meta común de las naciones
 occidentales está perdiendo fuerza debido a la creciente desilusión
 que ha causado a grandes sectores de la población, especialmente en
 el llamado <negrita>“Tercer Mundo”</negrita> o “mundo subdesarrollado”.
 Siguiendo el camino del desarrollo, muchos grupos sociales no han
 llegado al lugar que imaginaban. Ahora se plantean bajar del “tren”
 del desarrollo y emprender un camino que lleve en otra dirección.</p>
-<p>En este contexto han cobrado importancia otras perspectivas que
+          <p>En este contexto han cobrado importancia otras perspectivas que
 hacen énfasis en aquellas cuestiones descuidadas por el <negrita>modelo
 de desarrollo dominante</negrita>, como la conservación del ambiente,
 la preservación de las diferencias culturales o la equidad. Dichos
 enfoques afirman que <negrita>el desarrollo no debe ser exclusivamente
 económico</negrita>, sino que también intervienen factores culturales,
 sociales y ambientales.</p>
-<p>En consecuencia, hoy se plantean retos para construir <negrita
->modos de vida alternativos</negrita>, basados en modelos económicos
+          <p>En consecuencia, hoy se plantean retos para construir <negrita>modos de vida alternativos</negrita>, basados en modelos económicos
 que tengan en cuenta el equilibrio con la naturaleza y entre los distintos
 grupos sociales. Algunos modelos alternativos de desarrollo son las
 propuestas del desarrollo sustentable, el desarrollo local, el desarrollo
 endógeno, el <negrita>etnodesarrollo</negrita>, el desarrollo humano,
-el desarrollo a escala humana o el <negrita>posdesarrollo</negrita
->.</p>
-<imagen src="CS_10_05_CO_IMG20_small.jpg">
-<p>El “otro” desarrollo se funda en el principio de solidaridad que
+el desarrollo a escala humana o el <negrita>posdesarrollo</negrita>.</p>
+          <imagen src="CS_10_05_CO_IMG20_small.jpg">
+            <p>El “otro” desarrollo se funda en el principio de solidaridad que
 prima sobre el principio del individualismo y de la competencia. También
 tiene en cuenta que el desarrollo no solo se traduce en más y mejores
 cosas, sino también en la construcción de modos de vida sustentables
 y que privilegien el bien común.</p>
-</imagen>
-<p>La Unesco reconoce que “un desarrollo disociado de su contexto
+          </imagen>
+          <p>La Unesco reconoce que “un desarrollo disociado de su contexto
 cultural es un desarrollo vacío, un desarrollo falaz e incompleto,
 un desarrollo sin alma”. Por ello, es clave que las personas aprendan
 a identificar como legítimas las diferentes formas de imaginar la
 felicidad.</p>
-<imagen src="CS_10_05_CO_IMG21_small.jpg">
-<p>Una de las propuestas del “otro” desarrollo, elaboradas desde América
+          <imagen src="CS_10_05_CO_IMG21_small.jpg">
+            <p>Una de las propuestas del “otro” desarrollo, elaboradas desde América
 Latina, es la del <negrita>buen vivir</negrita>, concepto formulado
 desde la visión de los pueblos indígenas marginados por el desarrollo.
 Es una invitación a construir otra sociedad sustentada en la convivencia
 de las personas en diversidad y armonía con la naturaleza, a partir
 del reconocimiento de los diferentes valores culturales existentes
 en cada país.</p>
-</imagen>
-<p><negrita>El “otro” desarrollo</negrita> no impone una sola vía
+          </imagen>
+          <p>
+            <negrita>El “otro” desarrollo</negrita> no impone una sola vía
 para llegar, sino que abre posibilidades para que cada colectivo encuentre
 su propio camino hacia <negrita>el buen vivir</negrita>. Las alternativas
 al desarrollo también le otorgan un papel central a la educación y
 a la disposición y capacidad para trabajar en conjunto. Es decir,
 que la base para el desarrollo radica principalmente en las personas
 y no en el ingreso.</p>
-</seccion2Texto></seccion2><seccion2
-id="S2_CS_10_05_CO_44C51297BF624C32A3A109F6295B0A93">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso220&amp;IdRecurso=RES-BC7F3C637FBF4DF28113F4974638536C"
->Refuerza tu aprendizaje: El origen de los modelos económicos</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CS_10_05_CO_615DFB967DB649B4921CC244CB7A8E9D">
-<seccion1Titulo>Competencias</seccion1Titulo>
-<seccion1Texto>
-<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso230&amp;IdRecurso=RES-DE6438E38B4E4FC685F444D5BCCE067D"
->Competencias: Análisis de la situación laboral en Colombia</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso240&amp;IdRecurso=RES-46BD65F67BC84950A15FFC72503E2873"
->Proyecto: Análisis de la economía de tu departamento</enlace>
-</practica></seccion1Texto></seccion1><masinformacion
-id="MI_CS_10_05_CO_F47FE09FEC54420EA4307B78D545B4AD"><mapaconceptual>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso260&amp;IdRecurso=RES-E659522CBEC544B7A333899D8CF8F8B7"
->Mapa conceptual del tema La economía</enlace></mapaconceptual>
-<autoevaluate><enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso270&amp;IdRecurso=RES-9BF76988F8504AFB9A4D2FB069294513"
->Evalúa tus conocimientos sobre el tema La economía</enlace>
-</autoevaluate><enlacesreferencia>
-<enlace destino="http://www.imf.org/external/spanish/index.htm">Portal
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CS_10_05_CO_44C51297BF624C32A3A109F6295B0A93">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso220&amp;IdRecurso=RES-BC7F3C637FBF4DF28113F4974638536C">Refuerza tu aprendizaje: Los modelos económicos</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CS_10_05_CO_615DFB967DB649B4921CC244CB7A8E9D">
+    <seccion1Titulo>Competencias</seccion1Titulo>
+    <seccion1Texto>
+      <p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso230&amp;IdRecurso=RES-DE6438E38B4E4FC685F444D5BCCE067D">Competencias: Análisis de la situación laboral en Colombia</enlace>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso240&amp;IdRecurso=RES-46BD65F67BC84950A15FFC72503E2873">Proyecto: Análisis de la economía de tu departamento</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <masinformacion id="MI_CS_10_05_CO_F47FE09FEC54420EA4307B78D545B4AD">
+    <mapaconceptual>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso260&amp;IdRecurso=RES-E659522CBEC544B7A333899D8CF8F8B7">Mapa conceptual del tema La economía</enlace>
+    </mapaconceptual>
+    <autoevaluate>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_05_CO_Recurso270&amp;IdRecurso=RES-9BF76988F8504AFB9A4D2FB069294513">Evalúa tus conocimientos sobre el tema La economía</enlace>
+    </autoevaluate>
+    <enlacesreferencia>
+      <enlace destino="http://www.imf.org/external/spanish/index.htm">Portal
 oficial del Fondo Monetario Internacional (FMI), que muestra información
 actualizada sobre la economía de hoy y las directrices marcadas por
 esta institución.</enlace>
-<enlace destino="http://www.monde-diplomatique.es/">Página web de <cursiva
->Le Monde Diplomatique</cursiva> en la que se ofrece información para
+      <enlace destino="http://www.monde-diplomatique.es/">Página web de <cursiva>Le Monde Diplomatique</cursiva> en la que se ofrece información para
 comprender aspectos diversos sobre la economía, la sociedad y la geopolítica
 en el mundo actual.</enlace>
-<enlace destino="http://www.finanzasparatodos.es/">Finanzas para todos,
+      <enlace destino="http://www.finanzasparatodos.es/">Finanzas para todos,
 plan de educación financiera de la Comisión Nacional del Mercado de
 Valores (CNMV).</enlace>
-<enlace destino="http://www.banrep.gov.co/">Banco de la República,
+      <enlace destino="http://www.banrep.gov.co/">Banco de la República,
 muestra información económica de Colombia.</enlace>
-</enlacesreferencia></masinformacion></libro>
+    </enlacesreferencia>
+  </masinformacion>
+</libro>
