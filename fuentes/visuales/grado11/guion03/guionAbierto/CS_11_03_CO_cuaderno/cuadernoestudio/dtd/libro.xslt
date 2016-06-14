@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+	<xsl:param name="root_path"/>	
 
 	<!--xsl:output method="html" version="4.0" encoding="UTF-8" indent="yes"/-->
 	
 	<xsl:output method="html" doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN" encoding="UTF-8" indent="yes"/>
-
+	
+	
 	<xsl:character-map name="spaces">
 		<xsl:output-character character="&#160;" string="&amp;nbsp;"/>
 	</xsl:character-map>
@@ -30,15 +33,20 @@
 						.fl_menu{position:relative; top:10px; left:0px; z-index:9999; width:150px; height:50px;}
 						-->
 					</style>
-					<link href="cuadernoestudio/css/style_DTD.css" type="text/css" rel="stylesheet"/>
-					<link href="cuadernoestudio/css/xsl-styles.css" type="text/css" rel="stylesheet"/>
-					<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
-					<script type="text/javascript" src="cuadernoestudio/js/jquery.accordion.js"></script>
-					<script type="text/javascript" src="cuadernoestudio/js/jquery.easing.1.3.js"></script>
-					<script type='text/javascript' src='cuadernoestudio/js/jquery.cookie.js'></script>
-					<script type='text/javascript' src='cuadernoestudio/js/jquery.hoverIntent.minified.js'></script>
-					<script type='text/javascript' src='cuadernoestudio/js/jquery.dcjqaccordion.2.7.min.js'></script>
-					<script type='text/javascript' src='cuadernoestudio/js/jquery.scrolltofixed-min.js'></script>
+					
+					
+					
+					<link href="{$root_path}/css/style_DTD.css" type="text/css" rel="stylesheet"/>
+					<link href="{$root_path}/css/xsl-styles.css" type="text/css" rel="stylesheet"/>
+					<script type="text/javascript" src="{$root_path}/js/jquery.min.js"></script>
+					<script type="text/javascript" src="{$root_path}/js/jquery.accordion.js"></script>
+					<script type="text/javascript" src="{$root_path}/js/jquery.easing.1.3.js"></script>
+					<script type='text/javascript' src="{$root_path}/js/jquery.cookie.js"></script>
+					<script type='text/javascript' src="{$root_path}/js/jquery.hoverIntent.minified.js"></script>
+					<script type='text/javascript' src="{$root_path}/js/jquery.dcjqaccordion.2.7.min.js"></script>
+					<script type='text/javascript' src="{$root_path}/js/jquery.scrolltofixed-min.js"></script>
+
+					
 					
 					<script type="text/javascript">
 						$(function() {

@@ -50,7 +50,7 @@
 					<xsl:attribute name="style">margin-left:<xsl:value-of select="-(count(ancestor::listaElemento) * 40)"/>px</xsl:attribute>
 				</xsl:when>
 			</xsl:choose>
-			<img src="{$image_dir}/{@src}" />
+			<img src="{$image_dir}/{@src}" class="{@ampliable}ampliable"/>
 			<xsl:apply-templates/>
 		</div>
 	</xsl:template>

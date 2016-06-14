@@ -9,7 +9,7 @@
 	
 	
 	<xsl:template match="destacado">
-		<div class="destacado">
+		<div class="destacado {@clip}imagen">
 			<xsl:apply-templates/>
 		</div>
 	</xsl:template>
@@ -20,7 +20,12 @@
 	
 	<xsl:template match="recuerda">
 		<div class="recuerda">
-			<h4>¡Recuerda!</h4>
+			<h4>
+				<xsl:choose>
+                        <xsl:when test="$idioma = 'EN'">Remember</xsl:when>
+                        <xsl:otherwise>Recuerda</xsl:otherwise>
+				</xsl:choose>
+			</h4>
 			<xsl:apply-templates/>
 		</div>
 	</xsl:template>
@@ -28,7 +33,12 @@
 	<xsl:template match="profundiza">
 		<div class="profundiza">
 			<div class="profundiza_left">
-				<h4>Aprende</h4>
+				<h4>
+					<xsl:choose>
+                        <xsl:when test="$idioma = 'EN'">Study</xsl:when>
+                        <xsl:otherwise>Profundiza</xsl:otherwise>
+					</xsl:choose>
+				</h4>
 			</div>
 			<div class="profundiza_right">
 				<div class="profundiza_inside">
@@ -44,7 +54,12 @@
 	<xsl:template match="practica">
 		<div class="practica">
 			<div class="practica_left">
-				<h4>Practica</h4>
+				<h4>
+					<xsl:choose>
+                        <xsl:when test="$idioma = 'EN'">Practice</xsl:when>
+                        <xsl:otherwise>Practica</xsl:otherwise>
+					</xsl:choose>
+				</h4>
 			</div>
 			<div class="practica_right">
 				<div class="practica_inside">
@@ -64,7 +79,14 @@
 		<div class="mapa_conceptual">
 			<xsl:for-each select="enlace">
 				<a href="{@destino}" target="_blank">
-					<h4 id="$toc_id">Mapa Conceptual</h4>
+					<h4 id="$toc_id">
+						<xsl:choose>
+							<xsl:when test="$idioma = 'EN'">Conceptual map</xsl:when>
+							<xsl:otherwise>Mapa conceptual</xsl:otherwise>
+						</xsl:choose>
+					
+					
+					</h4>
 					<p>
 						<xsl:value-of select="."/>
 					</p>
@@ -77,7 +99,12 @@
 		<div class="autoevaluacion">
 			<xsl:for-each select="enlace">
 				<a href="{@destino}" target="_blank">
-					<h4>Autoeveluación</h4>
+					<h4>
+						<xsl:choose>
+							<xsl:when test="$idioma = 'EN'">Evaluation</xsl:when>
+							<xsl:otherwise>Autoevaluación</xsl:otherwise>
+						</xsl:choose>
+					</h4>
 					<p>
 						<xsl:value-of select="."/>
 					</p>
@@ -86,22 +113,32 @@
 		</div>
 	</xsl:template>
 	
-	<xsl:template match="ejercitacionLibre">
+	<!--xsl:template match="ejercitacionLibre">
 		<div class="ejercitacion_libre">
 			<xsl:for-each select="enlace">
 				<a href="{@destino}" target="_blank">
-					<h4>Ejercitación libre</h4>
+					<h4>
+						<xsl:choose>
+							<xsl:when test="$idioma = 'EN'">Open practice</xsl:when>
+							<xsl:otherwise>Ejercitación libre</xsl:otherwise>
+						</xsl:choose>
+					</h4>
 					<p>
 						<xsl:apply-templates/>
 					</p>
 				</a>
 			</xsl:for-each>
 		</div>
-	</xsl:template>
+	</xsl:template-->
 	
 	<xsl:template match="enlacesreferencia">
 		<div class="websref">
-			<h4>Webs de referencia</h4>
+			<h4>
+				<xsl:choose>
+                        <xsl:when test="$idioma = 'EN'">References</xsl:when>
+                        <xsl:otherwise>Webs de referencia</xsl:otherwise>
+				</xsl:choose>
+			</h4>
 			<ul>
 				<xsl:for-each select="enlace">
 					<li><a href="{@destino}" target="_blank"><xsl:apply-templates/></a></li>

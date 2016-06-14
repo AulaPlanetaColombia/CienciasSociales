@@ -2,7 +2,7 @@
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions">
 
 <xsl:template match="table">
-	<div class="table01">
+	<div class="table01 {@filete}filete">
 		<table width="100%">
 			<xsl:apply-templates/>
 		</table>

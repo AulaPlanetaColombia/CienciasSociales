@@ -77,9 +77,10 @@
 <!ELEMENT seccion1 ( seccion1Titulo, seccion1Texto ) >
 
 <!ATTLIST seccion1
-		id CDATA #IMPLIED >
+		id CDATA #IMPLIED
+		mostrarautonomico (si|no) #IMPLIED>
 
-<!ELEMENT seccion1Texto (( blockquote | destacado | formula | imagen | listaNumerada | listaSinNumerar | media | nota | p | practica | profundiza | recuerda | table)*, seccion2*) >
+<!ELEMENT seccion1Texto (( blockquote | destacado | destacadoConImagen | formula | imagen | listaNumerada | listaSinNumerar | media | nota | p | practica | profundiza | recuerda | table)*, seccion2*) >
 
 <!ELEMENT seccion1Titulo ( #PCDATA | cursiva | subindice | superindice )* >
 
@@ -88,7 +89,7 @@
 <!ATTLIST seccion2
 		id CDATA #IMPLIED >
 
-<!ELEMENT seccion2Texto (( blockquote | destacado | formula | imagen | listaNumerada | listaSinNumerar | media | nota | p | practica | profundiza | recuerda | table)*, seccion3*) >
+<!ELEMENT seccion2Texto (( blockquote | destacado | destacadoConImagen | formula | imagen | listaNumerada | listaSinNumerar | media | nota | p | practica | profundiza | recuerda | table)*, seccion3*) >
 
 <!ELEMENT seccion2Titulo ( #PCDATA | cursiva | subindice | superindice )* >
 
@@ -97,7 +98,7 @@
 <!ATTLIST seccion3
 		id CDATA #IMPLIED >
 
-<!ELEMENT seccion3Texto ( blockquote | destacado | formula | imagen | listaNumerada | listaSinNumerar | media | nota | p | practica | profundiza | recuerda | table )* >
+<!ELEMENT seccion3Texto ( blockquote | destacado | destacadoConImagen | formula | imagen | listaNumerada | listaSinNumerar | media | nota | p | practica | profundiza | recuerda | table )* >
 
 <!ELEMENT seccion3Titulo ( #PCDATA | cursiva | subindice | superindice )* >
 
@@ -121,6 +122,17 @@
 <!ELEMENT destacadoTexto ( p | formula | imagen | listaNumerada | listaSinNumerar )+ >
 
 <!ELEMENT destacadoTitulo ( #PCDATA | cursiva | subindice | superindice )* >
+
+
+<!ELEMENT destacadoConImagen ( destacadoConImagenTitulo, destacadoConImagenTexto ) >
+
+<!ATTLIST destacadoConImagen
+	mostrarautonomico (si|no) #IMPLIED		
+>
+	
+<!ELEMENT destacadoConImagenTexto ( p | formula | imagen | listaNumerada | listaSinNumerar )+ >
+
+<!ELEMENT destacadoConImagenTitulo ( #PCDATA | cursiva | subindice | superindice )* >
 
 <!ELEMENT enlacesreferencia ( enlace+ ) >
 
