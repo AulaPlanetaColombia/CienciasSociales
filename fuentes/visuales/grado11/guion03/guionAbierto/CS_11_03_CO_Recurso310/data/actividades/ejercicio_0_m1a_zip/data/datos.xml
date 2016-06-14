@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="1" clase="a" aprid="m1a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Gobiernos de centro izquierda en América Latina</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M1A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Relaciona los presidentes que representan a la izquierda con el país al que corresponden.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="7">
+    <cuestion>
+      <pregunta><![CDATA[Venezuela]]></pregunta>
+      <respuesta><![CDATA[Hugo Chávez]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Argentina]]></pregunta>
+      <respuesta><![CDATA[Cristina Fernández de Kirchner]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Bolivia]]></pregunta>
+      <respuesta><![CDATA[Evo Morales]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Ecuador]]></pregunta>
+      <respuesta><![CDATA[Rafael Correa]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Paraguay]]></pregunta>
+      <respuesta><![CDATA[Fernando Lugo]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Uruguay]]></pregunta>
+      <respuesta><![CDATA[Tabaré Vázquez]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Brasil]]></pregunta>
+      <respuesta><![CDATA[Lula da Silva]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0"/>
+</motor>
