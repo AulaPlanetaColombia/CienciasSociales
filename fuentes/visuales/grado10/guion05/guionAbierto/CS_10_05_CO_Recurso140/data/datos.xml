@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?><engine copy="Editorial Planeta" version="1" aprid="f4">
+<main title="La agricultura en el mundo actual" path="image_158.jpg" buttonsHeight="53">
+</main>
+<questions respCorrecta="Respuesta correcta." respIncorrecta="Respuesta incorrecta.">
+<question title="¿Cuál de estas imágenes representa un espacio agrario especializado en un tipo de cultivo?" path="">
+<text><![CDATA[<p><img alt="" src="data/imagenes/image_126_h.jpg" style="float:left; height:207px; width:302px" /></p>
+
+<p><img alt="" src="data/imagenes/image_120.jpg" style="float:right; height:207px; width:311px" /></p>
+<p>&nbsp;</p>
+]]></text><answers>
+<answer correct="0">
+<text><![CDATA[Primera opción]]></text>
+<explanation width="500"><![CDATA[<p>El <strong>policultivo </strong>es un sistema agrario basado en la diversidad de productos agr&iacute;colas que se cultivan en parcelas contiguas o incluso en una misma parcela, como es el caso de los productos de la huerta.</p>
+]]></explanation>
+</answer>
+<answer correct="1">
+<text><![CDATA[Segunda opción]]></text>
+<explanation width="500"><![CDATA[<p>El <strong>monocultivo </strong>es un sistema agrario basado en la especializaci&oacute;n del cultivo del suelo, que se destina a un &uacute;nico producto.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="¿Cuál de estas imágenes representa un paisaje agrario de regadío?" path="">
+<text><![CDATA[<p><img alt="" src="data/imagenes/image_114_c.jpg" style="float:left; height:244px; width:312px" /></p>
+
+<p><img alt="" src="data/imagenes/image_108_c.jpg" style="float:right; height:244px; width:313px" /></p>
+
+<p>&nbsp;</p>
+]]></text><answers>
+<answer correct="0">
+<text><![CDATA[Primera opción]]></text>
+<explanation width="500"><![CDATA[<p>En los <strong>paisajes agrarios de secano</strong> los cultivos solo reciben el aporte del agua de la lluvia.</p>
+]]></explanation>
+</answer>
+<answer correct="1">
+<text><![CDATA[Segunda opción]]></text>
+<explanation width="500"><![CDATA[<p>En los <strong>paisajes agrarios de regad&iacute;o</strong>, el agua se extrae del subsuelo o se deriva desde los pantanos construidos para dicho fin mediante canales y acequias.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="image_33.jpg">
+<text><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Los tradicionales paisajes de secano pueden convertirse en paisajes de regad&iacute;o gracias al uso de<strong> t&eacute;cnicas de riego</strong>. La transformaci&oacute;n de este tipo de paisajes implica&nbsp;la construcci&oacute;n de importantes <strong>infraestructuras de riego </strong>as&iacute; como la adecuaci&oacute;n de las parcelas y los ritmos de trabajo.</p>
+]]></text>
+</info>
+</question>
+<question title="¿Cuál de estas imágenes muestra un aprovechamiento intensivo del suelo?" path="">
+<text><![CDATA[<p><img alt="" src="data/imagenes/image_102.jpg" style="float:left; height:227px; width:294px" /> <img alt="" src="data/imagenes/image_96.jpg" style="float:right; height:227px; width:341px" /></p>
+
+<p>&nbsp;</p>
+]]></text><answers>
+<answer correct="1">
+<text><![CDATA[Primera opción]]></text>
+<explanation width="500"><![CDATA[<p>La <strong>agricultura intensiva </strong>es la que se practica en &aacute;reas donde el terreno agr&iacute;cola es escaso. Este tipo de aprovechamiento del suelo implica una mayor producci&oacute;n en un menor espacio. Para conseguirlo, los propietarios suelen realizar importantes inversiones.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Segunda opción]]></text>
+<explanation width="500"><![CDATA[<p>La <strong>agricultura extensiva </strong>es propia de &aacute;reas poco pobladas, donde el n&uacute;mero de hect&aacute;reas destinadas al cultivo es muy importante. En este tipo de aprovechamiento del suelo es t&iacute;pico el uso de gran maquinaria agr&iacute;cola.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="¿Cuál de estas imágenes muestra un espacio rural en el que predomina el poblamiento disperso?" path="">
+<text><![CDATA[<p><img alt="" src="data/imagenes/image_90.jpg" style="float:left; height:216px; width:334px" /> <img alt="" src="data/imagenes/image_84.jpg" style="float:right; height:218px; width:329px" /></p>
+
+<p>&nbsp;</p>
+]]></text><answers>
+<answer correct="1">
+<text><![CDATA[Primera opción]]></text>
+<explanation width="500"><![CDATA[<p>El <strong>poblamiento rural disperso </strong>se caracteriza porque las construcciones aparecen aisladas unas de otras, aunque a una distancia pr&oacute;xima para mantener el contacto visual.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Segunda opción]]></text>
+<explanation width="500"><![CDATA[<p>El <strong>poblamiento rural concentrado</strong> se caracteriza porque las casas forman n&uacute;cleos de poblaci&oacute;n.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="">
+<text><![CDATA[]]></text>
+</info>
+</question>
+<question title="¿Cuál de estas imágenes muestra tareas propias de una agricultura de subsistencia?" path="">
+<text><![CDATA[<p><img alt="" src="data/imagenes/image_78.jpg" style="float:left; height:213px; width:284px" /><img alt="" src="data/imagenes/image_72.jpg" style="float:right; height:213px; width:320px" /></p>
+
+<p>&nbsp;</p>
+]]></text><answers>
+<answer correct="0">
+<text><![CDATA[Primera opción]]></text>
+<explanation width="500"><![CDATA[<p>El cultivo de fresas es propio de explotaciones destinadas a la venta de productos, lo que se conoce como <strong>agricultura de mercado</strong>.</p>
+]]></explanation>
+</answer>
+<answer correct="1">
+<text><![CDATA[Segunda opción]]></text>
+<explanation width="500"><![CDATA[<p>El cultivo de arroz en el Asia monz&oacute;nica es un tipo de <strong>agricultura de subsistencia</strong>. Este tipo de agricultura es intensiva y conlleva&nbsp;un trabajo minucioso y manual, que abarca la preparaci&oacute;n de la zona donde se va a plantar, la extracci&oacute;n de malas hierbas o la recolecci&oacute;n. La producci&oacute;n final de estos campos se destina al <strong>autoconsumo </strong>de las familias que los trabajan.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="image_28.jpg">
+<text><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>La <strong>agricultura de subsistencia</strong> produce todo lo que es necesario para la supervivencia de las familias que trabajan la tierra. Las t&eacute;cnicas de cultivo utilizadas son rudimentarias y los rendimientos obtenidos se destinan al autoconsumo. Los principales tipos de agricultura de subsistencia en el mundo son:</p>
+
+<ul>
+	<li><strong>Agricultura itinerante</strong> (a partir de la quema de bosques o sabanas).</li>
+	<li><strong>Agricultura extensiva</strong> de secano.</li>
+	<li><strong>Agricultura irrigada</strong> (cultivos de arroz en el Asia monz&oacute;nica).</li>
+</ul>
+]]></text>
+</info>
+</question>
+<question title="¿Cuáles de estos productos son propios de la agricultura tropical?" path="">
+<text><![CDATA[<p>&nbsp;</p>
+
+<p><img alt="" src="data/imagenes/image_52a.jpg" style="height:223px; width:334px" /><img alt="" src="data/imagenes/image_44.jpg" style="float:right; height:223px; width:334px" /></p>
+]]></text><answers>
+<answer correct="1">
+<text><![CDATA[Primera opción]]></text>
+<explanation width="500"><![CDATA[<p>Las frutas&nbsp;como el mango, la papaya, la guayaba o el maracuy&aacute; se cultivan&nbsp;en tierras<strong>&nbsp;tropicales</strong>.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[Segunda opción]]></text>
+<explanation width="500"><![CDATA[<p>Algunas&nbsp;<strong>frutas</strong>,<strong>&nbsp;</strong>como manzanas, uvas, mel&oacute;n y&nbsp;durazno, se cultivan principalmente en zonas de latitud media, pero desde hace algunos a&ntilde;os se vienen produciendo en algunas zonas tropicales.</p>
+]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+<answer correct="0">
+<text><![CDATA[]]></text>
+<explanation width="394"><![CDATA[]]></explanation>
+</answer>
+</answers>
+<info path="CS_10_05_REC140_IMG01.jpg">
+<text><![CDATA[<p>La producci&oacute;n de&nbsp;frutos, tub&eacute;rculos y cereales, productos de la <strong>agricultura tropical</strong>, est&aacute;&nbsp;sujeta&nbsp;a las condiciones de los climas de altura, a las caracter&iacute;sticas de los suelos&nbsp;y a las temporadas de lluvia y sequ&iacute;a.</p>
+]]></text>
+</info>
+</question>
+</questions>
+</engine>
