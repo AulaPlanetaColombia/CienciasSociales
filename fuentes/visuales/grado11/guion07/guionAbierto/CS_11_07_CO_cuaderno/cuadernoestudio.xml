@@ -1,446 +1,1286 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_11_07_CO">
-  <libroTitulo>El medio ambiente: problemas y desafíos</libroTitulo>
-  <seccion1 id="S1_CS_11_07_CO_5BDA5768B69B47349C09502B893FB794">
-    <seccion1Titulo>Problemas ambientales del mundo</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_07_CO_img_01_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso010&amp;IdRecurso=RES-243367757CB84ED3B45B01F1720AD990">Los impactos ambientales</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_07_CO_img_02_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso020&amp;IdRecurso=RES-2320F984FCDF47B9A9FBD5AE7CD0FF19">Reconoce las causas de la degradación del medio ambiente</enlace>
-      </practica>
-      <seccion2 id="S2_CS_11_07_CO_59DCA802F7164DC1AF36652D58FEAA5A">
-        <seccion2Titulo>El ser humano frente a las otras especies</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_07_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso030&amp;IdRecurso=RES-11A42FA7C27342F6BCDB49230AE48A4C">Los riesgos de origen humano</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_07_CO_img_04_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso040&amp;IdRecurso=RES-BD14C5D37EC047D189440953913DCC56">Identifica los riesgos de origen humano</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_07_CO_21C0513D55A647FB9F919E4B824A4EE2">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_07_CO_img_05_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso050&amp;IdRecurso=RES-7E4EF8D1499240F7A29E94ED8EC11B39">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_07_CO_7B8C5F82EF534B0BA100A37287770CA0">
-    <seccion1Titulo>El impacto del desarrollo industrial y tecnológico</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_07_CO_img_06_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_07_CO_img_07_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_07_CO_img_08_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_07_CO_img_09_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso090&amp;IdRecurso=RES-042ACC8FADDF4B4081390F2A71341CB4">Distingue los efectos del turismo sobre la naturaleza</enlace>
-      </practica>
-      <seccion2 id="S2_CS_11_07_CO_A3B7295FFE314262A997A1A368725446">
-        <seccion2Titulo>La crisis por el agua</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_07_CO_img_10_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso100&amp;IdRecurso=RES-859A2910FA3D4D199AAACAF563EDEFCD">Recurso M5B-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_07_CO_img_11_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso110&amp;IdRecurso=RES-49BD1EF95F564101843585686FC02717">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_07_CO_39C654CB0D98472FB796383FC7338345">
-    <seccion1Titulo>La protección del medio ambiente</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_11_07_CO_0EC78E2B7FD34C4C88A70A8C373C0554">
-        <seccion2Titulo>La sostenibilidad</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_07_CO_img_12_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso120&amp;IdRecurso=RES-F64272D6F6E44366903A7B130D1B8E23">Comprende qué podemos hacer por el desarrollo sostenible</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_07_CO_399F1036228D41099B114FA2B49B0865">
-        <seccion2Titulo>Convenios internacionales para proteger el medio ambiente</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_07_CO_img_13_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso130&amp;IdRecurso=RES-02D588884BEB4BFD82A5B91C43458654">Recurso F6-01</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_07_CO_AAE94B355DCD40BB8E1F1EEE1DB6AC69">
-        <seccion2Titulo>Energías limpias</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_07_CO_img_14_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso140&amp;IdRecurso=RES-10D0F62BD8AD47A38D4110405E441DCC">Recurso M5D-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_07_CO_img_15_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso150&amp;IdRecurso=RES-5747A0583C594ED7955A2BBB947BE3FA">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_07_CO_93D38DB49C32421381E98385A262C07F">
-    <seccion1Titulo>La situación ambiental en Colombia</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_11_07_CO_EAC8F355D755405E93D60856D2E547D2">
-        <seccion2Titulo>La política ambiental en Colombia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_07_CO_img_16_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso160&amp;IdRecurso=RES-4D17617B210D4A7AA430F9548E749E58">Recurso M5D-02</enlace>
-          </practica>
-          <seccion3 id="S3_CS_11_07_CO_AB65A64F88E349019AC951F10AEEF749">
-            <seccion3Titulo>Economía y política ambiental en Colombia</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_11_07_CO_img_17_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso170&amp;IdRecurso=RES-E38CD3D991974AABA0D6738B7F431704">Recurso F10B-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_07_CO_img_18_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso180&amp;IdRecurso=RES-8CA59E50908B429B864483FF29EA8CC5">Recurso M101A-04</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_07_CO_A776B4D420374148997B2739C6ECC29A">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_07_CO_img_19_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso190&amp;IdRecurso=RES-ED60886B6ED64B4EB304EFA783BD2E9E">Competencias: estudio del impacto de la economía en el medio</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_07_CO_img_20_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso200&amp;IdRecurso=RES-B2285D386A1C4F9DBDDC17360E03CDDB">Proyecto: estudio de un caso nocivo para el medio ambiente</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_11_07_CO_E4CD73399A264B679BEB5BCE050E6751">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso220&amp;IdRecurso=RES-C07C9C7D2F7A4F3F9641DEB6397413DE">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso230&amp;IdRecurso=RES-0CADCDAC5D594C8C86143698A60B4277">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>El medio ambiente: problemas y desafíos</libroTitulo>
+<seccion1 id="S1_CS_11_07_CO_5BDA5768B69B47349C09502B893FB794">
+<seccion1Titulo>Problemas ambientales del mundo</seccion1Titulo>
+<seccion1Texto>
+<p>En los últimos años ha tomado fuerza <negrita>el tema ambiental</negrita
+>, el <negrita>impacto que ha generado el sector industrial</negrita
+>, <negrita>el de extracción</negrita>, <negrita>el agroindustrial</negrita
+>, <negrita>el turístico</negrita> y, en general, el desarrollo económico
+sobre la Tierra. No es necesario ser un experto para percibir que
+algo en el ambiente no está bien: automóviles que pasan por nuestro
+lado y dejan su estela de humo negra, que en ocasiones nos asfixia;
+cada vez hay que recorrer más distancia para llegar a un bosque; el
+olor nauseabundo de los ríos que atraviesan nuestra ciudad, la sensación
+de sofoco y el calor inusual. Así pues, cada una de estas situaciones
+tiene una explicación en el <negrita>deterioro ambiental actual</negrita
+>.</p>
+<imagen src="CS_11_07_CO_IMG01_small.jpg">
+<p>El ser humano de la Antigüedad y algunas comunidades indígenas
+de la actualidad mantienen una relación mística con los animales,
+las plantas y el entorno; esto conlleva una relación de respeto y
+de considerarlos sagrados. Esta relación de alguna manera se ha tergiversado
+en el mundo moderno al interpretarla como adoración, pero son dos
+cosas distintas.</p>
+</imagen>
+<p>Entre las diferentes problemáticas que enfrenta el mundo en materia
+ambiental existen <negrita>dos desafíos</negrita> que involucran una
+necesidad de cambio de conciencia en el individuo, y que son imprescindibles
+en el mundo actual. <negrita>El primero</negrita> tiene que ver con <negrita
+>la forma como el ser humano se relaciona con las otras especies</negrita
+>; <negrita>el segundo</negrita>, <negrita>la exigencia</negrita> que
+está haciendo el medio ambiente sobre <negrita>la urgencia de transformar
+nuestros hábitos de consumo</negrita>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso010&amp;IdRecurso=RES-243367757CB84ED3B45B01F1720AD990"
+>Los impactos ambientales</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso020&amp;IdRecurso=RES-2320F984FCDF47B9A9FBD5AE7CD0FF19"
+>Reconoce las causas de la degradación del medio ambiente</enlace>
+</practica><seccion2
+id="S2_CS_11_07_CO_59DCA802F7164DC1AF36652D58FEAA5A">
+<seccion2Titulo>El ser humano frente a las otras especies</seccion2Titulo>
+<seccion2Texto>
+<p><negrita>Uno de los desafíos</negrita> que enfrenta <negrita>la
+problemática ambiental del mundo</negrita> está relacionado con la
+distancia que ha tomado el ser humano frente a las otras especies.
+¿Sabemos qué árboles o vegetación tiene el barrio, la calle o los
+alrededores de la casa, o qué pájaros o insectos viven cerca? Esta
+no es pregunta sobre sus nombres científicos o su clasificación dentro
+de las especies, sino que hace referencia a <negrita>saber qué comen</negrita
+>, <negrita>cuánto viven</negrita>, <negrita>qué condiciones climáticas
+necesitan</negrita>, <negrita>qué papel cumplen en el sistema que
+habitan</negrita> y <negrita>comparten</negrita> con nosotros esas
+comunidades de insectos, pájaros, árboles, plantas, flores, etc.</p>
+<imagen ampliable="no" src="CS_11_07_CO_IMG02_small.jpg">
+<p>En la urgencia de cuidado del medio ambiente es necesario establecer
+una relación de igualdad entre especies.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>La relación que establecemos con otras especies se ve limitada
+a la crianza de una mascota, la adopción de un árbol o la domesticación.
+No obstante, también es fundamental reconocer las distintas especies
+no solamente en el ámbito de beneficio hacia el ser humano, sino de
+lo que ellas mismas requieren para su existencia y del eslabón que
+representan en pequeños o grandes ecosistemas.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_07_CO_21C0513D55A647FB9F919E4B824A5DD3">
+<seccion2Titulo>El ser humano frente a lo que consume</seccion2Titulo>
+<seccion2Texto>
+<p>Además del descuido por reconocer con qué seres habitamos un territorio,
+también omitimos <negrita>indagar</negrita> de dónde provienen las
+cosas que usamos en nuestra vida diaria y qué sucede con ellas una
+vez las arrojamos a la basura. <negrita>Cada producto o servicio,
+ropa, electrodoméstico, celular, gasolina, servicio de internet</negrita
+>, entre otros, tiene un ciclo de producción y distribución para llegar
+a las manos del consumidor. Sin embargo, el ciclo no termina allí,
+continúa; pasando por el tiempo que se usa y luego se desecha hasta
+cuando desaparece del planeta, considerando que en muchos casos no
+se elimina totalmente.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso030&amp;IdRecurso=RES-11A42FA7C27342F6BCDB49230AE48A4C"
+>Los riesgos de origen humano</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso040&amp;IdRecurso=RES-BD14C5D37EC047D189440953913DCC56"
+>Identifica los riesgos de origen humano</enlace>
+</practica>
+<p>Muchos de los productos que usamos provienen de los <negrita>combustibles
+fósiles</negrita>, de la <negrita>tala de árboles</negrita>, del <negrita
+>sacrificio de animales</negrita> para extraer algunos de sus órganos,
+es decir, de <negrita>recursos naturales no renovables</negrita>.
+Las usamos durante algún tiempo y luego las desechamos. Pero ¿qué
+pasa después con estos desechos?</p>
+<p>Se genera una gran mezcla de residuos de plástico, vidrio, cartón,
+papel y desechos de comidas en un relleno sanitario, esto dificulta
+aún más que estos elementos desaparezcan de nuestras vidas. <negrita
+>La combinación de basura, metales pesados y desechos orgánicos e
+inorgánicos</negrita> genera unos líquidos llamados <negrita>lixiviados</negrita
+>, que alcanzan a filtrarse en la tierra y contaminan con plomo y
+mercurio las aguas subterráneas, llegando incluso hasta el agua que
+consumimos.</p>
+<imagen src="CS_11_07_CO_IMG04_small.jpg">
+<p>Los rellenos sanitarios no son una solución para la disposición
+de basuras, lo único que sucede es que no volvemos a ver la basura,
+pero aún queda allí. Son necesarias otras alternativas y estas tienen
+que ver con cambios en el sistema de consumo.</p>
+</imagen>
+<table border="1"><caption>Productos más consumidos en el mundo</caption>
+<colgroup><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Tipo de producto</negrita></td>
+<td align="center"><negrita>Duración en las manos del consumidor</negrita
+></td>
+<td align="center"><negrita>Desecho generado</negrita></td>
+</tr>
+<tr>
+<td>Gaseosa</td>
+<td>1 minuto a 12 horas</td>
+<td>Envases plásticos, latas.</td>
+</tr>
+<tr>
+<td>Celular</td>
+<td>2 años</td>
+<td>Piezas electrónicas y baterías </td>
+</tr>
+<tr>
+<td>Pasabocas</td>
+<td>1 minuto a 8 horas</td>
+<td>Bolsa plástica</td>
+</tr>
+<tr>
+<td>Cerveza </td>
+<td>1 minuto a 10 horas</td>
+<td>Envase de lata</td>
+</tr>
+<tr>
+<td>Crema dental</td>
+<td>8 días a 30 días promedio</td>
+<td>Cartón, plástico.</td>
+</tr>
+</tbody>
+</table>
+<p><negrita>Reconocer el ciclo de las cosas</negrita> nos conduce
+a saber más sobre los productos que compramos, indagar de dónde provienen
+y así tomar decisiones ambientales sobre la adquisición de productos
+y servicios, y en este mismo sentido revalorar la necesidad de consumir
+o de comprar. Cada habitante del planeta es responsable del calentamiento
+global, y cada uno deja una huella de carbono en la atmosfera, ya
+que está inmerso en el ciclo del producto o servicio de origen en
+combustibles fósiles, lo que <negrita>cada acción diaria lleva a la
+liberación de dióxido de carbono</negrita>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_11_07_CO_21C0513D55A647FB9F919E4B824A4EE2">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividad para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso050&amp;IdRecurso=RES-7E4EF8D1499240F7A29E94ED8EC11B39"
+>Refuerza tu aprendizaje: Problemas ambientales del mundo</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_11_07_CO_7B8C5F82EF534B0BA100A37287770CA0">
+<seccion1Titulo>Impacto del desarrollo industrial y tecnológico</seccion1Titulo>
+<seccion1Texto>
+<p>Debemos remontarnos a la <negrita>Revolución Industrial del siglo
+XVIII</negrita> para referirnos a la abrupta transformación que ha
+sufrido el medio ambiente como consecuencia del <negrita>cambio en
+las formas de producción</negrita>. Así pues, <negrita>la aparición
+de la sociedad de consumo</negrita> se debe considerar también como
+uno de los momentos de mayor impacto. Este es el momento en el cual
+se empieza a favorecer la industria, el comercio, la publicidad, la
+moda y, en general, <negrita>el crecimiento económico</negrita>, más
+que la protección de la tierra y la salud del ser humano.</p>
+<p>En esto tiene que ver la forma como fue concebida <negrita>la economía</negrita
+>. Empezó como una ciencia en el siglo XVIII con la circulación del
+libro “La riqueza de las naciones”, escrito por Adam Smith en 1776,
+cuya <negrita>teoría económica analizaba las ventajas de ciertas regiones
+si se lograba un aprovechamiento de la oferta natural</negrita>, que
+luego fue llamada explotación de los recursos naturales.</p>
+<p>Luego, en 1850 se da una Segunda Revolución Industrial, cuyo fenómeno
+más sobresaliente es el descubrimiento de la energía eléctrica, puesto
+que trajo consigo un ordenamiento diferente en la forma de producción,
+lo que generó mayor intervención entre productores y consumidores.</p>
+<p>A partir del siglo XVIII se comienza a ver el tema del desarrollo
+económico como imprescindible e imparable y separado de lo ambiental,
+y solo hasta mediados del siglo XX se visualiza lo limitado de los
+recursos naturales, entonces se integra  a la teoría económica el
+concepto de lo ambiental y sus límites.</p>
+<imagen src="CS_11_07_CO_IMG05_small.jpg">
+<p>En el siglo XXI se habla de una Tercera Revolución Industrial como
+respuesta a los impactos que el desarrollo económico y tecnológico
+ha generado en la Tierra, fundada en la obtención de energías completamente
+renovables y en los alcances de internet.</p>
+</imagen>
+<p>La figura de <negrita>sistemas de gestión ambiental</negrita> en
+las empresas e industrias comienza a contribuir con el medio ambiente,
+como una exigencia de <negrita>responsabilidad ambiental</negrita
+> que apenas se está construyendo.</p>
+<p>Si bien se ha <negrita>priorizado el manejo de algunos desechos</negrita
+>, aún no se ha hecho un exhaustivo control de estos, y en la mayoría
+de los casos se han determinado algunas medidas, como alargar la vida
+útil de los objetos, el uso de despiece y el reciclaje tecnológico. </p>
+<recuerda><recuerdaTexto>
+<p>El desarrollo industrial y tecnológico ha generado un impacto sobre
+el medio ambiente, ya que se mantiene sobre una lógica de mercado
+en la que es imprescindible “usar y desechar”, esto garantiza vender
+mucho. Frente a esta problemática se han generado normas para que
+la industria se haga cargo de los residuos, en la lógica de una responsabilidad
+extendida de los fabricantes y productores. Hoy se está trabajando
+en la consolidación de canales para devolver residuos de productos,
+en el intento de generar una “cadena de posconsumo”.</p>
+</recuerdaTexto></recuerda>
+<p><negrita>Otro impacto ambiental</negrita> de esta Tercera Revolución
+Industrial es <negrita>la extracción de las materias primas</negrita
+> necesarias para la fabricación de aparatos electrónicos, como los
+celulares, los computadores y los videojuegos; para ello se requieren
+ciertos minerales como el coltán y otros componentes que se extraen
+generalmente en regiones de África y América Latina, donde las condiciones
+sociales y de conflicto armado se agravan con la explotación minera.</p>
+<imagen src="CS_11_07_CO_IMG06_small.jpg">
+<p>Anualmente se votan toneladas de llantas en el mundo. Es un desecho
+muy contaminante, ya que es común usarlas en hogueras, obstruyendo
+el espacio público o como foco de acumulación de aguas que luego generan
+microorganismos peligrosos.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso090&amp;IdRecurso=RES-042ACC8FADDF4B4081390F2A71341CB4"
+>Distingue los efectos del turismo sobre la naturaleza</enlace>
+</practica>
+<p>Dentro de esta dinámica de las distintas revoluciones industriales
+que se han dado a lo largo de más de tres siglos, existen cuatro elementos
+que son relevantes para un análisis más profundo de la situación de
+emergencia entre desarrollo económico y cuidado ambiental, estos elementos
+se desarrollan a continuación.</p>
+<seccion2 id="S2_CS_11_07_CO_A3B7295FFE314262A997A1A368726557">
+<seccion2Titulo>Combustibles fósiles</seccion2Titulo>
+<seccion2Texto>
+<p><negrita>Durante el ciclo de producción</negrita> de cualquier
+producto o servicio <negrita>se requiere energía</negrita>, esta se
+consigue a través de <negrita>la combustión, fenómeno en el que una
+sustancia al contacto con el oxígeno se quema</negrita>. El hidrógeno
+y el carbono son las sustancias que arden con mayor facilidad y que
+están presentes en grandes cantidades en el petróleo, el carbón y
+el gas.</p>
+<p>Estos productos combustibles se han conformado durante millones
+de años en el subsuelo de la tierra gracias a la acumulación de moléculas
+de hidrógeno y carbono (hidrocarburos) de antiguos organismos vivos,
+vegetales y animales, que se fueron depositando y descomponiendo entre
+capas de sedimentos, de allí el término de <cursiva>fósiles</cursiva
+>. Por esta misma composición su combustión genera dióxido de carbono,
+que luego se acumula en la atmósfera de la Tierra y genera un efecto
+de calentamiento global: el efecto invernadero.</p>
+<recuerda><recuerdaTexto>
+<p>En el mundo contemporáneo los términos de bienestar y calidad de
+vida parecen ser sinónimos de uso de energía no renovable. Bajo esta
+proposición, se mantiene un complejo sistema económico basado en la
+industria de combustibles fósiles fundado en la extracción, transformación
+y venta de estos recursos finitos. </p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Soluciones
+globales a la problemática ambiental</destacadoTitulo><destacadoTexto>
+<p>Frente al tema de calentamiento global se ha discutido bastante
+sobre sus causas; algunos investigadores han analizado y considerado
+la radiación solar, pero lo cierto es que ha aumentado la temperatura
+de manera considerable desde mediados del siglo pasado con la industrialización.
+Esto significa que el cambio climático no se arregla localmente, sino
+que requiere una solución mundial.</p>
+</destacadoTexto></destacado>
+<p>Estos combustibles fósiles han tardado miles de años en solidificarse
+en el caso del <negrita>carbón</negrita>, y hacerse líquido en el
+caso del petróleo y el gas, por ello se consideran recursos no renovables,
+porque se agotan y no es posible volver a recuperarlos. Un gran porcentaje
+de las cosas que usamos provienen de estos combustibles fósiles.</p>
+<imagen src="CS_11_07_CO_IMG07_small.jpg">
+<p>Aunque la industria del petróleo contribuye al funcionamiento de
+la vida moderna, es necesario reflexionar también sobre su impacto
+irreversible en el medio ambiente, puesto que ha predominado más el
+tema de beneficio del negocio que la reflexión sobre su impacto ambiental.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_11_07_CO_A3B7295FFE314262A997A1A368725446">
+<seccion2Titulo>Crisis del agua</seccion2Titulo>
+<seccion2Texto>
+<p>Hay una preocupación global por los problemas mundiales del agua,
+y en este sentido se creó en 1996 una red internacional de instituciones
+y ciudadanos de diversos sectores llamada <negrita>Consejo Mundial
+del Agua</negrita>, que viene organizando desde 1997 el Foro Mundial
+del Agua. También la Organización de las Naciones Unidas (ONU) trabaja
+en la emergencia del sistema mundial de abastecimiento de agua y la
+acelerada contaminación de las fuentes hídricas.</p>
+<p>Algunos analistas aseguran que <negrita>hay una crisis mundial
+del agua y sostienen que el problema del agua no es solamente de cantidad
+sino de calidad</negrita>. Un alto porcentaje de nuestras fuentes
+hídricas están contaminadas, y a pesar de los esfuerzos de algunos
+sectores de la sociedad civil e instituciones, aún no hay una actitud
+y comportamiento plenamente consciente. Es más, hay una aceptación
+social de su contaminación al atender las necesidades de la industria.</p>
+<imagen src="CS_11_07_CO_IMG08_small.jpg">
+<p>La crisis mundial del agua ha conducido a la creación de conceptos
+como la “huella hídrica”, que intenta medir el impacto que tiene la
+industria y el uso que hacen los seres humanos de este recurso.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso100&amp;IdRecurso=RES-859A2910FA3D4D199AAACAF563EDEFCD"
+>Conoce problemas por la escasez de agua</enlace>
+</practica>
+<imagen src="CS_11_07_CO_IMG09_small.jpg">
+<p>El ciclo del agua nos aporta el conocimiento para su protección,
+nos indica los factores asociados y los riesgos que trae el impacto
+de la contaminación sobre este recurso.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Colombia es uno de los países con mayor cantidad de fuentes hídricas,
+donde sobresale el río Magdalena que atraviesa gran parte del país
+de sur a norte. También cuenta con el páramo más grande del mundo,
+el de Sumapaz”, una gran fábrica de agua. Sin embargo, debido al cambio
+climático y al uso de energías no renovables por parte de algunas
+industrias, estos recursos naturales se encuentran en riesgo. En la
+actualidad, en La Guajira hay una gran sequía que ha ocasionado el
+fin de diversas fuentes hídricas, lo que tiene nefastos efectos sobre
+su población.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_07_CO_A3B7295FFE314262A997A1A368726557">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividad para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso110&amp;IdRecurso=RES-49BD1EF95F564101843585686FC02717"
+>Refuerza tu aprendizaje: El impacto del desarrollo industrial y tecnológico</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_11_07_CO_39C654CB0D98472FB796383FC7338345">
+<seccion1Titulo>Protección del medio ambiente</seccion1Titulo>
+<seccion1Texto>
+<p>En la década de los sesenta se generaron varios movimientos sociales
+que tuvieron un protagonismo mayor luego de los acontecimientos de <negrita
+>mayo del 68</negrita>: la cultura <cursiva>hippie</cursiva>, los
+ecologistas, los movimientos indígenas y estudiantiles, las corrientes
+contrarias a la guerra de Vietnam, el sector obrero, entre otros,
+se convirtieron en los precursores de este llamado de atención al
+mundo sobre el impacto irreversible que sufría el entorno ambiental
+a causa del capitalismo desenfrenado.</p>
+<p>En varias regiones y ciudades del mundo se presentaban procesos
+de urbanización masiva y auge de los barrios de invasión, industrialización
+del sector agrícola y el modelo de sociedad de consumo.</p>
+<p>En este escenario, estos movimientos sociales generaron una reflexión
+que luego se manifestó y se recogió en los acuerdos que en los años
+siguientes se firmaron para la protección del medio ambiente. Es decir,
+que <negrita>todos los acuerdos, convenios y tratados que se han firmado
+entre los diferentes países por un control de los efectos devastadores
+del desarrollo, la economía de mercado y la sociedad de consumo sobre
+la naturaleza</negrita>, son el resultado de estas luchas sociales,
+cuyas ideas influyeron en decisiones políticas de gran magnitud.</p>
+<p>Así mismo, son estos movimientos sociales los que han incentivado
+algunos de los cambios en la obtención de energía diferente a la de
+los combustibles fósiles.</p>
+<imagen src="CS_11_07_CO_IMG10_small.jpg">
+<p>Los movimientos sociales han generado cambios significativos en
+la sociedad, pues gracias a la participación activa de la ciudadanía
+han surgido iniciativas para el cuidado ambiental.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Los grupos ecologistas han tenido dos escenarios fundamentales
+de transformación; por un lado, han logrado incidir en políticas públicas
+a través de su vinculación con algunos partidos políticos. Por otro
+lado, han influido en los valores de los ciudadanos para que tomen
+conciencia del cuidado del medio ambiente.</p>
+</recuerdaTexto></recuerda><seccion2
+id="S2_CS_11_07_CO_0EC78E2B7FD34C4C88A70A8C373C0554">
+<seccion2Titulo>La sostenibilidad y la Cumbre de Río de 1992</seccion2Titulo>
+<seccion2Texto>
+<p>En esta Cumbre se implementa el concepto de <negrita>sostenibilidad</negrita
+> para referirse a <negrita>la obligación de considerar en cualquier
+actividad del ser humano un equilibrio entre desarrollo económico,
+cuidado del medio ambiente y bienestar social</negrita>, que permita
+la satisfacción de las necesidades humanas del momento sin poner en
+riesgo los recursos para las futuras generaciones. Esto implica que
+es necesario el uso de recursos renovables de manera consciente y
+responsable para su conservación y renovación. El concepto de sostenibilidad
+surge como <negrita>alternativa a la idea generalizada de que lo fundamental
+era el desarrollo económico sin considerar el impacto que esto generaba
+y lo agotable de los recursos</negrita>.</p>
+<p>El concepto de sostenibilidad toma fuerza en la Cumbre de Río celebrada
+en 1992; sin embargo, es el resultado de procesos sociales importantes
+que aún mantienen presión sobre las decisiones políticas y económicas
+que afectan el equilibrio medioambiental.</p>
+<p>Uno de los problemas más urgentes contemplados en esta Cumbre es
+el tema del cambio climático. Se considera que el planeta está llegando
+a su límite y la incertidumbre sobre los cambios y efectos futuros
+es altísima.</p>
+<p>Para dar solución a este panorama de incertidumbre se considera
+necesario que el ciudadano común comience a reflexionar sobre lo que
+hasta ahora es estimado como bienestar y desarrollo; esto implica,
+entre otras cosas, que sea consciente de su participación y responsabilidad
+en la generación de residuos.</p>
+<p>El balance general de esta Cumbre, y sus repercusiones hasta el
+día de hoy, muestra que los países no toman medidas eficaces y necesarias
+para comprometer a las grandes empresas a controlar la emisión de
+gases de efecto invernadero. Sin embargo, en otros escenarios se están
+promoviendo prácticas que intentan <negrita>reducir la huella ambiental
+que la vida moderna y las actividades económicas están generando en
+el medio ambiente</negrita>; en este sentido, se habla hoy de modelos
+de desarrollo sustentable.</p>
+<p>En el campo particular de la producción agrícola y de alimentos,
+algunos movimientos populares que surgieron hace varias décadas han
+tomado una fuerza inusitada en los últimos años y hoy son ejemplo
+de modelos de desarrollo sustentable. Las estrategias propuestas por
+estos son opuestas al modelo de “Revolución verde” que se dio en buena
+parte del mundo después de la Segunda Guerra Mundial y que buscaba
+esencialmente un aceleramiento de la economía, sin razonar sobre los
+efectos que tendría a mediano y largo plazo el sistema implementado.</p>
+<table border="1"><caption>Lo que trajo consigo la mal llamada “Revolución
+verde”</caption><colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Estrategia</negrita></td>
+<td align="center"><negrita>Efectos</negrita> </td>
+</tr>
+<tr>
+<td>Uso indiscriminado de sustancias químicas (agroquímicos: fertilizantes,
+insecticidas y plaguicidas) en los cultivos para el control de plagas
+y el aumento de la productividad.</td>
+<td>- Desequilibrio en los suelos por el uso exagerado de nitrógenos.<br
+/>- Desaparición de especies de insectos que eran agentes polinizadores.<br
+/>- Presencia de plaguicidas en los alimentos que el organismo humano
+no alcanza a procesar.<br/>- Alteración del equilibrio de los diferentes
+ecosistemas.</td>
+</tr>
+<tr>
+<td>Implementación de monocultivos</td>
+<td>- Disminución en la diversidad de semillas y especies de plantas.<br
+/>- Modificación de los hábitos alimentarios tradicionales y locales.</td>
+</tr>
+<tr>
+<td>Desarrollo de transgénicos</td>
+<td>- Monopolio de semillas en manos de unas pocas multinacionales
+de alimentos.</td>
+</tr>
+</tbody>
+</table>
+<imagen src="CS_11_07_CO_IMG11_small.jpg">
+<p>En Colombia, por ejemplo, está la experiencia del sector cafetero,
+donde en algunas regiones se están investigando cafés especiales y
+variedades orgánicas de este producto, para reducir el uso de variedades
+industriales, como el caturra y variedad Colombia, que en su momento
+fueron muy productivos para el país, pero que requerían una cantidad
+considerable de agroquímicos.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso120&amp;IdRecurso=RES-F64272D6F6E44366903A7B130D1B8E23"
+>Comprende qué podemos hacer por el desarrollo sostenible</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_07_CO_399F1036228D41099B114FA2B49B0865">
+<seccion2Titulo>Convenios internacionales para la protección del medio
+ambiente</seccion2Titulo>
+<seccion2Texto>
+<p>Los convenios, tratados o acuerdos se suscriben generalmente entre
+Estados y también entre organizaciones internacionales. <negrita>Estos
+se realizan a través de la firma de un documento escrito después de
+una negociación entre las partes</negrita>. Los Estados firmantes
+se comprometen a presentar informes periódicos sobre la situación
+de aplicación de las medidas que el tratado o convenio establece a
+nivel nacional. El MEA es el órgano encargado de vigilar la aplicación
+de los Tratados en el tema del Medio Ambiente de las Naciones Unidas,
+y el PNUMA o Programa de Naciones Unidas para el Medio Ambiente es
+el órgano defensor, facilitador y educador para el desarrollo sostenible.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso130&amp;IdRecurso=RES-02D588884BEB4BFD82A5B91C43458654"
+>Convenios internacionales para proteger el medio ambiente</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_07_CO_AAE94B355DCD40BB8E1F1EEE1DB6AC69">
+<seccion2Titulo>Energías limpias</seccion2Titulo>
+<seccion2Texto>
+<p>Se habla de <negrita>energías limpias</negrita> para referirse
+a la <negrita>energía que tiene la característica de no contaminar
+con residuos, en oposición a las energías generadas a partir de combustibles
+fósiles o la energía nuclear, que liberan residuos contaminantes</negrita
+>. También reciben el nombre de energías renovables, sostenibles y
+alternativas.</p>
+<p>El auge por la investigación y uso de energías limpias responde
+a varias necesidades, una de ellas es el agotamiento del petróleo,
+el carbón y el gas. Se considera a partir del análisis del consumo
+actual de energía, que las reservas alcanzarían solamente para unas
+décadas más. Por otro lado, está el tema de <negrita>contaminación
+que implica el uso de estos combustibles fósiles que generan grandes
+cantidades de dióxido de carbono, causante del calentamiento global</negrita
+>.</p>
+<p>Otro factor importante para este auge, es el análisis de los efectos
+devastadores que se han presentado en plantas nucleares y la contaminación
+con petróleo en diferentes accidentes.</p>
+<p>Para su desarrollo es fundamental descentralizar la generación
+de energía y reducir el esquema de grandes centrales que distribuyen
+a diferentes regiones y que priorizan el sector productivo. Es necesaria
+la generación de proyectos a nivel local y que se investigue y prevalezca
+el tipo de energía limpia de acuerdo con las características geográficas.</p>
+<imagen src="CS_11_07_CO_IMG12_small.jpg">
+<p>La energía limpia está en pleno desarrollo y utiliza fuentes naturales
+como el Sol, el viento y el agua. Realmente no son nuevas las investigaciones
+en este campo, tienen más de un siglo, pero no han logrado posicionarse
+en gran medida porque hasta hace poco eran más importantes los intereses
+económicos particulares que basaban su riqueza en la extracción de
+combustibles fósiles. En teoría, son fuentes de energía más económicas;
+sin embargo, el uso de ciertas tecnologías puede aumentar sus costos.
+Pero esta podría contribuir a una economía más sólida, no dependiente
+de las oscilaciones del petróleo.</p>
+</imagen>
+<table border="1"><caption>Países líderes en energías sostenibles</caption>
+<colgroup><col/><col/><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>País</negrita></td>
+<td align="center"><negrita>Hidroeléctrica</negrita></td>
+<td align="center"><negrita>Nuclear</negrita></td>
+<td align="center"><negrita>Otras energías renovables</negrita></td>
+<td align="center"><negrita>Térmica convencional (uso de combustibles
+fósiles)</negrita></td>
+</tr>
+<tr>
+<td>Suiza</td>
+<td>55,5 %</td>
+<td>38,9 %</td>
+<td>4 %</td>
+<td>1,6 %</td>
+</tr>
+<tr>
+<td>Dinamarca</td>
+<td>0,1 %</td>
+<td></td>
+<td>35,3 %</td>
+<td>64,7 %</td>
+</tr>
+<tr>
+<td>Suecia</td>
+<td>45,5 % </td>
+<td>38 %</td>
+<td>11,7 %</td>
+<td>4,8 %</td>
+</tr>
+<tr>
+<td>Austria</td>
+<td>57,4 % </td>
+<td></td>
+<td>10,9 %</td>
+<td>31,7 %</td>
+</tr>
+<tr>
+<td>Reino Unido</td>
+<td>1 % </td>
+<td>15,8 %</td>
+<td>6,7 %</td>
+<td>76,5 %</td>
+</tr>
+<tr>
+<td>Canadá</td>
+<td>58,9 % </td>
+<td>14,6 %</td>
+<td>3,1 %</td>
+<td>23,4 %</td>
+</tr>
+<tr>
+<td>Noruega</td>
+<td>95 % </td>
+<td></td>
+<td>1,1 %</td>
+<td>3,9 %</td>
+</tr>
+<tr>
+<td>Nueva Zelanda</td>
+<td>55, 9 %</td>
+<td></td>
+<td>18,6 %</td>
+<td>25,6 % </td>
+</tr>
+<tr>
+<td>España</td>
+<td>14,5 % </td>
+<td>20,5 %</td>
+<td>19,4 %	</td>
+<td>45,6 % </td>
+</tr>
+<tr>
+<td>Francia</td>
+<td>11,4 % </td>
+<td>75,5 %</td>
+<td>3,3 %</td>
+<td>9,7 %</td>
+</tr>
+</tbody>
+</table>
+<p>Cada vez más los progresos tecnológicos demuestran que la generación
+de energía limpia adquiere cada vez mayor protagonismo y es un desafío
+para las siguientes décadas. Las opciones con que cuenta la población
+mundial en la generación de energía limpia son enormes; lo fundamental
+es hacer unos ajustes a nivel social, político y económico para que
+sea una realidad. A continuación veremos las potencialidades de cada
+una de ellas.</p>
+<seccion3 id="S3_CS_11_07_CO_EAC8F355D755405E93D60856D2E559E3">
+<seccion3Titulo>Energía eólica</seccion3Titulo>
+<seccion3Texto>
+<p>Para definir la energía eólica es necesario comprender lo que son
+los vientos, ya que estos son resultado de la transformación de la
+energía solar. <negrita>La energía eólica es de las más antiguas usadas
+por la humanidad</negrita>. Fue empleada en los molinos de viento
+tanto en la molienda de cereales para obtener harina, como para el
+bombeo de agua y la navegación. A partir de allí se han dado varios
+avances y desarrollos tecnológicos que han evolucionado esta forma
+de generar energía.</p>
+<p>Una de las mayores dificultades que tuvo este tipo de energía era
+su alto costo, pero este se ha reducido con el desarrollo de nuevos
+aerogeneradores. Otro punto para considerar es que si se incluye el
+costo ambiental dentro del sistema de producción de la energía a partir
+de combustibles fósiles, esta va a tener un costo menor.</p>
+<p>Alemania y Dinamarca son hoy los mayores investigadores en el campo
+de la energía eólica, a través del Instituto Alemán de la Energía
+Eólica (DEWI) y el Instituto de Investigación Danés (Risø). Sin embargo,
+los tres países con mayor energía eólica instalada del mundo son Alemania,
+Estados Unidos y España.</p>
+<imagen src="CS_11_07_CO_IMG13_small.jpg">
+<p>La energía eólica tiene un gran potencial para convertir grandes
+regiones en productoras de energía, sobre todo vastas zonas donde
+la presencia de vientos es permanente.</p>
+</imagen>
+<destacado><destacadoTitulo>Cronología de los pioneros de la energía
+eólica</destacadoTitulo><destacadoTexto>
+<listaSinNumerar>
+<listaElemento>Charles F. Brush (1849-1929), uno de los fundadores
+de la compañía eléctrica americana, fue el creador de las primeras
+máquinas generadoras de electricidad.</listaElemento>
+<listaElemento>Poul la Cour (1846-1908) es considerado el padre de
+la energía eólica moderna por la creación de los primeros aerogeneradores
+comerciales instalados después de la Primera Guerra Mundial.</listaElemento>
+<listaElemento>Albert Betz (1885-1968), destacado por desarrollar
+la teoría acerca de la estructuración de las alas de los aerogeneradores.</listaElemento>
+<listaElemento>Palmer Cosslett Putnam (1900-1984) diseñó el aerogenerador
+Smith Putman en 1941.</listaElemento>
+<listaElemento>Johannes Juul (1887-1969) desarrolló el antecesor de
+los aerogeneradores actuales.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CS_11_07_CO_EAC8F355D755405E93D60856D2E580A4">
+<seccion3Titulo>Energía solar</seccion3Titulo>
+<seccion3Texto>
+<p><negrita>La energía solar se produce a partir de los rayos solares</negrita
+>; esta proviene del Sol, llega a la Tierra a través de radiación
+electromagnética: luz, calor y rayos ultravioleta, que se pueden transformar
+en energía eléctrica.</p>
+<p>En Europa, España es el país líder en tecnología solar. Su experiencia
+lo ha llevado a un gran desarrollo de centrales fotovoltaicas que
+exporta; sin embargo, en Alemania se presenta un creciente uso de
+esta energía. En América Latina, Chile ha desarrollado diversos avances
+en este tipo de energía.</p>
+<table border="1"><caption>Ventaja y desventajas de la energía solar</caption>
+<colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Ventajas</negrita></td>
+<td align="center"><negrita>Desventajas</negrita></td>
+</tr>
+<tr>
+<td>Es adecuada para zonas rurales donde se dificulta la llegada del
+tendido eléctrico convencional y esto la hace demasiado costosa.</td>
+<td>Las fluctuaciones en la radiación solar, dependiendo de la estación
+del año y la zona de ubicación.</td>
+</tr>
+<tr>
+<td>El único costo es la inversión inicial de la infraestructura.</td>
+<td>La inversión económica inicial es alta para algunos sectores de
+la población.</td>
+</tr>
+<tr>
+<td>Puede instalarse en tejados, no necesita espacios adicionales.</td>
+<td>Si se requiere para proveer de energía a una considerable cantidad
+de población es necesario contar con grandes extensiones de espacio.</td>
+</tr>
+<tr>
+<td>Es un sector que genera empleo en distintos campos: producción
+de paneles, instalación y mantenimiento.</td>
+<td>No existe una política de energía solar.</td>
+</tr>
+<tr>
+<td>No contamina.</td>
+<td></td>
+</tr>
+<tr>
+<td>El sistema es de fácil mantenimiento y es una fuente inagotable
+de energía.</td>
+<td></td>
+</tr>
+<tr>
+<td>Ahorro de dinero, ya que no requiere combustible para su funcionamiento.</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Se requiere, en general, mayor desarrollo de tecnología de captación,
+acumulación y distribución de la energía solar. Pero en los últimos
+años se viene trabajando desde la nanotecnología para hacer las células
+fotovoltaicas de los paneles solares más eficientes en la captación
+de ondas de la energía solar.</p>
+<imagen src="CS_11_07_CO_IMG14_small.jpg">
+<p>La energía solar es potencialmente útil en los hogares, industria
+y en la generación de energía eléctrica para su distribución a gran
+escala.</p>
+</imagen>
+<p>La energía solar es una realidad ya en algunas regiones del mundo
+y va en continuo crecimiento, pues gracias a la investigación y desarrollo
+de tecnología ha logrado niveles de eficiencia y costos moderados,
+a través de políticas internacionales que regulan su funcionamiento.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso140&amp;IdRecurso=RES-10D0F62BD8AD47A38D4110405E441DCC"
+>Conoce acciones para la protección del medio ambiente</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_11_07_CO_EAC8F355D755405E93D60856D2E558E3">
+<seccion2Titulo>El papel de las ciudades</seccion2Titulo>
+<seccion2Texto>
+<p>Las ciudades son un escenario fundamental para la transformación
+de la realidad ambiental actual, ya que <negrita>concentran una mayor
+demanda de servicios y productos, lo que significa mayor consumo de
+energía y por ello mismo son las que están produciendo mayor cantidad
+de emisión de gases</negrita>. </p>
+<imagen src="CS_11_07_CO_IMG15_small.jpg">
+<p>Es urgente una transformación de las ciudades, dado que deben pasar
+de consumidoras a productoras de energías limpias. Algunos expertos
+consideran, por ejemplo, la posibilidad de convertir los edificios
+y estructuras urbanas en productoras de energía con la tecnología
+existente, con la utilización de biomasa o con células fotovoltaicas
+para aprovechar la energía solar térmica.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>El escenario más propicio para la transformación de las ciudades
+es comenzar a verla, planificarla y considerarla dentro de una región.
+En el caso de Bogotá, por ejemplo, uno de los grandes desafíos para
+lograr cambios ambientales significativos, está en considerar la ciudad
+dentro de la región, y su relación con los sistemas estratégicos,
+como los tres páramos que la circundan: Chingaza, Sumapaz y Guerrero.</p>
+</recuerdaTexto></recuerda>
+<p>Esta nueva dimensión impacta al ciudadano, quien pasa de ser habitante
+de una ciudad a sentirse en un contexto más amplio y que implica mayor
+responsabilidad sobre su cuidado.</p>
+<p>Pero comenzar a estructurar la ciudad-región se requiere una nueva
+configuración de los territorios y pensar en la ciudad articulada
+con su entorno y la responsabilidad que esta tiene con el detrimento
+o conservación de los ecosistemas que están a su alrededor y dentro
+de ella; para esto es necesario considerar dentro de la planificación
+de su urbanización los impactos que puede generar y crear mecanismos
+de control.</p>
+<p>En conclusión, <negrita>el rediseño de ciudades podría conducir
+a la eficiencia energética</negrita>, contribuyendo a la construcción
+de circuitos adecuados para el aprovechamiento de la energía. Es urgente
+una revisión de los planes de ordenamiento territorial que tengan
+en cuenta el sistema hídrico, pero también es importante cambiar estilos
+de vida.</p>
+<imagen src="CS_11_07_CO_IMG16_small.jpg">
+<p>Las ciudades deben ser imaginadas y luego diseñadas o reconstruidas
+con los ríos que la atraviesan, los humedales y todo el sistema hídrico.
+El agua tiene un color, sonido y olor que le da estética a las ciudades,
+y para ello es necesario descontaminar los ríos.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Es posible la descontaminación de los ríos en las grandes ciudades.
+Desde 1990 se viene trabajando en algunos países de Europa para descontaminar
+los ríos que atraviesan las ciudades; por ejemplo, en el río Sieg
+en la ciudad de Siegen, Alemania, que lleva su caudal río Rin, ya
+se pueden encontrar hoy en día peces como el salmón.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_07_CO_EAC8F355D755405E93D60856D2E599B7">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividad para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso150&amp;IdRecurso=RES-5747A0583C594ED7955A2BBB947BE3FA"
+>Refuerza tu aprendizaje: La protección del medio ambiente</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_11_07_CO_93D38DB49C32421381E98385A262C07F">
+<seccion1Titulo>La situación ambiental en Colombia</seccion1Titulo>
+<seccion1Texto>
+<p>Es común escuchar la expresión “Colombia es un país megabiodiverso”,
+y así es, a pesar de los riesgos en que se encuentran algunos de sus
+ecosistemas. Es una región privilegiada por la diversidad de especies
+que la habitan, plantas y líquenes, fauna, minerales y la variedad
+de pisos bioclimáticos. Sin embargo, muchos de estos ecosistemas han
+recibido un fuerte impacto por la contaminación y la explotación de
+recursos naturales por parte de las industrias.</p>
+<table border="1"><caption>Impactos sobre los ecosistemas en Colombia</caption>
+<colgroup><col width="25*"/><col width="74*"/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Ecosistema</negrita></td>
+<td align="center"><negrita>Impacto</negrita></td>
+</tr>
+<tr>
+<td><negrita>Bosque Andino</negrita></td>
+<td>Han sido impactados para el uso de la agricultura y la ganadería.
+En los últimos años los bosques que quedaban desaparecieron para ser
+reemplazados por invernaderos para cultivos de flores.</td>
+</tr>
+<tr>
+<td><negrita>Bosque Altoandino</negrita></td>
+<td>Ha sido destruido en su mayor parte para ser usado en pastoreo
+de ganado vacuno y ovino y cultivos de papa.</td>
+</tr>
+<tr>
+<td><negrita>Subpáramo</negrita></td>
+<td>Ha sido impactado a causa de proyectos mineros energéticos y el
+cambio climático.</td>
+</tr>
+<tr>
+<td><negrita>Páramos</negrita></td>
+<td>Están en riesgo a causa de la explotación minera y la quema de
+extensiones para adecuarlas a la ganadería.</td>
+</tr>
+<tr>
+<td><negrita>Ríos y humedales de montaña</negrita></td>
+<td>Contaminados por las actividades antrópicas; esto ha ocasionado
+pérdida de oxígeno en su interior, lo que causa la desaparición de
+muchas especies de fauna y flora.</td>
+</tr>
+<tr>
+<td><negrita>Glaciares</negrita></td>
+<td>Están en riesgo a causa del calentamiento global y el volcanismo. </td>
+</tr>
+<tr>
+<td><negrita>Manglares</negrita></td>
+<td>Han sido impactados por la explotación de empresas madereras o
+papeleras, y a través de la instalación de industrias camaronera y
+de langostinos, y la contaminación generada en las aguas por el uso
+de fertilizantes, plaguicidas y antibióticos. </td>
+</tr>
+<tr>
+<td><negrita>Arrecifes de coral</negrita></td>
+<td>Están en peligro debido al impacto que pueden tener algunas formas
+de pesca, el turismo desorganizado y el calentamiento global que ha
+generado el blanqueamiento y la disminución de los corales. </td>
+</tr>
+<tr>
+<td><negrita>Estuarios</negrita></td>
+<td>Han sido impactados a causa de la construcción de puertos que
+han contaminado el agua y el suelo.</td>
+</tr>
+</tbody>
+</table>
+<imagen src="CS_11_07_CO_IMG17_small.jpg">
+<p>Un territorio como Colombia, con una diversidad tan amplia, requiere
+unas políticas y estrategias públicas y privadas para contener el
+conjunto de situaciones que pueden impactar el medio ambiente. Se
+debe considerar el papel fundamental de las estrategias de conservación
+de las comunidades indígenas.</p>
+</imagen>
+<p>Colombia ha hecho un esfuerzo importante en temas de conservación,
+pues ha declarado más de 50 parques naturales, aunque dentro de las
+zonas de conservación o reserva ambiental se le ha dado prioridad
+a los ecosistemas estratégicos, como páramos, humedales, glaciares
+y manglares, quedando por fuera de otros ecosistemas que a su vez
+posibilitan la existencia de estos parques. Este mecanismo puede llevar
+al detrimento biodiverso del país.</p>
+<seccion2 id="S2_CS_11_07_CO_EAC8F355D755405E93D60856D2E547D2">
+<seccion2Titulo>Política pública ambiental en Colombia</seccion2Titulo>
+<seccion2Texto>
+<p>La política pública ambiental del país es muy reciente, pues esta
+comienza a ser importante cuando se reconoce una <negrita>pérdida
+de recursos y de hábitat naturales en el territorio</negrita>. Dio
+su primer paso con la <negrita>Constitución de 1991</negrita> y se
+consolidó con la Ley 99 de 1993. En correspondencia con los lineamientos
+de la Cumbre de Río de 1992 se crea el Ministerio del Medio Ambiente,
+el SINA y se reorganiza el sector público encargado de la gestión
+y conservación de los recursos naturales renovables. Junto con la
+creación del Ministerio se conformaron corporaciones autónomas y los
+lineamientos para que las distintas alcaldías gestionen el tema ambiental.</p>
+<p>En el siguiente cuadro podemos observar algunos de los organismos
+que han sido creados desde una política pública para la conservación:</p>
+<table border="1"><colgroup><col width="25*"/><col width="74*"/>
+</colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Institución u organismo</negrita></td>
+<td align="center"><negrita>Funciones</negrita> </td>
+</tr>
+<tr>
+<td><negrita>Ideam</negrita> </td>
+<td>El Ideam fue creado con la Ley 99 de 1993; es una institución
+pública de apoyo técnico y científico al Sistema Nacional Ambiental.<br
+/>Produce información sobre el estado y las dinámicas de los recursos
+naturales y del medio ambiente, para facilitar la definición, ajustes
+y toma de decisiones en políticas ambientales por parte del sector
+público, privado y la ciudadanía en general. </td>
+</tr>
+<tr>
+<td><negrita>Ministerio de Ambiente y Desarrollo Sostenible (MADS) </negrita
+></td>
+<td>Dirigente de la gestión del ambiente y de los recursos naturales
+renovables, se encarga de orientar y regular el ordenamiento ambiental
+del territorio y de definir las políticas y regulaciones para la recuperación,
+conservación, protección, ordenamiento, manejo, uso y aprovechamiento
+sostenible de los recursos naturales renovables y del ambiente de
+la nación, a fin de asegurar el desarrollo sostenible. (Dec. 3570
+de 2011, Art.1).</td>
+</tr>
+<tr>
+<td><negrita>Parques Nacionales Naturales de Colombia</negrita></td>
+<td>Es un organismo colombiano, sin personería jurídica, con autonomía
+administrativa y financiera. Es el encargado de la administración
+y manejo del Sistema de Parques Nacionales Naturales y la coordinación
+del Sistema Nacional de Áreas Protegidas.</td>
+</tr>
+<tr>
+<td><negrita>Corporaciones Autónomas Regionales y de Desarrollo Sostenible
+- CAR</negrita></td>
+<td>Son entidades públicas regionales que integran varios territorios
+como partes de una unidad, ya sea un ecosistema, una zona biogeográfica
+o hidrogeográfica. Administra el medio ambiente y los recursos naturales
+renovables y promueve el desarrollo sostenible, de acuerdo con las
+políticas del Ministerio de Ambiente y Desarrollo Sostenible.</td>
+</tr>
+<tr>
+<td><negrita>Sistema de Información Ambiental de Colombia (SIAC)</negrita
+></td>
+<td>Está integrado por actores, políticas, procesos y tecnologías
+implicados en la gestión de información ambiental del país.</td>
+</tr>
+<tr>
+<td><negrita>Fondo Patrimonio Natural</negrita></td>
+<td>Fue creado en el 2005. Es un fondo resultado de una alianza entre
+el sector público y el sector privado, que invierte estratégicamente
+en la conservación de las áreas naturales del país.</td>
+</tr>
+</tbody>
+</table>
+<imagen src="CS_11_07_CO_IMG18_small.jpg">
+<p>Falta pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Las políticas públicas ambientales pueden tener diferentes objetivos,
+como proteger un ecosistema específico, fortalecer las instituciones
+u organismos que forman parte del sistema de protección ambiental,
+la coordinación entre las distintas instituciones a nivel regional
+o local, y estimular nuevos procesos y tecnologías más amigables con
+el ambiente, entre otros.</p>
+</recuerdaTexto></recuerda>
+<p>En el contexto actual, la política ambiental colombiana ha desarrollado
+mecanismos que en algunos casos son la respuesta al compromiso mundial
+para la reducción de emisión de dióxido de carbono.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso160&amp;IdRecurso=RES-4D17617B210D4A7AA430F9548E749E58"
+>Conoce la política ambiental en Colombia</enlace>
+</practica><seccion3
+id="S3_CS_11_07_CO_AB65A64F88E349019AC951F10AEEF749">
+<seccion3Titulo>Uso de energías limpias en Colombia</seccion3Titulo>
+<seccion3Texto>
+<p>La situación de Colombia en términos de uso de energías limpias
+está muy avanzada en el cumplimiento de los protocolos de Kioto, pues
+como uno de los países más limpios, la huella de carbono es baja comparada
+con otras naciones.</p>
+<recuerda><recuerdaTexto>
+<p>La huella de carbono es el impacto de los gases de efecto invernadero
+(GEI) producto de la acción de los seres humanos sobre la Tierra.
+Ya sea por procesos industriales, comercialización, la vida diaria,
+los hábitos de consumo, etc.</p>
+</recuerdaTexto></recuerda>
+<p>La producción de electricidad se hace con un sistema hidráulico,
+la termoeléctrica se hace con gas, que es un combustible líquido que
+emite poco dióxido de carbono. Colombia, al adoptar el gas, entró
+a un proceso al tiempo que aumentó la eficiencia de las centrales
+hidroeléctricas. Sin embargo, es necesaria la ampliación de la oferta
+de generación energética, ya que la construcción de hidroeléctricas
+en muchos casos requiere desplazamiento de comunidades, pérdida de
+bosque y deterioro del ambiente en general.</p>
+<p>El país cuenta con un gran nivel tecnológico para trabajar más
+a fondo la utilización de energías renovables, como la energía solar
+y la energía eólica, de manera complementaria con la energía no renovable.</p>
+<imagen src="CS_11_07_CO_IMG19_small.jpg">
+<p>Para Colombia cada día se hace más imperiosa la necesidad de producir
+desde diversas alternativas energéticas, considerando que es un país
+diverso y siempre ha sido construido con criterios uniformes.</p>
+</imagen>
+<destacado><destacadoTitulo>La situación energética en Colombia</destacadoTitulo>
+<destacadoTexto>
+<p>Algunos expertos ven posibilidades de distribución en la estratégica
+utilización del curso de las fuentes hídricas, por ejemplo, el río
+Magdalena que atraviesa todo el país.</p>
+<p>De hecho el sistema nacional de energía en Colombia es vulnerable
+en temporada de baja lluvia y en periodos prolongados de sequía; el
+66 % de la energía que consumen los colombianos proviene de las hidroeléctrica,
+y el restante, de la energía térmica que emplea gas natural y carbón.
+En este sentido, ha faltado una visión más amplia. Entre otras, una
+ley de servicios públicos donde se considere la variedad tecnológica.</p>
+</destacadoTexto></destacado>
+<p>Es estratégico integrar las energías renovables para que se complementen,
+y aprovechar la biodiversidad, la radiación solar que se tiene al
+estar en el trópico, la potencialidad en hidrología, la integración
+de la energía de biomasa, la geotermia; además implementar sistemas
+de recarga y de captura de dióxido de carbono, y producir alternativas
+como los biocombustibles de segunda y tercera generación, por ejemplo.</p>
+<p>Uno de los retos en la utilización de energías renovables ha sido <negrita
+>borrar la experiencia negativa en algunas de las zonas no interconectadas
+del país, por las dificultades ambientales, sociales, económicas y
+tecnológicas que sufrieron algunas comunidades con la utilización
+de este tipo de energías renovables hace algunas décadas</negrita
+>.</p>
+<p>Por ejemplo, en la década de los ochenta  se realizaron varios
+proyectos con energía solar domiciliaria en sectores rurales, y la
+experiencia negativa por los costos y mantenimiento generaron escepticismo
+con este tipo de energía limpia. Para algunos expertos actualmente
+puede ser competitivo el precio de la electricidad a partir de los
+paneles solares, ya que sus precios han venido bajando considerablemente.</p>
+<recuerda><recuerdaTexto>
+<p>En camino de solventar estas dificultades se contemplan alternativas
+en la distribución, ya que el problema no es la generación sino la
+distribución de energía. El negocio más rentable es la conexión final,
+esto pasa tanto con el gas, como con la energía, al final de la cadena
+el kilovatio es más costoso. Es necesario avanzar de una generación
+de energía centralizada a una distribuida en varios espacios locales;
+por ejemplo, los parques eólicos.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CS_11_07_CO_AB65A64F88E349019AC951F10AEEA850">
+<seccion3Titulo>Mecanismo de la política ambiental</seccion3Titulo>
+<seccion3Texto>
+<p>Para 1968 se creó el Inderena ─Instituto Nacional de los Recursos
+Naturales Renovables─, encargado de la conservación a través del establecimiento
+de áreas de reserva. Mientras existió el Inderena, se declararon varios
+parques nacionales naturales.</p>
+<p>Se considera los ecosistemas estratégicos como aquellas unidades
+naturales identificables y delimitadas donde se interrelacionan con
+el medio variadas especies animales, vegetales y minerales, y que
+de la conservación de estos depende gran parte de la vida en otros
+lugares, es decir que no solamente son importantes por la biodiversidad
+que albergan, sino porque son fundamentales para que haya alimento
+y agua en las regiones más cercanas a estos; por ejemplo, páramos,
+bosques, sabanas o cuencas de los ríos.</p>
+<table border="1"><caption>Impacto de algunos ecosistemas estratégicos</caption>
+<colgroup><col width="25*"/><col width="74*"/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Ecosistema estratégico</negrita></td>
+<td align="center"><negrita>Impacto más allá del territorio que ocupan</negrita
+></td>
+</tr>
+<tr>
+<td>Páramo de Chingaza</td>
+<td>Proveedor de agua para Bogotá. En general, los páramos son considerados
+“ecosistemas estratégicos” para la conservación del agua. </td>
+</tr>
+<tr>
+<td>Amazonia</td>
+<td>Equilibrador del clima a nivel global.</td>
+</tr>
+<tr>
+<td>Chocó</td>
+<td>Preserva la biodiversidad.</td>
+</tr>
+<tr>
+<td>Cuencas de los embalses</td>
+<td>Protección para el sistema hidroeléctrico nacional.</td>
+</tr>
+</tbody>
+</table>
+<p>Estos incluyen, por ejemplo, la regulación del clima y de la humedad,
+la provisión de agua para abastecimiento de la población, la generación
+de energía o el riego, el mantenimiento de climas y suelos adecuados
+para la producción de alimentos y materias primas o el mantenimiento
+del sistema natural de prevención de desastres o de control de plagas.</p>
+<p>Una referencia inicial a los ecosistemas y áreas estratégicas se
+encuentra en la Ley 99 de 1993, la cual afirma que deben ser prioritarios
+en las políticas de gobierno. Entre los sistemas estratégicos priorizados
+por el Ministerio de Medio Ambiente y Desarrollo Sostenible están
+los sistemas glaciares, que son muy sensibles, pues solo cuatro zonas
+en el mundo tienen glaciares en la línea del Ecuador, es decir a los
+0 grados de altitud. Estas son el Cotopaxi en Ecuador, Nueva Guinea
+y Colombia.</p>
+<recuerda><recuerdaTexto>
+<p>Un glaciar es un sistema dinámico que se ve afectado tanto por
+la gravedad como por los cambios en la temperatura, tiene condiciones
+climáticas características de las montañas y requiere alimentarse
+de precipitación sólida, copitos de nieve, cristal de hielo, así se
+forma la nieve y luego el hielo. Estos necesitan de sus vecinos más
+próximos, la parte más alta de la montaña cubierta de hielo con precipitación
+sólida: los páramos que están a una altura de 3200 m.s.n.m.</p>
+</recuerdaTexto></recuerda>
+<imagen src="CS_11_07_CO_IMG20_small.jpg">
+<p>De acuerdo con los expertos, los glaciares han venido disminuyendo
+de una manera drástica, lo que ocasiona la disminución de la precipitación,
+el incremento de las temperaturas y afecta la hidrología de alta montaña
+en Colombia. A pesar de que el planeta se ha enfriado y se ha calentado
+durante toda su historia, debido entre otros factores a que la Tierra
+cambia su órbita y los polos decrecen en tiempos de miles de años.
+En este siglo estamos experimentando un cambio en el régimen climático
+ocasionado por el ser humano, que se refleja en la disminución de
+las masas glaciares. Esta dinámica de los glaciares debido al aumento
+térmico, tiene un efecto directo sobre los páramos. La modificación
+de las condiciones atmosféricas generan enfriamiento de las masas
+de aire, condensación de nubes y precipitaciones, lo cual disminuye
+el aporte hídrico fundamental para los ecosistemas de páramo.</p>
+</imagen>
+<p>En el marco de cumplir el Protocolo de Kioto, se generaron varias
+estratégicas que tuvieron como fin:</p>
+<listaSinNumerar>
+<listaElemento>Mecanismos de Desarrollo Limpio (MDL): permitir que
+los países miembros pudieran cumplir con sus responsabilidades de
+reducción de emisiones de gases de efecto invernadero. Los sectores
+considerados en el MDL y donde se pueden adelantar proyectos para
+reducir emisiones de GEI son: energía, procesos industriales, agropecuario,
+uso de la tierra, silvicultura (reforestación y aforestación), tratamiento
+de residuos y transporte.</listaElemento>
+<listaElemento>El esquema de Pago por Servicios Ambientales, es un
+acuerdo voluntario donde el servicio ambiental definido es ofrecido
+por un proveedor del servicio ambiental y hay un comprador.</listaElemento>
+<listaElemento>Eco-etiquetado. El etiquetado es una mecanismo valioso
+para el uso eficiente de la energía.</listaElemento>
+<listaElemento>Corredores ambientales. </listaElemento>
+</listaSinNumerar>
+<p>Este tema del Corredor ambiental Colombia, Brasil y Venezuela tiene
+como fin la conservación de la Amazonia, incrementar y cuidar la biodiversidad,
+y mitigar los efectos del cambio climático. Esto se haría a través
+de la conexión de los Andes con la Amazonia, lo que permite el flujo
+genético y biológico de las especies, ya que la dinámica de conectividad
+y dispersión de las especies aumenta las reservas genéticas. Los expertos
+afirman que el ecosistema bioma amazónico necesita conectividad.</p>
+<p>Este mecanismo es innovador en el sentido de <negrita>considerar
+no solo las especies animales y vegetales, sino las comunidades humanas
+que lo habitan</negrita>, pues el concepto de parques de conservación
+se toma desde la iniciativa de no cerrar los territorios. Conservar
+para que las personas lo puedan habitar siendo conscientes de las
+actividades que se pueden o no desarrollar. Este corredor no es solo
+ecológico sino biocultural, con 135 millones de hectáreas, y está
+conformado en un 80 % por territorios indígenas, que tienen una conciencia
+más clara del ambiente.</p>
+<imagen src="CS_11_07_CO_IMG21_small.jpg">
+<p>Mapa de Parques Nacionales Naturales de Colombia</p>
+</imagen>
+<destacado><destacadoTitulo>Problemas ambientales en el Amazonas</destacadoTitulo>
+<destacadoTexto>
+<listaSinNumerar>
+<listaElemento>El avance de la frontera agropecuaria con proyectos
+de ganadería y agrocombustibles.</listaElemento>
+<listaElemento>Los proyectos hidroeléctricos y petroleros.</listaElemento>
+<listaElemento>La deforestación y el alto índice de contaminación
+del agua.</listaElemento>
+<listaElemento>La extracción de productos maderables y la fuerte presión
+de minería legal e ilegal dada la enorme riqueza en recursos minerales,
+como el cobre, el estaño, el níquel, la bauxita, el manganeso, el
+mineral de hierro y el oro.</listaElemento>
+</listaSinNumerar>
+<p>Algunos analistas consideran que dentro de los lineamientos de
+una política pública ambiental en Colombia deben considerarse estrategias
+para transformar estructuras de consumo.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CS_11_07_CO_AB65A64F88E349019AC951F10AEEB961">
+<seccion3Titulo>Economía vs. política ambiental en Colombia</seccion3Titulo>
+<seccion3Texto>
+<p>Una de las debilidades de la política ambiental en Colombia es
+estar supeditada, en algunos aspectos, a <negrita>intereses económicos</negrita
+>; por ejemplo, en algún momento se contempló la necesidad de consultar
+al sector minero para crear otro parque natural. Así mismo, se pone
+por encima de los modelos sociales y de la ocupación del territorio
+los intereses del sector económico.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso170&amp;IdRecurso=RES-E38CD3D991974AABA0D6738B7F431704"
+>Los efectos de la economía en el medio ambiente en Colombia</enlace>
+</profundiza>
+<p>En algunas regiones como la Amazonia, las áreas de minería estratégicas
+son contradictorias con los planes de conservación. Esto forma parte
+de las políticas económicas de los últimos años, que han privilegiado
+la exportación de materias primas de origen primario, mientras la
+industria nacional desaparece. La ambivalencia entre políticas climáticas
+de reducir, y a su vez una política de exportación de energéticos,
+hace un comercio ecológicamente desigual, donde es más importante
+el crecimiento económico que el costo ambiental.</p>
+<p>Las dificultades más apremiantes que enfrenta Colombia, y en las
+que es necesario la generación de políticas y normas estrictas, están
+relacionadas con la <negrita>explotación de los recursos naturales,
+la construcción de grandes proyectos de infraestructura, el crecimiento
+urbano y la expansión de monocultivos</negrita>. En algunos casos
+estas políticas no van al paso con la problemática ambiental, son
+más lentas.</p>
+<p>La conservación versus la producción es la disyuntiva permanente
+en Colombia para la transformación en el uso del suelo. Por ejemplo,
+el desarrollo del sector ganadero ha provocado la deforestación de
+extensas zonas necesarias para un rendimiento económico de la ganadería,
+lo que genera impactos irreversibles. También la colonización de territorio
+en áreas de páramo para el cultivo de papa. Solo las zonas de casquete
+de hielo no han sido colonizadas aún, puesto que no hay cultivos.</p>
+<p>Así, el sector agropecuario también contribuye a la producción
+de gases de efecto invernadero, debido en gran medida a los cambios
+en el uso del suelo, que en la mayoría de los casos se hacen por un
+desconocimiento de los territorios. Esto ha contribuido al aumento
+persistente de las temperaturas, lo cual ha causado la variabilidad
+en las precipitaciones.</p>
+<p>El mundo rural colombiano presenta un <negrita>desarrollo basado
+en desigualdades, por eso  hay un sector de la población más vulnerable
+al cambio climático, ya que la tenencia de la tierra está acaparada
+por terratenientes</negrita>, quedando las laderas y zonas de derrumbe
+para los campesinos pobres.</p>
+<recuerda><recuerdaTexto>
+<p>La principal causa de la variación del clima es la radiación que
+se acumula en la atmósfera por la concentración de gases de efecto
+invernadero que provienen del proceso económico.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3></seccion2Texto>
+</seccion2><seccion2
+id="S2_CS_11_07_CO_EAC8F355D755405E93D60856D2E500A4">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividad para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso180&amp;IdRecurso=RES-8CA59E50908B429B864483FF29EA8CC5"
+>Refuerza tu aprendizaje: La situación ambiental de Colombia</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_11_07_CO_A776B4D420374148997B2739C6ECC29A">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso190&amp;IdRecurso=RES-ED60886B6ED64B4EB304EFA783BD2E9E"
+>Competencias: estudio del impacto de la economía en el medio</enlace><?Pub
+Caret -2?>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso200&amp;IdRecurso=RES-B2285D386A1C4F9DBDDC17360E03CDDB"
+>Proyecto: estudio de un caso nocivo para el medio ambiente</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_11_07_CO_E4CD73399A264B679BEB5BCE050E6751"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso220&amp;IdRecurso=RES-C07C9C7D2F7A4F3F9641DEB6397413DE"
+>Mapa conceptual del tema El medio ambiente: problemas y desafíos</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_07_CO_Recurso230&amp;IdRecurso=RES-0CADCDAC5D594C8C86143698A60B4277"
+>Evalúa tus conocimientos sobre el tema El medio ambiente: problemas
+y desafíos</enlace></autoevaluate><enlacesreferencia>
+<enlace
+destino="http://edant.clarin.com/diario/2008/11/17/elmundo/i-01804491.htm"
+>El Congo se desangra en una guerra por un mineral clave para fabricar
+celulares y PC.</enlace>
+<enlace
+destino="http://www.somosamigosdelatierra.org/04_suelo/mineria/mineria.htm"
+>La extracción de minerales provoca problemas sociales y ambientales.</enlace>
+<enlace
+destino="http://www.ipsnoticias.net/2015/04/la-defensa-del-ambiente-necesita-de-los-movimientos-sociales/"
+>La defensa del ambiente necesita de los movimientos sociales.</enlace>
+<enlace
+destino="http://www.bbc.com/mundo/noticias/2015/06/150625_holanda_fallo_emisiones_lp"
+>Los 900 ambientalistas que vencieron al gobierno de Holanda.</enlace>
+<enlace
+destino="http://www.un.org/spanish/esa/sustdev/documents/declaracionrio.htm"
+>Declaración de Río sobre el Medio Ambiente y el Desarrollo.</enlace>
+<enlace
+destino="http://fedeorganicos.com/index.php?option=com_content&amp;view=article&amp;id=32&amp;Itemid=161"
+>Reseña histórica.</enlace>
+<enlace destino="http://research.un.org/es/docs/environment/treaties"
+>Documentación de la ONU: Medio ambiente.</enlace>
+<enlace
+destino="http://www.ecointeligencia.com/2013/10/10-paises-lideres-energias-sostenibles/"
+>Los 10 países líderes en energías sostenibles.</enlace>
+<enlace
+destino="http://www.dw.com/es/campo-de-espejos-parab%C3%B3licos-en-india/a-16842106"
+>Campo de espejos parabólicos en India.</enlace>
+<enlace
+destino="http://www.europapress.es/ciencia/noticia-colombia-alberga-27860-especies-plantas-liquenes-20150430143005.html"
+>Colombia alberga 27 860 especies de plantas y líquenes.</enlace>
+<enlace
+destino="http://www.ipse.gov.co/energia-renovable/proyectos-de-investigacion-aplicada"
+>Proyección de demanda de energía en zonas aisladas, utilizando modelamiento
+LEAP.</enlace>
+<enlace
+destino="http://www.eltiempo.com/estilo-de-vida/ciencia/informe-del-instituto-geografico-agustin-codazzi-sobre-paramos-en-colombia/14424796"
+>La agonía de cinco páramos.</enlace>
+<enlace
+destino="http://www.antropologia.com.br/arti/colab/a26-aulloa.pdf"
+>El Nativo Ecológico: Movimientos Indígenas y Medio Ambiente en Colombia.</enlace>
+<enlace destino="http://www.survival.es/sobre/agricultura-itinerante"
+>Agricultura itinerante.</enlace>
+</enlacesreferencia></masinformacion></libro>

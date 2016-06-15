@@ -1,15 +1,14 @@
-<?xml version = "1.0" encoding = "UTF-8" ?>
-<motor tipo="102" clase="ab" aprid="m102ab">
-<enunciado></enunciado>
-<plataforma>
-	<grado><![CDATA[2]]></grado>
-	<titulo>Proyecto: los efectos de la apertura económica en América Latina</titulo>
-	<volumen><![CDATA[1]]></volumen>
-	<nivel><![CDATA[1]]></nivel>
-	<referencia><![CDATA[EX_PLANTILLA_M102AB]]></referencia>
-	<motor><![CDATA[M102ab]]></motor>
-</plataforma>
-<enunciado><![CDATA[Desarrolla este proyecto según las indicaciones de tu profesor.]]></enunciado>
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="102" clase="ab" aprid="m102ab">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Proyecto: los efectos de la apertura económica en América Latina</titulo>
+    <volumen><![CDATA[1]]></volumen>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia><![CDATA[EX_PLANTILLA_M102AB]]></referencia>
+    <motor><![CDATA[M102ab]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Desarrolla este proyecto según las indicaciones de tu profesor.]]></enunciado>
   <masinfo inicio="0"/>
   <textoupload/>
   <adjunto><![CDATA[Principal.html]]></adjunto>
