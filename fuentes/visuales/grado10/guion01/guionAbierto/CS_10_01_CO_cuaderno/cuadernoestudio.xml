@@ -1,605 +1,583 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CS_10_01_CO">
-  <libroTitulo>El fin de la Guerra Fría y sus consecuencias</libroTitulo>
-  <seccion1 id="S1_CS_10_01_CO_AB1EB22A1AFC465AAF9350BEB0C994E0">
-    <seccion1Titulo>La Guerra Fría</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_01_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso010&amp;IdRecurso=RES-87287A28FD6645E39752BF1C25683F80">La Guerra Fría</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_01_CO_img_02_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso020&amp;IdRecurso=RES-0CB4A29A85E24FA198DEED998338188C">El Manifiesto comunista</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_10_01_CO_6A92D84B2906496F9CE843DA1C27716D">
-        <seccion2Titulo>Los bloques de la Guerra Fría</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso030&amp;IdRecurso=RES-8C9A8891CCF34BBA8015AA14157DB6CF">Recurso M10A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_01_CO_91D1F9C591574E7D837CCF36A3314092">
-        <seccion2Titulo>Los cambios impulsados por Gorbachov</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_04_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso040&amp;IdRecurso=RES-9A895B09746F49A281F52A313083FC0B">Recurso F4-01</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_01_CO_C63A74783EFB40E899299B6438CD24D1">
-        <seccion2Titulo>Las razones del cambio</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso050&amp;IdRecurso=RES-87CE68F3A69C4C3187E2BE72C7D7DE51">Recurso M8A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_01_CO_9E809B4597374E51930B23FAF4FDB692">
-        <seccion2Titulo>Las reformas constitucionales</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_06_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_01_CO_E90FB6213845421193F4E365447A25CF">
-        <seccion2Titulo>El desarme nuclear</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_07_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso060&amp;IdRecurso=RES-A261255252394032BB71C0BDD7AD6F11">Recurso F10-01</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_01_CO_891EB6906DA0450CB6F10A7E105A9B3D">
-        <seccion2Titulo>La caída de la Unión Soviética</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_08_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso070&amp;IdRecurso=RES-0BBA5DD4D5384C4C88C173C6B830ABE3">Recurso M5D-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_01_CO_ED8C1510BEC64212988EE758B44DC8CC">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_09_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso080&amp;IdRecurso=RES-DEE8DAB44FE848FBB177C4B86FD36742">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_10_01_CO_3CC59EE899AF4343864ED4309C2318A6">
-    <seccion1Titulo>Influencias de la Guerra Fría en el mundo</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_01_CO_img_10_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso090&amp;IdRecurso=RES-8E62C3B05A2D496FB57CD6BF5EF6D7E4">Recurso F6B-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_01_CO_img_11_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso100&amp;IdRecurso=RES-671D0AC1B21849ADA09FA7C916A57D57">Recurso M6A-01</enlace>
-      </practica>
-      <seccion2 id="S2_CS_10_01_CO_57AFDA64BE104830A2ACE48E56331986">
-        <seccion2Titulo>La Revolución China</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso110&amp;IdRecurso=RES-C136DE2A7A3F49CCBD3DAEDF2D326B53">Video como media principal - 01</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_01_CO_BE05CCE3CC4E4279AEAD3846507D9057">
-        <seccion2Titulo>La Guerra de Corea</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_01_CO_DF06ECF02EDF40B9B51B288305E0138E">
-        <seccion2Titulo>Medio Oriente, tierra de conflictos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_14_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso120&amp;IdRecurso=RES-6B1A050D5FB84CFEAAFC8D1A4B9EBED8">Video como media principal - 02</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_01_CO_96C028B243F34A88AF49EE7F0E6DEC88">
-        <seccion2Titulo>La Guerra de Vietnam</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso130&amp;IdRecurso=RES-DB1E13FA9A8A4B98A4BB1952E3A4A6BB">Video como media principal - 03</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_01_CO_52C9E76831D1461DB88063E1F84C4D90">
-        <seccion2Titulo>La Revolución de Irán</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_16_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_01_CO_DAF65F8EB5B844BFB5BFF6AED751278A">
-        <seccion2Titulo>El conflicto en Afganistán</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_17_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_18_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso140&amp;IdRecurso=RES-B5CBFCA851094C31B2B0FAFFEC508C40">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_10_01_CO_76AE6237751647538F29331D8119F067">
-    <seccion1Titulo>Descolonización</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_01_CO_img_19_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso150&amp;IdRecurso=RES-D1BBBD0C4A574D8484595A23950830D2">Video como media principal - 04</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_01_CO_img_20_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso160&amp;IdRecurso=RES-BB2CFE22A6514F5B88B260274D792CAC">Recurso M5D-02</enlace>
-      </practica>
-      <seccion2 id="S2_CS_10_01_CO_4D01C8AC7EEE44B69932A104245A1158">
-        <seccion2Titulo>Las formas de descolonización</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_21_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso170&amp;IdRecurso=RES-6F3DACE6D84740EC93D7FF01677C4B80">Recurso F8-01</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_22_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso180&amp;IdRecurso=RES-A38253805C0348478A81455970612414">Recurso M101A-03</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_01_CO_img_25_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso210&amp;IdRecurso=RES-381735776C104C979332C4DFFC264CEA">Recurso M101A-04</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_10_01_CO_84E2DCE7C9FA45F5AB1AD48DB1E7A6A7">
-    <seccion1Titulo>La Unión Europea</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_01_CO_img_23_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso190&amp;IdRecurso=RES-73D685B902E0454383A6BDC7FA08F3D8">Recurso F10-02</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_01_CO_img_24_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso200&amp;IdRecurso=RES-B4CC11B795D0432CBCFFB0D7FF93D883">Recurso M9B-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_10_01_CO_76A1F188E0554B03A5EC0E6BB16EF546">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_01_CO_img_26_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso220&amp;IdRecurso=RES-C278DE3032744898B007018FD32A6992">Recurso F13-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_01_CO_img_27_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso230&amp;IdRecurso=RES-30853C7CEBE8458EA30A60E2351044DF">Recurso M102AB-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_10_01_CO_4E821F375ACA436B8193DCDF37941F55">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso250&amp;IdRecurso=RES-7575D21EA7F649C48D87764651C6691D">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso260&amp;IdRecurso=RES-00ACCB62E5E34ED8B68ED2CF946E30A0">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>El fin de la Guerra Fría y sus consecuencias</libroTitulo>
+<seccion1 id="S1_CS_10_01_CO_AB1EB22A1AFC465AAF9350BEB0C994E0">
+<seccion1Titulo>La Guerra Fría</seccion1Titulo>
+<seccion1Texto>
+<p>Durante casi medio siglo (1947-1989), las <negrita>relaciones internacionales</negrita
+>, la política, la economía e incluso la cultura, estuvieron marcadas
+por la <negrita>rivalidad</negrita> entre los <negrita>Estados Unidos
+de América</negrita> y la Unión de Repúblicas Socialistas Soviéticas
+o <negrita>Unión Soviética</negrita>.</p>
+<p>Este periodo se conoció como <negrita>Guerra Fría</negrita> e implicó
+una <negrita>tensión política, ideológica, militar y económica</negrita
+> entre dos potencias que, paradójicamente, habrían sido aliadas durante
+la Segunda Guerra Mundial.</p>
+<imagen src="CS_10_01_CO_IMG01_small.jpg">
+<p>Uno de los objetivos de la Guerra Fría fue evitar que la contraparte
+ampliara su influencia política e ideológica en cualquier lugar del
+mundo considerado <negrita>geoestratégico</negrita>. Por tal razón,
+Estados Unidos y la Unión Soviética utilizaron <negrita>servicios
+de inteligencia</negrita> y espionaje para estudiar los pasos del
+enemigo.</p>
+</imagen>
+<destacado><destacadoTitulo>La Guerra Fría en América Latina</destacadoTitulo>
+<destacadoTexto>
+<p>En <negrita>América Latina</negrita>, la Guerra Fría se relacionó
+con la <negrita>formación de guerrillas</negrita> en algunos países
+y con la <negrita>“Crisis de los misiles”</negrita> en 1962. Este
+último evento fue el descubrimiento de bases de misiles nucleares
+soviéticos en territorio cubano, por parte de Estados Unidos.</p>
+</destacadoTexto></destacado>
+<p>La Guerra Fría se desarrolló <negrita>entre 1947 y 1989</negrita
+>. No obstante, desde ese año hasta 1991 se presentaron dos acontecimientos
+que desembocaron en el final de la confrontación: se trató de la <negrita
+>caída del muro de Berlín</negrita> y la <negrita>desintegración de
+la Unión de Repúblicas Socialistas Soviéticas</negrita>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso010&amp;IdRecurso=RES-87287A28FD6645E39752BF1C25683F80"
+>La Guerra Fría</enlace>
+</profundiza><recuerda><recuerdaTexto>
+<p>El término “Guerra Fría” fue inventado por Bernard Baruch, un asesor
+del presidente F. D. Roosevelt, y por el periodista y editorialista
+Walter Lippmann.</p>
+</recuerdaTexto></recuerda>
+<p>Estados Unidos y la Unión de Repúblicas Socialistas Soviéticas
+nunca se enfrentaron directamente, pero sí influyeron de manera decisiva
+para que en diferentes territorios de la <negrita>geografía mundial</negrita
+> se desataran conflictos como las <negrita>guerras de Vietnam</negrita
+> o <negrita>de Corea</negrita>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso020&amp;IdRecurso=RES-0CB4A29A85E24FA198DEED998338188C"
+>El Manifiesto comunista</enlace>
+</profundiza>
+<p>Al cabo de la Guerra Fría, durante los primeros cinco años de la
+década de 1990, muchos territorios que antes hacían parte de la Unión
+Soviética se independizaron y conformaron <negrita>nuevos países</negrita
+>. Esto como consecuencia de las políticas impulsadas por <negrita
+>Mijail Gorbachov</negrita>, secretario del <negrita>Partido Comunista</negrita
+>, que posibilitaron que la potencia perdiera poder sobre parte del
+inmenso territorio que la integraba. Tres de esos casos fueron la
+República Checa, Eslovaquia y los Balcanes.</p>
+<imagen src="CS_10_01_CO_IMG02_small.jpg">
+<p><negrita>Ronald Reagan</negrita>, presidente de Estados Unidos,
+y Mijail Gorbachov, secretario del Partido Comunista Soviético, firmaron
+el final de la Guerra Fría.</p>
+</imagen>
+<p>Al finalizar la Guerra Fría también se <negrita>restablecieron</negrita
+> las <negrita>relaciones</negrita> entre <negrita>China</negrita
+> y la <negrita>Unión Soviética</negrita>, las cuales estaban deterioradas
+por diferencias ideológicas y económicas entre líderes de los dos
+países comunistas.</p>
+<seccion2 id="S2_CS_10_01_CO_6A92D84B2906496F9CE843DA1C27716D">
+<seccion2Titulo>Los bloques de la Guerra Fría</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>bloques</negrita> que se enfrentaron en la Guerra
+Fría fueron <negrita>Occidente</negrita> y <negrita>Oriente</negrita
+>, en términos geopolíticos; y <negrita>capitalista</negrita> y <negrita
+>comunista</negrita>, en términos ideológicos.</p>
+<p>El <negrita>bloque capitalista</negrita>, liderado por <negrita
+>Estados Unidos</negrita>, reunía a los países de Europa occidental,
+Latinoamérica y algunas excolonias de África, Asia y Medio Oriente.
+Defendía la <negrita>democracia liberal</negrita> y la <negrita>libertad
+económica</negrita>, además de valores como la <negrita>libertad</negrita
+> y la <negrita>propiedad privada</negrita>.</p>
+<imagen src="CS_10_01_CO_IMG03_small.jpg">
+<p>Puesto de <negrita>control policial</negrita> fronterizo en la
+“Cortina de Hierro”, durante la Guerra Fría.</p>
+</imagen>
+<p>El <negrita>bloque comunista</negrita> estaba liderado por la <negrita
+>Unión Soviética</negrita> y su zona de influencia directa fue el
+oriente de Europa, más conocida como la <negrita>“Cortina de Hierro”</negrita
+>. Este territorio fue invadido por tropas soviéticas. Oriente defendía
+el <negrita>comunismo</negrita>, la <negrita>planificación estatal
+de la economía</negrita>, la <negrita>propiedad colectiva</negrita
+> y el ateísmo; países como China o Cuba sostenían ideales similares.</p>
+<recuerda><recuerdaTexto>
+<p><negrita>Guerras</negrita> como la de Corea (1950-1953), Vietnam
+(1965-1975), la crisis de los misiles en Cuba, las guerras en Centroamérica
+(Nicaragua y El Salvador, en los años 1970), e incluso las <negrita
+>luchas contra las guerrillas</negrita> en Colombia, intentaban evitar
+que la Unión Soviética expandiera sus zonas de influencia en el mundo.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso030&amp;IdRecurso=RES-8C9A8891CCF34BBA8015AA14157DB6CF"
+>Analiza el discurso de un líder de la Guerra Fría</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_01_CO_91D1F9C591574E7D837CCF36A3314092">
+<seccion2Titulo>Los cambios impulsados por Gorbachov</seccion2Titulo>
+<seccion2Texto>
+<p>La elección en 1985 de <negrita>Mijail Gorbachov</negrita> como
+secretario del <negrita>Partido Comunista</negrita> favoreció la implementación
+de <negrita>políticas de apertura</negrita> en la Unión Soviética. <negrita
+>La <cursiva>glasnost</cursiva></negrita> (política de transparencia)
+y <negrita>la <cursiva>perestroika</cursiva></negrita> (política de
+reestructuración) simbolizaron una nueva era en la potencia comunista.</p>
+<imagen src="CS_10_01_CO_IMG04_small.jpg">
+<p>La <cursiva>glasnost</cursiva> y la <cursiva>perestroika</cursiva
+> prepararon el terreno para que en el siglo XXI la <negrita>Unión
+Soviética</negrita> reactivara su economía, abriera sus fronteras
+y ampliara sus relaciones internacionales.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso040&amp;IdRecurso=RES-9A895B09746F49A281F52A313083FC0B"
+>Consecuencias de la aplicación de la <cursiva>perestroika</cursiva
+> y la <cursiva>glasnost</cursiva></enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_01_CO_C63A74783EFB40E899299B6438CD24D1">
+<seccion2Titulo>Las razones del cambio</seccion2Titulo>
+<seccion2Texto>
+<p>Gorbachov y su equipo tenían razones para justificar sus <negrita
+>propuestas de cambio</negrita>. Entre ellas, la <negrita>ineficiencia</negrita
+> y la <negrita>burocratización</negrita> del Partido Comunista, que
+generaron atraso tecnológico y graves crisis económicas, problemas
+que el Partido intentó solucionar acudiendo a las teorías de Marx
+y Lenin.</p>
+<p>En el campo político, cambió la represión por la <negrita>reconciliación</negrita
+>. Por ello, algunos personajes contrarios al Partido Comunista, que
+estaban en prisión, fueron indultados y restituidos a la vida civil.</p>
+<imagen src="CS_10_01_CO_IMG05_small.jpg">
+<p>A diferencia del Partido Comunista con los <negrita>campesinos
+de la URSS</negrita>, Gorbachov implementó iniciativas privadas en
+agricultura, industria y servicios, que desembocaron en la ley que
+autorizó la propiedad privada de algunos medios de producción.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso050&amp;IdRecurso=RES-87CE68F3A69C4C3187E2BE72C7D7DE51"
+>Conoce hechos destacados durante la Guerra Fría</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_01_CO_9E809B4597374E51930B23FAF4FDB692">
+<seccion2Titulo>Las reformas constitucionales</seccion2Titulo>
+<seccion2Texto>
+<p>Durante 1988, Gorbachov impulsó <negrita>reformas constitucionales</negrita
+> que transformaron los órganos de poder de la Unión Soviética: modificó
+el <negrita>Soviet Supremo</negrita> (órgano conformado por los líderes
+o dirigentes del Partido Comunista); creó el <negrita>Congreso de
+los Diputados del Pueblo</negrita> (parlamento legislativo), integrado
+por 2250 miembros elegidos por voto popular; y constituyó el <negrita
+>poder ejecutivo</negrita> del Estado.</p>
+<imagen src="CS_10_01_CO_IMG06_small.jpg">
+<p>La <negrita>política de transparencia</negrita> y reestructuración
+de Gorbachov contó con el apoyo del Partido Comunista. Gracias a ello,
+como presidente de la Unión Soviética, pudo sustituir al Soviet Supremo
+al tomar las <negrita>riendas civiles y militares</negrita>. Además,
+el Parlamento adquirió nuevas dimensiones y funciones.</p>
+</imagen>
+<p>Sin embargo, <negrita>la <cursiva>glasnost</cursiva></negrita> (política
+de transparencia) y <negrita>la <cursiva>perestroika</cursiva></negrita
+> (política de reestructuración) abrieron las puertas para que en
+los círculos de la izquierda política se discutieran dogmas que antes
+eran incuestionables.</p>
+<p>Ese fue el caso de lo que significaban el comunismo y el socialismo,
+lo que implicó revisar los alcances de las ideas de <negrita>Marx</negrita
+> y <negrita>Lenin</negrita> en términos prácticos. Con ello se favorecieron
+diálogos y discusiones que ampliaron los marcos conceptuales y prácticos
+del comunismo.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_10_01_CO_E90FB6213845421193F4E365447A25CF">
+<seccion2Titulo>El desarme nuclear</seccion2Titulo>
+<seccion2Texto>
+<p>La <negritacursiva>perestroika</negritacursiva> y la <negritacursiva
+>glasnost</negritacursiva> ayudaron a reducir la posibilidad de un <negrita
+>enfrentamiento nuclear</negrita> entre la Unión Soviética y los Estados
+Unidos.</p>
+<p>Aunque en un principio los diálogos entre los líderes de las <negrita
+>potencias</negrita> no prosperaron, años más tarde Gorbachov y George
+Bush (padre) firmaron acuerdos que permitieron el retiro de <negrita
+>tropas soviéticas</negrita> de <negrita>Afganistán</negrita> y cubanas
+de <negrita>Angola</negrita>.</p>
+<p>Con ello se impulsaron <negrita>procesos de paz</negrita> en diferentes
+regiones del mundo que antes eran centro de la Guerra Fría.</p>
+<imagen src="CS_10_01_CO_IMG07_small.jpg">
+<p>Frente a la iniciativa de defensa estratégica impulsada por el
+presidente de los Estados Unidos, Ronald Reagan, en 1983, <negrita
+>Gorbachov</negrita> le propuso reducir el <negrita>armamento nuclear</negrita
+> y parar las pruebas.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso060&amp;IdRecurso=RES-A261255252394032BB71C0BDD7AD6F11"
+>El desarme nuclear</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_01_CO_891EB6906DA0450CB6F10A7E105A9B3D">
+<seccion2Titulo>La caída de la Unión Soviética</seccion2Titulo>
+<seccion2Texto>
+<p>A pesar de los <negrita>amplios poderes</negrita> otorgados a <negrita
+>Gorbachov</negrita> y del apoyo que recibió en el <negrita>XXVIII
+Congreso del Partido Comunista Soviético</negrita>, ello no bastó
+para hacerle frente a las hondas crisis de la sociedad y del Estado.</p>
+<imagen src="CS_10_01_CO_IMG08_small.jpg">
+<p>La Federación Rusa sufrió la caída de la <negrita>producción de
+petróleo</negrita> y el incremento de los nacionalismos. Esto aumentó
+los choques entre azerbaiyanos y armenios, así como los intentos de
+separación de diferentes regiones, entre ellas Lituania.</p>
+</imagen>
+<p>En junio de 1990, la <negrita>Federación Rusa</negrita>, liderada
+por <negrita>Boris Yeltsin</negrita>, declaraba la <negrita>independencia
+de la Unión Soviética</negrita>.</p>
+<p>En agosto de 1991, un <negrita>intento de golpe</negrita> destituyó
+a Gorbachov y lo confinó preso en <negrita>Crimea</negrita>. Finalmente,
+en diciembre la Unión Soviética se desintegró cuando Yeltsin, como
+presidente de la Federación Rusa, unido a Ucrania y a Bielorrusia,
+proclamó la <negrita>Comunidad de Estados Independientes (CEI)</negrita
+>. Gorbachov habría intentado infructuosamente restaurar la Unión,
+pero para entonces esta ya había llegado a su fin.</p>
+<imagen src="CS_10_01_CO_IMG09_small.jpg">
+<p>Las transformaciones del <negrita>mapa político de la Unión Soviética</negrita
+>, durante y después de la Guerra Fría.</p>
+</imagen>
+<p>Una vez disuelta la Unión Soviética, se disolvió el Partido Comunista
+Soviético y su patrimonio pasó a manos del Ministerio del Interior
+de la Federación Rusa. También se desintegró la KGB (Comité de Seguridad
+del Estado) o <negrita>policía secreta soviética</negrita>. Así mismo,
+las anteriores Lituania, Estonia, Letonia y Ucrania proclamaron su
+independencia.</p>
+<p>La caída de la Unión Soviética fue impulsada por <negrita>protestas
+sociales</negrita> que derrumbaron o afectaron los<negrita> monumentos
+ícono del comunismo</negrita>, como la estatua de Lenin y las sedes
+de la KGB; además, promovieron el regreso a los antiguos nombres de
+las ciudades rusas. Así, de <negrita>Leningrado</negrita> se retornó
+a <negrita>San Petersburgo</negrita>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso070&amp;IdRecurso=RES-0BBA5DD4D5384C4C88C173C6B830ABE3"
+>Recurso M5D-01</enlace>
+</practica><seccion3
+id="S3_CS_10_01_CO_ED8C1510BEC64212988EE758B44DA9AA">
+<seccion3Titulo>El muro de Berlín</seccion3Titulo>
+<seccion3Texto>
+<p>En el marco de la <negrita>Segunda Guerra Mundial</negrita>, una
+vez Alemania se rindió, fuerzas militares de cuatro países tomaron
+el <negrita>control de Berlín</negrita>. Una de ellas fue la Unión
+Soviética, que en 1948 exigió que las tropas de los tres países restantes
+se retiraran de la ciudad, ya que esta era <negrita>zona de ocupación
+soviética</negrita>.</p>
+<imagen src="CS_10_01_CO_img_10_small.jpg">
+<p>El <negrita>muro</negrita> que dividió a <negrita>Berlín</negrita
+> fue el primer acto de la Guerra Fría. En agosto de <negrita>1961</negrita
+> fue levantada una versión provisional, en ladrillo, que cerraba
+69 de los 81 puntos de control que había en la línea que separaba
+la ciudad entre <negrita>oriente</negrita> y <negrita>occidente</negrita
+>. Luego, se convirtió en una pared de hormigón de entre 3,5 y 4 metros
+de altura, que tenía cables de acero en su interior para hacerla más
+resistente.</p>
+</imagen>
+<p>La petición fue rechazada, razón por la cual las tropas soviéticas
+bloquearon las comunicaciones entre <negrita>Berlín oriental y occidental</negrita
+>. La situación fue resuelta mediante un <negrita>puente aéreo</negrita
+> que le permitió a Estados Unidos y a sus aliados proveerle a <negrita
+>Berlín occidental</negrita> de alimentos y productos necesarios para
+que sus habitantes sobrevivieran. Ello obligó a los soviéticos a desistir
+del bloqueo.</p><?Pub Caret 268?>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_01_CO_ED8C1510BEC64212988EE758B44DC8CC">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso080&amp;IdRecurso=RES-DEE8DAB44FE848FBB177C4B86FD36742"
+>Recurso M101A-01</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_10_01_CO_3CC59EE899AF4343864ED4309C2318A6">
+<seccion1Titulo>Influencias de la Guerra Fría en el mundo</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso090&amp;IdRecurso=RES-8E62C3B05A2D496FB57CD6BF5EF6D7E4"
+>Recurso F6B-01</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_11_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso100&amp;IdRecurso=RES-671D0AC1B21849ADA09FA7C916A57D57"
+>Recurso M6A-01</enlace>
+</practica><seccion2
+id="S2_CS_10_01_CO_57AFDA64BE104830A2ACE48E56331986">
+<seccion2Titulo>La Revolución China</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_12_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso110&amp;IdRecurso=RES-C136DE2A7A3F49CCBD3DAEDF2D326B53"
+>Video como media principal - 01</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_01_CO_BE05CCE3CC4E4279AEAD3846507D9057">
+<seccion2Titulo>La Guerra de Corea</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_13_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_01_CO_DF06ECF02EDF40B9B51B288305E0138E">
+<seccion2Titulo>Medio Oriente, tierra de conflictos</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_14_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso120&amp;IdRecurso=RES-6B1A050D5FB84CFEAAFC8D1A4B9EBED8"
+>Video como media principal - 02</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_01_CO_96C028B243F34A88AF49EE7F0E6DEC88">
+<seccion2Titulo>La Guerra de Vietnam</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_15_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso130&amp;IdRecurso=RES-DB1E13FA9A8A4B98A4BB1952E3A4A6BB"
+>Video como media principal - 03</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_01_CO_52C9E76831D1461DB88063E1F84C4D90">
+<seccion2Titulo>La Revolución de Irán</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_16_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_01_CO_DAF65F8EB5B844BFB5BFF6AED751278A">
+<seccion2Titulo>El conflicto en Afganistán</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_17_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_18_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso140&amp;IdRecurso=RES-B5CBFCA851094C31B2B0FAFFEC508C40"
+>Recurso M101A-02</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_10_01_CO_76AE6237751647538F29331D8119F067">
+<seccion1Titulo>Descolonización</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_19_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso150&amp;IdRecurso=RES-D1BBBD0C4A574D8484595A23950830D2"
+>Video como media principal - 04</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_20_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso160&amp;IdRecurso=RES-BB2CFE22A6514F5B88B260274D792CAC"
+>Recurso M5D-02</enlace>
+</practica><seccion2
+id="S2_CS_10_01_CO_4D01C8AC7EEE44B69932A104245A1158">
+<seccion2Titulo>Las formas de descolonización</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_21_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso170&amp;IdRecurso=RES-6F3DACE6D84740EC93D7FF01677C4B80"
+>Recurso F8-01</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_22_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso180&amp;IdRecurso=RES-A38253805C0348478A81455970612414"
+>Recurso M101A-03</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_25_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso210&amp;IdRecurso=RES-381735776C104C979332C4DFFC264CEA"
+>Recurso M101A-04</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_10_01_CO_84E2DCE7C9FA45F5AB1AD48DB1E7A6A7">
+<seccion1Titulo>La Unión Europea</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_23_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso190&amp;IdRecurso=RES-73D685B902E0454383A6BDC7FA08F3D8"
+>Recurso F10-02</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_24_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso200&amp;IdRecurso=RES-B4CC11B795D0432CBCFFB0D7FF93D883"
+>Recurso M9B-01</enlace>
+</practica></seccion1Texto></seccion1><seccion1
+id="S1_CS_10_01_CO_76A1F188E0554B03A5EC0E6BB16EF546">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_26_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso220&amp;IdRecurso=RES-C278DE3032744898B007018FD32A6992"
+>Recurso F13-01</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_01_CO_img_27_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso230&amp;IdRecurso=RES-30853C7CEBE8458EA30A60E2351044DF"
+>Recurso M102AB-01</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_10_01_CO_4E821F375ACA436B8193DCDF37941F55"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso250&amp;IdRecurso=RES-7575D21EA7F649C48D87764651C6691D"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso260&amp;IdRecurso=RES-00ACCB62E5E34ED8B68ED2CF946E30A0"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+</enlacesreferencia></masinformacion></libro>
