@@ -2,6 +2,7 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_10_01_CO">
 <libroTitulo>El fin de la Guerra Fría y sus consecuencias</libroTitulo>
 <seccion1 id="S1_CS_10_01_CO_AB1EB22A1AFC465AAF9350BEB0C994E0">
@@ -16,7 +17,7 @@ o <negrita>Unión Soviética</negrita>.</p>
 una <negrita>tensión política, ideológica, militar y económica</negrita
 > entre dos potencias que, paradójicamente, habrían sido aliadas durante
 la Segunda Guerra Mundial.</p>
-<imagen src="CS_10_01_CO_IMG01_small.jpg">
+<imagen ampliable="no" src="CS_10_01_CO_IMG01_small.jpg">
 <p>Uno de los objetivos de la Guerra Fría fue evitar que la contraparte
 ampliara su influencia política e ideológica en cualquier lugar del
 mundo considerado <negrita>geoestratégico</negrita>. Por tal razón,
@@ -163,7 +164,7 @@ o dirigentes del Partido Comunista); creó el <negrita>Congreso de
 los Diputados del Pueblo</negrita> (parlamento legislativo), integrado
 por 2250 miembros elegidos por voto popular; y constituyó el <negrita
 >poder ejecutivo</negrita> del Estado.</p>
-<imagen src="CS_10_01_CO_IMG06_small.jpg">
+<imagen ampliable="no" src="CS_10_01_CO_IMG06_small.jpg">
 <p>La <negrita>política de transparencia</negrita> y reestructuración
 de Gorbachov contó con el apoyo del Partido Comunista. Gracias a ello,
 como presidente de la Unión Soviética, pudo sustituir al Soviet Supremo
@@ -245,12 +246,7 @@ sociales</negrita> que derrumbaron o afectaron los<negrita> monumentos
 de la KGB; además, promovieron el regreso a los antiguos nombres de
 las ciudades rusas. Así, de <negrita>Leningrado</negrita> se retornó
 a <negrita>San Petersburgo</negrita>.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso070&amp;IdRecurso=RES-0BBA5DD4D5384C4C88C173C6B830ABE3"
->Recurso M5D-01</enlace>
-</practica><seccion3
-id="S3_CS_10_01_CO_ED8C1510BEC64212988EE758B44DA9AA">
+<seccion3 id="S3_CS_10_01_CO_ED8C1510BEC64212988EE758B44DA9AA">
 <seccion3Titulo>El muro de Berlín</seccion3Titulo>
 <seccion3Texto>
 <p>En el marco de la <negrita>Segunda Guerra Mundial</negrita>, una
@@ -259,7 +255,7 @@ el <negrita>control de Berlín</negrita>. Una de ellas fue la Unión
 Soviética, que en 1948 exigió que las tropas de los tres países restantes
 se retiraran de la ciudad, ya que esta era <negrita>zona de ocupación
 soviética</negrita>.</p>
-<imagen src="CS_10_01_CO_img_10_small.jpg">
+<imagen src="CS_10_01_CO_IMG10_small.jpg">
 <p>El <negrita>muro</negrita> que dividió a <negrita>Berlín</negrita
 > fue el primer acto de la Guerra Fría. En agosto de <negrita>1961</negrita
 > fue levantada una versión provisional, en ladrillo, que cerraba
@@ -275,309 +271,555 @@ bloquearon las comunicaciones entre <negrita>Berlín oriental y occidental</negr
 > que le permitió a Estados Unidos y a sus aliados proveerle a <negrita
 >Berlín occidental</negrita> de alimentos y productos necesarios para
 que sus habitantes sobrevivieran. Ello obligó a los soviéticos a desistir
-del bloqueo.</p><?Pub Caret 268?>
-</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
-id="S2_CS_10_01_CO_ED8C1510BEC64212988EE758B44DC8CC">
+del <negrita>bloqueo</negrita>.</p>
+<imagen src="CS_10_01_CO_IMG11_small.jpg">
+<p>El muro que <negrita>dividió a Berlín</negrita> en la zona ocupada
+por los Estados Unidos, Inglaterra y Francia, por un lado, y la zona
+ocupada por los soviéticos, por otro, fue extensa. A estas zonas se
+les conoció como <negrita>Berlín oriental</negrita> y <negrita>Berlín
+occidental</negrita>.</p>
+</imagen>
+<p><negrita>Berlín</negrita> permaneció ocupada en el occidente por
+tropas de Estados Unidos, Inglaterra y Francia, en tanto la parte
+oriental estaba ocupada por tropas soviéticas.</p>
+<p>En 1961, tropas soviéticas construyeron <negrita>un muro</negrita
+> que <negrita>dividió la ciudad</negrita> en oriente y occidente.
+Este se mantuvo hasta 1989. Amplía tus conocimientos sobre la construcción
+del Muro de Berlín y su caída.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso070&amp;IdRecurso=RES-0BBA5DD4D5384C4C88C173C6B830ABE3"
+>Interpreta consecuencias de la caída del Muro de Berlín</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_10_01_CO_ED8C1510BEC64212988EE758B44DC8CC">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso080&amp;IdRecurso=RES-DEE8DAB44FE848FBB177C4B86FD36742"
->Recurso M101A-01</enlace>
+>Refuerza tu aprendizaje: La Guerra Fría</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_10_01_CO_3CC59EE899AF4343864ED4309C2318A6">
 <seccion1Titulo>Influencias de la Guerra Fría en el mundo</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><profundiza>
+<p>La Guerra Fría tuvo <negrita>implicaciones mundiales</negrita> e
+influyó en gran parte de las confrontaciones bélicas entre 1947-1989.
+Es posible rastrear sus efectos en la Revolución China, en la Guerra
+de Corea, en los conflictos de Medio Oriente, en la Guerra de Vietnam
+y en los conflictos de Irán y Afganistán.</p>
+<imagen src="CS_10_01_CO_IMG12_small.jpg">
+<p>Fueron más de dos millones de estadounidenses los que sirvieron
+en Vietnam. En 1973, tras el retiro de Estados Unidos, las <negrita
+>fuerzas vietnamitas</negrita> del Sur eran casi 700 000, mientras
+que las del Norte sumaban se aproximaban a un millón.</p>
+</imagen>
+<profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso090&amp;IdRecurso=RES-8E62C3B05A2D496FB57CD6BF5EF6D7E4"
->Recurso F6B-01</enlace>
-</profundiza>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_11_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+>Los conflictos de la Guerra Fría y sus efectos</enlace>
+</profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso100&amp;IdRecurso=RES-671D0AC1B21849ADA09FA7C916A57D57"
->Recurso M6A-01</enlace>
+>Conoce efectos de la Guerra Fría en América Latina</enlace>
 </practica><seccion2
 id="S2_CS_10_01_CO_57AFDA64BE104830A2ACE48E56331986">
 <seccion2Titulo>La Revolución China</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_12_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><profundiza>
+<p><negrita>China</negrita> fue <negrita>escenario geopolítico</negrita
+> de la Guerra Fría. Su extenso territorio fue dominado en la primera
+mitad del siglo XX por potencias occidentales, y los <negrita>gobiernos
+nacionalistas chinos</negrita> poco interés o capacidad administrativa
+tenían en impulsar reformas sociales, económicas y políticas para
+mejorar las condiciones de sus <negrita>campesinos</negrita>.</p>
+<p>Esto impulsó, por una parte, la formación de <negrita>guerrillas
+comunistas</negrita> que combatieron contra los gobiernos nacionalistas,
+y por otra, el uso del territorio y sus recursos por parte de potencias
+extranjeras.</p>
+<profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso110&amp;IdRecurso=RES-C136DE2A7A3F49CCBD3DAEDF2D326B53"
->Video como media principal - 01</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
+>Descubre la China comunista</enlace>
+</profundiza>
+<p>En octubre de ese año se formó la <negrita>República Popular China</negrita
+>, de orientación comunista. Esta reemplazó a la <negrita>República
+China</negrita>, que fue creada en 1912. El derrotado Gobierno nacionalista
+de <negrita>Chiang kai- Shek</negrita> se retiró a Taiwan (isla de
+Formosa).</p>
+<p>Para evitar la toma de la isla por parte de los chinos comunistas,
+Inglaterra y Estados Unidos ayudaron al derrocado gobierno nacionalista.
+Como consecuencia, Taiwan fue reconocida por la <negrita>Organización
+de Naciones Unidas (ONU)</negrita> como <negrita>China Nacionalista</negrita
+>, en tanto el Gobierno de la República Popular China o comunista
+no fue reconocido por los organismos internacionales sino hasta la
+década de 1970.</p>
+<imagen src="CS_10_01_CO_IMG13_small.jpg">
+<p>El líder de la Revolución Cultural China fue <negrita>Mao Zedong</negrita
+> quien, con el <negrita>respaldo campesino</negrita>, conquistó poco
+a poco el territorio del país, proceso que terminó en 1949.</p>
+</imagen>
+<p>Conoce cómo se celebró el 60 aniversario del comunismo en China<enlace
+destino="http://aulaplaneta.planetasaber.com/theworld/chronicles/seccions/cards/default.asp?pk=2746&amp;art=94"
+> [VER]</enlace>.</p>
+<p>La China comunista ha tenido grandes transformaciones para insertarse
+de nuevo en el mercado económico. Una de ellas fue reconocer la existencia
+de la propiedad privada. Amplía tus conocimientos sobre ese proceso<enlace
+destino="http://aulaplaneta.planetasaber.com/theworld/chronicles/seccions/cards/default.asp?pk=2198&amp;art=94"
+> [VER]</enlace>.</p>
+</seccion2Texto></seccion2><seccion2
 id="S2_CS_10_01_CO_BE05CCE3CC4E4279AEAD3846507D9057">
 <seccion2Titulo>La Guerra de Corea</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_13_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>En el mapa geopolítico de la Guerra Fría, la <negrita>República
+Popular China</negrita> fue una pérdida para las <negrita>potencias
+occidentales</negrita> o capitalistas. Significó ceder un amplio territorio
+en el <negrita>Pacífico</negrita>. El temor a perder más posiciones
+en esta zona del mundo generó la <negrita>guerra de Corea</negrita
+>, que enfrentó a las tropas soviéticas (Norte) a los Ejércitos estadounidenses
+(Sur).</p>
+<p>En 1950, los soviéticos invadieron el sur de la península, acción
+que fue repelida por <negrita>tropas norteamericanas</negrita> y de
+varios países de la esfera occidental.</p>
+<imagen src="CS_10_01_CO_IMG14_small.jpg">
+<p>Colombia fue el único país de América Latina que respondió al llamado
+de la ONU para apoyar a las <negrita>tropas en Corea del Sur</negrita
+>, luego de la invasión por parte de Corea del Norte, en junio de
+1950.</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
+<p>La guerra duró hasta 1953, año en que las dos partes firmaron un <negrita
+>armisticio</negrita> que dividió a Corea en dos y restableció las
+fronteras según el paralelo 38. Además, se creó una franja desmilitarizada
+de 4 kilómetros entre las dos fronteras.</p>
+<p>Luego del armisticio, la península quedó dividida en <negrita>Corea
+del Norte</negrita>, comunista, respaldada por la Unión Soviética
+y China; y <negrita>Corea del Sur</negrita>, capitalista, respaldada
+por los Estados Unidos.</p>
+<destacado><destacadoTitulo>El desarme nuclear de Corea del Norte</destacadoTitulo>
+<destacadoTexto>
+<p>La Guerra de Corea se considera el <negrita>primer enfrentamiento
+bélico</negrita> entre los dos bloques de la Guerra Fría. Recientemente,
+Corea del Norte accedió a su desarme nuclear. Conoce cómo se llevó
+a cabo ese proceso<enlace
+destino="http://aulaplaneta.planetasaber.com/theworld/chronicles/seccions/cards/default.asp?pk=2175&amp;art=94"
+> [VER]</enlace>.</p>
 </destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
 id="S2_CS_10_01_CO_DF06ECF02EDF40B9B51B288305E0138E">
 <seccion2Titulo>Medio Oriente, tierra de conflictos</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_14_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p><negrita>Medio Oriente</negrita> es cuna de tres culturas y <negrita
+>religiones monoteístas:</negrita> <negrita>musulmanes</negrita>, <negrita
+>cristianos</negrita> y <negrita>judíos</negrita>. Dicha situación,
+unida a elementos políticos, hizo de ese territorio un lugar de conflictos
+constantes, que se atizaron durante la Guerra Fría.</p>
+<p>Una vez terminada la <negrita>Segunda Guerra Mundial</negrita>,
+se creó la <negrita>Liga Árabe</negrita>, organización de carácter
+político y cultural que defiende intereses de países con poder económico
+dado por el petróleo y que rechazan a los cristianos y a los judíos.</p>
+<imagen src="CS_10_01_CO_IMG15_small.jpg">
+<p>El <negrita>Medio Oriente</negrita>, antes y después de la Segunda
+Guerra Mundial. La <negrita>descolonización</negrita> significa que
+estos territorios dejaron de ser parte de potencias extranjeras.</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><profundiza>
+<p>Como consecuencia del fin de la Segunda Guerra Mundial y del <negrita
+>fin de los imperialismos territoriales</negrita>, Siria y Líbano
+obtuvieron la independencia de Francia; e Irak, Jordania y Palestina,
+de Gran Bretaña.</p>
+<p>En <negrita>Palestina</negrita>, poblaciones de judíos se habían
+asentado para, más tarde, en 1948, formar la <negrita>nación judía</negrita
+> con el apoyo de potencias de Occidente. Entre tanto, los soviéticos
+apoyaron a los <negrita>árabes</negrita> y sus organizaciones políticas.
+Amplía tus conocimientos sobre el conflicto árabe-israelí<enlace
+destino="http://aulaplaneta.planetasaber.com/theworld/dossiers/seccions/cards2/default.asp?pk=1896&amp;art=25"
+> [VER]</enlace>.</p>
+<imagen src="CS_10_01_CO_IMG16_small.jpg">
+<p>El <negrita>enfrentamiento</negrita> entre <negrita>árabes-palestinos
+y judíos</negrita> en la llamada <negrita>Franja de Gaza</negrita
+> continúa activo por la imposibilidad de llegar a acuerdos entre
+los dos Estados sobre su territorio.</p>
+</imagen>
+<p>La división del territorio palestino por parte de la ONU para conformar
+el <negrita>Estado de Israel</negrita> y un <negrita>Estado Palestino-árabe</negrita
+> es un eco de la Guerra Fría.</p>
+<p>Una vez formalizado el Estado judío, los países árabes lo atacaron,
+no obstante, el apoyo de potencias occidentales y la organización
+de los judíos permitieron la derrota árabe.</p>
+<profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso120&amp;IdRecurso=RES-6B1A050D5FB84CFEAAFC8D1A4B9EBED8"
->Video como media principal - 02</enlace>
-</profundiza></seccion2Texto></seccion2><seccion2
+>La autonomía palestina</enlace>
+</profundiza>
+<p>Las guerras entre árabes-palestinos contra judíos se han presentado
+desde 1948. Las más destacadas fueron la <negrita>Guerra de los Seis
+Días</negrita><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=168454&amp;ruta=Buscador"
+> [VER]</enlace>, en 1967, y la de <negrita>Yom Kipur</negrita><enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=127843&amp;ruta=Buscador"
+> [VER]</enlace>, de 1973. En ellas los judíos vencieron a las <negrita
+>coaliciones árabes</negrita>.</p>
+</seccion2Texto></seccion2><seccion2
 id="S2_CS_10_01_CO_96C028B243F34A88AF49EE7F0E6DEC88">
 <seccion2Titulo>La Guerra de Vietnam</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_15_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>El <negrita>conflicto en Vietnam</negrita> se desencadenó en 1959
+por razones similares a la <negrita>Guerra de Corea</negrita>: el
+gobierno vietnamita del norte quiso invadir a <negrita>Vietnam del
+Sur</negrita>. Frente a esta agresión, los <negrita>Estados Unidos</negrita
+> apoyaron al gobierno del sur, en tanto los <negrita>soviéticos y
+chinos</negrita> a los del norte.</p>
+<p>Conoce en este video la historia y antecedentes de una de las guerras
+más singulares del siglo XX, en la que el pequeño David del Vietcong
+consiguió batir al gigante Goliat de los Estados Unidos, tras casi
+diez años de contienda<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=10&amp;idpil=VI002050&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_10_01_CO_IMG17_small.jpg">
+<p>Durante la guerra, el número de víctimas fue de casi dos millones
+de muertos vietnamitas, entre combatientes y población civil, y 55.000
+soldados estadounidenses. Una de las <negrita>armas de destrucción</negrita
+> masiva empleadas por los estadounidenses fue el <negrita>napalm</negrita
+>.</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
+<p>Durante más de quince años el conflicto cobró la vida de millones
+de vietnamitas y miles de americanos, hasta que finalizó en 1975.
+La intensidad del conflicto y la devastación del territorio vietnamita
+generaron rechazo frente a la <negrita>intervención estadounidense</negrita
+>, por parte incluso de <negrita>países aliados</negrita> y de la
+juventud de los Estados Unidos, que se manifestó de diferentes formas
+contra la guerra. El conflicto significó la <negrita>primera derrota</negrita
+> para las <negrita>tropas americanas</negrita>. Amplía tus conocimientos
+sobre la Vietnam y la bomba de Hiroshima<enlace
+destino="http://aulaplaneta.planetasaber.com/theworld/chronicles/seccions/cards/default.asp?pk=1676&amp;art=94"
+> [VER]</enlace>.</p>
+<imagen src="CS_10_01_CO_IMG18_small.jpg">
+<p><negrita>Vietnam</negrita>, en un extremo de Asia, fue protagonista
+de la Guerra Fría. Mientras en el norte, <negrita>Hô Chi Minh</negrita
+> ponía en práctica la construcción del socialismo vietnamita en un
+país sumido en la penuria, en Saigón, los estadounidenses imponían
+un gobierno presidido por <negrita>Ngo Dinh Diem</negrita>, que pronto
+derivó en una cruel dictadura, incumpliendo los acuerdos de Ginebra
+al negarse a convocar elecciones. La oposición a Diem se organizó
+en 1960 en el Frente de Liberación Nacional (FLN), también conocido
+como <negrita>Vietcong</negrita>, e inició la oposición armada contra
+los sucesivos gobiernos militares de Saigón.</p>
+</imagen>
+<destacado><destacadoTitulo>El napalm</destacadoTitulo><destacadoTexto>
+<p>“El napalm es una sustancia química que arde sin parar y no se
+puede extinguir fácilmente ni con tierra ni con agua; sus víctimas
+se consumen en medio del pavor de los observadores. Ese combustible
+gelatinoso tiene un doble propósito: con él se pretende que, a la
+vez que atormenta a la víctima, quebrante también la voluntad de resistencia
+de los supervivientes”.</p>
+<p>Bertrand Russell</p>
 </destacadoTexto></destacado><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso130&amp;IdRecurso=RES-DB1E13FA9A8A4B98A4BB1952E3A4A6BB"
->Video como media principal - 03</enlace>
+>Conoce aspectos de la Guerra de Vietnam</enlace>
 </profundiza></seccion2Texto></seccion2><seccion2
 id="S2_CS_10_01_CO_52C9E76831D1461DB88063E1F84C4D90">
 <seccion2Titulo>La Revolución de Irán</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_16_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>La revolución religiosa y nacionalista liderada por el <negrita
+>Ayatollah Ruhollah Khomeini</negrita> en <negrita>Irán</negrita> triunfó
+en 1979. Este movimiento fue promovido por la <negrita>Unión Soviética</negrita
+>, con el fin de derrocar al <negrita>Sha de Irán</negrita>, un fuerte
+aliado de Estados Unidos.</p>
+<p>El fin de la <negrita>Revolución iraní</negrita> era recuperar
+las cuantiosas <negrita>reservas de petróleo</negrita>, por eso, una
+vez en el gobierno, Khomeini ordenó la nacionalización de empresas
+extranjeras y organizó un Estado sobre <negrita>bases islámicas chiitas</negrita
+>, lo que significa que defendió los valores tradicionales de la <negrita
+>cultura musulmana iraní</negrita>.</p>
+<imagen src="CS_10_01_CO_IMG19_small.jpg">
+<p><negrita>Irán, territorio disputado por americanos y soviéticos</negrita
+>. Con una superficie de 1.648.195 km<superindice>2</superindice> y
+una población de 75.611.798 habitantes, se divide en 28 provincias.
+La religión más extendida en su territorio es la musulmana de rito
+chiita.</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+</seccion2Texto></seccion2><seccion2
 id="S2_CS_10_01_CO_DAF65F8EB5B844BFB5BFF6AED751278A">
 <seccion2Titulo>El conflicto en Afganistán</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_17_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>El Vietnam de los soviéticos fue <negrita>Afganistán</negrita>,
+país que invadieron <negrita>tropas soviéticas</negrita> en 1979 con
+el propósito de mantener el gobierno comunista contra los ataques
+de los <negrita>fundamentalistas islámicos</negrita> apoyados por <negrita
+>Estados Unidos</negrita>.</p>
+<p>Conoce las características de la corriente fundamentalista islámica,
+cuyo objetivo principal es que las leyes coránicas se incluyan en
+las constituciones de los Estados de población musulmana<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=10&amp;idpil=VI000485&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_10_01_CO_IMG20_small.jpg">
+<p>Luego de diez años, y después de la <negrita>resistencia de los
+afganos</negrita>, las tropas soviéticas se retiraron del territorio.
+Para la Unión Soviética, la retirada de las tropas de este país significó
+una derrota.</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_18_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Conoce los conflictos bélicos que han sacudido a Afganistán desde
+su creación como Estado moderno<enlace
+destino="http://aulaplaneta.planetasaber.com/theworld/monographics/seccions/cards/default.asp?pk=2511&amp;art=39"
+> [VER]</enlace>.</p>
+<p>Los especialistas dividen en <negrita>dos fases</negrita> la Guerra
+de Afganistán. La primera se produjo entre diciembre de 1979 y febrero
+de 1980: se caracterizó por la <negrita>invasión de las tropas soviéticas</negrita
+> al territorio afgano y el establecimiento en él por medio de bases
+y guarniciones.</p>
+<p>En un primer momento, las fuerzas soviéticas permanecieron en las
+bases y guarniciones, pero poco a poco entraron a combatir a los rebeldes
+afganos.</p>
+<imagen src="CS_10_01_CO_IMG21_small.jpg">
+<p><negrita>Afganistán</negrita> entre los <negrita>estadounidenses</negrita
+> y los <negrita>soviéticos</negrita>. La presencia de tropas extranjeras
+estimuló el surgimiento de guerrillas islámicas, los <cursiva>mujahiddin</cursiva
+>, inspirados en la revolución iraní, que se enfrentaron al Ejército
+soviético y al afgano.</p><?Pub Caret -2?>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<p>La segunda fase abarca desde marzo de 1980 a abril de 1985. Durante
+ella las fuerzas soviéticas protagonizaron <negrita>operaciones de
+combate a gran escala</negrita>.</p>
+<p>Ello implicó una enorme logística que incluyó más de 81.800 hombres,
+600 tanques, 1500 vehículos oruga, 2900 vehículos de transporte de
+personal, 500 aviones y helicópteros, e igual número de piezas de
+artillería de diferentes calibres.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_10_01_CO_4D01C8AC7EEE44B69932A104245A4310">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso140&amp;IdRecurso=RES-B5CBFCA851094C31B2B0FAFFEC508C40"
->Recurso M101A-02</enlace>
+>Refuerza tu aprendizaje: Influencias de la Guerra Fría en el mundo</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_10_01_CO_76AE6237751647538F29331D8119F067">
-<seccion1Titulo>Descolonización</seccion1Titulo>
+<seccion1Titulo>La descolonización</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_19_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><profundiza>
+<p>Entre 1945 y 1970, antiguas colonias de <negrita>potencias europeas</negrita
+> ubicadas en <negrita>África</negrita> y <negrita>Asia</negrita> iniciaron <negrita
+>procesos de independencia</negrita> que culminaron con la formación
+de <negrita>nuevos países</negrita> y <negrita>Estados</negrita>.</p>
+<p>El principal instigador del proceso de independencia de la India
+y Pakistán del dominio colonial británico fue el célebre líder pacifista
+Mahatma Gandhi. Conoce el proceso<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=10&amp;idpil=VI010474&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso150&amp;IdRecurso=RES-D1BBBD0C4A574D8484595A23950830D2"
->Video como media principal - 04</enlace>
+>La descolonización y el nacimiento del Tercer mundo</enlace>
 </profundiza>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_20_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>El hecho político que dio a conocer al mundo la crítica contra
+el <negrita>colonialismo</negrita> fue la <negrita>Conferencia de
+Bandung</negrita>, Indonesia, celebrada en 1955 e impulsada por <negrita
+>Sukarnu</negrita> y <negrita>Nehru</negrita>, líderes de Indonesia
+e India.</p>
+<p>La conferencia reunió a representantes de diferentes Estados y
+territorios que manifestaron su apoyo a <negrita>los procesos de descolonización</negrita
+>. Marcó la entrada en el escenario internacional de las naciones
+recientemente emancipadas. Amplía tus conocimientos sobre los procesos
+de descolonización<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idreg=8130&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<imagen src="CS_10_01_CO_IMG22_small.jpg">
+<p>La <negrita>conferencia de Bandung</negrita> (Java, Indonesia)
+agrupó a los delegados de 23 naciones asiáticas y seis africanas que
+se declararon contrarios al colonialismo. Los <negrita>primeros ministros
+japonés y chino</negrita> (Tatsunosuke Takasaki y Zhou Enlai) conversan
+durante las jornadas de la conferencia.</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<p>El <negrita>Movimiento de los países no alineados</negrita>, integrado
+en 1960, recogió las banderas de la Conferencia de Bandung. Este fue
+impulsado por líderes que hicieron presencia en la conferencia: Nerhu,
+de India; Sukarnu, de Indonesia; Nasser, de Egipto, y Tito, de Yugoslavia,
+tras su ruptura con la Unión Soviética.</p>
+<p>La descolonización se ubica en el marco de la Guerra Fría debido
+a que la formación de nuevos países implicó el <negrita>apoyo del
+bloque</negrita> comunista o capitalista. Estos procesos de descolonización
+obedecen a diferentes causas, entre ellas el crecimiento demográfico
+en las colonias, las crisis económicas y la extensión de nacionalismos
+y socialismos en territorios de África y Asia.</p>
+<p>El impacto de la Segunda Guerra Mundial en los procesos de descolonización
+es innegable: luego del conflicto se produjo un ambiente internacional
+que favoreció la <negrita>democracia</negrita> y, por tanto, la <negrita
+>independencia</negrita> y la <negrita>autonomía</negrita> de las
+sociedades.</p>
+<imagen src="CS_10_01_CO_IMG23_small.jpg">
+<p>Proceso de descolonización del Sahara Occidental, 1975-1979.</p>
+</imagen>
+<p>Después de la guerra, cada vez más líderes mundiales y sociedades
+de muchos países se manifestaron en contra del colonialismo, situación
+que impulsó apoyos masivos a los movimientos que luchaban para obtener
+la <negrita>independencia</negrita> de sus territorios.</p>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso160&amp;IdRecurso=RES-BB2CFE22A6514F5B88B260274D792CAC"
->Recurso M5D-02</enlace>
-</practica><seccion2
-id="S2_CS_10_01_CO_4D01C8AC7EEE44B69932A104245A1158">
+>Conoce ideas sobre la descolonización de Asia y África tras la Segunda
+Guerra Mundial</enlace>
+</practica>
+<p>A pesar de la independencia de las antiguas colonias, los procesos
+de descolonización no significaron soluciones para los problemas económicos
+y sociales en estos territorios.</p>
+<p>En muchos de ellos, la situación deplorable de las sociedades desmejoró,
+entre otras razones porque los nuevos países trazaron <negrita>fronteras
+artificiales</negrita> que degeneraron en <negrita>conflictos tribales</negrita
+> o entre los nuevos Estados.</p>
+<seccion2 id="S2_CS_10_01_CO_4D01C8AC7EEE44B69932A104245A1158">
 <seccion2Titulo>Las formas de descolonización</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_21_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Los procesos de <negrita>descolonización</negrita> se lograron
+por diferentes medios. Uno de ellos fue la organización de <negrita
+>guerrillas</negrita> para derrocar los poderes establecidos por <negrita
+>potencias europeas</negrita>. Tal fue el caso de <negrita>Argelia</negrita
+> y <negrita>Vietnam</negrita>. Otros medios fueron la resistencia
+activa, cuyo caso ejemplar es la <negrita>India</negrita> de <negrita
+>Gandhi</negrita>; y la negociación política, como en buena parte
+del <negrita>África negra</negrita>.</p>
+<imagen src="CS_10_01_CO_IMG24_small.jpg">
+<p>La <negrita>descolonización de África y Asia</negrita>. Ésta consistió
+en la transferencia del poder político de las metrópolis a la población
+indígena, pero dejó a las antiguas colonias en una situación de dependencia
+económica que todavía no les ha permitido desarrollar y gestionar
+sus recursos naturales en función de sus propios intereses.</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso170&amp;IdRecurso=RES-6F3DACE6D84740EC93D7FF01677C4B80"
->Recurso F8-01</enlace>
-</profundiza>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_22_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<p>El atraso económico producto de la dependencia a la que fueron
+sometidos las sociedades y territorios descolonizados generó situaciones
+de crisis frente a las cuales los nuevos Gobiernos no tuvieron mecanismos
+de respuesta.</p>
+<p>Además, la ausencia de <negrita>estructuras sociales</negrita> estables
+o de <negrita>identidades</negrita> que corresponden con patrones
+de tribu o territorios no favoreció el impulso de políticas de modernización,
+por el contrario, las bloqueó o las impidió.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_10_01_CO_4D01C8AC7EEE44B69932A104245A7770">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso180&amp;IdRecurso=RES-A38253805C0348478A81455970612414"
->Recurso M101A-03</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_25_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso210&amp;IdRecurso=RES-381735776C104C979332C4DFFC264CEA"
->Recurso M101A-04</enlace>
+>Refuerza tu aprendizaje: La descolonización</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CS_10_01_CO_84E2DCE7C9FA45F5AB1AD48DB1E7A6A7">
 <seccion1Titulo>La Unión Europea</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_23_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>La <negrita>Unión Europea</negrita> se formó después de la <negrita
+>Segunda Guerra Mundial</negrita> con el propósito de mantener la
+paz entre los Estados miembros, fomentar la <negrita>cooperación económica</negrita
+>, promover la seguridad de los ciudadanos de la Unión, impulsar la
+solidaridad económica y social, preservar su <negrita>diversidad e
+identidad</negrita>, y consagrar los valores políticos, sociales,
+económicos y culturales.</p>
+<imagen src="CS_10_01_CO_IMG25_small.jpg">
+<p>Miembros del <negrita>Consejo de la Unión Europea</negrita>. En
+términos demográficos, la Unión Europea comprende un territorio de
+4 millones de km², en el cual habitan más de 495 millones de habitantes;
+un mercado enorme solo superado por las poblaciones de China e India.
+La unión cuenta con diferentes idiomas, culturas y criterios políticos,
+lo que la hace un espacio de diversidad y pluralidad.</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><profundiza>
+<p>El primer paso de <negrita>integración</negrita> entre países europeos
+se dio en 1957, año en el cual Alemania, Bélgica, Francia, Italia,
+Luxemburgo y los Países Bajos crearon la <negrita>Comunidad Económica
+Europea (CEE)</negrita>.</p>
+<p>El propósito de esta primera comunidad fue frenar los conflictos
+bélicos entre países europeos.</p>
+<profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso190&amp;IdRecurso=RES-73D685B902E0454383A6BDC7FA08F3D8"
->Recurso F10-02</enlace>
-</profundiza>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_24_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+>La construcción de una nueva Europa</enlace>
+</profundiza><destacado><destacadoTitulo>Fechas importantes en la
+ruta de la Unión Europea</destacadoTitulo><destacadoTexto>
+<listaSinNumerar>
+<listaElemento>1951: Los seis miembros fundadores crean la Comunidad
+Europea del Carbón y del Acero.</listaElemento>
+<listaElemento>1957: Los mismos seis países firman los Tratados de
+Roma, creando la Comunidad Económica Europea (CEE) y la Comunidad
+Europea de la Energía Atómica (Euratom).</listaElemento>
+<listaElemento>1973: Las comunidades se amplían a nueve Estados miembros
+e introducen más políticas comunes.</listaElemento>
+<listaElemento>1979: Primeras elecciones directas del Parlamento Europeo.</listaElemento>
+<listaElemento>1981: Primera ampliación mediterránea.</listaElemento>
+<listaElemento>1992: El mercado único europeo se convierte en una
+realidad.</listaElemento>
+<listaElemento>1993: El Tratado de Maastricht establece la Unión Europea
+(UE).</listaElemento>
+<listaElemento>2002: El euro entra en circulación.</listaElemento>
+<listaElemento>2007: La Unión Europea tiene 27 Estados miembros.</listaElemento>
+<listaElemento>2009: Entra en vigor el Tratado de Lisboa. Cambia el
+funcionamiento de la Unión Europea.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado>
+<p>Una vez terminada la Guerra Fría, después de 1989 (caída del muro
+de Berlín), más países se sumaron a la CEE. Con ello, empezaron a
+trazarse <negrita>políticas comunes</negrita> en aspectos económicos
+y de relaciones internacionales.</p>
+<p>Tal es el caso de la creación del <negrita>euro</negrita> como
+moneda única, vigente desde 2002, y la supresión de los <negrita>controles
+fronterizos</negrita> entre los países miembros.</p>
+<imagen src="CS_10_01_CO_IMG26_small.jpg">
+<p>Mapa de los Estados miembros de la Unión Europea.</p>
 </imagen>
+<p>El <negrita>Tratado de Lisboa</negrita> de 2009 es la carta de
+navegación de <negrita>la unión</negrita>. En él se destacan los derechos
+fundamentales que las instituciones y países miembros de la unión
+deben defender.</p>
 <recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<p>La organización de la Unión Europea tiene un órgano ejecutivo denominado <negrita
+>Comisión Europea</negrita>, el cual representa los diferentes intereses
+de los países miembros. La sede de la Comisión es Bruselas, Bélgica.
+Los integrantes de la Comisión se nombran cada cinco años. Esta es
+presidida por un presidente, el cual es propuesto por el <negrita
+>Consejo Europeo</negrita>.</p>
+</recuerdaTexto></recuerda>
+<imagen src="CS_10_01_CO_IMG27_small.jpg">
+<p>El <negrita>Consejo Europeo</negrita> es la principal instancia
+de decisión de la Unión Europea. Jefes de Estado y de Gobierno y ministros
+de Asuntos Exteriores de la comunidad en la reunión del Consejo Europeo
+de Atenas (Grecia), en abril de 2003.</p>
+</imagen>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso200&amp;IdRecurso=RES-B4CC11B795D0432CBCFFB0D7FF93D883"
->Recurso M9B-01</enlace>
-</practica></seccion1Texto></seccion1><seccion1
-id="S1_CS_10_01_CO_76A1F188E0554B03A5EC0E6BB16EF546">
+>Analiza el origen de la Unión Europea</enlace>
+</practica><seccion2
+id="S2_CS_10_01_CO_4D01C8AC7EEE44B69932A104245A6634">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso210&amp;IdRecurso=RES-381735776C104C979332C4DFFC264CEA"
+>Refuerza tu aprendizaje: La Unión Europea</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_10_01_CO_76A1F188E0554B03A5EC0E6BB16EF546">
 <seccion1Titulo>Competencias</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_26_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso220&amp;IdRecurso=RES-C278DE3032744898B007018FD32A6992"
->Recurso F13-01</enlace>
-</profundiza>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CS_10_01_CO_img_27_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso230&amp;IdRecurso=RES-30853C7CEBE8458EA30A60E2351044DF"
->Recurso M102AB-01</enlace>
+>Competencias: el final de la Guerra Fría y sus implicaciones</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso220&amp;IdRecurso=RES-C278DE3032744898B007018FD32A6992"
+>Proyecto: Colombia y el final de la Guerra Fría</enlace>
 </practica></seccion1Texto></seccion1><masinformacion
 id="MI_CS_10_01_CO_4E821F375ACA436B8193DCDF37941F55"><mapaconceptual>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso250&amp;IdRecurso=RES-7575D21EA7F649C48D87764651C6691D"
->Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+>Mapa conceptual del tema El fin de la Guerra Fría y sus consecuencias</enlace>
+</mapaconceptual><autoevaluate><enlace
 destino="/LoIdRedirect.aspx?LoId=CS_10_01_CO_Recurso260&amp;IdRecurso=RES-00ACCB62E5E34ED8B68ED2CF946E30A0"
->Evaluación</enlace></autoevaluate><enlacesreferencia>
-<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+>Evalúa tus conocimientos sobre el tema El fin de la Guerra Fría y
+sus consecuencias</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://asiapacifico.utadeo.edu.co/?p=10159">La participación
+de Colombia en la guerra de Corea.</enlace>
+<enlace destino="http://www.voltairenet.org/article170507.html">Desclasificación
+de documentos de la guerra de Vietnam.</enlace>
+<enlace
+destino="http://www.scielo.org.co/scielo.php?pid=S0122-44092010000100008&amp;script=sci_arttext"
+>La invasión soviética de Afganistán.</enlace>
+<enlace
+destino="http://cultura.elpais.com/cultura/2014/11/07/babelia/1415359380_490325.html"
+>La caída del muro de Berlín.</enlace>
 </enlacesreferencia></masinformacion></libro>
