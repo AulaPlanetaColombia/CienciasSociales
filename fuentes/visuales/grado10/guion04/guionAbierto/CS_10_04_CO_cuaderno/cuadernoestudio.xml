@@ -1,377 +1,696 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_10_04_CO">
-  <libroTitulo>Colombia al final del siglo XX</libroTitulo>
-  <seccion1 id="S1_CS_10_04_CO_0E9C4AD613CC49C8BB9A50FE616E4527">
-    <seccion1Titulo>El narcotráfico y la violencia</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_04_CO_img_01_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso010&amp;IdRecurso=RES-C36034CE77F044E1B04383AACFB248B1">Diaporama F1-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_10_04_CO_9E88A1E20BB544C0A07C71C339AF9DF6">
-        <seccion2Titulo>De la marihuana a la cocaína</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_04_CO_img_02_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso020&amp;IdRecurso=RES-97A9495A51044DFAABDF5F7EE75B74F7">Recurso M10A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_04_CO_08BACF81A71247B28BF5709AB0086485">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_04_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso030&amp;IdRecurso=RES-489B2AEA98E2452BBD5E69F67EF268C4">Recurso M101A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_04_CO_img_05_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso050&amp;IdRecurso=RES-B34D7928E27E490185E9C876869B783E">Recurso M101A-02</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_04_CO_img_08_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso080&amp;IdRecurso=RES-D0A65F5AE10841D5ABB3B6593EEF1495">Recurso M101A-03</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_04_CO_img_11_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso110&amp;IdRecurso=RES-8443A68FB86B4D75B2CB4704E128325C">Recurso M101A-04</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_04_CO_img_13_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso130&amp;IdRecurso=RES-70C1D9E3628049998BD1CD37BCA86657">Recurso M101A-05</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_04_CO_img_15_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso150&amp;IdRecurso=RES-4B81527E3C4B4538BC77C19E18006B89">Recurso M101A-06</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_10_04_CO_0D950A3536274DB5B224F75A198BB20D">
-    <seccion1Titulo>La Constitución de 1991</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_04_CO_img_04_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso040&amp;IdRecurso=RES-65153A866AB547CEBD48DF11511AAF15">La importancia de la Constitución de 1991 para la nación colombiana</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_10_04_CO_6328655EE1DC4372B0C1B3DE9BF7D829">
-    <seccion1Titulo>El paramilitarismo</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_04_CO_img_06_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso060&amp;IdRecurso=RES-3C6485E4096943A2BC1FDECB4F9007BE">Recurso F4-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_04_CO_img_07_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso070&amp;IdRecurso=RES-DAF3255A79E94915A05D43E03B216180">Recurso M5D-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_10_04_CO_C1C4EF5833E240168C41425D5B831A2B">
-    <seccion1Titulo>La búsqueda de la paz</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_04_CO_img_09_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso090&amp;IdRecurso=RES-9ED24BEA675647DF83C257AA9E6104C5">Recurso F6-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_04_CO_img_10_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso100&amp;IdRecurso=RES-95A43C126BBE44C899A67EFC7C325AE4">Recurso M5D-02</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_10_04_CO_35CCDFF0E0FF4795854E51B967CFC0C0">
-    <seccion1Titulo>Las relaciones internacionales</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_04_CO_img_12_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso120&amp;IdRecurso=RES-084408B151F14174A7BB973B16950D8C">Recurso F10-01</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_10_04_CO_AD45A185C4224C57A8E4BBC350420B36">
-    <seccion1Titulo>Las manifestaciones culturales</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_04_CO_img_14_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso140&amp;IdRecurso=RES-2B9DE3B297C84E8FA0365347370E3C0B">Recurso F6-02</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_10_04_CO_942B65CDE12F4DE4BBAC35F8717FC255">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_04_CO_img_16_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso160&amp;IdRecurso=RES-0CFD36A0098A49F4A3400B2B048DEB28">Recurso M102AB-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_04_CO_img_17_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso170&amp;IdRecurso=RES-186A57CA8EFE4B60A07D15BD1E00BA99">Recurso F13-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_10_04_CO_866C1621A8FB442FACD4F8E5BAC3AACA">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso190&amp;IdRecurso=RES-289F15CEAFCD4563B11BD9D41A94EF85">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso200&amp;IdRecurso=RES-575A707F36CD439FABE32229F5EE10CD">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Colombia al final del siglo XX</libroTitulo>
+<seccion1 id="S1_CS_10_04_CO_0E9C4AD613CC49C8BB9A50FE616E4527">
+<seccion1Titulo>El narcotráfico y la violencia</seccion1Titulo>
+<seccion1Texto>
+<p>El final del siglo XX representó para los colombianos cambios que
+iban al compás de acontecimientos internacionales, como la caída de
+la Unión Soviética, el fin de la Guerra Fría y, con ello, la llegada
+de nuevos actores mundiales y el inicio de las políticas neoliberales,
+entre otros aspectos. Por su parte, América Latina consolidó sus democracias,
+lo que significó el fin de las dictaduras militares en muchos países.</p>
+<p>Estos cambios se reflejaron en Colombia; por ejemplo, con el <negrita
+>debilitamiento</negrita> de los movimientos de <negrita>izquierda</negrita
+>, que optaron por replantear sus bases ideológicas y sus formas de
+sostenimiento económico. Además, los gobiernos de las dos últimas
+décadas se alinearon con la dinámica <negrita>neoliberal</negrita
+> que se impuso en el mundo.</p>
+<imagen src="CS_10_04_CO_IMG01_small.jpg">
+<p>En Colombia, desde el gobierno de Virgilio Barco (1986-1990) se
+orientaron políticas económicas acordes con el modelo neoliberal.</p>
+</imagen>
+<p>Estos cambios del país ocurrieron a la vez en toda la <negrita
+>región latinoamericana</negrita>. Sin embargo, Colombia vivió una <negrita
+>experiencia particular</negrita> que marcó su destino por varios
+años: la inserción como <negrita>productor</negrita> de estupefacientes
+para la gran cadena del <negrita>narcotráfico</negrita>. Esta condición
+afectó el orden social, político, jurídico, económico y cultural.</p>
+<imagen src="CS_10_04_CO_IMG02_small.jpg">
+<p>Colombia, un país que inicia un nuevo siglo con cambios que la
+sociedad asume poco a poco.</p>
+</imagen>
+<p>Las últimas <negrita>generaciones</negrita> de colombianos vivieron
+las consecuencias del narcotráfico. Nombres como Pablo Escobar, Carlos
+Lehder, Gonzalo Rodríguez Gacha o los hermanos Rodríguez Orejuela
+formaron parte de la vida cotidiana del país. Sus <negrita>acciones
+violentas</negrita>, las formas económicas que promovieron y su injerencia
+en las <negrita>decisiones políticas</negrita> afectaron e involucraron
+a grandes <negrita>capas de la población</negrita>. En el presente,
+el país es, en parte, el resultado de los hechos ocurridos en aquellos
+años y propiciados por esos actores.</p>
+<p>Las dinámicas que se construyeron para facilitar la participación
+de los <negrita>carteles de la droga</negrita> en el negocio internacional
+del narcotráfico se basaron en una transformación de la vida local,
+regional y nacional. Grandes masas de <negrita>campesinos</negrita
+> fueron <negrita>despojados</negrita> de sus tierras u obligados
+a cultivar a gran escala las plantas que sirven de insumo para la
+fabricación de estupefacientes; así mismo, para garantizar la vía
+libre a la salida de la droga, fue necesario contar con la complicidad
+de autoridades de distinto nivel, lo que desató prácticas de <negrita
+>corrupción</negrita> y un <negrita>debilitamiento</negrita> de la <negrita
+>ética pública</negrita>.</p>
+<destacado><destacadoTitulo>Cambios en los índices de violencia</destacadoTitulo>
+<destacadoTexto>
+<p>Con el <negrita>narcotráfico</negrita> se produjeron alteraciones
+en los índices de violencia. Estos venían siendo muy altos entre 1948
+y 1953, disminuyeron levemente entre 1965 y 1970, y se incrementaron
+desde 1985. La violencia en el país cobró miles de víctimas, y a fines
+de siglo fue indiscutible el papel y la responsabilidad del narcotráfico
+en el crecimiento de estas cifras, particularmente porque este propició <negrita
+>confrontaciones urbanas y rurales</negrita> y estimuló la conformación
+y fortalecimiento de <negrita>grupos al margen de la ley</negrita
+>.</p>
+</destacadoTexto></destacado>
+<p>El fenómeno del narcotráfico tiene numerosas aristas. Una de ellas
+es la <negrita>producción</negrita>, que requiere materias primas
+y <negrita>procesamientos químicos</negrita> para su transformación
+en derivados que se comercializan para su <negrita>consumo</negrita
+> en el <negrita>exterior</negrita>. Por lo tanto, se trata de un
+negocio con socios nacionales y extranjeros. Estados Unidos, siendo
+el principal receptor y consumidor de droga, forma parte de este inmenso
+fenómeno.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso010&amp;IdRecurso=RES-C36034CE77F044E1B04383AACFB248B1"
+>La guerra contra las drogas y el Plan Colombia</enlace>
+</profundiza><seccion2
+id="S2_CS_10_04_CO_9E88A1E20BB544C0A07C71C339AF9DF6">
+<seccion2Titulo>De la marihuana a la cocaína</seccion2Titulo>
+<seccion2Texto>
+<p>El <negrita>negocio</negrita> del narcotráfico ha tenido <negrita
+>distintas etapas</negrita>. Primero se cultivó y exportó <negrita
+>marihuana</negrita>, y luego <negrita>cocaína</negrita> y otras sustancias.</p>
+<p>La <negrita>costa Caribe</negrita> colombiana, especialmente la
+región de Santa Marta y el departamento de La Guajira, fue el centro
+de los <negrita>primeros cultivos</negrita> de <negrita>marihuana</negrita
+>. La producción de marihuana encontró demanda en Estados Unidos;
+el dinero producto de estas ventas ingresó de manera ilegal al país
+y constituyó una notable fuente de fortunas para los exportadores.</p>
+<p>La sociedad colombiana no puso mayores reparos a estos <negrita
+>“nuevos empresarios”</negrita> y comerciantes, por el contrario,
+en algunos sectores sociales fueron admirados por la capacidad de
+amasar grandes riquezas. Sin embargo, de la mano de la riqueza empezaron
+a llegar también nuevas formas de violencia. La <negrita>bonanza</negrita
+> de la <negrita>marihuana</negrita> abarcó entre 1974 y 1980.</p>
+<imagen src="CS_10_04_CO_IMG03_small.jpg">
+<p>La bonanza marimbera, como se le conoció a la riqueza que trajo
+la exportación de la marihuana, afectó a grandes sectores de la sociedad
+colombiana. Tanto que alimentó temáticas literarias y de producción
+televisiva y radial. La <cursiva>mala hierba</cursiva>, del periodista
+Juan Gossaín, es un ejemplo de ello.</p>
+</imagen>
+<p>Cerca de veinte años de tráfico de marihuana hacia Estados Unidos
+abrieron para los <negrita>narcotraficantes</negrita> colombianos
+el camino para encontrar <negrita>socios</negrita>, <negrita>mercados</negrita
+>, <negrita>proveedores</negrita> de <negrita>químicos</negrita> y <negrita
+>armas</negrita>, y rutas para comercializar luego la cocaína.</p>
+<p>Para mediados de la década de los setenta, traficantes colombianos
+exportaban de <negrita>Perú</negrita> y <negrita>Bolivia</negrita
+> la pasta de coca, que se <negrita>procesaba en Colombia</negrita
+> y luego se vendía en Estados Unidos, vía Centroamérica o las Antillas.
+También se utilizaban <negrita>“mulas”</negrita> (personas que viajaban
+en vuelos comerciales y ocultaban en sus maletas o cuerpo cantidades
+pequeñas de cocaína).</p>
+<p>La razón por la que surgieron los <negrita>carteles</negrita> tuvo
+que ver con las <negrita>disputas</negrita> entre grupos de comerciantes
+por el <negrita>control</negrita> de las <negrita>rutas</negrita> para
+llevar la droga a Norteamérica. Ese dominio fue alcanzado por <negrita
+>Pablo Escobar</negrita>, quien se posicionó por encima de otros grupos
+de Medellín, del norte del Valle y Cali, de la costa Caribe, los Llanos
+Orientales y el centro y sur del país.</p>
+<imagen src="CS_10_04_CO_IMG04_small.jpg">
+<p>Hacienda Nápoles de Pablo Escobar, quien acaparó, con el uso de
+la violencia y la compra de conciencias, la mayor parte del mercado
+de la droga. Otros jefes narcotraficantes, como Carlos Lehder, los
+hermanos Rodríguez Orejuela, Gonzalo Rodríguez Gacha, aceptaron en
+un primer momento el dominio de Escobar, pero poco a poco quisieron
+vencerlo con distintos métodos, lo que ocasionó el recrudecimiento
+de la violencia en el país.</p>
+</imagen>
+<p>El <negrita>Estado no advirtió</negrita> la profundidad del <negrita
+>problema</negrita> del narcotráfico y poco hizo contra él, salvo
+la firma del <negrita>Tratado de Extradición</negrita> de <negrita
+>1980</negrita>, lo cual implicaba someter a nacionales a la justicia
+estadounidense, situación que desencadenó innumerables actos de terrorismo
+que buscaban presionar al gobierno nacional para que cambiara esta
+determinación.</p>
+<p>No obstante, para arrinconar al Estado y cumplir sus cometidos,
+los carteles de la droga iniciaron una <negrita>batalla desigual</negrita
+>. Con sus <negrita>armas</negrita> y poderío sometieron a las principales
+ciudades del país a un régimen de <negrita>terror</negrita>. Inesperadamente
+empezaron a estallar <negrita>bombas</negrita> en lugares transitados.
+El miedo se apoderó de la ciudadanía. Luego vinieron los <negrita
+>magnicidios</negrita>, como una retaliación por las medidas que tardíamente
+empezó a tomar el Estado.</p>
+<p>Uno de los hechos que suscitó el enfrentamiento del narcotráfico
+por parte de los gobiernos colombianos fue el asesinato del ministro
+de Justicia del gobierno de Belisario Betancur, <negrita>Rodrigo Lara</negrita
+>, como represalia por la lucha jurídica que este emprendió contra
+los carteles y que llevó a la destrucción del laboratorio de <negrita
+>Tranquilandia</negrita>.</p>
+<recuerda><recuerdaTexto>
+<p>Una vez <negrita>el Estado</negrita> entendió la dimensión del
+problema del narcotráfico empezó a tomar medidas como <negrita>el
+decomiso de cargamentos</negrita> y la <negrita>captura masiva</negrita
+> de personas involucradas en su comercio. Frente a esto, los carteles
+respondieron con una ola de <negrita>terrorismo</negrita> (1984-1992),
+que incluyó el <negrita>asesinato</negrita> de <negrita>figuras públicas</negrita
+> y atentados terroristas en las principales ciudades. La idea era
+someter al Estado a los intereses de los jefes de la droga, quienes,
+además, incursionaron en la política y con sus enormes recursos obtuvieron
+curules en el Congreso.</p>
+</recuerdaTexto></recuerda>
+<imagen src="CS_10_04_CO_IMG05_small.jpg">
+<p>La violencia generada por el enfrentamiento entre el gobierno y
+los carteles se recrudeció. El asesinato de tres candidatos presidenciales
+(Luis Carlos Galán, Jaime Pardo Leal y Bernardo Jaramillo Ossa), la
+bombas en las sedes del periódico El Espectador, el DAS y en un avión
+de la aerolínea Avianca, entre otros actos terroristas, y las respuestas
+del gobierno amenazando con la extradición de los capos de la droga,
+dejó un saldo de víctimas y damnificados en la población civil, así
+como un hastío por las acciones de unos y otros.</p>
+</imagen>
+<p>Los enormes recursos con los que contaban los carteles les permitieron
+comprar las conciencias de <negrita>funcionarios</negrita> del <negrita
+>poder judicial</negrita>, <negrita>ejecutivo</negrita> y <negrita
+>legislativo</negrita>, ubicados en cargos de decisión. Por tal razón,
+cuando algunos de sus líderes eran detenidos, rápidamente eran declarados
+inocentes. En tal contexto, el recurso de la <negrita>extradición</negrita
+> era lo único a lo que le temían los narcotraficantes.</p>
+<p>Con el ánimo de frenar la violencia, el gobierno de <negrita>César
+Gaviria</negrita> (1990-1994) abrió las puertas a las <negrita>negociaciones</negrita
+> con los narcotraficantes. Para ello, les ofreció no extraditarlos
+si se sometían a la justicia, confesaban sus delitos y acataban las
+penas impuestas. Inicialmente, la estrategia funcionó con el sometimiento
+de figuras del <negrita>clan Ochoa</negrita>. Por su parte, Pablo
+Escobar prefirió esperar a que la <negrita>Constituyente de 1991</negrita
+> aprobara la <negrita>no extradición</negrita> de nacionales, luego
+se sometió a la justicia.</p>
+<p>Un año después, en 1992, Escobar se fugó de la cárcel. El gobierno
+emprendió una campaña para recapturarlo, que terminó con la muerte
+del capo en diciembre de 1993.</p>
+<recuerda><recuerdaTexto>
+<p>El rediseño del Estado colombiano a partir de la Constitución de
+1991 y el fortalecimiento de las Fuerzas Armadas y la Policía, así
+como del sistema judicial permitió, con el pasó de los años, capturar
+a los líderes de los principales carteles del narcotráfico, algunos
+de ellos fueron extraditados a Estados Unidos. No obstante, el comercio
+de coca continúa, aunque sin la fuerza y daño que ocasionó al país
+en los años ochenta y noventa.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso020&amp;IdRecurso=RES-97A9495A51044DFAABDF5F7EE75B74F7"
+>Conoce el debate sobre la legalización de las drogas</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_04_CO_08BACF81A71247B28BF5709AB0086485">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso030&amp;IdRecurso=RES-489B2AEA98E2452BBD5E69F67EF268C4"
+>Refuerza tu aprendizaje: El narcotráfico y la violencia</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_10_04_CO_0D950A3536274DB5B224F75A198BB20D">
+<seccion1Titulo>La Constitución de 1991</seccion1Titulo>
+<seccion1Texto>
+<p>Durante los gobiernos de <negrita>Virgilio Barco</negrita> (1986-1990)
+y <negrita>César Gaviria</negrita> (1990-1994) se realizaron <negrita
+>diálogos</negrita> con grupos <negrita>guerrilleros</negrita> para
+conseguir su desmovilización. El principal grupo que participó en
+estos diálogos fue el <negrita>M-19</negrita>. Luego de ellos se convocó
+a una <negrita>Asamblea Constituyente</negrita> con el propósito de
+abrir espacios políticos a sectores que pedían mayor participación,
+así como para poder implementar unas reformas del Estado, que con
+el marco jurídico de la Constitución de 1886 eran poco eficaces.</p>
+<p>Un movimiento conocido como la <negrita>“Séptima Papeleta”</negrita
+>, conformado por juristas y académicos jóvenes, impulsó la necesidad
+de la Asamblea en la conciencia política del país, aprovechando las
+elecciones de marzo de 1990, en las que los colombianos votaron para
+elegir candidatos a seis cargos: Senado, Cámara de Representantes,
+Asambleas Departamentales, Juntas Administradoras Locales, Concejos
+Municipales y Alcaldías. En esa ocasión se introdujo una séptima papeleta,
+para hacer la consulta sobre la convocatoria de una <negrita>Asamblea
+Nacional Constituyente</negrita>. Más de dos millones de colombianos
+apoyaron la iniciativa.</p>
+<p>El presidente César Gaviria convocó a <negrita>elecciones</negrita
+> en diciembre de 1990 para elegir los <negrita>70 miembros</negrita
+> de la Asamblea Nacional Constituyente. Además se dio representación
+con voz, pero sin voto, a representantes de los grupos guerrilleros
+que estaban en procesos de negociación: dos del Ejército Popular de
+Liberación (EPL), uno del Partido Revolucionario de los Trabajadores
+y uno del movimiento armado Quintín Lame.</p>
+<imagen src="CS_10_04_CO_IMG06_small.jpg">
+<p>La Asamblea sesionó entre el 5 de febrero y el 4 de julio de 1991.
+Para redactar la nueva Constitución, los asambleístas se organizaron
+en cinco comisiones y fue presidida por Antonio Navarro Wolf (M-19),
+Álvaro Gómez Hurtado (Movimiento de Salvación Nacional) y Horacio
+Serpa (Partido Liberal).</p>
+</imagen>
+<p>La Constitución Política de 1991 quedó integrada por 380 artículos,
+60 transitorios. Está organizada en 14 títulos, cada uno de los cuales
+está integrado por capítulos. El título 14 agrupó a los artículos
+transitorios.</p>
+<p>Los aspectos más destacados de la Constitución de 1991 pueden resumirse
+de la siguiente manera: además de los derechos fundamentales, consagra
+derechos económicos, sociales y colectivos, para cuya defensa creó
+mecanismos como la <negrita>acción de tutela</negrita>. La Constitución
+contempla la <negrita>libertad de cultos</negrita>, lo que implica
+que el <negrita>Estado</negrita> colombiano es <negrita>laico</negrita
+>; por tal razón el catolicismo deja de ser religión oficial y cesa
+su preeminencia sobre la educación o el matrimonio.</p>
+<p>El respeto a las <negrita>comunidades étnicas</negrita> se respalda
+en la reserva de escaños en el Congreso. Sobre equidad de género,
+la Constitución consagró la igualdad de ellos e impulsó la <negrita
+>participación de las mujeres</negrita> en la administración pública.</p>
+<p>Además de la elección de gobernantes, los colombianos pueden participar
+democráticamente en mecanismos como el <negrita>plebiscito</negrita
+>, el <negrita>referendo</negrita>, la <negrita>consulta popular</negrita
+>, el cabildo abierto, la iniciativa legislativa y la revocatoria
+de mandato.</p>
+<recuerda><recuerdaTexto>
+<p>La Fiscalía General de la Nación, la Defensoría del Pueblo y la
+Corte Constitucional son entidades creadas a partir de la Constitución
+de 1991, así como la doble nacionalidad y la segunda vuelta presidencial.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso040&amp;IdRecurso=RES-65153A866AB547CEBD48DF11511AAF15"
+>La importancia de la Constitución de 1991 para la nación colombiana</enlace>
+</profundiza><seccion2
+id="S2_CS_10_04_CO_08BACF81A71247B28BF5709AB0087596">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso050&amp;IdRecurso=RES-B34D7928E27E490185E9C876869B783E"
+>Refuerza tu aprendizaje: La Constitución de 1991</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_10_04_CO_6328655EE1DC4372B0C1B3DE9BF7D829">
+<seccion1Titulo>El paramilitarismo</seccion1Titulo>
+<seccion1Texto>
+<p>Durante el <negrita>Frente Nacional</negrita> (1958-1974) se conformaron
+en Colombia los <negrita>grupos guerrilleros</negrita>: en 1964, las
+Fuerzas Armadas Revolucionarias de Colombia (Farc); en 1965, el Ejército
+de Liberación Nacional (ELN); en 1967, el Ejército Popular de Liberación
+(EPL), y en 1970, el M-19, entre otros. Los antecedentes de algunos
+de estos grupos son las denominadas <negrita>autodefensas campesinas</negrita
+>, que se enfrentaron a la dictadura de <negrita>Rojas Pinilla</negrita
+> y a gobiernos del <negrita>Frente Nacional</negrita>. En la década
+de los setenta, las guerrillas ganaron presencia en la <negrita>sociedad
+colombiana</negrita>, mucha de esta se tradujo en <negrita>apoyos</negrita
+> y respaldos.</p>
+<p>Para combatir los movimientos guerrilleros, no solo de Colombia
+sino del resto de América Latina, Estados Unidos impulsó la <negrita
+>Doctrina de la Seguridad Nacional</negrita> en los años sesenta y
+setenta. El propósito de esta doctrina era <negrita>contrarrestar</negrita
+> la <negrita>expansión del comunismo</negrita>, de los grupos guerrilleros
+y de los movimientos populares. Para ello, en diferentes países de
+Latinoamérica <negrita>asesores militares estadounidenses</negrita
+> promovieron la conformación de <negrita>organizaciones civiles</negrita
+> que <negrita>combatieran</negrita> el <negrita>comunismo</negrita
+>. Estas recomendaciones se tradujeron en leyes (<negrita>Ley 48 de
+1968</negrita>) que dieron fundamento legal para la organización de
+la <negrita>“defensa nacional”</negrita>, la <negrita>“defensa civil”</negrita
+> y la promoción en la organización de las <negrita>“autodefensas”</negrita
+>. En el marco de esta normatividad, <negrita>civiles</negrita> fueron <negrita
+>entrenados</negrita> por miembros de la fuerza pública para que formaran
+organizaciones que respaldaran la lucha <negrita>contrainsurgente</negrita
+> del Estado.</p>
+<p>Muchas de estas organizaciones contrainsurgentes, que contaban
+con armas y apoyo oficial, iniciaron campañas de amedrentamiento contra
+la población civil, lo cual impedía la libre expresión de inconformidad
+social. Durante el gobierno de <negrita>César Gaviria</negrita> (1990-1994)
+se emitió el <negrita>Decreto Ley 3567 de 1994</negrita> para responder
+a la escalada guerrillera; este decreto creaba los <negrita>“servicios
+especiales de seguridad privada”</negrita> conocidos como <negrita
+>Convivir</negrita>.</p>
+<imagen src="CS_10_04_CO_IMG07_small.jpg">
+<p>Las Convivir fueron organizaciones que operaron en zonas de combate
+donde el orden público se encontraba alterado por acciones de la guerrilla.
+El decreto que las creó (3567 de 1994) fue la puerta abierta para
+legalizar muchos grupos paramilitares que operaban desde los años
+ochenta.</p>
+</imagen>
+<p>Durante <negrita>1996</negrita>, más de 2000 Convivir se fusionaron
+con grupos paramilitares y crearon las <negrita>Autodefensas Unidas
+de Colombia (AUC)</negrita>, movimiento de extrema derecha al mando
+de <negrita>Carlos Castaño</negrita>, que emprendió acciones inicialmente
+para enfrentar a la guerrilla, pero que terminó sobrepasando su fin
+y ocasionó graves daños a la población civil.</p>
+<p>Las <negrita>AUC</negrita> se declararon como grupo <negrita>contrainsurgente</negrita
+> que <negrita>combatía</negrita> a las <negrita>Farc</negrita>, el
+ELN y el EPL. Obtenían recursos del <negrita>narcotráfico</negrita
+>, el <negrita>secuestro</negrita> y la <negrita>extorsión</negrita
+>, así como de personas o <negrita>empresas que las apoyaban</negrita
+> para obtener a cambio <negrita>protección</negrita>. Esta manera
+de actuar fue posible no solo por su poderío militar, sino por el
+respaldo que recibieron de organismos de inteligencia del Estado,
+políticos y empresarios.</p>
+<recuerda><recuerdaTexto>
+<p>Se adjudican a grupos paramilitares el exterminio de la Unión Patriótica
+(UP), más de 3500 masacres perpetradas entre 1982 y 2005, el desplazamiento
+de millones de campesinos y el robo de más de 6 millones de hectáreas
+de tierra.</p>
+</recuerdaTexto></recuerda>
+<p>De acuerdo con la <negrita>intensidad del conflicto</negrita>,
+en distintas regiones del país el paramilitarismo empleó diferentes
+estrategias para enfrentar al comunismo, las guerrillas y los movimientos
+populares. Uno de los motores que amplió la <negrita>presencia paramilitar</negrita
+> fue el interés por los <negrita>recursos naturales</negrita> que
+tenían <negrita>empresas de explotación</negrita>. Estas empresas
+buscaron el apoyo <negrita>paramilitar</negrita> para garantizar el
+acceso a tierras fértiles, particularmente aquellas habitadas por
+campesinos e indígenas. El papel de los paramilitares fue <negrita
+>desplazar</negrita> a las comunidades a la fuerza.</p>
+<p>En regiones ganaderas y con importantes recursos minerales (esmeraldas,
+petróleo, carbón, entre otros), terratenientes, ganaderos y empresas
+se unieron para financiar ejércitos paramilitares que los defendieran
+del accionar de las guerrillas, pero también de movimientos populares
+que reclaman sus derechos. Para ello, entrenaron y armaron a grupos
+de pobladores o mercenarios. Las acciones de estos ejércitos van desde
+el enfrentamiento armado con las guerrillas, hasta acciones militares
+contra la población civil, que terminan en <negrita>ejecuciones selectivas</negrita
+>, <negrita>desapariciones</negrita> o en <negrita>masacres</negrita
+>, como las de Segovia, Honduras, La Negra, El Tomate y Pueblo Bello.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso060&amp;IdRecurso=RES-3C6485E4096943A2BC1FDECB4F9007BE"
+>El paramilitarismo en diversos sectores de la sociedad colombiana</enlace>
+</profundiza>
+<p>Durante el gobierno de <negrita>Álvaro Uribe</negrita> (2002-2010)
+se iniciaron negociaciones con las AUC. Estas terminaron en acuerdos
+de desmovilización en 2003. No obstante, denuncias de los medios de
+comunicación respaldadas en documentos y grabaciones telefónicas demostraron
+que algunos comandantes seguían delinquiendo desde la cárcel. Como
+solución, el gobierno extraditó a Estados Unidos a un grupo de jefes
+paramilitares en mayo de 2008 para que respondieran en ese país por
+el delito de narcotráfico; sin embargo, en sus penas no se contemplan
+los crímenes contra la población civil.</p>
+<recuerda><recuerdaTexto>
+<p>Tras el proceso de desmovilización de las AUC, Colombia conoció
+la enorme influencia de los grupos paramilitares que, en contubernio
+con la extrema derecha, dirigentes políticos y económicos y narcotraficantes,
+lograron posicionar a más de 50 parlamentarios elegidos por diferentes
+medios.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso070&amp;IdRecurso=RES-DAF3255A79E94915A05D43E03B216180"
+>Analiza acciones del paramilitarismo en Colombia</enlace>
+</practica><seccion2
+id="S2_CS_10_04_CO_08BACF81A71247B28BF5709AB0088607">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso080&amp;IdRecurso=RES-D0A65F5AE10841D5ABB3B6593EEF1495"
+>Refuerza tu aprendizaje: El paramilitarismo</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_10_04_CO_C1C4EF5833E240168C41425D5B831A2B">
+<seccion1Titulo>La búsqueda de la paz</seccion1Titulo>
+<seccion1Texto>
+<p>En Colombia la búsqueda de la paz ocupa buena parte de la historia
+republicana. Para citar dos ejemplos del siglo XX: los diálogos y
+pactos de paz entre liberales y conservadores para saldar la <negrita
+>Guerra de los mil días</negrita> y la amnistía de <negrita>1953</negrita
+>, durante el gobierno del <negrita>general Rojas Pinilla</negrita
+>, quién llamó a la desmovilización a las <negrita>guerrillas liberales</negrita
+> comandadas por Guadalupe Salcedo. A finales del siglo XX se presentaron <negrita
+>nuevos intentos</negrita> de paz.</p>
+<p>En el gobierno de <negrita>Belisario Betancur</negrita> (1982-1986)
+se decretó la <negrita>Ley de amnistía de 1982</negrita>, que buscó
+la desmovilización de las Farc, el ELN, el EPL y el M-19. La Comisión
+de Paz creada por el gobierno logró en <negrita>marzo de 1984</negrita
+> el primer acuerdo de <negrita>cese al fuego</negrita> con las <negrita
+>Farc</negrita>. El acuerdo incluía, además, el establecimiento de
+garantías para ejercer la actividad política por parte de los integrantes
+de la guerrilla y el reconocimiento a la <negrita>oposición</negrita
+> como <negrita>actor político</negrita>.</p>
+<imagen src="CS_10_04_CO_IMG08_small.jpg">
+<p>Como resultado de este acuerdo se conformó la <negrita>Unión Patriótica
+(UP)</negrita>, partido político que surgió como propuesta legal de
+la izquierda. En la UP participaron indígenas, estudiantes, líderes
+afro, agrarios y sindicalistas, entre otros. La mayoría de los integrantes
+de este partido fueron asesinados por grupos paramilitares.</p>
+</imagen>
+<p>También con el M-19 y el EPL el gobierno adelantó diálogos en Corinto
+(Cauca) y Hobo (Huila). En agosto de 1984 se determinó el cese al
+fuego. No obstante, el incumplimiento de una y otra parte, la falta
+de garantías para ejercer oposición, los ataques a la población civil
+y los asesinatos perpetrados por grupos paramilitares terminaron con
+el intento de paz del gobierno Betancur. La toma del <negrita>Palacio
+de Justicia</negrita> por parte del <negrita>M-19</negrita> en noviembre
+de 1985, <negrita>rompió</negrita> cualquier intento de <negrita>negociación</negrita
+>.</p>
+<p>Durante su mandato, <negrita>Virgilio Barco</negrita> (1986-1990)
+promovió la Iniciativa para la paz, que consistió en adelantar diálogos
+con las guerrillas del <negrita>M-19</negrita> y el <negrita>EPL</negrita
+>, que concluyeron con la <negrita>desmovilización</negrita> de ambos
+grupos en 1990.</p>
+<p>Durante la presidencia de <negrita>César Gaviria</negrita> (1990-1994),
+se abrieron diálogos de paz en <negrita>Tlaxcala</negrita>, México,
+con la <negrita>Coordinadora Guerrillera Simón Bolívar</negrita>,
+integrada por las Farc, el ELN y el EPL. Los diálogos, que se realizaron
+en 1992, se rompieron en mayo de 1992 luego del asesinato en cautiverio
+del ministro Argelino Durán por parte de guerrilleros del EPL. No
+obstante, durante el gobierno de Gaviria se lograron acuerdos de paz
+con el <negrita>Partido Revolucionario de los Trabajadores (PRT)</negrita
+>, el Movimiento Indígena Armado <negrita>“Quintín Lame”</negrita
+>, y fracciones del <negrita>ELN</negrita> y el <negrita>EPL</negrita
+>.</p>
+<p>El <negrita>proceso de paz del Caguán</negrita>, adelantado por
+el gobierno de <negrita>Andrés Pastrana</negrita> (1998-2002), creó
+una zona de distensión de 42 mil kilómetros cuadrados, que incluía
+cinco municipios de los departamentos del Meta y Caquetá (San Vicente
+del Caguán, La Macarena, Uribe, Mesetas y Vista Hermosa). La agenda,
+denominada <negrita>“Política de paz para el cambio”</negrita>, incluyó
+diez puntos sobre derechos humanos, reformas políticas y agrarias,
+paramilitarismo, derecho internacional humanitario, entre otros.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso090&amp;IdRecurso=RES-9ED24BEA675647DF83C257AA9E6104C5"
+>La sociedad civil y la construcción de la paz en Colombia</enlace>
+</profundiza>
+<imagen src="CS_10_04_CO_IMG09_small.jpg">
+<p>La desorganización, el incumplimiento de las Farc en la zona de
+despeje y la falta de contundencia del gobierno desgastaron los diálogos.
+Finalmente, el secuestro en febrero de 2002 del excongresista Luis
+Eduardo Gechem por parte de la guerrilla dio al traste con este nuevo
+intento.</p>
+</imagen>
+<p>El gobierno de Juan Manuel Santos (2010-2018) inició en septiembre
+de 2012 la mesa de negociaciones con las Farc. Estos diálogos se realizan
+en La Habana, Cuba, con la participación como garantes de Cuba y Noruega,
+y la compañía de Chile y Venezuela. Los diálogos tienen una agenda
+de cinco puntos más uno de procedimientos. Los cinco puntos son: 1.
+Desarrollo agrario; 2. Participación política; 3. Fin del conflicto;
+4. Drogas ilícitas, y 5. Víctimas.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso100&amp;IdRecurso=RES-95A43C126BBE44C899A67EFC7C325AE4"
+>Interpreta argumentos en favor de la paz en Colombia</enlace>
+</practica><seccion2
+id="S2_CS_10_04_CO_08BACF81A71247B28BF5709AB0089718">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso110&amp;IdRecurso=RES-8443A68FB86B4D75B2CB4704E128325C"
+>Refuerza tu aprendizaje: La búsqueda de la paz</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_10_04_CO_35CCDFF0E0FF4795854E51B967CFC0C0">
+<seccion1Titulo>Las relaciones internacionales</seccion1Titulo>
+<seccion1Texto>
+<p>Estados Unidos continúa siendo el principal aliado de Colombia
+en muchos campos de la vida política y económica. Esta relación se
+remonta a la primera mitad del siglo XX, con el gobierno de Eduardo
+Santos, pero adquirió mayor fortaleza en los años sesenta, cuando
+el gobierno de Alberto Lleras selló la Alianza para el Progreso con
+el presidente John F. Kennedy. Desde aquel entonces hasta el presente,
+Colombia ha profesado su incondicionalidad con el país del norte.</p>
+<p>Aunque la <negrita>cooperación</negrita> de Estados Unidos ha sido
+constante, a finales del siglo XX, dos circunstancias llevaron a su
+fortalecimiento: el <negrita>narcotráfico</negrita> y la presencia
+de <negrita>guerrillas</negrita> de <negrita>izquierda</negrita>.
+Ambos elementos se conjugaron para desestabilizar la vida interna
+de Colombia y sus relaciones internacionales.</p>
+<p>La producción de estupefacientes en territorio colombiano fue el
+motivo para que Estados Unidos, su principal consumidor, incrementara
+su presencia en nuestro territorio. En 1989 se celebró la <negrita
+>44 Conferencia de la Organización de Naciones Unidas</negrita>. El
+presidente <negrita>Virgilio Barco</negrita> llamó la atención sobre
+la grave situación de orden público que vivía el país. Los <negrita
+>atentados</negrita> y <negrita>magnicidios</negrita> perpetrados
+por las mafias dieron inicio a una política en la que la cooperación
+militar y la inteligencia fue eje central.</p>
+<p>Dicha cooperación se consolidó años más tarde con la puesta en
+marcha del Plan Colombia, un proyecto financiado con préstamos estadounidenses
+que fueron utilizados en: estímulos a la producción agrícola (reemplazo
+de cultivos ilícitos por cultivos de productos tropicales), control
+territorial y presencia militar.</p>
+<p>El mayor componente fue el <negrita>militar</negrita>, que además
+de <negrita>perseguir</negrita> a los <negrita>narcotraficantes</negrita
+> y <negrita>fumigar cultivos ilícitos</negrita> terminó afectando
+a sectores de población campesina, cuyas parcelas estaban al servicio
+del narcotráfico.</p>
+<p>En otros casos, el Plan Colombia destinó esfuerzos para que los
+cultivos fueran reemplazados por <negrita>palma de aceite</negrita
+>, un importante insumo para la producción de biocombustible, necesario
+para el funcionamiento de economías de gran escala, como la de Estados
+Unidos y Europa.</p>
+<imagen src="CS_10_04_CO_IMG10_small.jpg">
+<p>El final del siglo XX fue fundamental para las relaciones de Colombia
+y Estados Unidos. El Plan Colombia fue un enorme proyecto que se financió
+con préstamos estadounidenses, que fueron utilizados en estímulos
+a la producción agrícola, al control territorial y presencia militar.</p>
+</imagen>
+<p>A nivel regional, el país de finales de siglo XX empezó a ver cómo
+el mapa político del continente se empezó a recomponer. Uno de principales
+factores para tener en cuenta es el desafío en que se convirtió la
+vecina <negrita>Venezuela</negrita>, una vez el coronel Hugo Chávez
+hizo un intento de golpe en 1992 al gobierno de Carlos Andrés Pérez.
+Más tarde, en 1997, los movimientos sociales ecuatorianos destituyeron
+al presidente <negrita>ecuatoriano</negrita> Abdalá Bucaram. Ambos
+elementos reforzaron la necesidad de contener a través del Plan Colombia
+la posible cercanía con gobiernos de izquierda, que pronto empezaron
+a gobernar en esos dos países.</p>
+<p>A lo anterior se suma la divulgación y actualización permanente,
+desde <negrita>1995</negrita>, de la <negrita>“lista Clinton”</negrita
+>, un inventario de personas y empresas cuyos bienes y patrimonio
+tienen relación con dineros del narcotráfico. Esta lista, elaborada
+por el Departamento del Tesoro de Estados Unidos, fue creada por orden
+del presidente Bill Clinton. Su finalidad es extraditar al país del
+norte a quienes han tenido vínculos con los narcóticos. Grupos como
+las Farc y el ELN forman parte de esta lista, lo que facilita cualquier
+acción en su contra con fines de extradición. Sin duda, tal tensión
+dificulta las relaciones internacionales y exige importantes maniobras
+políticas y militares.</p>
+<p>En el campo de los litigios limítrofes, Colombia logró establecer
+con claridad sus fronteras con Jamaica gracias al Tratado Sanín-Robertson
+(12 de noviembre de 1993).</p>
+<p>En el campo económico y el comercio internacional, en los años
+noventa, con la llegada de la apertura, impulsada fundamentalmente
+durante el gobierno de César Gaviria, se dio vía libre a la <negrita
+>inversión extranjera</negrita> y a la privatización de sectores como
+las telecomunicaciones, la salud y las pensiones. Esto benefició al
+sector privado, a los inversionistas extranjeros, pero afectó las
+finanzas públicas. Las relaciones internacionales comerciales debieron
+fortalecerse para garantizar la realización de estos negocios de gran
+escala.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso120&amp;IdRecurso=RES-084408B151F14174A7BB973B16950D8C"
+>Colombia como aliado suramericano de Estados Unidos</enlace>
+</profundiza><seccion2
+id="S2_CS_10_04_CO_08BACF81A71247B28BF5709AB0084181">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso130&amp;IdRecurso=RES-70C1D9E3628049998BD1CD37BCA86657"
+>Refuerza tu aprendizaje: Las relaciones internacionales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_10_04_CO_AD45A185C4224C57A8E4BBC350420B36">
+<seccion1Titulo>Las manifestaciones culturales</seccion1Titulo>
+<seccion1Texto>
+<p>A finales del siglo XX, la desigualdad era la característica básica
+de la cultura colombiana. Esto significa que en ciudades como Bogotá,
+Medellín, Cali, Barranquilla, sus habitantes y visitantes tenían acceso
+a una oferta cultural de calidad, pero en regiones apartadas de estos
+centros urbanos, la oferta era y es escasa o nula. Así mismo, la cultura
+se entendía como un asunto para las élites.</p>
+<p>Pese a lo anterior, se dieron varios intentos por democratizar
+el acceso a expresiones culturales. Eventos como el Festival Iberoamericano
+de Teatro, que inició en 1988, o las bienales de arte despertaron
+el interés de públicos más amplios.</p>
+<imagen src="CS_10_04_CO_IMG11_small.jpg">
+<p>En los años ochenta, Colombia empezó a abrir sus puertas para que
+el gran público accediera a distintas expresiones artísticas. El Festival
+Iberoamericano de Teatro, creado en 1988, fue fundamental para que
+las calles se convirtieran en escenarios abiertos y al aire libre.</p>
+</imagen>
+<p>El Salón Nacional de Artistas, creado en 1940 y que permanece hasta
+el presente, hizo recorridos por el país. En la década de los noventa,
+este evento fue la puerta de entrada para que importantes artistas
+empezaran a ser reconocidos a nivel nacional. Es el caso de Nadín
+Ospina, José Alejandro Restrepo o María Teresa Hincapié.</p>
+<p>La cultura colombiana está determinada por el carácter <negrita
+>multiétnico</negrita> que tiene el país. El reconocimiento de esta
+condición se dio de manera muy tardía. Apenas con la Constitución
+de 1991, el país empezó a aceptar que grupos étnicos, como los <negrita
+>afrodescendientes</negrita>, los <negrita>indígenas</negrita> y los <negrita
+>ROM (gitanos)</negrita> forman parte de la nacionalidad colombiana.</p>
+<p>Dicha aceptación ha permitido que expresiones culturales de regiones
+como el Pacífico, el Llano y la Amazonia se conozcan y sean aceptadas
+por un mayor público. La música, el cine, la literatura, la poesía
+y la pintura han tenido un notable número de exponentes que alimentan
+día a día el panorama artístico y presentan un país que, en medio
+del conflicto, se mantiene vivo y optimista.</p>
+<p>En el campo musical son muchos los ritmos tradicionales y nuevos
+que circulan en las regiones, pero también en los medios de comunicación.
+La <negrita>“Fusión”</negrita> fue un género que resultó de este proceso.
+Es una mezcla de ritmos cosmopolitas y locales tradicionales. De él
+son exponentes artistas muy conocidos como Carlos Vives.</p>
+<p>El <cursiva>rock</cursiva> tuvo también un importante lugar a finales
+del siglo XX. Los 20 años del festival gratuito al aire libre más
+grande de Latinoamérica, Rock al Parque, que se celebra en Bogotá
+desde 1995, son testimonio de la trayectoria <cursiva>rockera</cursiva
+> colombiana.</p>
+<p>El renacer del cine colombiano es otro caso para resaltar. Luego
+de duras batallas, el Estado empezó a comprender la importancia de
+este arte. Nuevos directores y temáticas formaron parte de la oferta
+cinematográfica, con directores como Sergio Cabrera, Harold Trompetero
+y Víctor Gaviria.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso140&amp;IdRecurso=RES-2B9DE3B297C84E8FA0365347370E3C0B"
+>La apropiación de los imaginarios de la cultura global por parte
+de la población urbana</enlace>
+</profundiza><seccion2
+id="S2_CS_10_04_CO_08BACF81A71247B28BF5709AB0080062">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso150&amp;IdRecurso=RES-4B81527E3C4B4538BC77C19E18006B89"
+>Refuerza tu aprendizaje: Las manifestaciones culturales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_10_04_CO_942B65CDE12F4DE4BBAC35F8717FC255">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso160&amp;IdRecurso=RES-0CFD36A0098A49F4A3400B2B048DEB28"
+>Competencias: la sociedad de la información y la comunicación en
+Colombia</enlace><?Pub Caret -2?>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso170&amp;IdRecurso=RES-186A57CA8EFE4B60A07D15BD1E00BA99"
+>Proyecto: estudio de culturas alternativas y tribus urbanas en Colombia
+al final del siglo XX</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_10_04_CO_866C1621A8FB442FACD4F8E5BAC3AACA"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso190&amp;IdRecurso=RES-289F15CEAFCD4563B11BD9D41A94EF85"
+>Mapa conceptual del tema Colombia al final del siglo XX</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_04_CO_Recurso200&amp;IdRecurso=RES-575A707F36CD439FABE32229F5EE10CD"
+>Evalúa tus conocimientos sobre el tema Colombia al final del siglo
+XX</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.jorgeorlandomelo.com/narcotrafico.htm"
+>Narcotráfico en Colombia.</enlace>
+<enlace destino="http://www.senalmemoria.co/la-paz-es-ahora">Línea
+de tiempo sobre la paz.</enlace>
+<enlace
+destino="http://www.centrodememoriahistorica.gov.co/especiales-de-memoria"
+>Centro de memoria histórica.</enlace>
+</enlacesreferencia></masinformacion></libro>
