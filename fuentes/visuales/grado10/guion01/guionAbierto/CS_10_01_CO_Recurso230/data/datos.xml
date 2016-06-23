@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<motor tipo="102" clase="ab" aprid="m102ab">
+﻿<?xml version="1.0" encoding="utf-8"?><motor tipo="102" clase="ab" aprid="m102ab">
   <plataforma>
     <grado><![CDATA[2]]></grado>
     <titulo>Competencias: el final de la Guerra Fría y sus implicaciones</titulo>
@@ -10,9 +9,9 @@
     <lang>es</lang>
   </plataforma>
   <enunciado><![CDATA[Realiza la actividad. Cuando termines, envíala para que pueda ser validada.]]></enunciado>
-  <masinfo inicio="0" />
-  <textoupload />
+  <masinfo inicio="0"/>
+  <textoupload/>
   <adjunto><![CDATA[principal.html]]></adjunto>
-  <url />
+  <url/>
   <amano><![CDATA[0]]></amano>
 </motor>
