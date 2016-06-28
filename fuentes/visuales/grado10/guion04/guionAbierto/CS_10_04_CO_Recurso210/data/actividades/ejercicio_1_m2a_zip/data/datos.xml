@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="2" clase="a" aprid="m2a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>La guerra contra las drogas y el Plan Colombia</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M2A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Arrastra y completa el texto.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <sonido/>
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[El [*] ha sido uno de los problemas más significativos de [*] en los últimos 50  años, pues ha traído innumerables consecuencias que han afectado la [*] del país, el orden público, la política al interior y la imagen en el [*]. Es por esto que el [*] ha establecido diferentes estrategias para poner fin a los cultivos ilícitos y el [*] de sustancias. Para esto ha buscado el apoyo de [*] como Estados Unidos con el que firmó el Plan Colombia, que inició en 1999, durante la [*] de Andrés Pastrana, pero este acuerdo se ha renovado en otros periodos presidenciales. ]]></pregunta>
+      <respuestas>
+        <respuesta orden="1"><![CDATA[narcotráfico]]></respuesta>
+        <respuesta orden="2"><![CDATA[Colombia]]></respuesta>
+        <respuesta orden="3"><![CDATA[economía]]></respuesta>
+        <respuesta orden="4"><![CDATA[exterior]]></respuesta>
+        <respuesta orden="5"><![CDATA[gobierno]]></respuesta>
+        <respuesta orden="6"><![CDATA[tráfico]]></respuesta>
+        <respuesta orden="7"><![CDATA[países]]></respuesta>
+        <respuesta orden="8"><![CDATA[presidencia]]></respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <textofalso cantidad="0"/>
+</motor>

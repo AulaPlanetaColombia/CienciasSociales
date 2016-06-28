@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="1" clase="c" aprid="m1c">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Colombia como aliado sudamericano de Estados Unidos</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M1C]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Relaciona.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="5">
+    <cuestion>
+      <pregunta><![CDATA[El tráfico de narcóticos.]]></pregunta>
+      <respuesta><![CDATA[Es el punto neurálgico que justifica la cooperación militar entre EE.UU. y Colombia.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Colombia se ha convertido en un aliado importante para Estados Unidos.]]></pregunta>
+      <respuesta><![CDATA[Ambos buscan combatir el terrorismo y el narcotráfico.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[El Plan Colombia.]]></pregunta>
+      <respuesta><![CDATA[Desde el gobierno de Pastrana, profundizó  la alianza entre Colombia y EE.UU.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[La extradición.]]></pregunta>
+      <respuesta><![CDATA[Procedimiento judicial para fortalecer la lucha contra el narcotráfico.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[El Tratado de Libre Comercio.]]></pregunta>
+      <respuesta><![CDATA[Es el componente económico de la alianza entre EE.UU. y Colombia. ]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0"/>
+</motor>
