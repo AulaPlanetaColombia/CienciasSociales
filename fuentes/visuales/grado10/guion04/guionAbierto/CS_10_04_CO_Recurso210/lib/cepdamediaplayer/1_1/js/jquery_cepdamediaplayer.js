@@ -268,6 +268,8 @@
 			var fullscreenMode; // Indica si estamos en modo fullscreen
 			var hasCaptions;		// Indica que hay subtítulos
 			var captionsActive; // Indica si los subtitulos están activos
+			var toFullScreen; // Indica que estamos pasando al fullscreenMode
+			var tempVideoFunc; // función que setea el currentTime del video
 
 			// Deshabilitamos el autoplay nativo para usar nuestra opción de autoplay
 			cepda.$self.prop('autoplay', false);
@@ -406,6 +408,15 @@
 				if(!cepda.$self.prop('paused')) {
 					cepda.$self.trigger('pause');
 				} else { // Si estaba en pausa, lo pone en marcha
+					// PARCHE iOS iPad 9.3
+					if (toFullScreen && is_ios_browser) {
+						var cuTime = cepda.$self.get(0).currentTime;
+						cepda.$self.get(0).src = cepda.$self.children().get(0).src;
+						tempVideoFunc = function() {
+							this.currentTime = cuTime;
+						}
+						cepda.$self.get(0).addEventListener('loadedmetadata', tempVideoFunc, false);
+					}
 					cepda.$self.trigger('play');
 					// Quitamos el boton grande si es necesario
 					if (cepda.$bigBtn) {
@@ -818,6 +829,9 @@
 			  				playMedia();
 			  			}, 200);
 			  		}
+						// Se quita el evento añadido al pasar a modo pantalla completa
+						if (is_ios_browser)
+							cepda.$self.get(0).removeEventListener('loadedmetadata', tempVideoFunc, false);
 			  	}
 
 					fullscreenMode = false;
@@ -856,8 +870,10 @@
 			  			var vc = $vidContainer.detach();
 			  			vc.appendTo("body");
 				  		if (playing) {
+							toFullScreen = true;
 				  			setTimeout(function () {
 				  				playMedia();
+				  				toFullScreen = false;
 				  			}, 200);
 				  		}
 				  	}

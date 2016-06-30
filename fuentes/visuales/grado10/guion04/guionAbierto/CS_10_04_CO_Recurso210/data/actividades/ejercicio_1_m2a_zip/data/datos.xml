@@ -15,7 +15,7 @@
   <sonido/>
   <textoacategoria>
     <cuestion>
-      <pregunta><![CDATA[El [*] ha sido uno de los problemas más significativos de [*] en los últimos 50  años, pues ha traído innumerables consecuencias que han afectado la [*] del país, el orden público, la política al interior y la imagen en el [*]. Es por esto que el [*] ha establecido diferentes estrategias para poner fin a los cultivos ilícitos y el [*] de sustancias. Para esto ha buscado el apoyo de [*] como Estados Unidos con el que firmó el Plan Colombia, que inició en 1999, durante la [*] de Andrés Pastrana, pero este acuerdo se ha renovado en otros periodos presidenciales. ]]></pregunta>
+      <pregunta><![CDATA[El [*] ha sido uno de los problemas más significativos de [*] en los últimos 50  años, pues ha traído innumerables consecuencias que han afectado la [*] del país, el orden público, la política interior y la imagen en el [*]. Por esto el [*] ha establecido diferentes estrategias para poner fin a los cultivos ilícitos y el [*] de sustancias. Para esto ha buscado el apoyo de [*] como Estados Unidos con el que firmó el [*], que inició en 1999, durante la [*] de Andrés Pastrana, pero este acuerdo se ha renovado en otros periodos presidenciales. ]]></pregunta>
       <respuestas>
         <respuesta orden="1"><![CDATA[narcotráfico]]></respuesta>
         <respuesta orden="2"><![CDATA[Colombia]]></respuesta>
@@ -24,7 +24,8 @@
         <respuesta orden="5"><![CDATA[gobierno]]></respuesta>
         <respuesta orden="6"><![CDATA[tráfico]]></respuesta>
         <respuesta orden="7"><![CDATA[países]]></respuesta>
-        <respuesta orden="8"><![CDATA[presidencia]]></respuesta>
+		<respuesta orden="8"><![CDATA[Plan Colombia]]></respuesta>
+        <respuesta orden="9"><![CDATA[presidencia]]></respuesta>
       </respuestas>
     </cuestion>
   </textoacategoria>
