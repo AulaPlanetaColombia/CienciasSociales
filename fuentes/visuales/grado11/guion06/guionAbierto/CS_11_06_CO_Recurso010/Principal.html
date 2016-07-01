@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>La diversidad cultural y la multiculturalidad</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+
+        <script src="extlib/createjs/2013_12_12/createjs-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/movieclip-0-7-1-min.js"></script>
+       <script src="extlib/createjs/2013_12_12/zoom.js"></script>
+        <script src="js/principal.js"></script>
+        
+
+        <script>
+            var canvas, stage, exportRoot, incremento,popupon;
+            window.onresize = function ()
+            {
+                onResize();
+            }
+           
+            function init() {
+                canvas = document.getElementById("canvas");
+                images = images || {};
+                if (navigator.userAgent.toLowerCase().indexOf("firefox") == -1)
+                    incremento = 4;
+                else
+                    incremento = 0;
+                var manifest = [
+                  {src:"images/pag01.jpg", id:"pag01"},
+                  {src:"images/pag03.jpg", id:"pag03"},
+                  {src:"images/pag04.jpg", id:"pag04"},
+                  {src:"images/pag05.jpg", id:"pag05"},
+                  {src:"images/pag06.jpg", id:"pag06"},
+                  {src:"images/fot01.png", id:"fot01"},
+                  {src:"images/fot02.png", id:"fot02"},
+                  {src:"images/fot03.png", id:"fot03"},
+                  {src:"images/fot04.png", id:"fot04"},
+                  {src:"images/fot05.png", id:"fot05"},
+                  {src:"images/fot06.png", id:"fot06"}
+                ];
+
+                var loader = new createjs.LoadQueue(false);
+                loader.addEventListener("fileload", handleFileLoad);
+                loader.addEventListener("complete", handleComplete);
+                loader.loadManifest(manifest);
+                loadXML();
+            }
+
+            function handleFileLoad(evt) {
+                if (evt.item.type == "image") {
+                    images[evt.item.id] = evt.result;
+                }
+            }
+            function putStage(myStage) {
+
+                if (exportRoot) {
+                    exportRoot.removeAllChildren();
+                }
+                exportRoot = myStage;
+                stage = new createjs.Stage(canvas);
+                stage.clear();
+                createjs.Ticker.removeAllEventListeners();
+                stage.autoClear = true; // This must be true to clear the stage.
+                stage.removeAllChildren();
+
+                stage.addChild(exportRoot);
+                stage.update();
+                stage.enableMouseOver();
+                onResize();
+                createjs.Ticker.setFPS(24);
+                createjs.Ticker.addEventListener("tick", stage);
+            }
+            function handleComplete() {
+                var child = document.getElementById("loading");
+                if (child != null)
+                    child.parentNode.removeChild(child);
+                putStage(new lib.frame1())
+
+            }
+            function loadXML() {
+                xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("GET", "data/datos.xml", false);
+                xmlhttp.send();
+                xmlDoc = xmlhttp.responseXML;
+                x = xmlDoc.getElementsByTagName("XMLDatos")[0].childNodes;
+                y = xmlDoc.getElementsByTagName("XMLDatos")[0].firstChild;
+                for (i = 0; i < x.length; i++)
+                {
+                    if (y.nodeType == 1)
+                    {//Process only element nodes (type 1)
+                        j = xmlDoc.getElementsByTagName(y.nodeName)[0].childNodes[0]
+                        textos[y.nodeName] = j.nodeValue;
+                    }
+                    y = y.nextSibling;
+                }
+            }
+        </script>
+        
+      
+    <script type="text/javascript" src="../_js/pppfdetector_min.js"></script>
+<script type="text/javascript">
+       pppFDetector.checkFlash();
+</script>
+  </head>
+
+    <body onload="init();" onorientationchange="onResize();" style="background-color:#FFFFFF" ><div id="loading" align="center" style="position: absolute;top:50%;left:50%;width:400px;margin-left:-200px;height:300px;margin-top:-150px;" ><img src="images/status.gif"/></div>
+        <canvas id="canvas" width="950" height="608" style="background-color:transparent"></canvas>
+    </body>
+</html>
