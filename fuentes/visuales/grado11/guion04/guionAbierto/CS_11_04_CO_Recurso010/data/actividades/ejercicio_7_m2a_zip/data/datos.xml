@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="2" clase="a" aprid="m2a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Causas del conflicto armado en Colombia</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M2A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa correctamente el siguiente texto sobre las causas del conflicto armado en Colombia.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <sonido/>
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[Colombia ostenta el más largo periodo de [*] interno de forma continua. La violencia en el siglo XX se aprecia como una forma de [*] de las guerras [*], surgida durante la [*] conservadora para reprimir el derecho de las nacientes [*] trabajadoras organizadas durante la hegemonía [*] en 1930  y, nuevamente, en 1946 durante el gobierno conservador en su intento de imponer una [*]. La [*], se alimentó de la rebelión [*] que recogía la experiencia [*] de los cincuenta, y buscaba desmontar el régimen capitalista para erigir un sistema político [*], aventura alimentada con el triunfo de la Revolución [*].]]></pregunta>
+      <respuestas>
+        <respuesta orden="1"><![CDATA[conflicto]]></respuesta>
+        <respuesta orden="2"><![CDATA[réplica]]></respuesta>
+        <respuesta orden="3"><![CDATA[decimonónicas]]></respuesta>
+        <respuesta orden="4"><![CDATA[hegemonía]]></respuesta>
+        <respuesta orden="5"><![CDATA[clases]]></respuesta>
+        <respuesta orden="6"><![CDATA[liberal]]></respuesta>
+        <respuesta orden="7"><![CDATA[dictadura]]></respuesta>
+        <respuesta orden="8"><![CDATA[Violencia]]></respuesta>
+        <respuesta orden="9"><![CDATA[campesina]]></respuesta>
+        <respuesta orden="10"><![CDATA[guerrillera]]></respuesta>
+        <respuesta orden="11"><![CDATA[igualitario]]></respuesta>
+        <respuesta orden="12"><![CDATA[cubana]]></respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <textofalso cantidad="0"/>
+</motor>
