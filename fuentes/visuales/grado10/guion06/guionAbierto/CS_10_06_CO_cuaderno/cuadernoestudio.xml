@@ -1,647 +1,554 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_10_06_CO">
-  <libroTitulo>La economía globalizada</libroTitulo>
-  <seccion1 id="S1_CS_10_06_CO_AAAA9943E8684B908330A01CAB2CC7D7">
-    <seccion1Titulo>La globalización</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_10_06_CO_10FAF042DA634B828FC5F246E04CD899">
-        <seccion2Titulo>La mundialización de la economía</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_01_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso010&amp;IdRecurso=RES-88A2210166084EFFA349165ACC5FFFD1">Sitúa el lugar que ocupa el sector primario en la economía global</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_02_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_06_CO_9B4D18FCC0B24DE8971691452C72501E">
-        <seccion2Titulo>Los agentes de la globalización</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_06_CO_2755C4DAB9D6497CAF7AAE06964F4F55">
-        <seccion2Titulo>Los motores de la globalización</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_04_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso030&amp;IdRecurso=RES-3C611F5BAD9341739232F7B20217FDA5">La globalización</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_05_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso040&amp;IdRecurso=RES-70854E2C79D5441DB3784E1DC84BBBEC">Reconoce los agentes y motores de la globalización</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_06_CO_B3C65CB0D70C4E0BA12985D53262945D">
-        <seccion2Titulo>Las potencias emergentes</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_06_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_06_CO_DC4EB295B6984A1AB1D3EF9E1832F5CA">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_07_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso050&amp;IdRecurso=RES-0CDFBA1E362D418497662E156EE7DBC4">Refuerza tu aprendizaje: La globalización</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_10_06_CO_25E3414EF3FC443C81D19BA8134C6F2E">
-    <seccion1Titulo>Claves para comprender la globalización económica</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_06_CO_img_08_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <seccion2 id="S2_CS_10_06_CO_20E6182684E847439D67219EE579A37C">
-        <seccion2Titulo>La globalización de la información</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_09_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso070&amp;IdRecurso=RES-3260F00242F44A94A653ABEC3A304BDD">Entiende el lugar que ocupa Internet en el mundo actual</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_06_CO_129A8634754B4F5DB3DCCD702815F1ED">
-        <seccion2Titulo>La interconexión económica global</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_10_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso080&amp;IdRecurso=RES-0489BEBC54F845018A45E87AFF3F0DEE">Las instituciones económicas globales</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_06_CO_DD07DAB9B0FB45F38F658A7D6079FAE0">
-        <seccion2Titulo>La aceleración del tiempo</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_11_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_06_CO_092B92230C9E4A0295EDA5D818351B09">
-        <seccion2Titulo>El encogimiento del espacio</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_12_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_13_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso090&amp;IdRecurso=RES-C0B40BD6F12141ACA703F2FC54E9E47E">Recurso M2A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_14_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso100&amp;IdRecurso=RES-50EAF12153F443968E26343E530346D2">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_10_06_CO_EA8ECC61B0B44CCAB088F953FB7DCFE1">
-    <seccion1Titulo>La organización de la economía global</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_10_06_CO_0C25F779929C4F7F9EC98ECED467F600">
-        <seccion2Titulo>Las empresas en la economía global</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_15_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_06_CO_A7D5C0B94CF6469FAF2008FF82C8936E">
-        <seccion2Titulo>El trabajo global</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_16_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso110&amp;IdRecurso=RES-27B46C8E6200422381378E011E213A1A">Recurso M5D-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_06_CO_3D3A182A192C48B9A94B34E007C6A66A">
-        <seccion2Titulo>Los bloques económicos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_17_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_06_CO_9F94A8876B654E00A183283D1D086AFD">
-        <seccion2Titulo>Las zonas de libre comercio</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_18_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_06_CO_19E2DD1767144CC18B91FC94774005FB">
-        <seccion2Titulo>El sector financiero globalizado</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_19_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_20_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso130&amp;IdRecurso=RES-F236699079314431BDAE8602ACB28D1D">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_10_06_CO_4A1C525126A54AE4A747C42EE98E5AD9">
-    <seccion1Titulo>Los efectos de la globalización</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_10_06_CO_795590B8A377479495FA48A2971B4C4C">
-        <seccion2Titulo>La desigualdad global</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_21_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso140&amp;IdRecurso=RES-DB91496BFF44440C83DE87D56AE97224">El desigual reparto de los recursos</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_22_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso150&amp;IdRecurso=RES-B1A62B4F393D456E8666A29DAD6E1CB2">Las desigualdades del mundo global</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_23_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso160&amp;IdRecurso=RES-7ECA9C4113004468AD647CDF67F56585">Reconoce las desigualdades de nuestro mundo</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_06_CO_F965F2D05536415E85FDE35C4F091E02">
-        <seccion2Titulo>La degradación ambiental global</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_24_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso170&amp;IdRecurso=RES-16D6A16DDD7945F6AB5C6D78618CB498">El impacto de las actividades económicas en el medio ambiente</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_06_CO_B674F56230124B7AAD7C6BA7760BD562">
-        <seccion2Titulo>El petróleo y la crisis energética global</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_25_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso180&amp;IdRecurso=RES-8B9126B5FFC1468CBC4AA6E3B010F63A">Localiza las principales fuentes de energía en el mundo</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_10_06_CO_503F72F4B3794D8D9B390D4FEC598C1E">
-        <seccion2Titulo>Las ventajas e inconvenientes de la globalización</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_26_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso190&amp;IdRecurso=RES-5A3580B9F31741A1B35BF830607F6416">Distingue aspectos positivos y negativos de la globalización</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_10_06_CO_img_27_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso200&amp;IdRecurso=RES-A13627108FBC47228459CF3DAFE6570C">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_10_06_CO_7B02DA54D6D04FE79F2353BA02F5B597">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_06_CO_img_28_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso210&amp;IdRecurso=RES-32B36B1AD89647969769E39E71054A74">Competencias: diseño de un mapa mental sobre la globalización</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_10_06_CO_img_29_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso220&amp;IdRecurso=RES-678E9D102524463893B23665F5D45359">Proyecto: análisis de los efectos de la globalización</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_10_06_CO_474DC56821964E059CBFB39A96D7A714">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso240&amp;IdRecurso=RES-6401EC293E384250BA6A521F84FFE066">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso250&amp;IdRecurso=RES-FCEB6B4A06D74D0C90C8BEEDCEAAAFFB">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>La economía globalizada</libroTitulo>
+<seccion1 id="S1_CS_10_06_CO_AAAA9943E8684B908330A01CAB2CC7D7">
+<seccion1Titulo>La globalización</seccion1Titulo>
+<seccion1Texto>
+<p>El mundo actual surge del <negrita>fin de la Guerra Fría</negrita
+> (1945-1991), hecho que propició la <negrita>expansión del capitalismo</negrita
+> por todo el planeta. El resultado fue el nacimiento de un <negrita
+>gran mercado mundial</negrita> en el que se intercambian mercancías,
+capitales e información de todo tipo. Identificar los distintos actores
+de la llamada <negrita>aldea global</negrita>, permite comprender
+el mundo en el que vivimos.</p>
+<p>Este fenómeno se denomina, desde la década de los 90, <negrita
+>globalización</negrita>, y representa la <negrita>interdependencia
+mundial</negrita> a nivel económico, político, social y cultural.
+Esto, sin embargo, no es algo tan reciente como pudiéramos creer.
+Se remonta al siglo XVII, cuando surgieron las primeras grandes empresas
+como la Compañía de las Indias Orientales. Más tarde, la Revolución
+Industrial y la extensión del sistema capitalista llevaron a la <negrita
+>internacionalización de la economía</negrita>.</p>
+<imagen src="CS_10_06_CO_IMG01_small.jpg">
+<p>La <negrita>bolsa de valores</negrita> es donde se intercambian
+títulos o valores comerciales relacionados con la actividad económica
+de un lugar. El proceso de globalización actual provoca que lo que
+suceda en la <negrita>Bolsa de Nueva York</negrita> pueda afectar
+a las economías del resto del mundo de manera inmediata. <negrita
+>Bolsa de Hong Kong (China)</negrita>.</p>
+</imagen>
+<p>La interdependencia ha sido posible por la <negrita>revolución
+en los transportes y las comunicaciones</negrita>, lo que ha generado
+una <negrita>conciencia</negrita> y <negrita>cultura globales</negrita
+> construidas sobre los valores del capitalismo e impuestas por las
+culturas dominantes al resto de la humanidad.</p>
+<seccion2 id="S2_CS_10_06_CO_10FAF042DA634B828FC5F246E04CD899">
+<seccion2Titulo>La mundialización de la economía</seccion2Titulo>
+<seccion2Texto>
+<p>A nivel económico, el mundo puede dividirse entre el <negrita>centro</negrita
+> y la <negrita>periferia</negrita>. El centro agrupa a los <negrita
+>países desarrollados</negrita> o del <negrita>primer mundo</negrita
+>, los cuales se definen por ser <negrita>ricos</negrita> e <negrita
+>industrializados</negrita>. <negrita>Estados Unidos</negrita>, la <negrita
+>Unión Europea</negrita> y <negrita>Japón</negrita> actúan como el
+centro de la economía global. Por su lado, en la periferia se encuentran
+los <negrita>países en desarrollo</negrita> o del <negrita>tercer
+mundo</negrita>, que se caracterizan por su carácter <negrita>agrario</negrita
+>, <negrita>pobre</negrita> y <negrita>dependiente</negrita>.</p>
+<recuerda><recuerdaTexto>
+<p>La globalización económica ha ido acompañada de una <negrita>liberalización
+del sistema financiero</negrita>, lo que ha permitido aumentar el
+volumen de transacciones financieras necesarias para incrementar los
+movimientos económicos.</p>
+</recuerdaTexto></recuerda>
+<p>A nivel económico, la globalización ha generado <negrita>mayores
+desequilibrios</negrita> entre el centro y la periferia debido a:</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>concentración de capitales</negrita> en
+grandes empresas.</listaElemento>
+<listaElemento>La <negrita>libre competencia</negrita> en mercados
+cada vez más liberalizados.</listaElemento>
+<listaElemento>El <negrita>capitalismo especulativo</negrita>.</listaElemento>
+<listaElemento>La <negrita>deslocalización</negrita> de la producción.</listaElemento>
+</listaSinNumerar>
+<p>Todo ello ha provocado una <negrita>imposición de precios</negrita
+> por parte de las economías más poderosas, un <negrita>reparto más
+injusto de la riqueza</negrita> y una <negrita>competencia desigual</negrita
+> entre sus productos y los de los países de la periferia.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso010&amp;IdRecurso=RES-88A2210166084EFFA349165ACC5FFFD1"
+>La economía global</enlace>
+</profundiza>
+<imagen src="CS_10_06_CO_IMG02_small.jpg">
+<p>La <negrita>movilidad de los capitales</negrita>, característica
+de la globalización económica, propicia la <negrita>precariedad laboral</negrita
+>. Gracias a la libertad de expresión, las <negrita>manifestaciones</negrita
+> suelen ser habituales en los países desarrollados para <negrita
+>protestar</negrita>, por ejemplo, sobre consecuencias de la globalización.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_10_06_CO_9B4D18FCC0B24DE8971691452C72501E">
+<seccion2Titulo>Los agentes de la globalización</seccion2Titulo>
+<seccion2Texto>
+<p>El proceso de globalización ha dependido de unos <negrita>agentes</negrita
+> concretos. Estos son los <negrita>organismos internacionales</negrita
+>, los <negrita>gobiernos</negrita> y las <negrita>multinacionales</negrita
+>, los cuales controlan las pautas que definen a nivel internacional
+las finanzas, la industria y el comercio.</p>
+<imagen src="CS_10_06_CO_IMG03_small.jpg">
+<p>Las grandes <negrita>multinacionales</negrita> son, junto con organismos
+internacionales y gobiernos, los agentes responsables de la globalización.
+Cada año se celebran en los países ferias donde las empresas de todo
+el mundo presentan sus productos. La ciudad estadounidense de <negrita
+>Las Vegas</negrita> acoge cada año el <negrita>Consumer Electronic
+Show (CES)</negrita>, una de las mayores ferias de electrónica del
+mundo.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_10_06_CO_2755C4DAB9D6497CAF7AAE06964F4F55">
+<seccion2Titulo>Los motores de la globalización</seccion2Titulo>
+<seccion2Texto>
+<p>Junto con los agentes propios de la globalización, también debemos
+tener en cuenta que existen unos motores que la impulsan. Estos son <negrita
+>Estados Unidos</negrita>, la <negrita>Unión Europea (UE)</negrita
+> y <negrita>Japón</negrita>, las tres regiones que organizan el sistema
+económico mundial. También se puede incluir a los denominados <negrita
+>NPI (Nuevos países industrializados)</negrita> como motores de la
+globalización. Se trata de países recientemente industrializados,
+como México, la República de Sudáfrica, Turquía, Brasil y Rusia.</p>
+<p>Los llamados motores de la globalización controlan:</p>
+<listaSinNumerar>
+<listaElemento>El comercio y el sistema financiero.</listaElemento>
+<listaElemento>El conocimiento científico y el desarrollo tecnológico.</listaElemento>
+<listaElemento>Los transportes y las comunicaciones.</listaElemento>
+<listaElemento>La riqueza mundial.</listaElemento>
+</listaSinNumerar>
+<imagen src="CS_10_06_CO_IMG04_small.jpg">
+<p>El edificio de la <negrita>Bolsa de Nueva York</negrita> (Estados
+Unidos), en la conocida <negritacursiva>Wall Street</negritacursiva
+>, es uno de los mayores símbolos del capitalismo. La crisis del sistema
+financiero estadounidense en 2008 se propagó al resto de la economía
+del mundo y sus efectos se sintieron de forma intensa en los países
+del sur de Europa. Sin embargo, esto no fue algo nuevo; el crac de
+1929 ya había desencadenado una profunda crisis mundial.</p>
+</imagen>
+<destacado><destacadoTitulo>La centralidad de la empresa multinacional</destacadoTitulo>
+<destacadoTexto>
+<p>La visión de las empresas multinacionales como un club cerrado
+formado por Estados Unidos, Japón y los países de Europa occidental
+ha dado paso a una estructura más flexible. Las principales empresas
+multinacionales por facturación, número de empleados, inversión en
+I+D (inversión y desarrollo), etc., siguen perteneciendo a esos países,
+pero progresivamente empiezan a asentarse en el mercado empresas de
+algunos países del tercer mundo. Estados Unidos, Japón, Alemania y
+Francia concentran más del 75 % de las 100 mayores empresas del mundo.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso030&amp;IdRecurso=RES-3C611F5BAD9341739232F7B20217FDA5"
+>La globalización</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso040&amp;IdRecurso=RES-70854E2C79D5441DB3784E1DC84BBBEC"
+>Reconoce los agentes y motores de la globalización</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_06_CO_B3C65CB0D70C4E0BA12985D53262945D">
+<seccion2Titulo>Las potencias emergentes</seccion2Titulo>
+<seccion2Texto>
+<p>Aunque países como Estados Unidos, los de la Unión Europea y Japón
+son los principales motores de la economía global, les siguen muy
+de cerca varias <negrita>potencias emergentes</negrita>, entre las
+que destacan <negrita>Brasil</negrita>, <negrita>Rusia</negrita>, <negrita
+>India</negrita> y <negrita>China</negrita>. Este grupo se conoce
+como <negrita>BRIC</negrita>.</p>
+<imagen src="CS_10_06_CO_IMG05_small.jpg">
+<p>China es una de las mayores potencias económicas mundiales. Pese
+a ser un Estado comunista, desde la década de los 80 ha desarrollado
+un modelo económico que ha hecho de este gigante asiático la mayor
+fábrica del mundo. El país tiene una extensión territorial de 9 597
+107 km2, además de 1 314 480 000 habitantes y un crecimiento anual
+del PIB muy elevado, que en el último lustro ha oscilado entre el
+8 y el 10 %.</p>
+</imagen>
+<p>Los países que forman parte del grupo de los <negrita>BRIC</negrita
+> comparten tres rasgos característicos:</p>
+<listaSinNumerar>
+<listaElemento>Elevado número de habitantes.</listaElemento>
+<listaElemento>Gran extensión territorial.</listaElemento>
+<listaElemento>Destacado crecimiento anual del PIB.</listaElemento>
+</listaSinNumerar>
+<p>Junto con los países del BRIC, existen otros que se pueden definir
+como <negrita>potencias regionales</negrita>, como es el caso de México,
+la República de Sudáfrica (algunos expertos la incluyen en el grupo
+de los BRIC), Turquía, Indonesia y la República de Corea.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_10_06_CO_DC4EB295B6984A1AB1D3EF9E1832F5CA">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso050&amp;IdRecurso=RES-0CDFBA1E362D418497662E156EE7DBC4"
+>Refuerza tu aprendizaje: La globalización</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_10_06_CO_25E3414EF3FC443C81D19BA8134C6F2E">
+<seccion1Titulo>Claves para comprender la globalización económica</seccion1Titulo>
+<seccion1Texto>
+<p>Durante el periodo anterior a la implementación de la <negrita
+>economía global</negrita>, cada país, con base en sus empresas nacionales
+y con una <negrita>infraestructura económica</negrita> ubicada dentro
+de los límites de su territorio, debía explotar sus recursos, producir
+los bienes y servicios necesarios, distribuirlos y ofrecerlos principalmente
+en sus propios mercados.</p>
+<p>Bajo dicho modelo económico las <negrita>exportaciones</negrita
+> representaban un lugar menor dentro de las actividades económicas.
+Por el contrario, las fuerzas de la economía se enfocaban en desarrollar
+el <negrita>mercado interno</negrita> mediante la implementación de
+un modelo <negrita>proteccionista</negrita>.</p>
+<p>En el transcurso de la década de los 80 del siglo XX, los <negrita
+>Estados nacionales</negrita> empezaron a perder fuerza ante el avance
+del <negrita>poder económico</negrita> de los países más fuertes económicamente
+y de sus empresas, las cuales se expandieron con rapidez. En consecuencia,
+los Estados cada vez tuvieron menor control sobre lo que ocurría con
+la <negrita>producción</negrita> de sus países, porque las principales
+decisiones económicas se empezaron a tomar en las juntas directivas
+de las grandes <negrita>corporaciones</negrita>.</p>
+<p>Como resultado, las <negrita>economías del mundo</negrita> se empezaron
+a mundializar y a organizar según un modelo único determinado por
+las principales <negrita>fuerzas económicas globales</negrita>, encabezadas
+por las <negrita>corporaciones transnacionales</negrita>, empresas
+que han acumulado la fuerza para extenderse, alcanzando una dimensión
+mundial.</p>
+<imagen src="CS_10_06_CO_IMG06_small.jpg">
+<p>Las corporaciones globales han ganado un poder y una influencia
+sin precedentes. Representan el triunfo de los más fuertes y los mejor
+preparados para sobrevivir en la competencia económica. En la nueva
+economía o <negrita>economía globalizada</negrita> adquieren gran
+preponderancia el conocimiento y la innovación dentro del proceso
+productivo.</p>
+</imagen>
+<p>Otras fuerzas importantes para el despliegue de la globalización
+son los <negrita>trabajadores globales</negrita>, el conocimiento
+científico, las <negrita>tecnologías digitales de la información y
+de la comunicación</negrita>, las <negrita>instituciones económicas
+globales</negrita>, las <negrita>instituciones financieras</negrita
+>, las infraestructuras portuarias y de transporte, así como las alianzas
+y los <negrita>tratados comerciales</negrita> entre <negrita>bloques
+económicos</negrita>.</p>
+<imagen src="CS_10_06_CO_IMG07_small.jpg">
+<p>Uno de los lemas de las economías globalizadas es “exportar o morir”.
+Mediante el posicionamiento en el mercado global las empresas buscan
+fabricar productos y venderlos en el exterior mediante el desarrollo
+de marcas mundialmente acreditadas. </p>
+</imagen>
+<profundiza>
+<enlace destino="A">Visiones de la globalización</enlace>
+</profundiza><seccion2
+id="S2_CS_10_06_CO_20E6182684E847439D67219EE579A37C">
+<seccion2Titulo>La globalización de la información</seccion2Titulo>
+<seccion2Texto>
+<p>La globalización de la información ha sido posible por el desarrollo
+de las <negrita>tecnologías de la comunicación</negrita>, que han
+permitido el <negrita>intercambio de datos</negrita>, <negrita>textos</negrita
+>, <negrita>sonidos</negrita>, <negrita>imágenes</negrita> y <negrita
+>videos</negrita> a través de <negrita>internet</negrita> y la <negrita
+>telefonía móvil</negrita>. Todos estos avances tecnológicos garantizan
+una <negrita>información inmediata</negrita>. Asimismo, esta revolución
+tecnológica ha propiciado la aparición de un nuevo tipo de empresas,
+que conforman la denominada <negrita>nueva economía</negrita>.</p>
+<imagen src="CS_10_06_CO_IMG08_small.jpg">
+<p>Internet ha representado una de las grandes revoluciones de las
+telecomunicaciones desde finales del siglo XX. La generalización del
+acceso a la red en el mundo desarrollado ha transformado las comunicaciones,
+lo que ha influido en la economía, en las relaciones sociales y en
+la cultura.</p>
+</imagen>
+<p>De forma paralela, este desarrollo tecnológico sin precedentes
+ha influido también en las <negrita>relaciones humanas</negrita>,
+sobre todo por la existencia de las <negrita>redes sociales virtuales</negrita
+> con las cuales es fácil y rápido contactar y conocer gente de todas
+partes del mundo.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso070&amp;IdRecurso=RES-3260F00242F44A94A653ABEC3A304BDD"
+>Entiende el lugar que ocupa Internet en el mundo actual</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_06_CO_129A8634754B4F5DB3DCCD702815F1ED">
+<seccion2Titulo>La interconexión económica global</seccion2Titulo>
+<seccion2Texto>
+<p>Imagina cualquiera de los productos que habitualmente observas
+en los anuncios <negrita>publicitarios</negrita> o en las vitrinas
+de los centros comerciales. Es muy probable que para su elaboración
+se hayan empleado los recursos naturales y el trabajo de personas
+ubicadas en diferentes lugares del planeta: la naturaleza, los trabajadores,
+los empresarios, los administradores, los comerciantes y los banqueros.
+Todos participan de distintas formas en la organización de <negrita
+>la economía global</negrita>.</p>
+<p>De esta manera se creó una <negrita>red de producción</negrita
+> y de <negrita>comercio mundial</negrita>, en la que cada una de
+las decisiones tomadas por los gobiernos, las empresas, los bancos,
+los trabajadores y los consumidores de las diferentes naciones del
+mundo se <negrita>interconectan</negrita>, lo que provoca reacciones
+en el resto de la <negrita>economía global</negrita>.</p>
+<p>Un interés común impulsa a los diferentes <negrita>actores económicos
+globales</negrita>: producir para exportar. Ello explica que la globalización
+se distinga por una serie de <negrita>movimientos</negrita> y de <negrita
+>flujos</negrita> económicos que circulan a nivel planetario. Así,
+cada vez existe mayor interrelación e interdependencia entre las economías
+de unos y otros países y regiones. Los automóviles, los computadores,
+las prendas de marca, las comidas de cadena, los videojuegos, son
+ejemplos de productos globales que en su elaboración combinan insumos,
+tecnologías, capital y conocimientos procedentes de diferentes países.</p>
+<imagen src="CS_10_06_CO_IMG09_small.jpg">
+<p>Las redes se han convertido en elementos claves para el intercambio
+de bienes e información, la economía en red transforma la economía
+tradicional, basada principalmente en la fabricación y la industria,
+hacia una economía fundamentada en el conocimiento y la innovación
+gracias a los avances tecnológicos.</p>
+</imagen>
+<p>La economía global también se conecta mediante los movimientos
+de dinero, en forma de flujos de inversiones, a través de las bolsas
+de valores del planeta, en las cuales participan las empresas de mayor
+rentabilidad.</p>
+<p>Gracias al soporte que ofrecen las <negrita>tecnologías digitales
+de la comunicación</negrita>, la economía global se retroalimenta
+a cada segundo a través de la <negrita>circulación planetaria</negrita
+> de millones de transacciones, información económica, ofertas, compras
+y mensajes publicitarios, los que, en conjunto, dan forma al <negrita
+>intercambio económico mundial</negrita>.</p>
+<p>Dicho proceso de interrelación intensiva entre empresas, inversiones,
+trabajadores, mercados, consumidores y culturas, convierte a cada
+persona del mundo en una parte de la <negrita>economía conectada en
+red</negrita>.</p>
+<p>Así mismo, las empresas que controlan la economía global tienden
+a <negrita>estandarizar</negrita> y a <negrita>homogeneizar</negrita
+> los productos que ofrecen, de tal manera que, en la mayor parte
+de los países globalizados se consumen las mismas marcas, se ven los
+mismos anuncios publicitarios y, en general, se impone un estilo de
+vida común. </p>
+<imagen src="CS_10_06_CO_IMG10_small.jpg">
+<p>El desarrollo extraordinario de los medios tecnológicos para almacenar
+y distribuir información los ha convertido en un factor determinante
+para que las grandes corporaciones controlen la economía global.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>La interconexión e interdependencia entre economías puede favorecer
+el crecimiento mutuo de los países, pero también, la caída de una
+de las partes desestabiliza a la otra. La interrelación hace que ante
+una falla o una crisis, el resto de las economías se ven afectadas,
+tal como ocurrió con la crisis del 2008, que se inició en Estados
+Unidos y que luego se extendió hacia los demás países del mundo.</p>
+</recuerdaTexto></recuerda>
+<imagen src="CS_10_06_CO_IMG11_small.jpg">
+<p>La OMC es una organización global cuyo objetivo es fomentar el
+comercio entre los países mediante la negociación de acuerdos y la
+aplicación de normas comerciales. A este organismo los gobiernos miembros
+acuden para resolver los problemas comerciales que tienen unos con
+otros. La OMC nació como consecuencia de negociaciones, y todas sus
+actividades están mediadas por negociaciones.</p>
+</imagen><?Pub Caret -1?>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso080&amp;IdRecurso=RES-0489BEBC54F845018A45E87AFF3F0DEE"
+>Las instituciones económicas globales</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_06_CO_DD07DAB9B0FB45F38F658A7D6079FAE0">
+<seccion2Titulo>La aceleración del tiempo</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_10_06_CO_092B92230C9E4A0295EDA5D818351B09">
+<seccion2Titulo>El encogimiento del espacio</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_12_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_13_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso090&amp;IdRecurso=RES-C0B40BD6F12141ACA703F2FC54E9E47E"
+>Recurso M2A-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_14_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso100&amp;IdRecurso=RES-50EAF12153F443968E26343E530346D2"
+>Recurso M101A-01</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_10_06_CO_EA8ECC61B0B44CCAB088F953FB7DCFE1">
+<seccion1Titulo>La organización de la economía global</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<seccion2 id="S2_CS_10_06_CO_0C25F779929C4F7F9EC98ECED467F600">
+<seccion2Titulo>Las empresas en la economía global</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_15_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_10_06_CO_A7D5C0B94CF6469FAF2008FF82C8936E">
+<seccion2Titulo>El trabajo global</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_16_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso110&amp;IdRecurso=RES-27B46C8E6200422381378E011E213A1A"
+>Recurso M5D-01</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_06_CO_3D3A182A192C48B9A94B34E007C6A66A">
+<seccion2Titulo>Los bloques económicos</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_17_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_10_06_CO_9F94A8876B654E00A183283D1D086AFD">
+<seccion2Titulo>Las zonas de libre comercio</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_18_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_10_06_CO_19E2DD1767144CC18B91FC94774005FB">
+<seccion2Titulo>El sector financiero globalizado</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_19_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_20_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso130&amp;IdRecurso=RES-F236699079314431BDAE8602ACB28D1D"
+>Recurso M101A-02</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_10_06_CO_4A1C525126A54AE4A747C42EE98E5AD9">
+<seccion1Titulo>Los efectos de la globalización</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<seccion2 id="S2_CS_10_06_CO_795590B8A377479495FA48A2971B4C4C">
+<seccion2Titulo>La desigualdad global</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_21_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso140&amp;IdRecurso=RES-DB91496BFF44440C83DE87D56AE97224"
+>El desigual reparto de los recursos</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_22_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso150&amp;IdRecurso=RES-B1A62B4F393D456E8666A29DAD6E1CB2"
+>Las desigualdades del mundo global</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_23_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso160&amp;IdRecurso=RES-7ECA9C4113004468AD647CDF67F56585"
+>Reconoce las desigualdades de nuestro mundo</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_06_CO_F965F2D05536415E85FDE35C4F091E02">
+<seccion2Titulo>La degradación ambiental global</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_24_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso170&amp;IdRecurso=RES-16D6A16DDD7945F6AB5C6D78618CB498"
+>El impacto de las actividades económicas en el medio ambiente</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_06_CO_B674F56230124B7AAD7C6BA7760BD562">
+<seccion2Titulo>El petróleo y la crisis energética global</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_25_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso180&amp;IdRecurso=RES-8B9126B5FFC1468CBC4AA6E3B010F63A"
+>Localiza las principales fuentes de energía en el mundo</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_10_06_CO_503F72F4B3794D8D9B390D4FEC598C1E">
+<seccion2Titulo>Las ventajas e inconvenientes de la globalización</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_26_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso190&amp;IdRecurso=RES-5A3580B9F31741A1B35BF830607F6416"
+>Distingue aspectos positivos y negativos de la globalización</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_27_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso200&amp;IdRecurso=RES-A13627108FBC47228459CF3DAFE6570C"
+>Recurso M101A-03</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_10_06_CO_7B02DA54D6D04FE79F2353BA02F5B597">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_28_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso210&amp;IdRecurso=RES-32B36B1AD89647969769E39E71054A74"
+>Competencias: diseño de un mapa mental sobre la globalización</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CS_10_06_CO_img_29_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso220&amp;IdRecurso=RES-678E9D102524463893B23665F5D45359"
+>Proyecto: análisis de los efectos de la globalización</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_10_06_CO_474DC56821964E059CBFB39A96D7A714"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso240&amp;IdRecurso=RES-6401EC293E384250BA6A521F84FFE066"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_10_06_CO_Recurso250&amp;IdRecurso=RES-FCEB6B4A06D74D0C90C8BEEDCEAAAFFB"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+</enlacesreferencia></masinformacion></libro>
