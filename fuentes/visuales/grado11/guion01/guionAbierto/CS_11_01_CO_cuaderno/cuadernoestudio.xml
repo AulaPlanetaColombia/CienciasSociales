@@ -1,1053 +1,1616 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CS_11_01_CO">
-  <libroTitulo>Conflictos globales contemporáneos</libroTitulo>
-  <seccion1 id="S1_CS_11_01_CO_8509ABFE84C6402E9DE88BA4AD84275C">
-    <seccion1Titulo>El siglo XXI o la pugna por encontrar un lugar en el Nuevo Orden Mundial</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_01_CO_img_01_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso010&amp;IdRecurso=RES-684E6DD1D681429DBDED107AC3C098C0">Recurso F7B-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_11_01_CO_3BF443F3D61649E1AA66D41626AC5682">
-        <seccion2Titulo>La comprensión de los conflictos globales desde una forma de pensar global</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_5FF39D909AE745AEB1F927084FD9FE13">
-        <seccion2Titulo>La geopolítica: el planeta como un tablero de juego</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_248ADC3005D44495A281202562A96EA0">
-        <seccion2Titulo>La hegemonía estadounidense y la guerra contra el terrorismo</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_04_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso020&amp;IdRecurso=RES-1A9CE713B6A74225B2684BA2C81BAB82">Recurso M1B-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_EEA950117BCB49BA9D13EAA26DD94255">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso030&amp;IdRecurso=RES-C2C4A12F6E9E4D5799441CDDA80F4346">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_01_CO_D23BCCD97A57452988CE05B37176B085">
-    <seccion1Titulo>Las regiones emergentes</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_01_CO_img_06_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso040&amp;IdRecurso=RES-F3238B43746A42FCB3044FE7B0CF4D6C">Recurso F4-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_11_01_CO_FE72318656464F2FA451FD2C04F49F4C">
-        <seccion2Titulo>Asia Pacífico</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_07_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_D2A2CABD31BC49A49D5B184E57B941F6">
-        <seccion2Titulo>Eurasia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_08_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <seccion3 id="S3_CS_11_01_CO_8B3F2B27CD0D4493A41966CFD0E4487C">
-            <seccion3Titulo>Regiones de Eurasia</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_11_01_CO_img_09_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_10_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso060&amp;IdRecurso=RES-9F5D8059550940F684D1013DA60D7E02">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_01_CO_7D21448AB053446F8A43CA38FE7D8D4D">
-    <seccion1Titulo>Las claves para comprender los conflictos del siglo XXI</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_01_CO_img_11_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso070&amp;IdRecurso=RES-54C2D4653E4A49EEB7363014DD7902D8">Recurso F6-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CS_11_01_CO_BE721D6FC81243B2B00447D8A2EEAF3E">
-        <seccion2Titulo>¿Qué es un conflicto bélico?</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_12_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_328771A63E204FA4AA13674B133822E7">
-        <seccion2Titulo>Las transformaciones de los conflictos bélicos en el tercer milenio</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_13_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <seccion3 id="S3_CS_11_01_CO_63F745C4538C4AB685AA34911E11DD13">
-            <seccion3Titulo>La nueva generación de conflictos armados</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_11_01_CO_img_14_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso080&amp;IdRecurso=RES-71C8702465FF4557958488FA9590CB37">Recurso M1C-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_EB6C291BBDC34F06A3C4E54E8FCD2580">
-        <seccion2Titulo>La mezcla de factores económicos, culturales y políticos en los conflictos del siglo XXI</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <seccion3 id="S3_CS_11_01_CO_9538A40B317640089EB391721403BD9D">
-            <seccion3Titulo>El motor económico</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_11_01_CO_img_16_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_11_01_CO_76F2B107ADE8438FB222C75E381BA2A6">
-            <seccion3Titulo>El motor cultural</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_11_01_CO_img_17_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CS_11_01_CO_421311E24A094602BB6C07D847C56106">
-            <seccion3Titulo>El motor político</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_11_01_CO_img_18_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_C01DC496ECF34FC88ED2A52D427AE24D">
-        <seccion2Titulo>Los conflictos como oportunidades para el cambio social</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_19_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_20_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso090&amp;IdRecurso=RES-DD96B3D4724746D59279E5D725A41499">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_01_CO_B40432674F474AC1A6E2C64CE7C53F63">
-    <seccion1Titulo>Los conflictos bélicos actuales en Europa</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_01_CO_img_21_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <seccion2 id="S2_CS_11_01_CO_59B5BDB1D3374BB78BA490954DEF91C1">
-        <seccion2Titulo>Los nacionalismos en una Unión Europea en crisis económica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_22_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso100&amp;IdRecurso=RES-1EE4320297DE437E94737B6F1B4DE549">Recurso F6-02</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_43AD5448F6B14D1983FDE2C7DB17937B">
-        <seccion2Titulo>Las nuevas formas de fascismo recorren el corazón de Europa</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_23_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso110&amp;IdRecurso=RES-8DA561EFD52848EA92B995D32D495305">Recurso M8A-01</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_24_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso120&amp;IdRecurso=RES-203BC01359174BA5B27966E54147F87E">Recurso M101A-04</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_01_CO_69479C3956A847138270A3C0A56CBB48">
-    <seccion1Titulo>Rusia: el posicionamiento de un gigante</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_01_CO_img_25_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <seccion2 id="S2_CS_11_01_CO_47E1F28994C9480699CDA76C9C4218E3">
-        <seccion2Titulo>Las tensiones entre Rusia y la OTAN</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_26_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso130&amp;IdRecurso=RES-405F528220414AEFB831770012677ABB">Recurso M10A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_F33C00BBCC67480983D956F4BB5885A0">
-        <seccion2Titulo>Ucrania</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_27_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <seccion3 id="S3_CS_11_01_CO_BE250A204FB645FEAF99953A7D6D0EC2">
-            <seccion3Titulo>El Euromaidán</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_11_01_CO_img_28_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_F9A808C5E58F45978EDB8999B52BA899">
-        <seccion2Titulo>Georgia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_29_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso140&amp;IdRecurso=RES-2E32001D897B437DAA8287B281D0B81A">Recurso M3A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_31CF89B012244C64A6937D165323A755">
-        <seccion2Titulo>Chechenia</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_30_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_31_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso150&amp;IdRecurso=RES-64B0F42FFF1B4394A0861CCF52B9D81D">Recurso M101A-06</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_01_CO_8375DCDE95B44085BEEADB35A5879AD8">
-    <seccion1Titulo>Los conflictos en Medio Oriente</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_01_CO_img_32_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <seccion2 id="S2_CS_11_01_CO_A788250257454657BAEB12B00DFA1BA5">
-        <seccion2Titulo>Los chiitas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_33_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_B585594AD80140D6947B92D3661622DD">
-        <seccion2Titulo>Los sunitas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_34_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso170&amp;IdRecurso=RES-D559D8D8DA7147A5B54A9E9BD26A2C83">Recurso M10A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_A33539D510AD46D1AF312FE8858CF740">
-        <seccion2Titulo>La “Primavera árabe”: revoluciones ciudadanas convertidas en guerras civiles</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_35_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_36_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso180&amp;IdRecurso=RES-2B7171A96C7442B7B87AF9083C6312E3">Recurso M101A-07</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_37_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_01_CO_755AAC63324D4441BABE26AC1465B21D">
-    <seccion1Titulo>Los conflictos entre Oriente y Occidente</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CS_11_01_CO_6FFA3CA5537A450FB032E1363CADE1D4">
-        <seccion2Titulo>La representación de los musulmanes desde la cultura occidental</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_38_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_3E2BD7BF9EB747018F1927796C9C3EC2">
-        <seccion2Titulo>El programa nuclear iraní</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_39_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso200&amp;IdRecurso=RES-8EF318C2E09344CBA51D2D50AD36354A">Recurso M5D-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_3BDEFAC37E7C41FFBC0F368A8EBA25E7">
-        <seccion2Titulo>Afganistán: tierra fértil para el fundamentalismo talibán y las milicias de Al Qaeda</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_40_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <seccion3 id="S3_CS_11_01_CO_39BCDA5A9E8044E89657E4A51ED51F31">
-            <seccion3Titulo>El régimen talibán</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CS_11_01_CO_img_41_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso210&amp;IdRecurso=RES-987334446349402C8BE17E74847BB589">Recurso M5A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_3FF43EDED5E8435EA8CA40075BCC645C">
-        <seccion2Titulo>El Estado Islámico: la radicalización contra Occidente</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_42_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_43_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso220&amp;IdRecurso=RES-2A932A3B95CB47F095A85CF1C47E5773">Recurso M101AP-07</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_01_CO_48887E037E1F490C8837148305C76F2B">
-    <seccion1Titulo>Proyectos y competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_01_CO_img_44_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <seccion2 id="S2_CS_11_01_CO_67356A09926E40508747F471D993DA34">
-        <seccion2Titulo>Competencias</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_45_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso230&amp;IdRecurso=RES-985A78B610B54FA1B4CA0F98B2B67FEE">Recurso M102AB-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CS_11_01_CO_5BE1FBA1A08646C682E54565DC621ADD">
-        <seccion2Titulo>Proyecto</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CS_11_01_CO_img_46_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso240&amp;IdRecurso=RES-D4EE9B914A3A4456B1DCDC786E724999">Recurso F13-01</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_01_CO_17E8DF5414714616931AFE102B694E45">
-    <seccion1Titulo>
-    </seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_01_CO_img_47_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CS_11_01_CO_3A55FC89EE394BA5BEFD175E97EF483A">
-    <seccion1Titulo>Fin de tema</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CS_11_01_CO_img_48_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CS_11_01_CO_1CD4F9DF9B494CC19AB4B642583829CE">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso260&amp;IdRecurso=RES-3F0402D1E35D44F08B755895DEBB27FB">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso270&amp;IdRecurso=RES-96CC8E78B61A44F482E124525BDCE7C6">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Conflictos globales contemporáneos</libroTitulo>
+<seccion1 id="S1_CS_11_01_CO_8509ABFE84C6402E9DE88BA4AD84275C">
+<seccion1Titulo>La pugna por un lugar en el nuevo orden mundial</seccion1Titulo>
+<seccion1Texto>
+<p>La mayor parte de las sociedades humanas actuales se encuentra
+involucrada, de una u otra manera, en una red de relaciones mundiales
+que articula a cada nación, ciudad y región en un tejido social planetario.</p>
+<p>Cada día, las personas están más interconectadas y las naciones
+se vuelven más interdependientes. Así, las acciones de las personas
+que viven en lugares remotos tienen consecuencias directas en la vida
+cotidiana de quienes las rodean. De la misma forma, las decisiones
+que se toman a diario repercuten en comunidades lejanas y desconocidas.</p>
+<imagen src="CS_11_01_CO_IMG01_small.jpg">
+<p>En tiempos de <negrita>globalización</negrita>, <negrita>la red
+de interdependencias</negrita> entre los habitantes del planeta es
+cada día más notoria. Sin embargo, no todos los países ejercen la
+misma influencia; solo algunos acumulan gran poder económico y político,
+y por ello protagonizan los conflictos globales del siglo XXI.</p>
+</imagen>
+<p>Entre las múltiples redes de <negrita>interdependencias</negrita
+> que se tejen en el ámbito global, puede distinguirse un conjunto
+de fuerzas que se disputan los lugares de privilegio en el nuevo orden.
+En la competencia por ganar un lugar en la escena mundial, se han
+consolidado grandes <negrita>jugadores globales</negrita>, entre los
+que se destacan las empresas globales y las potencias, es decir, los
+países líderes de las grandes regiones del planeta: Estados Unidos,
+China y Rusia.</p>
+<p>Puede afirmarse que los seres humanos del <negrita>siglo XXI</negrita
+> asisten a un periodo de conquistas, como ocurrió en la época de
+la colonización. Sin embargo, en lugar de que los protagonistas sean
+los grandes Estados, ahora lo son las <negrita>grandes empresas privadas</negrita
+> y los <negrita>grupos industriales y financieros</negrita>. Asimismo,
+la conquista de las empresas no tiene como objetivo la anexión de
+territorios sino el control de los mercados y la influencia sobre
+los gobiernos.</p>
+<recuerda><recuerdaTexto>
+<p>Durante el <negrita>siglo XXI</negrita> han surgido <negrita>conflictos</negrita
+> que, muchas veces, han repercutido en agresiones contra la población
+civil. De la misma forma, se presentan diversas versiones de nacionalismos
+y fundamentalismos religiosos o étnicos. Los conflictos también se
+relacionan con el crimen organizado, las redes mafiosas, la especulación
+financiera, la quiebra de microempresas y la corrupción a gran escala.</p>
+</recuerdaTexto></recuerda>
+<p>El espíritu de <negrita>competencia global</negrita> ha promovido
+el <negrita>individualismo</negrita>. Las personas son impulsadas
+a enriquecerse de manera rápida; asimismo, las empresas buscan un
+crecimiento vertiginoso, sin detenerse a medir las consecuencias.
+Ello ha desatado fenómenos como la <negrita>corrupción</negrita>,
+el <negrita>saqueo de la naturaleza</negrita> y la <negrita>criminalidad</negrita
+> que, en conjunto, están detrás de muchos conflictos del siglo XXI.</p>
+<p>Otros actores globales, como las <negrita>organizaciones armadas
+y las milicias</negrita>, también disputan un lugar en el nuevo orden.
+Algunas fuerzas globales despliegan pequeños ejércitos privados que
+apelan a la fuerza y ejercen diferentes formas de violencia para imponer
+sus intereses.</p>
+<seccion2 id="S2_CS_11_01_CO_3BF443F3D61649E1AA66D41626AC5682">
+<seccion2Titulo>Comprender los conflictos globales desde una forma
+global de pensar</seccion2Titulo>
+<seccion2Texto>
+<p>Las personas del siglo XXI están llamadas a convertirse en <negrita
+>ciudadanos del mundo</negrita>. Para ello, es necesario desarrollar
+una forma global de pensar. Actualmente, es imposible comprender las
+realidades sociales desde una óptica unilateral, como ha sido la manera
+habitual de abordar los problemas.</p>
+<p>Es imposible comprender los fenómenos del mundo de hoy desde una
+sola perspectiva o desde una sola disciplina. Es necesario aprender
+a pensar de otro modo: para comprender las realidades planetarias
+se necesita una <negrita>forma de pensar planetaria</negrita>.</p>
+<destacado><destacadoTitulo>El pensamiento global</destacadoTitulo>
+<destacadoTexto>
+<p>Permite establecer interrelaciones entre las partes, más que cadenas
+lineales de causas y efectos. Es decir, ocurre cuando se perciben
+las cosas en conjunto y no por separado. La expresión “ver el bosque,
+más que los árboles” ilustra este tipo de pensamiento. Otro ejemplo
+es el del director de orquesta que percibe lo que ocurre con el todo
+y, al mismo tiempo, se percata de que cada uno de sus músicos ejecute
+la partitura que le corresponde.</p>
+</destacadoTexto></destacado>
+<p>Una característica destacada del modo de pensar planetario es que
+para construir una mirada sobre la <negrita>realidad global</negrita
+> se requiere la <negrita>colectividad</negrita>. No es posible pensar
+de forma global, individualmente.</p>
+<p>Igualmente, el mundo de hoy exige la capacidad de <negrita>cambiar</negrita
+> y de <negrita>adaptarse al entorno</negrita>. La clave es integrar
+diferentes conocimientos y relacionar diferentes materias, de forma
+que se abarquen los múltiples niveles de la realidad del mundo actual.
+Cuando se pretende explicar un <negrita>conflicto</negrita> desde
+una <negrita>perspectiva global</negrita>, es posible encontrar <negrita
+>varias causas y respuestas</negrita> correctas para la misma pregunta.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso010&amp;IdRecurso=RES-684E6DD1D681429DBDED107AC3C098C0"
+>El juego geopolítico global</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_5FF39D909AE745AEB1F927084FD9FE13">
+<seccion2Titulo>Geopolítica: el planeta como tablero de juego</seccion2Titulo>
+<seccion2Texto>
+<p>Las noticias relacionadas con los conflictos de los últimos años
+registran un repertorio de <negrita>elementos característicos</negrita
+>: guerra contra el terrorismo, intervenciones militares en territorios
+ricos en recursos naturales, establecimiento o ruptura de acuerdos
+comerciales entre naciones, construcción de alianzas políticas entre
+diversos actores globales, democratización, proliferación de pequeñas
+organizaciones armadas fuera de la ley, mafias, afectación de poblaciones
+civiles por el conflicto, inicio de guerras civiles y desbordamiento
+de las identidades étnicas y religiosas.</p>
+<p>Vistos en conjunto, los elementos anteriores pueden considerarse
+parte de las <negrita>tácticas</negrita> y <negrita>estrategias</negrita
+> que despliegan los principales actores globales en su pugna por
+posicionar sus <negrita>intereses</negrita> en el mundo.</p>
+<imagen src="CS_11_01_CO_IMG02_small.jpg">
+<p>En diferentes grados, los <negrita>países participan</negrita> del <negrita
+>juego geopolítico global</negrita>. De esta forma, cada día el mundo
+está rehaciéndose y tomando la forma que le imprimen las fuerzas globales.</p>
+</imagen>
+<p>En efecto, las interacciones entre los principales protagonistas
+de la globalización sobre el territorio mundial permiten ver cómo
+el planeta ha sido el escenario de un <negrita>juego geopolítico</negrita
+>. La <negrita>geopolítica</negrita> reclama atención como una herramienta
+para <negrita>interpretar los conflictos del mundo</negrita>. Las
+potencias regionales han desplegado un conjunto de elementos (recursos
+económicos, ejércitos, empresas, tratados, organizaciones no gubernamentales
+y medios de información), como si fueran piezas de ajedrez sobre el
+campo de juego planetario.</p>
+<p>En el tablero del nuevo orden mundial, los jugadores establecen
+relaciones de forma planificada, tratando de anticipar las acciones
+de sus competidores y buscando apoyo mutuo entre sus diferentes piezas,
+para lograr la conquista de todo el tablero. En la geopolítica, las
+potencias regionales, las grandes empresas e incluso las grandes organizaciones
+armadas también avanzan de forma gradual y, a medida que mueven sus
+fichas, desencadenan los <negrita>principales conflictos del presente
+siglo</negrita>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_248ADC3005D44495A281202562A96EA0">
+<seccion2Titulo>La hegemonía estadounidense y la guerra contra el
+terrorismo</seccion2Titulo>
+<seccion2Texto>
+<p><negrita>Estados Unidos</negrita> es el jugador <negrita>mejor
+posicionado</negrita> actualmente en la partida del ajedrez geopolítico
+global. Tiene presencia en todos los continentes y se ha involucrado
+en la mayoría de los conflictos recientes. Sus movimientos afectan
+e interesan al resto de jugadores mundiales, porque cada vez que mueve
+sus fichas se producen noticias de interés global.</p>
+<recuerda><recuerdaTexto>
+<p>En su ajedrez geopolítico, la estrategia de <negrita>Estados Unidos</negrita
+> está dirigida a <negrita>desactivar las amenazas potenciales</negrita
+> para su dominio mundial. Para conseguirlo, durante muchos años ha
+tejido una red global de instalaciones militares y de lazos de cooperación
+internacional en materia económica y de defensa.</p>
+</recuerdaTexto></recuerda>
+<p>La actividad estratégica de Estados Unidos, incluye el papel de <negrita
+>policía global</negrita>, es decir, que transita por los cinco continentes
+interviniendo en los conflictos, previniéndolos y corrigiendo los
+posibles movimientos contrarios a su visión del orden mundial.</p>
+<imagen src="CS_11_01_CO_IMG03_small.jpg">
+<p>Según datos del Pentágono, en 2014 Estados Unidos tenía <negrita
+>598 bases militares</negrita> fuera de su propio territorio, repartidas
+en todos los continentes. Además, también cuenta con un ejército global,
+lo que le permite disponer de soldados y material militar en cualquier
+región del mundo. <cursiva>Vista aérea de la base naval estadounidense
+de Guantánamo, en Cuba</cursiva>.</p>
+</imagen>
+<p>Estados Unidos también construye su dominio mediante las <negrita
+>intervenciones indirectas</negrita>. Estas consisten en ejercer influencia
+sobre un territorio a través de agentes secundarios. Este tipo de
+conflictos, en principio, son locales, pero luego se internacionalizan,
+generalmente con el <negrita>apoyo de Estados Unidos</negrita> para
+aquellos que luchan contra gobiernos opuestos a sus intereses.</p>
+<p>Una de las zonas más conflictivas es la región del <negrita>Oriente
+Medio</negrita>, territorio muy rico en recursos naturales, particularmente
+en <negrita>petróleo</negrita>. Se caracteriza por ser una región
+inestable y en <negrita>permanente conflicto</negrita>, debido a sus
+múltiples tensiones culturales, religiosas, políticas y económicas.</p>
+<imagen src="CS_11_01_CO_IMG04_small.jpg">
+<p>El interés de Estados Unidos por controlar <negrita>los recursos
+energéticos</negrita> necesarios para alimentar su economía es la
+principal razón que explica la presencia de sus <negrita>tropas</negrita
+> de forma <negrita>permanente</negrita> en <negrita>Oriente Medio</negrita
+>, así como que esta zona sea uno de los principales escenarios de
+la <negrita>“guerra contra el terrorismo”</negrita>. <cursiva>Rangers
+norteamericanos en Afganistán</cursiva>.</p>
+</imagen>
+<p>Sin embargo, durante la última década se ha observado una <negrita
+>tendencia decreciente</negrita> de la <negrita>hegemonía estadounidense</negrita
+> sobre el globo. El estancamiento de su presupuesto de defensa debido
+a la crisis económica de 2008 ha empezado a limitar su participación
+en los conflictos globales. Al mismo tiempo, el ascenso económico
+de China lo ha conducido a concentrar sus energías en responder al
+desafío que representa el gigante asiático que, en 2014, ya superó
+en valor a la economía norteamericana.</p>
+<destacado><destacadoTitulo>Latinoamérica en el ajedrez global</destacadoTitulo>
+<destacadoTexto>
+<p>En los últimos años, Estados Unidos ha encontrado una oposición
+creciente en Latinoamérica, en particular desde el grupo de Mercosur
+y, con diferentes intensidades, desde los gobiernos de Venezuela,
+Ecuador, Bolivia y Argentina. Con motivo del espionaje estadounidense,
+también Brasil se ha mostrado crítico de las formas de actuar de Estados
+Unidos en la región.</p>
+<p>Además, los países suramericanos han intensificado sus relaciones
+con otras potencias, como China o Rusia, y también con otras naciones
+del Asia Pacífico.</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso020&amp;IdRecurso=RES-1A9CE713B6A74225B2684BA2C81BAB82"
+>Conoce la hegemonía de Estados Unidos en el orden global</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_EEA950117BCB49BA9D13EAA26DD95366">
+<seccion2Titulo>Reconfiguración continental y las regiones emergentes
+del mundo: Asia Pacífico y Eurasia</seccion2Titulo>
+<seccion2Texto>
+<p>Como resultado de la <negrita>redistribución del poder</negrita
+> mundial, actualmente se vive la <negrita>transformación</negrita
+> de las <negrita>regiones del planeta</negrita>. Hasta hace poco,
+estas correspondieron a los criterios geográficos y se establecían
+según la división tradicional de los continentes: África, América,
+Asia, Europa y Oceanía.</p>
+<p>Pero, con el ascenso económico de aquellos países que tradicionalmente
+no han sido protagonistas del nuevo orden mundial, más las nuevas
+alianzas entre países y bloques, se está <negrita>reconfigurando el
+mapa regional</negrita> mundial. Especialmente, cobran importancia <negrita
+>dos regiones emergentes: Asia Pacífico</negrita> y <negrita>Eurasia</negrita
+>.</p>
+<seccion3 id="S3_CS_11_01_CO_EEA950117BCB49BA9D13EAA26DD95377">
+<seccion3Titulo>Asia Pacífico</seccion3Titulo>
+<seccion3Texto>
+<p>En el siglo XXI, el <negrita>centro de gravedad</negrita> industrial,
+comercial,  financiero y de la geopolítica mundial se está desplazando
+hacia la cuenca del océano Pacífico. Esta región cubre el este del
+continente asiático y su parte sureste, incluyendo la región que tradicionalmente
+se denominó Oceanía. <negrita>Asia-Pacífico</negrita> es una vasta
+región que abarca el territorio de cerca de <negrita>cincuenta países</negrita
+>.</p>
+<p>El ascenso de la región comenzó después de la Segunda Guerra Mundial,
+cuando Japón despegó económicamente, seguido por las sucesivas generaciones
+de los <negrita>“tigres”</negrita> y de los <negrita>“dragones”</negrita
+> <negrita>asiáticos</negrita>: Corea del Sur, Taiwán, Hong Kong y
+Singapur; e Indonesia, Tailandia, Malasia y Filipinas, respectivamente.</p>
+<imagen src="CS_11_01_CO_IMG05_small.jpg">
+<p>A dichos países se sumó recientemente el desarrollo extraordinario
+de China e India. Adicionalmente, el papel protagónico que han cobrado
+países como Australia, Nueva Zelanda o Vietnam, terminaron por convertir
+a la región en un actor clave de la globalización, tanto así, que
+se está modificando la forma en que tradicionalmente se observa el
+mapa del mundo. Ahora, podría contemplarse desde la <negrita>perspectiva
+asiática</negrita> y <negrita>no</negrita> desde el <negrita>eurocentrismo</negrita
+>.</p>
+</imagen>
+<p>Sin lugar a dudas, Asia Pacífico es hoy el <negrita>motor de la
+economía mundial</negrita>. Según diversos análisis, las economías
+asiáticas contribuirán en más del 50% al crecimiento mundial en los
+próximos diez años. La región tiene un gran significado, no solo por
+sus tasas de crecimiento económico, sino también por su incidencia
+en temas como el medio ambiente, las migraciones, la ciencia, la tecnología
+y la seguridad mundial.</p>
+<p>En la región cabe destacar el papel de <negrita>China</negrita
+>, actualmente primera economía del mundo, miembro permanente del
+Consejo de Seguridad de Naciones Unidas y un país con el potencial
+suficiente para cuestionar la hegemonía estadounidense. Asimismo,
+es un hecho relevante que la clase media mundial se concentra hoy
+en Asia, factor que hace atractiva la zona para la inversión extranjera.</p>
+<destacado><destacadoTitulo>Datos que ilustran la realidad de la región
+Asia-Pacífico</destacadoTitulo><destacadoTexto>
+<p>Su territorio cubre el 17% de la superficie terrestre y concentra
+alrededor del 60% de la población mundial. En el 2012, representó
+alrededor del 35% del PIB mundial y el 32% de las exportaciones e
+importaciones mundiales. Los salarios en el mundo crecieron a una
+media del 2% en 2013, mientras que en Asia-Pacífico han aumentado
+un 6% en promedio, según datos de la Organización Mundial del Trabajo.
+Asimismo, la región concentra el 69% del total de las reservas mundiales
+de divisas, situación que le da capacidad de acción, respuesta y movilidad
+ante las crisis económicas.</p>
+</destacadoTexto></destacado>
+<p>Por otra parte, a diferencia de otras regiones del mundo, el <negrita
+>crecimiento económico</negrita> de Asia está acompañado de éxitos
+en la <negrita>lucha contra la pobreza</negrita> y el <negrita>mejoramiento
+del nivel de vida</negrita> de sus pobladores. El número de personas
+que viven en la extrema pobreza ha descendido de 1.500 millones a
+947 millones entre 1990 y 2008. Por lo tanto, la región va camino
+de alcanzar el Primer Objetivo de Desarrollo del Milenio (ODM), que
+es reducir a la mitad la proporción de personas que viven en la pobreza
+extrema.</p>
+<recuerda><recuerdaTexto>
+<p>Latinoamérica posee grandes recursos mineros, energéticos y alimenticios,
+que Asia-Pacífico necesitará para mantener su nivel de crecimiento.
+Ello explica los acercamientos recientes entre ambas regiones, que
+se han concretado en iniciativas de integración y en inversiones,
+en particular de China, para la construcción de infraestructura.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3>
+<seccion3Titulo>Eurasia</seccion3Titulo>
+<seccion3Texto>
+<p>Durante muchos años se consideró que Europa y Asia eran <negrita
+>continentes diferentes</negrita>. No obstante, tras la caída del
+bloque socialista y la apertura de Rusia y China hacia Occidente, <negrita
+>Eurasia</negrita> se está transformando en una <negrita>región planetaria</negrita
+>.</p>
+<p>Ello se explica debido al alto nivel de <negrita>interacciones
+e interdependencias</negrita> económicas, políticas y estratégicas
+que han adquirido sus territorios, que van desde China, pasando por
+medio Oriente, Asia central y Oriente próximo, hasta llegar a Europa
+oriental y, finalmente, a Europa occidental.</p>
+<recuerda><recuerdaTexto>
+<p><negrita>Europa</negrita> y <negrita>Asia</negrita> forman en realidad
+una sola masa continental. Puede considerarse a Eurasia como un continente
+real desde el punto de vista <negrita>físico</negrita> y <negrita
+>geológico</negrita>. También puede apreciarse una continuidad cultural,
+si se tiene en cuenta que muchas de sus naciones comparten la misma
+base lingüística. Pero el <negrita>factor económico</negrita> es el
+que más pesa en la construcción de <negrita>Eurasia</negrita> como
+región. Durante los últimos años, sus territorios están cada vez más
+interconectados en el contexto de la globalización.</p>
+</recuerdaTexto></recuerda>
+<p>Eurasia es lugar de tránsito de grandes recursos energéticos y
+de personas; contacto entre grandes mercados de mercancías y financieros.
+También, es un espacio en el que se juega un alto porcentaje del <negrita
+>equilibrio del sistema global</negrita>. Asimismo, en Eurasia se
+escenifica una de las mayores polarizaciones del mundo contemporáneo: <negrita
+>el mundo occidental, cristiano y moderno, y el mundo oriental, musulmán
+y tradicional</negrita>.</p>
+<p>Considerada como una unidad, Eurasia constituye la región más grande
+del mundo contemporáneo. Actualmente, junto con Estados Unidos, planean
+la conformación de la <negrita>zona libre de comercio más grande del
+mundo</negrita>, con un mercado de 700 millones de personas y el 46%
+del PIB mundial, según fuentes de <cursiva>Transatlantic Trade and
+Investment Partnership</cursiva>. La materialización de una región
+de tales dimensiones tendría importantes consecuencias laborales,
+ambientales y económicas para el mundo.</p>
+<imagen src="CS_11_01_CO_IMG06_small.jpg">
+<p><negrita>Eurasia</negrita> es el escenario de las principales tensiones
+y conflictos del mundo global. Cualquier poder que controle la región
+tendrá bajo su dominio más del 50% de los recursos económicos del
+mundo.</p>
+</imagen>
+<p>Una de las regiones más significativas de Eurasia es <negrita>Europa
+occidental</negrita>, término que define al conjunto de países situado
+en la parte oeste de Europa, sobre el Océano Atlántico. La región
+incluye países de economías capitalistas, de altos ingresos, aliados
+con Estados Unidos y miembros de la OTAN. Históricamente, corresponden
+a las antiguas metrópolis coloniales que basaron su desarrollo en
+la explotación de los territorios y poblaciones de África, Asia y
+América Latina.</p>
+<p>Una importante influencia en la región de <negrita>Asia central</negrita
+> es <negrita>Rusia</negrita>, potencia energética que mantiene importantes
+tensiones con Estados Unidos por imponer sus intereses y por defender
+sus áreas de influencia. Otro foco de tensión con Rusia lo constituyen
+los antiguos países que conformaban la Unión de Repúblicas Socialistas
+Soviéticas, que tras su disolución pasaron a ser países independientes.</p>
+<p>Otra región clave dentro de Eurasia es el <negrita>Oriente Medio</negrita
+>. En dicha zona se protagonizan hoy los conflictos más violentos
+del planeta, en particular por parte de grupos fundamentalistas, quienes
+ven como enemigo al modo de vida occidental. Por ello, confrontan
+violentamente la presencia de medios de comunicación, de los ejércitos,
+de los trabajadores y de cualquier influencia ajena a su tradición
+cultural.</p>
+<p>Eurasia también conecta al gigante asiático, <negrita>China</negrita
+>, con Europa occidental, en un acto que recuerda las antiguas <negrita
+>rutas de la seda</negrita>, la milenaria red de rutas comerciales
+que articuló las grandes civilizaciones asiáticas,  árabes y occidentales,
+cuya mezcla ha producido algunas de las revoluciones culturales más
+importantes en la historia de la humanidad. Eurasia también incluye
+a Rusia, India y China, como tres de los nuevos cinco grandes protagonistas
+de la globalización, denominados <negrita>BRICS</negrita>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso280&amp;IdRecurso=RES-AC07EA8A91A940208ACFD5182F7EC370"
+>Caracteriza las regiones en ascenso de Eurasia y Asia Pacífico</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_11_01_CO_EEA950117BCB49BA9D13EAA26DD94255">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso030&amp;IdRecurso=RES-C2C4A12F6E9E4D5799441CDDA80F4346"
+>Refuerza tu aprendizaje: La pugna por un lugar en el nuevo orden
+mundial</enlace>
+</profundiza></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_11_01_CO_D23BCCD97A57452988CE05B37176B085">
+<seccion1Titulo>Claves para comprender los conflictos del siglo XXI</seccion1Titulo>
+<seccion1Texto>
+<p>Si bien es cierto que <negrita>los conflictos</negrita> han formado
+parte de la vida de todos los pueblos, los de los <negrita>últimos
+veinte años</negrita> siguen <negrita>pautas diferentes</negrita>.
+No puede desconocerse que las situaciones de extrema violencia y las
+crisis humanitarias típicas del siglo XX continúan hoy. Sin embargo,
+es posible identificar razones para creer que los conflictos en el
+planeta están entrando en un ciclo diferente.</p>
+<p>Según el programa de datos sobre Conflictos de la <cursiva>Universidad
+de Uppsala</cursiva><enlace destino="http://ucdp.uu.se/"> [VER]</enlace
+>, el número de conflictos armados se ha reducido, pasando de <negrita
+>32</negrita> conflictos armados de gran intensidad en 1990 a 17 en
+2009. Asimismo, a excepción del caso de Siria e Irak, al comienzo
+de la segunda década del siglo XXI, no se encuentra un conflicto armado
+que genere más de <negrita>10.000 víctimas mortales en el curso de
+un año</negrita>.</p>
+<p>Estas cifras señalan un cambio en el <negrita>modelo de los conflictos</negrita
+>. No significa que los conflictos armados estén desapareciendo, ni
+mucho menos que la guerra no constituya un recurso para resolverlos.
+Pero las maneras en que se desenvuelven están cambiando cualitativamente
+y, en comparación con el siglo XX, la resolución armada de los conflictos
+es un fenómeno en declive.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso070&amp;IdRecurso=RES-54C2D4653E4A49EEB7363014DD7902D8"
+>Los múltiples niveles de análisis de un conflicto</enlace>
+</profundiza><seccion2
+id="S2_CS_11_01_CO_FE72318656464F2FA451FD2C04F49F4C">
+<seccion2Titulo>Las transformaciones de los conflictos bélicos en
+el tercer milenio</seccion2Titulo>
+<seccion2Texto>
+<p>Es indiscutible que el <negrita>siglo XX</negrita> fue el más funesto
+en la historia de la humanidad. Por lo menos <negrita>115 millones
+de personas</negrita> perecieron en los conflictos armados durante
+ese periodo. Pero, en el <negrita>siglo XXI</negrita>, la <negrita
+>guerra</negrita> como institución social ha <negrita>perdido legitimidad</negrita
+> para resolver los conflictos entre naciones. De hecho, salvo la
+guerra entre Palestina e Israel, las <negrita>guerras tradicionales
+entre Estados</negrita> están desapareciendo del panorama global.</p>
+<p>La nueva generación de conflictos armados tiene como común denominador
+la aparición de <negrita>actores no estatales</negrita>. Si en las
+guerras del pasado los ejércitos nacionales se enfrentaban entre sí,
+en los conflictos contemporáneos se lucha principalmente contra <negrita
+>milicias</negrita>. Dichas organizaciones armadas generalmente están
+relacionadas con grupos contrincantes de Estados Unidos y de sus aliados
+en el liderazgo del proceso de globalización. La organización <negritacursiva
+>Al-Qaeda</negritacursiva> constituye el modelo de la nueva era de
+conflictos.</p>
+<imagen ampliable="no" src="CS_11_01_CO_IMG07_small.jpg">
+<p>Las <negrita>milicias</negrita> son la forma prototípica de las <negrita
+>organizaciones no estatales</negrita>. Se componen por hombres reclutados
+por la fuerza o que toman voluntariamente las armas, ya sea para defender
+un proyecto en el que creen o al servicio de empresarios o políticos.
+Pueden recibir o no una paga regular. Las milicias incluyen variantes,
+como los paramilitares y los mercenarios. <cursiva>Osama Bin Laden
+fue el fundador de la red terrorista Al-Qaeda</cursiva>.</p>
+</imagen>
+<p>En algunos casos, los actores armados no estatales despliegan capacidades
+militares semejantes a Estados nacionales. Generalmente, están relacionados
+con actividades como el <negrita>fundamentalismo</negrita>, la <negrita
+>narco-guerra</negrita> o el <negrita>crimen organizado</negrita>,
+que han alcanzado un nivel de desarrollo que pone en peligro la seguridad
+de las naciones. En dicho contexto, <negrita>Estados Unidos</negrita
+> emerge como el <negrita>principal referente para la seguridad global</negrita
+> en el siglo XXI. La superioridad de las fuerzas militares convencionales
+de Estados Unidos obliga a los nuevos actores a evitar el enfrentamiento
+directo y optar por enfoques no convencionales.</p>
+<p>Los conflictos bélicos actuales se desarrollan bajo la mirada de
+los medios informativos y de la opinión pública global, apoyados en <negrita
+>transmisiones digitales y satelitales</negrita>. Paradójicamente,
+a pesar de esto, los entornos hostiles dificultan el acceso a la información
+sobre lo que ocurre y muchos de los conflictos bélicos no son cubiertos
+por los medios informativos, condenando a sus víctimas al olvido por
+parte de la opinión pública mundial.</p>
+<destacado><destacadoTitulo>Los conflictos del siglo XXI</destacadoTitulo>
+<destacadoTexto>
+<p>Casi todos los conflictos armados del siglo XXI son guerras civiles,
+conflictos internos muchas veces limitados a determinadas zonas de
+un país. Esto dificulta la percepción de la dimensión de los conflictos,
+especialmente cuando algunas zonas no se ven afectadas, como las capitales.</p>
+</destacadoTexto></destacado>
+<p>Otro factor típico de los conflictos actuales en el saqueo de los
+recursos naturales de regiones ricas en <negrita>materias primas y
+minerales estratégicos</negrita>. Dichos recursos sirven para alimentar
+la guerra, es decir, se intercambian riquezas naturales por armas,
+en un círculo vicioso en el que muchas veces se ven involucradas empresas
+que se conectan con las grandes transnacionales a través de las redes
+de mercados globales, pequeños ejércitos y políticos.</p>
+<imagen src="CS_11_01_CO_IMG08_small.jpg">
+<p>El ocaso de las guerras regulares también trajo el ocaso de sus <negrita
+>códigos de conducta</negrita>. En los conflictos contemporáneos cualquier
+medio es válido: deshumanización, ataques armados a civiles, secuestros,
+violaciones masivas a mujeres, ataques suicidas contra civiles, bombardeos
+indiscriminados en zonas residenciales, ejecución mediática de prisioneros,
+saqueo de aldeas, utilización de <negrita>armas prohibidas</negrita
+> (como las bombas de racimo y las <negrita>minas antipersona</negrita
+>) y emboscadas, sin medir las consecuencias sobre la <negrita>población
+civil</negrita>, que es <negrita>la principal víctima</negrita>.</p>
+</imagen>
+<p>En síntesis, la <negrita>guerra del siglo XXI</negrita> es <negrita
+>diferente</negrita>. En ella se utilizan todos los medios diplomáticos,
+las herramientas de inteligencia, los instrumentos de interdicción
+policiaca, las influencias financieras y el armamento disponible.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso080&amp;IdRecurso=RES-71C8702465FF4557958488FA9590CB37"
+>Comprende las transformaciones de los conflictos bélicos en el tercer
+milenio</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_D2A2CABD31BC49A49D5B184E57B941F6">
+<seccion2Titulo>Los conflictos como oportunidades para el cambio social</seccion2Titulo>
+<seccion2Texto>
+<p>Tanto para los individuos como para los grupos, los conflictos
+se presentan como <negrita>oportunidades</negrita> para aumentar la
+comprensión de nosotros mismos y de los otros. Los conflictos permiten <negrita
+>mejorar la forma como se vive</negrita> mediante la <negrita>construcción
+de soluciones</negrita> en las que todas las partes involucradas se
+beneficien.</p>
+<p>El conflicto es <negrita>inevitable en las relaciones humanas</negrita
+>. Por ello, en lugar de negarlo o de evitarlo es importante verlo
+como una oportunidad de desarrollo y de mejora de la convivencia.
+Históricamente, el conflicto ha sido la principal palanca de <negrita
+>transformación social</negrita>.</p>
+<p>Para lograrlo es importante empezar a considerar <negrita>la diversidad
+y la diferencia como un valor</negrita>, como riqueza. En definitiva,
+el problema no es la presencia de conflictos, sino lo que se hace
+cuando aparecen, es decir, la respuesta que se les da. No todos los
+grupos o individuos humanos resuelven sus conflictos mediante las
+armas y la violencia. Los conflictos también asumen formas creativas,
+que involucran menos fuerza y más comunicación.</p>
+<recuerda><recuerdaTexto>
+<p>En el mundo actual se consolida la <negrita>cultura de la negociación</negrita
+>, en la cual los <negrita>procesos de paz</negrita> son protagonistas.
+La mitad de los conflictos armados están en negociaciones. De los
+40 conflictos finalizados en los últimos veinte años, 33 lo hicieron
+mediante un acuerdo de paz y solo 7 con victoria militar.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_D2A2CABD31BC49A49D5B184E57B952D7">
+<seccion2Titulo>La mezcla de factores económicos, culturales y políticos
+en los conflictos del siglo XXI</seccion2Titulo>
+<seccion2Texto>
+<p>Los conflictos actuales son el resultado de una <negrita>mezcla
+de factores</negrita>. Por ello, han dado lugar a las <negrita>“guerras
+híbridas”</negrita>, en las cuales se entrelazan variables económicas,
+políticas y culturales interdependientes, y las acciones conflictivas
+están determinadas por acontecimientos que se producen en distintas
+partes del mundo.</p>
+<seccion3 id="S3_CS_11_01_CO_8B3F2B27CD0D4493A41966CFD0E4487C">
+<seccion3Titulo>El motor económico</seccion3Titulo>
+<seccion3Texto>
+<p>El signo característico de la economía global es la <negrita>competencia
+feroz entre grupos económicos</negrita>. Las disputas entre empresas
+por controlar recursos estratégicos han dado lugar a un clima propicio
+para los conflictos bélicos, que involucra miles de millones de dólares.
+La economía contemporánea empuja a unos Estados a intervenir en regiones
+del planeta, con el objetivo de <negrita>acceder a recursos y a mercados</negrita
+> imprescindibles para su crecimiento   económico.</p>
+<p>La competencia agresiva en pos de los recursos estimula a <negrita
+>grupos armados</negrita> a <negrita>controlar territorios</negrita
+> y, así, obtener <negrita>ganancias jugosas en corto tiempo</negrita
+>, aunque de forma ilegal. Ello explica que grandes zonas del planeta
+crecen económicamente mientras que, simultáneamente, colapsan sus
+gobiernos.</p>
+<imagen src="CS_11_01_CO_IMG09_small.jpg">
+<p>La necesidad de las partes armadas por reabastecer sus arsenales
+y lavar sus ingresos, introduce circuitos del <negrita>mercado negro</negrita
+>, en el cual el intercambio económico es regulado por el ejercicio
+de la violencia. El comercio mundial de <negrita>drogas</negrita> constituye
+una de las fuerzas  propulsora de la dinámica de la <negrita>construcción
+redes criminales</negrita> vinculadas a los <negrita>conflictos armados</negrita
+>.</p>
+</imagen>
+<p>En suma, diversas transacciones económicas enlazan las guerras
+con la economía global. Muchas guerras globales empiezan en escritorios
+de ejecutivos que toman decisiones económicas, las cuales desencadenan
+la acción de redes sustentadas en la violencia y que operan globalmente.
+Dichas redes se extienden hasta la economía formal, camuflándose y
+dificultando su detección.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_11_01_CO_8B3F2B27CD0D4493A41966CFD0E4178F">
+<seccion3Titulo>El motor cultural</seccion3Titulo>
+<seccion3Texto>
+<p>En el mundo global, cada vez cobran más fuerza factores culturales
+como la estigmatización del adversario, su inferiorización, su exclusión
+y hasta su negación y eliminación física. Las <negrita>particularidades
+culturales</negrita>, las <negrita>identidades religiosas</negrita
+>, <negrita>raciales</negrita>, o <negrita>geográficas</negrita> diferentes
+provocan hoy los mayores enfrentamientos de naturaleza violenta.</p>
+<imagen src="CS_11_01_CO_IMG10_small.jpg">
+<p>El refuerzo de las identidades y las <negrita>disputas culturales</negrita
+> cada vez ejerce un papel más importante en los escenarios conflictivos
+del tercer milenio. Las modalidades de conflicto cultural,  nacional,
+étnico, regional y religioso han <negrita>aumentado en intensidad
+y escala</negrita>. <cursiva>El feminismo de la igualdad aboga por
+la equiparación legal y jurídica entre hombres y mujeres. Mujeres
+pakistaníes atienden a un discurso del presidente de su país, general
+Pervez Musharraf, en marzo de 2002, durante una convención nacional
+en Islamabad</cursiva>.</p>
+</imagen>
+<p>La <negrita>polarización</negrita> dentro de las sociedades es
+un fenómeno que tiende a extenderse. El aumento progresivo de diferencias
+irreconciliables entre los miembros de una sociedad es un caldo de
+cultivo para la emergencia de conflictos <negrita>armados</negrita
+>, así como para la conformación de zonas de violencia generalizada.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_11_01_CO_8B3F2B27CD0D4493A41966CFD0E4091A">
+<seccion3Titulo>El motor político</seccion3Titulo>
+<seccion3Texto>
+<p>Las luchas por la transformación de los <negrita>regímenes políticos</negrita
+> constituyen la principal razón política que enfrenta a los pueblos
+del siglo XXI, especialmente los relacionados con intereses <negrita
+>independentistas</negrita> y <negrita>nacionalistas</negrita>. Para
+2014, existían más de 60 conflictos <negrita>separatistas</negrita
+>, algunos motivados por razones étnicas y religiosas, otros debidos
+a la discriminación y la marginación entre unos y otros grupos en
+los repartos de los poderes, o debido a las inequidades en la distribución
+de las riquezas.</p>
+<p>En los <negrita>regímenes en transición a la democracia</negrita
+> es particularmente difícil reducir la polarización social. Algunos
+países que logran emprender procesos de negociación política de sus
+conflictos armados, corren el riesgo de ver trasladados de escenario
+los enfrentamientos violentos hacia las ciudades.</p>
+<p>Cerca de la mitad de los conflictos actuales están relacionados
+con demandas de <negrita>autogobierno</negrita>. En dichos contextos,
+la inquietud global se sitúa en cómo construir estructuras políticas
+intermedias que satisfagan las demandas identitarias. Generalmente,
+son conflictos que enfrentan minorías a Estados centralizados y a
+nacionalismos excluyentes.</p>
+<p>La otra mitad de la tipología de conflictos políticos está orientada
+a producir cambios estructurales que permitan la <negrita>democratización</negrita
+> de un país. Muchas <negrita>guerrillas</negrita> afirman luchar
+por ese objetivo, aunque la mayor parte de los grupos armados de la
+actualidad también se mueven por intereses políticos o económicos,
+con frecuencia vinculados al control de actividades ilícitas como
+el <negrita>narcotráfico</negrita> o el comercio de materias primas
+estratégicas.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso290&amp;IdRecurso=RES-C3E51C56D90A4781B4FFEF01541475BC"
+>Conoce la mezcla de factores en los conflictos globales contemporáneos</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_11_01_CO_BE721D6FC81243B2B00447D8A2EEAF3E">
+<seccion2Titulo>¿Qué es un conflicto bélico?</seccion2Titulo>
+<seccion2Texto>
+<p>En ocasiones, el manejo del conflicto por las partes involucradas
+da lugar a <negrita>enfrentamientos bélicos</negrita>. En ellos, se
+utilizan <negrita>armas</negrita> para persuadir, disuadir o eliminar
+definitivamente a los adversarios.</p>
+<destacado><destacadoTitulo>Se entiende por conflicto armado al enfrentamiento:</destacadoTitulo>
+<destacadoTexto>
+<listaSinNumerar>
+<listaElemento>Protagonizado por grupos armados, regulares o irregulares,
+con objetivos percibidos como incompatibles mutuamente y en el que
+se usa de forma continuada y organizada la violencia.</listaElemento>
+<listaElemento>Que genera mínimo cien víctimas mortales en un año.</listaElemento>
+<listaElemento>Que produce un impacto grave en el territorio, como
+la destrucción de la infraestructura o de la naturaleza.</listaElemento>
+<listaElemento>En que una o ambas partes practican la interrupción
+de los servicios públicos básicos, el desplazamiento de la población,
+la violencia sexual, la inseguridad alimentaria y/o el desequilibrio
+psicológico sobre el tejido social de una comunidad, como parte de
+sus estrategias para derrotar al enemigo.</listaElemento>
+<listaElemento>En que las partes pretenden alcanzar objetivos diferenciables
+de la violencia común.</listaElemento>
+<listaElemento>Que se opone a la estructura militar, política, económica,
+social o ideológica de un Estado, o a la política de un gobierno.</listaElemento>
+<listaElemento>En que existe una lucha por debilitar a quienes ostentan
+el gobierno y por controlar los recursos, la población o el territorio.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado>
+<p>Dichas características dan forma al <negrita>extremismo</negrita
+> y al <negrita>fundamentalismo</negrita>, es decir, a acciones que
+pretenden <negrita>imponerse por la fuerza</negrita> como <negrita
+>verdades únicas</negrita> y que, por lo tanto, niegan la existencia
+de puntos de vista diferentes. Además, mediante la <negrita>violencia</negrita
+> pretenden infundir el temor y hasta eliminar a quienes no ven la
+realidad de la misma manera.</p>
+<destacado><destacadoTitulo>Ideologías como causas de conflicto armado</destacadoTitulo>
+<destacadoTexto>
+<p>En algunos casos, lo que motiva la acción armada es que una de
+las partes contendientes desea introducir <negrita>elementos esenciales
+de la ley islámica</negrita> en las instituciones y en la legislación
+del Estado. En otros casos, la acción armada busca el establecimiento
+de un <negrita>sistema político y económico de tipo socialista</negrita
+>.</p>
+</destacadoTexto></destacado>
+<p>En ciertos casos, los grupos armados no disponen de la capacidad
+bélica suficiente como para tomar el gobierno de un Estado, pero mantienen
+su actividad armada con el objetivo de <negrita>erosionarlo</negrita
+> y mantener activas y visibles sus demandas. Este tipo de situación
+se reconoce en el ámbito de la conflictividad global como <negrita
+>tensión</negrita>, entendida como el resultado del encuentro entre
+dos o más actores que persiguen objetivos, y que conlleva altos niveles
+de movilización política, social o militar y a un uso de la violencia
+con una intensidad que no alcanza la de un conflicto armado.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso300&amp;IdRecurso=RES-0F9BC8C668F84ABFACEA42D76E4FFEAB"
+>Los conflictos recientes</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_BE721D6FC81243B2B00447D8A2EBA4A">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso060&amp;IdRecurso=RES-9F5D8059550940F684D1013DA60D7E02"
+>Refuerza tu aprendizaje: Claves para comprender los conflictos del
+siglo XXI</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_11_01_CO_7D21448AB053446F8A43CA38FE7D8D4D">
+<seccion1Titulo>Los conflictos actuales en Eurasia</seccion1Titulo>
+<seccion1Texto>
+<p>Algunos de los conflictos más significativos en la actualidad se
+desarrollan en <negrita>Eurasia</negrita>. En esta zona existen casos
+representativos de las diferentes tensiones y de los intereses que
+desencadenan los conflictos. Se examinarán aquellos que involucran
+a un conjunto de fuerzas globales, que muchas veces actúan desde la
+distancia, aunque no sean tan evidentes ni protagonicen directamente
+los enfrentamientos.</p>
+<p>La mayoría de los conflictos, a excepción de la disputa entre Israel
+y Palestina, y entre India y Pakistán, se producen dentro de los límites
+de un país, por lo cual se consideran internos. Otros, en cambio,
+comienzan siendo internos y luego se internacionalizan.</p>
+<p>Algunos <negrita>factores</negrita> vinculados con la <negrita
+>internacionalización de conflictos</negrita> son: la intervención
+de terceros países, la lucha global contra el terrorismo, la participación
+de combatientes extranjeros, la entrada en combate de ejércitos para
+el mantenimiento de la paz y la utilización del territorio de países
+vecinos por parte de grupos armados de oposición.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso160&amp;IdRecurso=RES-BE9E1DB7822141A58E6D259175F159FF"
+>Conexiones entre los conflictos contemporáneos de Europa y Asia</enlace>
+</profundiza><seccion2
+id="S2_CS_11_01_CO_328771A63E204FA4AA13674B133822E7">
+<seccion2Titulo>El retorno de los nacionalismos en la Unión Europea</seccion2Titulo>
+<seccion2Texto>
+<p>La cuestión del <negrita>nacionalismo</negrita> es clave para entender
+algunas tensiones actuales en Europa. El aumento de la <negrita>presión
+migratoria</negrita> hacia Europa, sumada a la <negrita>crisis económica</negrita
+> y al hastío con una <negrita>clase política corrupta</negrita> y
+que reduce el Estado de bienestar, están dándole fuerza a los movimientos
+nacionalistas dentro de la Unión Europea, en especial en Europa occidental.</p>
+<p>El nacionalismo del siglo XXI está vinculado al <negrita>rechazo
+a los extranjeros (xenofobia)</negrita> bajo el argumento de que “hace
+peligrar los puestos de trabajo”; también, a <negrita>reivindicaciones
+territoriales</negrita> y a <negrita>identidades étnicas</negrita
+>. El resurgimiento del nacionalismo en Europa es un fenómeno que
+debe tenerse en cuenta ya que la Unión Europea es una comunidad constituida
+hace 25 años, tiempo que no le ha bastado para consolidar la unión
+frente a las fuerzas que pretenden su disolución.</p>
+<recuerda><recuerdaTexto>
+<p>Durante el siglo XX, las guerras emprendidas bajo el estandarte
+del nacionalismo casi destruyen el continente europeo. Desde allí
+se tejieron las confrontaciones, la violencia política, la guerra
+civil y, en su momento más desbordado, el genocidio y el totalitarismo.</p>
+</recuerdaTexto></recuerda>
+<p>A pesar de los problemas que alguna vez trajo el nacionalismo,
+las esperanzas de muchos europeos parecen encontrar en él hoy su expresión,
+mientras que la  Europa unificada es vista como una carga y como una
+amenaza.</p>
+<p>El caso de <negrita>Francia</negrita> genera especial inquietud,
+ya que el partido nacionalista (Frente Nacional) se ha consolidado
+como la tercera fuerza política. Sin la participación activa de Francia,
+la Unión Europea se vería debilitada estructuralmente. Hay que recordar
+que, junto a Alemania, Francia es indispensable para el futuro de
+la Unión.</p>
+<p>La crisis radica en el <negrita>malestar económico y financiero</negrita
+> de la eurozona. Sin embargo, ni los gobiernos nacionales ni las
+instituciones de la Unión Europea parecen contar con las herramientas
+apropiadas para resolver el problema. Por ello, la <negrita>angustia
+económica</negrita> ha dado lugar a un conflicto con respecto a la <negrita
+>distribución de los recursos</negrita>, de los <negrita>puestos de
+trabajo</negrita> y la legislación para <negrita>admisión de inmigrantes</negrita
+>.</p>
+<imagen src="CS_11_01_CO_IMG11_small.jpg">
+<p>La presencia de personas de <negrita>otras culturas</negrita> en
+las <negrita>ciudades de Europa</negrita> genera diversas reacciones.
+Muchas veces, las <negrita>costumbres y modos de vida</negrita> de
+los extranjeros son vistos desde <negrita>prejuicios</negrita> que
+refuerzan los nacionalismos.</p>
+</imagen>
+<p>Lo que durante la creación de la Unión Europea fue una relación
+entre iguales, ha dado paso a un enfrentamiento entre <negrita>países
+deudores</negrita> y <negrita>países acreedores</negrita>. La desconfianza
+mutua que caracteriza este conflicto corroe el proyecto europeo. Mientras
+que en el norte de Europa se teme la expropiación sobre sus bienes,
+en el sur la población se encuentra atrapada en una crisis económica
+desde el 2008, lo que se ha manifestado en un nivel de desempleo sin
+precedentes, como en el crítico caso de Grecia.</p>
+<p>Una de las intenciones de la integración de Europa fue hacer imposible
+la guerra. Por ello, la Unión Europea se sustentó en el <negrita>principio
+de no discriminación por nacionalidad</negrita>. Pero la <negrita
+>crisis económica</negrita> ha <negrita>debilitado la solidaridad</negrita
+> y está a punto de desbordar el problema.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso310&amp;IdRecurso=RES-9A42EACC97504BCCAF2B535CD8D30DE2"
+>Comprende los nacionalismos en la Europa de hoy</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_EB6C291BBDC34F06A3C4E54E8FCD2580">
+<seccion2Titulo>Nuevas formas de fascismo en Europa</seccion2Titulo>
+<seccion2Texto>
+<p>Las tendencias de los últimos años indican el crecimiento en Europa
+de <negrita>movimientos ultraderechistas</negrita> que promueven discursos <negrita
+>fascistas</negrita>. Es una forma de pensar que vuelve a presentarse
+como alternativa ante la crisis económica.</p>
+<p>Uno de los principales focos de movimientos fascistas puede situarse
+en <negrita>grupos de jóvenes</negrita> más afectados por la crisis,
+ya que ven reducidas sus expectativas vitales. Estos realizan actividades
+de violencia física y simbólica contra aquellos considerados como
+extranjeros. Mas no solo entre los jóvenes prolifera el <negrita>racismo</negrita
+> y la <negrita>xenofobia</negrita>. También se expresa entre algunos
+miembros de las principales instituciones políticas, de gobierno,
+económicas y culturales, desde donde se legitima el discurso de ultraderecha.</p>
+<destacado><destacadoTitulo>Los factores que favorecen la reaparición
+del fascismo</destacadoTitulo><destacadoTexto>
+<p>Hoy se conjuga una serie de factores que promueve la aparición
+de un clima adverso para los extranjeros en Europa. El principal es
+el <negrita>alto nivel de desempleo</negrita> en las principales capitales
+del viejo continente. Otros factores son la <negrita>migración masiva</negrita
+> de africanos y de latinos hacia las ciudades europeas pero, en particular,
+la <negrita>creciente presencia de la religión musulmana</negrita
+> y de la <negrita>comunidad judía</negrita> en Europa.</p>
+</destacadoTexto></destacado>
+<p>La crisis de una clase política tradicional desprestigiada, marcada
+por la corrupción, facilitó el afianzamiento electoral de partidos
+de extrema derecha con discursos y  actitudes de <negrita>rechazo
+hacia el “otro”</negrita>.  Estos partidos perciben la <negrita>inmigración</negrita
+> como una amenaza y promueven el endurecimiento de las políticas
+de asilo y la reducción drástica de la inmigración. Se oponen a la
+asimilación de los inmigrantes y a lo que denominan  la <negrita>“islamización”</negrita
+> de su sociedad.</p>
+<imagen src="CS_11_01_CO_IMG12_small.jpg">
+<p>En años recientes, la <negrita>inmigración</negrita> ha pasado
+a ser el tema clave para los gobiernos de <negrita>Eurasia</negrita
+>. Actualmente, a los migrantes los agobia el desempleo, sumado a
+las medidas punitivas que los gobiernos toman contra ellos. Se han
+convertido en los “chivos expiatorios” de los problemas económicos
+de la región. <cursiva>Manifestación en Barcelona, España, a favor
+de los derechos de los inmigrantes (septiembre de 2001)</cursiva>.</p>
+</imagen>
+<p>Los resultados de las últimas elecciones al Parlamento Europeo
+mostraron el <negrita>aumento del apoyo a los partidos nacionalistas</negrita
+> en Estados como Francia, Reino Unido, Dinamarca, Austria, Hungría,
+Alemania, Bélgica, Holanda, Suiza, Noruega, Grecia y Portugal.</p>
+<p>Es paradójico que mientras que en el continente se abren las puertas
+para la <negrita>libre entrada y salida de flujos de dinero</negrita
+>, al mismo tiempo se limitan y se condenan los <negrita>libres movimientos
+de la población</negrita>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_C01DC496ECF34FC88ED2A52D427AC35E">
+<seccion2Titulo>Rusia y sus tensiones con la OTAN</seccion2Titulo>
+<seccion2Texto>
+<p>Tras la caída de la Unión Soviética, durante la década de los noventa, <negrita
+>Rusia</negrita> padeció una recesión económica tan grave como la
+Gran depresión de 1930 en Europa y Estados Unidos. En el siglo XXI,
+Rusia volvió a emerger como un gigante económico y como un <negrita
+>protagonista</negrita> de primer orden en la construcción del mundo
+global.</p>
+<p>Actualmente, Rusia, considerada la <negrita>séptima economía del
+mundo</negrita>, detenta el tercer presupuesto militar más grande
+del planeta y es una de las cinco naciones con armas nucleares. Además,
+cuenta con el mayor arsenal de armas de destrucción masiva del mundo.</p>
+<imagen src="CS_11_01_CO_IMG13_small.jpg">
+<p><negrita>Rusia</negrita> posee las <negrita>reservas más grandes
+de recursos energéticos y de minerales del mundo</negrita>. En su
+territorio están las mayores reservas de gas natural, la segunda mayor
+de carbón y la octava de petróleo. Posee las mayores reservas de recursos
+forestales y la cuarta parte de agua dulce (no congelada) del mundo.
+También, es el segundo país exportador de metales. Por ello, Rusia
+es considerada una <negrita>superpotencia energética</negrita>.</p>
+</imagen>
+<p>El gobierno ha desplegado una iniciativa para su fortalecimiento
+y posicionamiento económico global. Promovió una alianza política
+y económica para conformar la <negrita>Unión Euroasiática</negrita
+>, que incluiría la unión aduanera y monetaria con Bielorrusia y Kazajistán.
+Asimismo, un espacio económico único, ampliable a otros Estados de
+la Comunidad Económica Euroasiática y la Comunidad de Estados Independientes.</p>
+<p><negrita>Ucrania</negrita> es un territorio fundamental para la
+construcción de dicha alianza. Para el futuro de Rusia, Ucrania es
+una de sus principales bases, porque sin ella quedaría debilitada.
+Ello explica las <negrita>tensiones actuales entre Rusia y la OTAN</negrita
+>, en particular con Estados Unidos y la Unión Europea por controlar
+dicho territorio.</p>
+<recuerda><recuerdaTexto>
+<p>La <negrita>extraordinaria extensión de Rusia</negrita> ha creado
+entre sus dirigentes la <negrita>sensación de vulnerabilidad</negrita
+>. Dicha percepción se ha visto reforzada por las intervenciones de
+potencias occidentales en territorios vecinos a Rusia como Serbia
+o Irak. Como fueron realizadas sin contar con la opinión de Rusia,
+generó la sensación de que estaba siendo “cercada”.</p>
+</recuerdaTexto></recuerda>
+<p>Desde entonces, Rusia ha estado preocupada por <negrita>garantizar
+su seguridad</negrita>. El gobierno ruso ha desplegado una política
+agresiva en defensa de sus áreas de influencia. Por ejemplo, las intervenciones
+en Georgia, en 2008, o actualmente en Crimea y Ucrania. Sin embargo,
+la consolidación territorial de Rusia ha encontrado la <negrita>oposición
+del mundo occidental</negrita>, especialmente a través de los <negrita
+>líderes de la OTAN</negrita>.</p>
+<p>Tras las intervenciones en Ucrania, Estados Unidos y la Unión Europea
+arremetieron contra la economía rusa. Aprobaron paquetes de sanciones
+contra Moscú que afectaron a bancos, funcionarios, empresarios y parlamentarios,
+algunas compañías y sectores enteros de la economía rusa. Una presión
+adicional al conflicto ha sido el <negrita>ingreso a la OTAN</negrita
+> en los últimos años de una decena de países que pertenecieron al <negrita
+>antiguo Pacto de Varsovia</negrita>.</p>
+<p><negrita>Rusia respondió con bloqueos</negrita> para <negrita>el
+sector agrícola y alimentario</negrita> de <negrita>Estados Unidos
+y Europa</negrita>. Incluyó la interrupción de las compras de alimentos
+en los mercados occidentales de carne, pescados, embutidos, legumbres,
+hortalizas, lácteos, verduras y frutas.</p>
+<recuerda><recuerdaTexto>
+<p>Según datos de la Comisión Europea, el valor de las exportaciones
+europeas al mercado ruso correspondiente a los productos agrícolas
+y alimentarios sancionados por Rusia alcanza los 5.200 millones de
+euros, con la puesta en riesgo de 130 mil empleos. Por tal motivo,
+Rusia prevé aumentar sus importaciones de alimentos desde Latinoamérica.</p>
+</recuerdaTexto></recuerda>
+<p>Un escenario sensible para la conflictividad que se avecina para
+la Rusia del siglo XXI se relaciona con el <negrita>sistema antimisiles
+de Estados Unidos</negrita>, desplegado en Europa oriental. Dicha
+acción ha generado, como respuesta, el <negrita>desarrollo de misiles
+balísticos de última generación</negrita> en Rusia.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso170&amp;IdRecurso=RES-D559D8D8DA7147A5B54A9E9BD26A2C83"
+>Comprende los conflictos actuales entre Rusia y la OTAN</enlace>
+</practica><seccion3
+id="S3_CS_11_01_CO_63F745C4538C4AB685AA34911E11DD13">
+<seccion3Titulo>Ucrania</seccion3Titulo>
+<seccion3Texto>
+<p>Ucrania es conocida como una <negrita>nación industrial</negrita
+> que produce <negrita>maquinaria pesada</negrita>, <negrita>aviones</negrita
+>, <negrita>trenes</negrita> y <negrita>tanques</negrita>. También
+se conoce como “el granero de Rusia”, debido a la <negrita>fertilidad
+de sus tierras</negrita>. Además, posee <negrita>reservas de gas</negrita
+>.</p>
+<p>Ucrania constituye la <negrita>región de mayor fricción entre los
+países de la OTAN y Rusia</negrita>, desde el final de la Guerra Fría.
+La actual crisis ucraniana implica intereses de todos los continentes
+y en su territorio se libra una pugna de cuyo resultado depende, en
+buena parte, el futuro global. Además, Ucrania padece <negrita>tensiones
+internas</negrita> que no ha logrado resolver desde el colapso de
+la Unión Soviética, en 1991.</p>
+<p>Además de la expansión de la OTAN hasta las fronteras rusas, desde
+hace varios años la Unión Europea inició conversaciones con los seis
+países fronterizos del Este (Armenia, Azerbaiyán, Bielorrusia, Georgia,
+Moldavia y Ucrania) con el objeto de suscribir acuerdos de asociación
+con ellos.</p>
+<imagen src="CS_11_01_CO_IMG14_small.jpg">
+<p>Rusia viene reconstruyendo su espacio geopolítico previo a la caída
+del comunismo. Una de las formas principales es la <negrita>Unión
+Aduanera</negrita> de la cual <negrita>Ucrania</negrita> es una pieza
+clave. Por otra parte, Rusia la surte de energía y el 85% del gas
+ruso que consume Europa pasa a través de Ucrania.</p>
+</imagen>
+<p>Ucrania se encuentra <negrita>dividida</negrita> entre quienes
+anhelan integrarse a la <negrita>Unión Europea</negrita> y quienes
+quieren estar bajo <negrita>influencia de Rusia</negrita>. Una es <negrita
+>prooccidental</negrita>, cristiana-católica, de habla ucraniana y <negrita
+>nacionalista</negrita>, que ve con recelo a Rusia. Y la otra, suroriental,
+ortodoxa, de habla rusa, y con fuertes afinidades con Rusia, ya que
+la considera garantía para su estabilidad y su seguridad.</p>
+<p>En 2013, los <negrita>prooccidentales</negrita>, reunidos durante
+varias semanas en la Plaza de la Independencia, dieron lugar al <negrita
+>movimiento político</negrita> conocido como <negrita>Euromaidán</negrita
+>. Su protesta se dirigió contra el jefe del gobierno, proclive a
+los intereses de Rusia y quien se negó a firmar un acuerdo de asociación
+con la Unión Europea. Finalmente, cayó su gobierno; esto representa
+el distanciamiento con respecto a Rusia y un acercamiento a la Unión
+Europea.</p>
+<p>Paralelamente, en una región al sur de Ucrania tuvo lugar un evento
+clave: <negrita>Crimea</negrita>, lugar en el que vive una mayoría
+de población de origen ruso, desestimó el deseo de relacionarse con
+Europa y expresó sus intenciones secesionistas de Ucrania y su <negrita
+>interés de alinearse con Rusia</negrita>. Para ello, convocaron un
+referéndum de adhesión a Rusia, aunque en el mundo occidental los
+observadores no pudieron verificar su legitimidad.</p>
+<imagen src="CS_11_01_CO_IMG15_small.jpg">
+<p><negrita>Crimea</negrita> es un sitio estratégico, ya que allí
+se encuentra la <negrita>flota naval rusa</negrita>, que además usufructúa
+el puerto de Sebastopol hasta el año 2042. Rusia tomó parte activa
+en dicha situación y <negrita>envió a sus tropas</negrita>, las cuales
+tomaron el control de las ciudades más importantes de Crimea. En marzo
+de 2014, <negrita>Rusia</negrita> anexó a sus territorios <negrita
+>Crimea y la ciudad de Sebastopol</negrita>.</p>
+</imagen>
+<p><negrita>Lugansk</negrita> y <negrita>Donetsk</negrita>, regiones
+de Ucrania limítrofes con Rusia, han manifestado su deseo de <negrita
+>separarse de Ucrania</negrita>. Dicha situación marcó la apertura
+de un nuevo frente en el conflicto entre el gobierno de Ucrania y
+los separatistas prorrusos. Los <negrita>rebeldes prorrusos y el ejército
+ucraniano</negrita> aceptaron un alto al fuego en agosto de 2014,
+pero los combates continuaron. Un nuevo <negrita>alto al fuego</negrita
+> fue pactado en febrero de <negrita>2015</negrita>.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_11_01_CO_9538A40B317640089EB391721403BD9D">
+<seccion3Titulo>Georgia</seccion3Titulo>
+<seccion3Texto>
+<p>El destino de <negrita>Georgia</negrita> ha estado marcado por
+su <negrita>vecindad con Rusia</negrita>. Desde el siglo XIX, el territorio
+de Georgia fue añadido al imperio ruso. En el siglo XX, fue anexado
+a la Unión Soviética.</p>
+<p>Con la caída del bloque socialista, Georgia se convirtió en <negrita
+>escenario de las disputas entre Rusia y la OTAN</negrita>. Su territorio
+constituye un corredor de <negrita>salida para el petróleo y el gas</negrita
+>, tanto para beneficio de Rusia como de Estados Unidos, naciones
+que cuentan con gasoductos en el país.</p>
+<p>Las tensiones en Georgia vienen acumulándose desde la década de
+los noventa, años en los que Rusia entregó pasaportes rusos a los
+residentes de las regiones limítrofes con su territorio (Osetia del
+Sur y Abjasia). Fueron 350.000 mil georgianos convertidos en rusos.</p>
+<p>Por su parte, en su cumbre de 2008, la <negrita>OTAN</negrita> dio
+su <negrita>aprobación para el ingreso</negrita> de Georgia a la organización.
+Asimismo, la elección del presidente Saakashvili en 2006 promovió
+un discurso nacionalista y antirruso.</p>
+<imagen src="CS_11_01_CO_IMG16_small.jpg">
+<p><negrita>Mapa de Georgia y las regiones separatistas</negrita>.
+Inmediatamente después de elección del presidente Saakashvili, en
+2006, en las regiones georgianas de <negrita>Abjasia y Osetia del
+Sur</negrita>, territorios limítrofes con Rusia y de relevancia estratégica
+para el transporte energético, emergieron <negrita>movimientos separatistas
+respaldados por Rusia</negrita>. Estos movimientos reivindicaron su
+reconocimiento como naciones independientes de Georgia.</p>
+</imagen>
+<p>En 2006, tanto Rusia como Georgia retiraron mutuamente a sus embajadores
+y aumentaron su presencia militar en dichas regiones. Finalmente,
+se reactivaron los enfrentamientos armados, dando lugar a <negrita
+>combates por el control de Tsjinval</negrita>, la capital regional,
+entre la milicia georgiana y los separatistas apoyados por las tropas
+rusas.</p>
+<p>Estas últimas, tras utilizar el poderío de su arsenal militar,
+consiguieron controlar la ciudad. El conflicto incluyó el saboteo
+de medios de comunicación  y el ataque a sitios web. Buena parte de
+la población tuvo que ser evacuada.</p>
+<p>La <negrita>limpieza étnica</negrita> es una práctica realizada
+por ambos bandos. Se intenta borrar del mapa la presencia del bando
+rival. En total, la guerra ha producido unos <negrita>20 000 muertos</negrita
+> y <negrita>300 000 desplazados</negrita>, llegando a situaciones
+en las que ciudades, como Gori, han quedado abandonadas. Desde 2012,
+el Parlamento de Georgia funciona en la ciudad de Kutaisi.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CS_11_01_CO_76F2B107ADE8438FB222C75E381BA2A6">
+<seccion3Titulo>Chechenia</seccion3Titulo>
+<seccion3Texto>
+<p>El pueblo checheno se ha enfrentado desde el siglo XIX a Rusia,
+con motivo de la <negrita>diferencia étnica y religiosa entre Chechenia
+y Rusia</negrita>. Los sentimientos antirrusos crecieron a mediados
+de siglo XX, cuando Stalin los acusó de haber colaborado con el ejército
+de Hitler y ordenó su deportación masiva hacia las zonas de Siberia.</p>
+<p>Tras el fin de la Unión Soviética, los chechenos expresaron de
+nuevo sus <negrita>tendencias separatistas</negrita> respecto a la
+esfera de influencia rusa. Una de las dos únicas regiones autónomas
+que se negaron a firmar el tratado de federación de 1992 fue Chechenia.
+Tal reivindicación encontró eco debido a que los <negrita>chechenos</negrita
+> encuentran su identidad en la <negrita>religión islámica</negrita
+> y ven a los <negrita>rusos</negrita> como un pueblo predominantemente <negrita
+>ortodoxo</negrita>.</p>
+<p>La cuestión musulmana en Rusia no es asunto menor; solo en Moscú
+viven dos millones de musulmanes, y uno de cada seis rusos profesa
+la religión musulmana. A ello hay que añadir que Rusia ha hecho de
+la iglesia ortodoxa uno de los pilares principales de su política.</p>
+<p>En contraste, Chechenia cada vez se convierte más en un Estado
+que se identifica con la religión islámica. La enseñanza laica ha
+sido sustituida por la islámica, donde el aprendizaje del Corán es
+obligatorio. Asimismo, cada distrito cuenta con un juez islámico cuyas
+sentencias, basadas en la <negritacursiva>sharia</negritacursiva>,
+son inapelables.</p>
+<recuerda><recuerdaTexto>
+<p>No hay que perder de vista los <negrita>factores económicos</negrita
+>. Chechenia es una <negrita>región rica en petróleo</negrita>. Además,
+existe un oleoducto que cruza el Cáucaso y atraviesa Chechenia, transportando
+el petróleo de los campos de la región del Mar Caspio y donde Estados
+Unidos tiene intereses energéticos. Desde esa perspectiva, Chechenia
+es una pieza del ajedrez al que cada potencia utiliza según sus necesidades.</p>
+</recuerdaTexto></recuerda>
+<p>Tras la <negrita>primera guerra</negrita>, ocurrida entre en 1994
+y 1996, los rusos aceptaron retirar todas sus fuerzas de Chechenia.
+Pero la intervención rusa envió el mensaje de que Moscú no dudaría
+en usar la fuerza para <negrita>impedir tentativas de independencia</negrita
+>. La economía chechena se desplomó y el país empezó a ser controlado
+por <negrita>mafias</negrita>. En 1999, el país estuvo al borde de
+la guerra civil. Los secuestros, el tráfico de armas y el robo de
+petróleo eran moneda corriente.</p>
+<p>La <negrita>segunda campaña</negrita> empezó en 1999 y fue presentada
+por las autoridades rusas como una operación antiterrorista interna,
+dirigida <negrita>contra fundamentalistas islámicos</negrita>. Dio
+inicio, tras el incidente de la invasión chechena a Daguestán sumada
+a varios atentados terroristas en Moscú, atribuidos a los chechenos.</p>
+<imagen src="CS_11_01_CO_IMG17_small.jpg">
+<p>En medio de un bloqueo informativo, Grozni, la capital, fue destruida
+en el año 2000 mediante <negrita>bombardeos aéreos</negrita>. Así,
+Rusia restableció el gobierno directo del <negrita>kremlin</negrita
+> sobre Chechenia. Sin embargo, los combatientes chechenos se retiraron
+hacia la región montañosa al sur del país y lanzaron desde allí ataques
+guerrilleros y acciones armadas contra la población civil. En el 2003,
+la <negrita>ONU</negrita> denominó a Grozni <negrita>“la ciudad más
+destruida de la Tierra”</negrita>.</p>
+</imagen>
+<p>En 2002, un <negrita>grupo armado checheno</negrita> tomó por asalto
+al teatro de Moscú, exigiendo la retirada del ejército ruso de Chechenia.
+Sin embargo el episodio tuvo un desenlace trágico y Rusia se negó
+a reconocer las demandas chechenas. El mismo año ocurrieron atentados,
+secuestros y emboscadas de la guerrilla, que destruyó la sede central
+del gobierno prorruso en Grozni. En 2004, dos aviones civiles explotaron
+y una acción violenta contra un colegio provocó más de 300 muertos,
+continuando con la escalada de violencia de los radicales chechenos.
+En ese mismo año resultó <negrita>electo como presidente</negrita
+> un partidario del gobierno ruso, el cual fue <negrita>asesinado
+por los separatistas</negrita>. Su hijo lo reemplazó en 2007 como
+presidente.</p>
+<p>En 2009, la <negrita>operación antiterrorista</negrita> en Chechenia
+había terminado oficialmente. Hasta el momento, se calculan entre
+25 000 y 50 000 las víctimas. La región sigue sufriendo una situación
+inestable. <negrita>La guerrilla continuó sus operaciones</negrita
+>. La estrategia actual de los rebeldes es cometer ataques terroristas
+fuera de Chechenia.</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_C01DC496ECF34FC88ED2A52D427AE24D">
+<seccion2Titulo>Los musulmanes en la cultura occidental</seccion2Titulo>
+<seccion2Texto>
+<p>Históricamente, una constante desde la cultura occidental radica
+en ver las <negrita>diferencias culturales</negrita> (costumbres,
+creencias o valores diferentes o desconocidos) <negrita>como incorrectos</negrita
+> o <negrita>negativos</negrita>, e incluso como más <negrita>atrasados</negrita
+> en el camino al desarrollo.</p>
+<p>La acción conjunta de los medios de comunicación, las instituciones
+políticas, los currículos universitarios, y en general, el uso cotidiano
+del lenguaje en las relaciones sociales, contribuye a la creación
+y difusión de <negrita>representaciones negativas</negrita> sobre
+las culturas no occidentales, como la cultura árabe desde la que se
+profesa el ser musulmán y la fe islámica.</p>
+<p><negrita>Lo islámico, lo árabe o lo musulmán</negrita> se percibe
+en la cultura occidental a través de un filtro que construye una <negrita
+>imagen única</negrita> del Islam y de la cultura musulmana. Dicho
+filtro también condiciona la relación de los occidentales con los
+musulmanes que habitan en las ciudades occidentales, como ocurre hoy
+en Europa occidental.</p>
+<imagen src="CS_11_01_CO_IMG18_small.jpg">
+<p>La <negrita>imagen</negrita> que se proyecta identifica a <negrita
+>quienes practican el Islam</negrita> con personas <negrita>atrasadas</negrita
+> y <negrita>violentas</negrita>. La tendencia de los medios noticiosos
+es al uso recurrente de expresiones como “la violencia islámica” o
+el “terrorismo islámico”, que equipara a la organización <cursiva
+>Al Qaeda</cursiva> o a los grupos fundamentalistas con todos los
+musulmanes.</p>
+</imagen>
+<p>El uso masivo de los <negrita>adjetivos islámico e islamista</negrita
+> para definir el <negrita>terrorismo</negrita> practicado por grupos
+de procedencia musulmana, crea un estigma y constituye una generalización.
+Lo mismo ocurre con la información sobre la discriminación a las mujeres.
+Se asocia esa religión directamente con la violencia.</p>
+<p>Es importante destacar que muchas de las <negrita>intervenciones
+militares</negrita> justifican sus acciones sobre territorios ocupados
+por poblaciones musulmanas con base una <negrita>imagen sesgada</negrita
+> del mundo islámico, haciéndolos ver como peligrosos para la vida
+occidental. </p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso320&amp;IdRecurso=RES-004569D175EA428D9CEFE97169C61AF2"
+>Una mirada al mundo islámico</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_A788250257454657BAEB12B00DFA1BA5">
+<seccion2Titulo>Chiitas y sunitas en los conflictos en Medio Oriente</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>musulmanes</negrita> constituyen un cuarto del total
+de la población mundial. Dentro de la tradición musulmana existen <negrita
+>dos grandes corrientes</negrita>: la <negrita>Sunita</negrita> y
+la <negrita>Chiita</negrita>. Los <negrita>conflictos entre chiitas
+y sunitas</negrita> son muy antiguos en la historia del Islam. Actualmente,
+sus diferencias tienen repercusiones tanto en el mundo musulmán como
+a nivel global.</p>
+<p>Si bien esta división en ocasiones es clave para comprender la
+organización geopolítica de Oriente Medio, en otros casos la cuestión
+étnica juega un rol más atenuado. Pero no puede negarse que el hecho
+de que <negrita>Irán sea chiita</negrita> o que <negrita>Arabia Saudita
+sea sunita</negrita> tiene importantes implicaciones para la comprensión
+de dichos conflictos, más aún cuando estos dos poseen los mayores
+abastecimientos petroleros del mundo.</p>
+<recuerda><recuerdaTexto>
+<p>Los conflictos actuales entre los sunitas y chiitas son, en buena
+medida, una <negrita>herencia de las divisiones territoriales</negrita
+> y de las fronteras impuestas por las potencias europeas durante
+el siglo XX, cuando ejercieron el <negrita>colonialismo</negrita> sobre
+los territorios musulmanes. Francia y Reino Unido trazaron el Mapa
+de Medio Oriente a mediados de la Primera Guerra Mundial. Entonces
+se crearon Estados como Siria e Irak.</p>
+</recuerdaTexto></recuerda>
+<p>Hoy en día, el factor principal que los diferencia no radica en
+el factor religioso o étnico,  sino en la <negrita>forma como conciben
+el Estado</negrita>. Mientras que los <negrita>sunitas</negrita> promueven
+un <negrita>Estado secular</negrita>, es decir, donde haya separación
+entre el Estado y la religión, los <negrita>chiitas</negrita> promueven
+un <negrita>Estado teocrático</negrita>, es decir, aquel donde converge
+la fe con el proyecto político.</p>
+<p>Sin embargo, los dos grupos son <negrita>musulmanes</negrita> y
+se rigen por el <negrita>Corán</negrita>. Las prácticas y creencias
+de los dos grupos son básicamente las mismas y la mayoría de los musulmanes,
+ya sean sunnitas o chiitas, coexisten pacíficamente.</p>
+<seccion3 id="S3_CS_11_01_CO_39BCDA5A9E8044E89657E4A51ED51F31">
+<seccion3Titulo>Chiitas</seccion3Titulo>
+<seccion3Texto>
+<p>Los chiitas constituyen aproximadamente el <negrita>15 % de los
+musulmanes</negrita>. Son mayoría en Irán, su centro demográfico y
+político. También son mayoría en Irak, Kuwait y Azerbaiyán. Un país
+con predominio chiita y gobierno sunita es Bahréin. También existen
+importantes minorías en Yemen, Líbano, Pakistán, Afganistán, Arabia
+Saudita y Siria.</p>
+<p>Los chiitas gobiernan en potencias regionales, como <negrita>Irán
+e Irak</negrita>. Controlan regiones ricas en combustibles como <negrita
+>Azerbaiyán y Bahréin</negrita>. Los campos petroleros más grandes
+de Irak se encuentran en zonas chiitas, y hay más de dos millones
+de <negritacursiva>“twelvers”</negritacursiva>, chiitas en las regiones
+ricas en petróleo de Arabia Saudita.</p>
+<p>La particularidad religiosa de los chiitas radica en la importancia
+de sus <negrita>líderes espirituales</negrita>, quienes <negrita>poseen
+poderes ejecutivos en el Estado</negrita> y además son los responsables
+de la <negrita>correcta interpretación del Corán</negrita> y deben
+demostrar un conocimiento perfecto de la ley. Dentro del chiismo también
+es importante el culto a los santos.</p>
+<recuerda><recuerdaTexto>
+<p>Históricamente, su separación de los sunitas se atribuye a que
+los chiitas afirman que <negrita>Mahoma</negrita> designó como <negrita
+>su sucesor</negrita> a alguien de su <negrita>línea familiar de sangre</negrita
+>; por ello, creen que el liderazgo de la comunidad musulmana debe
+ser <negrita>hereditario</negrita>. Con el tiempo, los chiitas se
+dividieron internamente, formando sectas. La más grande es la de los
+imamíes o duodecimanos, seguida de los alauíes, los zaydíes y los
+ismailíes.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CS_11_01_CO_BE250A204FB645FEAF99953A7D6D0EC2">
+<seccion3Titulo>Sunitas</seccion3Titulo>
+<seccion3Texto>
+<p>Los sunitas constituyen el <negrita>grupo musulmán mayoritario</negrita
+>, al que pertenece un 85%. Gobiernan la mayor parte del mundo islámico;
+se ubican principalmente en Arabia Saudita, Afganistán, Pakistán,
+Jordania, Kuwait, Yemen, Emiratos Árabes Unidos, Egipto, Túnez, Catar,
+Libia y Turquía. Un país con predominio sunita y gobierno chiita es
+Siria.</p>
+<p>En Irak, los <negrita>sunitas derrocados</negrita> en 2003 por
+la <negrita>intervención estadounidense</negrita>, reactivaron su
+animadversión sobre los chiitas. Esto creó una espiral de violencia.
+Por ejemplo, revitalizó  los miembros sunitas de la milicia del <negrita
+>Estado Islámico</negrita>, quienes participan activamente en la guerra
+civil iraquí.</p>
+<p>La particularidad religiosa de los sunitas radica en que <negrita
+>la religión no ostenta el poder temporal</negrita>. Por ello, <negrita
+>diferencian el gobierno religioso del gobierno civil</negrita>. Cualquier
+creyente puede ser intérprete el mensaje divino. Ello implica que
+no existe una estructura clerical y que rechazan la teología.</p>
+<imagen src="CS_11_01_CO_IMG19_small.jpg">
+<p><negrita>Arabia saudita</negrita> es la <negrita>capital espiritual
+del mundo sunita</negrita>. En la imagen se aprecia la <negrita>Mezquita
+del Profeta</negrita>, construida en la ciudad de Medina, la ciudad
+sagrada más importante del sunismo; allí se encuentra la <negrita
+>tumba de Mahoma</negrita>. Es el segundo lugar más sagrado del Islam
+y una de las mezquitas más grandes del mundo.</p>
+</imagen>
+<p>Los sunnitas también se han <negrita>dividido internamente</negrita
+>. Existe una corriente denominada <cursiva>wahhabista</cursiva>,
+desarrollada en Arabia Saudita, que sostiene una <negrita>política
+puritanista</negrita>, es decir, un regreso a los valores originarios
+del Islam.  Dicha corriente predica una postura radical frente a asuntos
+como el arte o las mujeres. Varios <negrita>grupos terroristas</negrita
+>, como <cursiva>Al-Qaeda, Boko Haram</cursiva> o el Estado Islámico
+se alinean con dicha corriente.</p>
+<p>Históricamente, su separación de los chiitas se fundamente en la
+creencia en que <negrita>Mahoma no nombró un sucesor</negrita>, y
+que el mejor de sus fieles puede guiar a la comunidad y debe ser elegido
+por consenso. </p>
+<recuerda><recuerdaTexto>
+<p>Los sunitas reciben su nombre debido a la <negrita>importancia
+que dan a la Sunna</negrita>, nombre que recibe la colección de dichos
+y hechos atribuidos a Mahoma y transmitidos en forma oral. Así, no
+solo se basan en el Corán sino también en la Sunna, lo <negrita>cual
+permite interpretar el Corán según las exigencias de la época</negrita
+>.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso330&amp;IdRecurso=RES-01E6450364254FA484905CD158863FA8"
+>Comprende los conflictos entre chiitas y sunitas</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CS_11_01_CO_B585594AD80140D6947B92D3661622DD">
+<seccion2Titulo>Afganistán: el fundamentalismo talibán y las milicias
+de Al-Qaeda</seccion2Titulo>
+<seccion2Texto>
+<p>Tras los <negrita>atentados</negrita> contra el <cursiva>World
+Trade Center</cursiva> y el pentágono en 2001, Estados Unidos puso
+en marcha la denominada “Guerra contra el terrorismo”, mediante el
+despliegue de operaciones militares y con el objeto de <negrita>neutralizar
+a los grupos armados</negrita> con interés en atentar contra las potencias
+occidentales. Un objetivo primario de la operación militar fue la <negrita
+>intervención en Afganistán</negrita>, país que fue visto como un <negrita
+>refugio para organizaciones radicales armadas</negrita>, y su gobierno
+fue acusado de dar apoyo a quienes ejecutaron los atentados.</p>
+<p>Las pistas llevaron hacia la <negrita>organización <cursiva>Al-Qaeda</cursiva
+></negrita>, encabezada por <negrita>Osama Bin Laden</negrita>. Dicha
+organización tuvo como origen el régimen político islamista radical
+por parte de los talibanes en Afganistán. Estos últimos permitieron
+la apertura de campos de entrenamiento de terroristas de <cursiva
+>Al-Qaeda</cursiva>.</p>
+<p>Los <negrita>talibanes</negrita> son una <negrita>facción político-militar
+fundamentalista</negrita>. Tomaron el control del gobierno afgano
+tras la retirada del ejército de la Unión Soviética, a finales de
+los <negrita>años ochenta</negrita>. En ese momento, <negrita>Estados
+Unidos apoyó a los talibanes</negrita> porque los consideraba anti-iraníes,
+anti-chiíes y pro-occidentales.</p>
+<p>En la <negrita>década del noventa</negrita>, los talibanes mutaron
+en una <negrita>poderosa fuerza militar y política</negrita>. Están
+organizados en células autónomas que hacen parte de un movimiento
+único, a la manera de las franquicias.</p>
+<imagen src="CS_11_01_CO_IMG20_small.jpg">
+<p>Tanto <cursiva>Al-Qaeda</cursiva> como los talibanes afganos pretenden <negrita
+>acabar con la influencia extranjera en territorio afgano</negrita
+>. <cursiva>Al-Qaeda</cursiva> funciona como una corporación a la
+que se integran diversas milicias pertenecientes al islamismo fundamentalista.
+Llegó a tener miembros en más de 60 países. Dicha organización incentivó
+la producción y el tráfico de heroína como un arma en su guerra contra
+Occidente. Hoy en día, <negrita>Afganistán</negrita> es el primer
+productor de opio en el mundo.</p>
+</imagen>
+<p>El <negrita>régimen Talibán</negrita> impuso <negrita>reglas de
+vida muy estrictas</negrita> al pueblo de Afganistán. La música, la
+televisión, el cine y cualquier actividad relacionada con el entretenimiento
+fueron prohibidas. Enseñar el cristianismo constituye un delito castigado
+con la pena de muerte. También destruyeron edificios valiosos por
+su arquitectura y estatuas religiosas.</p>
+<p><negrita>Estados Unidos</negrita> inició sus <negrita>acciones
+contra Afganistán en 2001</negrita>, invadiendo con sus fuerzas armadas
+el país y derrocando al régimen talibán, con el apoyo de la <negrita
+>OTAN</negrita> y <negrita>Pakistán</negrita>. La operación duró un
+mes. En noviembre de 2001, Estados Unidos consideró que había ganado
+la guerra.</p>
+<imagen src="CS_11_01_CO_IMG21_small.jpg">
+<p>Sin embargo, el derrocamiento del régimen <negrita>no puso fin
+a la actividad de los talibanes</negrita>, quienes continuaron dominando
+algunos territorios mediante la <negrita>guerra de guerrillas</negrita
+>. Debido a la permanente intervención militar de los países occidentales,
+en muchas ocasiones los talibanes ha encontrado apoyo entre la población,
+porque son vistos como los defensores frente a la invasión extranjera. <cursiva
+>Manifestantes actuando en las calles de Peshawar (Pakistán), en octubre
+de 2001, como protesta por los ataques aéreos estadounidenses contra
+el ejército talibán de Afganistán</cursiva>.</p>
+</imagen>
+<p>Tras la eliminación de <negrita>Bin Laden</negrita>, en 2011 por
+parte de Estados Unidos, <negrita>la democracia implantada no se ha
+consolidado</negrita>. Múltiples atentados contra militares y civiles
+ocurren año tras año, la producción de opio y heroína se ha convertido
+en una empresa que corrompe y debilita las instituciones.</p>
+<p>En diciembre de 2014, Estados Unidos dio por finalizada su misión
+en Afganistán. Con ello sacó la mayor parte de sus tropas y a partir
+de 2015 mantiene una presencia militar limitada. El futuro de Afganistán
+se proyecta incierto.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_A33539D510AD46D1AF312FE8858CF740">
+<seccion2Titulo>La Primavera árabe</seccion2Titulo>
+<seccion2Texto>
+<p>En diciembre de 2010, <negrita>Mohamed Bouazizi</negrita>, un joven
+de 26 años, vendedor ambulante de fruta, agobiado por la precariedad
+de la vida en Túnez y por el maltrato de las autoridades, se impregnó
+el cuerpo con gasolina y luego se <negrita>inmoló</negrita> en un
+mercado.</p>
+<p>Este hecho desató una reacción popular que, en días, <negrita>derrocó
+al gobierno autoritario</negrita> de Túnez, el cual había durado 25
+años. El joven se convirtió en <negrita>símbolo de la resistencia
+popular</negrita>, ante la elevación del costo de vida y los abusos
+de los regímenes autoritarios.</p>
+<p>Dicho movimiento social desencadenó <negrita>réplicas en forma
+de movilizaciones antiautoritarias</negrita>,  de <negrita>protestas
+multitudinarias</negrita> y hasta el <negrita>derrocamiento de gobiernos</negrita
+>. Egipto, Arabia Saudita, Libia, Siria Yemen, Argelia, Mauritania,
+Sudán, Omán, Jordania y  Bahréin fueron los principales escenarios,
+dando lugar a un fenómeno social que los medios denominaron como la <negrita
+>“Primavera árabe”</negrita>.</p>
+<imagen src="CS_11_01_CO_IMG22_small.jpg">
+<p>La oleada de <negrita>protestas democráticas</negrita> en el mundo
+árabe encontró simpatías y apoyos entre muchas personas e instituciones
+del <negrita>mundo occidental</negrita>, así como la condena de las
+acciones represivas de los gobiernos.</p><?Pub Caret -2?>
+</imagen>
+<p>La serie de conflictos tuvo en común la lucha de diferentes sectores
+sociales, en particular los <negrita>jóvenes</negrita>, por <negrita
+>mejorar sus condiciones de vida</negrita>, así como para <negrita
+>defender los derechos y libertades de sus habitantes</negrita> frente
+al autoritarismo de los gobiernos de la región. También fue clave
+el uso de redes de comunicación e Internet.</p>
+<p>Después de las movilizaciones, en la mayoría de los casos <negrita
+>se convocó a elecciones</negrita>. Paradójicamente, los <negrita
+>partidos tradicionales y las jerarquías religiosas salieron fortalecidos</negrita
+> de los procesos electorales, dejando así como minoría a quienes
+derribaron la dictadura. Solo un solo caso, entre la gama de países
+que protagonizaron la Primavera árabe, inició una <negrita>transición
+hacia la democracia: Túnez</negrita>. Dicho país logró fortalecer
+sus estructuras democráticas.</p>
+<destacado><destacadoTitulo>Guerras civiles en los países de la Primavera
+árabe</destacadoTitulo><destacadoTexto>
+<p>En los países de la Primavera Árabe se descompusieron las instituciones
+de gobierno y <negrita>la población se dividió en facciones</negrita
+>, dando inicio a <negrita>guerras civiles</negrita>. Las guerras
+se caracterizan por las divisiones tribales y tensiones sectarias
+crecientes entre los musulmanes sunitas y los chiitas en la región.
+Dichos conflictos involucran un amplio abanico de actores no estatales
+armados, como las milicias y los grupos yihadistas, afines a Al-Qaeda
+y el Estado Islámico, soldados mercenarios, jóvenes radicalizados,
+líderes religiosos, y traficantes de drogas, armas y personas.</p>
+</destacadoTexto></destacado>
+<p>Los casos particulares de las <negrita>guerras civiles</negrita
+> en <negrita>Siria e Irak</negrita> son particularmente <negrita
+>graves</negrita>. Están inmersos en una espiral de violencia sectaria
+que no ha tocado fondo. Un Irán chiita y una Arabia Saudita sunita
+están librando una guerra indirecta en suelo sirio. Allí, se ha intensificado
+el conflicto bélico y se estima en cientos de miles la cifra de muertos.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_3E2BD7BF9EB747018F1927796C9C3EC2">
+<seccion2Titulo>El programa nuclear iraní</seccion2Titulo>
+<seccion2Texto>
+<p>El denominado <negrita>“programa nuclear iraní”</negrita> involucra
+una serie de factores que lo convierten en uno de los principales
+puntos de <negrita>tensión</negrita> entre los grandes actores geopolíticos
+de la región. Según cómo se desarrollen los hechos en este escenario,
+podría verse transformado sustancialmente el <negritacursiva>statu
+quo</negritacursiva> regional.</p>
+<p>El programa consiste en laboratorios de investigación, una mina
+de uranio, un reactor nuclear, y algunas instalaciones de procesamiento
+de uranio que incluyen una planta de enriquecimiento y la elaboración
+de agua pesada.</p>
+<recuerda><recuerdaTexto>
+<p><negrita>Irán</negrita> posee el 40% de los <negrita>recursos petroleros
+y de gas</negrita> de Oriente Medio y es el cuarto productor mundial
+del <negrita>crudo</negrita>. También es la <negrita>capital espiritual
+de los musulmanes chiitas</negrita>, quienes tienen un conflicto histórico
+con los sunitas. Asimismo, Irán controla el Estrecho de Ormuz, camino
+de entrada y salida hacia el Golfo Pérsico, por donde <negrita>transita</negrita
+> la mitad del <negrita>comercio mundial de hidrocarburos</negrita
+>.</p>
+</recuerdaTexto></recuerda>
+<p>El bloque liderado por <negrita>Estados Unidos e Israel</negrita
+> argumenta que <negrita>Irán</negrita> pretende <negrita>construir
+armas nucleares</negrita>. Sospechan que Irán encubre la fabricación
+de armas nucleares tras el programa de desarrollo de <negrita>energía
+atómica</negrita>. Irán rechaza las acusaciones y defiende los fines
+pacíficos de su programa para desarrollar la capacidad de generar
+energía nuclear. Además, Irán presenta a <negrita>Israel como la verdadera
+amenaza</negrita>, ya que Israel posee armas atómicas.</p>
+<p>Israel señala que el régimen iraní tiene antecedentes de haber
+planteado la eliminación del Estado de Israel. Por ello, teme que,
+de contar con armas nucleares, las utilice en su contra. Por ello,
+es el actor que más presión ha ejercido para implementar medidas que
+restrinjan el desarrollo de la capacidad nuclear iraní. El gobierno
+israelí también amenazó con lanzar acciones militares contra los complejos
+nucleares de Irán.</p>
+<imagen src="CS_11_01_CO_IMG23_small.jpg">
+<p>El desarrollo del programa nuclear enfrenta a <negrita>Irán</negrita
+>, <negrita>Estados Unidos e Israel</negrita>. Para Israel, Irán es
+una “piedra en el zapato” porque representa la amenaza de un ataque
+nuclear. Por su parte, Estados Unidos pretende “envolver” a Irán en
+negociaciones con el objetivo de neutralizar su desarrollo atómico.
+ Mientras tanto, Irán adoptó una política de “puño de hierro” para
+defender la neutralidad de su programa nuclear.</p>
+</imagen>
+<p> Recientemente, el <negrita>grupo 5+1</negrita>, conformado por
+los cinco miembros permanentes del Consejo de Seguridad de la ONU
+(Rusia, Estados Unidos, Francia, Reino Unido, China) y Alemania  se
+han reunido a <negrita>negociar salidas con Irán</negrita>, con las
+que todos los actores queden conformes. Hasta el momento las partes
+no han alcanzado un acuerdo.</p>
+<p>La grave situación de la guerra en Siria ha llevado a que Estados
+Unidos se acerque al gobierno iraní para encontrar una solución para
+el conflicto en Siria, situación que ha favorecido el acercamiento
+mutuo. Sin embargo, en Arabia Saudita e Israel se encendieron las
+alarmas por la disposición de Washington de negociar con Teherán.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso340&amp;IdRecurso=RES-ABB113559834436E99B7556376BD8935"
+>Contextualiza la información sobre Irán y su programa nuclear</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_3FF43EDED5E8435EA8CA40075BCC645C">
+<seccion2Titulo>El Estado Islámico frente a Occidente</seccion2Titulo>
+<seccion2Texto>
+<p>El Estado Islámico es una macro organización compuesta por <negrita
+>milicias yihadistas sunitas</negrita>. A medida que creció, cambió
+también de nombre y de estrategia. Hoy en día reúne entre <negrita
+>15 000 y 30 000 milicianos</negrita> activos, con un alto porcentaje
+de extranjeros pagados como mercenarios.</p>
+<p>Al comienzo, el grupo se nutrió de los reductos militares que quedaron
+de la agrupación <cursiva>Al-Qaeda</cursiva> en Irak. También encontró
+apoyo entre sunitas que se sintieron agredidos por la intervención
+militar de Occidente, que fue vista como una acción para apoderarse
+del control de los campos petrolíferos, tras la cortina de la supuesta
+existencia de armas biológicas.</p>
+<p>El <negrita>fundamentalismo del Estado Islámico</negrita> radica
+en su <negrita>interpretación extremista del Islam</negrita>. Sus
+miembros se consideran como los únicos creyentes verdaderos, quienes
+están llamados a restaurar la pureza del islamismo frente a la contaminación
+que representan tanto las vertientes chiitas del Islam como las influencias
+occidentales.</p>
+<p>Señalan como apóstatas a la población musulmana chiita y a <negrita
+>todo aquel que cuestione su lucha</negrita>. Así, <negrita>legitiman
+sus ataques</negrita> contra otros musulmanes, llevando a cabo ejecuciones
+públicas y destruyendo templos y mezquitas de facciones enemigas.
+El grupo pretende establecer un <negrita>califato</negrita>, es decir,
+un Estado dirigido por un líder político y religioso, que gobierne
+la totalidad del mundo musulmán.</p>
+<imagen src="CS_11_01_CO_IMG24_small.jpg">
+<p>La <negrita>intervención estadounidense en Irak</negrita> se justificó
+por la afirmación del gobierno estadounidense de que Irak poseía armas
+de destrucción masiva. Por ello, derrocaron al gobierno de <negrita
+>Sadam Hussein</negrita>. Finalmente, dichas armas nunca se encontraron. <cursiva
+>El ex dictador iraquí Sadam Hussein se prepara para ofrecer su testimonio
+junto a antiguos cargos del régimen, también acusados, durante uno
+de los procesos celebrados en Bagdad en 2006</cursiva>.</p>
+</imagen>
+<p>El Estado Islámico reclama la <negrita>autoridad religiosa sobre
+todos los musulmanes</negrita> del mundo y su propósito es reunir
+los territorios habitados por musulmanes, comenzando con Irak y la
+región del Levante mediterráneo, Siria e Irak, para convertirlos en
+la base de un Estado musulmán y luego expandirse al resto del mundo
+árabe.</p>
+<p>Es un grupo que hoy controla grandes recursos económicos. Se calcula
+que posee <negrita>dos mil millones de dólares</negrita> y que diariamente
+agrega <negrita>dos millones de dólares diarios</negrita> por la venta
+de petróleo y gas, así como por el cobro de impuestos que recauda
+en su territorio. Además, por algunas actividades ilícitas como extorsión,
+contrabando y secuestro, control de represas, carreteras y límites
+fronterizos. También se ha denunciado que trafican órganos y que comercian
+antigüedades.</p>
+<imagen src="CS_11_01_CO_IMG25_small.jpg">
+<p>Bandera del <negrita>Estado Islámico</negrita>, grupo yihadista
+sunita, autoproclamado <negrita>califato</negrita>. La bandera usa
+el color negro, característico de la <cursiva>yihad</cursiva>. El
+texto en árabe escrito en color blanco dice  “Ilaha, illa-llah”, que
+se traduce “no hay más Dios que Alá”, declaración de fe en un único
+Dios y la profecía de Mahoma. Para muchos, es símbolo de <negrita
+>censura a la diversidad</negrita>.</p>
+</imagen>
+<p>Sus <negrita>tácticas</negrita> son consideradas <negrita>extremas</negrita
+>. Decapitaciones difundidas en las redes sociales, flagelaciones,
+amputaciones, crucifixiones, torturas, ejecuciones sumarias y asesinatos
+en masa han sido utilizados para atemorizar a sus enemigos. También
+practican el <negrita>secuestro de minorías religiosas</negrita>.
+Debido a esto, los <negrita>muertos</negrita> ya se cuentan por miles
+y hay más de un millón de <negrita>personas desplazadas</negrita>.
+Incluso su acción ha llegado a Europa, en donde han asesinado a periodistas
+y caricaturistas que, desde su punto de vista, ofenden su religión.</p>
+<p>El Estado Islámico se <negrita>fortaleció</negrita> a partir del
+estallido de la <negrita>guerra civil en Siria</negrita>. Declaró
+su soberanía sobre Irak y Siria, y su territorio se constituyó en
+una plataforma de lanzamiento de ataques contra Estados Unidos y sus
+aliados. La influencia del Estado Islámico se está extendiendo con
+rapidez más allá de Irak y Siria. Su propaganda seduce a los jóvenes
+a través de las <negrita>redes sociales</negrita> y las acciones para
+detenerlos no están dando resultados.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_3BDEFAC37E7C41FFBC0F368A8EBA25E7">
+<seccion2Titulo>El conflicto por el uso femenino del velo islámico</seccion2Titulo>
+<seccion2Texto>
+<p>Una de las polémicas contemporáneas entre el mundo occidental y
+el mundo islámico ha girado en torno al <negrita>papel de las mujeres</negrita
+> en la cultura musulmana. Un debate que cobró especial resonancia
+y difusión en el siglo XXI es el uso, unas veces impuesto y otras
+veces prohibido, del <negrita>velo islámico</negrita> por parte de
+las mujeres musulmanas.</p>
+<p>Históricamente, todas las culturas han codificado el vestido tanto
+para las mujeres como para los hombres.</p>
+<imagen src="CS_11_01_CO_IMG26_small.jpg">
+<p>El vestuario femenino, en general, y el <negrita>velo para cubrir
+la cabeza o la cara</negrita>, en particular, son asuntos importantes
+para las sociedades musulmanas. Tanto el tipo de velo que se usa (<cursiva
+>hiyab</cursiva>, <cursiva>chador</cursiva>, <cursiva>niqab</cursiva
+> o <cursiva>burka</cursiva>), como el modo de usarlo (unas veces
+cubriendo la cabeza, otras el cuello, y en otros casos, el cuerpo
+completo), ha variado con el tiempo.</p>
+</imagen>
+<p>El debate radicó en la <negrita>crítica</negrita> que se realizó,
+por parte de algunas voces del mundo occidental, en torno a la <negrita
+>obligatoriedad del uso del velo</negrita> para las mujeres musulmanas.
+Se veía en ello una imposición que <negrita>restringía la libertad</negrita
+> de las mujeres y también un <negrita>símbolo de discriminación</negrita
+>. Tanto así que en algunas ciudades de Francia y Bélgica se llegó
+a <negrita>prohibir su uso</negrita> tanto en dependencias públicas
+como en la calle.</p>
+<p>Es verdad que el ascenso al poder por grupos extremistas en algunas
+regiones de Oriente medio significó la instauración de prácticas opresivas
+contra las mujeres, como en el caso de los gobiernos talibanes. Pero
+también es preciso reconocer que la realidad de la mujer no es la
+misma en todos los lugares del mundo islámico. Poco a poco se han
+introducido cambios positivos, como su presencia en los espacios públicos
+y su acceso a la educación. Son fenómenos que lentamente transforman
+las bases patriarcales de la sociedad musulmana.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CS_11_01_CO_59B5BDB1D3374BB78BA490954DEF91C1">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso090&amp;IdRecurso=RES-DD96B3D4724746D59279E5D725A41499"
+>Refuerza tu aprendizaje: Los conflictos actuales en Eurasia</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CS_11_01_CO_3A55FC89EE394BA5BEFD175E97EF483A">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido en estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso230&amp;IdRecurso=RES-985A78B610B54FA1B4CA0F98B2B67FEE"
+>Competencias: análisis cartográfico de la confrontación entre Occidente
+y el Estado Islámico</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso240&amp;IdRecurso=RES-D4EE9B914A3A4456B1DCDC786E724999"
+>Proyecto: la crisis migratoria en Europa</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CS_11_01_CO_1CD4F9DF9B494CC19AB4B642583829CE"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso260&amp;IdRecurso=RES-3F0402D1E35D44F08B755895DEBB27FB"
+>Mapa conceptual del tema Conflictos globales contemporáneos</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CS_11_01_CO_Recurso270&amp;IdRecurso=RES-96CC8E78B61A44F482E124525BDCE7C6"
+>Evalúa tus conocimientos sobre el tema Conflictos globales contemporáneos</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://www.elespectador.com/noticias/elmundo/estado-islamico-amenaza-se-extiende-articulo-546054"
+>Estado islámico, la amenaza se extiende.</enlace>
+<enlace
+destino="http://elpais.com/elpais/2013/12/27/media/1388174643_201224.html"
+>Mapa de los conflictos mundiales.</enlace>
+<enlace
+destino="http://www.taringa.net/posts/apuntes-y-monografias/17512650/Islam-Geopolitica-de-la-division-sunita-chiita.html"
+>Chiitas y sunitas.</enlace>
+</enlacesreferencia></masinformacion></libro>
