@@ -1,3 +1,4 @@
+/* VERSION : 16.3.2.1 */ 
 //***************************************************************
 // Variables y funciones sobre idiomas
 //***************************************************************
@@ -6,11 +7,13 @@ var LangRes = {
 
 	// Idiomes disponibles
 	LANG_ID_ES		: 0,
-	LANG_ID_EN		: 1,
-	LANG_ID_VAL		: 2, // El idioma valenciano no esta reconocido
-	LANG_ID_GAL		: 3,
-	LANG_ID_CAT		: 4,
-	LANG_ID_EUS		: 5,
+	LANG_ID_ES_CO		: 1,
+	LANG_ID_ES_MX		: 2,
+	LANG_ID_EN		: 3,
+	LANG_ID_VAL		: 4, // El idioma valenciano no esta reconocido
+	LANG_ID_GAL		: 5,
+	LANG_ID_CAT		: 6,
+	LANG_ID_EUS		: 7,
 
 	// Indicadors del recurs
 	ENTREGA_EN_MANO		:	0,
@@ -34,11 +37,15 @@ var LangRes = {
 	HTML_PAGE_TITLE		:	18,
 	MSG_VALIDADOCORRECTO	:	19,
 	MSG_ADJUNTA		:	20,
+	FILE_UPLOAD_MAX_SIZE	:	21,
+	FILE_UPLOAD_NO_ACCEPTED	:	22,
 	
 	// Text codificat que indica l'idioma, equivalent al langId però que
 	// es fa servir als XML
 	langNames: [
 		{ id: "es", nameId: 0 },
+		{ id: "es_co", nameId: 0 },
+		{ id: "es_mx", nameId: 0 },
 		{ id: "en", nameId: 0 },
 		{ id: "val", nameId: 0 },
 		{ id: "gal", nameId: 0 },
@@ -71,7 +78,59 @@ var LangRes = {
 			"Actividad aún por empezar.",
 			"Actividad",
 			"Ejercicio enviado para validación",
-			"Adjunta y envía el trabajo desde tu tarea abierta en la web."
+			"Adjunta y envía el trabajo desde tu tarea abierta en la web.",
+			"El tamaño del archivo no puede superar 30 MB",
+			"Tipo de archivo no permitido"
+		],
+		[ // colombiano
+			"Entrega el trabajo personalmente o por email.",
+			"Enviar",
+			"Adjuntar trabajo",
+			"Guardar",
+			"Cancelar",
+			"Continuar",
+			"Hay preguntas sin responder. Si continúas, se enviará el ejercicio al docente para que lo evalúe. Si quieres hacer alguna modificación, haz clic en Cancelar.",
+			"No hay archivos subidos aún.",
+			"Corregir",
+			"Descargar Archivo",
+			"Archivo de la actividad",
+			"Cerrar",
+			"Cargando actividad...",
+			"Ya has realizado esta actividad antes.",
+			"Esta actividad se debe asignar como tarea para poderla realizar, o entregarla personalmente o por email.",
+			"La actividad ya ha sido enviada al docente.",
+			"El estudiante ha abierto la actividad.",
+			"Actividad aún por empezar.",
+			"Actividad",
+			"Ejercicio enviado para validación",
+			"Adjunta y envía el trabajo desde tu tarea abierta en la web.",
+			"El tamaño del archivo no puede superar 30 MB",
+			"Tipo de archivo no permitido"
+		],
+		[ // mejicano
+			"Entrega el trabajo personalmente o por email.",
+			"Enviar",
+			"Adjuntar trabajo",
+			"Guardar",
+			"Cancelar",
+			"Continuar",
+			"Hay preguntas sin responder. Si continúas, se enviará el ejercicio a tu maestro para que lo evalúe. Si quieres hacer alguna modificación, haz clic en Cancelar.",
+			"No hay archivos subidos aún.",
+			"Corregir",
+			"Descargar Archivo",
+			"Archivo de la actividad",
+			"Cerrar",
+			"Cargando actividad...",
+			"Ya has realizado esta actividad antes.",
+			"Esta actividad se debe asignar como tarea para poderla realizar, o entregarla personalmente o por email.",
+			"La actividad ya ha sido enviada al maestro.",
+			"El estudiante ha abierto la actividad.",
+			"Actividad aún por empezar.",
+			"Actividad",
+			"Ejercicio enviado para validación",
+			"Adjunta y envía el trabajo desde tu tarea abierta en la web.",
+			"El tamaño del archivo no puede superar 30 MB",
+			"Tipo de archivo no permitido"
 		],
 		[ // en
 			"Hand in to your teacher directly or by email.",
@@ -94,7 +153,9 @@ var LangRes = {
 			"Activity still not started.",
 			"Activity",
 			"Exercise successfully sent for evaluation.",
-			"Attach and send your answer from your task page."
+			"Attach and send your answer from your task page.",
+			"The file size may not exceed 30 MB",
+			"File format not accepted"
 		],
 		[ // valenciano
 			"Lliura el treball en mà o per correu electrònic.",
@@ -117,7 +178,9 @@ var LangRes = {
 			"Activitat no iniciada encara.",
 			"Activitat",
 			"L'exercici s'ha enviat per a validar-lo",
-			"Adjunta i envia el treball des de la teua tasca oberta en la web."
+			"Adjunta i envia el treball des de la teua tasca oberta en la web.",
+			"La mida del fitxer no pot superar els 30 MB",
+			"Format de fitxer no acceptat"
 		],
 		[ // gallego
 			"Entrega o traballo en man ou por correo electrónico.",
@@ -140,7 +203,9 @@ var LangRes = {
 			"Actividade aínda por empezar.",
 			"Actividade",
 			"Exercicio enviado para validar",
-			"Anexa e envía o traballo desde a túa tarefa aberta na web."
+			"Anexa e envía o traballo desde a túa tarefa aberta na web.",
+			"O tamaño do ficheiro non pode superar 30 MB",
+			"Tipo de archivo no permitido"
 		],
 		[ // catalán
 			"Entrega el treball en mà o per correu electrònic.",
@@ -163,7 +228,59 @@ var LangRes = {
 			"Activitat no iniciada encara.",
 			"Activitat",
 			"L'exercici s'ha enviat a validar",
-			"Adjunta i envia el treball des de la teva tasca oberta a la web."
+			"Adjunta i envia el treball des de la teva tasca oberta a la web.",
+			"La mida del fitxer no pot superar els 30 MB",
+			"Format de fitxer no acceptat"
+		],
+		[ // colombiano
+			"Entrega el trabajo personalmente o por email.",
+			"Enviar",
+			"Adjuntar trabajo",
+			"Guardar",
+			"Cancelar",
+			"Continuar",
+			"Hay preguntas sin responder. Si continúas, se enviará el ejercicio al docente para que lo evalúe. Si quieres hacer alguna modificación, haz clic en Cancelar.",
+			"No hay archivos subidos aún.",
+			"Corregir",
+			"Descargar Archivo",
+			"Archivo de la actividad",
+			"Cerrar",
+			"Cargando actividad...",
+			"Ya has realizado esta actividad antes.",
+			"Esta actividad se debe asignar como tarea para poderla realizar, o entregarla personalmente o por email.",
+			"La actividad ya ha sido enviada al docente.",
+			"El estudiante ha abierto la actividad.",
+			"Actividad aún por empezar.",
+			"Actividad",
+			"Ejercicio enviado para validación",
+			"Adjunta y envía el trabajo desde tu tarea abierta en la web.",
+			"El tamaño del archivo no puede superar 30 MB",
+			"Tipo de archivo no permitido"
+		],
+		[ // mejicano
+			"Entrega el trabajo personalmente o por email.",
+			"Enviar",
+			"Adjuntar trabajo",
+			"Guardar",
+			"Cancelar",
+			"Continuar",
+			"Hay preguntas sin responder. Si continúas, se enviará el ejercicio a tu maestro para que lo evalúe. Si quieres hacer alguna modificación, haz clic en Cancelar.",
+			"No hay archivos subidos aún.",
+			"Corregir",
+			"Descargar Archivo",
+			"Archivo de la actividad",
+			"Cerrar",
+			"Cargando actividad...",
+			"Ya has realizado esta actividad antes.",
+			"Esta actividad se debe asignar como tarea para poderla realizar, o entregarla personalmente o por email.",
+			"La actividad ya ha sido enviada al maestro.",
+			"El estudiante ha abierto la actividad.",
+			"Actividad aún por empezar.",
+			"Actividad",
+			"Ejercicio enviado para validación",
+			"Adjunta y envía el trabajo desde tu tarea abierta en la web.",
+			"El tamaño del archivo no puede superar 30 MB",
+			"Tipo de archivo no permitido"
 		],
 		[ // euskara
 			"Entregatu zuzenean irakasleari edo bidali posta elektronikoz.",
@@ -186,7 +303,9 @@ var LangRes = {
 			"Oraindik ez da jarduera hasi.",
 			"Jarduera",
 			"Ariketa behar bezala bidali da irakasleak berrikus dezan.",
-			"Adjunta y envía el trabajo desde tu tarea abierta en la web."
+			"Adjunta y envía el trabajo desde tu tarea abierta en la web.",
+			"El tamaño del archivo no puede superar 30 MB",
+			"Tipo de archivo no permitido"
 		]
 	],
 

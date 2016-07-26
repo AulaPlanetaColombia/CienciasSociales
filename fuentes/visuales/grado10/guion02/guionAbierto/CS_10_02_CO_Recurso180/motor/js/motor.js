@@ -1,3 +1,4 @@
+/* VERSION : 16.3.2.1 */ 
 	//***************************************************************
 	// Varibales y funciones generales
 	//***************************************************************
@@ -9,6 +10,7 @@
 	var scormConfig;
 	var lastFileValue = "";
 	var xmlDocu;
+	var notAcceptedFormats = ['exe', 'js', 'asp', 'aspx', 'php', 'py', 'pyc', 'pyd', 'dll'];
 	var resiz = new XResize('contenedor_actividad');
 
 	var IDTarea = 0;
@@ -803,8 +805,9 @@
 
 	function readyMain() {
 			// para test
-		//scormConfig.mode = aulaPlaneta.SCORM.MODO_REVIEW;
-		//scormConfig.suspend_data = "";
+		//scormConfig.mode = aulaPlaneta.SCORM.MODO_NORMAL;
+		//scormConfig.suspend_data = "";//"a||b";
+		//scormConfig.completed = 'completed';
 		// Distinguimos entre tipo de ejercicio M102 a o b
 		var amano = XDOM.valueOfNode(xmlDocu, "amano");
 		if (amano == "") amano = "0";
@@ -954,7 +957,9 @@
 							$('#contenedor_actividad .pie input .upl').css('width', '420px');
 							$('#contenedor_actividad .pie .form_adj_txt input').css('visibility', 'visible');
 							lastFileValue = fileName;
+							setTimeout(function() { // dar tiempo al dom para que sea visible
 							$('#contenedor_actividad .pie .form_adj_txt input').val(lastFileValue);
+							}, 1);
 							$('#descarga_alumno').html('<a href="' + anchorRuta + '" target="_blank"><div style="margin: 0; padding: 0;"></div></a>');
 						}
 					}
@@ -962,6 +967,15 @@
 				if (scormConfig.completed != 'completed') {
 					$('#buttonEndAction').html('<input type="button" name="endActionBut" value="'+LangRes.curLang[LangRes.ENVIAR]+'" class="corregir_bt" alt="'+LangRes.curLang[LangRes.ENVIAR]+'" title="'+LangRes.curLang[LangRes.ENVIAR]+'" onClick="endAction();" />');
 					$('#cajaSubir').children('.adjuntar').html(LangRes.curLang[LangRes.ADJUNTAR]);
+					var msg = "<span class=\"central_msg\">" + LangRes.curLang[LangRes.FILE_UPLOAD_MAX_SIZE] + "</span>";
+					$('.form_adj_txt').html($('.form_adj_txt').html() + msg);
+					setTimeout(function () {
+						if (scormConfig.suspend_data == "" || scormConfig.suspend_data == null) {
+							$('.central_msg').css('margin-top', '3px');
+							$('#uploadField').css('display', 'none');
+						}
+						$('.form_adj_txt').css('width', '550px');
+					}, 1);
 				}else {
 					$('#buttonEndAction').html('');
 					$('#cajaSubir').toggleClass('form_adj');
@@ -1045,6 +1059,23 @@
 	function sendStorePetition(inputElem) {
 		//alert('MODO: ' + modo+" SUSP: "+scormConfig.suspend_data+" COMPL.: "+completed);
 		var newFileName = inputElem.value;
+		// Comprobación de ficheros no admitidos
+		var fileName = getFileNameFromFullPath(newFileName)
+		//console.log(newFileName, getFileNameFromFullPath(newFileName));
+		var adjunto = $.trim(fileName);
+		var dotIndex = adjunto.lastIndexOf(".");
+		var extension = "";
+		if (dotIndex != -1)
+			extension = adjunto.substring(dotIndex+1).toLowerCase();
+		//else
+		//	alert("Error adjunto sin extension " + adjunto);
+		for (var i = 0; i < notAcceptedFormats.length; i++) {
+			if (notAcceptedFormats[i] == extension) {
+				$('.central_msg').html(LangRes.curLang[LangRes.FILE_UPLOAD_NO_ACCEPTED]);
+				return;
+			}
+		}
+		$('.central_msg').html("");
 		//alert(URL);
 		if (newFileName != "" && URL != "") {
 			// prepare Options Object
@@ -1068,6 +1099,7 @@
 					lastFileValue = getFileNameFromFullPath(newFileName);
 					$('#contenedor_actividad .pie .form_adj_txt input').val(lastFileValue);
 					$('#descarga_alumno').html('<a href="' + rutaURL + '" target="_blank"><div style="margin: 0; padding: 0;"></div></a>');
+					$('#uploadField').css('display', 'block');
 				},
 				error:		function(jqXHR, textStatus, errorThrown) {
 					alert("Error en petición a " + URL + ":\n - Status: " + textStatus + ".\n - Error: " + errorThrown);

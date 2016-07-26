@@ -1030,11 +1030,10 @@
 				if (options.onToolbarChanged) {
 					options.onToolbarChanged(cepda, options);
 				}
-
+				
 				// 8/10/2015 - en iOS 9, si usamos touchstart como evento de origen del playMedia(), el vídeo
 				// no arranca. En cambio si usamos click sí que lo hace.
 				// CAMBIAMOS 'touchstart' por 'click' siempre.
-				
 				// Click del botón play/pause
 				cepda.$playBtn.bind( (is_touch_device) ? 'click' /*'touchstart'*/ : 'click', playMedia);
 				

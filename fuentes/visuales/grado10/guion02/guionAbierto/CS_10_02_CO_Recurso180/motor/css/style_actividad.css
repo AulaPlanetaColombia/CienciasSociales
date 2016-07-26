@@ -71,7 +71,7 @@ body {
 		#contenedor_actividad .top h1{ float:left; width:700px; font-size:15px; font-family:Georgia, "Times New Roman", Times, serif; font-weight:normal; color:#FFF; margin:0; padding:0; line-height:30px;font-weight:normal;}
 		#contenedor_actividad .top .cerrar{ float:right; width:30px; border:none;}
 			#contenedor_actividad .top .cerrar img{ border:none; margin-top:2px;}
-	#contenedor_actividad .entradilla{ padding:1px 15px; color:#0b3158; font-family:Arial, Helvetica, sans-serif; line-height:22px; font-size:15px; min-height: 70px; }
+	#contenedor_actividad .entradilla{ padding:1px 15px; color:#0b3158; font-family:Arial, Helvetica, sans-serif; line-height:22px; font-size:15px; min-height: 70px;  height: 70px; overflow: hidden; clear: both; }
 	
 	
 /* FIN TOP */
