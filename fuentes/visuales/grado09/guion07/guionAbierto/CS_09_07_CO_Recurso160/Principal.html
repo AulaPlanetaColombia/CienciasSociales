@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Cronología: el mundo actual</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+
+        <script src="extlib/createjs/2013_12_12/createjs-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/movieclip-0-7-1-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/zoom.js"></script>
+        <script src="js/principal.js"></script>
+
+        <script>
+            var canvas, stage, exportRoot, incremento,popupon;
+            window.onresize = function ()
+            {
+                onResize();
+            }
+            
+
+            function init() {
+
+                canvas = document.getElementById("canvas");
+                images = images || {};
+                if (navigator.userAgent.toLowerCase().indexOf("firefox") == -1)
+                    incremento = 0;
+                else
+                    incremento = 4;
+                var manifest = [
+                    {src:"images/_0000TT401.jpg", id:"_0000TT401"},
+		{src:"images/_000E9M01.jpg", id:"_000E9M01"},
+		{src:"images/_000E9M01_ParaAudio.jpg", id:"_000E9M01_ParaAudio"},
+		{src:"images/_000XD401.jpg", id:"_000XD401"},
+		{src:"images/_0012RG01.jpg", id:"_0012RG01"},
+		{src:"images/_0017O101.jpg", id:"_0017O101"},
+		{src:"images/_00189A01.jpg", id:"_00189A01"},
+		{src:"images/_001EPS01.jpg", id:"_001EPS01"},
+		{src:"images/_001FXA01.jpg", id:"_001FXA01"},
+		{src:"images/_001Q7501.jpg", id:"_001Q7501"},
+		{src:"images/_001TC801_Pop.jpg", id:"_001TC801_Pop"},
+		{src:"images/_1_shutterstock_83242105.jpg", id:"_1_shutterstock_83242105"},
+		{src:"images/_2_shutterstock_72263485.jpg", id:"_2_shutterstock_72263485"},
+		{src:"images/_3_shutterstock_84357535.jpg", id:"_3_shutterstock_84357535"},
+		{src:"images/_4_DaytonAgreementSENSECOPYRIGHT.jpg", id:"_4_DaytonAgreementSENSECOPYRIGHT"},
+		{src:"images/_5_shutterstock_779873.jpg", id:"_5_shutterstock_779873"},
+		{src:"images/_6_shutterstock_4234144.jpg", id:"_6_shutterstock_4234144"},
+		{src:"images/_7_shutterstock_6505642.jpg", id:"_7_shutterstock_6505642"},
+		{src:"images/_8_shutterstock_25243708.jpg", id:"_8_shutterstock_25243708"},
+		{src:"images/_9_shutterstock_61734760.jpg", id:"_9_shutterstock_61734760"},
+		{src:"images/Bitmap21copy.jpg", id:"Bitmap21copy"},
+		{src:"images/Bitmap22copy.jpg", id:"Bitmap22copy"},
+		{src:"images/Bitmap23copy.jpg", id:"Bitmap23copy"},
+		{src:"images/Bitmap24copy.jpg", id:"Bitmap24copy"},
+		{src:"images/Bitmap25copy.jpg", id:"Bitmap25copy"},
+		{src:"images/Bitmap26copy.jpg", id:"Bitmap26copy"},
+		{src:"images/Bitmap27copy.jpg", id:"Bitmap27copy"},
+		{src:"images/Bitmap28copy.jpg", id:"Bitmap28copy"},
+		{src:"images/Bitmap29copy.jpg", id:"Bitmap29copy"},
+		{src:"images/Bitmap30copy.jpg", id:"Bitmap30copy"},
+		{src:"images/Bitmap31copy.jpg", id:"Bitmap31copy"},
+		{src:"images/Bitmap32copy.jpg", id:"Bitmap32copy"},
+		{src:"images/Bitmap33.jpg", id:"Bitmap33"},
+		{src:"images/Bitmap34.jpg", id:"Bitmap34"},
+		{src:"images/Bitmap35.jpg", id:"Bitmap35"},
+		{src:"images/Bitmap36.jpg", id:"Bitmap36"},
+		{src:"images/Bitmap37.jpg", id:"Bitmap37"},
+		{src:"images/Bitmap38.jpg", id:"Bitmap38"},
+		{src:"images/Bitmap39.jpg", id:"Bitmap39"},
+		{src:"images/Mapadebits1.png", id:"Mapadebits1"},
+		{src:"images/Mapadebits10.png", id:"Mapadebits10"},
+		{src:"images/Mapadebits11.png", id:"Mapadebits11"},
+		{src:"images/Mapadebits12.png", id:"Mapadebits12"},
+		{src:"images/Mapadebits13.png", id:"Mapadebits13"},
+		{src:"images/Mapadebits14.png", id:"Mapadebits14"},
+		{src:"images/Mapadebits15.png", id:"Mapadebits15"},
+		{src:"images/Mapadebits16.png", id:"Mapadebits16"},
+		{src:"images/Mapadebits17.png", id:"Mapadebits17"},
+		{src:"images/Mapadebits18.png", id:"Mapadebits18"},
+		{src:"images/Mapadebits19.png", id:"Mapadebits19"},
+		{src:"images/Mapadebits2.png", id:"Mapadebits2"},
+		{src:"images/Mapadebits20.png", id:"Mapadebits20"},
+		{src:"images/Mapadebits21.png", id:"Mapadebits21"},
+		{src:"images/Mapadebits3.png", id:"Mapadebits3"},
+		{src:"images/Mapadebits4.png", id:"Mapadebits4"},
+		{src:"images/Mapadebits5.png", id:"Mapadebits5"},
+		{src:"images/Mapadebits6.png", id:"Mapadebits6"},
+		{src:"images/Mapadebits7.png", id:"Mapadebits7"},
+		{src:"images/Mapadebits8.png", id:"Mapadebits8"},
+		{src:"images/Mapadebits9.png", id:"Mapadebits9"},
+                ];
+
+                var loader = new createjs.LoadQueue(false);
+                loader.addEventListener("fileload", handleFileLoad);
+                loader.addEventListener("complete", handleComplete);
+                loader.loadManifest(manifest);
+                loadXML();
+            }
+
+            function handleFileLoad(evt) {
+                if (evt.item.type == "image") {
+                    images[evt.item.id] = evt.result;
+                }
+            }
+            function putStage(myStage) {
+
+                if (exportRoot) {
+                    exportRoot.removeAllChildren();
+                }
+                exportRoot = myStage;
+                stage = new createjs.Stage(canvas);
+                stage.clear();
+                createjs.Ticker.removeAllEventListeners();
+                stage.autoClear = true; // This must be true to clear the stage.
+                stage.removeAllChildren();
+
+                stage.addChild(exportRoot);
+                stage.update();
+                stage.enableMouseOver();
+                onResize();
+                createjs.Ticker.setFPS(24);
+                createjs.Ticker.addEventListener("tick", stage);
+            }
+            function handleComplete() {
+                var child = document.getElementById("loading");
+                if (child != null)
+                    child.parentNode.removeChild(child);
+                putStage(new lib.frame1())
+
+            }
+            function loadXML() {
+                xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("GET", "data/datos.xml", false);
+                xmlhttp.send();
+                xmlDoc = xmlhttp.responseXML;
+                x = xmlDoc.getElementsByTagName("XMLDatos")[0].childNodes;
+                y = xmlDoc.getElementsByTagName("XMLDatos")[0].firstChild;
+                for (i = 0; i < x.length; i++)
+                {
+                    if (y.nodeType == 1)
+                    {//Process only element nodes (type 1)
+                        j = xmlDoc.getElementsByTagName(y.nodeName)[0].childNodes[0]
+                        textos[y.nodeName] = j.nodeValue;
+                    }
+                    y = y.nextSibling;
+                }
+            }
+        </script>
+    </head>
+
+    <body onload="init();" onorientationchange="onResize();" style="background-color:#FFFFFF" ><div id="loading" align="center" style="position: absolute;top:50%;left:50%;width:400px;margin-left:-200px;height:300px;margin-top:-150px;" ><img src="images/status.gif"/></div>
+        <canvas id="canvas" width="950" height="608" style="background-color:transparent"></canvas>
+    </body>
+</html>
